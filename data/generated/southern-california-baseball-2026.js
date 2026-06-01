@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.southern-california2026 = {
-  "generatedAt": "2026-05-31T10:56:30.583Z",
+  "generatedAt": "2026-06-01T12:14:05.632Z",
   "season": 2026,
   "school": {
     "slug": "southern-california",
@@ -29,7 +29,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
     "espnRosterPlayers": 0,
     "playersWithHittingStats": 18,
     "playersWithPitchingStats": 18,
-    "playersWithFieldingStats": 30,
+    "playersWithFieldingStats": 31,
     "mergedPlayersWithAnyStats": 35,
     "matchedEspnPlayers": 0,
     "unmatchedStatRows": {
@@ -39,84 +39,84 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
     }
   },
   "teamSummary": {
-    "record": "44-16, 20-10",
-    "battingAverage": ".277",
+    "record": "46-16, 20-10",
+    "battingAverage": ".281",
     "earnedRunAverage": "3.52",
-    "wins": "44",
+    "wins": "46",
     "losses": "16",
     "hitting": {
-      "atBats": "1976",
-      "runsScored": "416",
-      "hits": "547",
-      "runsBattedIn": "381",
-      "doubles": "123",
+      "atBats": "2054",
+      "runsScored": "445",
+      "hits": "578",
+      "runsBattedIn": "409",
+      "doubles": "129",
       "triples": "15",
-      "homeRuns": "83",
-      "walks": "272",
+      "homeRuns": "87",
+      "walks": "285",
       "intentionalWalks": "6",
-      "strikeouts": "436",
-      "strikeoutsLooking": "100",
-      "hitByPitch": "76",
-      "stolenBases": "58",
-      "caughtStealing": "17",
-      "sacrificeHits": "32",
+      "strikeouts": "454",
+      "strikeoutsLooking": "104",
+      "hitByPitch": "79",
+      "stolenBases": "59",
+      "caughtStealing": "19",
+      "sacrificeHits": "35",
       "sacrificeFlies": "34",
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "486",
-      "flyOuts": "543",
-      "groundedIntoDoublePlay": "25",
+      "groundOuts": "506",
+      "flyOuts": "555",
+      "groundedIntoDoublePlay": "26",
       "pickedOff": "11",
-      "doublePlaysHitInto": "29",
+      "doublePlaysHitInto": "30",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1581",
-      "assists": "457",
-      "errors": "42",
+      "putouts": "1635",
+      "assists": "472",
+      "errors": "43",
       "passedBalls": "6",
       "catchersInterference": "0",
-      "stolenBasesAgainst": "23",
+      "stolenBasesAgainst": "24",
       "caughtStealingBy": "8",
-      "involvedInDoublePlays": "32",
+      "involvedInDoublePlays": "34",
       "involvedInTriplePlays": "0",
-      "totalChances": "2080",
+      "totalChances": "2150",
       "fieldingPercentage": ".980"
     },
     "pitching": {
       "orderOfAppearance": "0",
-      "wins": "43",
+      "wins": "45",
       "saves": "16",
       "losses": "16",
       "gamesStarted": "0",
       "gamesCompleted": "1",
       "shutouts": "10",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "527.0",
-      "hitsAllowed": "409",
-      "runsAllowed": "231",
-      "earnedRunsAllowed": "206",
-      "walksAllowed": "223",
-      "strikeouts": "595",
-      "battersFaced": "2247",
-      "opponentAtBats": "1949",
-      "doublesAllowed": "78",
-      "triplesAllowed": "5",
-      "homerunsAllowed": "55",
+      "inningsPitched": "545.0",
+      "hitsAllowed": "426",
+      "runsAllowed": "238",
+      "earnedRunsAllowed": "213",
+      "walksAllowed": "230",
+      "strikeouts": "610",
+      "battersFaced": "2326",
+      "opponentAtBats": "2018",
+      "doublesAllowed": "80",
+      "triplesAllowed": "6",
+      "homerunsAllowed": "58",
       "wildPitches": "53",
       "balks": "6",
-      "hitBatters": "42",
-      "strikeoutsLooking": "189",
+      "hitBatters": "45",
+      "strikeoutsLooking": "195",
       "intentionalWalks": "6",
       "inheritedRunners": "0",
       "inheritedRunnersThatScored": "0",
       "sacrificeHitsAllowed": "18",
       "sacrificeFliesAllowed": "15",
       "catchersInterferenceAllowed": "0",
-      "pitches": "8861",
-      "flyouts": "516",
-      "groundouts": "429",
+      "pitches": "9172",
+      "flyouts": "539",
+      "groundouts": "443",
       "teamUnearnedRuns": "0",
       "saveRecord": "16",
       "pickoff": "2"
@@ -306,8 +306,8 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "jersey": "4",
         "profileUrl": "https://usctrojans.com/sports/baseball/roster/diego-velazquez/18009",
         "imageUrl": "https://usctrojans.com/images/2025/12/17/Velazquez__Diego_.jpg",
-        "gamesPlayed": 25,
-        "gamesStarted": 9,
+        "gamesPlayed": 26,
+        "gamesStarted": 10,
         "battingAverage": 0.167,
         "onBasePercentage": 0.348,
         "sluggingPercentage": 0.222,
@@ -343,31 +343,31 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "jersey": "4",
         "profileUrl": "https://usctrojans.com/sports/baseball/roster/diego-velazquez/18009",
         "imageUrl": "https://usctrojans.com/images/2025/12/17/Velazquez__Diego_.jpg",
-        "gamesPlayed": 14,
-        "gamesStarted": 4,
-        "appearances": 14,
+        "gamesPlayed": 15,
+        "gamesStarted": 5,
+        "appearances": 15,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.13,
-        "whip": 0.95,
+        "earnedRunAverage": 4.26,
+        "whip": 1.04,
         "wins": 5,
         "losses": 1,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 28.333333333333332,
-        "inningsPitchedDisplay": "28.1",
-        "hitsAllowed": 21,
-        "runsAllowed": 13,
-        "earnedRunsAllowed": 13,
-        "walksAllowed": 6,
-        "strikeouts": 31,
-        "doublesAllowed": 2,
+        "inningsPitched": 31.666666666666668,
+        "inningsPitchedDisplay": "31.2",
+        "hitsAllowed": 24,
+        "runsAllowed": 15,
+        "earnedRunsAllowed": 15,
+        "walksAllowed": 9,
+        "strikeouts": 34,
+        "doublesAllowed": 3,
         "triplesAllowed": 1,
-        "homeRunsAllowed": 5,
-        "opponentsAtBats": 103,
+        "homeRunsAllowed": 6,
+        "opponentsAtBats": 116,
         "wildPitches": 1,
-        "hitBatters": 1,
+        "hitBatters": 2,
         "balks": 0,
-        "opponentsBattingAverage": 0.204,
+        "opponentsBattingAverage": 0.207,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -392,7 +392,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "totalChances": 19
       },
       "evaluation": {
-        "score": 24,
+        "score": 19,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -400,40 +400,40 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 53.15508021390375,
-          "Command": 83.33333333333334,
+          "Miss bats": 51.48325358851674,
+          "Command": 55.55555555555555,
           "Damage suppression": 0
         },
         "summary": "Diego Velazquez looks like a INF/RHP option who misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 4.13",
-          "WHIP 0.95",
-          "K/9 9.8"
+          "ERA 4.26",
+          "WHIP 1.04",
+          "K/9 9.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.13"
+            "value": "4.26"
           },
           {
             "label": "WHIP",
-            "value": "0.95"
+            "value": "1.04"
           },
           {
             "label": "K/9",
-            "value": "9.8"
+            "value": "9.7"
           },
           {
             "label": "BB/9",
-            "value": "1.9"
+            "value": "2.6"
           },
           {
             "label": "HR/9",
-            "value": "1.59"
+            "value": "1.71"
           },
           {
             "label": "IP",
-            "value": "28.3"
+            "value": "31.7"
           }
         ],
         "metaLine": "FR / N/A",
@@ -484,34 +484,34 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "jersey": "5",
         "profileUrl": "https://usctrojans.com/sports/baseball/roster/adrian-lopez/17997",
         "imageUrl": "https://usctrojans.com/images/2025/12/17/Lopez__Adrian.jpg",
-        "gamesPlayed": 59,
-        "gamesStarted": 58,
-        "battingAverage": 0.308,
-        "onBasePercentage": 0.386,
-        "sluggingPercentage": 0.555,
-        "ops": 0.941,
-        "atBats": 227,
-        "runs": 60,
-        "hits": 70,
+        "gamesPlayed": 61,
+        "gamesStarted": 60,
+        "battingAverage": 0.302,
+        "onBasePercentage": 0.385,
+        "sluggingPercentage": 0.54,
+        "ops": 0.925,
+        "atBats": 235,
+        "runs": 64,
+        "hits": 71,
         "doubles": 13,
         "triples": 2,
         "homeRuns": 13,
         "runsBattedIn": 46,
-        "totalBases": 126,
-        "walks": 29,
-        "hitByPitch": 4,
-        "strikeouts": 33,
+        "totalBases": 127,
+        "walks": 31,
+        "hitByPitch": 5,
+        "strikeouts": 37,
         "intentionalWalks": 3,
         "groundedIntoDoublePlay": 7,
         "sacrificeFlies": 7,
         "sacrificeHits": 1,
         "stolenBases": 7,
-        "stolenBasesAttempts": 8,
-        "putouts": 356,
+        "stolenBasesAttempts": 9,
+        "putouts": 368,
         "assists": 0,
         "errors": 8,
-        "plateAppearances": 277,
-        "caughtStealing": 1,
+        "plateAppearances": 290,
+        "caughtStealing": 2,
         "pickedOff": 2
       },
       "pitchingStats": null,
@@ -522,51 +522,51 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "jersey": "5",
         "profileUrl": "https://usctrojans.com/sports/baseball/roster/adrian-lopez/17997",
         "imageUrl": "https://usctrojans.com/images/2025/12/17/Lopez__Adrian.jpg",
-        "gamesPlayed": 58,
-        "gamesStarted": 57,
-        "putouts": 356,
-        "assists": 37,
+        "gamesPlayed": 60,
+        "gamesStarted": 59,
+        "putouts": 368,
+        "assists": 39,
         "errors": 8,
-        "fieldingPercentage": 0.98,
-        "doublePlays": 26,
+        "fieldingPercentage": 0.981,
+        "doublePlays": 28,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 401
+        "totalChances": 415
       },
       "evaluation": {
-        "score": 58,
+        "score": 55,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 58.88888888888888,
-          "Power": 61.84210526315791,
-          "Contact": 54.99999999999999,
-          "Discipline": 75.4208754208754,
+          "On-base": 58.33333333333333,
+          "Power": 57.894736842105274,
+          "Contact": 51.24999999999999,
+          "Discipline": 70.87087087087085,
           "Speed": 23.333333333333332
         },
-        "summary": "Adrian Lopez profiles as a INF piece who brings real extra-base damage.",
+        "summary": "Adrian Lopez gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .308",
-          "OBP .386",
-          "SLG .555"
+          "AVG .302",
+          "OBP .385",
+          "SLG .540"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".308"
+            "value": ".302"
           },
           {
             "label": "OBP",
-            "value": ".386"
+            "value": ".385"
           },
           {
             "label": "SLG",
-            "value": ".555"
+            "value": ".540"
           },
           {
             "label": "HR",
@@ -629,33 +629,33 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "jersey": "6",
         "profileUrl": "https://usctrojans.com/sports/baseball/roster/dean-carpentier/17988",
         "imageUrl": "https://usctrojans.com/images/2025/12/17/Carpentier__Dean.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 37,
-        "battingAverage": 0.237,
-        "onBasePercentage": 0.378,
-        "sluggingPercentage": 0.404,
-        "ops": 0.782,
-        "atBats": 114,
-        "runs": 21,
-        "hits": 27,
+        "gamesPlayed": 41,
+        "gamesStarted": 39,
+        "battingAverage": 0.246,
+        "onBasePercentage": 0.382,
+        "sluggingPercentage": 0.402,
+        "ops": 0.784,
+        "atBats": 122,
+        "runs": 23,
+        "hits": 30,
         "doubles": 8,
         "triples": 1,
         "homeRuns": 3,
         "runsBattedIn": 25,
-        "totalBases": 46,
-        "walks": 15,
+        "totalBases": 49,
+        "walks": 16,
         "hitByPitch": 12,
         "strikeouts": 31,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 2,
-        "sacrificeHits": 5,
+        "sacrificeHits": 6,
         "stolenBases": 4,
         "stolenBasesAttempts": 6,
-        "putouts": 123,
+        "putouts": 125,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 156,
+        "plateAppearances": 166,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -667,10 +667,10 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "jersey": "6",
         "profileUrl": "https://usctrojans.com/sports/baseball/roster/dean-carpentier/17988",
         "imageUrl": "https://usctrojans.com/images/2025/12/17/Carpentier__Dean.jpg",
-        "gamesPlayed": 34,
-        "gamesStarted": 32,
-        "putouts": 123,
-        "assists": 53,
+        "gamesPlayed": 36,
+        "gamesStarted": 34,
+        "putouts": 125,
+        "assists": 54,
         "errors": 2,
         "fieldingPercentage": 0.989,
         "doublePlays": 13,
@@ -679,39 +679,39 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 178
+        "totalChances": 181
       },
       "evaluation": {
-        "score": 31,
+        "score": 33,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 54.44444444444443,
-          "Power": 22.105263157894743,
-          "Contact": 10.624999999999991,
-          "Discipline": 31.54121863799283,
+          "On-base": 56.66666666666666,
+          "Power": 21.578947368421062,
+          "Contact": 16.249999999999996,
+          "Discipline": 35.12544802867383,
           "Speed": 13.333333333333334
         },
         "summary": "Dean Carpentier gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .237",
-          "OBP .378",
-          "SLG .404"
+          "AVG .246",
+          "OBP .382",
+          "SLG .402"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".237"
+            "value": ".246"
           },
           {
             "label": "OBP",
-            "value": ".378"
+            "value": ".382"
           },
           {
             "label": "SLG",
-            "value": ".404"
+            "value": ".402"
           },
           {
             "label": "HR",
@@ -774,33 +774,33 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "jersey": "7",
         "profileUrl": "https://usctrojans.com/sports/baseball/roster/abbrie-covarrubias/17989",
         "imageUrl": "https://usctrojans.com/images/2025/12/17/Covarrubias__Abbrie_.jpg",
-        "gamesPlayed": 51,
-        "gamesStarted": 49,
-        "battingAverage": 0.279,
+        "gamesPlayed": 53,
+        "gamesStarted": 51,
+        "battingAverage": 0.276,
         "onBasePercentage": 0.379,
-        "sluggingPercentage": 0.395,
-        "ops": 0.774,
-        "atBats": 190,
-        "runs": 37,
-        "hits": 53,
-        "doubles": 9,
+        "sluggingPercentage": 0.392,
+        "ops": 0.771,
+        "atBats": 199,
+        "runs": 38,
+        "hits": 55,
+        "doubles": 10,
         "triples": 2,
         "homeRuns": 3,
-        "runsBattedIn": 28,
-        "totalBases": 75,
-        "walks": 25,
-        "hitByPitch": 7,
-        "strikeouts": 33,
+        "runsBattedIn": 29,
+        "totalBases": 78,
+        "walks": 26,
+        "hitByPitch": 8,
+        "strikeouts": 35,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 2,
-        "sacrificeHits": 2,
+        "sacrificeHits": 3,
         "stolenBases": 17,
         "stolenBasesAttempts": 23,
-        "putouts": 68,
+        "putouts": 74,
         "assists": 0,
         "errors": 3,
-        "plateAppearances": 255,
+        "plateAppearances": 267,
         "caughtStealing": 6,
         "pickedOff": 2
       },
@@ -812,43 +812,43 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "jersey": "7",
         "profileUrl": "https://usctrojans.com/sports/baseball/roster/abbrie-covarrubias/17989",
         "imageUrl": "https://usctrojans.com/images/2025/12/17/Covarrubias__Abbrie_.jpg",
-        "gamesPlayed": 47,
-        "gamesStarted": 46,
-        "putouts": 68,
-        "assists": 101,
+        "gamesPlayed": 49,
+        "gamesStarted": 48,
+        "putouts": 74,
+        "assists": 105,
         "errors": 3,
-        "fieldingPercentage": 0.983,
-        "doublePlays": 20,
+        "fieldingPercentage": 0.984,
+        "doublePlays": 22,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 172
+        "totalChances": 182
       },
       "evaluation": {
-        "score": 44,
+        "score": 43,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
           "On-base": 54.99999999999999,
-          "Power": 19.736842105263165,
-          "Contact": 36.875000000000014,
-          "Discipline": 61.95286195286195,
+          "Power": 18.947368421052634,
+          "Contact": 35.000000000000014,
+          "Discipline": 60.317460317460316,
           "Speed": 56.666666666666664
         },
         "summary": "Abbrie Covarrubias profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .279",
+          "AVG .276",
           "OBP .379",
-          "SLG .395"
+          "SLG .392"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".279"
+            "value": ".276"
           },
           {
             "label": "OBP",
@@ -856,7 +856,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
           },
           {
             "label": "SLG",
-            "value": ".395"
+            "value": ".392"
           },
           {
             "label": "HR",
@@ -864,7 +864,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
           },
           {
             "label": "RBI",
-            "value": "28"
+            "value": "29"
           },
           {
             "label": "SB",
@@ -919,33 +919,33 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "jersey": "8",
         "profileUrl": "https://usctrojans.com/sports/baseball/roster/kevin-takeuchi/18003",
         "imageUrl": "https://usctrojans.com/images/2025/12/17/Takeuchi__Kevin.jpg",
-        "gamesPlayed": 60,
-        "gamesStarted": 60,
-        "battingAverage": 0.307,
-        "onBasePercentage": 0.417,
-        "sluggingPercentage": 0.528,
-        "ops": 0.945,
-        "atBats": 218,
-        "runs": 59,
-        "hits": 67,
+        "gamesPlayed": 62,
+        "gamesStarted": 62,
+        "battingAverage": 0.311,
+        "onBasePercentage": 0.418,
+        "sluggingPercentage": 0.535,
+        "ops": 0.953,
+        "atBats": 228,
+        "runs": 63,
+        "hits": 71,
         "doubles": 18,
         "triples": 3,
-        "homeRuns": 8,
-        "runsBattedIn": 53,
-        "totalBases": 115,
-        "walks": 42,
+        "homeRuns": 9,
+        "runsBattedIn": 59,
+        "totalBases": 122,
+        "walks": 43,
         "hitByPitch": 4,
-        "strikeouts": 39,
+        "strikeouts": 42,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 7,
         "sacrificeHits": 1,
         "stolenBases": 14,
         "stolenBasesAttempts": 15,
-        "putouts": 139,
+        "putouts": 143,
         "assists": 0,
         "errors": 6,
-        "plateAppearances": 288,
+        "plateAppearances": 299,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -957,19 +957,19 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "jersey": "8",
         "profileUrl": "https://usctrojans.com/sports/baseball/roster/kevin-takeuchi/18003",
         "imageUrl": "https://usctrojans.com/images/2025/12/17/Takeuchi__Kevin.jpg",
-        "gamesPlayed": 56,
-        "gamesStarted": 56,
-        "putouts": 139,
-        "assists": 27,
+        "gamesPlayed": 58,
+        "gamesStarted": 58,
+        "putouts": 143,
+        "assists": 32,
         "errors": 6,
-        "fieldingPercentage": 0.965,
-        "doublePlays": 6,
+        "fieldingPercentage": 0.967,
+        "doublePlays": 7,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 172
+        "totalChances": 181
       },
       "evaluation": {
         "score": 67,
@@ -978,38 +978,38 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 76.11111111111109,
-          "Power": 54.73684210526317,
-          "Contact": 54.37499999999999,
-          "Discipline": 97.43589743589742,
+          "On-base": 76.66666666666664,
+          "Power": 56.57894736842106,
+          "Contact": 56.875,
+          "Discipline": 91.53439153439152,
           "Speed": 46.666666666666664
         },
         "summary": "Kevin Takeuchi profiles as a INF/OF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .307",
-          "OBP .417",
-          "SLG .528"
+          "AVG .311",
+          "OBP .418",
+          "SLG .535"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".307"
+            "value": ".311"
           },
           {
             "label": "OBP",
-            "value": ".417"
+            "value": ".418"
           },
           {
             "label": "SLG",
-            "value": ".528"
+            "value": ".535"
           },
           {
             "label": "HR",
-            "value": "8"
+            "value": "9"
           },
           {
             "label": "RBI",
-            "value": "53"
+            "value": "59"
           },
           {
             "label": "SB",
@@ -1064,20 +1064,20 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "jersey": "9",
         "profileUrl": "https://usctrojans.com/sports/baseball/roster/maddox-riske/18001",
         "imageUrl": "https://usctrojans.com/images/2025/12/17/Riske__Maddox.jpg",
-        "gamesPlayed": 47,
+        "gamesPlayed": 49,
         "gamesStarted": 43,
-        "battingAverage": 0.191,
-        "onBasePercentage": 0.263,
-        "sluggingPercentage": 0.241,
-        "ops": 0.504,
-        "atBats": 141,
-        "runs": 14,
-        "hits": 27,
+        "battingAverage": 0.203,
+        "onBasePercentage": 0.272,
+        "sluggingPercentage": 0.252,
+        "ops": 0.524,
+        "atBats": 143,
+        "runs": 15,
+        "hits": 29,
         "doubles": 4,
         "triples": 0,
         "homeRuns": 1,
-        "runsBattedIn": 16,
-        "totalBases": 34,
+        "runsBattedIn": 18,
+        "totalBases": 36,
         "walks": 12,
         "hitByPitch": 2,
         "strikeouts": 21,
@@ -1090,7 +1090,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "putouts": 42,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 169,
+        "plateAppearances": 171,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -1102,19 +1102,19 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "jersey": "9",
         "profileUrl": "https://usctrojans.com/sports/baseball/roster/maddox-riske/18001",
         "imageUrl": "https://usctrojans.com/images/2025/12/17/Riske__Maddox.jpg",
-        "gamesPlayed": 42,
+        "gamesPlayed": 44,
         "gamesStarted": 40,
         "putouts": 42,
-        "assists": 87,
+        "assists": 89,
         "errors": 2,
         "fieldingPercentage": 0.985,
-        "doublePlays": 12,
+        "doublePlays": 13,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 131
+        "totalChances": 133
       },
       "evaluation": {
         "score": 7,
@@ -1131,22 +1131,22 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         },
         "summary": "Maddox Riske gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .191",
-          "OBP .263",
-          "SLG .241"
+          "AVG .203",
+          "OBP .272",
+          "SLG .252"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".191"
+            "value": ".203"
           },
           {
             "label": "OBP",
-            "value": ".263"
+            "value": ".272"
           },
           {
             "label": "SLG",
-            "value": ".241"
+            "value": ".252"
           },
           {
             "label": "HR",
@@ -1154,7 +1154,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
           },
           {
             "label": "RBI",
-            "value": "16"
+            "value": "18"
           },
           {
             "label": "SB",
@@ -1588,31 +1588,31 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "jersey": "13",
         "profileUrl": "https://usctrojans.com/sports/baseball/roster/andrew-johnson/17995",
         "imageUrl": "https://usctrojans.com/images/2025/12/17/Johnson__Andrew.jpg",
-        "gamesPlayed": 20,
-        "gamesStarted": 10,
-        "appearances": 20,
+        "gamesPlayed": 21,
+        "gamesStarted": 11,
+        "appearances": 21,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.44,
-        "whip": 1.24,
-        "wins": 6,
+        "earnedRunAverage": 3.46,
+        "whip": 1.25,
+        "wins": 7,
         "losses": 2,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 73.33333333333333,
-        "inningsPitchedDisplay": "73.1",
-        "hitsAllowed": 65,
-        "runsAllowed": 33,
-        "earnedRunsAllowed": 28,
-        "walksAllowed": 26,
-        "strikeouts": 75,
+        "inningsPitched": 80.66666666666667,
+        "inningsPitchedDisplay": "80.2",
+        "hitsAllowed": 74,
+        "runsAllowed": 36,
+        "earnedRunsAllowed": 31,
+        "walksAllowed": 27,
+        "strikeouts": 79,
         "doublesAllowed": 7,
-        "triplesAllowed": 2,
-        "homeRunsAllowed": 12,
-        "opponentsAtBats": 281,
+        "triplesAllowed": 3,
+        "homeRunsAllowed": 14,
+        "opponentsAtBats": 311,
         "wildPitches": 2,
-        "hitBatters": 4,
+        "hitBatters": 5,
         "balks": 0,
-        "opponentsBattingAverage": 0.231,
+        "opponentsBattingAverage": 0.238,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -1622,14 +1622,14 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "jersey": "13",
         "profileUrl": "https://usctrojans.com/sports/baseball/roster/andrew-johnson/17995",
         "imageUrl": "https://usctrojans.com/images/2025/12/17/Johnson__Andrew.jpg",
-        "gamesPlayed": 10,
-        "gamesStarted": 6,
+        "gamesPlayed": 11,
+        "gamesStarted": 7,
         "putouts": 2,
         "assists": 8,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 2,
-        "stolenBasesAgainst": 1,
+        "stolenBasesAgainst": 2,
         "caughtStealingBy": 1,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
@@ -1645,40 +1645,40 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 47.31404958677686,
-          "Command": 37.69230769230769,
+          "Miss bats": 43.7640871525169,
+          "Command": 38.51851851851852,
           "Damage suppression": 0
         },
-        "summary": "Andrew Johnson looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
+        "summary": "Andrew Johnson looks like a RHP option who limits runs and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.44",
-          "WHIP 1.24",
-          "K/9 9.2"
+          "ERA 3.46",
+          "WHIP 1.25",
+          "K/9 8.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.44"
+            "value": "3.46"
           },
           {
             "label": "WHIP",
-            "value": "1.24"
+            "value": "1.25"
           },
           {
             "label": "K/9",
-            "value": "9.2"
+            "value": "8.8"
           },
           {
             "label": "BB/9",
-            "value": "3.2"
+            "value": "3.0"
           },
           {
             "label": "HR/9",
-            "value": "1.47"
+            "value": "1.56"
           },
           {
             "label": "IP",
-            "value": "73.3"
+            "value": "80.7"
           }
         ],
         "metaLine": "SO / N/A",
@@ -1729,33 +1729,33 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "jersey": "14",
         "profileUrl": "https://usctrojans.com/sports/baseball/roster/jack-basseer/17987",
         "imageUrl": "https://usctrojans.com/images/2025/12/17/Basseer__Jack.jpg",
-        "gamesPlayed": 48,
-        "gamesStarted": 41,
-        "battingAverage": 0.348,
-        "onBasePercentage": 0.441,
-        "sluggingPercentage": 0.652,
-        "ops": 1.093,
-        "atBats": 158,
-        "runs": 40,
-        "hits": 55,
-        "doubles": 14,
+        "gamesPlayed": 50,
+        "gamesStarted": 43,
+        "battingAverage": 0.349,
+        "onBasePercentage": 0.447,
+        "sluggingPercentage": 0.645,
+        "ops": 1.092,
+        "atBats": 166,
+        "runs": 44,
+        "hits": 58,
+        "doubles": 15,
         "triples": 2,
         "homeRuns": 10,
-        "runsBattedIn": 38,
-        "totalBases": 103,
-        "walks": 18,
+        "runsBattedIn": 41,
+        "totalBases": 107,
+        "walks": 21,
         "hitByPitch": 9,
-        "strikeouts": 32,
+        "strikeouts": 33,
         "intentionalWalks": 1,
-        "groundedIntoDoublePlay": 0,
+        "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 1,
         "sacrificeHits": 1,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 64,
+        "putouts": 69,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 188,
+        "plateAppearances": 199,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1767,9 +1767,9 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "jersey": "14",
         "profileUrl": "https://usctrojans.com/sports/baseball/roster/jack-basseer/17987",
         "imageUrl": "https://usctrojans.com/images/2025/12/17/Basseer__Jack.jpg",
-        "gamesPlayed": 32,
-        "gamesStarted": 31,
-        "putouts": 64,
+        "gamesPlayed": 34,
+        "gamesStarted": 33,
+        "putouts": 69,
         "assists": 0,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -1779,39 +1779,39 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 64
+        "totalChances": 69
       },
       "evaluation": {
-        "score": 72,
+        "score": 74,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "components": {
-          "On-base": 89.44444444444444,
-          "Power": 87.36842105263159,
-          "Contact": 79.99999999999999,
-          "Discipline": 40.27777777777777,
+          "On-base": 92.77777777777777,
+          "Power": 85.5263157894737,
+          "Contact": 80.62499999999999,
+          "Discipline": 48.48484848484848,
           "Speed": 3.3333333333333335
         },
         "summary": "Jack Basseer profiles as a OF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .348",
-          "OBP .441",
-          "SLG .652"
+          "AVG .349",
+          "OBP .447",
+          "SLG .645"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".348"
+            "value": ".349"
           },
           {
             "label": "OBP",
-            "value": ".441"
+            "value": ".447"
           },
           {
             "label": "SLG",
-            "value": ".652"
+            "value": ".645"
           },
           {
             "label": "HR",
@@ -1819,7 +1819,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
           },
           {
             "label": "RBI",
-            "value": "38"
+            "value": "41"
           },
           {
             "label": "SB",
@@ -1962,33 +1962,33 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "jersey": "16",
         "profileUrl": "https://usctrojans.com/sports/baseball/roster/walter-urbon/18012",
         "imageUrl": "https://usctrojans.com/images/2025/12/17/Urbon__Walter.jpg",
-        "gamesPlayed": 32,
-        "gamesStarted": 11,
-        "battingAverage": 0.404,
+        "gamesPlayed": 34,
+        "gamesStarted": 13,
+        "battingAverage": 0.41,
         "onBasePercentage": 0.439,
-        "sluggingPercentage": 0.654,
-        "ops": 1.093,
-        "atBats": 52,
-        "runs": 11,
-        "hits": 21,
-        "doubles": 4,
+        "sluggingPercentage": 0.639,
+        "ops": 1.078,
+        "atBats": 61,
+        "runs": 12,
+        "hits": 25,
+        "doubles": 5,
         "triples": 0,
         "homeRuns": 3,
-        "runsBattedIn": 11,
-        "totalBases": 34,
+        "runsBattedIn": 17,
+        "totalBases": 39,
         "walks": 3,
         "hitByPitch": 1,
-        "strikeouts": 16,
+        "strikeouts": 18,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 1,
-        "sacrificeHits": 2,
+        "sacrificeHits": 3,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 30,
+        "putouts": 39,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 60,
+        "plateAppearances": 70,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2000,9 +2000,9 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "jersey": "16",
         "profileUrl": "https://usctrojans.com/sports/baseball/roster/walter-urbon/18012",
         "imageUrl": "https://usctrojans.com/images/2025/12/17/Urbon__Walter.jpg",
-        "gamesPlayed": 16,
-        "gamesStarted": 10,
-        "putouts": 30,
+        "gamesPlayed": 18,
+        "gamesStarted": 12,
+        "putouts": 39,
         "assists": 1,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -2012,31 +2012,31 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 31
+        "totalChances": 40
       },
       "evaluation": {
-        "score": 69,
+        "score": 68,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "components": {
           "On-base": 88.33333333333331,
-          "Power": 87.89473684210527,
+          "Power": 83.94736842105264,
           "Contact": 100,
           "Discipline": 0,
           "Speed": 3.3333333333333335
         },
         "summary": "Walter Urbon profiles as a OF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .404",
+          "AVG .410",
           "OBP .439",
-          "SLG .654"
+          "SLG .639"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".404"
+            "value": ".410"
           },
           {
             "label": "OBP",
@@ -2044,7 +2044,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
           },
           {
             "label": "SLG",
-            "value": ".654"
+            "value": ".639"
           },
           {
             "label": "HR",
@@ -2052,7 +2052,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
           },
           {
             "label": "RBI",
-            "value": "11"
+            "value": "17"
           },
           {
             "label": "SB",
@@ -2107,12 +2107,12 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "jersey": "18",
         "profileUrl": "https://usctrojans.com/sports/baseball/roster/isaiah-ibarra/18013",
         "imageUrl": "https://usctrojans.com/images/2025/12/17/Ibarra__Isaiah.jpg",
-        "gamesPlayed": 9,
+        "gamesPlayed": 10,
         "gamesStarted": 5,
         "battingAverage": 0.2,
-        "onBasePercentage": 0.333,
+        "onBasePercentage": 0.368,
         "sluggingPercentage": 0.267,
-        "ops": 0.6,
+        "ops": 0.635,
         "atBats": 15,
         "runs": 2,
         "hits": 3,
@@ -2121,7 +2121,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "homeRuns": 0,
         "runsBattedIn": 1,
         "totalBases": 4,
-        "walks": 3,
+        "walks": 4,
         "hitByPitch": 0,
         "strikeouts": 6,
         "intentionalWalks": 0,
@@ -2130,10 +2130,10 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 66,
+        "putouts": 67,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 18,
+        "plateAppearances": 19,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2145,9 +2145,9 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "jersey": "18",
         "profileUrl": "https://usctrojans.com/sports/baseball/roster/isaiah-ibarra/18013",
         "imageUrl": "https://usctrojans.com/images/2025/12/17/Ibarra__Isaiah.jpg",
-        "gamesPlayed": 9,
+        "gamesPlayed": 10,
         "gamesStarted": 5,
-        "putouts": 66,
+        "putouts": 67,
         "assists": 4,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -2157,25 +2157,25 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 1,
         "catchersInterference": 0,
-        "totalChances": 70
+        "totalChances": 71
       },
       "evaluation": {
-        "score": 14,
+        "score": 23,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 29.44444444444444,
+          "On-base": 48.88888888888887,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 33.33333333333333,
+          "Discipline": 51.85185185185184,
           "Speed": 0
         },
         "summary": "Isaiah Ibarra gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .200",
-          "OBP .333",
+          "OBP .368",
           "SLG .267"
         ],
         "statCards": [
@@ -2185,7 +2185,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
           },
           {
             "label": "OBP",
-            "value": ".333"
+            "value": ".368"
           },
           {
             "label": "SLG",
@@ -2252,34 +2252,34 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "jersey": "20",
         "profileUrl": "https://usctrojans.com/sports/baseball/roster/isaac-cadena/18014",
         "imageUrl": "https://usctrojans.com/images/2025/12/17/Cadena__Isaac.jpg",
-        "gamesPlayed": 58,
-        "gamesStarted": 56,
-        "battingAverage": 0.299,
-        "onBasePercentage": 0.434,
-        "sluggingPercentage": 0.513,
-        "ops": 0.947,
-        "atBats": 197,
-        "runs": 47,
-        "hits": 59,
-        "doubles": 15,
+        "gamesPlayed": 60,
+        "gamesStarted": 58,
+        "battingAverage": 0.307,
+        "onBasePercentage": 0.44,
+        "sluggingPercentage": 0.532,
+        "ops": 0.972,
+        "atBats": 205,
+        "runs": 51,
+        "hits": 63,
+        "doubles": 16,
         "triples": 3,
-        "homeRuns": 7,
-        "runsBattedIn": 33,
-        "totalBases": 101,
-        "walks": 38,
-        "hitByPitch": 11,
-        "strikeouts": 55,
+        "homeRuns": 8,
+        "runsBattedIn": 35,
+        "totalBases": 109,
+        "walks": 39,
+        "hitByPitch": 12,
+        "strikeouts": 58,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 3,
         "sacrificeHits": 1,
         "stolenBases": 5,
-        "stolenBasesAttempts": 6,
-        "putouts": 322,
+        "stolenBasesAttempts": 7,
+        "putouts": 335,
         "assists": 0,
-        "errors": 1,
-        "plateAppearances": 257,
-        "caughtStealing": 1,
+        "errors": 2,
+        "plateAppearances": 269,
+        "caughtStealing": 2,
         "pickedOff": 4
       },
       "pitchingStats": null,
@@ -2290,59 +2290,59 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "jersey": "20",
         "profileUrl": "https://usctrojans.com/sports/baseball/roster/isaac-cadena/18014",
         "imageUrl": "https://usctrojans.com/images/2025/12/17/Cadena__Isaac.jpg",
-        "gamesPlayed": 55,
-        "gamesStarted": 53,
-        "putouts": 322,
-        "assists": 22,
-        "errors": 1,
-        "fieldingPercentage": 0.997,
+        "gamesPlayed": 57,
+        "gamesStarted": 55,
+        "putouts": 335,
+        "assists": 23,
+        "errors": 2,
+        "fieldingPercentage": 0.994,
         "doublePlays": 1,
-        "stolenBasesAgainst": 16,
+        "stolenBasesAgainst": 17,
         "caughtStealingBy": 4,
         "stolenBasesPercentage": null,
         "passedBalls": 2,
         "catchersInterference": 0,
-        "totalChances": 345
+        "totalChances": 360
       },
       "evaluation": {
-        "score": 59,
+        "score": 62,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 85.55555555555554,
-          "Power": 50.78947368421054,
-          "Contact": 49.37499999999999,
-          "Discipline": 54.54545454545454,
+          "On-base": 88.88888888888889,
+          "Power": 55.78947368421054,
+          "Contact": 54.37499999999999,
+          "Discipline": 52.49042145593869,
           "Speed": 16.666666666666664
         },
         "summary": "Isaac Cadena profiles as a C piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .299",
-          "OBP .434",
-          "SLG .513"
+          "AVG .307",
+          "OBP .440",
+          "SLG .532"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".299"
+            "value": ".307"
           },
           {
             "label": "OBP",
-            "value": ".434"
+            "value": ".440"
           },
           {
             "label": "SLG",
-            "value": ".513"
+            "value": ".532"
           },
           {
             "label": "HR",
-            "value": "7"
+            "value": "8"
           },
           {
             "label": "RBI",
-            "value": "33"
+            "value": "35"
           },
           {
             "label": "SB",
@@ -2397,14 +2397,14 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "jersey": "21",
         "profileUrl": "https://usctrojans.com/sports/baseball/roster/hayden-woodson/18015",
         "imageUrl": "https://usctrojans.com/images/2025/12/17/Woodson__Hayden.jpg",
-        "gamesPlayed": 5,
+        "gamesPlayed": 7,
         "gamesStarted": 0,
         "battingAverage": 0,
         "onBasePercentage": 0,
         "sluggingPercentage": 0,
         "ops": 0,
         "atBats": 4,
-        "runs": 1,
+        "runs": 3,
         "hits": 0,
         "doubles": 0,
         "triples": 0,
@@ -2418,12 +2418,12 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
         "sacrificeHits": 0,
-        "stolenBases": 1,
-        "stolenBasesAttempts": 1,
+        "stolenBases": 2,
+        "stolenBasesAttempts": 2,
         "putouts": 2,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 5,
+        "plateAppearances": 6,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2450,7 +2450,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "totalChances": 2
       },
       "evaluation": {
-        "score": 0,
+        "score": 1,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2460,7 +2460,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
           "Power": 0,
           "Contact": 0,
           "Discipline": 0,
-          "Speed": 3.3333333333333335
+          "Speed": 6.666666666666667
         },
         "summary": "Hayden Woodson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
@@ -2491,7 +2491,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
           },
           {
             "label": "SB",
-            "value": "1"
+            "value": "2"
           }
         ],
         "metaLine": "FR / N/A",
@@ -2543,31 +2543,31 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "jersey": "22",
         "profileUrl": "https://usctrojans.com/sports/baseball/roster/gavin-lauridsen/18016",
         "imageUrl": "https://usctrojans.com/images/2025/12/17/Lauridsen__Gavin.jpg",
-        "gamesPlayed": 24,
+        "gamesPlayed": 25,
         "gamesStarted": 2,
-        "appearances": 24,
+        "appearances": 25,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.43,
-        "whip": 1.37,
+        "earnedRunAverage": 4.84,
+        "whip": 1.46,
         "wins": 3,
         "losses": 1,
         "saves": 3,
         "shutouts": 0,
         "inningsPitched": 44.666666666666664,
         "inningsPitchedDisplay": "44.2",
-        "hitsAllowed": 38,
-        "runsAllowed": 23,
-        "earnedRunsAllowed": 22,
-        "walksAllowed": 23,
+        "hitsAllowed": 40,
+        "runsAllowed": 25,
+        "earnedRunsAllowed": 24,
+        "walksAllowed": 25,
         "strikeouts": 40,
         "doublesAllowed": 6,
         "triplesAllowed": 0,
         "homeRunsAllowed": 5,
-        "opponentsAtBats": 160,
+        "opponentsAtBats": 162,
         "wildPitches": 4,
         "hitBatters": 5,
         "balks": 2,
-        "opponentsBattingAverage": 0.238,
+        "opponentsBattingAverage": 0.247,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -2592,7 +2592,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "totalChances": 7
       },
       "evaluation": {
-        "score": 10,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2601,23 +2601,23 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
           "Run prevention": 0,
           "Traffic control": 0,
           "Miss bats": 36.90637720488468,
-          "Command": 14.782608695652172,
+          "Command": 12.000000000000002,
           "Damage suppression": 0
         },
         "summary": "Gavin Lauridsen gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.43",
-          "WHIP 1.37",
+          "ERA 4.84",
+          "WHIP 1.46",
           "K/9 8.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.43"
+            "value": "4.84"
           },
           {
             "label": "WHIP",
-            "value": "1.37"
+            "value": "1.46"
           },
           {
             "label": "K/9",
@@ -2625,7 +2625,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
           },
           {
             "label": "BB/9",
-            "value": "4.6"
+            "value": "5.0"
           },
           {
             "label": "HR/9",
@@ -2806,23 +2806,23 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "jersey": "24",
         "profileUrl": "https://usctrojans.com/sports/baseball/roster/augie-lopez/17998",
         "imageUrl": "https://usctrojans.com/images/2025/12/17/Lopez__Augie.jpg",
-        "gamesPlayed": 55,
-        "gamesStarted": 52,
-        "battingAverage": 0.267,
-        "onBasePercentage": 0.358,
-        "sluggingPercentage": 0.579,
-        "ops": 0.937,
-        "atBats": 202,
-        "runs": 42,
-        "hits": 54,
-        "doubles": 12,
+        "gamesPlayed": 57,
+        "gamesStarted": 54,
+        "battingAverage": 0.275,
+        "onBasePercentage": 0.366,
+        "sluggingPercentage": 0.592,
+        "ops": 0.958,
+        "atBats": 211,
+        "runs": 47,
+        "hits": 58,
+        "doubles": 13,
         "triples": 0,
-        "homeRuns": 17,
-        "runsBattedIn": 49,
-        "totalBases": 117,
-        "walks": 23,
+        "homeRuns": 18,
+        "runsBattedIn": 52,
+        "totalBases": 125,
+        "walks": 25,
         "hitByPitch": 6,
-        "strikeouts": 53,
+        "strikeouts": 55,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 1,
@@ -2832,51 +2832,51 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "putouts": 0,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 237,
+        "plateAppearances": 248,
         "caughtStealing": 1,
         "pickedOff": 0
       },
       "pitchingStats": null,
       "fieldingStats": null,
       "evaluation": {
-        "score": 41,
+        "score": 45,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 43.333333333333314,
-          "Power": 68.15789473684211,
-          "Contact": 29.375000000000007,
-          "Discipline": 25.995807127882596,
+          "On-base": 47.77777777777776,
+          "Power": 71.57894736842105,
+          "Contact": 34.375000000000014,
+          "Discipline": 28.282828282828277,
           "Speed": 6.666666666666667
         },
         "summary": "Augie Lopez profiles as a C piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .267",
-          "OBP .358",
-          "SLG .579"
+          "AVG .275",
+          "OBP .366",
+          "SLG .592"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".267"
+            "value": ".275"
           },
           {
             "label": "OBP",
-            "value": ".358"
+            "value": ".366"
           },
           {
             "label": "SLG",
-            "value": ".579"
+            "value": ".592"
           },
           {
             "label": "HR",
-            "value": "17"
+            "value": "18"
           },
           {
             "label": "RBI",
-            "value": "49"
+            "value": "52"
           },
           {
             "label": "SB",
@@ -2932,31 +2932,31 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "jersey": "25",
         "profileUrl": "https://usctrojans.com/sports/baseball/roster/sax-matson/18000",
         "imageUrl": "https://usctrojans.com/images/2025/12/17/Matson__Sax.jpg",
-        "gamesPlayed": 33,
+        "gamesPlayed": 34,
         "gamesStarted": 0,
-        "appearances": 33,
+        "appearances": 34,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.03,
-        "whip": 1.26,
-        "wins": 1,
+        "earnedRunAverage": 3.67,
+        "whip": 1.22,
+        "wins": 2,
         "losses": 2,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 38,
-        "inningsPitchedDisplay": "38.0",
-        "hitsAllowed": 28,
+        "inningsPitched": 41.666666666666664,
+        "inningsPitchedDisplay": "41.2",
+        "hitsAllowed": 30,
         "runsAllowed": 19,
         "earnedRunsAllowed": 17,
-        "walksAllowed": 20,
-        "strikeouts": 50,
-        "doublesAllowed": 5,
+        "walksAllowed": 21,
+        "strikeouts": 54,
+        "doublesAllowed": 6,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 137,
+        "opponentsAtBats": 150,
         "wildPitches": 4,
         "hitBatters": 7,
         "balks": 0,
-        "opponentsBattingAverage": 0.204,
+        "opponentsBattingAverage": 0.2,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -2966,19 +2966,19 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "jersey": "25",
         "profileUrl": "https://usctrojans.com/sports/baseball/roster/sax-matson/18000",
         "imageUrl": "https://usctrojans.com/images/2025/12/17/Matson__Sax.jpg",
-        "gamesPlayed": 11,
+        "gamesPlayed": 12,
         "gamesStarted": 0,
-        "putouts": 1,
+        "putouts": 2,
         "assists": 6,
         "errors": 1,
-        "fieldingPercentage": 0.875,
+        "fieldingPercentage": 0.889,
         "doublePlays": 0,
         "stolenBasesAgainst": 5,
         "caughtStealingBy": 2,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 8
+        "totalChances": 9
       },
       "evaluation": {
         "score": 19,
@@ -2989,40 +2989,40 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 71.29186602870814,
-          "Command": 30.00000000000001,
+          "Miss bats": 69.67272727272729,
+          "Command": 31.428571428571434,
           "Damage suppression": 0
         },
-        "summary": "Sax Matson looks like a LHP option who misses bats.",
+        "summary": "Sax Matson looks like a LHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 4.03",
-          "WHIP 1.26",
-          "K/9 11.8"
+          "ERA 3.67",
+          "WHIP 1.22",
+          "K/9 11.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.03"
+            "value": "3.67"
           },
           {
             "label": "WHIP",
-            "value": "1.26"
+            "value": "1.22"
           },
           {
             "label": "K/9",
-            "value": "11.8"
+            "value": "11.7"
           },
           {
             "label": "BB/9",
-            "value": "4.7"
+            "value": "4.5"
           },
           {
             "label": "HR/9",
-            "value": "0.24"
+            "value": "0.22"
           },
           {
             "label": "IP",
-            "value": "38.0"
+            "value": "41.7"
           }
         ],
         "metaLine": "JR / N/A",
@@ -3074,31 +3074,31 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "jersey": "26",
         "profileUrl": "https://usctrojans.com/sports/baseball/roster/henry-chabot/18018",
         "imageUrl": "https://usctrojans.com/images/2025/12/17/Chabot__Henry.jpg",
-        "gamesPlayed": 16,
+        "gamesPlayed": 17,
         "gamesStarted": 0,
-        "appearances": 16,
+        "appearances": 17,
         "gamesCompleted": 0,
-        "earnedRunAverage": 2.35,
-        "whip": 1.43,
+        "earnedRunAverage": 2.2,
+        "whip": 1.41,
         "wins": 2,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 15.333333333333334,
-        "inningsPitchedDisplay": "15.1",
-        "hitsAllowed": 8,
+        "inningsPitched": 16.333333333333332,
+        "inningsPitchedDisplay": "16.1",
+        "hitsAllowed": 9,
         "runsAllowed": 6,
         "earnedRunsAllowed": 4,
         "walksAllowed": 14,
-        "strikeouts": 19,
+        "strikeouts": 20,
         "doublesAllowed": 2,
         "triplesAllowed": 0,
         "homeRunsAllowed": 0,
-        "opponentsAtBats": 51,
+        "opponentsAtBats": 55,
         "wildPitches": 3,
         "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.157,
+        "opponentsBattingAverage": 0.164,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -3131,32 +3131,32 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 65.01976284584981,
-          "Command": 7.142857142857144,
+          "Miss bats": 63.821892393320965,
+          "Command": 8.571428571428571,
           "Damage suppression": 0
         },
         "summary": "Henry Chabot looks like a RHP option who limits runs and misses bats.",
         "summaryMetrics": [
-          "ERA 2.35",
-          "WHIP 1.43",
-          "K/9 11.2"
+          "ERA 2.20",
+          "WHIP 1.41",
+          "K/9 11.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.35"
+            "value": "2.20"
           },
           {
             "label": "WHIP",
-            "value": "1.43"
+            "value": "1.41"
           },
           {
             "label": "K/9",
-            "value": "11.2"
+            "value": "11.0"
           },
           {
             "label": "BB/9",
-            "value": "8.2"
+            "value": "7.7"
           },
           {
             "label": "HR/9",
@@ -3164,7 +3164,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
           },
           {
             "label": "IP",
-            "value": "15.3"
+            "value": "16.3"
           }
         ],
         "metaLine": "GR / N/A",
@@ -3479,23 +3479,23 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "jersey": "29",
         "profileUrl": "https://usctrojans.com/sports/baseball/roster/andrew-lamb/17996",
         "imageUrl": "https://usctrojans.com/images/2025/12/17/Lamb__Andrew.jpg",
-        "gamesPlayed": 52,
-        "gamesStarted": 46,
-        "battingAverage": 0.27,
-        "onBasePercentage": 0.373,
-        "sluggingPercentage": 0.56,
-        "ops": 0.933,
-        "atBats": 159,
-        "runs": 35,
-        "hits": 43,
-        "doubles": 9,
+        "gamesPlayed": 54,
+        "gamesStarted": 48,
+        "battingAverage": 0.283,
+        "onBasePercentage": 0.383,
+        "sluggingPercentage": 0.584,
+        "ops": 0.967,
+        "atBats": 166,
+        "runs": 36,
+        "hits": 47,
+        "doubles": 10,
         "triples": 2,
-        "homeRuns": 11,
-        "runsBattedIn": 37,
-        "totalBases": 89,
-        "walks": 20,
+        "homeRuns": 12,
+        "runsBattedIn": 42,
+        "totalBases": 97,
+        "walks": 21,
         "hitByPitch": 9,
-        "strikeouts": 35,
+        "strikeouts": 36,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 5,
@@ -3505,7 +3505,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "putouts": 69,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 197,
+        "plateAppearances": 205,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -3532,44 +3532,44 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "totalChances": 71
       },
       "evaluation": {
-        "score": 45,
+        "score": 50,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 51.66666666666665,
-          "Power": 63.157894736842124,
-          "Contact": 31.25000000000001,
-          "Discipline": 41.26984126984126,
+          "On-base": 57.22222222222222,
+          "Power": 69.47368421052632,
+          "Contact": 39.374999999999986,
+          "Discipline": 42.59259259259259,
           "Speed": 6.666666666666667
         },
         "summary": "Andrew Lamb profiles as a C/1B/OF piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .270",
-          "OBP .373",
-          "SLG .560"
+          "AVG .283",
+          "OBP .383",
+          "SLG .584"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".270"
+            "value": ".283"
           },
           {
             "label": "OBP",
-            "value": ".373"
+            "value": ".383"
           },
           {
             "label": "SLG",
-            "value": ".560"
+            "value": ".584"
           },
           {
             "label": "HR",
-            "value": "11"
+            "value": "12"
           },
           {
             "label": "RBI",
-            "value": "37"
+            "value": "42"
           },
           {
             "label": "SB",
@@ -4372,36 +4372,56 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "jersey": "36",
         "profileUrl": "https://usctrojans.com/sports/baseball/roster/rohan-kasanagottu/18022",
         "imageUrl": "https://usctrojans.com/images/2025/12/17/Kasanagottu__Rohan.jpg",
-        "gamesPlayed": 7,
+        "gamesPlayed": 8,
         "gamesStarted": 0,
-        "appearances": 7,
+        "appearances": 8,
         "gamesCompleted": 0,
         "earnedRunAverage": 0,
-        "whip": 1.06,
+        "whip": 0.82,
         "wins": 0,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 5.666666666666667,
-        "inningsPitchedDisplay": "5.2",
+        "inningsPitched": 7.333333333333333,
+        "inningsPitchedDisplay": "7.1",
         "hitsAllowed": 2,
         "runsAllowed": 0,
         "earnedRunsAllowed": 0,
         "walksAllowed": 4,
-        "strikeouts": 10,
+        "strikeouts": 12,
         "doublesAllowed": 1,
         "triplesAllowed": 0,
         "homeRunsAllowed": 0,
-        "opponentsAtBats": 20,
+        "opponentsAtBats": 24,
         "wildPitches": 1,
-        "hitBatters": 0,
+        "hitBatters": 1,
         "balks": 0,
-        "opponentsBattingAverage": 0.1,
+        "opponentsBattingAverage": 0.083,
         "walksHits": 0
       },
-      "fieldingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "18022",
+        "name": "Rohan Kasanagottu",
+        "normalizedName": "rohan kasanagottu",
+        "jersey": "36",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/rohan-kasanagottu/18022",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Kasanagottu__Rohan.jpg",
+        "gamesPlayed": 1,
+        "gamesStarted": 0,
+        "putouts": 1,
+        "assists": 0,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 1
+      },
       "evaluation": {
-        "score": 25,
+        "score": 26,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4409,15 +4429,15 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 100,
-          "Command": 30,
+          "Miss bats": 97.5206611570248,
+          "Command": 40,
           "Damage suppression": 0
         },
         "summary": "Rohan Kasanagottu looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
           "ERA 0.00",
-          "WHIP 1.06",
-          "K/9 15.9"
+          "WHIP 0.82",
+          "K/9 14.7"
         ],
         "statCards": [
           {
@@ -4426,15 +4446,15 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
           },
           {
             "label": "WHIP",
-            "value": "1.06"
+            "value": "0.82"
           },
           {
             "label": "K/9",
-            "value": "15.9"
+            "value": "14.7"
           },
           {
             "label": "BB/9",
-            "value": "6.4"
+            "value": "4.9"
           },
           {
             "label": "HR/9",
@@ -4442,7 +4462,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
           },
           {
             "label": "IP",
-            "value": "5.7"
+            "value": "7.3"
           }
         ],
         "metaLine": "FR / N/A",
@@ -4991,31 +5011,31 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "jersey": "41",
         "profileUrl": "https://usctrojans.com/sports/baseball/roster/ben-cushnie/17990",
         "imageUrl": "https://usctrojans.com/images/2025/12/17/Cushnie__Ben.jpg",
-        "gamesPlayed": 16,
+        "gamesPlayed": 17,
         "gamesStarted": 0,
-        "appearances": 16,
+        "appearances": 17,
         "gamesCompleted": 0,
-        "earnedRunAverage": 1.74,
-        "whip": 1.06,
+        "earnedRunAverage": 1.66,
+        "whip": 1.02,
         "wins": 0,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 20.666666666666668,
-        "inningsPitchedDisplay": "20.2",
+        "inningsPitched": 21.666666666666668,
+        "inningsPitchedDisplay": "21.2",
         "hitsAllowed": 14,
         "runsAllowed": 5,
         "earnedRunsAllowed": 4,
         "walksAllowed": 8,
-        "strikeouts": 12,
+        "strikeouts": 13,
         "doublesAllowed": 4,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 74,
+        "opponentsAtBats": 77,
         "wildPitches": 1,
         "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.189,
+        "opponentsBattingAverage": 0.182,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -5040,7 +5060,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "totalChances": 1
       },
       "evaluation": {
-        "score": 4,
+        "score": 5,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5048,40 +5068,40 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 11.143695014662756,
-          "Command": 10,
+          "Miss bats": 12.727272727272723,
+          "Command": 12.5,
           "Damage suppression": 0
         },
         "summary": "Ben Cushnie looks like a LHP option who limits runs and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 1.74",
-          "WHIP 1.06",
-          "K/9 5.2"
+          "ERA 1.66",
+          "WHIP 1.02",
+          "K/9 5.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "1.74"
+            "value": "1.66"
           },
           {
             "label": "WHIP",
-            "value": "1.06"
+            "value": "1.02"
           },
           {
             "label": "K/9",
-            "value": "5.2"
+            "value": "5.4"
           },
           {
             "label": "BB/9",
-            "value": "3.5"
+            "value": "3.3"
           },
           {
             "label": "HR/9",
-            "value": "0.44"
+            "value": "0.42"
           },
           {
             "label": "IP",
-            "value": "20.7"
+            "value": "21.7"
           }
         ],
         "metaLine": "SO / N/A",
@@ -5607,48 +5627,48 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "position": "INF/RHP",
         "classYear": "FR",
         "handedness": "N/A",
-        "score": 24,
+        "score": 19,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Diego Velazquez looks like a INF/RHP option who misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 4.13",
-          "WHIP 0.95",
-          "K/9 9.8"
+          "ERA 4.26",
+          "WHIP 1.04",
+          "K/9 9.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.13"
+            "value": "4.26"
           },
           {
             "label": "WHIP",
-            "value": "0.95"
+            "value": "1.04"
           },
           {
             "label": "K/9",
-            "value": "9.8"
+            "value": "9.7"
           },
           {
             "label": "BB/9",
-            "value": "1.9"
+            "value": "2.6"
           },
           {
             "label": "HR/9",
-            "value": "1.59"
+            "value": "1.71"
           },
           {
             "label": "IP",
-            "value": "28.3"
+            "value": "31.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 53.15508021390375,
-          "Command": 83.33333333333334,
+          "Miss bats": 51.48325358851674,
+          "Command": 55.55555555555555,
           "Damage suppression": 0
         },
         "metaLine": "FR / N/A",
@@ -5676,29 +5696,29 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 58,
+        "score": 55,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
-        "summary": "Adrian Lopez profiles as a INF piece who brings real extra-base damage.",
+        "summary": "Adrian Lopez gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .308",
-          "OBP .386",
-          "SLG .555"
+          "AVG .302",
+          "OBP .385",
+          "SLG .540"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".308"
+            "value": ".302"
           },
           {
             "label": "OBP",
-            "value": ".386"
+            "value": ".385"
           },
           {
             "label": "SLG",
-            "value": ".555"
+            "value": ".540"
           },
           {
             "label": "HR",
@@ -5714,10 +5734,10 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
           }
         ],
         "components": {
-          "On-base": 58.88888888888888,
-          "Power": 61.84210526315791,
-          "Contact": 54.99999999999999,
-          "Discipline": 75.4208754208754,
+          "On-base": 58.33333333333333,
+          "Power": 57.894736842105274,
+          "Contact": 51.24999999999999,
+          "Discipline": 70.87087087087085,
           "Speed": 23.333333333333332
         },
         "metaLine": "JR / N/A",
@@ -5745,29 +5765,29 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 31,
+        "score": 33,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Dean Carpentier gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .237",
-          "OBP .378",
-          "SLG .404"
+          "AVG .246",
+          "OBP .382",
+          "SLG .402"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".237"
+            "value": ".246"
           },
           {
             "label": "OBP",
-            "value": ".378"
+            "value": ".382"
           },
           {
             "label": "SLG",
-            "value": ".404"
+            "value": ".402"
           },
           {
             "label": "HR",
@@ -5783,10 +5803,10 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
           }
         ],
         "components": {
-          "On-base": 54.44444444444443,
-          "Power": 22.105263157894743,
-          "Contact": 10.624999999999991,
-          "Discipline": 31.54121863799283,
+          "On-base": 56.66666666666666,
+          "Power": 21.578947368421062,
+          "Contact": 16.249999999999996,
+          "Discipline": 35.12544802867383,
           "Speed": 13.333333333333334
         },
         "metaLine": "JR / N/A",
@@ -5814,21 +5834,21 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 44,
+        "score": 43,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Abbrie Covarrubias profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .279",
+          "AVG .276",
           "OBP .379",
-          "SLG .395"
+          "SLG .392"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".279"
+            "value": ".276"
           },
           {
             "label": "OBP",
@@ -5836,7 +5856,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
           },
           {
             "label": "SLG",
-            "value": ".395"
+            "value": ".392"
           },
           {
             "label": "HR",
@@ -5844,7 +5864,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
           },
           {
             "label": "RBI",
-            "value": "28"
+            "value": "29"
           },
           {
             "label": "SB",
@@ -5853,9 +5873,9 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         ],
         "components": {
           "On-base": 54.99999999999999,
-          "Power": 19.736842105263165,
-          "Contact": 36.875000000000014,
-          "Discipline": 61.95286195286195,
+          "Power": 18.947368421052634,
+          "Contact": 35.000000000000014,
+          "Discipline": 60.317460317460316,
           "Speed": 56.666666666666664
         },
         "metaLine": "JR / N/A",
@@ -5890,30 +5910,30 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         },
         "summary": "Kevin Takeuchi profiles as a INF/OF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .307",
-          "OBP .417",
-          "SLG .528"
+          "AVG .311",
+          "OBP .418",
+          "SLG .535"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".307"
+            "value": ".311"
           },
           {
             "label": "OBP",
-            "value": ".417"
+            "value": ".418"
           },
           {
             "label": "SLG",
-            "value": ".528"
+            "value": ".535"
           },
           {
             "label": "HR",
-            "value": "8"
+            "value": "9"
           },
           {
             "label": "RBI",
-            "value": "53"
+            "value": "59"
           },
           {
             "label": "SB",
@@ -5921,10 +5941,10 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
           }
         ],
         "components": {
-          "On-base": 76.11111111111109,
-          "Power": 54.73684210526317,
-          "Contact": 54.37499999999999,
-          "Discipline": 97.43589743589742,
+          "On-base": 76.66666666666664,
+          "Power": 56.57894736842106,
+          "Contact": 56.875,
+          "Discipline": 91.53439153439152,
           "Speed": 46.666666666666664
         },
         "metaLine": "JR / N/A",
@@ -5959,22 +5979,22 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         },
         "summary": "Maddox Riske gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .191",
-          "OBP .263",
-          "SLG .241"
+          "AVG .203",
+          "OBP .272",
+          "SLG .252"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".191"
+            "value": ".203"
           },
           {
             "label": "OBP",
-            "value": ".263"
+            "value": ".272"
           },
           {
             "label": "SLG",
-            "value": ".241"
+            "value": ".252"
           },
           {
             "label": "HR",
@@ -5982,7 +6002,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
           },
           {
             "label": "RBI",
-            "value": "16"
+            "value": "18"
           },
           {
             "label": "SB",
@@ -6232,43 +6252,43 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Andrew Johnson looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
+        "summary": "Andrew Johnson looks like a RHP option who limits runs and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.44",
-          "WHIP 1.24",
-          "K/9 9.2"
+          "ERA 3.46",
+          "WHIP 1.25",
+          "K/9 8.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.44"
+            "value": "3.46"
           },
           {
             "label": "WHIP",
-            "value": "1.24"
+            "value": "1.25"
           },
           {
             "label": "K/9",
-            "value": "9.2"
+            "value": "8.8"
           },
           {
             "label": "BB/9",
-            "value": "3.2"
+            "value": "3.0"
           },
           {
             "label": "HR/9",
-            "value": "1.47"
+            "value": "1.56"
           },
           {
             "label": "IP",
-            "value": "73.3"
+            "value": "80.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 47.31404958677686,
-          "Command": 37.69230769230769,
+          "Miss bats": 43.7640871525169,
+          "Command": 38.51851851851852,
           "Damage suppression": 0
         },
         "metaLine": "SO / N/A",
@@ -6296,29 +6316,29 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "position": "OF",
         "classYear": "SR",
         "handedness": "N/A",
-        "score": 72,
+        "score": 74,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Jack Basseer profiles as a OF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .348",
-          "OBP .441",
-          "SLG .652"
+          "AVG .349",
+          "OBP .447",
+          "SLG .645"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".348"
+            "value": ".349"
           },
           {
             "label": "OBP",
-            "value": ".441"
+            "value": ".447"
           },
           {
             "label": "SLG",
-            "value": ".652"
+            "value": ".645"
           },
           {
             "label": "HR",
@@ -6326,7 +6346,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
           },
           {
             "label": "RBI",
-            "value": "38"
+            "value": "41"
           },
           {
             "label": "SB",
@@ -6334,10 +6354,10 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
           }
         ],
         "components": {
-          "On-base": 89.44444444444444,
-          "Power": 87.36842105263159,
-          "Contact": 79.99999999999999,
-          "Discipline": 40.27777777777777,
+          "On-base": 92.77777777777777,
+          "Power": 85.5263157894737,
+          "Contact": 80.62499999999999,
+          "Discipline": 48.48484848484848,
           "Speed": 3.3333333333333335
         },
         "metaLine": "SR / N/A",
@@ -6433,21 +6453,21 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "position": "OF",
         "classYear": "FR",
         "handedness": "N/A",
-        "score": 69,
+        "score": 68,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Walter Urbon profiles as a OF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .404",
+          "AVG .410",
           "OBP .439",
-          "SLG .654"
+          "SLG .639"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".404"
+            "value": ".410"
           },
           {
             "label": "OBP",
@@ -6455,7 +6475,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
           },
           {
             "label": "SLG",
-            "value": ".654"
+            "value": ".639"
           },
           {
             "label": "HR",
@@ -6463,7 +6483,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
           },
           {
             "label": "RBI",
-            "value": "11"
+            "value": "17"
           },
           {
             "label": "SB",
@@ -6472,7 +6492,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         ],
         "components": {
           "On-base": 88.33333333333331,
-          "Power": 87.89473684210527,
+          "Power": 83.94736842105264,
           "Contact": 100,
           "Discipline": 0,
           "Speed": 3.3333333333333335
@@ -6502,7 +6522,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "position": "C",
         "classYear": "FR",
         "handedness": "N/A",
-        "score": 14,
+        "score": 23,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -6510,7 +6530,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "summary": "Isaiah Ibarra gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .200",
-          "OBP .333",
+          "OBP .368",
           "SLG .267"
         ],
         "statCards": [
@@ -6520,7 +6540,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
           },
           {
             "label": "OBP",
-            "value": ".333"
+            "value": ".368"
           },
           {
             "label": "SLG",
@@ -6540,10 +6560,10 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
           }
         ],
         "components": {
-          "On-base": 29.44444444444444,
+          "On-base": 48.88888888888887,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 33.33333333333333,
+          "Discipline": 51.85185185185184,
           "Speed": 0
         },
         "metaLine": "FR / N/A",
@@ -6571,37 +6591,37 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "position": "C",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 59,
+        "score": 62,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Isaac Cadena profiles as a C piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .299",
-          "OBP .434",
-          "SLG .513"
+          "AVG .307",
+          "OBP .440",
+          "SLG .532"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".299"
+            "value": ".307"
           },
           {
             "label": "OBP",
-            "value": ".434"
+            "value": ".440"
           },
           {
             "label": "SLG",
-            "value": ".513"
+            "value": ".532"
           },
           {
             "label": "HR",
-            "value": "7"
+            "value": "8"
           },
           {
             "label": "RBI",
-            "value": "33"
+            "value": "35"
           },
           {
             "label": "SB",
@@ -6609,10 +6629,10 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
           }
         ],
         "components": {
-          "On-base": 85.55555555555554,
-          "Power": 50.78947368421054,
-          "Contact": 49.37499999999999,
-          "Discipline": 54.54545454545454,
+          "On-base": 88.88888888888889,
+          "Power": 55.78947368421054,
+          "Contact": 54.37499999999999,
+          "Discipline": 52.49042145593869,
           "Speed": 16.666666666666664
         },
         "metaLine": "JR / N/A",
@@ -6640,7 +6660,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "position": "INF",
         "classYear": "FR",
         "handedness": "N/A",
-        "score": 0,
+        "score": 1,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -6674,7 +6694,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
           },
           {
             "label": "SB",
-            "value": "1"
+            "value": "2"
           }
         ],
         "components": {
@@ -6682,7 +6702,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
           "Power": 0,
           "Contact": 0,
           "Discipline": 0,
-          "Speed": 3.3333333333333335
+          "Speed": 6.666666666666667
         },
         "metaLine": "FR / N/A",
         "detailBadges": [
@@ -6709,25 +6729,25 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "position": "RHP",
         "classYear": "FR",
         "handedness": "N/A",
-        "score": 10,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Gavin Lauridsen gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.43",
-          "WHIP 1.37",
+          "ERA 4.84",
+          "WHIP 1.46",
           "K/9 8.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.43"
+            "value": "4.84"
           },
           {
             "label": "WHIP",
-            "value": "1.37"
+            "value": "1.46"
           },
           {
             "label": "K/9",
@@ -6735,7 +6755,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
           },
           {
             "label": "BB/9",
-            "value": "4.6"
+            "value": "5.0"
           },
           {
             "label": "HR/9",
@@ -6750,7 +6770,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
           "Run prevention": 0,
           "Traffic control": 0,
           "Miss bats": 36.90637720488468,
-          "Command": 14.782608695652172,
+          "Command": 12.000000000000002,
           "Damage suppression": 0
         },
         "metaLine": "FR / N/A",
@@ -6847,37 +6867,37 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "position": "C",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 41,
+        "score": 45,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Augie Lopez profiles as a C piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .267",
-          "OBP .358",
-          "SLG .579"
+          "AVG .275",
+          "OBP .366",
+          "SLG .592"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".267"
+            "value": ".275"
           },
           {
             "label": "OBP",
-            "value": ".358"
+            "value": ".366"
           },
           {
             "label": "SLG",
-            "value": ".579"
+            "value": ".592"
           },
           {
             "label": "HR",
-            "value": "17"
+            "value": "18"
           },
           {
             "label": "RBI",
-            "value": "49"
+            "value": "52"
           },
           {
             "label": "SB",
@@ -6885,10 +6905,10 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
           }
         ],
         "components": {
-          "On-base": 43.333333333333314,
-          "Power": 68.15789473684211,
-          "Contact": 29.375000000000007,
-          "Discipline": 25.995807127882596,
+          "On-base": 47.77777777777776,
+          "Power": 71.57894736842105,
+          "Contact": 34.375000000000014,
+          "Discipline": 28.282828282828277,
           "Speed": 6.666666666666667
         },
         "metaLine": "SO / N/A",
@@ -6921,43 +6941,43 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Sax Matson looks like a LHP option who misses bats.",
+        "summary": "Sax Matson looks like a LHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 4.03",
-          "WHIP 1.26",
-          "K/9 11.8"
+          "ERA 3.67",
+          "WHIP 1.22",
+          "K/9 11.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.03"
+            "value": "3.67"
           },
           {
             "label": "WHIP",
-            "value": "1.26"
+            "value": "1.22"
           },
           {
             "label": "K/9",
-            "value": "11.8"
+            "value": "11.7"
           },
           {
             "label": "BB/9",
-            "value": "4.7"
+            "value": "4.5"
           },
           {
             "label": "HR/9",
-            "value": "0.24"
+            "value": "0.22"
           },
           {
             "label": "IP",
-            "value": "38.0"
+            "value": "41.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 71.29186602870814,
-          "Command": 30.00000000000001,
+          "Miss bats": 69.67272727272729,
+          "Command": 31.428571428571434,
           "Damage suppression": 0
         },
         "metaLine": "JR / N/A",
@@ -6992,26 +7012,26 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         },
         "summary": "Henry Chabot looks like a RHP option who limits runs and misses bats.",
         "summaryMetrics": [
-          "ERA 2.35",
-          "WHIP 1.43",
-          "K/9 11.2"
+          "ERA 2.20",
+          "WHIP 1.41",
+          "K/9 11.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.35"
+            "value": "2.20"
           },
           {
             "label": "WHIP",
-            "value": "1.43"
+            "value": "1.41"
           },
           {
             "label": "K/9",
-            "value": "11.2"
+            "value": "11.0"
           },
           {
             "label": "BB/9",
-            "value": "8.2"
+            "value": "7.7"
           },
           {
             "label": "HR/9",
@@ -7019,14 +7039,14 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
           },
           {
             "label": "IP",
-            "value": "15.3"
+            "value": "16.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 65.01976284584981,
-          "Command": 7.142857142857144,
+          "Miss bats": 63.821892393320965,
+          "Command": 8.571428571428571,
           "Damage suppression": 0
         },
         "metaLine": "GR / N/A",
@@ -7192,37 +7212,37 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "position": "C/1B/OF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 45,
+        "score": 50,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Andrew Lamb profiles as a C/1B/OF piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .270",
-          "OBP .373",
-          "SLG .560"
+          "AVG .283",
+          "OBP .383",
+          "SLG .584"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".270"
+            "value": ".283"
           },
           {
             "label": "OBP",
-            "value": ".373"
+            "value": ".383"
           },
           {
             "label": "SLG",
-            "value": ".560"
+            "value": ".584"
           },
           {
             "label": "HR",
-            "value": "11"
+            "value": "12"
           },
           {
             "label": "RBI",
-            "value": "37"
+            "value": "42"
           },
           {
             "label": "SB",
@@ -7230,10 +7250,10 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
           }
         ],
         "components": {
-          "On-base": 51.66666666666665,
-          "Power": 63.157894736842124,
-          "Contact": 31.25000000000001,
-          "Discipline": 41.26984126984126,
+          "On-base": 57.22222222222222,
+          "Power": 69.47368421052632,
+          "Contact": 39.374999999999986,
+          "Discipline": 42.59259259259259,
           "Speed": 6.666666666666667
         },
         "metaLine": "JR / N/A",
@@ -7673,7 +7693,7 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "position": "RHP",
         "classYear": "FR",
         "handedness": "N/A",
-        "score": 25,
+        "score": 26,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -7681,8 +7701,8 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "summary": "Rohan Kasanagottu looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
           "ERA 0.00",
-          "WHIP 1.06",
-          "K/9 15.9"
+          "WHIP 0.82",
+          "K/9 14.7"
         ],
         "statCards": [
           {
@@ -7691,15 +7711,15 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
           },
           {
             "label": "WHIP",
-            "value": "1.06"
+            "value": "0.82"
           },
           {
             "label": "K/9",
-            "value": "15.9"
+            "value": "14.7"
           },
           {
             "label": "BB/9",
-            "value": "6.4"
+            "value": "4.9"
           },
           {
             "label": "HR/9",
@@ -7707,14 +7727,14 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
           },
           {
             "label": "IP",
-            "value": "5.7"
+            "value": "7.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 100,
-          "Command": 30,
+          "Miss bats": 97.5206611570248,
+          "Command": 40,
           "Damage suppression": 0
         },
         "metaLine": "FR / N/A",
@@ -8017,48 +8037,48 @@ window.__BASEBALL_DATASETS__.southern-california2026 = {
         "position": "LHP",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 4,
+        "score": 5,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Ben Cushnie looks like a LHP option who limits runs and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 1.74",
-          "WHIP 1.06",
-          "K/9 5.2"
+          "ERA 1.66",
+          "WHIP 1.02",
+          "K/9 5.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "1.74"
+            "value": "1.66"
           },
           {
             "label": "WHIP",
-            "value": "1.06"
+            "value": "1.02"
           },
           {
             "label": "K/9",
-            "value": "5.2"
+            "value": "5.4"
           },
           {
             "label": "BB/9",
-            "value": "3.5"
+            "value": "3.3"
           },
           {
             "label": "HR/9",
-            "value": "0.44"
+            "value": "0.42"
           },
           {
             "label": "IP",
-            "value": "20.7"
+            "value": "21.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 11.143695014662756,
-          "Command": 10,
+          "Miss bats": 12.727272727272723,
+          "Command": 12.5,
           "Damage suppression": 0
         },
         "metaLine": "SO / N/A",

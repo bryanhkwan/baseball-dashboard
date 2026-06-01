@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
-  "generatedAt": "2026-05-31T10:57:03.597Z",
+  "generatedAt": "2026-06-01T12:14:25.232Z",
   "season": 2026,
   "source": "Generated Sidearm baseball school-site pool",
   "note": "This generated free player pool combines verified public roster and cumulative stats pages from multiple Sidearm baseball programs. It is broader than Toledo alone, but still not a full every-school national directory yet.",
@@ -88,7 +88,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
       "slug": "wake-forest",
       "name": "Wake Forest",
       "longName": "Wake Forest University",
-      "record": "39-20, 16-14",
+      "record": "39-21, 16-14",
       "totalPlayers": 36,
       "hitters": 18,
       "pitchers": 18,
@@ -127,7 +127,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
       "slug": "alabama",
       "name": "Alabama",
       "longName": "University of Alabama",
-      "record": "39-19, 18-12",
+      "record": "40-19, 18-12",
       "totalPlayers": 43,
       "hitters": 20,
       "pitchers": 23,
@@ -153,7 +153,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
       "slug": "boston-college",
       "name": "Boston College",
       "longName": "Boston College",
-      "record": "37-22, 17-13",
+      "record": "37-23, 17-13",
       "totalPlayers": 41,
       "hitters": 18,
       "pitchers": 23,
@@ -205,7 +205,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
       "slug": "cal-poly",
       "name": "Cal Poly",
       "longName": "Cal Poly",
-      "record": "38-22, 22-8",
+      "record": "39-22, 22-8",
       "totalPlayers": 36,
       "hitters": 17,
       "pitchers": 19,
@@ -322,7 +322,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
       "slug": "east-carolina",
       "name": "East Carolina",
       "longName": "East Carolina University",
-      "record": "37-23-1, 17-10",
+      "record": "38-24-1, 17-10",
       "totalPlayers": 41,
       "hitters": 21,
       "pitchers": 20,
@@ -335,7 +335,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
       "slug": "florida",
       "name": "Florida",
       "longName": "University of Florida",
-      "record": "41-19, 18-12",
+      "record": "41-20, 18-12",
       "totalPlayers": 41,
       "hitters": 20,
       "pitchers": 21,
@@ -361,7 +361,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
       "slug": "georgia",
       "name": "Georgia",
       "longName": "University of Georgia",
-      "record": "48-12, 23-7",
+      "record": "49-12, 23-7",
       "totalPlayers": 41,
       "hitters": 16,
       "pitchers": 25,
@@ -413,7 +413,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
       "slug": "kansas",
       "name": "Kansas",
       "longName": "University of Kansas",
-      "record": "44-16, 22-8",
+      "record": "45-16, 22-8",
       "totalPlayers": 35,
       "hitters": 13,
       "pitchers": 22,
@@ -543,7 +543,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
       "slug": "ole-miss",
       "name": "Mississippi",
       "longName": "University of Mississippi",
-      "record": "37-21, 15-15",
+      "record": "39-21, 15-15",
       "totalPlayers": 38,
       "hitters": 16,
       "pitchers": 22,
@@ -556,7 +556,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
       "slug": "north-carolina",
       "name": "North Carolina",
       "longName": "University of North Carolina",
-      "record": "47-11-1, 22-8",
+      "record": "48-11-1, 22-8",
       "totalPlayers": 38,
       "hitters": 17,
       "pitchers": 21,
@@ -595,7 +595,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
       "slug": "oklahoma",
       "name": "Oklahoma",
       "longName": "University of Oklahoma",
-      "record": "33-22, 14-16",
+      "record": "35-22, 14-16",
       "totalPlayers": 37,
       "hitters": 17,
       "pitchers": 20,
@@ -608,7 +608,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
       "slug": "oregon",
       "name": "Oregon",
       "longName": "University of Oregon",
-      "record": "42-16, 20-10",
+      "record": "43-16, 20-10",
       "totalPlayers": 40,
       "hitters": 17,
       "pitchers": 23,
@@ -751,7 +751,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
       "slug": "southern-california",
       "name": "Southern California",
       "longName": "University of Southern California",
-      "record": "44-16, 20-10",
+      "record": "46-16, 20-10",
       "totalPlayers": 40,
       "hitters": 19,
       "pitchers": 21,
@@ -803,7 +803,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
       "slug": "texas",
       "name": "Texas",
       "longName": "University of Texas",
-      "record": "42-13, 19-10",
+      "record": "43-13, 19-10",
       "totalPlayers": 39,
       "hitters": 17,
       "pitchers": 22,
@@ -816,7 +816,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
       "slug": "texas-am",
       "name": "Texas A&M",
       "longName": "Texas A&M University",
-      "record": "41-14, 18-11",
+      "record": "41-15, 18-11",
       "totalPlayers": 35,
       "hitters": 17,
       "pitchers": 18,
@@ -842,7 +842,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
       "slug": "troy",
       "name": "Troy",
       "longName": "Troy University",
-      "record": "33-30, 17-13",
+      "record": "35-30, 17-13",
       "totalPlayers": 36,
       "hitters": 16,
       "pitchers": 20,
@@ -881,7 +881,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
       "slug": "ucla",
       "name": "UCLA",
       "longName": "UCLA",
-      "record": "52-7, 28-2",
+      "record": "52-8, 28-2",
       "totalPlayers": 40,
       "hitters": 19,
       "pitchers": 21,
@@ -920,7 +920,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
       "slug": "west-virginia",
       "name": "West Virginia",
       "longName": "West Virginia University",
-      "record": "40-15, 21-9",
+      "record": "42-15, 21-9",
       "totalPlayers": 43,
       "hitters": 19,
       "pitchers": 24,
@@ -16604,7 +16604,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "INF",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 62,
+        "score": 63,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
@@ -16612,7 +16612,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "summary": "Dalton Wentz profiles as a INF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
           "AVG .306",
-          "OBP .412",
+          "OBP .414",
           "SLG .629"
         ],
         "statCards": [
@@ -16622,7 +16622,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "OBP",
-            "value": ".412"
+            "value": ".414"
           },
           {
             "label": "SLG",
@@ -16642,10 +16642,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 73.3333333333333,
+          "On-base": 74.44444444444443,
           "Power": 81.31578947368422,
           "Contact": 53.75,
-          "Discipline": 50.08818342151675,
+          "Discipline": 51.85185185185184,
           "Speed": 6.666666666666667
         },
         "metaLine": "SO / N/A",
@@ -16673,48 +16673,48 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "RHP",
         "classYear": "GR",
         "handedness": "N/A",
-        "score": 23,
+        "score": 25,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Will Ray looks like a RHP option who limits runs and misses bats.",
         "summaryMetrics": [
-          "ERA 3.63",
-          "WHIP 1.38",
-          "K/9 12.5"
+          "ERA 3.44",
+          "WHIP 1.36",
+          "K/9 12.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.63"
+            "value": "3.44"
           },
           {
             "label": "WHIP",
-            "value": "1.38"
+            "value": "1.36"
           },
           {
             "label": "K/9",
-            "value": "12.5"
+            "value": "12.8"
           },
           {
             "label": "BB/9",
-            "value": "3.6"
+            "value": "3.4"
           },
           {
             "label": "HR/9",
-            "value": "1.04"
+            "value": "0.98"
           },
           {
             "label": "IP",
-            "value": "17.3"
+            "value": "18.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 76.92307692307693,
-          "Command": 48.57142857142856,
+          "Miss bats": 79.66942148760332,
+          "Command": 54.285714285714285,
           "Damage suppression": 0
         },
         "metaLine": "GR / N/A",
@@ -16742,29 +16742,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "INF",
         "classYear": "FR",
         "handedness": "N/A",
-        "score": 45,
+        "score": 43,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "JD Stein profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .270",
-          "OBP .389",
-          "SLG .405"
+          "AVG .266",
+          "OBP .384",
+          "SLG .399"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".270"
+            "value": ".266"
           },
           {
             "label": "OBP",
-            "value": ".389"
+            "value": ".384"
           },
           {
             "label": "SLG",
-            "value": ".405"
+            "value": ".399"
           },
           {
             "label": "HR",
@@ -16780,10 +16780,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 60.55555555555555,
-          "Power": 22.368421052631586,
-          "Contact": 31.25000000000001,
-          "Discipline": 73.01587301587298,
+          "On-base": 57.77777777777777,
+          "Power": 20.78947368421053,
+          "Contact": 28.750000000000007,
+          "Discipline": 67.86786786786786,
           "Speed": 43.333333333333336
         },
         "metaLine": "FR / N/A",
@@ -16949,29 +16949,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 80,
+        "score": 77,
         "fit": {
-          "label": "Priority",
-          "className": "fit-priority"
+          "label": "Pursue",
+          "className": "fit-pursue"
         },
-        "summary": "Kade Lewis profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
+        "summary": "Kade Lewis profiles as a INF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .361",
-          "OBP .451",
-          "SLG .603"
+          "AVG .354",
+          "OBP .444",
+          "SLG .592"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".361"
+            "value": ".354"
           },
           {
             "label": "OBP",
-            "value": ".451"
+            "value": ".444"
           },
           {
             "label": "SLG",
-            "value": ".603"
+            "value": ".592"
           },
           {
             "label": "HR",
@@ -16987,10 +16987,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 95,
-          "Power": 74.47368421052632,
-          "Contact": 88.12499999999999,
-          "Discipline": 88.88888888888889,
+          "On-base": 91.1111111111111,
+          "Power": 71.57894736842105,
+          "Contact": 83.74999999999999,
+          "Discipline": 85.7142857142857,
           "Speed": 23.333333333333332
         },
         "metaLine": "JR / N/A",
@@ -17018,29 +17018,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 65,
+        "score": 64,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Blake Schaaf profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .325",
-          "OBP .434",
-          "SLG .515"
+          "AVG .324",
+          "OBP .431",
+          "SLG .514"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".325"
+            "value": ".324"
           },
           {
             "label": "OBP",
-            "value": ".434"
+            "value": ".431"
           },
           {
             "label": "SLG",
-            "value": ".515"
+            "value": ".514"
           },
           {
             "label": "HR",
@@ -17056,10 +17056,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 85.55555555555554,
-          "Power": 51.31578947368421,
-          "Contact": 65.625,
-          "Discipline": 64.86486486486486,
+          "On-base": 83.88888888888889,
+          "Power": 51.05263157894737,
+          "Contact": 65,
+          "Discipline": 62.573099415204666,
           "Speed": 30
         },
         "metaLine": "JR / N/A",
@@ -17094,30 +17094,30 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "Matt Conte gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .275",
-          "OBP .376",
-          "SLG .495"
+          "AVG .274",
+          "OBP .374",
+          "SLG .504"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".275"
+            "value": ".274"
           },
           {
             "label": "OBP",
-            "value": ".376"
+            "value": ".374"
           },
           {
             "label": "SLG",
-            "value": ".495"
+            "value": ".504"
           },
           {
             "label": "HR",
-            "value": "11"
+            "value": "12"
           },
           {
             "label": "RBI",
-            "value": "50"
+            "value": "52"
           },
           {
             "label": "SB",
@@ -17125,9 +17125,9 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 53.33333333333332,
-          "Power": 46.05263157894737,
-          "Contact": 34.375000000000014,
+          "On-base": 52.222222222222214,
+          "Power": 48.42105263157895,
+          "Contact": 33.750000000000014,
           "Discipline": 49.67320261437908,
           "Speed": 3.3333333333333335
         },
@@ -17294,29 +17294,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "INF",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 74,
+        "score": 71,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Luke Costello profiles as a INF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .309",
-          "OBP .453",
-          "SLG .652"
+          "AVG .302",
+          "OBP .447",
+          "SLG .637"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".309"
+            "value": ".302"
           },
           {
             "label": "OBP",
-            "value": ".453"
+            "value": ".447"
           },
           {
             "label": "SLG",
-            "value": ".652"
+            "value": ".637"
           },
           {
             "label": "HR",
@@ -17332,10 +17332,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 96.1111111111111,
-          "Power": 87.36842105263159,
-          "Contact": 55.62499999999999,
-          "Discipline": 69.44444444444443,
+          "On-base": 92.77777777777777,
+          "Power": 83.42105263157896,
+          "Contact": 51.24999999999999,
+          "Discipline": 67.72486772486772,
           "Speed": 10
         },
         "metaLine": "SO / N/A",
@@ -17501,7 +17501,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "OF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 80,
+        "score": 81,
         "fit": {
           "label": "Priority",
           "className": "fit-priority"
@@ -17509,8 +17509,8 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "summary": "Javar Williams profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
           "AVG .343",
-          "OBP .456",
-          "SLG .543"
+          "OBP .458",
+          "SLG .545"
         ],
         "statCards": [
           {
@@ -17519,11 +17519,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "OBP",
-            "value": ".456"
+            "value": ".458"
           },
           {
             "label": "SLG",
-            "value": ".543"
+            "value": ".545"
           },
           {
             "label": "HR",
@@ -17531,18 +17531,18 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "RBI",
-            "value": "42"
+            "value": "43"
           },
           {
             "label": "SB",
-            "value": "31"
+            "value": "32"
           }
         ],
         "components": {
-          "On-base": 97.77777777777777,
-          "Power": 58.68421052631581,
+          "On-base": 98.88888888888889,
+          "Power": 59.210526315789494,
           "Contact": 76.87500000000001,
-          "Discipline": 68.88888888888887,
+          "Discipline": 69.28104575163397,
           "Speed": 100
         },
         "metaLine": "JR / N/A",
@@ -17644,20 +17644,20 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Evan Jones looks like a RHP option who limits runs and misses bats.",
+        "summary": "Evan Jones looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 3.76",
-          "WHIP 1.38",
+          "ERA 4.23",
+          "WHIP 1.46",
           "K/9 12.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.76"
+            "value": "4.23"
           },
           {
             "label": "WHIP",
-            "value": "1.38"
+            "value": "1.46"
           },
           {
             "label": "K/9",
@@ -17665,7 +17665,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "BB/9",
-            "value": "6.8"
+            "value": "7.0"
           },
           {
             "label": "HR/9",
@@ -17680,7 +17680,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Run prevention": 0,
           "Traffic control": 0,
           "Miss bats": 74.62450592885375,
-          "Command": 15.862068965517242,
+          "Command": 14.666666666666666,
           "Damage suppression": 0
         },
         "metaLine": "FR / N/A",
@@ -17846,48 +17846,48 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "RHP",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 22,
+        "score": 21,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Troy Dressler looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 4.56",
-          "WHIP 1.44",
-          "K/9 12.7"
+          "ERA 5.09",
+          "WHIP 1.51",
+          "K/9 12.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.56"
+            "value": "5.09"
           },
           {
             "label": "WHIP",
-            "value": "1.44"
+            "value": "1.51"
           },
           {
             "label": "K/9",
-            "value": "12.7"
+            "value": "12.2"
           },
           {
             "label": "BB/9",
-            "value": "4.4"
+            "value": "4.3"
           },
           {
             "label": "HR/9",
-            "value": "1.18"
+            "value": "1.08"
           },
           {
             "label": "IP",
-            "value": "53.3"
+            "value": "58.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 78.69318181818183,
-          "Command": 37.69230769230769,
+          "Miss bats": 74.44155844155844,
+          "Command": 36.42857142857143,
           "Damage suppression": 0
         },
         "metaLine": "SO / N/A",
@@ -18190,29 +18190,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "OF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 49,
+        "score": 47,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Boston Torres gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .312",
-          "OBP .392",
-          "SLG .480"
+          "AVG .305",
+          "OBP .388",
+          "SLG .469"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".312"
+            "value": ".305"
           },
           {
             "label": "OBP",
-            "value": ".392"
+            "value": ".388"
           },
           {
             "label": "SLG",
-            "value": ".480"
+            "value": ".469"
           },
           {
             "label": "HR",
@@ -18228,10 +18228,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 62.22222222222222,
-          "Power": 42.10526315789473,
-          "Contact": 57.49999999999999,
-          "Discipline": 43.43434343434343,
+          "On-base": 60,
+          "Power": 39.210526315789465,
+          "Contact": 53.124999999999986,
+          "Discipline": 45.41062801932367,
           "Speed": 16.666666666666664
         },
         "metaLine": "JR / N/A",
@@ -18259,7 +18259,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "C",
         "classYear": "FR",
         "handedness": "N/A",
-        "score": 20,
+        "score": 21,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -18267,8 +18267,8 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "summary": "Andrew Costello gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .244",
-          "OBP .323",
-          "SLG .361"
+          "OBP .321",
+          "SLG .382"
         ],
         "statCards": [
           {
@@ -18277,19 +18277,19 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "OBP",
-            "value": ".323"
+            "value": ".321"
           },
           {
             "label": "SLG",
-            "value": ".361"
+            "value": ".382"
           },
           {
             "label": "HR",
-            "value": "3"
+            "value": "4"
           },
           {
             "label": "RBI",
-            "value": "16"
+            "value": "17"
           },
           {
             "label": "SB",
@@ -18297,10 +18297,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 23.88888888888888,
-          "Power": 10.789473684210522,
+          "On-base": 22.777777777777768,
+          "Power": 16.315789473684212,
           "Contact": 14.999999999999996,
-          "Discipline": 41.26984126984126,
+          "Discipline": 38.38383838383837,
           "Speed": 10
         },
         "metaLine": "FR / N/A",
@@ -18955,41 +18955,41 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "Ryan Bosch looks like a LHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 2.45",
-          "WHIP 1.09",
-          "K/9 13.3"
+          "ERA 2.21",
+          "WHIP 1.08",
+          "K/9 12.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.45"
+            "value": "2.21"
           },
           {
             "label": "WHIP",
-            "value": "1.09"
+            "value": "1.08"
           },
           {
             "label": "K/9",
-            "value": "13.3"
+            "value": "12.8"
           },
           {
             "label": "BB/9",
-            "value": "5.4"
+            "value": "5.3"
           },
           {
             "label": "HR/9",
-            "value": "0.49"
+            "value": "0.44"
           },
           {
             "label": "IP",
-            "value": "18.3"
+            "value": "20.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 84.13223140495869,
-          "Command": 29.09090909090909,
+          "Miss bats": 80.32786885245902,
+          "Command": 28.333333333333332,
           "Damage suppression": 0
         },
         "metaLine": "FR / N/A",
@@ -23918,22 +23918,22 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "Justin Lebron profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .272",
-          "OBP .383",
-          "SLG .544"
+          "AVG .274",
+          "OBP .382",
+          "SLG .543"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".272"
+            "value": ".274"
           },
           {
             "label": "OBP",
-            "value": ".383"
+            "value": ".382"
           },
           {
             "label": "SLG",
-            "value": ".544"
+            "value": ".543"
           },
           {
             "label": "HR",
@@ -23949,10 +23949,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 57.22222222222222,
-          "Power": 58.94736842105265,
-          "Contact": 32.500000000000014,
-          "Discipline": 33.33333333333333,
+          "On-base": 56.66666666666666,
+          "Power": 58.68421052631581,
+          "Contact": 33.750000000000014,
+          "Discipline": 32.285115303983225,
           "Speed": 100
         },
         "metaLine": "JR / R-R",
@@ -24049,29 +24049,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "INF/OF",
         "classYear": "GR",
         "handedness": "L-R",
-        "score": 30,
+        "score": 29,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Brennan Holt profiles as a INF/OF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .235",
-          "OBP .383",
-          "SLG .317"
+          "AVG .234",
+          "OBP .379",
+          "SLG .314"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".235"
+            "value": ".234"
           },
           {
             "label": "OBP",
-            "value": ".383"
+            "value": ".379"
           },
           {
             "label": "SLG",
-            "value": ".317"
+            "value": ".314"
           },
           {
             "label": "HR",
@@ -24079,7 +24079,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "RBI",
-            "value": "20"
+            "value": "21"
           },
           {
             "label": "SB",
@@ -24087,10 +24087,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 57.22222222222222,
+          "On-base": 54.99999999999999,
           "Power": 0,
-          "Contact": 9.374999999999991,
-          "Discipline": 35.18518518518518,
+          "Contact": 8.750000000000007,
+          "Discipline": 33.33333333333333,
           "Speed": 50
         },
         "metaLine": "GR / L-R",
@@ -24393,29 +24393,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "OF",
         "classYear": "R-SR",
         "handedness": "L-L",
-        "score": 61,
+        "score": 59,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Bryce Fowler profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .326",
-          "OBP .424",
-          "SLG .502"
+          "AVG .322",
+          "OBP .419",
+          "SLG .493"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".326"
+            "value": ".322"
           },
           {
             "label": "OBP",
-            "value": ".424"
+            "value": ".419"
           },
           {
             "label": "SLG",
-            "value": ".502"
+            "value": ".493"
           },
           {
             "label": "HR",
@@ -24431,10 +24431,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 79.99999999999999,
-          "Power": 47.89473684210527,
-          "Contact": 66.25000000000001,
-          "Discipline": 41.26984126984126,
+          "On-base": 77.2222222222222,
+          "Power": 45.526315789473685,
+          "Contact": 63.75000000000001,
+          "Discipline": 40.155945419103304,
           "Speed": 50
         },
         "metaLine": "R-SR / L-L",
@@ -24462,37 +24462,37 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "C/INF",
         "classYear": "SR",
         "handedness": "L-R",
-        "score": 68,
+        "score": 69,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Brady Neal profiles as a C/INF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .333",
-          "OBP .443",
-          "SLG .566"
+          "AVG .332",
+          "OBP .444",
+          "SLG .575"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".333"
+            "value": ".332"
           },
           {
             "label": "OBP",
-            "value": ".443"
+            "value": ".444"
           },
           {
             "label": "SLG",
-            "value": ".566"
+            "value": ".575"
           },
           {
             "label": "HR",
-            "value": "9"
+            "value": "10"
           },
           {
             "label": "RBI",
-            "value": "45"
+            "value": "49"
           },
           {
             "label": "SB",
@@ -24500,10 +24500,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 90.55555555555554,
-          "Power": 64.73684210526315,
-          "Contact": 70.625,
-          "Discipline": 58.58585858585859,
+          "On-base": 91.1111111111111,
+          "Power": 67.10526315789474,
+          "Contact": 70,
+          "Discipline": 61.11111111111111,
           "Speed": 13.333333333333334
         },
         "metaLine": "SR / L-R",
@@ -24531,48 +24531,48 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "RHP",
         "classYear": "FR",
         "handedness": "R-R",
-        "score": 12,
+        "score": 14,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Myles Upchurch looks like a RHP option who limits runs and misses bats.",
         "summaryMetrics": [
-          "ERA 3.34",
-          "WHIP 1.28",
-          "K/9 9.5"
+          "ERA 3.57",
+          "WHIP 1.27",
+          "K/9 9.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.34"
+            "value": "3.57"
           },
           {
             "label": "WHIP",
-            "value": "1.28"
+            "value": "1.27"
           },
           {
             "label": "K/9",
-            "value": "9.5"
+            "value": "9.8"
           },
           {
             "label": "BB/9",
-            "value": "5.3"
+            "value": "5.1"
           },
           {
             "label": "HR/9",
-            "value": "0.56"
+            "value": "0.76"
           },
           {
             "label": "IP",
-            "value": "64.7"
+            "value": "70.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 49.671977507029055,
-          "Command": 15.789473684210526,
+          "Miss bats": 52.78730703259005,
+          "Command": 18.500000000000007,
           "Damage suppression": 0
         },
         "metaLine": "FR / R-R",
@@ -24669,29 +24669,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "C",
         "classYear": "R-SO",
         "handedness": "R-R",
-        "score": 36,
+        "score": 32,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Luke Vaughn gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .220",
-          "OBP .374",
-          "SLG .467"
+          "AVG .213",
+          "OBP .364",
+          "SLG .452"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".220"
+            "value": ".213"
           },
           {
             "label": "OBP",
-            "value": ".374"
+            "value": ".364"
           },
           {
             "label": "SLG",
-            "value": ".467"
+            "value": ".452"
           },
           {
             "label": "HR",
@@ -24707,10 +24707,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 52.222222222222214,
-          "Power": 38.6842105263158,
+          "On-base": 46.66666666666665,
+          "Power": 34.736842105263165,
           "Contact": 0,
-          "Discipline": 65.31986531986531,
+          "Discipline": 58.02469135802467,
           "Speed": 0
         },
         "metaLine": "R-SO / R-R",
@@ -24738,29 +24738,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "OF",
         "classYear": "SO",
         "handedness": "R-R",
-        "score": 7,
+        "score": 10,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Peyton Steele gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .218",
-          "OBP .307",
-          "SLG .308"
+          "AVG .226",
+          "OBP .316",
+          "SLG .314"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".218"
+            "value": ".226"
           },
           {
             "label": "OBP",
-            "value": ".307"
+            "value": ".316"
           },
           {
             "label": "SLG",
-            "value": ".308"
+            "value": ".314"
           },
           {
             "label": "HR",
@@ -24776,10 +24776,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 14.999999999999982,
+          "On-base": 19.999999999999986,
           "Power": 0,
-          "Contact": 0,
-          "Discipline": 18.84057971014492,
+          "Contact": 3.7500000000000036,
+          "Discipline": 20.330969267139476,
           "Speed": 0
         },
         "metaLine": "SO / R-R",
@@ -25913,30 +25913,30 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "Jason Torres gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .242",
-          "OBP .368",
-          "SLG .399"
+          "AVG .241",
+          "OBP .367",
+          "SLG .409"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".242"
+            "value": ".241"
           },
           {
             "label": "OBP",
-            "value": ".368"
+            "value": ".367"
           },
           {
             "label": "SLG",
-            "value": ".399"
+            "value": ".409"
           },
           {
             "label": "HR",
-            "value": "7"
+            "value": "8"
           },
           {
             "label": "RBI",
-            "value": "46"
+            "value": "47"
           },
           {
             "label": "SB",
@@ -25944,10 +25944,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 48.88888888888887,
-          "Power": 20.78947368421053,
-          "Contact": 13.749999999999996,
-          "Discipline": 50.5050505050505,
+          "On-base": 48.333333333333314,
+          "Power": 23.42105263157894,
+          "Contact": 13.124999999999995,
+          "Discipline": 47.95321637426899,
           "Speed": 0
         },
         "metaLine": "SR / R-R",
@@ -25975,29 +25975,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "C",
         "classYear": "SR",
         "handedness": "L-R",
-        "score": 37,
+        "score": 38,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "John Lemm gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .247",
-          "OBP .378",
-          "SLG .461"
+          "AVG .253",
+          "OBP .383",
+          "SLG .462"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".247"
+            "value": ".253"
           },
           {
             "label": "OBP",
-            "value": ".378"
+            "value": ".383"
           },
           {
             "label": "SLG",
-            "value": ".461"
+            "value": ".462"
           },
           {
             "label": "HR",
@@ -26005,7 +26005,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "RBI",
-            "value": "31"
+            "value": "33"
           },
           {
             "label": "SB",
@@ -26013,10 +26013,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 54.44444444444443,
-          "Power": 37.10526315789475,
-          "Contact": 16.875,
-          "Discipline": 44.444444444444436,
+          "On-base": 57.22222222222222,
+          "Power": 37.36842105263159,
+          "Contact": 20.625,
+          "Discipline": 45.31590413943354,
           "Speed": 3.3333333333333335
         },
         "metaLine": "SR / L-R",
@@ -26113,48 +26113,48 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "RHP",
         "classYear": "R-SR",
         "handedness": "R-R",
-        "score": 24,
+        "score": 22,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Hagan Banks looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
+        "summary": "Hagan Banks looks like a RHP option who limits runs and misses bats.",
         "summaryMetrics": [
-          "ERA 2.79",
-          "WHIP 1.19",
-          "K/9 10.7"
+          "ERA 2.82",
+          "WHIP 1.39",
+          "K/9 11.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.79"
+            "value": "2.82"
           },
           {
             "label": "WHIP",
-            "value": "1.19"
+            "value": "1.39"
           },
           {
             "label": "K/9",
-            "value": "10.7"
+            "value": "11.7"
           },
           {
             "label": "BB/9",
-            "value": "2.3"
+            "value": "3.2"
           },
           {
             "label": "HR/9",
-            "value": "0.47"
+            "value": "0.40"
           },
           {
             "label": "IP",
-            "value": "19.3"
+            "value": "22.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 60.97178683385581,
-          "Command": 72,
+          "Miss bats": 69.87788331071913,
+          "Command": 52.5,
           "Damage suppression": 0
         },
         "metaLine": "R-SR / R-R",
@@ -26388,37 +26388,37 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "OF",
         "classYear": "FR",
         "handedness": "R-R",
-        "score": 29,
+        "score": 35,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Eric Hines gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Eric Hines profiles as a OF piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .276",
-          "OBP .331",
-          "SLG .526"
+          "AVG .289",
+          "OBP .341",
+          "SLG .554"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".276"
+            "value": ".289"
           },
           {
             "label": "OBP",
-            "value": ".331"
+            "value": ".341"
           },
           {
             "label": "SLG",
-            "value": ".526"
+            "value": ".554"
           },
           {
             "label": "HR",
-            "value": "8"
+            "value": "9"
           },
           {
             "label": "RBI",
-            "value": "23"
+            "value": "24"
           },
           {
             "label": "SB",
@@ -26426,9 +26426,9 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 28.33333333333333,
-          "Power": 54.21052631578949,
-          "Contact": 35.000000000000014,
+          "On-base": 33.88888888888889,
+          "Power": 61.57894736842107,
+          "Contact": 43.124999999999986,
           "Discipline": 0,
           "Speed": 0
         },
@@ -26663,48 +26663,48 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "LHP",
         "classYear": "R-JR",
         "handedness": "L-L",
-        "score": 9,
+        "score": 10,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Ashton Crowther looks like a LHP option who limits runs and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 2.90",
-          "WHIP 1.13",
-          "K/9 6.1"
+          "ERA 3.27",
+          "WHIP 1.18",
+          "K/9 6.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.90"
+            "value": "3.27"
           },
           {
             "label": "WHIP",
-            "value": "1.13"
+            "value": "1.18"
           },
           {
             "label": "K/9",
-            "value": "6.1"
+            "value": "6.3"
           },
           {
             "label": "BB/9",
-            "value": "2.3"
+            "value": "2.2"
           },
           {
             "label": "HR/9",
-            "value": "0.87"
+            "value": "1.36"
           },
           {
             "label": "IP",
-            "value": "31.0"
+            "value": "33.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 19.06158357771261,
-          "Command": 32.5,
+          "Miss bats": 20.661157024793386,
+          "Command": 37.5,
           "Damage suppression": 0
         },
         "metaLine": "R-JR / L-L",
@@ -29490,21 +29490,21 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "INF",
         "classYear": "SO",
         "handedness": "L/R",
-        "score": 60,
+        "score": 61,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Ty Mainolfi profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .322",
+          "AVG .323",
           "OBP .411",
-          "SLG .432"
+          "SLG .444"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".322"
+            "value": ".323"
           },
           {
             "label": "OBP",
@@ -29512,15 +29512,15 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "SLG",
-            "value": ".432"
+            "value": ".444"
           },
           {
             "label": "HR",
-            "value": "1"
+            "value": "2"
           },
           {
             "label": "RBI",
-            "value": "49"
+            "value": "51"
           },
           {
             "label": "SB",
@@ -29529,8 +29529,8 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         ],
         "components": {
           "On-base": 72.77777777777776,
-          "Power": 29.47368421052632,
-          "Contact": 63.75000000000001,
+          "Power": 32.631578947368425,
+          "Contact": 64.375,
           "Discipline": 79.08496732026141,
           "Speed": 63.33333333333333
         },
@@ -29903,29 +29903,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "OF",
         "classYear": "SO",
         "handedness": "L/L",
-        "score": 38,
+        "score": 40,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Colin Larson profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .221",
-          "OBP .408",
-          "SLG .336"
+          "AVG .225",
+          "OBP .412",
+          "SLG .338"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".221"
+            "value": ".225"
           },
           {
             "label": "OBP",
-            "value": ".408"
+            "value": ".412"
           },
           {
             "label": "SLG",
-            "value": ".336"
+            "value": ".338"
           },
           {
             "label": "HR",
@@ -29941,10 +29941,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 71.11111111111109,
-          "Power": 4.210526315789478,
-          "Contact": 0.6250000000000006,
-          "Discipline": 51.85185185185184,
+          "On-base": 73.3333333333333,
+          "Power": 4.736842105263163,
+          "Contact": 3.1250000000000027,
+          "Discipline": 52.52525252525252,
           "Speed": 70
         },
         "metaLine": "SO / L/L",
@@ -29972,7 +29972,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "C",
         "classYear": "GR",
         "handedness": "R/R",
-        "score": 26,
+        "score": 25,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -29980,8 +29980,8 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "summary": "Gunnar Johnson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .250",
-          "OBP .356",
-          "SLG .382"
+          "OBP .354",
+          "SLG .379"
         ],
         "statCards": [
           {
@@ -29990,11 +29990,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "OBP",
-            "value": ".356"
+            "value": ".354"
           },
           {
             "label": "SLG",
-            "value": ".382"
+            "value": ".379"
           },
           {
             "label": "HR",
@@ -30002,7 +30002,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "RBI",
-            "value": "31"
+            "value": "32"
           },
           {
             "label": "SB",
@@ -30010,10 +30010,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 42.2222222222222,
-          "Power": 16.315789473684212,
+          "On-base": 41.111111111111086,
+          "Power": 15.526315789473685,
           "Contact": 18.75,
-          "Discipline": 26.797385620915026,
+          "Discipline": 25.39682539682539,
           "Speed": 10
         },
         "metaLine": "GR / R/R",
@@ -30110,29 +30110,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "INF",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 59,
+        "score": 60,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Luke Gallo profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .321",
-          "OBP .432",
-          "SLG .421"
+          "AVG .325",
+          "OBP .434",
+          "SLG .429"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".321"
+            "value": ".325"
           },
           {
             "label": "OBP",
-            "value": ".432"
+            "value": ".434"
           },
           {
             "label": "SLG",
-            "value": ".421"
+            "value": ".429"
           },
           {
             "label": "HR",
@@ -30148,9 +30148,9 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 84.44444444444443,
-          "Power": 26.57894736842105,
-          "Contact": 63.125,
+          "On-base": 85.55555555555554,
+          "Power": 28.68421052631579,
+          "Contact": 65.625,
           "Discipline": 74.39613526570045,
           "Speed": 30
         },
@@ -30248,29 +30248,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "INF",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 73,
+        "score": 71,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Julio Solier profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .361",
-          "OBP .439",
-          "SLG .506"
+          "AVG .354",
+          "OBP .434",
+          "SLG .498"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".361"
+            "value": ".354"
           },
           {
             "label": "OBP",
-            "value": ".439"
+            "value": ".434"
           },
           {
             "label": "SLG",
-            "value": ".506"
+            "value": ".498"
           },
           {
             "label": "HR",
@@ -30286,10 +30286,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 88.33333333333331,
-          "Power": 48.94736842105264,
-          "Contact": 88.12499999999999,
-          "Discipline": 51.010101010100996,
+          "On-base": 85.55555555555554,
+          "Power": 46.842105263157904,
+          "Contact": 83.74999999999999,
+          "Discipline": 51.85185185185184,
           "Speed": 93.33333333333333
         },
         "metaLine": "SO / R/R",
@@ -30393,22 +30393,22 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "Kyle Wolff gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .236",
-          "OBP .326",
-          "SLG .500"
+          "AVG .232",
+          "OBP .331",
+          "SLG .491"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".236"
+            "value": ".232"
           },
           {
             "label": "OBP",
-            "value": ".326"
+            "value": ".331"
           },
           {
             "label": "SLG",
-            "value": ".500"
+            "value": ".491"
           },
           {
             "label": "HR",
@@ -30424,10 +30424,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 25.555555555555546,
-          "Power": 47.36842105263158,
-          "Contact": 9.999999999999991,
-          "Discipline": 38.38383838383837,
+          "On-base": 28.33333333333333,
+          "Power": 45,
+          "Contact": 7.500000000000007,
+          "Discipline": 40.579710144927525,
           "Speed": 0
         },
         "metaLine": "SR / R/L",
@@ -30662,48 +30662,48 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "LHP",
         "classYear": "SO",
         "handedness": "R/L",
-        "score": 14,
+        "score": 16,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Brady Miller looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.79",
-          "WHIP 1.50",
-          "K/9 9.3"
+          "ERA 6.07",
+          "WHIP 1.49",
+          "K/9 9.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.79"
+            "value": "6.07"
           },
           {
             "label": "WHIP",
-            "value": "1.50"
+            "value": "1.49"
           },
           {
             "label": "K/9",
-            "value": "9.3"
+            "value": "9.9"
           },
           {
             "label": "BB/9",
-            "value": "3.9"
+            "value": "3.7"
           },
           {
             "label": "HR/9",
-            "value": "0.88"
+            "value": "1.12"
           },
           {
             "label": "IP",
-            "value": "51.3"
+            "value": "56.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 48.11097992916174,
-          "Command": 28.181818181818187,
+          "Miss bats": 53.68477676169984,
+          "Command": 33.91304347826087,
           "Damage suppression": 0
         },
         "metaLine": "SO / R/L",
@@ -31013,41 +31013,41 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "John D Mitchell looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 7.52",
-          "WHIP 2.02",
-          "K/9 10.2"
+          "ERA 7.17",
+          "WHIP 1.97",
+          "K/9 10.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.52"
+            "value": "7.17"
           },
           {
             "label": "WHIP",
-            "value": "2.02"
+            "value": "1.97"
           },
           {
             "label": "K/9",
-            "value": "10.2"
+            "value": "10.1"
           },
           {
             "label": "BB/9",
-            "value": "6.2"
+            "value": "5.9"
           },
           {
             "label": "HR/9",
-            "value": "2.21"
+            "value": "2.11"
           },
           {
             "label": "IP",
-            "value": "20.3"
+            "value": "21.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 56.18479880774964,
-          "Command": 12.857142857142861,
+          "Miss bats": 55.68181818181818,
+          "Command": 14.285714285714285,
           "Damage suppression": 0
         },
         "metaLine": "SO / L/R",
@@ -31075,29 +31075,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "OF",
         "classYear": "GR",
         "handedness": "R/L",
-        "score": 47,
+        "score": 45,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Carter Hendrickson profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .242",
-          "OBP .415",
-          "SLG .394"
+          "AVG .235",
+          "OBP .410",
+          "SLG .382"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".242"
+            "value": ".235"
           },
           {
             "label": "OBP",
-            "value": ".415"
+            "value": ".410"
           },
           {
             "label": "SLG",
-            "value": ".394"
+            "value": ".382"
           },
           {
             "label": "HR",
@@ -31113,10 +31113,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 74.99999999999997,
-          "Power": 19.473684210526322,
-          "Contact": 13.749999999999996,
-          "Discipline": 82.71604938271604,
+          "On-base": 72.2222222222222,
+          "Power": 16.315789473684212,
+          "Contact": 9.374999999999991,
+          "Discipline": 83.04093567251459,
           "Speed": 40
         },
         "metaLine": "GR / R/L",
@@ -31144,48 +31144,48 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "RHP",
         "classYear": "GR",
         "handedness": "R/R",
-        "score": 13,
+        "score": 14,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Sean Hard looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 4.56",
-          "WHIP 1.64",
-          "K/9 10.5"
+          "ERA 4.67",
+          "WHIP 1.70",
+          "K/9 10.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.56"
+            "value": "4.67"
           },
           {
             "label": "WHIP",
-            "value": "1.64"
+            "value": "1.70"
           },
           {
             "label": "K/9",
-            "value": "10.5"
+            "value": "10.7"
           },
           {
             "label": "BB/9",
-            "value": "7.4"
+            "value": "7.3"
           },
           {
             "label": "HR/9",
-            "value": "0.70"
+            "value": "0.67"
           },
           {
             "label": "IP",
-            "value": "25.7"
+            "value": "27.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 59.268004722550174,
-          "Command": 8.571428571428571,
+          "Miss bats": 60.606060606060595,
+          "Command": 9.090909090909092,
           "Damage suppression": 0
         },
         "metaLine": "GR / R/R",
@@ -31494,40 +31494,40 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "John Kwiatkowski gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.04",
-          "WHIP 1.68",
-          "K/9 7.9"
+          "ERA 4.91",
+          "WHIP 1.64",
+          "K/9 7.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.04"
+            "value": "4.91"
           },
           {
             "label": "WHIP",
-            "value": "1.68"
+            "value": "1.64"
           },
           {
             "label": "K/9",
-            "value": "7.9"
+            "value": "7.7"
           },
           {
             "label": "BB/9",
-            "value": "3.6"
+            "value": "3.5"
           },
           {
             "label": "HR/9",
-            "value": "0.72"
+            "value": "0.70"
           },
           {
             "label": "IP",
-            "value": "25.0"
+            "value": "25.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 35.63636363636364,
+          "Miss bats": 33.76623376623376,
           "Command": 23.999999999999993,
           "Damage suppression": 0
         },
@@ -31556,29 +31556,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "OF",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 75,
+        "score": 73,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Jack Toomey profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .322",
-          "OBP .449",
-          "SLG .561"
+          "AVG .316",
+          "OBP .445",
+          "SLG .552"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".322"
+            "value": ".316"
           },
           {
             "label": "OBP",
-            "value": ".449"
+            "value": ".445"
           },
           {
             "label": "SLG",
-            "value": ".561"
+            "value": ".552"
           },
           {
             "label": "HR",
@@ -31594,10 +31594,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 93.88888888888889,
-          "Power": 63.421052631578966,
-          "Contact": 63.75000000000001,
-          "Discipline": 78.04878048780486,
+          "On-base": 91.66666666666666,
+          "Power": 61.05263157894739,
+          "Contact": 60,
+          "Discipline": 80.75880758807587,
           "Speed": 60
         },
         "metaLine": "SR / R/R",
@@ -31763,29 +31763,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "INF",
         "classYear": "GR",
         "handedness": "R/R",
-        "score": 63,
+        "score": 61,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Nick Wang profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .300",
-          "OBP .408",
-          "SLG .581"
+          "AVG .294",
+          "OBP .404",
+          "SLG .570"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".300"
+            "value": ".294"
           },
           {
             "label": "OBP",
-            "value": ".408"
+            "value": ".404"
           },
           {
             "label": "SLG",
-            "value": ".581"
+            "value": ".570"
           },
           {
             "label": "HR",
@@ -31797,15 +31797,15 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "SB",
-            "value": "11"
+            "value": "12"
           }
         ],
         "components": {
-          "On-base": 71.11111111111109,
-          "Power": 68.6842105263158,
-          "Contact": 49.999999999999986,
-          "Discipline": 67.61229314420801,
-          "Speed": 36.666666666666664
+          "On-base": 68.88888888888889,
+          "Power": 65.78947368421052,
+          "Contact": 46.249999999999986,
+          "Discipline": 69.97635933806146,
+          "Speed": 40
         },
         "metaLine": "GR / R/R",
         "detailBadges": [
@@ -32177,29 +32177,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "INF",
         "classYear": "SO",
         "handedness": "L/R",
-        "score": 22,
+        "score": 23,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Danny Surowiec gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .220",
-          "OBP .366",
-          "SLG .312"
+          "AVG .227",
+          "OBP .370",
+          "SLG .318"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".220"
+            "value": ".227"
           },
           {
             "label": "OBP",
-            "value": ".366"
+            "value": ".370"
           },
           {
             "label": "SLG",
-            "value": ".312"
+            "value": ".318"
           },
           {
             "label": "HR",
@@ -32215,9 +32215,9 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 47.77777777777776,
+          "On-base": 49.999999999999986,
           "Power": 0,
-          "Contact": 0,
+          "Contact": 4.3750000000000036,
           "Discipline": 36.80555555555555,
           "Speed": 13.333333333333334
         },
@@ -39926,29 +39926,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "OF",
         "classYear": "GR",
         "handedness": "4V",
-        "score": 48,
+        "score": 50,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Casey Murray Jr. profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .316",
-          "OBP .400",
-          "SLG .473"
+          "AVG .321",
+          "OBP .405",
+          "SLG .475"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".316"
+            "value": ".321"
           },
           {
             "label": "OBP",
-            "value": ".400"
+            "value": ".405"
           },
           {
             "label": "SLG",
-            "value": ".473"
+            "value": ".475"
           },
           {
             "label": "HR",
@@ -39964,10 +39964,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 66.66666666666666,
-          "Power": 40.26315789473684,
-          "Contact": 60,
-          "Discipline": 29.749103942652322,
+          "On-base": 69.44444444444444,
+          "Power": 40.78947368421053,
+          "Contact": 63.125,
+          "Discipline": 31.54121863799283,
           "Speed": 10
         },
         "metaLine": "GR / 4V",
@@ -39995,29 +39995,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "INF",
         "classYear": "SO",
         "handedness": "1V",
-        "score": 34,
+        "score": 32,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jake Downing gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .284",
-          "OBP .371",
-          "SLG .418"
+          "AVG .278",
+          "OBP .365",
+          "SLG .409"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".284"
+            "value": ".278"
           },
           {
             "label": "OBP",
-            "value": ".371"
+            "value": ".365"
           },
           {
             "label": "SLG",
-            "value": ".418"
+            "value": ".409"
           },
           {
             "label": "HR",
@@ -40033,10 +40033,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 50.55555555555554,
-          "Power": 25.789473684210524,
-          "Contact": 39.99999999999998,
-          "Discipline": 27.160493827160487,
+          "On-base": 47.22222222222221,
+          "Power": 23.42105263157894,
+          "Contact": 36.250000000000014,
+          "Discipline": 25.64102564102564,
           "Speed": 3.3333333333333335
         },
         "metaLine": "SO / 1V",
@@ -40064,29 +40064,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "OF",
         "classYear": "GR",
         "handedness": "4V",
-        "score": 43,
+        "score": 39,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Dylan Kordic gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .280",
-          "OBP .374",
-          "SLG .524"
+          "AVG .272",
+          "OBP .364",
+          "SLG .509"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".280"
+            "value": ".272"
           },
           {
             "label": "OBP",
-            "value": ".374"
+            "value": ".364"
           },
           {
             "label": "SLG",
-            "value": ".524"
+            "value": ".509"
           },
           {
             "label": "HR",
@@ -40102,9 +40102,9 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 52.222222222222214,
-          "Power": 53.6842105263158,
-          "Contact": 37.500000000000014,
+          "On-base": 46.66666666666665,
+          "Power": 49.736842105263165,
+          "Contact": 32.500000000000014,
           "Discipline": 37.39837398373984,
           "Speed": 3.3333333333333335
         },
@@ -40140,22 +40140,22 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "Alejandro Garza gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .324",
-          "OBP .357",
-          "SLG .456"
+          "AVG .325",
+          "OBP .358",
+          "SLG .455"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".324"
+            "value": ".325"
           },
           {
             "label": "OBP",
-            "value": ".357"
+            "value": ".358"
           },
           {
             "label": "SLG",
-            "value": ".456"
+            "value": ".455"
           },
           {
             "label": "HR",
@@ -40171,9 +40171,9 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 42.77777777777775,
-          "Power": 35.789473684210535,
-          "Contact": 65,
+          "On-base": 43.333333333333314,
+          "Power": 35.52631578947369,
+          "Contact": 65.625,
           "Discipline": 49.67320261437908,
           "Speed": 13.333333333333334
         },
@@ -40202,29 +40202,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "OF",
         "classYear": "SO",
         "handedness": "1V",
-        "score": 29,
+        "score": 28,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Dante Vachini gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .290",
-          "OBP .340",
-          "SLG .409"
+          "AVG .289",
+          "OBP .338",
+          "SLG .406"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".290"
+            "value": ".289"
           },
           {
             "label": "OBP",
-            "value": ".340"
+            "value": ".338"
           },
           {
             "label": "SLG",
-            "value": ".409"
+            "value": ".406"
           },
           {
             "label": "HR",
@@ -40240,9 +40240,9 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 33.33333333333333,
-          "Power": 23.42105263157894,
-          "Contact": 43.749999999999986,
+          "On-base": 32.22222222222222,
+          "Power": 22.631578947368432,
+          "Contact": 43.124999999999986,
           "Discipline": 21.548821548821543,
           "Speed": 10
         },
@@ -40271,29 +40271,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "INF",
         "classYear": "SO",
         "handedness": "1V",
-        "score": 59,
+        "score": 58,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Nate Castellon profiles as a INF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .331",
-          "OBP .408",
-          "SLG .448"
+          "AVG .328",
+          "OBP .405",
+          "SLG .443"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".331"
+            "value": ".328"
           },
           {
             "label": "OBP",
-            "value": ".408"
+            "value": ".405"
           },
           {
             "label": "SLG",
-            "value": ".448"
+            "value": ".443"
           },
           {
             "label": "HR",
@@ -40301,7 +40301,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "RBI",
-            "value": "30"
+            "value": "31"
           },
           {
             "label": "SB",
@@ -40309,9 +40309,9 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 71.11111111111109,
-          "Power": 33.684210526315795,
-          "Contact": 69.37500000000001,
+          "On-base": 69.44444444444444,
+          "Power": 32.36842105263158,
+          "Contact": 67.5,
           "Discipline": 100,
           "Speed": 13.333333333333334
         },
@@ -40478,37 +40478,37 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "INF",
         "classYear": "FR",
         "handedness": "HS",
-        "score": 33,
+        "score": 35,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Gavin Spiridonoff gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .291",
-          "OBP .356",
-          "SLG .475"
+          "AVG .292",
+          "OBP .359",
+          "SLG .491"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".291"
+            "value": ".292"
           },
           {
             "label": "OBP",
-            "value": ".356"
+            "value": ".359"
           },
           {
             "label": "SLG",
-            "value": ".475"
+            "value": ".491"
           },
           {
             "label": "HR",
-            "value": "3"
+            "value": "4"
           },
           {
             "label": "RBI",
-            "value": "23"
+            "value": "26"
           },
           {
             "label": "SB",
@@ -40516,9 +40516,9 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 42.2222222222222,
-          "Power": 40.78947368421053,
-          "Contact": 44.374999999999986,
+          "On-base": 43.888888888888864,
+          "Power": 45,
+          "Contact": 44.999999999999986,
           "Discipline": 9.027777777777775,
           "Speed": 0
         },
@@ -40684,37 +40684,37 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "C",
         "classYear": "JR",
         "handedness": "2V",
-        "score": 80,
+        "score": 79,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Ryan Tayman profiles as a C piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .366",
-          "OBP .458",
-          "SLG .678"
+          "AVG .362",
+          "OBP .453",
+          "SLG .681"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".366"
+            "value": ".362"
           },
           {
             "label": "OBP",
-            "value": ".458"
+            "value": ".453"
           },
           {
             "label": "SLG",
-            "value": ".678"
+            "value": ".681"
           },
           {
             "label": "HR",
-            "value": "17"
+            "value": "18"
           },
           {
             "label": "RBI",
-            "value": "55"
+            "value": "56"
           },
           {
             "label": "SB",
@@ -40722,10 +40722,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 98.88888888888889,
-          "Power": 94.2105263157895,
-          "Contact": 91.25,
-          "Discipline": 50.241545893719795,
+          "On-base": 96.1111111111111,
+          "Power": 95.00000000000003,
+          "Contact": 88.75,
+          "Discipline": 48.69976359338061,
           "Speed": 3.3333333333333335
         },
         "metaLine": "JR / 2V",
@@ -41242,18 +41242,18 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "Nick Bonn looks like a RHP option who limits runs and misses bats.",
         "summaryMetrics": [
-          "ERA 3.64",
-          "WHIP 1.34",
+          "ERA 3.49",
+          "WHIP 1.29",
           "K/9 9.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.64"
+            "value": "3.49"
           },
           {
             "label": "WHIP",
-            "value": "1.34"
+            "value": "1.29"
           },
           {
             "label": "K/9",
@@ -41261,22 +41261,22 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "BB/9",
-            "value": "4.0"
+            "value": "3.9"
           },
           {
             "label": "HR/9",
-            "value": "0.19"
+            "value": "0.18"
           },
           {
             "label": "IP",
-            "value": "47.0"
+            "value": "49.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 47.19535783365571,
-          "Command": 25.714285714285722,
+          "Miss bats": 47.12430426716141,
+          "Command": 27.61904761904762,
           "Damage suppression": 0
         },
         "metaLine": "SR / 3V",
@@ -41715,48 +41715,48 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "RHP",
         "classYear": "FR",
         "handedness": "HS",
-        "score": 18,
+        "score": 17,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Corden Pettey looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 4.60",
-          "WHIP 1.45",
-          "K/9 10.1"
+          "ERA 4.53",
+          "WHIP 1.46",
+          "K/9 10.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.60"
+            "value": "4.53"
           },
           {
             "label": "WHIP",
-            "value": "1.45"
+            "value": "1.46"
           },
           {
             "label": "K/9",
-            "value": "10.1"
+            "value": "10.0"
           },
           {
             "label": "BB/9",
-            "value": "3.4"
+            "value": "3.5"
           },
           {
             "label": "HR/9",
-            "value": "0.92"
+            "value": "0.91"
           },
           {
             "label": "IP",
-            "value": "58.7"
+            "value": "59.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 55.68181818181818,
-          "Command": 40,
+          "Miss bats": 54.13915693245301,
+          "Command": 37.39130434782608,
           "Damage suppression": 0
         },
         "metaLine": "FR / HS",
@@ -42058,48 +42058,48 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "LHP",
         "classYear": "JR",
         "handedness": "2V",
-        "score": 16,
+        "score": 18,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Josh Volmerding looks like a LHP option who misses bats.",
+        "summary": "Josh Volmerding looks like a LHP option who misses bats and throws enough strikes.",
         "summaryMetrics": [
-          "ERA 7.65",
-          "WHIP 1.60",
-          "K/9 9.4"
+          "ERA 6.58",
+          "WHIP 1.46",
+          "K/9 9.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.65"
+            "value": "6.58"
           },
           {
             "label": "WHIP",
-            "value": "1.60"
+            "value": "1.46"
           },
           {
             "label": "K/9",
-            "value": "9.4"
+            "value": "9.7"
           },
           {
             "label": "BB/9",
-            "value": "3.1"
+            "value": "2.8"
           },
           {
             "label": "HR/9",
-            "value": "0.45"
+            "value": "0.35"
           },
           {
             "label": "IP",
-            "value": "20.0"
+            "value": "26.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 49.54545454545454,
-          "Command": 40,
+          "Miss bats": 51.74825174825174,
+          "Command": 50,
           "Damage suppression": 0
         },
         "metaLine": "JR / 2V",
@@ -62860,29 +62860,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "OF",
         "classYear": "GR",
         "handedness": "L/R",
-        "score": 62,
+        "score": 58,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Jeff Sabater profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .367",
-          "OBP .457",
-          "SLG .444"
+          "AVG .358",
+          "OBP .445",
+          "SLG .432"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".367"
+            "value": ".358"
           },
           {
             "label": "OBP",
-            "value": ".457"
+            "value": ".445"
           },
           {
             "label": "SLG",
-            "value": ".444"
+            "value": ".432"
           },
           {
             "label": "HR",
@@ -62898,9 +62898,9 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 98.33333333333333,
-          "Power": 32.631578947368425,
-          "Contact": 91.875,
+          "On-base": 91.66666666666666,
+          "Power": 29.47368421052632,
+          "Contact": 86.25,
           "Discipline": 33.33333333333333,
           "Speed": 10
         },
@@ -63066,29 +63066,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "OF",
         "classYear": "R-SO",
         "handedness": "L/R",
-        "score": 64,
+        "score": 63,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Davin Whitaker profiles as a OF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .328",
-          "OBP .427",
-          "SLG .566"
+          "AVG .323",
+          "OBP .428",
+          "SLG .554"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".328"
+            "value": ".323"
           },
           {
             "label": "OBP",
-            "value": ".427"
+            "value": ".428"
           },
           {
             "label": "SLG",
-            "value": ".566"
+            "value": ".554"
           },
           {
             "label": "HR",
@@ -63096,7 +63096,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "RBI",
-            "value": "44"
+            "value": "45"
           },
           {
             "label": "SB",
@@ -63104,10 +63104,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 81.66666666666666,
-          "Power": 64.73684210526315,
-          "Contact": 67.5,
-          "Discipline": 45.95959595959595,
+          "On-base": 82.22222222222221,
+          "Power": 61.57894736842107,
+          "Contact": 64.375,
+          "Discipline": 50.241545893719795,
           "Speed": 20
         },
         "metaLine": "R-SO / L/R",
@@ -63135,25 +63135,25 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "L/R",
-        "score": 1,
+        "score": 6,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Nick Parham gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .200",
-          "OBP .277",
+          "AVG .205",
+          "OBP .300",
           "SLG .318"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".200"
+            "value": ".205"
           },
           {
             "label": "OBP",
-            "value": ".277"
+            "value": ".300"
           },
           {
             "label": "SLG",
@@ -63165,7 +63165,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "RBI",
-            "value": "9"
+            "value": "11"
           },
           {
             "label": "SB",
@@ -63173,10 +63173,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 0,
+          "On-base": 11.111111111111091,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 0,
+          "Discipline": 11.111111111111107,
           "Speed": 10
         },
         "metaLine": "JR / L/R",
@@ -63341,25 +63341,25 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "LHP",
         "classYear": "R-JR",
         "handedness": "L/L",
-        "score": 9,
+        "score": 8,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Ryan Towers looks like a LHP option who limits runs and keeps traffic under control.",
+        "summary": "Ryan Towers looks like a LHP option who limits runs.",
         "summaryMetrics": [
-          "ERA 2.98",
-          "WHIP 1.17",
+          "ERA 3.39",
+          "WHIP 1.27",
           "K/9 6.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.98"
+            "value": "3.39"
           },
           {
             "label": "WHIP",
-            "value": "1.17"
+            "value": "1.27"
           },
           {
             "label": "K/9",
@@ -63367,22 +63367,22 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "BB/9",
-            "value": "3.3"
+            "value": "3.7"
           },
           {
             "label": "HR/9",
-            "value": "1.10"
+            "value": "1.08"
           },
           {
             "label": "IP",
-            "value": "57.3"
+            "value": "58.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 26.42706131078224,
-          "Command": 21.90476190476191,
+          "Miss bats": 26.753246753246746,
+          "Command": 17.499999999999996,
           "Damage suppression": 0
         },
         "metaLine": "R-JR / L/L",
@@ -63410,29 +63410,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "UTL",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 20,
+        "score": 16,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Alex Bouche gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .273",
-          "OBP .327",
-          "SLG .409"
+          "AVG .261",
+          "OBP .314",
+          "SLG .391"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".273"
+            "value": ".261"
           },
           {
             "label": "OBP",
-            "value": ".327"
+            "value": ".314"
           },
           {
             "label": "SLG",
-            "value": ".409"
+            "value": ".391"
           },
           {
             "label": "HR",
@@ -63448,9 +63448,9 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 26.111111111111107,
-          "Power": 23.42105263157894,
-          "Contact": 33.12500000000001,
+          "On-base": 18.888888888888875,
+          "Power": 18.684210526315795,
+          "Contact": 25.625000000000004,
           "Discipline": 0,
           "Speed": 0
         },
@@ -63486,41 +63486,41 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "Brett Antolick looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 8.83",
-          "WHIP 1.85",
-          "K/9 14.5"
+          "ERA 7.91",
+          "WHIP 1.71",
+          "K/9 14.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "8.83"
+            "value": "7.91"
           },
           {
             "label": "WHIP",
-            "value": "1.85"
+            "value": "1.71"
           },
           {
             "label": "K/9",
-            "value": "14.5"
+            "value": "14.0"
           },
           {
             "label": "BB/9",
-            "value": "4.2"
+            "value": "3.7"
           },
           {
             "label": "HR/9",
-            "value": "2.08"
+            "value": "1.86"
           },
           {
             "label": "IP",
-            "value": "17.3"
+            "value": "19.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 95.80419580419583,
-          "Command": 50,
+          "Miss bats": 90.59561128526646,
+          "Command": 55.00000000000001,
           "Damage suppression": 0
         },
         "metaLine": "R-SO / R/R",
@@ -63686,37 +63686,37 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "OF",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 51,
+        "score": 56,
         "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
-        "summary": "Grady Lenahan profiles as a OF piece who adds running-game pressure.",
+        "summary": "Grady Lenahan profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .297",
-          "OBP .391",
-          "SLG .514"
+          "AVG .300",
+          "OBP .402",
+          "SLG .526"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".297"
+            "value": ".300"
           },
           {
             "label": "OBP",
-            "value": ".391"
+            "value": ".402"
           },
           {
             "label": "SLG",
-            "value": ".514"
+            "value": ".526"
           },
           {
             "label": "HR",
-            "value": "8"
+            "value": "9"
           },
           {
             "label": "RBI",
-            "value": "46"
+            "value": "48"
           },
           {
             "label": "SB",
@@ -63724,10 +63724,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 61.66666666666666,
-          "Power": 51.05263157894737,
-          "Contact": 48.12499999999999,
-          "Discipline": 42.59259259259259,
+          "On-base": 67.77777777777779,
+          "Power": 54.21052631578949,
+          "Contact": 49.999999999999986,
+          "Discipline": 50.42735042735041,
           "Speed": 36.666666666666664
         },
         "metaLine": "FR / R/R",
@@ -63755,29 +63755,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "C",
         "classYear": "SO",
         "handedness": "L/R",
-        "score": 54,
+        "score": 66,
         "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
         "summary": "Michael Kalinich profiles as a C piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .283",
-          "OBP .400",
-          "SLG .576"
+          "AVG .323",
+          "OBP .432",
+          "SLG .616"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".283"
+            "value": ".323"
           },
           {
             "label": "OBP",
-            "value": ".400"
+            "value": ".432"
           },
           {
             "label": "SLG",
-            "value": ".576"
+            "value": ".616"
           },
           {
             "label": "HR",
@@ -63785,7 +63785,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "RBI",
-            "value": "30"
+            "value": "33"
           },
           {
             "label": "SB",
@@ -63793,10 +63793,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 66.66666666666666,
-          "Power": 67.36842105263158,
-          "Contact": 39.374999999999986,
-          "Discipline": 56.48148148148147,
+          "On-base": 84.44444444444443,
+          "Power": 77.89473684210527,
+          "Contact": 64.375,
+          "Discipline": 53.333333333333336,
           "Speed": 0
         },
         "metaLine": "SO / L/R",
@@ -63824,29 +63824,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "L/R",
-        "score": 45,
+        "score": 41,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Matt Lashley profiles as a INF piece who gets on base at a high clip and controls at-bats.",
+        "summary": "Matt Lashley gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .283",
-          "OBP .401",
-          "SLG .381"
+          "AVG .276",
+          "OBP .393",
+          "SLG .371"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".283"
+            "value": ".276"
           },
           {
             "label": "OBP",
-            "value": ".401"
+            "value": ".393"
           },
           {
             "label": "SLG",
-            "value": ".381"
+            "value": ".371"
           },
           {
             "label": "HR",
@@ -63862,10 +63862,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 67.22222222222223,
-          "Power": 16.05263157894737,
-          "Contact": 39.374999999999986,
-          "Discipline": 88.88888888888889,
+          "On-base": 62.77777777777778,
+          "Power": 13.421052631578947,
+          "Contact": 35.000000000000014,
+          "Discipline": 77.19298245614034,
           "Speed": 0
         },
         "metaLine": "JR / L/R",
@@ -63971,7 +63971,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "summaryMetrics": [
           "ERA 4.08",
           "WHIP 1.32",
-          "K/9 13.0"
+          "K/9 13.1"
         ],
         "statCards": [
           {
@@ -63984,26 +63984,26 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "K/9",
-            "value": "13.0"
+            "value": "13.1"
           },
           {
             "label": "BB/9",
-            "value": "2.9"
+            "value": "2.8"
           },
           {
             "label": "HR/9",
-            "value": "1.02"
+            "value": "1.00"
           },
           {
             "label": "IP",
-            "value": "88.3"
+            "value": "90.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 82.19554030874787,
-          "Command": 71.42857142857142,
+          "Miss bats": 82.2878228782288,
+          "Command": 73.57142857142858,
           "Damage suppression": 0
         },
         "metaLine": "JR / L/L",
@@ -64176,22 +64176,22 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "Austin Irby gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .238",
-          "OBP .352",
-          "SLG .345"
+          "AVG .241",
+          "OBP .354",
+          "SLG .344"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".238"
+            "value": ".241"
           },
           {
             "label": "OBP",
-            "value": ".352"
+            "value": ".354"
           },
           {
             "label": "SLG",
-            "value": ".345"
+            "value": ".344"
           },
           {
             "label": "HR",
@@ -64199,7 +64199,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "RBI",
-            "value": "36"
+            "value": "39"
           },
           {
             "label": "SB",
@@ -64207,10 +64207,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 39.99999999999997,
-          "Power": 6.578947368421045,
-          "Contact": 11.249999999999991,
-          "Discipline": 81.72043010752685,
+          "On-base": 41.111111111111086,
+          "Power": 6.315789473684203,
+          "Contact": 13.124999999999995,
+          "Discipline": 78.47222222222221,
           "Speed": 6.666666666666667
         },
         "metaLine": "SO / L/R",
@@ -64238,7 +64238,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "C",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 34,
+        "score": 33,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -64246,8 +64246,8 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "summary": "Walker Barron gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .281",
-          "OBP .363",
-          "SLG .421"
+          "OBP .358",
+          "SLG .416"
         ],
         "statCards": [
           {
@@ -64256,11 +64256,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "OBP",
-            "value": ".363"
+            "value": ".358"
           },
           {
             "label": "SLG",
-            "value": ".421"
+            "value": ".416"
           },
           {
             "label": "HR",
@@ -64268,7 +64268,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "RBI",
-            "value": "35"
+            "value": "36"
           },
           {
             "label": "SB",
@@ -64276,10 +64276,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 46.11111111111109,
-          "Power": 26.57894736842105,
+          "On-base": 43.333333333333314,
+          "Power": 25.26315789473684,
           "Contact": 38.125000000000014,
-          "Discipline": 36.419753086419746,
+          "Discipline": 34.83483483483483,
           "Speed": 3.3333333333333335
         },
         "metaLine": "JR / R/R",
@@ -64375,29 +64375,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "INF/OF",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 76,
+        "score": 77,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Braden Burress profiles as a INF/OF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .357",
-          "OBP .457",
-          "SLG .477"
+          "AVG .361",
+          "OBP .460",
+          "SLG .482"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".357"
+            "value": ".361"
           },
           {
             "label": "OBP",
-            "value": ".457"
+            "value": ".460"
           },
           {
             "label": "SLG",
-            "value": ".477"
+            "value": ".482"
           },
           {
             "label": "HR",
@@ -64413,9 +64413,9 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 98.33333333333333,
-          "Power": 41.31578947368421,
-          "Contact": 85.62499999999999,
+          "On-base": 100,
+          "Power": 42.63157894736842,
+          "Contact": 88.12499999999999,
           "Discipline": 100,
           "Speed": 40
         },
@@ -64582,29 +64582,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "OF",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 36,
+        "score": 32,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Brayden Bachman gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .256",
-          "OBP .346",
-          "SLG .465"
+          "AVG .250",
+          "OBP .340",
+          "SLG .455"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".256"
+            "value": ".250"
           },
           {
             "label": "OBP",
-            "value": ".346"
+            "value": ".340"
           },
           {
             "label": "SLG",
-            "value": ".465"
+            "value": ".455"
           },
           {
             "label": "HR",
@@ -64620,10 +64620,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 36.666666666666636,
-          "Power": 38.15789473684211,
-          "Contact": 22.500000000000004,
-          "Discipline": 73.01587301587298,
+          "On-base": 33.33333333333333,
+          "Power": 35.52631578947369,
+          "Contact": 18.75,
+          "Discipline": 61.11111111111111,
           "Speed": 0
         },
         "metaLine": "FR / R/R",
@@ -64727,14 +64727,14 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "Joseph Webb looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.90",
+          "ERA 3.84",
           "WHIP 1.18",
-          "K/9 11.6"
+          "K/9 11.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.90"
+            "value": "3.84"
           },
           {
             "label": "WHIP",
@@ -64742,26 +64742,26 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "K/9",
-            "value": "11.6"
+            "value": "11.4"
           },
           {
             "label": "BB/9",
-            "value": "4.3"
+            "value": "4.4"
           },
           {
             "label": "HR/9",
-            "value": "0.42"
+            "value": "0.40"
           },
           {
             "label": "IP",
-            "value": "64.7"
+            "value": "68.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 68.65042174320524,
-          "Command": 33.5483870967742,
+          "Miss bats": 67.11229946524064,
+          "Command": 32.121212121212125,
           "Damage suppression": 0
         },
         "metaLine": "SR / R/R",
@@ -64933,26 +64933,26 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "Ethan Rose looks like a RHP option who limits runs.",
         "summaryMetrics": [
-          "ERA 3.44",
-          "WHIP 1.74",
-          "K/9 5.6"
+          "ERA 3.00",
+          "WHIP 1.64",
+          "K/9 5.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.44"
+            "value": "3.00"
           },
           {
             "label": "WHIP",
-            "value": "1.74"
+            "value": "1.64"
           },
           {
             "label": "K/9",
-            "value": "5.6"
+            "value": "5.5"
           },
           {
             "label": "BB/9",
-            "value": "6.1"
+            "value": "5.5"
           },
           {
             "label": "HR/9",
@@ -64960,13 +64960,13 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "IP",
-            "value": "34.0"
+            "value": "39.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 14.171122994652405,
+          "Miss bats": 13.986013986013985,
           "Command": 0,
           "Damage suppression": 0
         },
@@ -65339,29 +65339,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "OF",
         "classYear": "SR",
         "handedness": "S/L",
-        "score": 79,
+        "score": 77,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Jack Herring profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
-          "AVG .351",
-          "OBP .492",
-          "SLG .576"
+          "AVG .344",
+          "OBP .485",
+          "SLG .565"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".351"
+            "value": ".344"
           },
           {
             "label": "OBP",
-            "value": ".492"
+            "value": ".485"
           },
           {
             "label": "SLG",
-            "value": ".576"
+            "value": ".565"
           },
           {
             "label": "HR",
@@ -65378,8 +65378,8 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         ],
         "components": {
           "On-base": 100,
-          "Power": 67.36842105263158,
-          "Contact": 81.87499999999999,
+          "Power": 64.4736842105263,
+          "Contact": 77.49999999999999,
           "Discipline": 100,
           "Speed": 6.666666666666667
         },
@@ -65408,33 +65408,33 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "RHP",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 24,
+        "score": 21,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Thomas Paxton looks like a RHP option who limits runs and throws enough strikes.",
+        "summary": "Thomas Paxton looks like a RHP option who limits runs and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 2.79",
-          "WHIP 1.34",
-          "K/9 8.4"
+          "ERA 2.31",
+          "WHIP 1.20",
+          "K/9 6.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.79"
+            "value": "2.31"
           },
           {
             "label": "WHIP",
-            "value": "1.34"
+            "value": "1.20"
           },
           {
             "label": "K/9",
-            "value": "8.4"
+            "value": "6.9"
           },
           {
             "label": "BB/9",
-            "value": "0.9"
+            "value": "0.8"
           },
           {
             "label": "HR/9",
@@ -65442,13 +65442,13 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "IP",
-            "value": "9.7"
+            "value": "11.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 39.811912225705335,
+          "Miss bats": 26.753246753246756,
           "Command": 100,
           "Damage suppression": 0
         },
@@ -65614,48 +65614,48 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "RHP",
         "classYear": "R-JR",
         "handedness": "R/R",
-        "score": 13,
+        "score": 14,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Gavin Marley looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.00",
-          "WHIP 1.23",
-          "K/9 9.2"
+          "ERA 2.88",
+          "WHIP 1.20",
+          "K/9 9.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.00"
+            "value": "2.88"
           },
           {
             "label": "WHIP",
-            "value": "1.23"
+            "value": "1.20"
           },
           {
             "label": "K/9",
-            "value": "9.2"
+            "value": "9.5"
           },
           {
             "label": "BB/9",
-            "value": "4.4"
+            "value": "4.2"
           },
           {
             "label": "HR/9",
-            "value": "0.46"
+            "value": "0.44"
           },
           {
             "label": "IP",
-            "value": "39.0"
+            "value": "40.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 47.552447552447546,
-          "Command": 22.105263157894726,
+          "Miss bats": 50.149031296572275,
+          "Command": 25.263157894736842,
           "Damage suppression": 0
         },
         "metaLine": "R-JR / R/R",
@@ -65889,25 +65889,25 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "OF",
         "classYear": "R-SO",
         "handedness": "R/R",
-        "score": 59,
+        "score": 60,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Kyle Jones profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .310",
-          "OBP .413",
+          "AVG .314",
+          "OBP .416",
           "SLG .477"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".310"
+            "value": ".314"
           },
           {
             "label": "OBP",
-            "value": ".413"
+            "value": ".416"
           },
           {
             "label": "SLG",
@@ -65919,7 +65919,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "RBI",
-            "value": "42"
+            "value": "44"
           },
           {
             "label": "SB",
@@ -65927,10 +65927,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 73.88888888888886,
+          "On-base": 75.55555555555553,
           "Power": 41.31578947368421,
-          "Contact": 56.25,
-          "Discipline": 60.46511627906976,
+          "Contact": 58.75,
+          "Discipline": 61.11111111111111,
           "Speed": 56.666666666666664
         },
         "metaLine": "R-SO / R/R",
@@ -65958,37 +65958,37 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "INF",
         "classYear": "R-JR",
         "handedness": "R/R",
-        "score": 35,
+        "score": 38,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Cade Kurland gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .267",
-          "OBP .371",
-          "SLG .442"
+          "AVG .273",
+          "OBP .377",
+          "SLG .460"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".267"
+            "value": ".273"
           },
           {
             "label": "OBP",
-            "value": ".371"
+            "value": ".377"
           },
           {
             "label": "SLG",
-            "value": ".442"
+            "value": ".460"
           },
           {
             "label": "HR",
-            "value": "8"
+            "value": "9"
           },
           {
             "label": "RBI",
-            "value": "29"
+            "value": "33"
           },
           {
             "label": "SB",
@@ -65996,9 +65996,9 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 50.55555555555554,
-          "Power": 32.10526315789474,
-          "Contact": 29.375000000000007,
+          "On-base": 53.88888888888887,
+          "Power": 36.842105263157904,
+          "Contact": 33.12500000000001,
           "Discipline": 37.83783783783783,
           "Speed": 0
         },
@@ -66027,29 +66027,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "OF/INF",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 61,
+        "score": 58,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Blake Cyr profiles as a OF/INF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .329",
-          "OBP .408",
-          "SLG .614"
+          "AVG .322",
+          "OBP .404",
+          "SLG .602"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".329"
+            "value": ".322"
           },
           {
             "label": "OBP",
-            "value": ".408"
+            "value": ".404"
           },
           {
             "label": "SLG",
-            "value": ".614"
+            "value": ".602"
           },
           {
             "label": "HR",
@@ -66065,10 +66065,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 71.11111111111109,
-          "Power": 77.36842105263159,
-          "Contact": 68.125,
-          "Discipline": 26.086956521739125,
+          "On-base": 68.88888888888889,
+          "Power": 74.21052631578947,
+          "Contact": 63.75000000000001,
+          "Discipline": 23.129251700680268,
           "Speed": 20
         },
         "metaLine": "SR / R/R",
@@ -66302,29 +66302,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "INF",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 58,
+        "score": 55,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Ethan Surowiec profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .325",
-          "OBP .419",
-          "SLG .544"
+          "AVG .318",
+          "OBP .411",
+          "SLG .533"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".325"
+            "value": ".318"
           },
           {
             "label": "OBP",
-            "value": ".419"
+            "value": ".411"
           },
           {
             "label": "SLG",
-            "value": ".544"
+            "value": ".533"
           },
           {
             "label": "HR",
@@ -66340,10 +66340,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 77.2222222222222,
-          "Power": 58.94736842105265,
-          "Contact": 65.625,
-          "Discipline": 42.013888888888886,
+          "On-base": 72.77777777777776,
+          "Power": 56.052631578947384,
+          "Contact": 61.25000000000001,
+          "Discipline": 41.025641025641015,
           "Speed": 6.666666666666667
         },
         "metaLine": "SO / R/R",
@@ -66378,30 +66378,30 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "Brendan Lawson profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .320",
-          "OBP .522",
-          "SLG .708"
+          "AVG .317",
+          "OBP .515",
+          "SLG .710"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".320"
+            "value": ".317"
           },
           {
             "label": "OBP",
-            "value": ".522"
+            "value": ".515"
           },
           {
             "label": "SLG",
-            "value": ".708"
+            "value": ".710"
           },
           {
             "label": "HR",
-            "value": "18"
+            "value": "19"
           },
           {
             "label": "RBI",
-            "value": "46"
+            "value": "48"
           },
           {
             "label": "SB",
@@ -66411,7 +66411,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "components": {
           "On-base": 100,
           "Power": 100,
-          "Contact": 62.5,
+          "Contact": 60.62499999999999,
           "Discipline": 100,
           "Speed": 46.666666666666664
         },
@@ -66445,43 +66445,43 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Liam Peterson looks like a RHP option who limits runs and misses bats.",
+        "summary": "Liam Peterson looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 3.86",
-          "WHIP 1.37",
-          "K/9 12.1"
+          "ERA 4.59",
+          "WHIP 1.42",
+          "K/9 11.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.86"
+            "value": "4.59"
           },
           {
             "label": "WHIP",
-            "value": "1.37"
+            "value": "1.42"
           },
           {
             "label": "K/9",
-            "value": "12.1"
+            "value": "11.8"
           },
           {
             "label": "BB/9",
-            "value": "4.0"
+            "value": "3.8"
           },
           {
             "label": "HR/9",
-            "value": "0.79"
+            "value": "1.17"
           },
           {
             "label": "IP",
-            "value": "79.3"
+            "value": "84.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 73.98777692895341,
-          "Command": 41.142857142857146,
+          "Miss bats": 71.32590729428675,
+          "Command": 41.66666666666667,
           "Damage suppression": 0
         },
         "metaLine": "JR / R/R",
@@ -66509,29 +66509,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "L/R",
-        "score": 40,
+        "score": 41,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Landon Stripling gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .286",
-          "OBP .359",
-          "SLG .484"
+          "AVG .290",
+          "OBP .360",
+          "SLG .481"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".286"
+            "value": ".290"
           },
           {
             "label": "OBP",
-            "value": ".359"
+            "value": ".360"
           },
           {
             "label": "SLG",
-            "value": ".484"
+            "value": ".481"
           },
           {
             "label": "HR",
@@ -66547,9 +66547,9 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 43.888888888888864,
-          "Power": 43.15789473684211,
-          "Contact": 41.24999999999998,
+          "On-base": 44.44444444444443,
+          "Power": 42.368421052631575,
+          "Contact": 43.749999999999986,
           "Discipline": 55.555555555555536,
           "Speed": 0
         },
@@ -66586,8 +66586,8 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "summary": "Karson Bowen gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .260",
-          "OBP .350",
-          "SLG .436"
+          "OBP .351",
+          "SLG .433"
         ],
         "statCards": [
           {
@@ -66596,11 +66596,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "OBP",
-            "value": ".350"
+            "value": ".351"
           },
           {
             "label": "SLG",
-            "value": ".436"
+            "value": ".433"
           },
           {
             "label": "HR",
@@ -66616,10 +66616,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 38.888888888888864,
-          "Power": 30.526315789473685,
+          "On-base": 39.44444444444442,
+          "Power": 29.73684210526316,
           "Contact": 25.000000000000007,
-          "Discipline": 49.99999999999999,
+          "Discipline": 52.77777777777778,
           "Speed": 0
         },
         "metaLine": "SR / R/R",
@@ -66716,29 +66716,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "OF",
         "classYear": "JR",
         "handedness": "L/L",
-        "score": 53,
+        "score": 50,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Hayden Yost profiles as a OF piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .277",
-          "OBP .382",
-          "SLG .624"
+          "AVG .269",
+          "OBP .378",
+          "SLG .606"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".277"
+            "value": ".269"
           },
           {
             "label": "OBP",
-            "value": ".382"
+            "value": ".378"
           },
           {
             "label": "SLG",
-            "value": ".624"
+            "value": ".606"
           },
           {
             "label": "HR",
@@ -66746,7 +66746,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "RBI",
-            "value": "22"
+            "value": "23"
           },
           {
             "label": "SB",
@@ -66754,10 +66754,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 56.66666666666666,
-          "Power": 80,
-          "Contact": 35.625000000000014,
-          "Discipline": 47.95321637426899,
+          "On-base": 54.44444444444443,
+          "Power": 75.26315789473685,
+          "Contact": 30.625000000000007,
+          "Discipline": 44.444444444444436,
           "Speed": 10
         },
         "metaLine": "JR / L/L",
@@ -66922,48 +66922,48 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "RHP",
         "classYear": "R-FR",
         "handedness": "R/R",
-        "score": 15,
+        "score": 14,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Schuyler Sandford looks like a RHP option who limits runs and misses bats.",
+        "summary": "Schuyler Sandford looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 3.66",
-          "WHIP 1.37",
-          "K/9 10.5"
+          "ERA 4.95",
+          "WHIP 1.45",
+          "K/9 10.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.66"
+            "value": "4.95"
           },
           {
             "label": "WHIP",
-            "value": "1.37"
+            "value": "1.45"
           },
           {
             "label": "K/9",
-            "value": "10.5"
+            "value": "10.3"
           },
           {
             "label": "BB/9",
-            "value": "5.0"
+            "value": "5.4"
           },
           {
             "label": "HR/9",
-            "value": "1.37"
+            "value": "1.35"
           },
           {
             "label": "IP",
-            "value": "19.7"
+            "value": "20.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 59.32203389830508,
-          "Command": 21.818181818181817,
+          "Miss bats": 57.72727272727273,
+          "Command": 18.33333333333333,
           "Damage suppression": 0
         },
         "metaLine": "R-FR / R/R",
@@ -67136,41 +67136,41 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "Billy Barlow looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.31",
-          "WHIP 1.57",
-          "K/9 9.3"
+          "ERA 5.48",
+          "WHIP 1.61",
+          "K/9 9.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.31"
+            "value": "5.48"
           },
           {
             "label": "WHIP",
-            "value": "1.57"
+            "value": "1.61"
           },
           {
             "label": "K/9",
-            "value": "9.3"
+            "value": "9.4"
           },
           {
             "label": "BB/9",
-            "value": "4.0"
+            "value": "3.9"
           },
           {
             "label": "HR/9",
-            "value": "0.44"
+            "value": "0.78"
           },
           {
             "label": "IP",
-            "value": "20.3"
+            "value": "23.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 48.1371087928465,
-          "Command": 26.66666666666666,
+          "Miss bats": 49.01185770750989,
+          "Command": 28.000000000000007,
           "Damage suppression": 0
         },
         "metaLine": "R-SR / R/R",
@@ -68236,18 +68236,18 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "Ernesto Lugo-Canchola looks like a LHP option who misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 4.81",
-          "WHIP 1.16",
+          "ERA 5.35",
+          "WHIP 1.22",
           "K/9 12.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.81"
+            "value": "5.35"
           },
           {
             "label": "WHIP",
-            "value": "1.16"
+            "value": "1.22"
           },
           {
             "label": "K/9",
@@ -70989,27 +70989,27 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "handedness": "R/R",
         "score": 68,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Pursue",
+          "className": "fit-pursue"
         },
         "summary": "Ryan Wynn profiles as a INF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .359",
-          "OBP .405",
-          "SLG .738"
+          "AVG .358",
+          "OBP .408",
+          "SLG .726"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".359"
+            "value": ".358"
           },
           {
             "label": "OBP",
-            "value": ".405"
+            "value": ".408"
           },
           {
             "label": "SLG",
-            "value": ".738"
+            "value": ".726"
           },
           {
             "label": "HR",
@@ -71017,19 +71017,19 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "RBI",
-            "value": "34"
+            "value": "36"
           },
           {
             "label": "SB",
-            "value": "2"
+            "value": "3"
           }
         ],
         "components": {
-          "On-base": 69.44444444444444,
+          "On-base": 71.11111111111109,
           "Power": 100,
-          "Contact": 86.87499999999999,
-          "Discipline": 24.561403508771924,
-          "Speed": 6.666666666666667
+          "Contact": 86.25,
+          "Discipline": 22.22222222222222,
+          "Speed": 10
         },
         "metaLine": "JR / R/R",
         "detailBadges": [
@@ -71063,30 +71063,30 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "Tre Phelps profiles as a INF/OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .371",
-          "OBP .491",
-          "SLG .665"
+          "AVG .370",
+          "OBP .490",
+          "SLG .674"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".371"
+            "value": ".370"
           },
           {
             "label": "OBP",
-            "value": ".491"
+            "value": ".490"
           },
           {
             "label": "SLG",
-            "value": ".665"
+            "value": ".674"
           },
           {
             "label": "HR",
-            "value": "18"
+            "value": "19"
           },
           {
             "label": "RBI",
-            "value": "55"
+            "value": "57"
           },
           {
             "label": "SB",
@@ -71095,9 +71095,9 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         ],
         "components": {
           "On-base": 100,
-          "Power": 90.78947368421055,
-          "Contact": 94.375,
-          "Discipline": 40.455840455840445,
+          "Power": 93.15789473684212,
+          "Contact": 93.75,
+          "Discipline": 38.88888888888889,
           "Speed": 26.666666666666668
         },
         "metaLine": "JR / R/R",
@@ -71125,29 +71125,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "INF",
         "classYear": "SR",
         "handedness": "L/R",
-        "score": 60,
+        "score": 58,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Ryan Black profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .312",
-          "OBP .425",
-          "SLG .535"
+          "AVG .306",
+          "OBP .422",
+          "SLG .526"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".312"
+            "value": ".306"
           },
           {
             "label": "OBP",
-            "value": ".425"
+            "value": ".422"
           },
           {
             "label": "SLG",
-            "value": ".535"
+            "value": ".526"
           },
           {
             "label": "HR",
@@ -71163,10 +71163,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 80.55555555555554,
-          "Power": 56.57894736842106,
-          "Contact": 57.49999999999999,
-          "Discipline": 54.497354497354486,
+          "On-base": 78.88888888888886,
+          "Power": 54.21052631578949,
+          "Contact": 53.75,
+          "Discipline": 51.010101010100996,
           "Speed": 16.666666666666664
         },
         "metaLine": "SR / L/R",
@@ -71201,14 +71201,14 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "Daniel Jackson profiles as a C/OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .394",
+          "AVG .396",
           "OBP .493",
-          "SLG .831"
+          "SLG .830"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".394"
+            "value": ".396"
           },
           {
             "label": "OBP",
@@ -71216,7 +71216,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "SLG",
-            "value": ".831"
+            "value": ".830"
           },
           {
             "label": "HR",
@@ -71263,37 +71263,37 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "INF",
         "classYear": "SR",
         "handedness": "L/R",
-        "score": 52,
+        "score": 54,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Michael O'Shaughnessy profiles as a INF piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .280",
-          "OBP .396",
-          "SLG .647"
+          "AVG .285",
+          "OBP .399",
+          "SLG .669"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".280"
+            "value": ".285"
           },
           {
             "label": "OBP",
-            "value": ".396"
+            "value": ".399"
           },
           {
             "label": "SLG",
-            "value": ".647"
+            "value": ".669"
           },
           {
             "label": "HR",
-            "value": "17"
+            "value": "18"
           },
           {
             "label": "RBI",
-            "value": "48"
+            "value": "49"
           },
           {
             "label": "SB",
@@ -71301,9 +71301,9 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 64.44444444444444,
-          "Power": 86.05263157894738,
-          "Contact": 37.500000000000014,
+          "On-base": 66.11111111111111,
+          "Power": 91.84210526315792,
+          "Contact": 40.624999999999986,
           "Discipline": 14.176245210727965,
           "Speed": 0
         },
@@ -71470,29 +71470,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "C/OF",
         "classYear": "JR",
         "handedness": "L/R",
-        "score": 49,
+        "score": 47,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jack Arcamone profiles as a C/OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .316",
-          "OBP .404",
-          "SLG .500"
+          "AVG .312",
+          "OBP .400",
+          "SLG .494"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".316"
+            "value": ".312"
           },
           {
             "label": "OBP",
-            "value": ".404"
+            "value": ".400"
           },
           {
             "label": "SLG",
-            "value": ".500"
+            "value": ".494"
           },
           {
             "label": "HR",
@@ -71508,10 +71508,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 68.88888888888889,
-          "Power": 47.36842105263158,
-          "Contact": 60,
-          "Discipline": 26.086956521739125,
+          "On-base": 66.66666666666666,
+          "Power": 45.78947368421053,
+          "Contact": 57.49999999999999,
+          "Discipline": 24.07407407407407,
           "Speed": 0
         },
         "metaLine": "JR / L/R",
@@ -71539,29 +71539,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "INF",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 87,
+        "score": 86,
         "fit": {
           "label": "Priority",
           "className": "fit-priority"
         },
         "summary": "Rylan Lujo profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .376",
-          "OBP .457",
-          "SLG .630"
+          "AVG .373",
+          "OBP .453",
+          "SLG .627"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".376"
+            "value": ".373"
           },
           {
             "label": "OBP",
-            "value": ".457"
+            "value": ".453"
           },
           {
             "label": "SLG",
-            "value": ".630"
+            "value": ".627"
           },
           {
             "label": "HR",
@@ -71569,7 +71569,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "RBI",
-            "value": "41"
+            "value": "42"
           },
           {
             "label": "SB",
@@ -71577,9 +71577,9 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 98.33333333333333,
-          "Power": 81.57894736842107,
-          "Contact": 97.5,
+          "On-base": 96.1111111111111,
+          "Power": 80.78947368421053,
+          "Contact": 95.625,
           "Discipline": 88.88888888888889,
           "Speed": 43.333333333333336
         },
@@ -71608,29 +71608,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "INF",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 56,
+        "score": 54,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
         "summary": "Kolby Branch profiles as a INF piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .295",
-          "OBP .396",
-          "SLG .614"
+          "AVG .290",
+          "OBP .390",
+          "SLG .603"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".295"
+            "value": ".290"
           },
           {
             "label": "OBP",
-            "value": ".396"
+            "value": ".390"
           },
           {
             "label": "SLG",
-            "value": ".614"
+            "value": ".603"
           },
           {
             "label": "HR",
@@ -71646,9 +71646,9 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 64.44444444444444,
-          "Power": 77.36842105263159,
-          "Contact": 46.874999999999986,
+          "On-base": 61.11111111111111,
+          "Power": 74.47368421052632,
+          "Contact": 43.749999999999986,
           "Discipline": 40.50179211469534,
           "Speed": 13.333333333333334
         },
@@ -71815,48 +71815,48 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "RHP",
         "classYear": "GR",
         "handedness": "R/R",
-        "score": 21,
+        "score": 23,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Caden Aoki looks like a RHP option who misses bats.",
+        "summary": "Caden Aoki looks like a RHP option who limits runs and misses bats.",
         "summaryMetrics": [
-          "ERA 4.07",
-          "WHIP 1.34",
-          "K/9 11.4"
+          "ERA 3.86",
+          "WHIP 1.33",
+          "K/9 11.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.07"
+            "value": "3.86"
           },
           {
             "label": "WHIP",
-            "value": "1.34"
+            "value": "1.33"
           },
           {
             "label": "K/9",
-            "value": "11.4"
+            "value": "11.8"
           },
           {
             "label": "BB/9",
-            "value": "3.4"
+            "value": "3.2"
           },
           {
             "label": "HR/9",
-            "value": "1.36"
+            "value": "1.24"
           },
           {
             "label": "IP",
-            "value": "66.3"
+            "value": "72.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 67.24531749657378,
-          "Command": 47.199999999999996,
+          "Miss bats": 71.09342270632595,
+          "Command": 53.07692307692308,
           "Damage suppression": 0
         },
         "metaLine": "GR / R/R",
@@ -72098,41 +72098,41 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "Zach Brown looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.06",
-          "WHIP 1.05",
-          "K/9 9.7"
+          "ERA 2.80",
+          "WHIP 0.99",
+          "K/9 9.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.06"
+            "value": "2.80"
           },
           {
             "label": "WHIP",
-            "value": "1.05"
+            "value": "0.99"
           },
           {
             "label": "K/9",
-            "value": "9.7"
+            "value": "9.4"
           },
           {
             "label": "BB/9",
-            "value": "2.5"
+            "value": "2.3"
           },
           {
             "label": "HR/9",
-            "value": "1.39"
+            "value": "1.27"
           },
           {
             "label": "IP",
-            "value": "32.3"
+            "value": "35.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 52.20243673851921,
-          "Command": 57.77777777777777,
+          "Miss bats": 49.31389365351629,
+          "Command": 62.222222222222214,
           "Damage suppression": 0
         },
         "metaLine": "JR / R/R",
@@ -72440,24 +72440,24 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "label": "Monitor",
           "className": "fit-monitor"
         },
-        "summary": "Jordy Oriach profiles as a UTIL piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
+        "summary": "Jordy Oriach profiles as a UTIL piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .303",
-          "OBP .430",
-          "SLG .550"
+          "AVG .300",
+          "OBP .431",
+          "SLG .545"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".303"
+            "value": ".300"
           },
           {
             "label": "OBP",
-            "value": ".430"
+            "value": ".431"
           },
           {
             "label": "SLG",
-            "value": ".550"
+            "value": ".545"
           },
           {
             "label": "HR",
@@ -72473,9 +72473,9 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 83.33333333333331,
-          "Power": 60.526315789473706,
-          "Contact": 51.87499999999999,
+          "On-base": 83.88888888888889,
+          "Power": 59.210526315789494,
+          "Contact": 49.999999999999986,
           "Discipline": 88.88888888888889,
           "Speed": 0
         },
@@ -72787,22 +72787,22 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "Brennan Hudson profiles as a C/INF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .277",
-          "OBP .451",
-          "SLG .738"
+          "AVG .278",
+          "OBP .452",
+          "SLG .729"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".277"
+            "value": ".278"
           },
           {
             "label": "OBP",
-            "value": ".451"
+            "value": ".452"
           },
           {
             "label": "SLG",
-            "value": ".738"
+            "value": ".729"
           },
           {
             "label": "HR",
@@ -72818,10 +72818,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 95,
+          "On-base": 95.55555555555554,
           "Power": 100,
-          "Contact": 35.625000000000014,
-          "Discipline": 82.71604938271604,
+          "Contact": 36.250000000000014,
+          "Discipline": 80.11695906432747,
           "Speed": 0
         },
         "metaLine": "SR / L/R",
@@ -73332,29 +73332,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "OF",
         "classYear": "GR",
         "handedness": "R/R",
-        "score": 41,
+        "score": 37,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Cole Koniarsky gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .321",
-          "OBP .375",
-          "SLG .464"
+          "AVG .310",
+          "OBP .364",
+          "SLG .448"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".321"
+            "value": ".310"
           },
           {
             "label": "OBP",
-            "value": ".375"
+            "value": ".364"
           },
           {
             "label": "SLG",
-            "value": ".464"
+            "value": ".448"
           },
           {
             "label": "HR",
@@ -73370,9 +73370,9 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 52.77777777777777,
-          "Power": 37.89473684210527,
-          "Contact": 63.125,
+          "On-base": 46.66666666666665,
+          "Power": 33.684210526315795,
+          "Contact": 56.25,
           "Discipline": 22.22222222222222,
           "Speed": 0
         },
@@ -82424,49 +82424,49 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "INF/OF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 77,
+        "score": 79,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Tyson LeBlanc profiles as a INF/OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .342",
-          "OBP .425",
-          "SLG .695"
+          "AVG .344",
+          "OBP .430",
+          "SLG .709"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".342"
+            "value": ".344"
           },
           {
             "label": "OBP",
-            "value": ".425"
+            "value": ".430"
           },
           {
             "label": "SLG",
-            "value": ".695"
+            "value": ".709"
           },
           {
             "label": "HR",
-            "value": "23"
+            "value": "24"
           },
           {
             "label": "RBI",
-            "value": "65"
+            "value": "68"
           },
           {
             "label": "SB",
-            "value": "10"
+            "value": "11"
           }
         ],
         "components": {
-          "On-base": 80.55555555555554,
-          "Power": 98.68421052631578,
-          "Contact": 76.25000000000001,
-          "Discipline": 59.41043083900226,
-          "Speed": 33.33333333333333
+          "On-base": 83.33333333333331,
+          "Power": 100,
+          "Contact": 77.49999999999999,
+          "Discipline": 63.94557823129251,
+          "Speed": 36.666666666666664
         },
         "metaLine": "JR / R/R",
         "detailBadges": [
@@ -82562,7 +82562,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "C/1B",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 18,
+        "score": 16,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -82570,8 +82570,8 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "summary": "Max Soliz Jr. gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .206",
-          "OBP .322",
-          "SLG .402"
+          "OBP .317",
+          "SLG .392"
         ],
         "statCards": [
           {
@@ -82580,11 +82580,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "OBP",
-            "value": ".322"
+            "value": ".317"
           },
           {
             "label": "SLG",
-            "value": ".402"
+            "value": ".392"
           },
           {
             "label": "HR",
@@ -82592,7 +82592,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "RBI",
-            "value": "19"
+            "value": "20"
           },
           {
             "label": "SB",
@@ -82600,10 +82600,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 23.333333333333325,
-          "Power": 21.578947368421062,
+          "On-base": 20.555555555555543,
+          "Power": 18.947368421052634,
           "Contact": 0,
-          "Discipline": 35.12544802867383,
+          "Discipline": 33.33333333333333,
           "Speed": 0
         },
         "metaLine": "SR / R/R",
@@ -82631,29 +82631,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "OF/C",
         "classYear": "SO",
         "handedness": "L/R",
-        "score": 56,
+        "score": 53,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
         "summary": "Tyson Owens profiles as a OF/C piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .282",
-          "OBP .412",
-          "SLG .564"
+          "AVG .275",
+          "OBP .406",
+          "SLG .550"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".282"
+            "value": ".275"
           },
           {
             "label": "OBP",
-            "value": ".412"
+            "value": ".406"
           },
           {
             "label": "SLG",
-            "value": ".564"
+            "value": ".550"
           },
           {
             "label": "HR",
@@ -82669,10 +82669,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 73.3333333333333,
-          "Power": 64.21052631578947,
-          "Contact": 38.74999999999998,
-          "Discipline": 52.56410256410257,
+          "On-base": 70,
+          "Power": 60.526315789473706,
+          "Contact": 34.375000000000014,
+          "Discipline": 49.2063492063492,
           "Speed": 20
         },
         "metaLine": "SO / L/R",
@@ -82700,7 +82700,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 40,
+        "score": 39,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -82708,8 +82708,8 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "summary": "Dylan Schlotterback gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .278",
-          "OBP .388",
-          "SLG .405"
+          "OBP .384",
+          "SLG .402"
         ],
         "statCards": [
           {
@@ -82718,11 +82718,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "OBP",
-            "value": ".388"
+            "value": ".384"
           },
           {
             "label": "SLG",
-            "value": ".405"
+            "value": ".402"
           },
           {
             "label": "HR",
@@ -82730,7 +82730,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "RBI",
-            "value": "30"
+            "value": "31"
           },
           {
             "label": "SB",
@@ -82738,8 +82738,8 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 60,
-          "Power": 22.368421052631586,
+          "On-base": 57.77777777777777,
+          "Power": 21.578947368421062,
           "Contact": 36.250000000000014,
           "Discipline": 55.07246376811593,
           "Speed": 6.666666666666667
@@ -83113,48 +83113,48 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "RHP",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 19,
+        "score": 17,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Toby Scheidt looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.00",
-          "WHIP 1.42",
-          "K/9 10.8"
+          "ERA 5.30",
+          "WHIP 1.47",
+          "K/9 10.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.00"
+            "value": "5.30"
           },
           {
             "label": "WHIP",
-            "value": "1.42"
+            "value": "1.47"
           },
           {
             "label": "K/9",
-            "value": "10.8"
+            "value": "10.4"
           },
           {
             "label": "BB/9",
-            "value": "3.5"
+            "value": "3.9"
           },
           {
             "label": "HR/9",
-            "value": "0.50"
+            "value": "0.48"
           },
           {
             "label": "IP",
-            "value": "36.0"
+            "value": "37.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 61.36363636363637,
-          "Command": 41.42857142857143,
+          "Miss bats": 57.87337662337661,
+          "Command": 33.75,
           "Damage suppression": 0
         },
         "metaLine": "SR / R/R",
@@ -83389,29 +83389,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "C",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 51,
+        "score": 49,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Augusto Mungarrieta profiles as a C piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .300",
-          "OBP .392",
-          "SLG .609"
+          "AVG .294",
+          "OBP .390",
+          "SLG .597"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".300"
+            "value": ".294"
           },
           {
             "label": "OBP",
-            "value": ".392"
+            "value": ".390"
           },
           {
             "label": "SLG",
-            "value": ".609"
+            "value": ".597"
           },
           {
             "label": "HR",
@@ -83427,10 +83427,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 62.22222222222222,
-          "Power": 76.05263157894737,
-          "Contact": 49.999999999999986,
-          "Discipline": 11.447811447811446,
+          "On-base": 61.11111111111111,
+          "Power": 72.89473684210527,
+          "Contact": 46.249999999999986,
+          "Discipline": 12.091503267973854,
           "Speed": 3.3333333333333335
         },
         "metaLine": "JR / R/R",
@@ -83458,37 +83458,37 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "INF",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 36,
+        "score": 42,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Dariel Osoria gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .228",
-          "OBP .368",
-          "SLG .418"
+          "AVG .242",
+          "OBP .377",
+          "SLG .454"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".228"
+            "value": ".242"
           },
           {
             "label": "OBP",
-            "value": ".368"
+            "value": ".377"
           },
           {
             "label": "SLG",
-            "value": ".418"
+            "value": ".454"
           },
           {
             "label": "HR",
-            "value": "8"
+            "value": "9"
           },
           {
             "label": "RBI",
-            "value": "41"
+            "value": "42"
           },
           {
             "label": "SB",
@@ -83496,9 +83496,9 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 48.88888888888887,
-          "Power": 25.789473684210524,
-          "Contact": 5.000000000000004,
+          "On-base": 53.88888888888887,
+          "Power": 35.26315789473685,
+          "Contact": 13.749999999999996,
           "Discipline": 83.33333333333333,
           "Speed": 13.333333333333334
         },
@@ -83527,7 +83527,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "RHP",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 19,
+        "score": 20,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -83535,8 +83535,8 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "summary": "Riane Ritter looks like a RHP option who misses bats.",
         "summaryMetrics": [
           "ERA 5.49",
-          "WHIP 1.31",
-          "K/9 10.7"
+          "WHIP 1.32",
+          "K/9 11.0"
         ],
         "statCards": [
           {
@@ -83545,30 +83545,30 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "WHIP",
-            "value": "1.31"
+            "value": "1.32"
           },
           {
             "label": "K/9",
-            "value": "10.7"
+            "value": "11.0"
           },
           {
             "label": "BB/9",
-            "value": "3.4"
+            "value": "3.3"
           },
           {
             "label": "HR/9",
-            "value": "0.92"
+            "value": "1.04"
           },
           {
             "label": "IP",
-            "value": "59.0"
+            "value": "60.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 60.708782742681045,
-          "Command": 43.63636363636363,
+          "Miss bats": 63.43656343656344,
+          "Command": 47.27272727272728,
           "Damage suppression": 0
         },
         "metaLine": "SO / R/R",
@@ -83603,14 +83603,14 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "Brady Ballinger profiles as a INF/OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .286",
+          "AVG .289",
           "OBP .401",
-          "SLG .474"
+          "SLG .477"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".286"
+            "value": ".289"
           },
           {
             "label": "OBP",
@@ -83618,7 +83618,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "SLG",
-            "value": ".474"
+            "value": ".477"
           },
           {
             "label": "HR",
@@ -83626,7 +83626,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "RBI",
-            "value": "43"
+            "value": "45"
           },
           {
             "label": "SB",
@@ -83635,9 +83635,9 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         ],
         "components": {
           "On-base": 67.22222222222223,
-          "Power": 40.526315789473685,
-          "Contact": 41.24999999999998,
-          "Discipline": 79.22705314009659,
+          "Power": 41.31578947368421,
+          "Contact": 43.124999999999986,
+          "Discipline": 74.99999999999999,
           "Speed": 3.3333333333333335
         },
         "metaLine": "JR / L/L",
@@ -83733,48 +83733,48 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "RHP",
         "classYear": "R-JR",
         "handedness": "R/R",
-        "score": 24,
+        "score": 26,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Boede Rahe looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
+        "summary": "Boede Rahe looks like a RHP option who misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.67",
-          "WHIP 1.11",
-          "K/9 11.8"
+          "ERA 4.02",
+          "WHIP 1.13",
+          "K/9 12.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.67"
+            "value": "4.02"
           },
           {
             "label": "WHIP",
-            "value": "1.11"
+            "value": "1.13"
           },
           {
             "label": "K/9",
-            "value": "11.8"
+            "value": "12.1"
           },
           {
             "label": "BB/9",
-            "value": "2.8"
+            "value": "2.7"
           },
           {
             "label": "HR/9",
-            "value": "1.00"
+            "value": "1.29"
           },
           {
             "label": "IP",
-            "value": "54.0"
+            "value": "56.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 71.21212121212122,
-          "Command": 63.52941176470589,
+          "Miss bats": 73.21428571428572,
+          "Command": 68.23529411764706,
           "Damage suppression": 0
         },
         "metaLine": "R-JR / R/R",
@@ -83870,29 +83870,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "OF/C",
         "classYear": "GR",
         "handedness": "L/R",
-        "score": 52,
+        "score": 55,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jordan Bach profiles as a OF/C piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .285",
-          "OBP .415",
-          "SLG .450"
+          "AVG .287",
+          "OBP .422",
+          "SLG .451"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".285"
+            "value": ".287"
           },
           {
             "label": "OBP",
-            "value": ".415"
+            "value": ".422"
           },
           {
             "label": "SLG",
-            "value": ".450"
+            "value": ".451"
           },
           {
             "label": "HR",
@@ -83900,7 +83900,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "RBI",
-            "value": "43"
+            "value": "44"
           },
           {
             "label": "SB",
@@ -83908,10 +83908,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 74.99999999999997,
-          "Power": 34.21052631578948,
-          "Contact": 40.624999999999986,
-          "Discipline": 71.64750957854406,
+          "On-base": 78.88888888888886,
+          "Power": 34.47368421052632,
+          "Contact": 41.874999999999986,
+          "Discipline": 77.39463601532567,
           "Speed": 20
         },
         "metaLine": "GR / L/R",
@@ -84076,25 +84076,25 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "RHP",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 15,
+        "score": 14,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Mathis Nayral looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 4.59",
-          "WHIP 1.38",
+          "ERA 4.92",
+          "WHIP 1.42",
           "K/9 9.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.59"
+            "value": "4.92"
           },
           {
             "label": "WHIP",
-            "value": "1.38"
+            "value": "1.42"
           },
           {
             "label": "K/9",
@@ -84102,22 +84102,22 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "BB/9",
-            "value": "3.5"
+            "value": "3.7"
           },
           {
             "label": "HR/9",
-            "value": "1.21"
+            "value": "1.33"
           },
           {
             "label": "IP",
-            "value": "66.7"
+            "value": "67.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 48.31818181818181,
-          "Command": 33.07692307692307,
+          "Miss bats": 48.275862068965516,
+          "Command": 30,
           "Damage suppression": 0
         },
         "metaLine": "JR / R/R",
@@ -84558,48 +84558,48 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "RHP",
         "classYear": "R-JR",
         "handedness": "R/R",
-        "score": 13,
+        "score": 12,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Manning West looks like a RHP option who limits runs and misses bats.",
         "summaryMetrics": [
-          "ERA 3.94",
-          "WHIP 1.48",
-          "K/9 10.0"
+          "ERA 3.86",
+          "WHIP 1.47",
+          "K/9 9.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.94"
+            "value": "3.86"
           },
           {
             "label": "WHIP",
-            "value": "1.48"
+            "value": "1.47"
           },
           {
             "label": "K/9",
-            "value": "10.0"
+            "value": "9.4"
           },
           {
             "label": "BB/9",
-            "value": "6.4"
+            "value": "6.1"
           },
           {
             "label": "HR/9",
-            "value": "0.61"
+            "value": "0.55"
           },
           {
             "label": "IP",
-            "value": "29.7"
+            "value": "32.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 54.64759959141981,
-          "Command": 11.428571428571429,
+          "Miss bats": 48.79406307977737,
+          "Command": 10.909090909090908,
           "Damage suppression": 0
         },
         "metaLine": "R-JR / R/R",
@@ -108541,29 +108541,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "IF",
         "classYear": "JR",
         "handedness": "2L",
-        "score": 17,
+        "score": 21,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Brayden Randle gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .232",
-          "OBP .321",
-          "SLG .345"
+          "AVG .243",
+          "OBP .331",
+          "SLG .351"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".232"
+            "value": ".243"
           },
           {
             "label": "OBP",
-            "value": ".321"
+            "value": ".331"
           },
           {
             "label": "SLG",
-            "value": ".345"
+            "value": ".351"
           },
           {
             "label": "HR",
@@ -108571,19 +108571,19 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "RBI",
-            "value": "17"
+            "value": "19"
           },
           {
             "label": "SB",
-            "value": "4"
+            "value": "5"
           }
         ],
         "components": {
-          "On-base": 22.777777777777768,
-          "Power": 6.578947368421045,
-          "Contact": 7.500000000000007,
-          "Discipline": 35.24904214559387,
-          "Speed": 13.333333333333334
+          "On-base": 28.33333333333333,
+          "Power": 8.157894736842099,
+          "Contact": 14.374999999999996,
+          "Discipline": 37.03703703703703,
+          "Speed": 16.666666666666664
         },
         "metaLine": "JR / 2L",
         "detailBadges": [
@@ -108610,29 +108610,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "OF",
         "classYear": "R-FR",
         "handedness": "RS",
-        "score": 35,
+        "score": 29,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Brett Moseley gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .226",
-          "OBP .385",
-          "SLG .516"
+          "AVG .212",
+          "OBP .366",
+          "SLG .485"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".226"
+            "value": ".212"
           },
           {
             "label": "OBP",
-            "value": ".385"
+            "value": ".366"
           },
           {
             "label": "SLG",
-            "value": ".516"
+            "value": ".485"
           },
           {
             "label": "HR",
@@ -108648,10 +108648,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 58.33333333333333,
-          "Power": 51.578947368421055,
-          "Contact": 3.7500000000000036,
-          "Discipline": 16.993464052287578,
+          "On-base": 47.77777777777776,
+          "Power": 43.42105263157895,
+          "Contact": 0,
+          "Discipline": 12.865497076023386,
           "Speed": 3.3333333333333335
         },
         "metaLine": "R-FR / RS",
@@ -108816,21 +108816,21 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "IF",
         "classYear": "SO",
         "handedness": "1L",
-        "score": 39,
+        "score": 37,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Owen Paino gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .263",
+          "AVG .255",
           "OBP .398",
-          "SLG .455"
+          "SLG .443"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".263"
+            "value": ".255"
           },
           {
             "label": "OBP",
@@ -108838,7 +108838,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "SLG",
-            "value": ".455"
+            "value": ".443"
           },
           {
             "label": "HR",
@@ -108846,7 +108846,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "RBI",
-            "value": "21"
+            "value": "24"
           },
           {
             "label": "SB",
@@ -108855,9 +108855,9 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         ],
         "components": {
           "On-base": 65.55555555555556,
-          "Power": 35.52631578947369,
-          "Contact": 26.875000000000004,
-          "Discipline": 22.751322751322746,
+          "Power": 32.36842105263158,
+          "Contact": 21.875000000000004,
+          "Discipline": 27.160493827160487,
           "Speed": 3.3333333333333335
         },
         "metaLine": "SO / 1L",
@@ -108885,29 +108885,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "IF",
         "classYear": "SO",
         "handedness": "JC",
-        "score": 30,
+        "score": 22,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Topher Jones gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .232",
-          "OBP .386",
-          "SLG .429"
+          "AVG .217",
+          "OBP .365",
+          "SLG .400"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".232"
+            "value": ".217"
           },
           {
             "label": "OBP",
-            "value": ".386"
+            "value": ".365"
           },
           {
             "label": "SLG",
-            "value": ".429"
+            "value": ".400"
           },
           {
             "label": "HR",
@@ -108923,10 +108923,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 58.88888888888888,
-          "Power": 28.68421052631579,
-          "Contact": 7.500000000000007,
-          "Discipline": 16.425120772946855,
+          "On-base": 47.22222222222221,
+          "Power": 21.052631578947377,
+          "Contact": 0,
+          "Discipline": 11.965811965811964,
           "Speed": 0
         },
         "metaLine": "SO / JC",
@@ -109023,29 +109023,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "OF",
         "classYear": "SO",
         "handedness": "1L",
-        "score": 52,
+        "score": 55,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Hayden Federico profiles as a OF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .295",
-          "OBP .414",
-          "SLG .404"
+          "AVG .300",
+          "OBP .422",
+          "SLG .405"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".295"
+            "value": ".300"
           },
           {
             "label": "OBP",
-            "value": ".414"
+            "value": ".422"
           },
           {
             "label": "SLG",
-            "value": ".404"
+            "value": ".405"
           },
           {
             "label": "HR",
@@ -109057,15 +109057,15 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "SB",
-            "value": "4"
+            "value": "5"
           }
         ],
         "components": {
-          "On-base": 74.44444444444443,
-          "Power": 22.105263157894743,
-          "Contact": 46.874999999999986,
-          "Discipline": 88.88888888888889,
-          "Speed": 13.333333333333334
+          "On-base": 78.88888888888886,
+          "Power": 22.368421052631586,
+          "Contact": 49.999999999999986,
+          "Discipline": 92.47311827956987,
+          "Speed": 16.666666666666664
         },
         "metaLine": "SO / 1L",
         "detailBadges": [
@@ -109092,25 +109092,25 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "RHP",
         "classYear": "SO",
         "handedness": "1L",
-        "score": 27,
+        "score": 25,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Cade Townsend looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
+        "summary": "Cade Townsend looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.81",
-          "WHIP 1.12",
+          "ERA 3.94",
+          "WHIP 1.20",
           "K/9 12.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.81"
+            "value": "3.94"
           },
           {
             "label": "WHIP",
-            "value": "1.12"
+            "value": "1.20"
           },
           {
             "label": "K/9",
@@ -109118,22 +109118,22 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "BB/9",
-            "value": "2.6"
+            "value": "3.1"
           },
           {
             "label": "HR/9",
-            "value": "1.37"
+            "value": "1.41"
           },
           {
             "label": "IP",
-            "value": "59.0"
+            "value": "64.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 75.96302003081664,
-          "Command": 75.29411764705883,
+          "Miss bats": 76.13636363636364,
+          "Command": 60,
           "Damage suppression": 0
         },
         "metaLine": "SO / 1L",
@@ -109161,29 +109161,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "IF",
         "classYear": "JR",
         "handedness": "TR",
-        "score": 58,
+        "score": 56,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Dom Decker profiles as a IF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .274",
-          "OBP .422",
-          "SLG .442"
+          "AVG .273",
+          "OBP .416",
+          "SLG .435"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".274"
+            "value": ".273"
           },
           {
             "label": "OBP",
-            "value": ".422"
+            "value": ".416"
           },
           {
             "label": "SLG",
-            "value": ".442"
+            "value": ".435"
           },
           {
             "label": "HR",
@@ -109191,19 +109191,19 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "RBI",
-            "value": "31"
+            "value": "33"
           },
           {
             "label": "SB",
-            "value": "12"
+            "value": "13"
           }
         ],
         "components": {
-          "On-base": 78.88888888888886,
-          "Power": 32.10526315789474,
-          "Contact": 33.750000000000014,
+          "On-base": 75.55555555555553,
+          "Power": 30.263157894736842,
+          "Contact": 33.12500000000001,
           "Discipline": 100,
-          "Speed": 40
+          "Speed": 43.333333333333336
         },
         "metaLine": "JR / TR",
         "detailBadges": [
@@ -109574,29 +109574,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "C/IF",
         "classYear": "SR",
         "handedness": "1L",
-        "score": 32,
+        "score": 33,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Collin Reuter gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .265",
-          "OBP .363",
-          "SLG .469"
+          "AVG .264",
+          "OBP .367",
+          "SLG .466"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".265"
+            "value": ".264"
           },
           {
             "label": "OBP",
-            "value": ".363"
+            "value": ".367"
           },
           {
             "label": "SLG",
-            "value": ".469"
+            "value": ".466"
           },
           {
             "label": "HR",
@@ -109612,10 +109612,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 46.11111111111109,
-          "Power": 39.210526315789465,
-          "Contact": 28.125000000000007,
-          "Discipline": 10.945273631840791,
+          "On-base": 48.333333333333314,
+          "Power": 38.42105263157896,
+          "Contact": 27.500000000000007,
+          "Discipline": 13.72549019607843,
           "Speed": 6.666666666666667
         },
         "metaLine": "SR / 1L",
@@ -109788,41 +109788,41 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "Hudson Calhoun looks like a RHP option who limits runs and misses bats.",
         "summaryMetrics": [
-          "ERA 3.80",
-          "WHIP 1.36",
-          "K/9 13.3"
+          "ERA 3.71",
+          "WHIP 1.33",
+          "K/9 13.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.80"
+            "value": "3.71"
           },
           {
             "label": "WHIP",
-            "value": "1.36"
+            "value": "1.33"
           },
           {
             "label": "K/9",
-            "value": "13.3"
+            "value": "13.0"
           },
           {
             "label": "BB/9",
-            "value": "4.9"
+            "value": "4.7"
           },
           {
             "label": "HR/9",
-            "value": "1.69"
+            "value": "1.65"
           },
           {
             "label": "IP",
-            "value": "42.7"
+            "value": "43.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 84.44602272727273,
-          "Command": 34.78260869565218,
+          "Miss bats": 81.67938931297711,
+          "Command": 34.782608695652165,
           "Damage suppression": 0
         },
         "metaLine": "JR / 2L",
@@ -109850,29 +109850,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "C",
         "classYear": "JR",
         "handedness": "1L",
-        "score": 28,
+        "score": 29,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Austin Fawley gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .232",
-          "OBP .347",
-          "SLG .500"
+          "AVG .230",
+          "OBP .354",
+          "SLG .494"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".232"
+            "value": ".230"
           },
           {
             "label": "OBP",
-            "value": ".347"
+            "value": ".354"
           },
           {
             "label": "SLG",
-            "value": ".500"
+            "value": ".494"
           },
           {
             "label": "HR",
@@ -109880,7 +109880,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "RBI",
-            "value": "37"
+            "value": "39"
           },
           {
             "label": "SB",
@@ -109888,10 +109888,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 37.22222222222219,
-          "Power": 47.36842105263158,
-          "Contact": 7.500000000000007,
-          "Discipline": 19.047619047619044,
+          "On-base": 41.111111111111086,
+          "Power": 45.78947368421053,
+          "Contact": 6.250000000000005,
+          "Discipline": 21.917808219178074,
           "Speed": 0
         },
         "metaLine": "JR / 1L",
@@ -109919,29 +109919,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "OF",
         "classYear": "SR",
         "handedness": "TR",
-        "score": 11,
+        "score": 10,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Daniel Pacella gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .156",
-          "OBP .308",
-          "SLG .375"
+          "AVG .152",
+          "OBP .309",
+          "SLG .364"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".156"
+            "value": ".152"
           },
           {
             "label": "OBP",
-            "value": ".308"
+            "value": ".309"
           },
           {
             "label": "SLG",
-            "value": ".375"
+            "value": ".364"
           },
           {
             "label": "HR",
@@ -109957,10 +109957,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 15.55555555555554,
-          "Power": 14.473684210526317,
+          "On-base": 16.111111111111097,
+          "Power": 11.57894736842105,
           "Contact": 0,
-          "Discipline": 13.62007168458781,
+          "Discipline": 14.814814814814808,
           "Speed": 0
         },
         "metaLine": "SR / TR",
@@ -110056,29 +110056,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "IF",
         "classYear": "SR",
         "handedness": "3L",
-        "score": 66,
+        "score": 65,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Judd Utermark profiles as a IF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .314",
-          "OBP .422",
-          "SLG .645"
+          "AVG .308",
+          "OBP .421",
+          "SLG .634"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".314"
+            "value": ".308"
           },
           {
             "label": "OBP",
-            "value": ".422"
+            "value": ".421"
           },
           {
             "label": "SLG",
-            "value": ".645"
+            "value": ".634"
           },
           {
             "label": "HR",
@@ -110094,10 +110094,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 78.88888888888886,
-          "Power": 85.5263157894737,
-          "Contact": 58.75,
-          "Discipline": 31.050228310502277,
+          "On-base": 78.33333333333331,
+          "Power": 82.63157894736844,
+          "Contact": 54.99999999999999,
+          "Discipline": 32.611832611832604,
           "Speed": 36.666666666666664
         },
         "metaLine": "SR / 3L",
@@ -110268,16 +110268,16 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Tristan Bissetta profiles as a OF piece who brings real extra-base damage.",
+        "summary": "Tristan Bissetta profiles as a OF piece who brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .285",
+          "AVG .281",
           "OBP .391",
-          "SLG .620"
+          "SLG .618"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".285"
+            "value": ".281"
           },
           {
             "label": "OBP",
@@ -110285,27 +110285,27 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "SLG",
-            "value": ".620"
+            "value": ".618"
           },
           {
             "label": "HR",
-            "value": "21"
+            "value": "22"
           },
           {
             "label": "RBI",
-            "value": "59"
+            "value": "60"
           },
           {
             "label": "SB",
-            "value": "7"
+            "value": "8"
           }
         ],
         "components": {
           "On-base": 61.66666666666666,
-          "Power": 78.94736842105264,
-          "Contact": 40.624999999999986,
-          "Discipline": 28.410689170182835,
-          "Speed": 23.333333333333332
+          "Power": 78.42105263157896,
+          "Contact": 38.125000000000014,
+          "Discipline": 27.913279132791324,
+          "Speed": 26.666666666666668
         },
         "metaLine": "SR / TR",
         "detailBadges": [
@@ -110409,7 +110409,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "summary": "Landon Waters looks like a RHP option who limits runs and misses bats.",
         "summaryMetrics": [
           "ERA 3.13",
-          "WHIP 1.30",
+          "WHIP 1.39",
           "K/9 9.4"
         ],
         "statCards": [
@@ -110419,7 +110419,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "WHIP",
-            "value": "1.30"
+            "value": "1.39"
           },
           {
             "label": "K/9",
@@ -110539,7 +110539,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "IF",
         "classYear": "SR",
         "handedness": "3L",
-        "score": 58,
+        "score": 57,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
@@ -110547,8 +110547,8 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "summary": "Will Furniss profiles as a IF piece who gets on base at a high clip.",
         "summaryMetrics": [
           "AVG .319",
-          "OBP .435",
-          "SLG .478"
+          "OBP .433",
+          "SLG .472"
         ],
         "statCards": [
           {
@@ -110557,11 +110557,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "OBP",
-            "value": ".435"
+            "value": ".433"
           },
           {
             "label": "SLG",
-            "value": ".478"
+            "value": ".472"
           },
           {
             "label": "HR",
@@ -110577,10 +110577,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 86.1111111111111,
-          "Power": 41.57894736842105,
+          "On-base": 84.99999999999999,
+          "Power": 40,
           "Contact": 61.875,
-          "Discipline": 58.38779956427014,
+          "Discipline": 58.97435897435896,
           "Speed": 0
         },
         "metaLine": "SR / 3L",
@@ -110745,48 +110745,48 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "RHP",
         "classYear": "R-SO",
         "handedness": "JC",
-        "score": 19,
+        "score": 20,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "JP Robertson looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 4.11",
-          "WHIP 1.57",
-          "K/9 12.3"
+          "ERA 4.15",
+          "WHIP 1.50",
+          "K/9 12.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.11"
+            "value": "4.15"
           },
           {
             "label": "WHIP",
-            "value": "1.57"
+            "value": "1.50"
           },
           {
             "label": "K/9",
-            "value": "12.3"
+            "value": "12.5"
           },
           {
             "label": "BB/9",
-            "value": "5.3"
+            "value": "4.9"
           },
           {
             "label": "HR/9",
-            "value": "0.59"
+            "value": "0.78"
           },
           {
             "label": "IP",
-            "value": "30.7"
+            "value": "34.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 75.69169960474308,
-          "Command": 26.66666666666666,
+          "Miss bats": 76.92307692307693,
+          "Command": 30.526315789473678,
           "Damage suppression": 0
         },
         "metaLine": "R-SO / JC",
@@ -110958,41 +110958,41 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "Wil Libbert looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 6.75",
-          "WHIP 1.73",
-          "K/9 10.0"
+          "ERA 6.32",
+          "WHIP 1.64",
+          "K/9 9.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.75"
+            "value": "6.32"
           },
           {
             "label": "WHIP",
-            "value": "1.73"
+            "value": "1.64"
           },
           {
             "label": "K/9",
-            "value": "10.0"
+            "value": "9.8"
           },
           {
             "label": "BB/9",
-            "value": "4.3"
+            "value": "4.2"
           },
           {
             "label": "HR/9",
-            "value": "2.05"
+            "value": "1.91"
           },
           {
             "label": "IP",
-            "value": "44.0"
+            "value": "47.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 54.75206611570248,
-          "Command": 26.66666666666667,
+          "Miss bats": 52.417794970986456,
+          "Command": 26.363636363636367,
           "Damage suppression": 0
         },
         "metaLine": "SO / TR",
@@ -111025,16 +111025,16 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Taylor Rabe looks like a RHP option who misses bats and throws enough strikes and keeps traffic under control.",
+        "summary": "Taylor Rabe looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 4.08",
+          "ERA 3.84",
           "WHIP 1.03",
-          "K/9 12.7"
+          "K/9 12.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.08"
+            "value": "3.84"
           },
           {
             "label": "WHIP",
@@ -111042,25 +111042,25 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "K/9",
-            "value": "12.7"
+            "value": "12.8"
           },
           {
             "label": "BB/9",
-            "value": "1.3"
+            "value": "1.4"
           },
           {
             "label": "HR/9",
-            "value": "1.57"
+            "value": "1.56"
           },
           {
             "label": "IP",
-            "value": "57.3"
+            "value": "63.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 79.22832980972515,
+          "Miss bats": 79.90430622009569,
           "Command": 100,
           "Damage suppression": 0
         },
@@ -111158,29 +111158,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 64,
+        "score": 60,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Cooper Nicholson profiles as a INF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .277",
-          "OBP .446",
-          "SLG .606"
+          "AVG .269",
+          "OBP .438",
+          "SLG .591"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".277"
+            "value": ".269"
           },
           {
             "label": "OBP",
-            "value": ".446"
+            "value": ".438"
           },
           {
             "label": "SLG",
-            "value": ".606"
+            "value": ".591"
           },
           {
             "label": "HR",
@@ -111196,10 +111196,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 92.22222222222221,
-          "Power": 75.26315789473685,
-          "Contact": 35.625000000000014,
-          "Discipline": 55.15873015873014,
+          "On-base": 87.77777777777777,
+          "Power": 71.3157894736842,
+          "Contact": 30.625000000000007,
+          "Discipline": 52.49042145593869,
           "Speed": 3.3333333333333335
         },
         "metaLine": "JR / R/R",
@@ -111235,8 +111235,8 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "summary": "Jake Schaffner profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
           "AVG .362",
-          "OBP .476",
-          "SLG .578"
+          "OBP .478",
+          "SLG .579"
         ],
         "statCards": [
           {
@@ -111245,11 +111245,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "OBP",
-            "value": ".476"
+            "value": ".478"
           },
           {
             "label": "SLG",
-            "value": ".578"
+            "value": ".579"
           },
           {
             "label": "HR",
@@ -111257,7 +111257,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "RBI",
-            "value": "43"
+            "value": "44"
           },
           {
             "label": "SB",
@@ -111266,7 +111266,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         ],
         "components": {
           "On-base": 100,
-          "Power": 67.89473684210526,
+          "Power": 68.15789473684211,
           "Contact": 88.75,
           "Discipline": 100,
           "Speed": 83.33333333333334
@@ -111441,22 +111441,22 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "Gavin Gallaher gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .282",
-          "OBP .375",
-          "SLG .496"
+          "AVG .283",
+          "OBP .378",
+          "SLG .494"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".282"
+            "value": ".283"
           },
           {
             "label": "OBP",
-            "value": ".375"
+            "value": ".378"
           },
           {
             "label": "SLG",
-            "value": ".496"
+            "value": ".494"
           },
           {
             "label": "HR",
@@ -111472,10 +111472,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 52.77777777777777,
-          "Power": 46.31578947368421,
-          "Contact": 38.74999999999998,
-          "Discipline": 61.11111111111111,
+          "On-base": 54.44444444444443,
+          "Power": 45.78947368421053,
+          "Contact": 39.374999999999986,
+          "Discipline": 61.67800453514738,
           "Speed": 23.333333333333332
         },
         "metaLine": "JR / R/R",
@@ -111503,29 +111503,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "C",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 63,
+        "score": 62,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Macon Winslow profiles as a C piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .302",
-          "OBP .434",
-          "SLG .505"
+          "AVG .301",
+          "OBP .430",
+          "SLG .500"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".302"
+            "value": ".301"
           },
           {
             "label": "OBP",
-            "value": ".434"
+            "value": ".430"
           },
           {
             "label": "SLG",
-            "value": ".505"
+            "value": ".500"
           },
           {
             "label": "HR",
@@ -111533,7 +111533,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "RBI",
-            "value": "54"
+            "value": "55"
           },
           {
             "label": "SB",
@@ -111541,10 +111541,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 85.55555555555554,
-          "Power": 48.684210526315795,
-          "Contact": 51.24999999999999,
-          "Discipline": 100,
+          "On-base": 83.33333333333331,
+          "Power": 47.36842105263158,
+          "Contact": 50.624999999999986,
+          "Discipline": 97.22222222222221,
           "Speed": 0
         },
         "metaLine": "JR / R/R",
@@ -111648,22 +111648,22 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "Owen Hull profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .373",
-          "OBP .491",
-          "SLG .568"
+          "AVG .372",
+          "OBP .493",
+          "SLG .565"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".373"
+            "value": ".372"
           },
           {
             "label": "OBP",
-            "value": ".491"
+            "value": ".493"
           },
           {
             "label": "SLG",
-            "value": ".568"
+            "value": ".565"
           },
           {
             "label": "HR",
@@ -111671,7 +111671,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "RBI",
-            "value": "76"
+            "value": "79"
           },
           {
             "label": "SB",
@@ -111680,8 +111680,8 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         ],
         "components": {
           "On-base": 100,
-          "Power": 65.26315789473684,
-          "Contact": 95.625,
+          "Power": 64.4736842105263,
+          "Contact": 95,
           "Discipline": 100,
           "Speed": 56.666666666666664
         },
@@ -111847,29 +111847,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "OF/1B",
         "classYear": "FR",
         "handedness": "L/L",
-        "score": 32,
+        "score": 30,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Tyler Howe gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .250",
-          "OBP .381",
-          "SLG .353"
+          "AVG .249",
+          "OBP .377",
+          "SLG .349"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".250"
+            "value": ".249"
           },
           {
             "label": "OBP",
-            "value": ".381"
+            "value": ".377"
           },
           {
             "label": "SLG",
-            "value": ".353"
+            "value": ".349"
           },
           {
             "label": "HR",
@@ -111877,7 +111877,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "RBI",
-            "value": "29"
+            "value": "30"
           },
           {
             "label": "SB",
@@ -111885,10 +111885,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 56.1111111111111,
-          "Power": 8.684210526315784,
-          "Contact": 18.75,
-          "Discipline": 48.48484848484848,
+          "On-base": 53.88888888888887,
+          "Power": 7.631578947368414,
+          "Contact": 18.125,
+          "Discipline": 45.41062801932367,
           "Speed": 13.333333333333334
         },
         "metaLine": "FR / L/L",
@@ -112330,29 +112330,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "C",
         "classYear": "GR",
         "handedness": "R/R",
-        "score": 38,
+        "score": 37,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Colin Hynek gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .275",
-          "OBP .362",
-          "SLG .493"
+          "AVG .271",
+          "OBP .360",
+          "SLG .486"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".275"
+            "value": ".271"
           },
           {
             "label": "OBP",
-            "value": ".362"
+            "value": ".360"
           },
           {
             "label": "SLG",
-            "value": ".493"
+            "value": ".486"
           },
           {
             "label": "HR",
@@ -112368,10 +112368,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 45.555555555555536,
-          "Power": 45.526315789473685,
-          "Contact": 34.375000000000014,
-          "Discipline": 35.648148148148145,
+          "On-base": 44.44444444444443,
+          "Power": 43.684210526315795,
+          "Contact": 31.875000000000007,
+          "Discipline": 37.962962962962955,
           "Speed": 3.3333333333333335
         },
         "metaLine": "GR / R/R",
@@ -112468,29 +112468,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "OF/C",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 50,
+        "score": 60,
         "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
-        "summary": "Rom Kellis V profiles as a OF/C piece who brings real extra-base damage.",
+        "summary": "Rom Kellis V profiles as a OF/C piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .327",
-          "OBP .368",
-          "SLG .615"
+          "AVG .352",
+          "OBP .400",
+          "SLG .630"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".327"
+            "value": ".352"
           },
           {
             "label": "OBP",
-            "value": ".368"
+            "value": ".400"
           },
           {
             "label": "SLG",
-            "value": ".615"
+            "value": ".630"
           },
           {
             "label": "HR",
@@ -112506,9 +112506,9 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 48.88888888888887,
-          "Power": 77.63157894736842,
-          "Contact": 66.875,
+          "On-base": 66.66666666666666,
+          "Power": 81.57894736842107,
+          "Contact": 82.49999999999999,
           "Discipline": 14.814814814814808,
           "Speed": 3.3333333333333335
         },
@@ -112888,41 +112888,41 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "Jackson Rose looks like a LHP option who limits runs and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 2.82",
-          "WHIP 1.23",
-          "K/9 8.2"
+          "ERA 2.55",
+          "WHIP 1.13",
+          "K/9 8.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.82"
+            "value": "2.55"
           },
           {
             "label": "WHIP",
-            "value": "1.23"
+            "value": "1.13"
           },
           {
             "label": "K/9",
-            "value": "8.2"
+            "value": "8.3"
           },
           {
             "label": "BB/9",
-            "value": "4.9"
+            "value": "4.7"
           },
           {
             "label": "HR/9",
-            "value": "0.47"
+            "value": "0.43"
           },
           {
             "label": "IP",
-            "value": "38.3"
+            "value": "42.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 38.3399209486166,
-          "Command": 13.333333333333336,
+          "Miss bats": 39.01216893342877,
+          "Command": 15.454545454545453,
           "Damage suppression": 0
         },
         "metaLine": "FR / L/L",
@@ -112957,14 +112957,14 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "Folger Boaz gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 7.30",
+          "ERA 7.03",
           "WHIP 1.85",
-          "K/9 8.3"
+          "K/9 8.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.30"
+            "value": "7.03"
           },
           {
             "label": "WHIP",
@@ -112972,7 +112972,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "K/9",
-            "value": "8.3"
+            "value": "8.5"
           },
           {
             "label": "BB/9",
@@ -112980,18 +112980,18 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "HR/9",
-            "value": "1.36"
+            "value": "1.44"
           },
           {
             "label": "IP",
-            "value": "53.0"
+            "value": "56.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 39.2795883361921,
-          "Command": 24.545454545454543,
+          "Miss bats": 40.61323292092523,
+          "Command": 26.08695652173913,
           "Damage suppression": 0
         },
         "metaLine": "JR / L/L",
@@ -113095,41 +113095,41 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "Walker McDuffie looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 2.73",
-          "WHIP 1.21",
-          "K/9 11.6"
+          "ERA 2.94",
+          "WHIP 1.24",
+          "K/9 11.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.73"
+            "value": "2.94"
           },
           {
             "label": "WHIP",
-            "value": "1.21"
+            "value": "1.24"
           },
           {
             "label": "K/9",
-            "value": "11.6"
+            "value": "11.5"
           },
           {
             "label": "BB/9",
-            "value": "5.2"
+            "value": "5.0"
           },
           {
             "label": "HR/9",
-            "value": "0.29"
+            "value": "0.28"
           },
           {
             "label": "IP",
-            "value": "62.7"
+            "value": "64.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 69.39071566731141,
-          "Command": 25,
+          "Miss bats": 67.92275082430524,
+          "Command": 25.555555555555564,
           "Damage suppression": 0
         },
         "metaLine": "SO / R/R",
@@ -113370,14 +113370,14 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "Erik Paulsen profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .294",
+          "AVG .297",
           "OBP .425",
-          "SLG .477"
+          "SLG .479"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".294"
+            "value": ".297"
           },
           {
             "label": "OBP",
@@ -113385,7 +113385,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "SLG",
-            "value": ".477"
+            "value": ".479"
           },
           {
             "label": "HR",
@@ -113393,19 +113393,19 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "RBI",
-            "value": "50"
+            "value": "52"
           },
           {
             "label": "SB",
-            "value": "0"
+            "value": "1"
           }
         ],
         "components": {
           "On-base": 80.55555555555554,
-          "Power": 41.31578947368421,
-          "Contact": 46.249999999999986,
-          "Discipline": 64.44444444444444,
-          "Speed": 0
+          "Power": 41.84210526315789,
+          "Contact": 48.12499999999999,
+          "Discipline": 59.538784067085935,
+          "Speed": 3.3333333333333335
         },
         "metaLine": "JR / L/L",
         "detailBadges": [
@@ -118942,37 +118942,37 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "OF",
         "classYear": "JR",
         "handedness": "S/R",
-        "score": 28,
+        "score": 33,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jason Walk profiles as a OF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .249",
-          "OBP .360",
-          "SLG .337"
+          "AVG .263",
+          "OBP .370",
+          "SLG .363"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".249"
+            "value": ".263"
           },
           {
             "label": "OBP",
-            "value": ".360"
+            "value": ".370"
           },
           {
             "label": "SLG",
-            "value": ".337"
+            "value": ".363"
           },
           {
             "label": "HR",
-            "value": "3"
+            "value": "4"
           },
           {
             "label": "RBI",
-            "value": "18"
+            "value": "22"
           },
           {
             "label": "SB",
@@ -118980,10 +118980,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 44.44444444444443,
-          "Power": 4.47368421052632,
-          "Contact": 18.125,
-          "Discipline": 33.33333333333333,
+          "On-base": 49.999999999999986,
+          "Power": 11.315789473684207,
+          "Contact": 26.875000000000004,
+          "Discipline": 34.38155136268343,
           "Speed": 46.666666666666664
         },
         "metaLine": "JR / S/R",
@@ -119149,29 +119149,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "OF",
         "classYear": "FR",
         "handedness": "L/L",
-        "score": 18,
+        "score": 16,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Alec Blair gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .250",
-          "OBP .324",
-          "SLG .380"
+          "AVG .247",
+          "OBP .320",
+          "SLG .376"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".250"
+            "value": ".247"
           },
           {
             "label": "OBP",
-            "value": ".324"
+            "value": ".320"
           },
           {
             "label": "SLG",
-            "value": ".380"
+            "value": ".376"
           },
           {
             "label": "HR",
@@ -119187,10 +119187,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 24.444444444444436,
-          "Power": 15.789473684210527,
-          "Contact": 18.75,
-          "Discipline": 13.62007168458781,
+          "On-base": 22.222222222222214,
+          "Power": 14.73684210526316,
+          "Contact": 16.875,
+          "Discipline": 12.499999999999996,
           "Speed": 3.3333333333333335
         },
         "metaLine": "FR / L/L",
@@ -119287,29 +119287,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "INF",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 17,
+        "score": 22,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Kyle Branch gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .216",
-          "OBP .313",
-          "SLG .301"
+          "AVG .231",
+          "OBP .330",
+          "SLG .313"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".216"
+            "value": ".231"
           },
           {
             "label": "OBP",
-            "value": ".313"
+            "value": ".330"
           },
           {
             "label": "SLG",
-            "value": ".301"
+            "value": ".313"
           },
           {
             "label": "HR",
@@ -119317,7 +119317,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "RBI",
-            "value": "17"
+            "value": "20"
           },
           {
             "label": "SB",
@@ -119325,10 +119325,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 18.333333333333318,
+          "On-base": 27.777777777777775,
           "Power": 0,
-          "Contact": 0,
-          "Discipline": 74.39613526570045,
+          "Contact": 6.875000000000006,
+          "Discipline": 79.6296296296296,
           "Speed": 10
         },
         "metaLine": "SO / R/R",
@@ -119356,29 +119356,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "S/R",
-        "score": 48,
+        "score": 50,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jaxon Willits gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .283",
-          "OBP .386",
-          "SLG .481"
+          "AVG .289",
+          "OBP .392",
+          "SLG .485"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".283"
+            "value": ".289"
           },
           {
             "label": "OBP",
-            "value": ".386"
+            "value": ".392"
           },
           {
             "label": "SLG",
-            "value": ".481"
+            "value": ".485"
           },
           {
             "label": "HR",
@@ -119386,7 +119386,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "RBI",
-            "value": "44"
+            "value": "46"
           },
           {
             "label": "SB",
@@ -119394,10 +119394,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 58.88888888888888,
-          "Power": 42.368421052631575,
-          "Contact": 39.374999999999986,
-          "Discipline": 65.07936507936506,
+          "On-base": 62.22222222222222,
+          "Power": 43.42105263157895,
+          "Contact": 43.124999999999986,
+          "Discipline": 68.21705426356588,
           "Speed": 16.666666666666664
         },
         "metaLine": "JR / S/R",
@@ -119425,29 +119425,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 71,
+        "score": 46,
         "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
+          "label": "Depth",
+          "className": "fit-depth"
         },
-        "summary": "Uriah Walters profiles as a INF piece who gets on base at a high clip and brings real extra-base damage.",
+        "summary": "Uriah Walters profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .375",
-          "OBP .500",
-          "SLG .625"
+          "AVG .300",
+          "OBP .417",
+          "SLG .500"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".375"
+            "value": ".300"
           },
           {
             "label": "OBP",
-            "value": ".500"
+            "value": ".417"
           },
           {
             "label": "SLG",
-            "value": ".625"
+            "value": ".500"
           },
           {
             "label": "HR",
@@ -119463,9 +119463,9 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 100,
-          "Power": 80.26315789473685,
-          "Contact": 96.875,
+          "On-base": 76.11111111111109,
+          "Power": 47.36842105263158,
+          "Contact": 49.999999999999986,
           "Discipline": 5.555555555555554,
           "Speed": 0
         },
@@ -119501,22 +119501,22 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "Camden Johnson profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .317",
-          "OBP .405",
-          "SLG .520"
+          "AVG .316",
+          "OBP .406",
+          "SLG .509"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".317"
+            "value": ".316"
           },
           {
             "label": "OBP",
-            "value": ".405"
+            "value": ".406"
           },
           {
             "label": "SLG",
-            "value": ".520"
+            "value": ".509"
           },
           {
             "label": "HR",
@@ -119532,10 +119532,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 69.44444444444444,
-          "Power": 52.63157894736843,
-          "Contact": 60.62499999999999,
-          "Discipline": 27.38095238095238,
+          "On-base": 70,
+          "Power": 49.736842105263165,
+          "Contact": 60,
+          "Discipline": 28.625235404896415,
           "Speed": 86.66666666666667
         },
         "metaLine": "JR / L/R",
@@ -119563,49 +119563,49 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "C/OF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 43,
+        "score": 50,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Brendan Brock profiles as a C/OF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .268",
-          "OBP .360",
-          "SLG .483"
+          "AVG .285",
+          "OBP .374",
+          "SLG .519"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".268"
+            "value": ".285"
           },
           {
             "label": "OBP",
-            "value": ".360"
+            "value": ".374"
           },
           {
             "label": "SLG",
-            "value": ".483"
+            "value": ".519"
           },
           {
             "label": "HR",
-            "value": "10"
+            "value": "12"
           },
           {
             "label": "RBI",
-            "value": "43"
+            "value": "50"
           },
           {
             "label": "SB",
-            "value": "25"
+            "value": "26"
           }
         ],
         "components": {
-          "On-base": 44.44444444444443,
-          "Power": 42.89473684210526,
-          "Contact": 30.00000000000001,
-          "Discipline": 25.64102564102564,
-          "Speed": 83.33333333333334
+          "On-base": 52.222222222222214,
+          "Power": 52.36842105263159,
+          "Contact": 40.624999999999986,
+          "Discipline": 26.599326599326595,
+          "Speed": 86.66666666666667
         },
         "metaLine": "JR / R/R",
         "detailBadges": [
@@ -119770,29 +119770,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "UTL",
         "classYear": "FR",
         "handedness": "L/L",
-        "score": 62,
+        "score": 60,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Connor Larkin profiles as a UTL piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .321",
-          "OBP .486",
-          "SLG .393"
+          "AVG .310",
+          "OBP .474",
+          "SLG .379"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".321"
+            "value": ".310"
           },
           {
             "label": "OBP",
-            "value": ".486"
+            "value": ".474"
           },
           {
             "label": "SLG",
-            "value": ".393"
+            "value": ".379"
           },
           {
             "label": "HR",
@@ -119809,8 +119809,8 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         ],
         "components": {
           "On-base": 100,
-          "Power": 19.21052631578948,
-          "Contact": 63.125,
+          "Power": 15.526315789473685,
+          "Contact": 56.25,
           "Discipline": 100,
           "Speed": 0
         },
@@ -119839,29 +119839,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "INF",
         "classYear": "SR",
         "handedness": "L/L",
-        "score": 38,
+        "score": 42,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Dayton Tockey gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .222",
-          "OBP .378",
-          "SLG .508"
+          "AVG .232",
+          "OBP .396",
+          "SLG .493"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".222"
+            "value": ".232"
           },
           {
             "label": "OBP",
-            "value": ".378"
+            "value": ".396"
           },
           {
             "label": "SLG",
-            "value": ".508"
+            "value": ".493"
           },
           {
             "label": "HR",
@@ -119869,7 +119869,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "RBI",
-            "value": "16"
+            "value": "17"
           },
           {
             "label": "SB",
@@ -119877,10 +119877,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 54.44444444444443,
-          "Power": 49.47368421052632,
-          "Contact": 1.250000000000001,
-          "Discipline": 50.42735042735041,
+          "On-base": 64.44444444444444,
+          "Power": 45.526315789473685,
+          "Contact": 7.500000000000007,
+          "Discipline": 57.14285714285713,
           "Speed": 6.666666666666667
         },
         "metaLine": "SR / L/L",
@@ -119908,29 +119908,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "OF",
         "classYear": "JR",
         "handedness": "L/L",
-        "score": 72,
+        "score": 70,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Dasan Harris profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .361",
-          "OBP .429",
-          "SLG .546"
+          "AVG .357",
+          "OBP .426",
+          "SLG .539"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".361"
+            "value": ".357"
           },
           {
             "label": "OBP",
-            "value": ".429"
+            "value": ".426"
           },
           {
             "label": "SLG",
-            "value": ".546"
+            "value": ".539"
           },
           {
             "label": "HR",
@@ -119938,19 +119938,19 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "RBI",
-            "value": "14"
+            "value": "18"
           },
           {
             "label": "SB",
-            "value": "16"
+            "value": "17"
           }
         ],
         "components": {
-          "On-base": 82.77777777777776,
-          "Power": 59.473684210526336,
-          "Contact": 88.12499999999999,
-          "Discipline": 61.11111111111111,
-          "Speed": 53.333333333333336
+          "On-base": 81.11111111111109,
+          "Power": 57.63157894736843,
+          "Contact": 85.62499999999999,
+          "Discipline": 53.53535353535352,
+          "Speed": 56.666666666666664
         },
         "metaLine": "JR / L/L",
         "detailBadges": [
@@ -119977,48 +119977,48 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "LHP",
         "classYear": "JR",
         "handedness": "L/L",
-        "score": 9,
+        "score": 10,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Gavyn Jones gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.64",
-          "WHIP 1.61",
-          "K/9 8.5"
+          "ERA 5.18",
+          "WHIP 1.56",
+          "K/9 8.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.64"
+            "value": "5.18"
           },
           {
             "label": "WHIP",
-            "value": "1.61"
+            "value": "1.56"
           },
           {
             "label": "K/9",
-            "value": "8.5"
+            "value": "8.9"
           },
           {
             "label": "BB/9",
-            "value": "6.0"
+            "value": "5.9"
           },
           {
             "label": "HR/9",
-            "value": "1.21"
+            "value": "1.11"
           },
           {
             "label": "IP",
-            "value": "22.3"
+            "value": "24.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 40.56987788331073,
-          "Command": 8.000000000000004,
+          "Miss bats": 44.333748443337484,
+          "Command": 9.999999999999995,
           "Damage suppression": 0
         },
         "metaLine": "JR / L/L",
@@ -120114,37 +120114,37 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "OF",
         "classYear": "SR",
         "handedness": "L/R",
-        "score": 66,
+        "score": 68,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Trey Gambill profiles as a OF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .281",
-          "OBP .445",
-          "SLG .485"
+          "AVG .287",
+          "OBP .447",
+          "SLG .506"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".281"
+            "value": ".287"
           },
           {
             "label": "OBP",
-            "value": ".445"
+            "value": ".447"
           },
           {
             "label": "SLG",
-            "value": ".485"
+            "value": ".506"
           },
           {
             "label": "HR",
-            "value": "7"
+            "value": "8"
           },
           {
             "label": "RBI",
-            "value": "29"
+            "value": "33"
           },
           {
             "label": "SB",
@@ -120152,10 +120152,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 91.66666666666666,
-          "Power": 43.42105263157895,
-          "Contact": 38.125000000000014,
-          "Discipline": 94.89489489489488,
+          "On-base": 92.77777777777777,
+          "Power": 48.94736842105264,
+          "Contact": 41.874999999999986,
+          "Discipline": 88.88888888888889,
           "Speed": 53.333333333333336
         },
         "metaLine": "SR / L/R",
@@ -120183,29 +120183,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "OF",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 43,
+        "score": 40,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Drew Dickerson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .287",
-          "OBP .394",
-          "SLG .517"
+          "AVG .281",
+          "OBP .387",
+          "SLG .506"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".287"
+            "value": ".281"
           },
           {
             "label": "OBP",
-            "value": ".394"
+            "value": ".387"
           },
           {
             "label": "SLG",
-            "value": ".517"
+            "value": ".506"
           },
           {
             "label": "HR",
@@ -120221,9 +120221,9 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 63.33333333333333,
-          "Power": 51.8421052631579,
-          "Contact": 41.874999999999986,
+          "On-base": 59.444444444444436,
+          "Power": 48.94736842105264,
+          "Contact": 38.125000000000014,
           "Discipline": 11.111111111111107,
           "Speed": 3.3333333333333335
         },
@@ -120252,48 +120252,48 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "RHP",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 24,
+        "score": 23,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "LJ Mercurius looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.37",
-          "WHIP 1.34",
-          "K/9 12.2"
+          "ERA 5.05",
+          "WHIP 1.30",
+          "K/9 11.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.37"
+            "value": "5.05"
           },
           {
             "label": "WHIP",
-            "value": "1.34"
+            "value": "1.30"
           },
           {
             "label": "K/9",
-            "value": "12.2"
+            "value": "11.8"
           },
           {
             "label": "BB/9",
-            "value": "3.1"
+            "value": "3.2"
           },
           {
             "label": "HR/9",
-            "value": "1.70"
+            "value": "1.60"
           },
           {
             "label": "IP",
-            "value": "63.7"
+            "value": "67.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 74.15516420752023,
-          "Command": 58.18181818181818,
+          "Miss bats": 71.24944021495743,
+          "Command": 54.166666666666664,
           "Damage suppression": 0
         },
         "metaLine": "JR / R/R",
@@ -120528,48 +120528,48 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "LHP",
         "classYear": "SO",
         "handedness": "L/L",
-        "score": 8,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jaden Barfield gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 10.57",
-          "WHIP 2.22",
-          "K/9 8.2"
+          "ERA 9.35",
+          "WHIP 1.96",
+          "K/9 8.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "10.57"
+            "value": "9.35"
           },
           {
             "label": "WHIP",
-            "value": "2.22"
+            "value": "1.96"
           },
           {
             "label": "K/9",
-            "value": "8.2"
+            "value": "8.3"
           },
           {
             "label": "BB/9",
-            "value": "7.0"
+            "value": "6.2"
           },
           {
             "label": "HR/9",
-            "value": "3.52"
+            "value": "3.12"
           },
           {
             "label": "IP",
-            "value": "7.7"
+            "value": "8.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 38.3399209486166,
-          "Command": 3.333333333333335,
+          "Miss bats": 39.16083916083917,
+          "Command": 6.66666666666667,
           "Damage suppression": 0
         },
         "metaLine": "SO / L/L",
@@ -120673,18 +120673,18 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "Cameron Johnson looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 4.02",
-          "WHIP 1.51",
+          "ERA 4.36",
+          "WHIP 1.55",
           "K/9 12.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.02"
+            "value": "4.36"
           },
           {
             "label": "WHIP",
-            "value": "1.51"
+            "value": "1.55"
           },
           {
             "label": "K/9",
@@ -120692,11 +120692,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "BB/9",
-            "value": "7.0"
+            "value": "7.2"
           },
           {
             "label": "HR/9",
-            "value": "0.50"
+            "value": "0.67"
           },
           {
             "label": "IP",
@@ -120707,7 +120707,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Run prevention": 0,
           "Traffic control": 0,
           "Miss bats": 73.40485601355167,
-          "Command": 14.285714285714288,
+          "Command": 13.488372093023257,
           "Damage suppression": 0
         },
         "metaLine": "JR / L/L",
@@ -120942,48 +120942,48 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "RHP",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 17,
+        "score": 14,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Nick Wesloski looks like a RHP option who misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 4.09",
-          "WHIP 1.05",
-          "K/9 10.2"
+          "ERA 4.03",
+          "WHIP 1.07",
+          "K/9 9.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.09"
+            "value": "4.03"
           },
           {
             "label": "WHIP",
-            "value": "1.05"
+            "value": "1.07"
           },
           {
             "label": "K/9",
-            "value": "10.2"
+            "value": "9.0"
           },
           {
             "label": "BB/9",
-            "value": "3.7"
+            "value": "3.4"
           },
           {
             "label": "HR/9",
-            "value": "2.05"
+            "value": "1.86"
           },
           {
             "label": "IP",
-            "value": "22.0"
+            "value": "29.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 56.61157024793388,
-          "Command": 35.55555555555555,
+          "Miss bats": 45.45454545454545,
+          "Command": 32.72727272727273,
           "Damage suppression": 0
         },
         "metaLine": "FR / R/R",
@@ -121148,29 +121148,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "RHP",
         "classYear": "GR",
         "handedness": "R/R",
-        "score": 9,
+        "score": 8,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Reid Hensley looks like a RHP option who misses bats.",
+        "summary": "Reid Hensley gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.73",
-          "WHIP 2.36",
-          "K/9 9.0"
+          "ERA 5.25",
+          "WHIP 2.33",
+          "K/9 8.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.73"
+            "value": "5.25"
           },
           {
             "label": "WHIP",
-            "value": "2.36"
+            "value": "2.33"
           },
           {
             "label": "K/9",
-            "value": "9.0"
+            "value": "8.3"
           },
           {
             "label": "BB/9",
@@ -121178,17 +121178,17 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "HR/9",
-            "value": "0.82"
+            "value": "0.75"
           },
           {
             "label": "IP",
-            "value": "11.0"
+            "value": "12.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
+          "Miss bats": 38.63636363636363,
           "Command": 0,
           "Damage suppression": 0
         },
@@ -121217,37 +121217,37 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "C",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 62,
+        "score": 65,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Deiten Lachance profiles as a C piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .330",
-          "OBP .409",
-          "SLG .594"
+          "AVG .337",
+          "OBP .415",
+          "SLG .605"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".330"
+            "value": ".337"
           },
           {
             "label": "OBP",
-            "value": ".409"
+            "value": ".415"
           },
           {
             "label": "SLG",
-            "value": ".594"
+            "value": ".605"
           },
           {
             "label": "HR",
-            "value": "12"
+            "value": "13"
           },
           {
             "label": "RBI",
-            "value": "51"
+            "value": "56"
           },
           {
             "label": "SB",
@@ -121255,10 +121255,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 71.66666666666664,
-          "Power": 72.10526315789474,
-          "Contact": 68.75000000000001,
-          "Discipline": 55.555555555555536,
+          "On-base": 74.99999999999997,
+          "Power": 75,
+          "Contact": 73.125,
+          "Discipline": 53.658536585365844,
           "Speed": 3.3333333333333335
         },
         "metaLine": "JR / R/R",
@@ -121293,18 +121293,18 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "Jackson Cleveland gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.64",
-          "WHIP 1.48",
+          "ERA 6.48",
+          "WHIP 1.56",
           "K/9 8.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.64"
+            "value": "6.48"
           },
           {
             "label": "WHIP",
-            "value": "1.48"
+            "value": "1.56"
           },
           {
             "label": "K/9",
@@ -121312,22 +121312,22 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "BB/9",
-            "value": "3.3"
+            "value": "3.5"
           },
           {
             "label": "HR/9",
-            "value": "0.59"
+            "value": "0.81"
           },
           {
             "label": "IP",
-            "value": "30.3"
+            "value": "33.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 44.55544455544456,
-          "Command": 34.545454545454554,
+          "Miss bats": 44.63636363636363,
+          "Command": 30.769230769230777,
           "Damage suppression": 0
         },
         "metaLine": "SR / L/R",
@@ -121700,29 +121700,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "C",
         "classYear": "SO",
         "handedness": "S/R",
-        "score": 54,
+        "score": 52,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Burke-Lee Mabeus gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .301",
-          "OBP .397",
-          "SLG .540"
+          "AVG .295",
+          "OBP .394",
+          "SLG .530"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".301"
+            "value": ".295"
           },
           {
             "label": "OBP",
-            "value": ".397"
+            "value": ".394"
           },
           {
             "label": "SLG",
-            "value": ".540"
+            "value": ".530"
           },
           {
             "label": "HR",
@@ -121738,10 +121738,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 65,
-          "Power": 57.894736842105274,
-          "Contact": 50.624999999999986,
-          "Discipline": 56.63082437275986,
+          "On-base": 63.33333333333333,
+          "Power": 55.26315789473686,
+          "Contact": 46.874999999999986,
+          "Discipline": 57.638888888888886,
           "Speed": 6.666666666666667
         },
         "metaLine": "SO / S/R",
@@ -121769,29 +121769,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "UTL",
         "classYear": "JR",
         "handedness": "L/R",
-        "score": 35,
+        "score": 36,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jack Brooks profiles as a UTL piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .242",
-          "OBP .372",
-          "SLG .406"
+          "AVG .244",
+          "OBP .374",
+          "SLG .405"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".242"
+            "value": ".244"
           },
           {
             "label": "OBP",
-            "value": ".372"
+            "value": ".374"
           },
           {
             "label": "SLG",
-            "value": ".406"
+            "value": ".405"
           },
           {
             "label": "HR",
@@ -121799,7 +121799,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "RBI",
-            "value": "26"
+            "value": "27"
           },
           {
             "label": "SB",
@@ -121807,10 +121807,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 51.11111111111109,
-          "Power": 22.631578947368432,
-          "Contact": 13.749999999999996,
-          "Discipline": 38.77995642701525,
+          "On-base": 52.222222222222214,
+          "Power": 22.368421052631586,
+          "Contact": 14.999999999999996,
+          "Discipline": 38.574423480083844,
           "Speed": 53.333333333333336
         },
         "metaLine": "JR / L/R",
@@ -121838,29 +121838,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "INF/OF",
         "classYear": "SO",
         "handedness": "S/R",
-        "score": 65,
+        "score": 63,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Jax Gimenez profiles as a INF/OF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .287",
-          "OBP .468",
-          "SLG .453"
+          "AVG .281",
+          "OBP .464",
+          "SLG .444"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".287"
+            "value": ".281"
           },
           {
             "label": "OBP",
-            "value": ".468"
+            "value": ".464"
           },
           {
             "label": "SLG",
-            "value": ".453"
+            "value": ".444"
           },
           {
             "label": "HR",
@@ -121877,9 +121877,9 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         ],
         "components": {
           "On-base": 100,
-          "Power": 35.00000000000001,
-          "Contact": 41.874999999999986,
-          "Discipline": 100,
+          "Power": 32.631578947368425,
+          "Contact": 38.125000000000014,
+          "Discipline": 96.29629629629628,
           "Speed": 26.666666666666668
         },
         "metaLine": "SO / S/R",
@@ -121907,29 +121907,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 28,
+        "score": 29,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Maddox Molony gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .226",
-          "OBP .337",
-          "SLG .447"
+          "AVG .231",
+          "OBP .340",
+          "SLG .448"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".226"
+            "value": ".231"
           },
           {
             "label": "OBP",
-            "value": ".337"
+            "value": ".340"
           },
           {
             "label": "SLG",
-            "value": ".447"
+            "value": ".448"
           },
           {
             "label": "HR",
@@ -121941,15 +121941,15 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "SB",
-            "value": "2"
+            "value": "3"
           }
         ],
         "components": {
-          "On-base": 31.666666666666664,
-          "Power": 33.42105263157895,
-          "Contact": 3.7500000000000036,
-          "Discipline": 55.85585585585584,
-          "Speed": 6.666666666666667
+          "On-base": 33.33333333333333,
+          "Power": 33.684210526315795,
+          "Contact": 6.875000000000006,
+          "Discipline": 53.80116959064327,
+          "Speed": 10
         },
         "metaLine": "JR / R/R",
         "detailBadges": [
@@ -122045,29 +122045,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "C",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 54,
+        "score": 52,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Brayden Jaksa profiles as a C piece who gets on base at a high clip and brings real extra-base damage.",
+        "summary": "Brayden Jaksa gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .321",
-          "OBP .401",
-          "SLG .552"
+          "AVG .320",
+          "OBP .398",
+          "SLG .544"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".321"
+            "value": ".320"
           },
           {
             "label": "OBP",
-            "value": ".401"
+            "value": ".398"
           },
           {
             "label": "SLG",
-            "value": ".552"
+            "value": ".544"
           },
           {
             "label": "HR",
@@ -122083,10 +122083,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 67.22222222222223,
-          "Power": 61.05263157894739,
-          "Contact": 63.125,
-          "Discipline": 22.22222222222222,
+          "On-base": 65.55555555555556,
+          "Power": 58.94736842105265,
+          "Contact": 62.5,
+          "Discipline": 20.1058201058201,
           "Speed": 20
         },
         "metaLine": "FR / R/R",
@@ -122114,21 +122114,21 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 70,
+        "score": 69,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Ryan Cooney profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .336",
+          "AVG .335",
           "OBP .424",
-          "SLG .536"
+          "SLG .531"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".336"
+            "value": ".335"
           },
           {
             "label": "OBP",
@@ -122136,7 +122136,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "SLG",
-            "value": ".536"
+            "value": ".531"
           },
           {
             "label": "HR",
@@ -122144,7 +122144,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "RBI",
-            "value": "42"
+            "value": "43"
           },
           {
             "label": "SB",
@@ -122153,9 +122153,9 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         ],
         "components": {
           "On-base": 79.99999999999999,
-          "Power": 56.842105263157904,
-          "Contact": 72.50000000000001,
-          "Discipline": 85.30465949820788,
+          "Power": 55.5263157894737,
+          "Contact": 71.87500000000001,
+          "Discipline": 85.41666666666666,
           "Speed": 43.333333333333336
         },
         "metaLine": "JR / R/R",
@@ -122190,41 +122190,41 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "Miles Gosztola looks like a LHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.83",
-          "WHIP 1.22",
-          "K/9 9.7"
+          "ERA 3.61",
+          "WHIP 1.24",
+          "K/9 10.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.83"
+            "value": "3.61"
           },
           {
             "label": "WHIP",
-            "value": "1.22"
+            "value": "1.24"
           },
           {
             "label": "K/9",
-            "value": "9.7"
+            "value": "10.0"
           },
           {
             "label": "BB/9",
-            "value": "3.5"
+            "value": "3.6"
           },
           {
             "label": "HR/9",
-            "value": "1.12"
+            "value": "1.01"
           },
           {
             "label": "IP",
-            "value": "56.3"
+            "value": "62.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 52.23238300161377,
-          "Command": 35.45454545454546,
+          "Miss bats": 54.20515313563442,
+          "Command": 35.2,
           "Damage suppression": 0
         },
         "metaLine": "JR / L/L",
@@ -122260,8 +122260,8 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "summary": "Drew Smith profiles as a INF/OF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
           "AVG .332",
-          "OBP .409",
-          "SLG .599"
+          "OBP .411",
+          "SLG .595"
         ],
         "statCards": [
           {
@@ -122270,11 +122270,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "OBP",
-            "value": ".409"
+            "value": ".411"
           },
           {
             "label": "SLG",
-            "value": ".599"
+            "value": ".595"
           },
           {
             "label": "HR",
@@ -122282,7 +122282,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "RBI",
-            "value": "60"
+            "value": "61"
           },
           {
             "label": "SB",
@@ -122290,10 +122290,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 71.66666666666664,
-          "Power": 73.42105263157896,
+          "On-base": 72.77777777777776,
+          "Power": 72.36842105263158,
           "Contact": 70,
-          "Discipline": 23.23232323232323,
+          "Discipline": 22.553897180762846,
           "Speed": 16.666666666666664
         },
         "metaLine": "SR / R/R",
@@ -122940,21 +122940,21 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "RHP",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 28,
+        "score": 29,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Tanner Bradley looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 1.80",
+          "ERA 1.76",
           "WHIP 0.82",
           "K/9 13.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "1.80"
+            "value": "1.76"
           },
           {
             "label": "WHIP",
@@ -122970,18 +122970,18 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "HR/9",
-            "value": "0.72"
+            "value": "0.71"
           },
           {
             "label": "IP",
-            "value": "50.0"
+            "value": "51.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 89.63636363636364,
-          "Command": 65.55555555555556,
+          "Miss bats": 90.37433155080214,
+          "Command": 67.77777777777779,
           "Damage suppression": 0
         },
         "metaLine": "SO / R/R",
@@ -123975,29 +123975,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "OF",
         "classYear": "FR",
         "handedness": "L/R",
-        "score": 63,
+        "score": 62,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Angel Laya profiles as a OF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .308",
-          "OBP .412",
-          "SLG .567"
+          "AVG .307",
+          "OBP .410",
+          "SLG .561"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".308"
+            "value": ".307"
           },
           {
             "label": "OBP",
-            "value": ".412"
+            "value": ".410"
           },
           {
             "label": "SLG",
-            "value": ".567"
+            "value": ".561"
           },
           {
             "label": "HR",
@@ -124005,7 +124005,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "RBI",
-            "value": "46"
+            "value": "47"
           },
           {
             "label": "SB",
@@ -124013,10 +124013,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 73.3333333333333,
-          "Power": 64.99999999999999,
-          "Contact": 54.99999999999999,
-          "Discipline": 81.22605363984673,
+          "On-base": 72.2222222222222,
+          "Power": 63.421052631578966,
+          "Contact": 54.37499999999999,
+          "Discipline": 77.77777777777776,
           "Speed": 16.666666666666664
         },
         "metaLine": "FR / L/R",
@@ -124113,21 +124113,21 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "RHP",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 18,
+        "score": 20,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Luke Morgan looks like a RHP option who misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 5.40",
+          "ERA 5.18",
           "WHIP 1.11",
-          "K/9 10.4"
+          "K/9 11.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.40"
+            "value": "5.18"
           },
           {
             "label": "WHIP",
@@ -124135,26 +124135,26 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "K/9",
-            "value": "10.4"
+            "value": "11.1"
           },
           {
             "label": "BB/9",
-            "value": "3.5"
+            "value": "3.3"
           },
           {
             "label": "HR/9",
-            "value": "1.16"
+            "value": "1.11"
           },
           {
             "label": "IP",
-            "value": "23.3"
+            "value": "24.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 58.311688311688314,
-          "Command": 40,
+          "Miss bats": 64.50809464508094,
+          "Command": 46.666666666666664,
           "Damage suppression": 0
         },
         "metaLine": "SO / R/R",
@@ -124189,18 +124189,18 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "Devin Bell looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.86",
-          "WHIP 1.11",
+          "ERA 3.75",
+          "WHIP 1.08",
           "K/9 10.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.86"
+            "value": "3.75"
           },
           {
             "label": "WHIP",
-            "value": "1.11"
+            "value": "1.08"
           },
           {
             "label": "K/9",
@@ -124212,18 +124212,18 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "HR/9",
-            "value": "0.26"
+            "value": "0.25"
           },
           {
             "label": "IP",
-            "value": "35.0"
+            "value": "36.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 54.8051948051948,
-          "Command": 66.66666666666666,
+          "Miss bats": 54.54545454545454,
+          "Command": 68.88888888888889,
           "Damage suppression": 0
         },
         "metaLine": "SR / R/R",
@@ -150152,48 +150152,48 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "INF/RHP",
         "classYear": "FR",
         "handedness": "N/A",
-        "score": 24,
+        "score": 19,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Diego Velazquez looks like a INF/RHP option who misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 4.13",
-          "WHIP 0.95",
-          "K/9 9.8"
+          "ERA 4.26",
+          "WHIP 1.04",
+          "K/9 9.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.13"
+            "value": "4.26"
           },
           {
             "label": "WHIP",
-            "value": "0.95"
+            "value": "1.04"
           },
           {
             "label": "K/9",
-            "value": "9.8"
+            "value": "9.7"
           },
           {
             "label": "BB/9",
-            "value": "1.9"
+            "value": "2.6"
           },
           {
             "label": "HR/9",
-            "value": "1.59"
+            "value": "1.71"
           },
           {
             "label": "IP",
-            "value": "28.3"
+            "value": "31.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 53.15508021390375,
-          "Command": 83.33333333333334,
+          "Miss bats": 51.48325358851674,
+          "Command": 55.55555555555555,
           "Damage suppression": 0
         },
         "metaLine": "FR / N/A",
@@ -150221,29 +150221,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 58,
+        "score": 55,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
-        "summary": "Adrian Lopez profiles as a INF piece who brings real extra-base damage.",
+        "summary": "Adrian Lopez gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .308",
-          "OBP .386",
-          "SLG .555"
+          "AVG .302",
+          "OBP .385",
+          "SLG .540"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".308"
+            "value": ".302"
           },
           {
             "label": "OBP",
-            "value": ".386"
+            "value": ".385"
           },
           {
             "label": "SLG",
-            "value": ".555"
+            "value": ".540"
           },
           {
             "label": "HR",
@@ -150259,10 +150259,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 58.88888888888888,
-          "Power": 61.84210526315791,
-          "Contact": 54.99999999999999,
-          "Discipline": 75.4208754208754,
+          "On-base": 58.33333333333333,
+          "Power": 57.894736842105274,
+          "Contact": 51.24999999999999,
+          "Discipline": 70.87087087087085,
           "Speed": 23.333333333333332
         },
         "metaLine": "JR / N/A",
@@ -150290,29 +150290,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 31,
+        "score": 33,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Dean Carpentier gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .237",
-          "OBP .378",
-          "SLG .404"
+          "AVG .246",
+          "OBP .382",
+          "SLG .402"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".237"
+            "value": ".246"
           },
           {
             "label": "OBP",
-            "value": ".378"
+            "value": ".382"
           },
           {
             "label": "SLG",
-            "value": ".404"
+            "value": ".402"
           },
           {
             "label": "HR",
@@ -150328,10 +150328,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 54.44444444444443,
-          "Power": 22.105263157894743,
-          "Contact": 10.624999999999991,
-          "Discipline": 31.54121863799283,
+          "On-base": 56.66666666666666,
+          "Power": 21.578947368421062,
+          "Contact": 16.249999999999996,
+          "Discipline": 35.12544802867383,
           "Speed": 13.333333333333334
         },
         "metaLine": "JR / N/A",
@@ -150359,21 +150359,21 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 44,
+        "score": 43,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Abbrie Covarrubias profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .279",
+          "AVG .276",
           "OBP .379",
-          "SLG .395"
+          "SLG .392"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".279"
+            "value": ".276"
           },
           {
             "label": "OBP",
@@ -150381,7 +150381,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "SLG",
-            "value": ".395"
+            "value": ".392"
           },
           {
             "label": "HR",
@@ -150389,7 +150389,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "RBI",
-            "value": "28"
+            "value": "29"
           },
           {
             "label": "SB",
@@ -150398,9 +150398,9 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         ],
         "components": {
           "On-base": 54.99999999999999,
-          "Power": 19.736842105263165,
-          "Contact": 36.875000000000014,
-          "Discipline": 61.95286195286195,
+          "Power": 18.947368421052634,
+          "Contact": 35.000000000000014,
+          "Discipline": 60.317460317460316,
           "Speed": 56.666666666666664
         },
         "metaLine": "JR / N/A",
@@ -150435,30 +150435,30 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "Kevin Takeuchi profiles as a INF/OF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .307",
-          "OBP .417",
-          "SLG .528"
+          "AVG .311",
+          "OBP .418",
+          "SLG .535"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".307"
+            "value": ".311"
           },
           {
             "label": "OBP",
-            "value": ".417"
+            "value": ".418"
           },
           {
             "label": "SLG",
-            "value": ".528"
+            "value": ".535"
           },
           {
             "label": "HR",
-            "value": "8"
+            "value": "9"
           },
           {
             "label": "RBI",
-            "value": "53"
+            "value": "59"
           },
           {
             "label": "SB",
@@ -150466,10 +150466,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 76.11111111111109,
-          "Power": 54.73684210526317,
-          "Contact": 54.37499999999999,
-          "Discipline": 97.43589743589742,
+          "On-base": 76.66666666666664,
+          "Power": 56.57894736842106,
+          "Contact": 56.875,
+          "Discipline": 91.53439153439152,
           "Speed": 46.666666666666664
         },
         "metaLine": "JR / N/A",
@@ -150504,22 +150504,22 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "Maddox Riske gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .191",
-          "OBP .263",
-          "SLG .241"
+          "AVG .203",
+          "OBP .272",
+          "SLG .252"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".191"
+            "value": ".203"
           },
           {
             "label": "OBP",
-            "value": ".263"
+            "value": ".272"
           },
           {
             "label": "SLG",
-            "value": ".241"
+            "value": ".252"
           },
           {
             "label": "HR",
@@ -150527,7 +150527,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "RBI",
-            "value": "16"
+            "value": "18"
           },
           {
             "label": "SB",
@@ -150777,43 +150777,43 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Andrew Johnson looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
+        "summary": "Andrew Johnson looks like a RHP option who limits runs and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.44",
-          "WHIP 1.24",
-          "K/9 9.2"
+          "ERA 3.46",
+          "WHIP 1.25",
+          "K/9 8.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.44"
+            "value": "3.46"
           },
           {
             "label": "WHIP",
-            "value": "1.24"
+            "value": "1.25"
           },
           {
             "label": "K/9",
-            "value": "9.2"
+            "value": "8.8"
           },
           {
             "label": "BB/9",
-            "value": "3.2"
+            "value": "3.0"
           },
           {
             "label": "HR/9",
-            "value": "1.47"
+            "value": "1.56"
           },
           {
             "label": "IP",
-            "value": "73.3"
+            "value": "80.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 47.31404958677686,
-          "Command": 37.69230769230769,
+          "Miss bats": 43.7640871525169,
+          "Command": 38.51851851851852,
           "Damage suppression": 0
         },
         "metaLine": "SO / N/A",
@@ -150841,29 +150841,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "OF",
         "classYear": "SR",
         "handedness": "N/A",
-        "score": 72,
+        "score": 74,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Jack Basseer profiles as a OF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .348",
-          "OBP .441",
-          "SLG .652"
+          "AVG .349",
+          "OBP .447",
+          "SLG .645"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".348"
+            "value": ".349"
           },
           {
             "label": "OBP",
-            "value": ".441"
+            "value": ".447"
           },
           {
             "label": "SLG",
-            "value": ".652"
+            "value": ".645"
           },
           {
             "label": "HR",
@@ -150871,7 +150871,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "RBI",
-            "value": "38"
+            "value": "41"
           },
           {
             "label": "SB",
@@ -150879,10 +150879,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 89.44444444444444,
-          "Power": 87.36842105263159,
-          "Contact": 79.99999999999999,
-          "Discipline": 40.27777777777777,
+          "On-base": 92.77777777777777,
+          "Power": 85.5263157894737,
+          "Contact": 80.62499999999999,
+          "Discipline": 48.48484848484848,
           "Speed": 3.3333333333333335
         },
         "metaLine": "SR / N/A",
@@ -150978,21 +150978,21 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "OF",
         "classYear": "FR",
         "handedness": "N/A",
-        "score": 69,
+        "score": 68,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Walter Urbon profiles as a OF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .404",
+          "AVG .410",
           "OBP .439",
-          "SLG .654"
+          "SLG .639"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".404"
+            "value": ".410"
           },
           {
             "label": "OBP",
@@ -151000,7 +151000,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "SLG",
-            "value": ".654"
+            "value": ".639"
           },
           {
             "label": "HR",
@@ -151008,7 +151008,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "RBI",
-            "value": "11"
+            "value": "17"
           },
           {
             "label": "SB",
@@ -151017,7 +151017,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         ],
         "components": {
           "On-base": 88.33333333333331,
-          "Power": 87.89473684210527,
+          "Power": 83.94736842105264,
           "Contact": 100,
           "Discipline": 0,
           "Speed": 3.3333333333333335
@@ -151047,7 +151047,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "C",
         "classYear": "FR",
         "handedness": "N/A",
-        "score": 14,
+        "score": 23,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -151055,7 +151055,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "summary": "Isaiah Ibarra gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .200",
-          "OBP .333",
+          "OBP .368",
           "SLG .267"
         ],
         "statCards": [
@@ -151065,7 +151065,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "OBP",
-            "value": ".333"
+            "value": ".368"
           },
           {
             "label": "SLG",
@@ -151085,10 +151085,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 29.44444444444444,
+          "On-base": 48.88888888888887,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 33.33333333333333,
+          "Discipline": 51.85185185185184,
           "Speed": 0
         },
         "metaLine": "FR / N/A",
@@ -151116,37 +151116,37 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "C",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 59,
+        "score": 62,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Isaac Cadena profiles as a C piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .299",
-          "OBP .434",
-          "SLG .513"
+          "AVG .307",
+          "OBP .440",
+          "SLG .532"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".299"
+            "value": ".307"
           },
           {
             "label": "OBP",
-            "value": ".434"
+            "value": ".440"
           },
           {
             "label": "SLG",
-            "value": ".513"
+            "value": ".532"
           },
           {
             "label": "HR",
-            "value": "7"
+            "value": "8"
           },
           {
             "label": "RBI",
-            "value": "33"
+            "value": "35"
           },
           {
             "label": "SB",
@@ -151154,10 +151154,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 85.55555555555554,
-          "Power": 50.78947368421054,
-          "Contact": 49.37499999999999,
-          "Discipline": 54.54545454545454,
+          "On-base": 88.88888888888889,
+          "Power": 55.78947368421054,
+          "Contact": 54.37499999999999,
+          "Discipline": 52.49042145593869,
           "Speed": 16.666666666666664
         },
         "metaLine": "JR / N/A",
@@ -151185,7 +151185,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "INF",
         "classYear": "FR",
         "handedness": "N/A",
-        "score": 0,
+        "score": 1,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -151219,7 +151219,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "SB",
-            "value": "1"
+            "value": "2"
           }
         ],
         "components": {
@@ -151227,7 +151227,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Power": 0,
           "Contact": 0,
           "Discipline": 0,
-          "Speed": 3.3333333333333335
+          "Speed": 6.666666666666667
         },
         "metaLine": "FR / N/A",
         "detailBadges": [
@@ -151254,25 +151254,25 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "RHP",
         "classYear": "FR",
         "handedness": "N/A",
-        "score": 10,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Gavin Lauridsen gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.43",
-          "WHIP 1.37",
+          "ERA 4.84",
+          "WHIP 1.46",
           "K/9 8.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.43"
+            "value": "4.84"
           },
           {
             "label": "WHIP",
-            "value": "1.37"
+            "value": "1.46"
           },
           {
             "label": "K/9",
@@ -151280,7 +151280,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "BB/9",
-            "value": "4.6"
+            "value": "5.0"
           },
           {
             "label": "HR/9",
@@ -151295,7 +151295,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Run prevention": 0,
           "Traffic control": 0,
           "Miss bats": 36.90637720488468,
-          "Command": 14.782608695652172,
+          "Command": 12.000000000000002,
           "Damage suppression": 0
         },
         "metaLine": "FR / N/A",
@@ -151392,37 +151392,37 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "C",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 41,
+        "score": 45,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Augie Lopez profiles as a C piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .267",
-          "OBP .358",
-          "SLG .579"
+          "AVG .275",
+          "OBP .366",
+          "SLG .592"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".267"
+            "value": ".275"
           },
           {
             "label": "OBP",
-            "value": ".358"
+            "value": ".366"
           },
           {
             "label": "SLG",
-            "value": ".579"
+            "value": ".592"
           },
           {
             "label": "HR",
-            "value": "17"
+            "value": "18"
           },
           {
             "label": "RBI",
-            "value": "49"
+            "value": "52"
           },
           {
             "label": "SB",
@@ -151430,10 +151430,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 43.333333333333314,
-          "Power": 68.15789473684211,
-          "Contact": 29.375000000000007,
-          "Discipline": 25.995807127882596,
+          "On-base": 47.77777777777776,
+          "Power": 71.57894736842105,
+          "Contact": 34.375000000000014,
+          "Discipline": 28.282828282828277,
           "Speed": 6.666666666666667
         },
         "metaLine": "SO / N/A",
@@ -151466,43 +151466,43 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Sax Matson looks like a LHP option who misses bats.",
+        "summary": "Sax Matson looks like a LHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 4.03",
-          "WHIP 1.26",
-          "K/9 11.8"
+          "ERA 3.67",
+          "WHIP 1.22",
+          "K/9 11.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.03"
+            "value": "3.67"
           },
           {
             "label": "WHIP",
-            "value": "1.26"
+            "value": "1.22"
           },
           {
             "label": "K/9",
-            "value": "11.8"
+            "value": "11.7"
           },
           {
             "label": "BB/9",
-            "value": "4.7"
+            "value": "4.5"
           },
           {
             "label": "HR/9",
-            "value": "0.24"
+            "value": "0.22"
           },
           {
             "label": "IP",
-            "value": "38.0"
+            "value": "41.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 71.29186602870814,
-          "Command": 30.00000000000001,
+          "Miss bats": 69.67272727272729,
+          "Command": 31.428571428571434,
           "Damage suppression": 0
         },
         "metaLine": "JR / N/A",
@@ -151537,26 +151537,26 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "Henry Chabot looks like a RHP option who limits runs and misses bats.",
         "summaryMetrics": [
-          "ERA 2.35",
-          "WHIP 1.43",
-          "K/9 11.2"
+          "ERA 2.20",
+          "WHIP 1.41",
+          "K/9 11.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.35"
+            "value": "2.20"
           },
           {
             "label": "WHIP",
-            "value": "1.43"
+            "value": "1.41"
           },
           {
             "label": "K/9",
-            "value": "11.2"
+            "value": "11.0"
           },
           {
             "label": "BB/9",
-            "value": "8.2"
+            "value": "7.7"
           },
           {
             "label": "HR/9",
@@ -151564,14 +151564,14 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "IP",
-            "value": "15.3"
+            "value": "16.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 65.01976284584981,
-          "Command": 7.142857142857144,
+          "Miss bats": 63.821892393320965,
+          "Command": 8.571428571428571,
           "Damage suppression": 0
         },
         "metaLine": "GR / N/A",
@@ -151737,37 +151737,37 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "C/1B/OF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 45,
+        "score": 50,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Andrew Lamb profiles as a C/1B/OF piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .270",
-          "OBP .373",
-          "SLG .560"
+          "AVG .283",
+          "OBP .383",
+          "SLG .584"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".270"
+            "value": ".283"
           },
           {
             "label": "OBP",
-            "value": ".373"
+            "value": ".383"
           },
           {
             "label": "SLG",
-            "value": ".560"
+            "value": ".584"
           },
           {
             "label": "HR",
-            "value": "11"
+            "value": "12"
           },
           {
             "label": "RBI",
-            "value": "37"
+            "value": "42"
           },
           {
             "label": "SB",
@@ -151775,10 +151775,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 51.66666666666665,
-          "Power": 63.157894736842124,
-          "Contact": 31.25000000000001,
-          "Discipline": 41.26984126984126,
+          "On-base": 57.22222222222222,
+          "Power": 69.47368421052632,
+          "Contact": 39.374999999999986,
+          "Discipline": 42.59259259259259,
           "Speed": 6.666666666666667
         },
         "metaLine": "JR / N/A",
@@ -152218,7 +152218,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "RHP",
         "classYear": "FR",
         "handedness": "N/A",
-        "score": 25,
+        "score": 26,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -152226,8 +152226,8 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "summary": "Rohan Kasanagottu looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
           "ERA 0.00",
-          "WHIP 1.06",
-          "K/9 15.9"
+          "WHIP 0.82",
+          "K/9 14.7"
         ],
         "statCards": [
           {
@@ -152236,15 +152236,15 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "WHIP",
-            "value": "1.06"
+            "value": "0.82"
           },
           {
             "label": "K/9",
-            "value": "15.9"
+            "value": "14.7"
           },
           {
             "label": "BB/9",
-            "value": "6.4"
+            "value": "4.9"
           },
           {
             "label": "HR/9",
@@ -152252,14 +152252,14 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "IP",
-            "value": "5.7"
+            "value": "7.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 100,
-          "Command": 30,
+          "Miss bats": 97.5206611570248,
+          "Command": 40,
           "Damage suppression": 0
         },
         "metaLine": "FR / N/A",
@@ -152562,48 +152562,48 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "LHP",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 4,
+        "score": 5,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Ben Cushnie looks like a LHP option who limits runs and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 1.74",
-          "WHIP 1.06",
-          "K/9 5.2"
+          "ERA 1.66",
+          "WHIP 1.02",
+          "K/9 5.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "1.74"
+            "value": "1.66"
           },
           {
             "label": "WHIP",
-            "value": "1.06"
+            "value": "1.02"
           },
           {
             "label": "K/9",
-            "value": "5.2"
+            "value": "5.4"
           },
           {
             "label": "BB/9",
-            "value": "3.5"
+            "value": "3.3"
           },
           {
             "label": "HR/9",
-            "value": "0.44"
+            "value": "0.42"
           },
           {
             "label": "IP",
-            "value": "20.7"
+            "value": "21.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 11.143695014662756,
-          "Command": 10,
+          "Miss bats": 12.727272727272723,
+          "Command": 12.5,
           "Damage suppression": 0
         },
         "metaLine": "SO / N/A",
@@ -161244,22 +161244,22 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "Temo Becerra profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .320",
-          "OBP .434",
-          "SLG .468"
+          "AVG .316",
+          "OBP .433",
+          "SLG .461"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".320"
+            "value": ".316"
           },
           {
             "label": "OBP",
-            "value": ".434"
+            "value": ".433"
           },
           {
             "label": "SLG",
-            "value": ".468"
+            "value": ".461"
           },
           {
             "label": "HR",
@@ -161275,10 +161275,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 85.55555555555554,
-          "Power": 38.947368421052644,
-          "Contact": 62.5,
-          "Discipline": 75.96899224806201,
+          "On-base": 84.99999999999999,
+          "Power": 37.10526315789475,
+          "Contact": 60,
+          "Discipline": 81.13695090439275,
           "Speed": 40
         },
         "metaLine": "R-SR / R/R",
@@ -161375,29 +161375,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 51,
+        "score": 52,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Ethan Mendoza profiles as a INF piece who controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .266",
-          "OBP .384",
-          "SLG .464"
+          "AVG .270",
+          "OBP .385",
+          "SLG .469"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".266"
+            "value": ".270"
           },
           {
             "label": "OBP",
-            "value": ".384"
+            "value": ".385"
           },
           {
             "label": "SLG",
-            "value": ".464"
+            "value": ".469"
           },
           {
             "label": "HR",
@@ -161405,19 +161405,19 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "RBI",
-            "value": "44"
+            "value": "46"
           },
           {
             "label": "SB",
-            "value": "10"
+            "value": "11"
           }
         ],
         "components": {
-          "On-base": 57.77777777777777,
-          "Power": 37.89473684210527,
-          "Contact": 28.750000000000007,
+          "On-base": 58.33333333333333,
+          "Power": 39.210526315789465,
+          "Contact": 31.25000000000001,
           "Discipline": 100,
-          "Speed": 33.33333333333333
+          "Speed": 36.666666666666664
         },
         "metaLine": "JR / R/R",
         "detailBadges": [
@@ -161444,29 +161444,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "OF",
         "classYear": "FR",
         "handedness": "L/L",
-        "score": 89,
+        "score": 87,
         "fit": {
           "label": "Priority",
           "className": "fit-priority"
         },
         "summary": "Anthony Pack Jr. profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .362",
-          "OBP .482",
-          "SLG .612"
+          "AVG .358",
+          "OBP .476",
+          "SLG .602"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".362"
+            "value": ".358"
           },
           {
             "label": "OBP",
-            "value": ".482"
+            "value": ".476"
           },
           {
             "label": "SLG",
-            "value": ".612"
+            "value": ".602"
           },
           {
             "label": "HR",
@@ -161483,8 +161483,8 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         ],
         "components": {
           "On-base": 100,
-          "Power": 76.8421052631579,
-          "Contact": 88.75,
+          "Power": 74.21052631578947,
+          "Contact": 86.25,
           "Discipline": 100,
           "Speed": 66.66666666666666
         },
@@ -161589,22 +161589,22 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "Carson Tinney profiles as a C piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .332",
-          "OBP .488",
-          "SLG .714"
+          "AVG .333",
+          "OBP .487",
+          "SLG .711"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".332"
+            "value": ".333"
           },
           {
             "label": "OBP",
-            "value": ".488"
+            "value": ".487"
           },
           {
             "label": "SLG",
-            "value": ".714"
+            "value": ".711"
           },
           {
             "label": "HR",
@@ -161622,8 +161622,8 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "components": {
           "On-base": 100,
           "Power": 100,
-          "Contact": 70,
-          "Discipline": 71.64750957854406,
+          "Contact": 70.625,
+          "Discipline": 70.05649717514125,
           "Speed": 33.33333333333333
         },
         "metaLine": "JR / R/R",
@@ -161789,25 +161789,25 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "LHP",
         "classYear": "JR",
         "handedness": "R/L",
-        "score": 23,
+        "score": 22,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Haiden Leffew looks like a LHP option who limits runs and misses bats and keeps traffic under control.",
+        "summary": "Haiden Leffew looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 3.60",
-          "WHIP 1.25",
+          "ERA 4.05",
+          "WHIP 1.35",
           "K/9 13.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.60"
+            "value": "4.05"
           },
           {
             "label": "WHIP",
-            "value": "1.25"
+            "value": "1.35"
           },
           {
             "label": "K/9",
@@ -161815,7 +161815,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "BB/9",
-            "value": "5.8"
+            "value": "6.8"
           },
           {
             "label": "HR/9",
@@ -161830,7 +161830,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Run prevention": 0,
           "Traffic control": 0,
           "Miss bats": 90.45454545454544,
-          "Command": 27.692307692307693,
+          "Command": 21.33333333333333,
           "Damage suppression": 0
         },
         "metaLine": "JR / R/L",
@@ -161863,24 +161863,24 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Ruger Riojas looks like a RHP option who misses bats and throws enough strikes and keeps traffic under control.",
+        "summary": "Ruger Riojas looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 4.02",
-          "WHIP 1.11",
-          "K/9 13.8"
+          "ERA 3.86",
+          "WHIP 1.09",
+          "K/9 13.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.02"
+            "value": "3.86"
           },
           {
             "label": "WHIP",
-            "value": "1.11"
+            "value": "1.09"
           },
           {
             "label": "K/9",
-            "value": "13.8"
+            "value": "13.6"
           },
           {
             "label": "BB/9",
@@ -161888,17 +161888,17 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "HR/9",
-            "value": "0.69"
+            "value": "0.77"
           },
           {
             "label": "IP",
-            "value": "65.0"
+            "value": "70.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 89.5104895104895,
+          "Miss bats": 87.53246753246754,
           "Command": 100,
           "Damage suppression": 0
         },
@@ -162133,29 +162133,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "INF",
         "classYear": "SO",
         "handedness": "S/B",
-        "score": 57,
+        "score": 59,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Adrian Rodriguez profiles as a INF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .292",
-          "OBP .403",
-          "SLG .454"
+          "AVG .298",
+          "OBP .404",
+          "SLG .457"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".292"
+            "value": ".298"
           },
           {
             "label": "OBP",
-            "value": ".403"
+            "value": ".404"
           },
           {
             "label": "SLG",
-            "value": ".454"
+            "value": ".457"
           },
           {
             "label": "HR",
@@ -162163,7 +162163,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "RBI",
-            "value": "32"
+            "value": "33"
           },
           {
             "label": "SB",
@@ -162171,9 +162171,9 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 68.33333333333333,
-          "Power": 35.26315789473685,
-          "Contact": 44.999999999999986,
+          "On-base": 68.88888888888889,
+          "Power": 36.05263157894738,
+          "Contact": 48.749999999999986,
           "Discipline": 100,
           "Speed": 43.333333333333336
         },
@@ -162484,22 +162484,22 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "Casey Borba profiles as a INF piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .274",
-          "OBP .375",
-          "SLG .577"
+          "AVG .275",
+          "OBP .377",
+          "SLG .574"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".274"
+            "value": ".275"
           },
           {
             "label": "OBP",
-            "value": ".375"
+            "value": ".377"
           },
           {
             "label": "SLG",
-            "value": ".577"
+            "value": ".574"
           },
           {
             "label": "HR",
@@ -162515,10 +162515,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 52.77777777777777,
-          "Power": 67.63157894736842,
-          "Contact": 33.750000000000014,
-          "Discipline": 24.961948249619475,
+          "On-base": 53.88888888888887,
+          "Power": 66.84210526315789,
+          "Contact": 34.375000000000014,
+          "Discipline": 25.82582582582582,
           "Speed": 16.666666666666664
         },
         "metaLine": "JR / R/R",
@@ -162760,41 +162760,41 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "Sam Cozart looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 1.59",
-          "WHIP 0.64",
-          "K/9 13.1"
+          "ERA 1.72",
+          "WHIP 0.72",
+          "K/9 12.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "1.59"
+            "value": "1.72"
           },
           {
             "label": "WHIP",
-            "value": "0.64"
+            "value": "0.72"
           },
           {
             "label": "K/9",
-            "value": "13.1"
+            "value": "12.8"
           },
           {
             "label": "BB/9",
-            "value": "2.4"
+            "value": "2.3"
           },
           {
             "label": "HR/9",
-            "value": "0.60"
+            "value": "0.57"
           },
           {
             "label": "IP",
-            "value": "45.3"
+            "value": "47.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 82.75401069518715,
-          "Command": 89.99999999999999,
+          "Miss bats": 80.27079303675049,
+          "Command": 91.66666666666666,
           "Damage suppression": 0
         },
         "metaLine": "FR / R/R",
@@ -163029,29 +163029,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "OF",
         "classYear": "R-SR",
         "handedness": "L/L",
-        "score": 53,
+        "score": 40,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Dariyan Pendergrass profiles as a OF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .296",
-          "OBP .444",
-          "SLG .333"
+          "AVG .258",
+          "OBP .400",
+          "SLG .290"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".296"
+            "value": ".258"
           },
           {
             "label": "OBP",
-            "value": ".444"
+            "value": ".400"
           },
           {
             "label": "SLG",
-            "value": ".333"
+            "value": ".290"
           },
           {
             "label": "HR",
@@ -163067,9 +163067,9 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 91.1111111111111,
-          "Power": 3.421052631578951,
-          "Contact": 47.499999999999986,
+          "On-base": 66.66666666666666,
+          "Power": 0,
+          "Contact": 23.750000000000004,
           "Discipline": 100,
           "Speed": 6.666666666666667
         },
@@ -163098,21 +163098,21 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "OF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 79,
+        "score": 78,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Aiden Robbins profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .346",
+          "AVG .347",
           "OBP .435",
-          "SLG .715"
+          "SLG .721"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".346"
+            "value": ".347"
           },
           {
             "label": "OBP",
@@ -163120,15 +163120,15 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "SLG",
-            "value": ".715"
+            "value": ".721"
           },
           {
             "label": "HR",
-            "value": "22"
+            "value": "23"
           },
           {
             "label": "RBI",
-            "value": "60"
+            "value": "62"
           },
           {
             "label": "SB",
@@ -163138,8 +163138,8 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "components": {
           "On-base": 86.1111111111111,
           "Power": 100,
-          "Contact": 78.74999999999999,
-          "Discipline": 49.79423868312756,
+          "Contact": 79.37499999999999,
+          "Discipline": 46.003898635477576,
           "Speed": 40
         },
         "metaLine": "JR / R/R",
@@ -163167,29 +163167,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "OF",
         "classYear": "JR",
         "handedness": "L/L",
-        "score": 58,
+        "score": 56,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Ashton Larson profiles as a OF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .287",
-          "OBP .459",
-          "SLG .380"
+          "AVG .286",
+          "OBP .453",
+          "SLG .375"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".287"
+            "value": ".286"
           },
           {
             "label": "OBP",
-            "value": ".459"
+            "value": ".453"
           },
           {
             "label": "SLG",
-            "value": ".380"
+            "value": ".375"
           },
           {
             "label": "HR",
@@ -163205,10 +163205,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 99.44444444444444,
-          "Power": 15.789473684210527,
-          "Contact": 41.874999999999986,
-          "Discipline": 100,
+          "On-base": 96.1111111111111,
+          "Power": 14.473684210526317,
+          "Contact": 41.24999999999998,
+          "Discipline": 96.55172413793102,
           "Speed": 10
         },
         "metaLine": "JR / L/L",
@@ -163236,48 +163236,48 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "RHP",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 25,
+        "score": 26,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Thomas Burns looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 6.52",
-          "WHIP 1.50",
-          "K/9 17.2"
+          "ERA 6.00",
+          "WHIP 1.38",
+          "K/9 17.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.52"
+            "value": "6.00"
           },
           {
             "label": "WHIP",
-            "value": "1.50"
+            "value": "1.38"
           },
           {
             "label": "K/9",
-            "value": "17.2"
+            "value": "17.1"
           },
           {
             "label": "BB/9",
-            "value": "6.5"
+            "value": "6.0"
           },
           {
             "label": "HR/9",
-            "value": "1.40"
+            "value": "1.29"
           },
           {
             "label": "IP",
-            "value": "19.3"
+            "value": "21.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
           "Miss bats": 100,
-          "Command": 32.857142857142854,
+          "Command": 37.142857142857146,
           "Damage suppression": 0
         },
         "metaLine": "JR / R/R",
@@ -163312,40 +163312,40 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "Ethan Walker looks like a LHP option who limits runs and throws enough strikes.",
         "summaryMetrics": [
-          "ERA 2.76",
-          "WHIP 1.35",
-          "K/9 7.2"
+          "ERA 2.70",
+          "WHIP 1.32",
+          "K/9 7.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.76"
+            "value": "2.70"
           },
           {
             "label": "WHIP",
-            "value": "1.35"
+            "value": "1.32"
           },
           {
             "label": "K/9",
-            "value": "7.2"
+            "value": "7.0"
           },
           {
             "label": "BB/9",
-            "value": "1.7"
+            "value": "1.6"
           },
           {
             "label": "HR/9",
-            "value": "0.55"
+            "value": "0.54"
           },
           {
             "label": "IP",
-            "value": "16.3"
+            "value": "16.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 28.7569573283859,
+          "Miss bats": 27.45454545454545,
           "Command": 66.66666666666666,
           "Damage suppression": 0
         },
@@ -163450,18 +163450,18 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "Luke Harrison looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 4.38",
-          "WHIP 1.28",
+          "ERA 4.36",
+          "WHIP 1.27",
           "K/9 10.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.38"
+            "value": "4.36"
           },
           {
             "label": "WHIP",
-            "value": "1.28"
+            "value": "1.27"
           },
           {
             "label": "K/9",
@@ -163477,14 +163477,14 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "IP",
-            "value": "76.0"
+            "value": "76.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 57.29665071770334,
-          "Command": 40,
+          "Miss bats": 56.887653830885284,
+          "Command": 40.00000000000001,
           "Damage suppression": 0
         },
         "metaLine": "GR / L/L",
@@ -163725,7 +163725,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "summary": "Brett Crossland looks like a RHP option who limits runs and misses bats.",
         "summaryMetrics": [
           "ERA 3.57",
-          "WHIP 1.32",
+          "WHIP 1.37",
           "K/9 12.7"
         ],
         "statCards": [
@@ -163735,7 +163735,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "WHIP",
-            "value": "1.32"
+            "value": "1.37"
           },
           {
             "label": "K/9",
@@ -163924,29 +163924,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "OF",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 46,
+        "score": 43,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Terrence Kiel II profiles as a OF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
+        "summary": "Terrence Kiel II profiles as a OF piece who controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .268",
-          "OBP .409",
-          "SLG .317"
+          "AVG .260",
+          "OBP .399",
+          "SLG .307"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".268"
+            "value": ".260"
           },
           {
             "label": "OBP",
-            "value": ".409"
+            "value": ".399"
           },
           {
             "label": "SLG",
-            "value": ".317"
+            "value": ".307"
           },
           {
             "label": "HR",
@@ -163962,9 +163962,9 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 71.66666666666664,
+          "On-base": 66.11111111111111,
           "Power": 0,
-          "Contact": 30.00000000000001,
+          "Contact": 25.000000000000007,
           "Discipline": 100,
           "Speed": 33.33333333333333
         },
@@ -164062,29 +164062,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "OF",
         "classYear": "SR",
         "handedness": "L/L",
-        "score": 53,
+        "score": 54,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jake Duer profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .301",
-          "OBP .407",
-          "SLG .474"
+          "AVG .305",
+          "OBP .409",
+          "SLG .484"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".301"
+            "value": ".305"
           },
           {
             "label": "OBP",
-            "value": ".407"
+            "value": ".409"
           },
           {
             "label": "SLG",
-            "value": ".474"
+            "value": ".484"
           },
           {
             "label": "HR",
@@ -164092,7 +164092,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "RBI",
-            "value": "53"
+            "value": "54"
           },
           {
             "label": "SB",
@@ -164100,9 +164100,9 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 70.55555555555553,
-          "Power": 40.526315789473685,
-          "Contact": 50.624999999999986,
+          "On-base": 71.66666666666664,
+          "Power": 43.15789473684211,
+          "Contact": 53.124999999999986,
           "Discipline": 73.38501291989662,
           "Speed": 0
         },
@@ -164131,29 +164131,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "OF/INF",
         "classYear": "GR",
         "handedness": "R/R",
-        "score": 51,
+        "score": 47,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Travis Chestnut profiles as a OF/INF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .263",
-          "OBP .442",
-          "SLG .447"
+          "AVG .256",
+          "OBP .434",
+          "SLG .436"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".263"
+            "value": ".256"
           },
           {
             "label": "OBP",
-            "value": ".442"
+            "value": ".434"
           },
           {
             "label": "SLG",
-            "value": ".447"
+            "value": ".436"
           },
           {
             "label": "HR",
@@ -164169,10 +164169,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 89.99999999999999,
-          "Power": 33.42105263157895,
-          "Contact": 26.875000000000004,
-          "Discipline": 40.27777777777777,
+          "On-base": 85.55555555555554,
+          "Power": 30.526315789473685,
+          "Contact": 22.500000000000004,
+          "Discipline": 36.601307189542474,
           "Speed": 26.666666666666668
         },
         "metaLine": "GR / R/R",
@@ -164200,29 +164200,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "INF",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 48,
+        "score": 45,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Boston Kellner profiles as a INF piece who gets on base at a high clip and controls at-bats.",
+        "summary": "Boston Kellner profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .248",
-          "OBP .426",
-          "SLG .404"
+          "AVG .244",
+          "OBP .420",
+          "SLG .396"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".248"
+            "value": ".244"
           },
           {
             "label": "OBP",
-            "value": ".426"
+            "value": ".420"
           },
           {
             "label": "SLG",
-            "value": ".404"
+            "value": ".396"
           },
           {
             "label": "HR",
@@ -164238,10 +164238,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 81.11111111111109,
-          "Power": 22.105263157894743,
-          "Contact": 17.5,
-          "Discipline": 91.59891598915989,
+          "On-base": 77.77777777777776,
+          "Power": 20.000000000000007,
+          "Contact": 14.999999999999996,
+          "Discipline": 83.83838383838383,
           "Speed": 3.3333333333333335
         },
         "metaLine": "FR / R/R",
@@ -164276,30 +164276,30 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "Chris Hacopian profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
-          "AVG .321",
-          "OBP .406",
-          "SLG .572"
+          "AVG .319",
+          "OBP .403",
+          "SLG .583"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".321"
+            "value": ".319"
           },
           {
             "label": "OBP",
-            "value": ".406"
+            "value": ".403"
           },
           {
             "label": "SLG",
-            "value": ".572"
+            "value": ".583"
           },
           {
             "label": "HR",
-            "value": "10"
+            "value": "11"
           },
           {
             "label": "RBI",
-            "value": "40"
+            "value": "41"
           },
           {
             "label": "SB",
@@ -164307,9 +164307,9 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 70,
-          "Power": 66.3157894736842,
-          "Contact": 63.125,
+          "On-base": 68.33333333333333,
+          "Power": 69.21052631578947,
+          "Contact": 61.875,
           "Discipline": 100,
           "Speed": 10
         },
@@ -164338,37 +164338,37 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 75,
+        "score": 76,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Gavin Grahovac profiles as a INF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .342",
-          "OBP .434",
-          "SLG .725"
+          "AVG .345",
+          "OBP .435",
+          "SLG .735"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".342"
+            "value": ".345"
           },
           {
             "label": "OBP",
-            "value": ".434"
+            "value": ".435"
           },
           {
             "label": "SLG",
-            "value": ".725"
+            "value": ".735"
           },
           {
             "label": "HR",
-            "value": "21"
+            "value": "22"
           },
           {
             "label": "RBI",
-            "value": "73"
+            "value": "74"
           },
           {
             "label": "SB",
@@ -164376,9 +164376,9 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 85.55555555555554,
+          "On-base": 86.1111111111111,
           "Power": 100,
-          "Contact": 76.25000000000001,
+          "Contact": 78.12499999999997,
           "Discipline": 44.96124031007751,
           "Speed": 16.666666666666664
         },
@@ -164414,22 +164414,22 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "Ben Royo profiles as a INF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .444",
-          "OBP .488",
-          "SLG .750"
+          "AVG .450",
+          "OBP .489",
+          "SLG .725"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".444"
+            "value": ".450"
           },
           {
             "label": "OBP",
-            "value": ".488"
+            "value": ".489"
           },
           {
             "label": "SLG",
-            "value": ".750"
+            "value": ".725"
           },
           {
             "label": "HR",
@@ -164552,22 +164552,22 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "Caden Sorrell profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .349",
-          "OBP .444",
-          "SLG .766"
+          "AVG .347",
+          "OBP .441",
+          "SLG .757"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".349"
+            "value": ".347"
           },
           {
             "label": "OBP",
-            "value": ".444"
+            "value": ".441"
           },
           {
             "label": "SLG",
-            "value": ".766"
+            "value": ".757"
           },
           {
             "label": "HR",
@@ -164579,15 +164579,15 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "SB",
-            "value": "10"
+            "value": "11"
           }
         ],
         "components": {
-          "On-base": 91.1111111111111,
+          "On-base": 89.44444444444444,
           "Power": 100,
-          "Contact": 80.62499999999999,
+          "Contact": 79.37499999999999,
           "Discipline": 38.88888888888889,
-          "Speed": 33.33333333333333
+          "Speed": 36.666666666666664
         },
         "metaLine": "JR / L/L",
         "detailBadges": [
@@ -164758,22 +164758,22 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "Bear Harrison profiles as a C piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
-          "AVG .296",
-          "OBP .488",
-          "SLG .612"
+          "AVG .294",
+          "OBP .493",
+          "SLG .608"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".296"
+            "value": ".294"
           },
           {
             "label": "OBP",
-            "value": ".488"
+            "value": ".493"
           },
           {
             "label": "SLG",
-            "value": ".612"
+            "value": ".608"
           },
           {
             "label": "HR",
@@ -164790,9 +164790,9 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         ],
         "components": {
           "On-base": 100,
-          "Power": 76.8421052631579,
-          "Contact": 47.499999999999986,
-          "Discipline": 97.89789789789789,
+          "Power": 75.78947368421053,
+          "Contact": 46.249999999999986,
+          "Discipline": 100,
           "Speed": 10
         },
         "metaLine": "JR / R/R",
@@ -164958,48 +164958,48 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "RHP",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 8,
+        "score": 10,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Juan Vargas looks like a RHP option who limits runs and keeps traffic under control.",
+        "summary": "Juan Vargas gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 3.55",
-          "WHIP 1.11",
-          "K/9 6.8"
+          "ERA 4.44",
+          "WHIP 1.33",
+          "K/9 7.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.55"
+            "value": "4.44"
           },
           {
             "label": "WHIP",
-            "value": "1.11"
+            "value": "1.33"
           },
           {
             "label": "K/9",
-            "value": "6.8"
+            "value": "7.5"
           },
           {
             "label": "BB/9",
-            "value": "3.6"
+            "value": "3.4"
           },
           {
             "label": "HR/9",
-            "value": "1.78"
+            "value": "1.71"
           },
           {
             "label": "IP",
-            "value": "25.3"
+            "value": "26.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 25,
-          "Command": 18,
+          "Miss bats": 31.990794016110474,
+          "Command": 24.000000000000004,
           "Damage suppression": 0
         },
         "metaLine": "JR / R/R",
@@ -165303,48 +165303,48 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "RHP",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 13,
+        "score": 12,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Gavin Lyons looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 4.95",
-          "WHIP 1.37",
-          "K/9 7.4"
+          "ERA 5.11",
+          "WHIP 1.40",
+          "K/9 7.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.95"
+            "value": "5.11"
           },
           {
             "label": "WHIP",
-            "value": "1.37"
+            "value": "1.40"
           },
           {
             "label": "K/9",
-            "value": "7.4"
+            "value": "7.3"
           },
           {
             "label": "BB/9",
-            "value": "2.4"
+            "value": "2.5"
           },
           {
             "label": "HR/9",
-            "value": "2.00"
+            "value": "1.97"
           },
           {
             "label": "IP",
-            "value": "67.3"
+            "value": "68.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 30.468046804680476,
-          "Command": 41.11111111111111,
+          "Miss bats": 30.361871138570162,
+          "Command": 38.94736842105263,
           "Damage suppression": 0
         },
         "metaLine": "SO / R/R",
@@ -165440,33 +165440,33 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "LHP",
         "classYear": "FR",
         "handedness": "L/L",
-        "score": 24,
+        "score": 23,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Hunter Vincent looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 6.00",
-          "WHIP 1.78",
-          "K/9 18.0"
+          "ERA 6.35",
+          "WHIP 1.76",
+          "K/9 15.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.00"
+            "value": "6.35"
           },
           {
             "label": "WHIP",
-            "value": "1.78"
+            "value": "1.76"
           },
           {
             "label": "K/9",
-            "value": "18.0"
+            "value": "15.9"
           },
           {
             "label": "BB/9",
-            "value": "8.0"
+            "value": "8.7"
           },
           {
             "label": "HR/9",
@@ -165474,14 +165474,14 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "IP",
-            "value": "9.0"
+            "value": "11.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
           "Miss bats": 100,
-          "Command": 25,
+          "Command": 16.363636363636363,
           "Damage suppression": 0
         },
         "metaLine": "FR / L/L",
@@ -165509,29 +165509,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "RHP",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 15,
+        "score": 14,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Grant Cunningham looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 8.07",
-          "WHIP 1.86",
-          "K/9 8.1"
+          "ERA 7.91",
+          "WHIP 1.82",
+          "K/9 7.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "8.07"
+            "value": "7.91"
           },
           {
             "label": "WHIP",
-            "value": "1.86"
+            "value": "1.82"
           },
           {
             "label": "K/9",
-            "value": "8.1"
+            "value": "7.9"
           },
           {
             "label": "BB/9",
@@ -165539,17 +165539,17 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "HR/9",
-            "value": "1.95"
+            "value": "1.91"
           },
           {
             "label": "IP",
-            "value": "32.3"
+            "value": "33.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 37.019681349578256,
+          "Miss bats": 35.53719008264463,
           "Command": 44.44444444444445,
           "Damage suppression": 0
         },
@@ -165854,48 +165854,48 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "LHP",
         "classYear": "SR",
         "handedness": "L/L",
-        "score": 8,
+        "score": 7,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Ethan Darden gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.59",
-          "WHIP 1.44",
-          "K/9 6.7"
+          "ERA 5.56",
+          "WHIP 1.56",
+          "K/9 6.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.59"
+            "value": "5.56"
           },
           {
             "label": "WHIP",
-            "value": "1.44"
+            "value": "1.56"
           },
           {
             "label": "K/9",
-            "value": "6.7"
+            "value": "6.6"
           },
           {
             "label": "BB/9",
-            "value": "3.8"
+            "value": "4.0"
           },
           {
             "label": "HR/9",
-            "value": "0.81"
+            "value": "0.79"
           },
           {
             "label": "IP",
-            "value": "33.3"
+            "value": "34.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 24.999999999999993,
-          "Command": 15.714285714285712,
+          "Miss bats": 23.796791443850264,
+          "Command": 13.33333333333333,
           "Damage suppression": 0
         },
         "metaLine": "SR / L/L",
@@ -165923,48 +165923,48 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "LHP",
         "classYear": "SO",
         "handedness": "L/L",
-        "score": 23,
+        "score": 25,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Cooper Powell looks like a LHP option who limits runs and misses bats.",
+        "summary": "Cooper Powell looks like a LHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 0.96",
-          "WHIP 1.29",
-          "K/9 14.5"
+          "ERA 2.38",
+          "WHIP 1.24",
+          "K/9 15.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "0.96"
+            "value": "2.38"
           },
           {
             "label": "WHIP",
-            "value": "1.29"
+            "value": "1.24"
           },
           {
             "label": "K/9",
-            "value": "14.5"
+            "value": "15.1"
           },
           {
             "label": "BB/9",
-            "value": "6.8"
+            "value": "5.6"
           },
           {
             "label": "HR/9",
-            "value": "0.00"
+            "value": "1.59"
           },
           {
             "label": "IP",
-            "value": "9.3"
+            "value": "11.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 95.12987012987011,
-          "Command": 22.857142857142858,
+          "Miss bats": 100,
+          "Command": 34.285714285714285,
           "Damage suppression": 0
         },
         "metaLine": "SO / L/L",
@@ -166060,29 +166060,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "INF",
         "classYear": "R-JR",
         "handedness": "R/R",
-        "score": 65,
+        "score": 63,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Blake Binderup profiles as a INF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .306",
-          "OBP .439",
-          "SLG .671"
+          "AVG .302",
+          "OBP .435",
+          "SLG .663"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".306"
+            "value": ".302"
           },
           {
             "label": "OBP",
-            "value": ".439"
+            "value": ".435"
           },
           {
             "label": "SLG",
-            "value": ".671"
+            "value": ".663"
           },
           {
             "label": "HR",
@@ -166098,10 +166098,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 88.33333333333331,
-          "Power": 92.3684210526316,
-          "Contact": 53.75,
-          "Discipline": 15.718157181571815,
+          "On-base": 86.1111111111111,
+          "Power": 90.26315789473685,
+          "Contact": 51.24999999999999,
+          "Discipline": 14.814814814814808,
           "Speed": 6.666666666666667
         },
         "metaLine": "R-JR / R/R",
@@ -168750,16 +168750,16 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "OF",
         "classYear": "SR",
         "handedness": "L/L",
-        "score": 69,
+        "score": 68,
         "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
         "summary": "Steven Meier profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
           "AVG .313",
-          "OBP .457",
-          "SLG .542"
+          "OBP .455",
+          "SLG .532"
         ],
         "statCards": [
           {
@@ -168768,11 +168768,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "OBP",
-            "value": ".457"
+            "value": ".455"
           },
           {
             "label": "SLG",
-            "value": ".542"
+            "value": ".532"
           },
           {
             "label": "HR",
@@ -168780,7 +168780,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "RBI",
-            "value": "40"
+            "value": "43"
           },
           {
             "label": "SB",
@@ -168788,10 +168788,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 98.33333333333333,
-          "Power": 58.42105263157896,
+          "On-base": 97.22222222222221,
+          "Power": 55.78947368421054,
           "Contact": 58.12499999999999,
-          "Discipline": 66.66666666666666,
+          "Discipline": 61.11111111111111,
           "Speed": 30
         },
         "metaLine": "SR / L/L",
@@ -168819,29 +168819,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "INF",
         "classYear": "SR",
         "handedness": "L/R",
-        "score": 76,
+        "score": 78,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Aaron Piasecki profiles as a INF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .340",
-          "OBP .455",
-          "SLG .534"
+          "AVG .350",
+          "OBP .460",
+          "SLG .537"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".340"
+            "value": ".350"
           },
           {
             "label": "OBP",
-            "value": ".455"
+            "value": ".460"
           },
           {
             "label": "SLG",
-            "value": ".534"
+            "value": ".537"
           },
           {
             "label": "HR",
@@ -168849,7 +168849,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "RBI",
-            "value": "44"
+            "value": "45"
           },
           {
             "label": "SB",
@@ -168857,9 +168857,9 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 97.22222222222221,
-          "Power": 56.31578947368422,
-          "Contact": 75.00000000000001,
+          "On-base": 100,
+          "Power": 57.10526315789475,
+          "Contact": 81.24999999999999,
           "Discipline": 100,
           "Speed": 30
         },
@@ -169025,37 +169025,37 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "C",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 71,
+        "score": 72,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Jimmy Janicki profiles as a C piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .345",
-          "OBP .420",
-          "SLG .647"
+          "AVG .346",
+          "OBP .419",
+          "SLG .661"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".345"
+            "value": ".346"
           },
           {
             "label": "OBP",
-            "value": ".420"
+            "value": ".419"
           },
           {
             "label": "SLG",
-            "value": ".647"
+            "value": ".661"
           },
           {
             "label": "HR",
-            "value": "17"
+            "value": "19"
           },
           {
             "label": "RBI",
-            "value": "76"
+            "value": "83"
           },
           {
             "label": "SB",
@@ -169063,10 +169063,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 77.77777777777776,
-          "Power": 86.05263157894738,
-          "Contact": 78.12499999999997,
-          "Discipline": 59.64912280701752,
+          "On-base": 77.2222222222222,
+          "Power": 89.73684210526318,
+          "Contact": 78.74999999999999,
+          "Discipline": 57.54985754985753,
           "Speed": 13.333333333333334
         },
         "metaLine": "SO / R/R",
@@ -169232,37 +169232,37 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "C/UTL",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 24,
+        "score": 37,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Jabe Boroff gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Jabe Boroff profiles as a C/UTL piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .194",
-          "OBP .352",
-          "SLG .444"
+          "AVG .235",
+          "OBP .370",
+          "SLG .568"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".194"
+            "value": ".235"
           },
           {
             "label": "OBP",
-            "value": ".352"
+            "value": ".370"
           },
           {
             "label": "SLG",
-            "value": ".444"
+            "value": ".568"
           },
           {
             "label": "HR",
-            "value": "5"
+            "value": "8"
           },
           {
             "label": "RBI",
-            "value": "15"
+            "value": "21"
           },
           {
             "label": "SB",
@@ -169270,9 +169270,9 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 39.99999999999997,
-          "Power": 32.631578947368425,
-          "Contact": 0,
+          "On-base": 49.999999999999986,
+          "Power": 65.26315789473684,
+          "Contact": 9.374999999999991,
           "Discipline": 18.518518518518512,
           "Speed": 0
         },
@@ -169583,41 +169583,41 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "Tommy Egan looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.52",
-          "WHIP 1.45",
-          "K/9 10.6"
+          "ERA 5.65",
+          "WHIP 1.46",
+          "K/9 10.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.52"
+            "value": "5.65"
           },
           {
             "label": "WHIP",
-            "value": "1.45"
+            "value": "1.46"
           },
           {
             "label": "K/9",
-            "value": "10.6"
+            "value": "10.3"
           },
           {
             "label": "BB/9",
-            "value": "3.6"
+            "value": "3.4"
           },
           {
             "label": "HR/9",
-            "value": "0.60"
+            "value": "0.79"
           },
           {
             "label": "IP",
-            "value": "75.0"
+            "value": "79.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 59.63636363636364,
-          "Command": 38.66666666666667,
+          "Miss bats": 57.09395207303156,
+          "Command": 40.666666666666664,
           "Damage suppression": 0
         },
         "metaLine": "SR / R/R",
@@ -169714,48 +169714,48 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "LHP",
         "classYear": "SR",
         "handedness": "L/L",
-        "score": 21,
+        "score": 20,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Zach Crotchfelt looks like a LHP option who limits runs and misses bats.",
         "summaryMetrics": [
-          "ERA 3.90",
-          "WHIP 1.41",
-          "K/9 11.5"
+          "ERA 3.62",
+          "WHIP 1.39",
+          "K/9 10.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.90"
+            "value": "3.62"
           },
           {
             "label": "WHIP",
-            "value": "1.41"
+            "value": "1.39"
           },
           {
             "label": "K/9",
-            "value": "11.5"
+            "value": "10.9"
           },
           {
             "label": "BB/9",
-            "value": "3.4"
+            "value": "3.3"
           },
           {
             "label": "HR/9",
-            "value": "0.98"
+            "value": "0.91"
           },
           {
             "label": "IP",
-            "value": "55.3"
+            "value": "59.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 68.61993428258486,
-          "Command": 47.61904761904761,
+          "Miss bats": 62.36668359573388,
+          "Command": 45.45454545454546,
           "Damage suppression": 0
         },
         "metaLine": "SR / L/L",
@@ -169990,37 +169990,37 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "OF",
         "classYear": "SO",
         "handedness": "L/R",
-        "score": 20,
+        "score": 39,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Houston Markham gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .275",
-          "OBP .324",
-          "SLG .374"
+          "AVG .320",
+          "OBP .360",
+          "SLG .480"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".275"
+            "value": ".320"
           },
           {
             "label": "OBP",
-            "value": ".324"
+            "value": ".360"
           },
           {
             "label": "SLG",
-            "value": ".374"
+            "value": ".480"
           },
           {
             "label": "HR",
-            "value": "1"
+            "value": "3"
           },
           {
             "label": "RBI",
-            "value": "10"
+            "value": "12"
           },
           {
             "label": "SB",
@@ -170028,9 +170028,9 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 24.444444444444436,
-          "Power": 14.210526315789473,
-          "Contact": 34.375000000000014,
+          "On-base": 44.44444444444443,
+          "Power": 42.10526315789473,
+          "Contact": 62.5,
           "Discipline": 1.169590643274851,
           "Speed": 20
         },
@@ -170059,29 +170059,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "RHP",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 6,
+        "score": 7,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Matt Dill gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.18",
-          "WHIP 1.64",
-          "K/9 6.0"
+          "ERA 5.66",
+          "WHIP 1.66",
+          "K/9 6.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.18"
+            "value": "5.66"
           },
           {
             "label": "WHIP",
-            "value": "1.64"
+            "value": "1.66"
           },
           {
             "label": "K/9",
-            "value": "6.0"
+            "value": "6.2"
           },
           {
             "label": "BB/9",
@@ -170089,18 +170089,18 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "HR/9",
-            "value": "1.09"
+            "value": "1.54"
           },
           {
             "label": "IP",
-            "value": "33.0"
+            "value": "35.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 18.181818181818183,
-          "Command": 16.666666666666664,
+          "Miss bats": 19.740259740259745,
+          "Command": 16.923076923076923,
           "Damage suppression": 0
         },
         "metaLine": "FR / R/R",
@@ -170128,25 +170128,25 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "RHP",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 16,
+        "score": 15,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Dylan Alonso looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 4.34",
-          "WHIP 1.31",
+          "ERA 4.63",
+          "WHIP 1.35",
           "K/9 10.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.34"
+            "value": "4.63"
           },
           {
             "label": "WHIP",
-            "value": "1.31"
+            "value": "1.35"
           },
           {
             "label": "K/9",
@@ -170154,22 +170154,22 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "BB/9",
-            "value": "5.1"
+            "value": "5.6"
           },
           {
             "label": "HR/9",
-            "value": "1.18"
+            "value": "1.16"
           },
           {
             "label": "IP",
-            "value": "45.7"
+            "value": "46.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 60.384870603848704,
-          "Command": 21.538461538461533,
+          "Miss bats": 60.064935064935064,
+          "Command": 17.93103448275862,
           "Damage suppression": 0
         },
         "metaLine": "JR / R/R",
@@ -170340,43 +170340,43 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Cooper Ellingworth looks like a RHP option who misses bats.",
+        "summary": "Cooper Ellingworth looks like a RHP option who misses bats and throws enough strikes.",
         "summaryMetrics": [
-          "ERA 5.98",
-          "WHIP 1.54",
-          "K/9 9.8"
+          "ERA 6.15",
+          "WHIP 1.50",
+          "K/9 9.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.98"
+            "value": "6.15"
           },
           {
             "label": "WHIP",
-            "value": "1.54"
+            "value": "1.50"
           },
           {
             "label": "K/9",
-            "value": "9.8"
+            "value": "9.6"
           },
           {
             "label": "BB/9",
-            "value": "3.3"
+            "value": "2.9"
           },
           {
             "label": "HR/9",
-            "value": "1.54"
+            "value": "1.71"
           },
           {
             "label": "IP",
-            "value": "46.7"
+            "value": "52.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 53.05194805194805,
-          "Command": 39.99999999999999,
+          "Miss bats": 50.63291139240508,
+          "Command": 45.88235294117647,
           "Damage suppression": 0
         },
         "metaLine": "JR / R/R",
@@ -170473,37 +170473,37 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "INF",
         "classYear": "R-SR",
         "handedness": "R/R",
-        "score": 38,
+        "score": 41,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Josh Pyne gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .283",
-          "OBP .369",
-          "SLG .475"
+          "AVG .291",
+          "OBP .374",
+          "SLG .492"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".283"
+            "value": ".291"
           },
           {
             "label": "OBP",
-            "value": ".369"
+            "value": ".374"
           },
           {
             "label": "SLG",
-            "value": ".475"
+            "value": ".492"
           },
           {
             "label": "HR",
-            "value": "8"
+            "value": "9"
           },
           {
             "label": "RBI",
-            "value": "34"
+            "value": "35"
           },
           {
             "label": "SB",
@@ -170511,10 +170511,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 49.44444444444443,
-          "Power": 40.78947368421053,
-          "Contact": 39.374999999999986,
-          "Discipline": 21.428571428571423,
+          "On-base": 52.222222222222214,
+          "Power": 45.26315789473684,
+          "Contact": 44.374999999999986,
+          "Discipline": 20.662768031189078,
           "Speed": 13.333333333333334
         },
         "metaLine": "R-SR / R/R",
@@ -170611,37 +170611,37 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "INF",
         "classYear": "SR",
         "handedness": "L/R",
-        "score": 62,
+        "score": 64,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Blake Cavill profiles as a INF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .283",
-          "OBP .437",
-          "SLG .498"
+          "AVG .287",
+          "OBP .443",
+          "SLG .509"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".283"
+            "value": ".287"
           },
           {
             "label": "OBP",
-            "value": ".437"
+            "value": ".443"
           },
           {
             "label": "SLG",
-            "value": ".498"
+            "value": ".509"
           },
           {
             "label": "HR",
-            "value": "12"
+            "value": "13"
           },
           {
             "label": "RBI",
-            "value": "46"
+            "value": "48"
           },
           {
             "label": "SB",
@@ -170649,10 +170649,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 87.22222222222221,
-          "Power": 46.842105263157904,
-          "Contact": 39.374999999999986,
-          "Discipline": 97.01897018970189,
+          "On-base": 90.55555555555554,
+          "Power": 49.736842105263165,
+          "Contact": 41.874999999999986,
+          "Discipline": 100,
           "Speed": 10
         },
         "metaLine": "SR / L/R",
@@ -170818,29 +170818,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "INF",
         "classYear": "SR",
         "handedness": "L/R",
-        "score": 36,
+        "score": 33,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Sean Darnell gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .263",
-          "OBP .380",
-          "SLG .378"
+          "AVG .253",
+          "OBP .374",
+          "SLG .364"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".263"
+            "value": ".253"
           },
           {
             "label": "OBP",
-            "value": ".380"
+            "value": ".374"
           },
           {
             "label": "SLG",
-            "value": ".378"
+            "value": ".364"
           },
           {
             "label": "HR",
@@ -170848,7 +170848,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "RBI",
-            "value": "42"
+            "value": "43"
           },
           {
             "label": "SB",
@@ -170856,10 +170856,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 55.55555555555555,
-          "Power": 15.263157894736842,
-          "Contact": 26.875000000000004,
-          "Discipline": 51.85185185185184,
+          "On-base": 52.222222222222214,
+          "Power": 11.57894736842105,
+          "Contact": 20.625,
+          "Discipline": 50.5050505050505,
           "Speed": 20
         },
         "metaLine": "SR / L/R",
@@ -176189,21 +176189,21 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 77,
+        "score": 76,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Roch Cholowsky profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
-          "AVG .322",
+          "AVG .320",
           "OBP .452",
-          "SLG .643"
+          "SLG .636"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".322"
+            "value": ".320"
           },
           {
             "label": "OBP",
@@ -176211,7 +176211,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "SLG",
-            "value": ".643"
+            "value": ".636"
           },
           {
             "label": "HR",
@@ -176228,9 +176228,9 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         ],
         "components": {
           "On-base": 95.55555555555554,
-          "Power": 85.00000000000001,
-          "Contact": 63.75000000000001,
-          "Discipline": 92.06349206349205,
+          "Power": 83.15789473684212,
+          "Contact": 62.5,
+          "Discipline": 88.88888888888889,
           "Speed": 3.3333333333333335
         },
         "metaLine": "JR / R/R",
@@ -176326,29 +176326,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 27,
+        "score": 26,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Phoenix Call gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .216",
-          "OBP .391",
-          "SLG .324"
+          "AVG .217",
+          "OBP .387",
+          "SLG .321"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".216"
+            "value": ".217"
           },
           {
             "label": "OBP",
-            "value": ".391"
+            "value": ".387"
           },
           {
             "label": "SLG",
-            "value": ".324"
+            "value": ".321"
           },
           {
             "label": "HR",
@@ -176364,8 +176364,8 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 61.66666666666666,
-          "Power": 1.0526315789473695,
+          "On-base": 59.444444444444436,
+          "Power": 0.26315789473684237,
           "Contact": 0,
           "Discipline": 40.27777777777777,
           "Speed": 10
@@ -176464,29 +176464,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "INF",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 35,
+        "score": 32,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Dominic Cadiz gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .261",
-          "OBP .371",
-          "SLG .386"
+          "AVG .256",
+          "OBP .364",
+          "SLG .378"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".261"
+            "value": ".256"
           },
           {
             "label": "OBP",
-            "value": ".371"
+            "value": ".364"
           },
           {
             "label": "SLG",
-            "value": ".386"
+            "value": ".378"
           },
           {
             "label": "HR",
@@ -176502,9 +176502,9 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 50.55555555555554,
-          "Power": 17.368421052631582,
-          "Contact": 25.625000000000004,
+          "On-base": 46.66666666666665,
+          "Power": 15.263157894736842,
+          "Contact": 22.500000000000004,
           "Discipline": 66.66666666666666,
           "Speed": 0
         },
@@ -176533,29 +176533,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 65,
+        "score": 66,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Roman Martin profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .330",
-          "OBP .444",
-          "SLG .545"
+          "AVG .333",
+          "OBP .446",
+          "SLG .549"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".330"
+            "value": ".333"
           },
           {
             "label": "OBP",
-            "value": ".444"
+            "value": ".446"
           },
           {
             "label": "SLG",
-            "value": ".545"
+            "value": ".549"
           },
           {
             "label": "HR",
@@ -176563,7 +176563,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "RBI",
-            "value": "52"
+            "value": "53"
           },
           {
             "label": "SB",
@@ -176571,10 +176571,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 91.1111111111111,
-          "Power": 59.210526315789494,
-          "Contact": 68.75000000000001,
-          "Discipline": 60.606060606060595,
+          "On-base": 92.22222222222221,
+          "Power": 60.263157894736864,
+          "Contact": 70.625,
+          "Discipline": 61.11111111111111,
           "Speed": 0
         },
         "metaLine": "JR / R/R",
@@ -176678,14 +176678,14 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "Will Gasparino profiles as a OF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .318",
+          "AVG .314",
           "OBP .412",
-          "SLG .668"
+          "SLG .659"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".318"
+            "value": ".314"
           },
           {
             "label": "OBP",
@@ -176693,7 +176693,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "SLG",
-            "value": ".668"
+            "value": ".659"
           },
           {
             "label": "HR",
@@ -176701,7 +176701,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "RBI",
-            "value": "63"
+            "value": "64"
           },
           {
             "label": "SB",
@@ -176710,9 +176710,9 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         ],
         "components": {
           "On-base": 73.3333333333333,
-          "Power": 91.57894736842107,
-          "Contact": 61.25000000000001,
-          "Discipline": 36.36363636363635,
+          "Power": 89.2105263157895,
+          "Contact": 58.75,
+          "Discipline": 38.38383838383837,
           "Speed": 10
         },
         "metaLine": "JR / R/R",
@@ -176954,40 +176954,40 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "Landon Stump gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.22",
-          "WHIP 1.29",
-          "K/9 7.3"
+          "ERA 4.12",
+          "WHIP 1.28",
+          "K/9 7.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.22"
+            "value": "4.12"
           },
           {
             "label": "WHIP",
-            "value": "1.29"
+            "value": "1.28"
           },
           {
             "label": "K/9",
-            "value": "7.3"
+            "value": "7.1"
           },
           {
             "label": "BB/9",
-            "value": "3.7"
+            "value": "3.6"
           },
           {
             "label": "HR/9",
-            "value": "1.01"
+            "value": "0.99"
           },
           {
             "label": "IP",
-            "value": "53.3"
+            "value": "54.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 29.602272727272723,
+          "Miss bats": 27.993348115299344,
           "Command": 19.090909090909093,
           "Damage suppression": 0
         },
@@ -177568,29 +177568,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "INF",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 25,
+        "score": 22,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Aiden Aguayo gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .245",
-          "OBP .344",
-          "SLG .363"
+          "AVG .243",
+          "OBP .339",
+          "SLG .355"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".245"
+            "value": ".243"
           },
           {
             "label": "OBP",
-            "value": ".344"
+            "value": ".339"
           },
           {
             "label": "SLG",
-            "value": ".363"
+            "value": ".355"
           },
           {
             "label": "HR",
@@ -177606,10 +177606,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 35.55555555555553,
-          "Power": 11.315789473684207,
-          "Contact": 15.624999999999996,
-          "Discipline": 51.85185185185184,
+          "On-base": 32.77777777777778,
+          "Power": 9.210526315789469,
+          "Contact": 14.374999999999996,
+          "Discipline": 45.41062801932367,
           "Speed": 3.3333333333333335
         },
         "metaLine": "FR / R/R",
@@ -177637,48 +177637,48 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "RHP",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 20,
+        "score": 19,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Easton Hawk looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 1.79",
-          "WHIP 1.04",
-          "K/9 11.2"
+          "ERA 1.93",
+          "WHIP 1.14",
+          "K/9 11.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "1.79"
+            "value": "1.93"
           },
           {
             "label": "WHIP",
-            "value": "1.04"
+            "value": "1.14"
           },
           {
             "label": "K/9",
-            "value": "11.2"
+            "value": "11.1"
           },
           {
             "label": "BB/9",
-            "value": "3.6"
+            "value": "4.1"
           },
           {
             "label": "HR/9",
-            "value": "0.89"
+            "value": "0.86"
           },
           {
             "label": "IP",
-            "value": "40.3"
+            "value": "42.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 65.06386175807663,
-          "Command": 42.5,
+          "Miss bats": 64.93506493506493,
+          "Command": 34.73684210526316,
           "Damage suppression": 0
         },
         "metaLine": "SO / R/R",
@@ -178190,30 +178190,30 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "Dean West profiles as a OF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .278",
-          "OBP .421",
-          "SLG .409"
+          "AVG .277",
+          "OBP .418",
+          "SLG .417"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".278"
+            "value": ".277"
           },
           {
             "label": "OBP",
-            "value": ".421"
+            "value": ".418"
           },
           {
             "label": "SLG",
-            "value": ".409"
+            "value": ".417"
           },
           {
             "label": "HR",
-            "value": "6"
+            "value": "7"
           },
           {
             "label": "RBI",
-            "value": "39"
+            "value": "41"
           },
           {
             "label": "SB",
@@ -178221,9 +178221,9 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 78.33333333333331,
-          "Power": 23.42105263157894,
-          "Contact": 36.250000000000014,
+          "On-base": 76.66666666666664,
+          "Power": 25.52631578947368,
+          "Contact": 35.625000000000014,
           "Discipline": 100,
           "Speed": 36.666666666666664
         },
@@ -178257,24 +178257,24 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Trey Gudoy profiles as a OF piece who gets on base at a high clip and controls at-bats.",
+        "summary": "Trey Gudoy profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .270",
-          "OBP .425",
-          "SLG .317"
+          "AVG .273",
+          "OBP .422",
+          "SLG .333"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".270"
+            "value": ".273"
           },
           {
             "label": "OBP",
-            "value": ".425"
+            "value": ".422"
           },
           {
             "label": "SLG",
-            "value": ".317"
+            "value": ".333"
           },
           {
             "label": "HR",
@@ -178282,7 +178282,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "RBI",
-            "value": "6"
+            "value": "7"
           },
           {
             "label": "SB",
@@ -178290,10 +178290,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 80.55555555555554,
-          "Power": 0,
-          "Contact": 31.25000000000001,
-          "Discipline": 88.88888888888889,
+          "On-base": 78.88888888888886,
+          "Power": 3.421052631578951,
+          "Contact": 33.12500000000001,
+          "Discipline": 81.48148148148148,
           "Speed": 0
         },
         "metaLine": "FR / L/L",
@@ -178321,29 +178321,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "1B",
         "classYear": "JR",
         "handedness": "L/R",
-        "score": 72,
+        "score": 75,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Mulivai Levu profiles as a 1B piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .336",
-          "OBP .435",
-          "SLG .618"
+          "AVG .340",
+          "OBP .441",
+          "SLG .622"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".336"
+            "value": ".340"
           },
           {
             "label": "OBP",
-            "value": ".435"
+            "value": ".441"
           },
           {
             "label": "SLG",
-            "value": ".618"
+            "value": ".622"
           },
           {
             "label": "HR",
@@ -178359,10 +178359,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 86.1111111111111,
-          "Power": 78.42105263157896,
-          "Contact": 72.50000000000001,
-          "Discipline": 74.99999999999999,
+          "On-base": 89.44444444444444,
+          "Power": 79.47368421052632,
+          "Contact": 75.00000000000001,
+          "Discipline": 81.94444444444444,
           "Speed": 10
         },
         "metaLine": "JR / L/R",
@@ -178390,29 +178390,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "C",
         "classYear": "JR",
         "handedness": "L/R",
-        "score": 38,
+        "score": 34,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Cashel Dugger gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .258",
-          "OBP .386",
-          "SLG .387"
+          "AVG .251",
+          "OBP .378",
+          "SLG .377"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".258"
+            "value": ".251"
           },
           {
             "label": "OBP",
-            "value": ".386"
+            "value": ".378"
           },
           {
             "label": "SLG",
-            "value": ".387"
+            "value": ".377"
           },
           {
             "label": "HR",
@@ -178428,10 +178428,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 58.88888888888888,
-          "Power": 17.631578947368425,
-          "Contact": 23.750000000000004,
-          "Discipline": 71.34502923976606,
+          "On-base": 54.44444444444443,
+          "Power": 15,
+          "Contact": 19.375,
+          "Discipline": 66.66666666666666,
           "Speed": 0
         },
         "metaLine": "JR / L/R",
@@ -178595,48 +178595,48 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "LHP",
         "classYear": "R-JR",
         "handedness": "L/L",
-        "score": 11,
+        "score": 10,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Chris Grothues gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 6.08",
-          "WHIP 1.50",
-          "K/9 8.8"
+          "ERA 5.93",
+          "WHIP 1.54",
+          "K/9 8.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.08"
+            "value": "5.93"
           },
           {
             "label": "WHIP",
-            "value": "1.50"
+            "value": "1.54"
           },
           {
             "label": "K/9",
-            "value": "8.8"
+            "value": "8.6"
           },
           {
             "label": "BB/9",
-            "value": "5.4"
+            "value": "5.3"
           },
           {
             "label": "HR/9",
-            "value": "2.02"
+            "value": "1.98"
           },
           {
             "label": "IP",
-            "value": "13.3"
+            "value": "13.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 43.409090909090914,
-          "Command": 12.500000000000005,
+          "Miss bats": 41.46341463414634,
+          "Command": 12.499999999999996,
           "Damage suppression": 0
         },
         "metaLine": "R-JR / L/L",
@@ -178809,14 +178809,14 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "Cal Randall looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.00",
+          "ERA 3.19",
           "WHIP 1.10",
           "K/9 16.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.00"
+            "value": "3.19"
           },
           {
             "label": "WHIP",
@@ -178828,22 +178828,22 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "BB/9",
-            "value": "5.7"
+            "value": "5.5"
           },
           {
             "label": "HR/9",
-            "value": "0.90"
+            "value": "0.87"
           },
           {
             "label": "IP",
-            "value": "30.0"
+            "value": "31.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
           "Miss bats": 100,
-          "Command": 37.89473684210527,
+          "Command": 39.99999999999999,
           "Damage suppression": 0
         },
         "metaLine": "JR / R/R",
@@ -178871,48 +178871,48 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "RHP",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 7,
+        "score": 10,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Angel Cervantes looks like a RHP option who limits runs and throws enough strikes.",
+        "summary": "Angel Cervantes looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 3.86",
-          "WHIP 1.40",
-          "K/9 6.1"
+          "ERA 4.17",
+          "WHIP 1.45",
+          "K/9 6.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.86"
+            "value": "4.17"
           },
           {
             "label": "WHIP",
-            "value": "1.40"
+            "value": "1.45"
           },
           {
             "label": "K/9",
-            "value": "6.1"
+            "value": "6.7"
           },
           {
             "label": "BB/9",
-            "value": "2.8"
+            "value": "2.7"
           },
           {
             "label": "HR/9",
-            "value": "0.61"
+            "value": "0.91"
           },
           {
             "label": "IP",
-            "value": "44.3"
+            "value": "49.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 19.00205058099795,
-          "Command": 22.857142857142858,
+          "Miss bats": 24.58816351433801,
+          "Command": 29.33333333333333,
           "Damage suppression": 0
         },
         "metaLine": "FR / R/R",
@@ -183694,29 +183694,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "OF/C",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 36,
+        "score": 34,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Matthew Graveline gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .286",
-          "OBP .368",
-          "SLG .417"
+          "AVG .284",
+          "OBP .361",
+          "SLG .409"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".286"
+            "value": ".284"
           },
           {
             "label": "OBP",
-            "value": ".368"
+            "value": ".361"
           },
           {
             "label": "SLG",
-            "value": ".417"
+            "value": ".409"
           },
           {
             "label": "HR",
@@ -183724,7 +183724,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "RBI",
-            "value": "33"
+            "value": "34"
           },
           {
             "label": "SB",
@@ -183732,10 +183732,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 48.88888888888887,
-          "Power": 25.52631578947368,
-          "Contact": 41.24999999999998,
-          "Discipline": 33.33333333333333,
+          "On-base": 44.99999999999998,
+          "Power": 23.42105263157894,
+          "Contact": 39.99999999999998,
+          "Discipline": 29.93197278911564,
           "Speed": 16.666666666666664
         },
         "metaLine": "SR / R/R",
@@ -183832,7 +183832,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "UTL",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 90,
+        "score": 89,
         "fit": {
           "label": "Priority",
           "className": "fit-priority"
@@ -183840,8 +183840,8 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "summary": "Gavin Kelly profiles as a UTL piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
           "AVG .379",
-          "OBP .481",
-          "SLG .701"
+          "OBP .480",
+          "SLG .694"
         ],
         "statCards": [
           {
@@ -183850,11 +183850,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "OBP",
-            "value": ".481"
+            "value": ".480"
           },
           {
             "label": "SLG",
-            "value": ".701"
+            "value": ".694"
           },
           {
             "label": "HR",
@@ -183862,7 +183862,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "RBI",
-            "value": "53"
+            "value": "55"
           },
           {
             "label": "SB",
@@ -183871,9 +183871,9 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         ],
         "components": {
           "On-base": 100,
-          "Power": 100,
+          "Power": 98.42105263157895,
           "Contact": 99.375,
-          "Discipline": 91.89189189189187,
+          "Discipline": 88.88888888888889,
           "Speed": 13.333333333333334
         },
         "metaLine": "SO / R/R",
@@ -184045,22 +184045,22 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "Armani Guzman profiles as a UTL piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .301",
-          "OBP .403",
-          "SLG .415"
+          "AVG .302",
+          "OBP .405",
+          "SLG .411"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".301"
+            "value": ".302"
           },
           {
             "label": "OBP",
-            "value": ".403"
+            "value": ".405"
           },
           {
             "label": "SLG",
-            "value": ".415"
+            "value": ".411"
           },
           {
             "label": "HR",
@@ -184068,18 +184068,18 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "RBI",
-            "value": "34"
+            "value": "37"
           },
           {
             "label": "SB",
-            "value": "33"
+            "value": "35"
           }
         ],
         "components": {
-          "On-base": 68.33333333333333,
-          "Power": 24.999999999999996,
-          "Contact": 50.624999999999986,
-          "Discipline": 82.71604938271604,
+          "On-base": 69.44444444444444,
+          "Power": 23.947368421052627,
+          "Contact": 51.24999999999999,
+          "Discipline": 82.88288288288285,
           "Speed": 100
         },
         "metaLine": "JR / L/R",
@@ -184107,49 +184107,49 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "OF",
         "classYear": "5TH",
         "handedness": "L/L",
-        "score": 76,
+        "score": 78,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Paul Schoenfeld profiles as a OF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .344",
-          "OBP .441",
-          "SLG .502"
+          "AVG .345",
+          "OBP .442",
+          "SLG .516"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".344"
+            "value": ".345"
           },
           {
             "label": "OBP",
-            "value": ".441"
+            "value": ".442"
           },
           {
             "label": "SLG",
-            "value": ".502"
+            "value": ".516"
           },
           {
             "label": "HR",
-            "value": "3"
+            "value": "4"
           },
           {
             "label": "RBI",
-            "value": "43"
+            "value": "46"
           },
           {
             "label": "SB",
-            "value": "22"
+            "value": "23"
           }
         ],
         "components": {
-          "On-base": 89.44444444444444,
-          "Power": 47.89473684210527,
-          "Contact": 77.49999999999999,
+          "On-base": 89.99999999999999,
+          "Power": 51.578947368421055,
+          "Contact": 78.12499999999997,
           "Discipline": 100,
-          "Speed": 73.33333333333333
+          "Speed": 76.66666666666667
         },
         "metaLine": "5TH / L/L",
         "detailBadges": [
@@ -184252,22 +184252,22 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "Tyrus Hall profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .275",
-          "OBP .405",
-          "SLG .419"
+          "AVG .276",
+          "OBP .407",
+          "SLG .414"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".275"
+            "value": ".276"
           },
           {
             "label": "OBP",
-            "value": ".405"
+            "value": ".407"
           },
           {
             "label": "SLG",
-            "value": ".419"
+            "value": ".414"
           },
           {
             "label": "HR",
@@ -184275,7 +184275,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "RBI",
-            "value": "26"
+            "value": "28"
           },
           {
             "label": "SB",
@@ -184283,10 +184283,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 69.44444444444444,
-          "Power": 26.052631578947366,
-          "Contact": 34.375000000000014,
-          "Discipline": 22.22222222222222,
+          "On-base": 70.55555555555553,
+          "Power": 24.736842105263154,
+          "Contact": 35.000000000000014,
+          "Discipline": 23.953823953823953,
           "Speed": 56.666666666666664
         },
         "metaLine": "JR / R/R",
@@ -184459,22 +184459,22 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "Sean Smith profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .315",
-          "OBP .406",
-          "SLG .513"
+          "AVG .316",
+          "OBP .408",
+          "SLG .510"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".315"
+            "value": ".316"
           },
           {
             "label": "OBP",
-            "value": ".406"
+            "value": ".408"
           },
           {
             "label": "SLG",
-            "value": ".513"
+            "value": ".510"
           },
           {
             "label": "HR",
@@ -184482,7 +184482,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "RBI",
-            "value": "46"
+            "value": "49"
           },
           {
             "label": "SB",
@@ -184490,10 +184490,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 70,
-          "Power": 50.78947368421054,
-          "Contact": 59.375,
-          "Discipline": 34.56790123456789,
+          "On-base": 71.11111111111109,
+          "Power": 50.000000000000014,
+          "Contact": 60,
+          "Discipline": 34.51536643026004,
           "Speed": 16.666666666666664
         },
         "metaLine": "GR / R/R",
@@ -184521,29 +184521,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "INF",
         "classYear": "GR",
         "handedness": "R/R",
-        "score": 46,
+        "score": 44,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Brodie Kresser gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .287",
-          "OBP .395",
-          "SLG .387"
+          "AVG .289",
+          "OBP .392",
+          "SLG .384"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".287"
+            "value": ".289"
           },
           {
             "label": "OBP",
-            "value": ".395"
+            "value": ".392"
           },
           {
             "label": "SLG",
-            "value": ".387"
+            "value": ".384"
           },
           {
             "label": "HR",
@@ -184551,7 +184551,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "RBI",
-            "value": "30"
+            "value": "31"
           },
           {
             "label": "SB",
@@ -184559,10 +184559,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 63.888888888888886,
-          "Power": 17.631578947368425,
-          "Contact": 41.874999999999986,
-          "Discipline": 84.25925925925924,
+          "On-base": 62.22222222222222,
+          "Power": 16.842105263157897,
+          "Contact": 43.124999999999986,
+          "Discipline": 72.42798353909464,
           "Speed": 20
         },
         "metaLine": "GR / R/R",
@@ -184873,22 +184873,22 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "Matt Ineich profiles as a INF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .299",
-          "OBP .433",
-          "SLG .430"
+          "AVG .300",
+          "OBP .435",
+          "SLG .427"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".299"
+            "value": ".300"
           },
           {
             "label": "OBP",
-            "value": ".433"
+            "value": ".435"
           },
           {
             "label": "SLG",
-            "value": ".430"
+            "value": ".427"
           },
           {
             "label": "HR",
@@ -184904,9 +184904,9 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 84.99999999999999,
-          "Power": 28.947368421052634,
-          "Contact": 49.37499999999999,
+          "On-base": 86.1111111111111,
+          "Power": 28.157894736842103,
+          "Contact": 49.999999999999986,
           "Discipline": 100,
           "Speed": 13.333333333333334
         },
@@ -185141,33 +185141,33 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "LHP",
         "classYear": "SO",
         "handedness": "L/L",
-        "score": 14,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Joshua Surigao looks like a LHP option who limits runs and misses bats.",
         "summaryMetrics": [
-          "ERA 2.79",
-          "WHIP 1.34",
-          "K/9 10.2"
+          "ERA 3.60",
+          "WHIP 1.60",
+          "K/9 9.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.79"
+            "value": "3.60"
           },
           {
             "label": "WHIP",
-            "value": "1.34"
+            "value": "1.60"
           },
           {
             "label": "K/9",
-            "value": "10.2"
+            "value": "9.9"
           },
           {
             "label": "BB/9",
-            "value": "5.6"
+            "value": "6.3"
           },
           {
             "label": "HR/9",
@@ -185175,14 +185175,14 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "IP",
-            "value": "9.7"
+            "value": "10.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 56.739811912225704,
-          "Command": 16.666666666666664,
+          "Miss bats": 53.63636363636364,
+          "Command": 11.428571428571432,
           "Damage suppression": 0
         },
         "metaLine": "SO / L/L",
@@ -185217,41 +185217,41 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "David Hagen looks like a RHP option who limits runs.",
         "summaryMetrics": [
-          "ERA 3.67",
-          "WHIP 1.26",
-          "K/9 6.7"
+          "ERA 3.72",
+          "WHIP 1.34",
+          "K/9 6.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.67"
+            "value": "3.72"
           },
           {
             "label": "WHIP",
-            "value": "1.26"
+            "value": "1.34"
           },
           {
             "label": "K/9",
-            "value": "6.7"
+            "value": "6.8"
           },
           {
             "label": "BB/9",
-            "value": "6.0"
+            "value": "6.2"
           },
           {
             "label": "HR/9",
-            "value": "1.00"
+            "value": "0.93"
           },
           {
             "label": "IP",
-            "value": "27.0"
+            "value": "29.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 24.242424242424246,
-          "Command": 2.222222222222223,
+          "Miss bats": 25.705329153605017,
+          "Command": 2.0000000000000018,
           "Damage suppression": 0
         },
         "metaLine": "SO / R/R",
@@ -185279,29 +185279,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "OF",
         "classYear": "SR",
         "handedness": "L/R",
-        "score": 25,
+        "score": 36,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Ben Lumsden gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .241",
-          "OBP .357",
-          "SLG .379"
+          "AVG .254",
+          "OBP .392",
+          "SLG .397"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".241"
+            "value": ".254"
           },
           {
             "label": "OBP",
-            "value": ".357"
+            "value": ".392"
           },
           {
             "label": "SLG",
-            "value": ".379"
+            "value": ".397"
           },
           {
             "label": "HR",
@@ -185309,7 +185309,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "RBI",
-            "value": "10"
+            "value": "12"
           },
           {
             "label": "SB",
@@ -185317,10 +185317,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 42.77777777777775,
-          "Power": 15.526315789473685,
-          "Contact": 13.124999999999995,
-          "Discipline": 33.33333333333333,
+          "On-base": 62.22222222222222,
+          "Power": 20.26315789473685,
+          "Contact": 21.250000000000004,
+          "Discipline": 47.222222222222214,
           "Speed": 0
         },
         "metaLine": "SR / L/R",
@@ -185485,25 +185485,25 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "RHP",
         "classYear": "GR",
         "handedness": "R/R",
-        "score": 16,
+        "score": 17,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Reese Bassinger looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.40",
-          "WHIP 1.17",
+          "ERA 3.29",
+          "WHIP 1.15",
           "K/9 9.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.40"
+            "value": "3.29"
           },
           {
             "label": "WHIP",
-            "value": "1.17"
+            "value": "1.15"
           },
           {
             "label": "K/9",
@@ -185511,22 +185511,22 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "BB/9",
-            "value": "2.9"
+            "value": "2.8"
           },
           {
             "label": "HR/9",
-            "value": "0.51"
+            "value": "0.49"
           },
           {
             "label": "IP",
-            "value": "53.0"
+            "value": "54.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 46.99828473413378,
-          "Command": 43.52941176470588,
+          "Miss bats": 47.45011086474502,
+          "Command": 45.88235294117647,
           "Damage suppression": 0
         },
         "metaLine": "GR / R/R",
@@ -185554,29 +185554,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "RHP",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 17,
+        "score": 16,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Dawson Montesa looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.94",
-          "WHIP 1.49",
-          "K/9 11.0"
+          "ERA 5.83",
+          "WHIP 1.45",
+          "K/9 10.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.94"
+            "value": "5.83"
           },
           {
             "label": "WHIP",
-            "value": "1.49"
+            "value": "1.45"
           },
           {
             "label": "K/9",
-            "value": "11.0"
+            "value": "10.8"
           },
           {
             "label": "BB/9",
@@ -185584,18 +185584,18 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "HR/9",
-            "value": "1.55"
+            "value": "1.65"
           },
           {
             "label": "IP",
-            "value": "63.7"
+            "value": "71.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 63.87434554973822,
-          "Command": 24.571428571428573,
+          "Miss bats": 61.58770806658131,
+          "Command": 23.589743589743588,
           "Damage suppression": 0
         },
         "metaLine": "JR / R/R",
@@ -186111,41 +186111,41 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         },
         "summary": "Carson Estridge looks like a RHP option who limits runs.",
         "summaryMetrics": [
-          "ERA 2.67",
-          "WHIP 1.29",
-          "K/9 8.6"
+          "ERA 3.38",
+          "WHIP 1.38",
+          "K/9 8.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.67"
+            "value": "3.38"
           },
           {
             "label": "WHIP",
-            "value": "1.29"
+            "value": "1.38"
           },
           {
             "label": "K/9",
-            "value": "8.6"
+            "value": "8.4"
           },
           {
             "label": "BB/9",
-            "value": "3.6"
+            "value": "3.4"
           },
           {
             "label": "HR/9",
-            "value": "0.30"
+            "value": "0.56"
           },
           {
             "label": "IP",
-            "value": "30.3"
+            "value": "32.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 41.858141858141856,
-          "Command": 28.333333333333332,
+          "Miss bats": 40.340909090909086,
+          "Command": 30,
           "Damage suppression": 0
         },
         "metaLine": "SR / L/R",
@@ -186587,48 +186587,48 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "LHP",
         "classYear": "SR",
         "handedness": "L/L",
-        "score": 3,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Ben McDougal gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Ben McDougal looks like a LHP option who limits runs.",
         "summaryMetrics": [
-          "ERA 4.26",
-          "WHIP 1.89",
-          "K/9 5.7"
+          "ERA 3.97",
+          "WHIP 1.32",
+          "K/9 7.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.26"
+            "value": "3.97"
           },
           {
             "label": "WHIP",
-            "value": "1.89"
+            "value": "1.32"
           },
           {
             "label": "K/9",
-            "value": "5.7"
+            "value": "7.9"
           },
           {
             "label": "BB/9",
-            "value": "8.5"
+            "value": "4.8"
           },
           {
             "label": "HR/9",
-            "value": "2.84"
+            "value": "3.18"
           },
           {
             "label": "IP",
-            "value": "6.3"
+            "value": "11.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 15.311004784688995,
-          "Command": 0,
+          "Miss bats": 35.828877005347586,
+          "Command": 13.33333333333333,
           "Damage suppression": 0
         },
         "metaLine": "SR / L/L",
