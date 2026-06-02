@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T12:14:13.521Z",
+  "generatedAt": "2026-06-02T11:46:28.267Z",
   "season": 2026,
   "school": {
     "slug": "texas-am",
@@ -38,84 +38,84 @@
     }
   },
   "teamSummary": {
-    "record": "41-15, 18-11",
-    "battingAverage": ".303",
-    "earnedRunAverage": "5.21",
+    "record": "41-16, 18-11",
+    "battingAverage": ".301",
+    "earnedRunAverage": "5.24",
     "wins": "41",
-    "losses": "15",
+    "losses": "16",
     "hitting": {
-      "atBats": "1867",
-      "runsScored": "504",
-      "hits": "565",
-      "runsBattedIn": "465",
+      "atBats": "1897",
+      "runsScored": "505",
+      "hits": "571",
+      "runsBattedIn": "466",
       "doubles": "116",
       "triples": "10",
-      "homeRuns": "120",
-      "walks": "320",
+      "homeRuns": "121",
+      "walks": "322",
       "intentionalWalks": "6",
-      "strikeouts": "466",
-      "strikeoutsLooking": "129",
-      "hitByPitch": "83",
+      "strikeouts": "473",
+      "strikeoutsLooking": "130",
+      "hitByPitch": "84",
       "stolenBases": "56",
       "caughtStealing": "9",
-      "sacrificeHits": "11",
+      "sacrificeHits": "12",
       "sacrificeFlies": "23",
       "reachedOnCatchersInteference": "1",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "429",
-      "flyOuts": "416",
-      "groundedIntoDoublePlay": "30",
+      "groundOuts": "439",
+      "flyOuts": "424",
+      "groundedIntoDoublePlay": "31",
       "pickedOff": "5",
-      "doublePlaysHitInto": "32",
+      "doublePlaysHitInto": "33",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1416",
-      "assists": "412",
+      "putouts": "1443",
+      "assists": "419",
       "errors": "42",
       "passedBalls": "4",
       "catchersInterference": "0",
-      "stolenBasesAgainst": "28",
+      "stolenBasesAgainst": "29",
       "caughtStealingBy": "11",
       "involvedInDoublePlays": "33",
       "involvedInTriplePlays": "0",
-      "totalChances": "1870",
+      "totalChances": "1904",
       "fieldingPercentage": ".978"
     },
     "pitching": {
       "orderOfAppearance": "0",
       "wins": "41",
       "saves": "14",
-      "losses": "15",
+      "losses": "16",
       "gamesStarted": "0",
       "gamesCompleted": "1",
       "shutouts": "3",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "472.0",
-      "hitsAllowed": "509",
-      "runsAllowed": "300",
-      "earnedRunsAllowed": "273",
-      "walksAllowed": "152",
-      "strikeouts": "490",
-      "battersFaced": "2104",
-      "opponentAtBats": "1872",
-      "doublesAllowed": "81",
+      "inningsPitched": "481.0",
+      "hitsAllowed": "521",
+      "runsAllowed": "307",
+      "earnedRunsAllowed": "280",
+      "walksAllowed": "155",
+      "strikeouts": "497",
+      "battersFaced": "2148",
+      "opponentAtBats": "1910",
+      "doublesAllowed": "83",
       "triplesAllowed": "3",
-      "homerunsAllowed": "89",
+      "homerunsAllowed": "90",
       "wildPitches": "18",
       "balks": "3",
-      "hitBatters": "55",
-      "strikeoutsLooking": "137",
-      "intentionalWalks": "5",
+      "hitBatters": "56",
+      "strikeoutsLooking": "139",
+      "intentionalWalks": "6",
       "inheritedRunners": "0",
       "inheritedRunnersThatScored": "0",
-      "sacrificeHitsAllowed": "11",
-      "sacrificeFliesAllowed": "14",
+      "sacrificeHitsAllowed": "12",
+      "sacrificeFliesAllowed": "15",
       "catchersInterferenceAllowed": "0",
-      "pitches": "7953",
-      "flyouts": "488",
-      "groundouts": "387",
+      "pitches": "8109",
+      "flyouts": "498",
+      "groundouts": "397",
       "teamUnearnedRuns": "3",
       "saveRecord": "14",
       "pickoff": "5"
@@ -450,13 +450,13 @@
         "jersey": "2",
         "profileUrl": "https://12thman.com/sports/baseball/roster/nico-partida/15268",
         "imageUrl": "https://12thman.com/images/2026/1/21/Partida_-Nico.jpg",
-        "gamesPlayed": 48,
-        "gamesStarted": 47,
-        "battingAverage": 0.313,
-        "onBasePercentage": 0.416,
-        "sluggingPercentage": 0.563,
-        "ops": 0.979,
-        "atBats": 176,
+        "gamesPlayed": 49,
+        "gamesStarted": 48,
+        "battingAverage": 0.306,
+        "onBasePercentage": 0.408,
+        "sluggingPercentage": 0.55,
+        "ops": 0.958,
+        "atBats": 180,
         "runs": 45,
         "hits": 55,
         "doubles": 8,
@@ -466,17 +466,17 @@
         "totalBases": 99,
         "walks": 29,
         "hitByPitch": 3,
-        "strikeouts": 38,
+        "strikeouts": 40,
         "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 5,
+        "groundedIntoDoublePlay": 6,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
         "stolenBases": 4,
         "stolenBasesAttempts": 4,
-        "putouts": 26,
+        "putouts": 29,
         "assists": 0,
         "errors": 6,
-        "plateAppearances": 213,
+        "plateAppearances": 217,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -488,19 +488,19 @@
         "jersey": "2",
         "profileUrl": "https://12thman.com/sports/baseball/roster/nico-partida/15268",
         "imageUrl": "https://12thman.com/images/2026/1/21/Partida_-Nico.jpg",
-        "gamesPlayed": 41,
-        "gamesStarted": 41,
-        "putouts": 26,
+        "gamesPlayed": 42,
+        "gamesStarted": 42,
+        "putouts": 29,
         "assists": 73,
         "errors": 6,
-        "fieldingPercentage": 0.943,
+        "fieldingPercentage": 0.944,
         "doublePlays": 3,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 105
+        "totalChances": 108
       },
       "evaluation": {
         "score": 0,
@@ -595,33 +595,33 @@
         "jersey": "3",
         "profileUrl": "https://12thman.com/sports/baseball/roster/jake-duer/15261",
         "imageUrl": "https://12thman.com/images/2026/1/21/Duer_-Jake.jpg",
-        "gamesPlayed": 56,
-        "gamesStarted": 56,
-        "battingAverage": 0.305,
-        "onBasePercentage": 0.409,
-        "sluggingPercentage": 0.484,
-        "ops": 0.893,
-        "atBats": 213,
+        "gamesPlayed": 57,
+        "gamesStarted": 57,
+        "battingAverage": 0.304,
+        "onBasePercentage": 0.406,
+        "sluggingPercentage": 0.479,
+        "ops": 0.885,
+        "atBats": 217,
         "runs": 38,
-        "hits": 65,
+        "hits": 66,
         "doubles": 13,
         "triples": 2,
         "homeRuns": 7,
         "runsBattedIn": 54,
-        "totalBases": 103,
+        "totalBases": 104,
         "walks": 37,
         "hitByPitch": 1,
-        "strikeouts": 43,
+        "strikeouts": 44,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 50,
+        "putouts": 51,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 252,
+        "plateAppearances": 256,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -633,51 +633,51 @@
         "jersey": "3",
         "profileUrl": "https://12thman.com/sports/baseball/roster/jake-duer/15261",
         "imageUrl": "https://12thman.com/images/2026/1/21/Duer_-Jake.jpg",
-        "gamesPlayed": 33,
-        "gamesStarted": 33,
-        "putouts": 50,
+        "gamesPlayed": 34,
+        "gamesStarted": 34,
+        "putouts": 51,
         "assists": 0,
         "errors": 1,
-        "fieldingPercentage": 0.98,
+        "fieldingPercentage": 0.981,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 51
+        "totalChances": 52
       },
       "evaluation": {
-        "score": 54,
+        "score": 53,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 71.66666666666664,
-          "Power": 43.15789473684211,
-          "Contact": 53.124999999999986,
-          "Discipline": 73.38501291989662,
+          "On-base": 70,
+          "Power": 41.84210526315789,
+          "Contact": 52.49999999999999,
+          "Discipline": 71.21212121212119,
           "Speed": 0
         },
         "summary": "Jake Duer profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .305",
-          "OBP .409",
-          "SLG .484"
+          "AVG .304",
+          "OBP .406",
+          "SLG .479"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".305"
+            "value": ".304"
           },
           {
             "label": "OBP",
-            "value": ".409"
+            "value": ".406"
           },
           {
             "label": "SLG",
-            "value": ".484"
+            "value": ".479"
           },
           {
             "label": "HR",
@@ -885,12 +885,12 @@
         "jersey": "6",
         "profileUrl": "https://12thman.com/sports/baseball/roster/boston-kellner/15265",
         "imageUrl": "https://12thman.com/images/2026/1/21/Kellner_-Boston.jpg",
-        "gamesPlayed": 54,
-        "gamesStarted": 54,
+        "gamesPlayed": 55,
+        "gamesStarted": 55,
         "battingAverage": 0.244,
-        "onBasePercentage": 0.42,
+        "onBasePercentage": 0.423,
         "sluggingPercentage": 0.396,
-        "ops": 0.816,
+        "ops": 0.819,
         "atBats": 164,
         "runs": 40,
         "hits": 40,
@@ -899,19 +899,19 @@
         "homeRuns": 5,
         "runsBattedIn": 30,
         "totalBases": 65,
-        "walks": 42,
+        "walks": 43,
         "hitByPitch": 10,
         "strikeouts": 44,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 3,
-        "sacrificeHits": 2,
+        "sacrificeHits": 3,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 65,
+        "putouts": 67,
         "assists": 0,
         "errors": 15,
-        "plateAppearances": 222,
+        "plateAppearances": 224,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -923,37 +923,37 @@
         "jersey": "6",
         "profileUrl": "https://12thman.com/sports/baseball/roster/boston-kellner/15265",
         "imageUrl": "https://12thman.com/images/2026/1/21/Kellner_-Boston.jpg",
-        "gamesPlayed": 49,
-        "gamesStarted": 49,
-        "putouts": 65,
-        "assists": 108,
+        "gamesPlayed": 50,
+        "gamesStarted": 50,
+        "putouts": 67,
+        "assists": 110,
         "errors": 15,
-        "fieldingPercentage": 0.92,
+        "fieldingPercentage": 0.922,
         "doublePlays": 23,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 188
+        "totalChances": 192
       },
       "evaluation": {
-        "score": 45,
+        "score": 46,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 77.77777777777776,
+          "On-base": 79.44444444444443,
           "Power": 20.000000000000007,
           "Contact": 14.999999999999996,
-          "Discipline": 83.83838383838383,
+          "Discipline": 86.36363636363636,
           "Speed": 3.3333333333333335
         },
         "summary": "Boston Kellner profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
           "AVG .244",
-          "OBP .420",
+          "OBP .423",
           "SLG .396"
         ],
         "statCards": [
@@ -963,7 +963,7 @@
           },
           {
             "label": "OBP",
-            "value": ".420"
+            "value": ".423"
           },
           {
             "label": "SLG",
@@ -1030,21 +1030,21 @@
         "jersey": "8",
         "profileUrl": "https://12thman.com/sports/baseball/roster/chris-hacopian/15263",
         "imageUrl": "https://12thman.com/images/2026/1/21/Hacopian_-Chris.jpg",
-        "gamesPlayed": 41,
-        "gamesStarted": 41,
+        "gamesPlayed": 42,
+        "gamesStarted": 42,
         "battingAverage": 0.319,
-        "onBasePercentage": 0.403,
-        "sluggingPercentage": 0.583,
-        "ops": 0.986,
-        "atBats": 163,
+        "onBasePercentage": 0.405,
+        "sluggingPercentage": 0.578,
+        "ops": 0.983,
+        "atBats": 166,
         "runs": 34,
-        "hits": 52,
+        "hits": 53,
         "doubles": 10,
         "triples": 0,
         "homeRuns": 11,
         "runsBattedIn": 41,
-        "totalBases": 95,
-        "walks": 24,
+        "totalBases": 96,
+        "walks": 25,
         "hitByPitch": 1,
         "strikeouts": 21,
         "intentionalWalks": 0,
@@ -1056,7 +1056,7 @@
         "putouts": 45,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 194,
+        "plateAppearances": 198,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1089,8 +1089,8 @@
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 68.33333333333333,
-          "Power": 69.21052631578947,
+          "On-base": 69.44444444444444,
+          "Power": 67.89473684210526,
           "Contact": 61.875,
           "Discipline": 100,
           "Speed": 10
@@ -1098,8 +1098,8 @@
         "summary": "Chris Hacopian profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
           "AVG .319",
-          "OBP .403",
-          "SLG .583"
+          "OBP .405",
+          "SLG .578"
         ],
         "statCards": [
           {
@@ -1108,11 +1108,11 @@
           },
           {
             "label": "OBP",
-            "value": ".403"
+            "value": ".405"
           },
           {
             "label": "SLG",
-            "value": ".583"
+            "value": ".578"
           },
           {
             "label": "HR",
@@ -1175,13 +1175,13 @@
         "jersey": "9",
         "profileUrl": "https://12thman.com/sports/baseball/roster/gavin-grahovac/14971",
         "imageUrl": "https://12thman.com/images/2026/1/21/Grahovac_-Gavin.jpg",
-        "gamesPlayed": 56,
-        "gamesStarted": 56,
-        "battingAverage": 0.345,
-        "onBasePercentage": 0.435,
-        "sluggingPercentage": 0.735,
-        "ops": 1.17,
-        "atBats": 226,
+        "gamesPlayed": 57,
+        "gamesStarted": 57,
+        "battingAverage": 0.339,
+        "onBasePercentage": 0.429,
+        "sluggingPercentage": 0.722,
+        "ops": 1.151,
+        "atBats": 230,
         "runs": 76,
         "hits": 78,
         "doubles": 16,
@@ -1191,17 +1191,17 @@
         "totalBases": 166,
         "walks": 26,
         "hitByPitch": 13,
-        "strikeouts": 43,
+        "strikeouts": 45,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 4,
         "sacrificeHits": 0,
         "stolenBases": 5,
         "stolenBasesAttempts": 7,
-        "putouts": 298,
+        "putouts": 307,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 278,
+        "plateAppearances": 282,
         "caughtStealing": 2,
         "pickedOff": 1
       },
@@ -1213,9 +1213,9 @@
         "jersey": "9",
         "profileUrl": "https://12thman.com/sports/baseball/roster/gavin-grahovac/14971",
         "imageUrl": "https://12thman.com/images/2026/1/21/Grahovac_-Gavin.jpg",
-        "gamesPlayed": 56,
-        "gamesStarted": 56,
-        "putouts": 298,
+        "gamesPlayed": 57,
+        "gamesStarted": 57,
+        "putouts": 307,
         "assists": 45,
         "errors": 2,
         "fieldingPercentage": 0.994,
@@ -1225,39 +1225,39 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 345
+        "totalChances": 354
       },
       "evaluation": {
-        "score": 76,
+        "score": 73,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "components": {
-          "On-base": 86.1111111111111,
+          "On-base": 82.77777777777776,
           "Power": 100,
-          "Contact": 78.12499999999997,
-          "Discipline": 44.96124031007751,
+          "Contact": 74.37500000000001,
+          "Discipline": 41.975308641975296,
           "Speed": 16.666666666666664
         },
         "summary": "Gavin Grahovac profiles as a INF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .345",
-          "OBP .435",
-          "SLG .735"
+          "AVG .339",
+          "OBP .429",
+          "SLG .722"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".345"
+            "value": ".339"
           },
           {
             "label": "OBP",
-            "value": ".435"
+            "value": ".429"
           },
           {
             "label": "SLG",
-            "value": ".735"
+            "value": ".722"
           },
           {
             "label": "HR",
@@ -1320,33 +1320,33 @@
         "jersey": "10",
         "profileUrl": "https://12thman.com/sports/baseball/roster/ben-royo/14987",
         "imageUrl": "https://12thman.com/images/2026/1/21/Royo_-Ben.jpg",
-        "gamesPlayed": 14,
-        "gamesStarted": 11,
-        "battingAverage": 0.45,
-        "onBasePercentage": 0.489,
-        "sluggingPercentage": 0.725,
-        "ops": 1.214,
-        "atBats": 40,
+        "gamesPlayed": 15,
+        "gamesStarted": 12,
+        "battingAverage": 0.432,
+        "onBasePercentage": 0.471,
+        "sluggingPercentage": 0.682,
+        "ops": 1.153,
+        "atBats": 44,
         "runs": 10,
-        "hits": 18,
+        "hits": 19,
         "doubles": 2,
         "triples": 0,
         "homeRuns": 3,
         "runsBattedIn": 8,
-        "totalBases": 29,
+        "totalBases": 30,
         "walks": 5,
         "hitByPitch": 0,
-        "strikeouts": 7,
+        "strikeouts": 8,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 2,
         "sacrificeHits": 0,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 16,
+        "putouts": 18,
         "assists": 0,
         "errors": 3,
-        "plateAppearances": 48,
+        "plateAppearances": 52,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1358,51 +1358,51 @@
         "jersey": "10",
         "profileUrl": "https://12thman.com/sports/baseball/roster/ben-royo/14987",
         "imageUrl": "https://12thman.com/images/2026/1/21/Royo_-Ben.jpg",
-        "gamesPlayed": 12,
-        "gamesStarted": 11,
-        "putouts": 16,
-        "assists": 19,
+        "gamesPlayed": 13,
+        "gamesStarted": 12,
+        "putouts": 18,
+        "assists": 23,
         "errors": 3,
-        "fieldingPercentage": 0.921,
+        "fieldingPercentage": 0.932,
         "doublePlays": 3,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 38
+        "totalChances": 44
       },
       "evaluation": {
-        "score": 84,
+        "score": 82,
         "fit": {
           "label": "Priority",
           "className": "fit-priority"
         },
         "components": {
           "On-base": 100,
-          "Power": 100,
+          "Power": 95.26315789473688,
           "Contact": 100,
-          "Discipline": 57.14285714285713,
+          "Discipline": 47.222222222222214,
           "Speed": 3.3333333333333335
         },
         "summary": "Ben Royo profiles as a INF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .450",
-          "OBP .489",
-          "SLG .725"
+          "AVG .432",
+          "OBP .471",
+          "SLG .682"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".450"
+            "value": ".432"
           },
           {
             "label": "OBP",
-            "value": ".489"
+            "value": ".471"
           },
           {
             "label": "SLG",
-            "value": ".725"
+            "value": ".682"
           },
           {
             "label": "HR",
@@ -1607,13 +1607,13 @@
         "jersey": "13",
         "profileUrl": "https://12thman.com/sports/baseball/roster/caden-sorrell/14991",
         "imageUrl": "https://12thman.com/images/2026/1/21/Sorrell_-Caden.jpg",
-        "gamesPlayed": 55,
-        "gamesStarted": 54,
-        "battingAverage": 0.347,
-        "onBasePercentage": 0.441,
-        "sluggingPercentage": 0.757,
-        "ops": 1.198,
-        "atBats": 222,
+        "gamesPlayed": 56,
+        "gamesStarted": 55,
+        "battingAverage": 0.341,
+        "onBasePercentage": 0.434,
+        "sluggingPercentage": 0.743,
+        "ops": 1.177,
+        "atBats": 226,
         "runs": 67,
         "hits": 77,
         "doubles": 20,
@@ -1623,17 +1623,17 @@
         "totalBases": 168,
         "walks": 33,
         "hitByPitch": 5,
-        "strikeouts": 60,
+        "strikeouts": 61,
         "intentionalWalks": 6,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
         "stolenBases": 11,
         "stolenBasesAttempts": 15,
-        "putouts": 146,
+        "putouts": 147,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 280,
+        "plateAppearances": 284,
         "caughtStealing": 4,
         "pickedOff": 0
       },
@@ -1645,9 +1645,9 @@
         "jersey": "13",
         "profileUrl": "https://12thman.com/sports/baseball/roster/caden-sorrell/14991",
         "imageUrl": "https://12thman.com/images/2026/1/21/Sorrell_-Caden.jpg",
-        "gamesPlayed": 49,
-        "gamesStarted": 49,
-        "putouts": 146,
+        "gamesPlayed": 50,
+        "gamesStarted": 50,
+        "putouts": 147,
         "assists": 0,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -1657,39 +1657,39 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 146
+        "totalChances": 147
       },
       "evaluation": {
-        "score": 78,
+        "score": 76,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "components": {
-          "On-base": 89.44444444444444,
+          "On-base": 85.55555555555554,
           "Power": 100,
-          "Contact": 79.37499999999999,
-          "Discipline": 38.88888888888889,
+          "Contact": 75.62500000000001,
+          "Discipline": 37.88706739526411,
           "Speed": 36.666666666666664
         },
         "summary": "Caden Sorrell profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .347",
-          "OBP .441",
-          "SLG .757"
+          "AVG .341",
+          "OBP .434",
+          "SLG .743"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".347"
+            "value": ".341"
           },
           {
             "label": "OBP",
-            "value": ".441"
+            "value": ".434"
           },
           {
             "label": "SLG",
-            "value": ".757"
+            "value": ".743"
           },
           {
             "label": "HR",
@@ -2018,22 +2018,22 @@
         "jersey": "16",
         "profileUrl": "https://12thman.com/sports/baseball/roster/bear-harrison/14972",
         "imageUrl": "https://12thman.com/images/2026/1/21/Harrison_-Bear.jpg",
-        "gamesPlayed": 52,
-        "gamesStarted": 51,
-        "battingAverage": 0.294,
-        "onBasePercentage": 0.493,
-        "sluggingPercentage": 0.608,
-        "ops": 1.101,
-        "atBats": 153,
-        "runs": 49,
-        "hits": 45,
+        "gamesPlayed": 53,
+        "gamesStarted": 52,
+        "battingAverage": 0.297,
+        "onBasePercentage": 0.495,
+        "sluggingPercentage": 0.626,
+        "ops": 1.121,
+        "atBats": 155,
+        "runs": 50,
+        "hits": 46,
         "doubles": 15,
         "triples": 0,
-        "homeRuns": 11,
-        "runsBattedIn": 34,
-        "totalBases": 93,
+        "homeRuns": 12,
+        "runsBattedIn": 35,
+        "totalBases": 97,
         "walks": 41,
-        "hitByPitch": 22,
+        "hitByPitch": 23,
         "strikeouts": 37,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
@@ -2041,10 +2041,10 @@
         "sacrificeHits": 0,
         "stolenBases": 3,
         "stolenBasesAttempts": 3,
-        "putouts": 435,
+        "putouts": 442,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 222,
+        "plateAppearances": 225,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2056,59 +2056,59 @@
         "jersey": "16",
         "profileUrl": "https://12thman.com/sports/baseball/roster/bear-harrison/14972",
         "imageUrl": "https://12thman.com/images/2026/1/21/Harrison_-Bear.jpg",
-        "gamesPlayed": 52,
-        "gamesStarted": 51,
-        "putouts": 435,
+        "gamesPlayed": 53,
+        "gamesStarted": 52,
+        "putouts": 442,
         "assists": 26,
         "errors": 2,
         "fieldingPercentage": 0.996,
         "doublePlays": 1,
-        "stolenBasesAgainst": 25,
+        "stolenBasesAgainst": 26,
         "caughtStealingBy": 10,
         "stolenBasesPercentage": null,
         "passedBalls": 3,
         "catchersInterference": 0,
-        "totalChances": 463
+        "totalChances": 470
       },
       "evaluation": {
-        "score": 75,
+        "score": 77,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "components": {
           "On-base": 100,
-          "Power": 75.78947368421053,
-          "Contact": 46.249999999999986,
+          "Power": 80.52631578947368,
+          "Contact": 48.12499999999999,
           "Discipline": 100,
           "Speed": 10
         },
         "summary": "Bear Harrison profiles as a C piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
-          "AVG .294",
-          "OBP .493",
-          "SLG .608"
+          "AVG .297",
+          "OBP .495",
+          "SLG .626"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".294"
+            "value": ".297"
           },
           {
             "label": "OBP",
-            "value": ".493"
+            "value": ".495"
           },
           {
             "label": "SLG",
-            "value": ".608"
+            "value": ".626"
           },
           {
             "label": "HR",
-            "value": "11"
+            "value": "12"
           },
           {
             "label": "RBI",
-            "value": "34"
+            "value": "35"
           },
           {
             "label": "SB",
@@ -2859,20 +2859,20 @@
         "jersey": "23",
         "profileUrl": "https://12thman.com/sports/baseball/roster/jorian-wilson/15273",
         "imageUrl": "https://12thman.com/images/2026/1/21/Wilson_-Jorian.jpg",
-        "gamesPlayed": 43,
-        "gamesStarted": 34,
-        "battingAverage": 0.284,
-        "onBasePercentage": 0.353,
-        "sluggingPercentage": 0.627,
-        "ops": 0.98,
-        "atBats": 134,
+        "gamesPlayed": 44,
+        "gamesStarted": 35,
+        "battingAverage": 0.283,
+        "onBasePercentage": 0.351,
+        "sluggingPercentage": 0.616,
+        "ops": 0.967,
+        "atBats": 138,
         "runs": 35,
-        "hits": 38,
+        "hits": 39,
         "doubles": 6,
         "triples": 2,
         "homeRuns": 12,
         "runsBattedIn": 32,
-        "totalBases": 84,
+        "totalBases": 85,
         "walks": 11,
         "hitByPitch": 4,
         "strikeouts": 53,
@@ -2882,10 +2882,10 @@
         "sacrificeHits": 0,
         "stolenBases": 6,
         "stolenBasesAttempts": 6,
-        "putouts": 59,
+        "putouts": 61,
         "assists": 0,
         "errors": 3,
-        "plateAppearances": 156,
+        "plateAppearances": 160,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -2897,51 +2897,51 @@
         "jersey": "23",
         "profileUrl": "https://12thman.com/sports/baseball/roster/jorian-wilson/15273",
         "imageUrl": "https://12thman.com/images/2026/1/21/Wilson_-Jorian.jpg",
-        "gamesPlayed": 34,
-        "gamesStarted": 30,
-        "putouts": 59,
+        "gamesPlayed": 35,
+        "gamesStarted": 31,
+        "putouts": 61,
         "assists": 2,
         "errors": 3,
-        "fieldingPercentage": 0.953,
+        "fieldingPercentage": 0.955,
         "doublePlays": 1,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 64
+        "totalChances": 66
       },
       "evaluation": {
-        "score": 43,
+        "score": 42,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 40.555555555555536,
-          "Power": 80.78947368421053,
-          "Contact": 39.99999999999998,
+          "On-base": 39.44444444444442,
+          "Power": 77.89473684210527,
+          "Contact": 39.374999999999986,
           "Discipline": 0.8385744234800836,
           "Speed": 20
         },
         "summary": "Jorian Wilson profiles as a OF piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .284",
-          "OBP .353",
-          "SLG .627"
+          "AVG .283",
+          "OBP .351",
+          "SLG .616"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".284"
+            "value": ".283"
           },
           {
             "label": "OBP",
-            "value": ".353"
+            "value": ".351"
           },
           {
             "label": "SLG",
-            "value": ".627"
+            "value": ".616"
           },
           {
             "label": "HR",
@@ -3005,31 +3005,31 @@
         "jersey": "25",
         "profileUrl": "https://12thman.com/sports/baseball/roster/clayton-freshcorn/14968",
         "imageUrl": "https://12thman.com/images/2026/1/21/Freshcorn_-Clayton.jpg",
-        "gamesPlayed": 26,
-        "gamesStarted": 0,
-        "appearances": 26,
+        "gamesPlayed": 27,
+        "gamesStarted": 1,
+        "appearances": 27,
         "gamesCompleted": 0,
-        "earnedRunAverage": 2.27,
-        "whip": 0.99,
+        "earnedRunAverage": 2.82,
+        "whip": 1.05,
         "wins": 4,
-        "losses": 2,
+        "losses": 3,
         "saves": 12,
         "shutouts": 0,
-        "inningsPitched": 47.666666666666664,
-        "inningsPitchedDisplay": "47.2",
-        "hitsAllowed": 42,
-        "runsAllowed": 13,
-        "earnedRunsAllowed": 12,
-        "walksAllowed": 5,
-        "strikeouts": 51,
-        "doublesAllowed": 5,
+        "inningsPitched": 54.333333333333336,
+        "inningsPitchedDisplay": "54.1",
+        "hitsAllowed": 51,
+        "runsAllowed": 18,
+        "earnedRunsAllowed": 17,
+        "walksAllowed": 6,
+        "strikeouts": 56,
+        "doublesAllowed": 6,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 5,
-        "opponentsAtBats": 181,
+        "homeRunsAllowed": 6,
+        "opponentsAtBats": 209,
         "wildPitches": 1,
-        "hitBatters": 4,
+        "hitBatters": 5,
         "balks": 0,
-        "opponentsBattingAverage": 0.232,
+        "opponentsBattingAverage": 0.244,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -3039,19 +3039,19 @@
         "jersey": "25",
         "profileUrl": "https://12thman.com/sports/baseball/roster/clayton-freshcorn/14968",
         "imageUrl": "https://12thman.com/images/2026/1/21/Freshcorn_-Clayton.jpg",
-        "gamesPlayed": 4,
-        "gamesStarted": 0,
+        "gamesPlayed": 5,
+        "gamesStarted": 1,
         "putouts": 2,
-        "assists": 2,
+        "assists": 3,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
-        "stolenBasesAgainst": 2,
+        "stolenBasesAgainst": 3,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 4
+        "totalChances": 5
       },
       "evaluation": {
         "score": 26,
@@ -3062,40 +3062,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 51.176096630642085,
+          "Miss bats": 47.96430563301728,
           "Command": 100,
           "Damage suppression": 0
         },
         "summary": "Clayton Freshcorn looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 2.27",
-          "WHIP 0.99",
-          "K/9 9.6"
+          "ERA 2.82",
+          "WHIP 1.05",
+          "K/9 9.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.27"
+            "value": "2.82"
           },
           {
             "label": "WHIP",
-            "value": "0.99"
+            "value": "1.05"
           },
           {
             "label": "K/9",
-            "value": "9.6"
+            "value": "9.3"
           },
           {
             "label": "BB/9",
-            "value": "0.9"
+            "value": "1.0"
           },
           {
             "label": "HR/9",
-            "value": "0.94"
+            "value": "0.99"
           },
           {
             "label": "IP",
-            "value": "47.7"
+            "value": "54.3"
           }
         ],
         "metaLine": "JR / R/R",
@@ -3147,18 +3147,18 @@
         "jersey": "27",
         "profileUrl": "https://12thman.com/sports/baseball/roster/gavin-lyons/14982",
         "imageUrl": "https://12thman.com/images/2026/1/21/Lyons_-Gavin.jpg",
-        "gamesPlayed": 28,
+        "gamesPlayed": 29,
         "gamesStarted": 3,
-        "appearances": 28,
+        "appearances": 29,
         "gamesCompleted": 0,
-        "earnedRunAverage": 5.11,
-        "whip": 1.4,
+        "earnedRunAverage": 5.06,
+        "whip": 1.38,
         "wins": 9,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 68.66666666666667,
-        "inningsPitchedDisplay": "68.2",
+        "inningsPitched": 69.33333333333333,
+        "inningsPitchedDisplay": "69.1",
         "hitsAllowed": 77,
         "runsAllowed": 42,
         "earnedRunsAllowed": 39,
@@ -3167,11 +3167,11 @@
         "doublesAllowed": 12,
         "triplesAllowed": 0,
         "homeRunsAllowed": 15,
-        "opponentsAtBats": 277,
+        "opponentsAtBats": 279,
         "wildPitches": 0,
         "hitBatters": 8,
         "balks": 0,
-        "opponentsBattingAverage": 0.278,
+        "opponentsBattingAverage": 0.276,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -3204,24 +3204,24 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 30.361871138570162,
+          "Miss bats": 29.72027972027973,
           "Command": 38.94736842105263,
           "Damage suppression": 0
         },
         "summary": "Gavin Lyons looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 5.11",
-          "WHIP 1.40",
+          "ERA 5.06",
+          "WHIP 1.38",
           "K/9 7.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.11"
+            "value": "5.06"
           },
           {
             "label": "WHIP",
-            "value": "1.40"
+            "value": "1.38"
           },
           {
             "label": "K/9",
@@ -3233,11 +3233,11 @@
           },
           {
             "label": "HR/9",
-            "value": "1.97"
+            "value": "1.95"
           },
           {
             "label": "IP",
-            "value": "68.7"
+            "value": "69.3"
           }
         ],
         "metaLine": "SO / R/R",
@@ -4050,31 +4050,31 @@
         "jersey": "38",
         "profileUrl": "https://12thman.com/sports/baseball/roster/shane-sdao/14988",
         "imageUrl": "https://12thman.com/images/2026/1/21/Sdao_-Shane.jpg",
-        "gamesPlayed": 16,
+        "gamesPlayed": 17,
         "gamesStarted": 13,
-        "appearances": 16,
+        "appearances": 17,
         "gamesCompleted": 0,
-        "earnedRunAverage": 6.85,
-        "whip": 1.61,
+        "earnedRunAverage": 7.03,
+        "whip": 1.65,
         "wins": 4,
         "losses": 4,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 71,
-        "inningsPitchedDisplay": "71.0",
-        "hitsAllowed": 95,
-        "runsAllowed": 57,
-        "earnedRunsAllowed": 54,
-        "walksAllowed": 19,
-        "strikeouts": 82,
-        "doublesAllowed": 17,
+        "inningsPitched": 71.66666666666667,
+        "inningsPitchedDisplay": "71.2",
+        "hitsAllowed": 98,
+        "runsAllowed": 59,
+        "earnedRunsAllowed": 56,
+        "walksAllowed": 20,
+        "strikeouts": 83,
+        "doublesAllowed": 18,
         "triplesAllowed": 2,
         "homeRunsAllowed": 16,
-        "opponentsAtBats": 303,
+        "opponentsAtBats": 308,
         "wildPitches": 3,
         "hitBatters": 7,
         "balks": 1,
-        "opponentsBattingAverage": 0.314,
+        "opponentsBattingAverage": 0.318,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -4107,24 +4107,24 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 58.13060179257362,
-          "Command": 66.31578947368422,
+          "Miss bats": 58.39323467230443,
+          "Command": 62.999999999999986,
           "Damage suppression": 0
         },
         "summary": "Shane Sdao looks like a LHP option who misses bats and throws enough strikes.",
         "summaryMetrics": [
-          "ERA 6.85",
-          "WHIP 1.61",
+          "ERA 7.03",
+          "WHIP 1.65",
           "K/9 10.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.85"
+            "value": "7.03"
           },
           {
             "label": "WHIP",
-            "value": "1.61"
+            "value": "1.65"
           },
           {
             "label": "K/9",
@@ -4132,15 +4132,15 @@
           },
           {
             "label": "BB/9",
-            "value": "2.4"
+            "value": "2.5"
           },
           {
             "label": "HR/9",
-            "value": "2.03"
+            "value": "2.01"
           },
           {
             "label": "IP",
-            "value": "71.0"
+            "value": "71.7"
           }
         ],
         "metaLine": "R-JR / L/L",
@@ -4334,31 +4334,31 @@
         "jersey": "40",
         "profileUrl": "https://12thman.com/sports/baseball/roster/cooper-powell/15269",
         "imageUrl": "https://12thman.com/images/2026/1/21/Powell_-Cooper.jpg",
-        "gamesPlayed": 10,
+        "gamesPlayed": 11,
         "gamesStarted": 0,
-        "appearances": 10,
+        "appearances": 11,
         "gamesCompleted": 0,
-        "earnedRunAverage": 2.38,
-        "whip": 1.24,
+        "earnedRunAverage": 2.19,
+        "whip": 1.22,
         "wins": 0,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 11.333333333333334,
-        "inningsPitchedDisplay": "11.1",
+        "inningsPitched": 12.333333333333334,
+        "inningsPitchedDisplay": "12.1",
         "hitsAllowed": 7,
         "runsAllowed": 4,
         "earnedRunsAllowed": 3,
-        "walksAllowed": 7,
-        "strikeouts": 19,
+        "walksAllowed": 8,
+        "strikeouts": 20,
         "doublesAllowed": 1,
         "triplesAllowed": 0,
         "homeRunsAllowed": 2,
-        "opponentsAtBats": 41,
+        "opponentsAtBats": 44,
         "wildPitches": 1,
         "hitBatters": 3,
         "balks": 0,
-        "opponentsBattingAverage": 0.171,
+        "opponentsBattingAverage": 0.159,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -4383,7 +4383,7 @@
         "totalChances": 1
       },
       "evaluation": {
-        "score": 25,
+        "score": 24,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4391,40 +4391,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 100,
-          "Command": 34.285714285714285,
+          "Miss bats": 96.31449631449631,
+          "Command": 30,
           "Damage suppression": 0
         },
         "summary": "Cooper Powell looks like a LHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 2.38",
-          "WHIP 1.24",
-          "K/9 15.1"
+          "ERA 2.19",
+          "WHIP 1.22",
+          "K/9 14.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.38"
+            "value": "2.19"
           },
           {
             "label": "WHIP",
-            "value": "1.24"
+            "value": "1.22"
           },
           {
             "label": "K/9",
-            "value": "15.1"
+            "value": "14.6"
           },
           {
             "label": "BB/9",
-            "value": "5.6"
+            "value": "5.8"
           },
           {
             "label": "HR/9",
-            "value": "1.59"
+            "value": "1.46"
           },
           {
             "label": "IP",
-            "value": "11.3"
+            "value": "12.3"
           }
         ],
         "metaLine": "SO / L/L",
@@ -4563,20 +4563,20 @@
         "jersey": "46",
         "profileUrl": "https://12thman.com/sports/baseball/roster/blake-binderup/14962",
         "imageUrl": "https://12thman.com/images/2026/1/21/Binderup_-Blake.jpg",
-        "gamesPlayed": 32,
+        "gamesPlayed": 33,
         "gamesStarted": 22,
-        "battingAverage": 0.302,
-        "onBasePercentage": 0.435,
-        "sluggingPercentage": 0.663,
-        "ops": 1.098,
-        "atBats": 86,
+        "battingAverage": 0.31,
+        "onBasePercentage": 0.44,
+        "sluggingPercentage": 0.667,
+        "ops": 1.107,
+        "atBats": 87,
         "runs": 25,
-        "hits": 26,
+        "hits": 27,
         "doubles": 4,
         "triples": 0,
         "homeRuns": 9,
         "runsBattedIn": 30,
-        "totalBases": 57,
+        "totalBases": 58,
         "walks": 14,
         "hitByPitch": 7,
         "strikeouts": 42,
@@ -4589,7 +4589,7 @@
         "putouts": 71,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 113,
+        "plateAppearances": 114,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -4616,36 +4616,36 @@
         "totalChances": 73
       },
       "evaluation": {
-        "score": 63,
+        "score": 65,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 86.1111111111111,
-          "Power": 90.26315789473685,
-          "Contact": 51.24999999999999,
+          "On-base": 88.88888888888889,
+          "Power": 91.31578947368423,
+          "Contact": 56.25,
           "Discipline": 14.814814814814808,
           "Speed": 6.666666666666667
         },
         "summary": "Blake Binderup profiles as a INF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .302",
-          "OBP .435",
-          "SLG .663"
+          "AVG .310",
+          "OBP .440",
+          "SLG .667"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".302"
+            "value": ".310"
           },
           {
             "label": "OBP",
-            "value": ".435"
+            "value": ".440"
           },
           {
             "label": "SLG",
-            "value": ".663"
+            "value": ".667"
           },
           {
             "label": "HR",
@@ -5165,29 +5165,29 @@
         "position": "OF",
         "classYear": "SR",
         "handedness": "L/L",
-        "score": 54,
+        "score": 53,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jake Duer profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .305",
-          "OBP .409",
-          "SLG .484"
+          "AVG .304",
+          "OBP .406",
+          "SLG .479"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".305"
+            "value": ".304"
           },
           {
             "label": "OBP",
-            "value": ".409"
+            "value": ".406"
           },
           {
             "label": "SLG",
-            "value": ".484"
+            "value": ".479"
           },
           {
             "label": "HR",
@@ -5203,10 +5203,10 @@
           }
         ],
         "components": {
-          "On-base": 71.66666666666664,
-          "Power": 43.15789473684211,
-          "Contact": 53.124999999999986,
-          "Discipline": 73.38501291989662,
+          "On-base": 70,
+          "Power": 41.84210526315789,
+          "Contact": 52.49999999999999,
+          "Discipline": 71.21212121212119,
           "Speed": 0
         },
         "metaLine": "SR / L/L",
@@ -5303,7 +5303,7 @@
         "position": "INF",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 45,
+        "score": 46,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5311,7 +5311,7 @@
         "summary": "Boston Kellner profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
           "AVG .244",
-          "OBP .420",
+          "OBP .423",
           "SLG .396"
         ],
         "statCards": [
@@ -5321,7 +5321,7 @@
           },
           {
             "label": "OBP",
-            "value": ".420"
+            "value": ".423"
           },
           {
             "label": "SLG",
@@ -5341,10 +5341,10 @@
           }
         ],
         "components": {
-          "On-base": 77.77777777777776,
+          "On-base": 79.44444444444443,
           "Power": 20.000000000000007,
           "Contact": 14.999999999999996,
-          "Discipline": 83.83838383838383,
+          "Discipline": 86.36363636363636,
           "Speed": 3.3333333333333335
         },
         "metaLine": "FR / R/R",
@@ -5380,8 +5380,8 @@
         "summary": "Chris Hacopian profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
           "AVG .319",
-          "OBP .403",
-          "SLG .583"
+          "OBP .405",
+          "SLG .578"
         ],
         "statCards": [
           {
@@ -5390,11 +5390,11 @@
           },
           {
             "label": "OBP",
-            "value": ".403"
+            "value": ".405"
           },
           {
             "label": "SLG",
-            "value": ".583"
+            "value": ".578"
           },
           {
             "label": "HR",
@@ -5410,8 +5410,8 @@
           }
         ],
         "components": {
-          "On-base": 68.33333333333333,
-          "Power": 69.21052631578947,
+          "On-base": 69.44444444444444,
+          "Power": 67.89473684210526,
           "Contact": 61.875,
           "Discipline": 100,
           "Speed": 10
@@ -5441,29 +5441,29 @@
         "position": "INF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 76,
+        "score": 73,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Gavin Grahovac profiles as a INF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .345",
-          "OBP .435",
-          "SLG .735"
+          "AVG .339",
+          "OBP .429",
+          "SLG .722"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".345"
+            "value": ".339"
           },
           {
             "label": "OBP",
-            "value": ".435"
+            "value": ".429"
           },
           {
             "label": "SLG",
-            "value": ".735"
+            "value": ".722"
           },
           {
             "label": "HR",
@@ -5479,10 +5479,10 @@
           }
         ],
         "components": {
-          "On-base": 86.1111111111111,
+          "On-base": 82.77777777777776,
           "Power": 100,
-          "Contact": 78.12499999999997,
-          "Discipline": 44.96124031007751,
+          "Contact": 74.37500000000001,
+          "Discipline": 41.975308641975296,
           "Speed": 16.666666666666664
         },
         "metaLine": "JR / R/R",
@@ -5510,29 +5510,29 @@
         "position": "INF",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 84,
+        "score": 82,
         "fit": {
           "label": "Priority",
           "className": "fit-priority"
         },
         "summary": "Ben Royo profiles as a INF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .450",
-          "OBP .489",
-          "SLG .725"
+          "AVG .432",
+          "OBP .471",
+          "SLG .682"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".450"
+            "value": ".432"
           },
           {
             "label": "OBP",
-            "value": ".489"
+            "value": ".471"
           },
           {
             "label": "SLG",
-            "value": ".725"
+            "value": ".682"
           },
           {
             "label": "HR",
@@ -5549,9 +5549,9 @@
         ],
         "components": {
           "On-base": 100,
-          "Power": 100,
+          "Power": 95.26315789473688,
           "Contact": 100,
-          "Discipline": 57.14285714285713,
+          "Discipline": 47.222222222222214,
           "Speed": 3.3333333333333335
         },
         "metaLine": "SR / R/R",
@@ -5648,29 +5648,29 @@
         "position": "OF",
         "classYear": "JR",
         "handedness": "L/L",
-        "score": 78,
+        "score": 76,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Caden Sorrell profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .347",
-          "OBP .441",
-          "SLG .757"
+          "AVG .341",
+          "OBP .434",
+          "SLG .743"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".347"
+            "value": ".341"
           },
           {
             "label": "OBP",
-            "value": ".441"
+            "value": ".434"
           },
           {
             "label": "SLG",
-            "value": ".757"
+            "value": ".743"
           },
           {
             "label": "HR",
@@ -5686,10 +5686,10 @@
           }
         ],
         "components": {
-          "On-base": 89.44444444444444,
+          "On-base": 85.55555555555554,
           "Power": 100,
-          "Contact": 79.37499999999999,
-          "Discipline": 38.88888888888889,
+          "Contact": 75.62500000000001,
+          "Discipline": 37.88706739526411,
           "Speed": 36.666666666666664
         },
         "metaLine": "JR / L/L",
@@ -5854,37 +5854,37 @@
         "position": "C",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 75,
+        "score": 77,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Bear Harrison profiles as a C piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
         "summaryMetrics": [
-          "AVG .294",
-          "OBP .493",
-          "SLG .608"
+          "AVG .297",
+          "OBP .495",
+          "SLG .626"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".294"
+            "value": ".297"
           },
           {
             "label": "OBP",
-            "value": ".493"
+            "value": ".495"
           },
           {
             "label": "SLG",
-            "value": ".608"
+            "value": ".626"
           },
           {
             "label": "HR",
-            "value": "11"
+            "value": "12"
           },
           {
             "label": "RBI",
-            "value": "34"
+            "value": "35"
           },
           {
             "label": "SB",
@@ -5893,8 +5893,8 @@
         ],
         "components": {
           "On-base": 100,
-          "Power": 75.78947368421053,
-          "Contact": 46.249999999999986,
+          "Power": 80.52631578947368,
+          "Contact": 48.12499999999999,
           "Discipline": 100,
           "Speed": 10
         },
@@ -6268,29 +6268,29 @@
         "position": "OF",
         "classYear": "FR",
         "handedness": "L/R",
-        "score": 43,
+        "score": 42,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jorian Wilson profiles as a OF piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .284",
-          "OBP .353",
-          "SLG .627"
+          "AVG .283",
+          "OBP .351",
+          "SLG .616"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".284"
+            "value": ".283"
           },
           {
             "label": "OBP",
-            "value": ".353"
+            "value": ".351"
           },
           {
             "label": "SLG",
-            "value": ".627"
+            "value": ".616"
           },
           {
             "label": "HR",
@@ -6306,9 +6306,9 @@
           }
         ],
         "components": {
-          "On-base": 40.555555555555536,
-          "Power": 80.78947368421053,
-          "Contact": 39.99999999999998,
+          "On-base": 39.44444444444442,
+          "Power": 77.89473684210527,
+          "Contact": 39.374999999999986,
           "Discipline": 0.8385744234800836,
           "Speed": 20
         },
@@ -6344,40 +6344,40 @@
         },
         "summary": "Clayton Freshcorn looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 2.27",
-          "WHIP 0.99",
-          "K/9 9.6"
+          "ERA 2.82",
+          "WHIP 1.05",
+          "K/9 9.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.27"
+            "value": "2.82"
           },
           {
             "label": "WHIP",
-            "value": "0.99"
+            "value": "1.05"
           },
           {
             "label": "K/9",
-            "value": "9.6"
+            "value": "9.3"
           },
           {
             "label": "BB/9",
-            "value": "0.9"
+            "value": "1.0"
           },
           {
             "label": "HR/9",
-            "value": "0.94"
+            "value": "0.99"
           },
           {
             "label": "IP",
-            "value": "47.7"
+            "value": "54.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 51.176096630642085,
+          "Miss bats": 47.96430563301728,
           "Command": 100,
           "Damage suppression": 0
         },
@@ -6413,18 +6413,18 @@
         },
         "summary": "Gavin Lyons looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 5.11",
-          "WHIP 1.40",
+          "ERA 5.06",
+          "WHIP 1.38",
           "K/9 7.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.11"
+            "value": "5.06"
           },
           {
             "label": "WHIP",
-            "value": "1.40"
+            "value": "1.38"
           },
           {
             "label": "K/9",
@@ -6436,17 +6436,17 @@
           },
           {
             "label": "HR/9",
-            "value": "1.97"
+            "value": "1.95"
           },
           {
             "label": "IP",
-            "value": "68.7"
+            "value": "69.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 30.361871138570162,
+          "Miss bats": 29.72027972027973,
           "Command": 38.94736842105263,
           "Damage suppression": 0
         },
@@ -6895,18 +6895,18 @@
         },
         "summary": "Shane Sdao looks like a LHP option who misses bats and throws enough strikes.",
         "summaryMetrics": [
-          "ERA 6.85",
-          "WHIP 1.61",
+          "ERA 7.03",
+          "WHIP 1.65",
           "K/9 10.4"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.85"
+            "value": "7.03"
           },
           {
             "label": "WHIP",
-            "value": "1.61"
+            "value": "1.65"
           },
           {
             "label": "K/9",
@@ -6914,22 +6914,22 @@
           },
           {
             "label": "BB/9",
-            "value": "2.4"
+            "value": "2.5"
           },
           {
             "label": "HR/9",
-            "value": "2.03"
+            "value": "2.01"
           },
           {
             "label": "IP",
-            "value": "71.0"
+            "value": "71.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 58.13060179257362,
-          "Command": 66.31578947368422,
+          "Miss bats": 58.39323467230443,
+          "Command": 62.999999999999986,
           "Damage suppression": 0
         },
         "metaLine": "R-JR / L/L",
@@ -7026,48 +7026,48 @@
         "position": "LHP",
         "classYear": "SO",
         "handedness": "L/L",
-        "score": 25,
+        "score": 24,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Cooper Powell looks like a LHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 2.38",
-          "WHIP 1.24",
-          "K/9 15.1"
+          "ERA 2.19",
+          "WHIP 1.22",
+          "K/9 14.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.38"
+            "value": "2.19"
           },
           {
             "label": "WHIP",
-            "value": "1.24"
+            "value": "1.22"
           },
           {
             "label": "K/9",
-            "value": "15.1"
+            "value": "14.6"
           },
           {
             "label": "BB/9",
-            "value": "5.6"
+            "value": "5.8"
           },
           {
             "label": "HR/9",
-            "value": "1.59"
+            "value": "1.46"
           },
           {
             "label": "IP",
-            "value": "11.3"
+            "value": "12.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 100,
-          "Command": 34.285714285714285,
+          "Miss bats": 96.31449631449631,
+          "Command": 30,
           "Damage suppression": 0
         },
         "metaLine": "SO / L/L",
@@ -7163,29 +7163,29 @@
         "position": "INF",
         "classYear": "R-JR",
         "handedness": "R/R",
-        "score": 63,
+        "score": 65,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Blake Binderup profiles as a INF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .302",
-          "OBP .435",
-          "SLG .663"
+          "AVG .310",
+          "OBP .440",
+          "SLG .667"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".302"
+            "value": ".310"
           },
           {
             "label": "OBP",
-            "value": ".435"
+            "value": ".440"
           },
           {
             "label": "SLG",
-            "value": ".663"
+            "value": ".667"
           },
           {
             "label": "HR",
@@ -7201,9 +7201,9 @@
           }
         ],
         "components": {
-          "On-base": 86.1111111111111,
-          "Power": 90.26315789473685,
-          "Contact": 51.24999999999999,
+          "On-base": 88.88888888888889,
+          "Power": 91.31578947368423,
+          "Contact": 56.25,
           "Discipline": 14.814814814814808,
           "Speed": 6.666666666666667
         },

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-01T12:14:42.623Z",
+  "generatedAt": "2026-06-02T11:48:15.143Z",
   "season": 2026,
   "source": "Generated Sidearm baseball roster pool",
   "note": "This compact roster-only pool captures public school-site baseball rosters so non-appearing players can still enter coverage before they log a reachable NCAA boxscore.",
@@ -338,7 +338,7 @@
       "slug": "rice",
       "name": "Rice",
       "longName": "Rice University",
-      "rosterPlayers": 41,
+      "rosterPlayers": 38,
       "rosterUrl": "https://riceowls.com/sports/baseball/roster"
     },
     {
@@ -514,10 +514,10 @@
     "schoolsRequested": 73,
     "schoolsLoaded": 72,
     "schoolsFailed": 1,
-    "totalPlayers": 2738,
+    "totalPlayers": 2735,
     "roleCounts": {
-      "Hitter": 1367,
-      "Pitcher": 1371
+      "Hitter": 1366,
+      "Pitcher": 1369
     },
     "failures": [
       {
@@ -27703,20 +27703,6 @@
       "https://riceowls.com/sports/baseball/roster/lorenzo-rios/10384"
     ],
     [
-      "rice-10380",
-      "rice",
-      "Tobias Motley",
-      "Hitter",
-      "OF",
-      "JR",
-      "R-R",
-      "13",
-      "Houston, Texas",
-      "Cy Ranch",
-      "",
-      "https://riceowls.com/sports/baseball/roster/tobias-motley/10380"
-    ],
-    [
       "rice-10603",
       "rice",
       "Carson Kuhn",
@@ -27927,20 +27913,6 @@
       "https://riceowls.com/sports/baseball/roster/ty-thames/10597"
     ],
     [
-      "rice-10609",
-      "rice",
-      "Nolan Roycraft",
-      "Pitcher",
-      "LHP",
-      "SO",
-      "L-L",
-      "33",
-      "The Woodlands, Texas",
-      "The Woodlands",
-      "",
-      "https://riceowls.com/sports/baseball/roster/nolan-roycraft/10609"
-    ],
-    [
       "rice-10598",
       "rice",
       "Anthony Diaz",
@@ -28051,20 +28023,6 @@
       "Vista Ridge",
       "Texas Tech",
       "https://riceowls.com/sports/baseball/roster/zachary-fetchel/10607"
-    ],
-    [
-      "rice-10368",
-      "rice",
-      "Trey Dooley",
-      "Pitcher",
-      "RHP",
-      "R-FR",
-      "R-R",
-      "50",
-      "Camden, Tennessee",
-      "Camden Central",
-      "",
-      "https://riceowls.com/sports/baseball/roster/trey-dooley/10368"
     ],
     [
       "rice-10372",
