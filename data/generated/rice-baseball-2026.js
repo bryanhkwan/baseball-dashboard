@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.rice2026 = {
-  "generatedAt": "2026-06-02T11:46:06.754Z",
+  "generatedAt": "2026-06-03T11:56:12.586Z",
   "season": 2026,
   "school": {
     "slug": "rice",
@@ -25,7 +25,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
     "ncaa": "NCAA school index"
   },
   "coverage": {
-    "rosterPlayers": 38,
+    "rosterPlayers": 37,
     "espnRosterPlayers": 0,
     "playersWithHittingStats": 17,
     "playersWithPitchingStats": 15,
@@ -37,10 +37,12 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "Tobias Motley"
       ],
       "pitching": [
-        "Nolan Roycraft"
+        "Nolan Roycraft",
+        "Marco Fuentes"
       ],
       "fielding": [
-        "Tobias Motley"
+        "Tobias Motley",
+        "Marco Fuentes"
       ]
     }
   },
@@ -3600,94 +3602,6 @@ window.__BASEBALL_DATASETS__.rice2026 = {
       }
     },
     {
-      "id": "rice-10086",
-      "schoolSlug": "rice",
-      "school": "Rice",
-      "schoolLongName": "Rice University",
-      "name": "Marco Fuentes",
-      "normalizedName": "marco fuentes",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "R-SO",
-      "handedness": "R-R",
-      "jersey": "31",
-      "hometown": "Miami, Florida",
-      "highSchool": "Belen Jesuit",
-      "previousSchool": "",
-      "hometownHighSchool": "Miami, Florida / Belen Jesuit",
-      "profileUrl": "https://riceowls.com/sports/baseball/roster/marco-fuentes/10086",
-      "imageUrl": "https://riceowls.com/images/2025/9/1/31_FUENTES_MARCO.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "10086",
-      "sources": [
-        "Rice Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Marco Fuentes looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "metaLine": "R-SO / R-R",
-        "detailBadges": [
-          "RHP",
-          "R-SO",
-          "R-R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Rice Athletics roster"
-      }
-    },
-    {
       "id": "rice-10597",
       "schoolSlug": "rice",
       "school": "Rice",
@@ -5236,10 +5150,10 @@ window.__BASEBALL_DATASETS__.rice2026 = {
   "playerBoard": {
     "source": "Rice Athletics roster + cumulative stats / ESPN roster",
     "note": "This Rice-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but Rice's public ESPN roster feed did not line up cleanly with the current school-site roster.",
-    "totalPlayers": 38,
+    "totalPlayers": 37,
     "roleCounts": {
       "Hitter": 18,
-      "Pitcher": 20
+      "Pitcher": 19
     },
     "players": [
       {
@@ -6963,74 +6877,6 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "schoolSlug": "rice",
         "compositeRole": "Pitcher",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/dc-brown/10618",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "rice-10086",
-        "name": "Marco Fuentes",
-        "school": "Rice",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "R-SO",
-        "handedness": "R-R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Marco Fuentes looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-SO / R-R",
-        "detailBadges": [
-          "RHP",
-          "R-SO",
-          "R-R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Rice Athletics roster"
-        ],
-        "sourceSummary": "Rice Athletics roster",
-        "schoolSlug": "rice",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://riceowls.com/sports/baseball/roster/marco-fuentes/10086",
         "espnAthleteId": ""
       },
       {

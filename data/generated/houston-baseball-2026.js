@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.houston2026 = {
-  "generatedAt": "2026-06-02T11:44:18.312Z",
+  "generatedAt": "2026-06-03T11:54:52.433Z",
   "season": 2026,
   "school": {
     "slug": "houston",
@@ -26,7 +26,7 @@ window.__BASEBALL_DATASETS__.houston2026 = {
     "ncaa": "NCAA school index"
   },
   "coverage": {
-    "rosterPlayers": 39,
+    "rosterPlayers": 40,
     "espnRosterPlayers": 100,
     "playersWithHittingStats": 19,
     "playersWithPitchingStats": 16,
@@ -4910,6 +4910,94 @@ window.__BASEBALL_DATASETS__.houston2026 = {
       }
     },
     {
+      "id": "houston-9607",
+      "schoolSlug": "houston",
+      "school": "Houston",
+      "schoolLongName": "University of Houston",
+      "name": "David Stich",
+      "normalizedName": "david stich",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-handed Pitcher",
+      "classYear": "R-SR",
+      "handedness": "N/A",
+      "jersey": "45",
+      "hometown": "Boerne, Texas",
+      "highSchool": "Cornerstone Christian",
+      "previousSchool": "Angelo State",
+      "hometownHighSchool": "Boerne, Texas / Cornerstone Christian",
+      "profileUrl": "https://uhcougars.com/sports/baseball/roster/david-stich/9607",
+      "imageUrl": "https://uhcougars.com/images/2025/9/5/Stich_David_025.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "9607",
+      "sources": [
+        "Houston Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "David Stich looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "R-SR / N/A",
+        "detailBadges": [
+          "RHP",
+          "R-SR",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "Houston Athletics roster"
+      }
+    },
+    {
       "id": "houston-9706",
       "schoolSlug": "houston",
       "school": "Houston",
@@ -5430,10 +5518,10 @@ window.__BASEBALL_DATASETS__.houston2026 = {
   "playerBoard": {
     "source": "Houston Athletics roster + cumulative stats / ESPN roster",
     "note": "This Houston-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but Houston's public ESPN roster feed did not line up cleanly with the current school-site roster.",
-    "totalPlayers": 39,
+    "totalPlayers": 40,
     "roleCounts": {
       "Hitter": 21,
-      "Pitcher": 18
+      "Pitcher": 19
     },
     "players": [
       {
@@ -7845,6 +7933,74 @@ window.__BASEBALL_DATASETS__.houston2026 = {
         "schoolSlug": "houston",
         "compositeRole": "Hitter",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/carsten-sabathia-iii/9603",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "houston-9607",
+        "name": "David Stich",
+        "school": "Houston",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "R-SR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "David Stich looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "R-SR / N/A",
+        "detailBadges": [
+          "RHP",
+          "R-SR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Houston Athletics roster"
+        ],
+        "sourceSummary": "Houston Athletics roster",
+        "schoolSlug": "houston",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://uhcougars.com/sports/baseball/roster/david-stich/9607",
         "espnAthleteId": ""
       },
       {
