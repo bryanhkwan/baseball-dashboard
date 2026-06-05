@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T11:23:19.996Z",
+  "generatedAt": "2026-06-05T11:25:43.457Z",
   "season": 2026,
   "school": {
     "slug": "rice",
@@ -24,12 +24,12 @@
     "ncaa": "NCAA school index"
   },
   "coverage": {
-    "rosterPlayers": 37,
+    "rosterPlayers": 36,
     "espnRosterPlayers": 0,
     "playersWithHittingStats": 17,
-    "playersWithPitchingStats": 15,
+    "playersWithPitchingStats": 14,
     "playersWithFieldingStats": 31,
-    "mergedPlayersWithAnyStats": 32,
+    "mergedPlayersWithAnyStats": 31,
     "matchedEspnPlayers": 0,
     "unmatchedStatRows": {
       "hitting": [
@@ -37,7 +37,8 @@
       ],
       "pitching": [
         "Nolan Roycraft",
-        "Marco Fuentes"
+        "Marco Fuentes",
+        "D.C. Brown"
       ],
       "fielding": [
         "Tobias Motley",
@@ -3479,128 +3480,6 @@
       }
     },
     {
-      "id": "rice-10618",
-      "schoolSlug": "rice",
-      "school": "Rice",
-      "schoolLongName": "Rice University",
-      "name": "D.C. Brown",
-      "normalizedName": "d c brown",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "",
-      "classYear": "SO",
-      "handedness": "L-L",
-      "jersey": "30",
-      "hometown": "Plymouth, Massachusetts",
-      "highSchool": "Plymouth North",
-      "previousSchool": "WPI",
-      "hometownHighSchool": "Plymouth, Massachusetts / Plymouth North",
-      "profileUrl": "https://riceowls.com/sports/baseball/roster/dc-brown/10618",
-      "imageUrl": "https://riceowls.com/images/2025/9/1/30_BROWN_DC.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "10618",
-      "sources": [
-        "Rice Athletics roster",
-        "Rice cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "10618",
-        "name": "D.C. Brown",
-        "normalizedName": "d c brown",
-        "jersey": "30",
-        "profileUrl": "https://riceowls.com/sports/baseball/roster/dc-brown/10618",
-        "imageUrl": "https://riceowls.com/images/2025/9/1/30_BROWN_DC.png",
-        "gamesPlayed": 5,
-        "gamesStarted": 0,
-        "appearances": 5,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 6,
-        "whip": 2,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 3,
-        "inningsPitchedDisplay": "3.0",
-        "hitsAllowed": 3,
-        "runsAllowed": 3,
-        "earnedRunsAllowed": 2,
-        "walksAllowed": 3,
-        "strikeouts": 6,
-        "doublesAllowed": 0,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 12,
-        "wildPitches": 1,
-        "hitBatters": 3,
-        "balks": 1,
-        "opponentsBattingAverage": 0.25,
-        "walksHits": 0
-      },
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 23,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 100,
-          "Command": 20,
-          "Damage suppression": 0
-        },
-        "summary": "D.C. Brown looks like a LHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 6.00",
-          "WHIP 2.00",
-          "K/9 18.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "6.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.00"
-          },
-          {
-            "label": "K/9",
-            "value": "18.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "9.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "3.0"
-          }
-        ],
-        "metaLine": "SO / L-L",
-        "detailBadges": [
-          "LHP",
-          "SO",
-          "L-L",
-          "Pitcher"
-        ],
-        "sourceSummary": "Rice Athletics roster + Rice cumulative stats"
-      }
-    },
-    {
       "id": "rice-10597",
       "schoolSlug": "rice",
       "school": "Rice",
@@ -5149,10 +5028,10 @@
   "playerBoard": {
     "source": "Rice Athletics roster + cumulative stats / ESPN roster",
     "note": "This Rice-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but Rice's public ESPN roster feed did not line up cleanly with the current school-site roster.",
-    "totalPlayers": 37,
+    "totalPlayers": 36,
     "roleCounts": {
       "Hitter": 18,
-      "Pitcher": 19
+      "Pitcher": 18
     },
     "players": [
       {
@@ -6807,75 +6686,6 @@
         "schoolSlug": "rice",
         "compositeRole": "Pitcher",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/logan-voelz/10596",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "rice-10618",
-        "name": "D.C. Brown",
-        "school": "Rice",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "SO",
-        "handedness": "L-L",
-        "score": 23,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "D.C. Brown looks like a LHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 6.00",
-          "WHIP 2.00",
-          "K/9 18.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "6.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.00"
-          },
-          {
-            "label": "K/9",
-            "value": "18.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "9.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "3.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 100,
-          "Command": 20,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / L-L",
-        "detailBadges": [
-          "LHP",
-          "SO",
-          "L-L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Rice Athletics roster",
-          "Rice cumulative stats"
-        ],
-        "sourceSummary": "Rice Athletics roster + Rice cumulative stats",
-        "schoolSlug": "rice",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://riceowls.com/sports/baseball/roster/dc-brown/10618",
         "espnAthleteId": ""
       },
       {

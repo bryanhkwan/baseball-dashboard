@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T11:23:56.554Z",
+  "generatedAt": "2026-06-05T11:26:25.511Z",
   "season": 2026,
   "source": "Generated Sidearm baseball roster pool",
   "note": "This compact roster-only pool captures public school-site baseball rosters so non-appearing players can still enter coverage before they log a reachable NCAA boxscore.",
@@ -331,7 +331,7 @@
       "slug": "rice",
       "name": "Rice",
       "longName": "Rice University",
-      "rosterPlayers": 37,
+      "rosterPlayers": 36,
       "rosterUrl": "https://riceowls.com/sports/baseball/roster"
     },
     {
@@ -507,10 +507,10 @@
     "schoolsRequested": 73,
     "schoolsLoaded": 71,
     "schoolsFailed": 2,
-    "totalPlayers": 2691,
+    "totalPlayers": 2690,
     "roleCounts": {
       "Hitter": 1341,
-      "Pitcher": 1350
+      "Pitcher": 1349
     },
     "failures": [
       {
@@ -24985,7 +24985,7 @@
       "https://goducks.com/sports/baseball/roster/devin-bell/18236"
     ],
     [
-      "pepperdine-5784",
+      "pepperdine-5937",
       "pepperdine",
       "Dylan Osborne",
       "Hitter",
@@ -24996,10 +24996,10 @@
       "Vancouver, Wash.",
       "Union HS",
       "Washington / USC",
-      "https://pepperdinewaves.com/sports/baseball/roster/dylan-osborne/5784"
+      "https://pepperdinewaves.com/sports/baseball/roster/dylan-osborne/5937"
     ],
     [
-      "pepperdine-5781",
+      "pepperdine-5935",
       "pepperdine",
       "Kai Laxa",
       "Hitter",
@@ -25010,10 +25010,10 @@
       "San Francisco, Calif.",
       "Junipero Serra HS",
       "West Valley College",
-      "https://pepperdinewaves.com/sports/baseball/roster/kai-laxa/5781"
+      "https://pepperdinewaves.com/sports/baseball/roster/kai-laxa/5935"
     ],
     [
-      "pepperdine-5522",
+      "pepperdine-5948",
       "pepperdine",
       "AJ Bianchina",
       "Hitter",
@@ -25024,10 +25024,10 @@
       "Lafayette, Calif.",
       "De La Salle HS",
       "UNC Charlotte",
-      "https://pepperdinewaves.com/sports/baseball/roster/aj-bianchina/5522"
+      "https://pepperdinewaves.com/sports/baseball/roster/aj-bianchina/5948"
     ],
     [
-      "pepperdine-5525",
+      "pepperdine-5924",
       "pepperdine",
       "Joe Cardinale",
       "Hitter",
@@ -25038,7 +25038,7 @@
       "Salinas, Calif.",
       "Palma HS",
       "College of San Mateo",
-      "https://pepperdinewaves.com/sports/baseball/roster/joe-cardinale/5525"
+      "https://pepperdinewaves.com/sports/baseball/roster/joe-cardinale/5924"
     ],
     [
       "pepperdine-5774",
@@ -25055,7 +25055,7 @@
       "https://pepperdinewaves.com/sports/baseball/roster/trey-dunn/5774"
     ],
     [
-      "pepperdine-5524",
+      "pepperdine-5922",
       "pepperdine",
       "Finley Buckner",
       "Hitter",
@@ -25066,10 +25066,10 @@
       "Oak Park, Calif.",
       "Oaks Christian HS",
       "California",
-      "https://pepperdinewaves.com/sports/baseball/roster/finley-buckner/5524"
+      "https://pepperdinewaves.com/sports/baseball/roster/finley-buckner/5922"
     ],
     [
-      "pepperdine-5533",
+      "pepperdine-5963",
       "pepperdine",
       "Julian Nunez",
       "Hitter",
@@ -25080,7 +25080,7 @@
       "Encinitas, Calif.",
       "Classical Academy HS",
       "San Diego City College",
-      "https://pepperdinewaves.com/sports/baseball/roster/julian-nunez/5533"
+      "https://pepperdinewaves.com/sports/baseball/roster/julian-nunez/5963"
     ],
     [
       "pepperdine-5785",
@@ -25125,7 +25125,7 @@
       "https://pepperdinewaves.com/sports/baseball/roster/ryan-humphreys/5779"
     ],
     [
-      "pepperdine-5773",
+      "pepperdine-5955",
       "pepperdine",
       "James Dell'Amico",
       "Hitter",
@@ -25136,10 +25136,10 @@
       "Los Angeles, Calif.",
       "Loyola HS",
       "",
-      "https://pepperdinewaves.com/sports/baseball/roster/james-dellamico/5773"
+      "https://pepperdinewaves.com/sports/baseball/roster/james-dellamico/5955"
     ],
     [
-      "pepperdine-5771",
+      "pepperdine-5950",
       "pepperdine",
       "Aidan Camberg",
       "Hitter",
@@ -25150,10 +25150,10 @@
       "San Ramon, Calif.",
       "California HS",
       "UC Santa Barbara / Santa Barbara City College",
-      "https://pepperdinewaves.com/sports/baseball/roster/aidan-camberg/5771"
+      "https://pepperdinewaves.com/sports/baseball/roster/aidan-camberg/5950"
     ],
     [
-      "pepperdine-5772",
+      "pepperdine-5959",
       "pepperdine",
       "Nash Horton",
       "Hitter",
@@ -25164,10 +25164,10 @@
       "Soquel, Calif.",
       "St. Francis HS",
       "",
-      "https://pepperdinewaves.com/sports/baseball/roster/nash-horton/5772"
+      "https://pepperdinewaves.com/sports/baseball/roster/nash-horton/5959"
     ],
     [
-      "pepperdine-5780",
+      "pepperdine-5961",
       "pepperdine",
       "Will Kraemer",
       "Hitter",
@@ -25178,10 +25178,10 @@
       "New Hope, Pa.",
       "The Hun School of Princeton",
       "",
-      "https://pepperdinewaves.com/sports/baseball/roster/will-kraemer/5780"
+      "https://pepperdinewaves.com/sports/baseball/roster/will-kraemer/5961"
     ],
     [
-      "pepperdine-5786",
+      "pepperdine-5942",
       "pepperdine",
       "Shawn Romero",
       "Hitter",
@@ -25192,10 +25192,10 @@
       "Orange, Calif.",
       "Villa Park HS",
       "",
-      "https://pepperdinewaves.com/sports/baseball/roster/shawn-romero/5786"
+      "https://pepperdinewaves.com/sports/baseball/roster/shawn-romero/5942"
     ],
     [
-      "pepperdine-5787",
+      "pepperdine-5943",
       "pepperdine",
       "Drew Van Court",
       "Pitcher",
@@ -25206,10 +25206,10 @@
       "Woodland, Calif.",
       "Pioneer HS",
       "",
-      "https://pepperdinewaves.com/sports/baseball/roster/drew-van-court/5787"
+      "https://pepperdinewaves.com/sports/baseball/roster/drew-van-court/5943"
     ],
     [
-      "pepperdine-5537",
+      "pepperdine-5941",
       "pepperdine",
       "Matt Queen",
       "Pitcher",
@@ -25220,10 +25220,10 @@
       "Manhattan, N.Y.",
       "Poly Prep Country Day School",
       "",
-      "https://pepperdinewaves.com/sports/baseball/roster/matt-queen/5537"
+      "https://pepperdinewaves.com/sports/baseball/roster/matt-queen/5941"
     ],
     [
-      "pepperdine-5789",
+      "pepperdine-5945",
       "pepperdine",
       "Joshua Woodworth",
       "Hitter",
@@ -25234,10 +25234,10 @@
       "Ventura, Calif.",
       "Ventura HS",
       "",
-      "https://pepperdinewaves.com/sports/baseball/roster/joshua-woodworth/5789"
+      "https://pepperdinewaves.com/sports/baseball/roster/joshua-woodworth/5945"
     ],
     [
-      "pepperdine-5776",
+      "pepperdine-5957",
       "pepperdine",
       "Jack Fowler",
       "Hitter",
@@ -25248,7 +25248,7 @@
       "Pleasanton, Calif.",
       "Foothill HS",
       "",
-      "https://pepperdinewaves.com/sports/baseball/roster/jack-fowler/5776"
+      "https://pepperdinewaves.com/sports/baseball/roster/jack-fowler/5957"
     ],
     [
       "pepperdine-5543",
@@ -25265,7 +25265,7 @@
       "https://pepperdinewaves.com/sports/baseball/roster/collin-valentine/5543"
     ],
     [
-      "pepperdine-5769",
+      "pepperdine-5920",
       "pepperdine",
       "Johnny Backus",
       "Hitter",
@@ -25276,7 +25276,7 @@
       "Malibu, Calif.",
       "Westlake HS",
       "Michigan",
-      "https://pepperdinewaves.com/sports/baseball/roster/johnny-backus/5769"
+      "https://pepperdinewaves.com/sports/baseball/roster/johnny-backus/5920"
     ],
     [
       "pepperdine-5651",
@@ -25293,7 +25293,7 @@
       "https://pepperdinewaves.com/sports/baseball/roster/tommy-scavone/5651"
     ],
     [
-      "pepperdine-5536",
+      "pepperdine-5967",
       "pepperdine",
       "Austin Plisinski",
       "Pitcher",
@@ -25304,10 +25304,10 @@
       "Ladera Ranch, Calif.",
       "San Juan Hills HS",
       "",
-      "https://pepperdinewaves.com/sports/baseball/roster/austin-plisinski/5536"
+      "https://pepperdinewaves.com/sports/baseball/roster/austin-plisinski/5967"
     ],
     [
-      "pepperdine-5777",
+      "pepperdine-5931",
       "pepperdine",
       "Will Goodman",
       "Hitter",
@@ -25318,10 +25318,10 @@
       "Bend, Ore.",
       "Bend Senior HS",
       "",
-      "https://pepperdinewaves.com/sports/baseball/roster/will-goodman/5777"
+      "https://pepperdinewaves.com/sports/baseball/roster/will-goodman/5931"
     ],
     [
-      "pepperdine-5526",
+      "pepperdine-5925",
       "pepperdine",
       "Jordan Cole",
       "Pitcher",
@@ -25332,7 +25332,7 @@
       "Huntington Beach, Calif.",
       "Orange Lutheran HS",
       "",
-      "https://pepperdinewaves.com/sports/baseball/roster/jordan-cole/5526"
+      "https://pepperdinewaves.com/sports/baseball/roster/jordan-cole/5925"
     ],
     [
       "pepperdine-5791",
@@ -25349,7 +25349,7 @@
       "https://pepperdinewaves.com/sports/baseball/roster/jake-guardiancic/5791"
     ],
     [
-      "pepperdine-5527",
+      "pepperdine-5953",
       "pepperdine",
       "Danny Cook",
       "Hitter",
@@ -25360,10 +25360,10 @@
       "Monument, Colo.",
       "Lewis-Palmer HS",
       "",
-      "https://pepperdinewaves.com/sports/baseball/roster/danny-cook/5527"
+      "https://pepperdinewaves.com/sports/baseball/roster/danny-cook/5953"
     ],
     [
-      "pepperdine-5778",
+      "pepperdine-5933",
       "pepperdine",
       "Pierson Howe",
       "Pitcher",
@@ -25374,10 +25374,10 @@
       "Redondo Beach, Calif.",
       "Bishop Montgomery HS",
       "",
-      "https://pepperdinewaves.com/sports/baseball/roster/pierson-howe/5778"
+      "https://pepperdinewaves.com/sports/baseball/roster/pierson-howe/5933"
     ],
     [
-      "pepperdine-5775",
+      "pepperdine-5929",
       "pepperdine",
       "Casey Euper",
       "Pitcher",
@@ -25388,10 +25388,10 @@
       "Irvine, Calif.",
       "Northwood HS",
       "UC Santa Barbara",
-      "https://pepperdinewaves.com/sports/baseball/roster/casey-euper/5775"
+      "https://pepperdinewaves.com/sports/baseball/roster/casey-euper/5929"
     ],
     [
-      "pepperdine-5535",
+      "pepperdine-5939",
       "pepperdine",
       "Winston Peterson",
       "Pitcher",
@@ -25402,7 +25402,7 @@
       "Toluca Lake, Calif.",
       "Village Christian HS",
       "",
-      "https://pepperdinewaves.com/sports/baseball/roster/winston-peterson/5535"
+      "https://pepperdinewaves.com/sports/baseball/roster/winston-peterson/5939"
     ],
     [
       "pepperdine-5782",
@@ -25433,7 +25433,7 @@
       "https://pepperdinewaves.com/sports/baseball/roster/lucien-wechsberg/5544"
     ],
     [
-      "pepperdine-5546",
+      "pepperdine-5944",
       "pepperdine",
       "Zach Woodson",
       "Hitter",
@@ -25444,7 +25444,7 @@
       "Long Beach, Calif.",
       "St. John Bosco",
       "",
-      "https://pepperdinewaves.com/sports/baseball/roster/zach-woodson/5546"
+      "https://pepperdinewaves.com/sports/baseball/roster/zach-woodson/5944"
     ],
     [
       "pepperdine-5545",
@@ -25461,7 +25461,7 @@
       "https://pepperdinewaves.com/sports/baseball/roster/cal-wipf/5545"
     ],
     [
-      "pepperdine-5534",
+      "pepperdine-5965",
       "pepperdine",
       "Jackson Pace",
       "Pitcher",
@@ -25472,7 +25472,7 @@
       "Hollister, Calif.",
       "San Benito HS",
       "Oregon",
-      "https://pepperdinewaves.com/sports/baseball/roster/jackson-pace/5534"
+      "https://pepperdinewaves.com/sports/baseball/roster/jackson-pace/5965"
     ],
     [
       "pepperdine-5540",
@@ -25489,7 +25489,7 @@
       "https://pepperdinewaves.com/sports/baseball/roster/dylan-stewart/5540"
     ],
     [
-      "pepperdine-5790",
+      "pepperdine-5973",
       "pepperdine",
       "Arnold Wu",
       "Pitcher",
@@ -25500,10 +25500,10 @@
       "Taipei, Taiwan",
       "IMG Academy",
       "",
-      "https://pepperdinewaves.com/sports/baseball/roster/arnold-wu/5790"
+      "https://pepperdinewaves.com/sports/baseball/roster/arnold-wu/5973"
     ],
     [
-      "pepperdine-5528",
+      "pepperdine-5927",
       "pepperdine",
       "Kam Croghan",
       "Pitcher",
@@ -25514,7 +25514,7 @@
       "Danville, Calif",
       "San Ramon Valley HS",
       "",
-      "https://pepperdinewaves.com/sports/baseball/roster/kam-croghan/5528"
+      "https://pepperdinewaves.com/sports/baseball/roster/kam-croghan/5927"
     ],
     [
       "pittsburgh-14798",
@@ -27265,20 +27265,6 @@
       "Wiregrass Ranch",
       "FIU",
       "https://riceowls.com/sports/baseball/roster/logan-voelz/10596"
-    ],
-    [
-      "rice-10618",
-      "rice",
-      "D.C. Brown",
-      "Pitcher",
-      "LHP",
-      "SO",
-      "L-L",
-      "30",
-      "Plymouth, Massachusetts",
-      "Plymouth North",
-      "WPI",
-      "https://riceowls.com/sports/baseball/roster/dc-brown/10618"
     ],
     [
       "rice-10597",

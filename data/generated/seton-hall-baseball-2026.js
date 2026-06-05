@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.seton-hall2026 = {
-  "generatedAt": "2026-06-04T11:23:25.537Z",
+  "generatedAt": "2026-06-05T11:25:49.677Z",
   "season": 2026,
   "school": {
     "slug": "seton-hall",
