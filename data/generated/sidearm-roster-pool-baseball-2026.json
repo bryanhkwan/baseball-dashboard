@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T11:26:25.511Z",
+  "generatedAt": "2026-06-06T10:55:59.917Z",
   "season": 2026,
   "source": "Generated Sidearm baseball roster pool",
   "note": "This compact roster-only pool captures public school-site baseball rosters so non-appearing players can still enter coverage before they log a reachable NCAA boxscore.",
@@ -331,7 +331,7 @@
       "slug": "rice",
       "name": "Rice",
       "longName": "Rice University",
-      "rosterPlayers": 36,
+      "rosterPlayers": 35,
       "rosterUrl": "https://riceowls.com/sports/baseball/roster"
     },
     {
@@ -415,7 +415,7 @@
       "slug": "texas",
       "name": "Texas",
       "longName": "University of Texas",
-      "rosterPlayers": 39,
+      "rosterPlayers": 38,
       "rosterUrl": "https://texassports.com/sports/baseball/roster"
     },
     {
@@ -507,10 +507,10 @@
     "schoolsRequested": 73,
     "schoolsLoaded": 71,
     "schoolsFailed": 2,
-    "totalPlayers": 2690,
+    "totalPlayers": 2688,
     "roleCounts": {
-      "Hitter": 1341,
-      "Pitcher": 1349
+      "Hitter": 1340,
+      "Pitcher": 1348
     },
     "failures": [
       {
@@ -2781,7 +2781,7 @@
       "https://gofrogs.com/sports/baseball/roster/preston-gamster/17718"
     ],
     [
-      "tcu-17716",
+      "tcu-18351",
       "tcu",
       "Kade Eudy",
       "Pitcher",
@@ -2792,7 +2792,7 @@
       "Crosby, Texas",
       "Crosby HS",
       "",
-      "https://gofrogs.com/sports/baseball/roster/kade-eudy/17716"
+      "https://gofrogs.com/sports/baseball/roster/kade-eudy/18351"
     ],
     [
       "tcu-17996",
@@ -2809,7 +2809,7 @@
       "https://gofrogs.com/sports/baseball/roster/cj-mascaro/17996"
     ],
     [
-      "tcu-17999",
+      "tcu-18353",
       "tcu",
       "Lucas Franco",
       "Hitter",
@@ -2820,10 +2820,10 @@
       "Katy, Texas",
       "Cinco Ranch H.S.",
       "",
-      "https://gofrogs.com/sports/baseball/roster/lucas-franco/17999"
+      "https://gofrogs.com/sports/baseball/roster/lucas-franco/18353"
     ],
     [
-      "tcu-17717",
+      "tcu-18354",
       "tcu",
       "Noah Franco",
       "Pitcher",
@@ -2834,7 +2834,7 @@
       "Downey, Calif.",
       "IMG Academy (Fla.)",
       "",
-      "https://gofrogs.com/sports/baseball/roster/noah-franco/17717"
+      "https://gofrogs.com/sports/baseball/roster/noah-franco/18354"
     ],
     [
       "tcu-17713",
@@ -2879,7 +2879,7 @@
       "https://gofrogs.com/sports/baseball/roster/trever-baumler/17708"
     ],
     [
-      "tcu-17729",
+      "tcu-18362",
       "tcu",
       "Sawyer Strosnider",
       "Hitter",
@@ -2890,10 +2890,10 @@
       "Brock, Texas",
       "Brock HS",
       "",
-      "https://gofrogs.com/sports/baseball/roster/sawyer-strosnider/17729"
+      "https://gofrogs.com/sports/baseball/roster/sawyer-strosnider/18362"
     ],
     [
-      "tcu-17719",
+      "tcu-18356",
       "tcu",
       "Colton Griffin",
       "Hitter",
@@ -2904,10 +2904,10 @@
       "Spring, Texas",
       "Klein Collins HS",
       "Stephen F. Austin",
-      "https://gofrogs.com/sports/baseball/roster/colton-griffin/17719"
+      "https://gofrogs.com/sports/baseball/roster/colton-griffin/18356"
     ],
     [
-      "tcu-18005",
+      "tcu-18355",
       "tcu",
       "Kyuss Gargett",
       "Hitter",
@@ -2918,10 +2918,10 @@
       "Anderson, Ind.",
       "Cathedral H.S.",
       "Kentucky",
-      "https://gofrogs.com/sports/baseball/roster/kyuss-gargett/18005"
+      "https://gofrogs.com/sports/baseball/roster/kyuss-gargett/18355"
     ],
     [
-      "tcu-17715",
+      "tcu-18350",
       "tcu",
       "Cole Eaton",
       "Hitter",
@@ -2932,10 +2932,10 @@
       "Elkhorn, Neb.",
       "Elkhorn South HS",
       "Tennessee",
-      "https://gofrogs.com/sports/baseball/roster/cole-eaton/17715"
+      "https://gofrogs.com/sports/baseball/roster/cole-eaton/18350"
     ],
     [
-      "tcu-17711",
+      "tcu-18347",
       "tcu",
       "Chase Brunson",
       "Hitter",
@@ -2946,7 +2946,7 @@
       "San Clemente, Calif.",
       "San Clemente HS",
       "",
-      "https://gofrogs.com/sports/baseball/roster/chase-brunson/17711"
+      "https://gofrogs.com/sports/baseball/roster/chase-brunson/18347"
     ],
     [
       "tcu-17730",
@@ -2977,7 +2977,7 @@
       "https://gofrogs.com/sports/baseball/roster/rob-liddington/18001"
     ],
     [
-      "tcu-17720",
+      "tcu-18357",
       "tcu",
       "Zack James",
       "Pitcher",
@@ -2988,7 +2988,7 @@
       "Flower Mound, Texas",
       "Flower Mound HS",
       "",
-      "https://gofrogs.com/sports/baseball/roster/zack-james/17720"
+      "https://gofrogs.com/sports/baseball/roster/zack-james/18357"
     ],
     [
       "tcu-17707",
@@ -3019,7 +3019,7 @@
       "https://gofrogs.com/sports/baseball/roster/tyler-phenow/17724"
     ],
     [
-      "tcu-17725",
+      "tcu-18360",
       "tcu",
       "Louis Rodriguez",
       "Pitcher",
@@ -3030,10 +3030,10 @@
       "Long Beach, Calif.",
       "Orange Lutheran HS",
       "",
-      "https://gofrogs.com/sports/baseball/roster/louis-rodriguez/17725"
+      "https://gofrogs.com/sports/baseball/roster/louis-rodriguez/18360"
     ],
     [
-      "tcu-17710",
+      "tcu-18346",
       "tcu",
       "Mason Brassfield",
       "Pitcher",
@@ -3044,7 +3044,7 @@
       "Bakersfield, Calif.",
       "Bakersfield Christian HS",
       "",
-      "https://gofrogs.com/sports/baseball/roster/mason-brassfield/17710"
+      "https://gofrogs.com/sports/baseball/roster/mason-brassfield/18346"
     ],
     [
       "tcu-18004",
@@ -3075,7 +3075,7 @@
       "https://gofrogs.com/sports/baseball/roster/nolan-johnson/17993"
     ],
     [
-      "tcu-18003",
+      "tcu-18345",
       "tcu",
       "Aiden Barrientes",
       "Pitcher",
@@ -3086,7 +3086,7 @@
       "Katy, Texas",
       "Katy H.S.",
       "",
-      "https://gofrogs.com/sports/baseball/roster/aiden-barrientes/18003"
+      "https://gofrogs.com/sports/baseball/roster/aiden-barrientes/18345"
     ],
     [
       "tcu-18000",
@@ -3117,7 +3117,7 @@
       "https://gofrogs.com/sports/baseball/roster/colin-blanchard/18052"
     ],
     [
-      "tcu-17714",
+      "tcu-18349",
       "tcu",
       "Kade Durnin",
       "Pitcher",
@@ -3128,10 +3128,10 @@
       "Linn Creek, Mo.",
       "Camdenton HS",
       "",
-      "https://gofrogs.com/sports/baseball/roster/kade-durnin/17714"
+      "https://gofrogs.com/sports/baseball/roster/kade-durnin/18349"
     ],
     [
-      "tcu-18002",
+      "tcu-18359",
       "tcu",
       "Cade Nelson",
       "Pitcher",
@@ -3142,10 +3142,10 @@
       "Katy, Texas",
       "Katy H.S.",
       "",
-      "https://gofrogs.com/sports/baseball/roster/cade-nelson/18002"
+      "https://gofrogs.com/sports/baseball/roster/cade-nelson/18359"
     ],
     [
-      "tcu-17998",
+      "tcu-18363",
       "tcu",
       "Ethan Thomas",
       "Pitcher",
@@ -3156,10 +3156,10 @@
       "Alameda, Calif.",
       "Alameda H.S.",
       "Hawai’i",
-      "https://gofrogs.com/sports/baseball/roster/ethan-thomas/17998"
+      "https://gofrogs.com/sports/baseball/roster/ethan-thomas/18363"
     ],
     [
-      "tcu-17995",
+      "tcu-18352",
       "tcu",
       "Uli Fernsler",
       "Pitcher",
@@ -3170,10 +3170,10 @@
       "Novi, Mich.",
       "Novi H.S.",
       "",
-      "https://gofrogs.com/sports/baseball/roster/uli-fernsler/17995"
+      "https://gofrogs.com/sports/baseball/roster/uli-fernsler/18352"
     ],
     [
-      "tcu-18006",
+      "tcu-18348",
       "tcu",
       "Lance Davis",
       "Pitcher",
@@ -3184,10 +3184,10 @@
       "Jonesboro, Ark.",
       "Valley View H.S.",
       "Arkansas",
-      "https://gofrogs.com/sports/baseball/roster/lance-davis/18006"
+      "https://gofrogs.com/sports/baseball/roster/lance-davis/18348"
     ],
     [
-      "tcu-17728",
+      "tcu-18361",
       "tcu",
       "Nate Stern",
       "Pitcher",
@@ -3198,10 +3198,10 @@
       "Los Angeles, Calif.",
       "Loyola HS",
       "",
-      "https://gofrogs.com/sports/baseball/roster/nate-stern/17728"
+      "https://gofrogs.com/sports/baseball/roster/nate-stern/18361"
     ],
     [
-      "tcu-17721",
+      "tcu-18358",
       "tcu",
       "Tommy LaPour",
       "Pitcher",
@@ -3212,7 +3212,7 @@
       "Blue Springs, Mo.",
       "Blue Springs South HS",
       "Wichita State",
-      "https://gofrogs.com/sports/baseball/roster/tommy-lapour/17721"
+      "https://gofrogs.com/sports/baseball/roster/tommy-lapour/18358"
     ],
     [
       "tcu-17994",
@@ -12035,7 +12035,7 @@
       "https://bluehens.com/sports/baseball/roster/connor-doherty/30512"
     ],
     [
-      "delaware-30240",
+      "delaware-32058",
       "delaware",
       "Matthew Minckler",
       "Hitter",
@@ -12046,7 +12046,7 @@
       "Bangkok, Thailand",
       "Portsmouth",
       "",
-      "https://bluehens.com/sports/baseball/roster/matthew-minckler/30240"
+      "https://bluehens.com/sports/baseball/roster/matthew-minckler/32058"
     ],
     [
       "delaware-30234",
@@ -12119,7 +12119,7 @@
       "https://bluehens.com/sports/baseball/roster/anthony-charles/30514"
     ],
     [
-      "delaware-30228",
+      "delaware-32046",
       "delaware",
       "Andrew Callaway",
       "Pitcher",
@@ -12130,7 +12130,7 @@
       "Seaford, Del.",
       "Delmar",
       "",
-      "https://bluehens.com/sports/baseball/roster/andrew-callaway/30228"
+      "https://bluehens.com/sports/baseball/roster/andrew-callaway/32046"
     ],
     [
       "delaware-30236",
@@ -12147,7 +12147,7 @@
       "https://bluehens.com/sports/baseball/roster/luke-lambert/30236"
     ],
     [
-      "delaware-30227",
+      "delaware-32045",
       "delaware",
       "Dylan Bryan",
       "Pitcher",
@@ -12158,10 +12158,10 @@
       "Lutherville, Md.",
       "Loyola-Blakefield",
       "",
-      "https://bluehens.com/sports/baseball/roster/dylan-bryan/30227"
+      "https://bluehens.com/sports/baseball/roster/dylan-bryan/32045"
     ],
     [
-      "delaware-30515",
+      "delaware-32048",
       "delaware",
       "Harry Carr",
       "Hitter",
@@ -12172,10 +12172,10 @@
       "Philadelphia, Pa.",
       "Monsignor Bonner",
       "",
-      "https://bluehens.com/sports/baseball/roster/harry-carr/30515"
+      "https://bluehens.com/sports/baseball/roster/harry-carr/32048"
     ],
     [
-      "delaware-30516",
+      "delaware-32060",
       "delaware",
       "Ryan Pugh",
       "Pitcher",
@@ -12186,7 +12186,7 @@
       "South Riding, Va.",
       "Freedom",
       "",
-      "https://bluehens.com/sports/baseball/roster/ryan-pugh/30516"
+      "https://bluehens.com/sports/baseball/roster/ryan-pugh/32060"
     ],
     [
       "delaware-30232",
@@ -12203,7 +12203,7 @@
       "https://bluehens.com/sports/baseball/roster/vincent-davis/30232"
     ],
     [
-      "delaware-30518",
+      "delaware-32055",
       "delaware",
       "Jack Maiale",
       "Hitter",
@@ -12214,7 +12214,7 @@
       "New Paltz, N.Y.",
       "New Paltz",
       "",
-      "https://bluehens.com/sports/baseball/roster/jack-maiale/30518"
+      "https://bluehens.com/sports/baseball/roster/jack-maiale/32055"
     ],
     [
       "delaware-30519",
@@ -12245,7 +12245,7 @@
       "https://bluehens.com/sports/baseball/roster/doug-marose/30238"
     ],
     [
-      "delaware-30551",
+      "delaware-32043",
       "delaware",
       "Nick Bilotto",
       "Pitcher",
@@ -12256,7 +12256,7 @@
       "Ellicott City, Md.",
       "Glenelg",
       "",
-      "https://bluehens.com/sports/baseball/roster/nick-bilotto/30551"
+      "https://bluehens.com/sports/baseball/roster/nick-bilotto/32043"
     ],
     [
       "delaware-30520",
@@ -12301,7 +12301,7 @@
       "https://bluehens.com/sports/baseball/roster/ethan-shaub/30510"
     ],
     [
-      "delaware-30231",
+      "delaware-32049",
       "delaware",
       "Elias Conway",
       "Pitcher",
@@ -12312,10 +12312,10 @@
       "East Nassau, N.Y.",
       "Columbia",
       "",
-      "https://bluehens.com/sports/baseball/roster/elias-conway/30231"
+      "https://bluehens.com/sports/baseball/roster/elias-conway/32049"
     ],
     [
-      "delaware-30522",
+      "delaware-32050",
       "delaware",
       "Anthony DeCesare",
       "Hitter",
@@ -12326,10 +12326,10 @@
       "Yorktown Heights, N.Y.",
       "Stony Brook School",
       "",
-      "https://bluehens.com/sports/baseball/roster/anthony-decesare/30522"
+      "https://bluehens.com/sports/baseball/roster/anthony-decesare/32050"
     ],
     [
-      "delaware-30235",
+      "delaware-32054",
       "delaware",
       "Tim Hartman",
       "Pitcher",
@@ -12340,10 +12340,10 @@
       "Lumberton, N.J.",
       "Rancocas Valley (Gloucester Community College)",
       "",
-      "https://bluehens.com/sports/baseball/roster/tim-hartman/30235"
+      "https://bluehens.com/sports/baseball/roster/tim-hartman/32054"
     ],
     [
-      "delaware-30523",
+      "delaware-32051",
       "delaware",
       "Chase Deibler",
       "Pitcher",
@@ -12354,10 +12354,10 @@
       "Enola, Pa.",
       "East Pennsboro",
       "",
-      "https://bluehens.com/sports/baseball/roster/chase-deibler/30523"
+      "https://bluehens.com/sports/baseball/roster/chase-deibler/32051"
     ],
     [
-      "delaware-30524",
+      "delaware-32053",
       "delaware",
       "Grant Fournier",
       "Hitter",
@@ -12368,10 +12368,10 @@
       "Cherry Hill, N.J.",
       "Cherry Hill West",
       "",
-      "https://bluehens.com/sports/baseball/roster/grant-fournier/30524"
+      "https://bluehens.com/sports/baseball/roster/grant-fournier/32053"
     ],
     [
-      "delaware-30244",
+      "delaware-32061",
       "delaware",
       "Matt Reyes",
       "Pitcher",
@@ -12382,10 +12382,10 @@
       "Northford, Conn.",
       "St. Thomas More (Louisburg Community College)",
       "",
-      "https://bluehens.com/sports/baseball/roster/matt-reyes/30244"
+      "https://bluehens.com/sports/baseball/roster/matt-reyes/32061"
     ],
     [
-      "delaware-30245",
+      "delaware-32062",
       "delaware",
       "Jonah Richardson",
       "Pitcher",
@@ -12396,10 +12396,10 @@
       "Boiling Spring, Pa.",
       "Boiling Spring",
       "",
-      "https://bluehens.com/sports/baseball/roster/jonah-richardson/30245"
+      "https://bluehens.com/sports/baseball/roster/jonah-richardson/32062"
     ],
     [
-      "delaware-30239",
+      "delaware-32057",
       "delaware",
       "Ryan McLaughlin",
       "Pitcher",
@@ -12410,10 +12410,10 @@
       "Berlin, Md.",
       "Stephen Decatur",
       "",
-      "https://bluehens.com/sports/baseball/roster/ryan-mclaughlin/30239"
+      "https://bluehens.com/sports/baseball/roster/ryan-mclaughlin/32057"
     ],
     [
-      "delaware-30525",
+      "delaware-32056",
       "delaware",
       "Jake Marchesano",
       "Pitcher",
@@ -12424,10 +12424,10 @@
       "Feasterville, Pa.",
       "Archbishop Ryan",
       "",
-      "https://bluehens.com/sports/baseball/roster/jake-marchesano/30525"
+      "https://bluehens.com/sports/baseball/roster/jake-marchesano/32056"
     ],
     [
-      "delaware-30241",
+      "delaware-32059",
       "delaware",
       "Ben Moyzan",
       "Pitcher",
@@ -12438,7 +12438,7 @@
       "Bethlehem, Pa.",
       "Notre Dame",
       "",
-      "https://bluehens.com/sports/baseball/roster/ben-moyzan/30241"
+      "https://bluehens.com/sports/baseball/roster/ben-moyzan/32059"
     ],
     [
       "delaware-30528",
@@ -12455,7 +12455,7 @@
       "https://bluehens.com/sports/baseball/roster/evan-lewis/30528"
     ],
     [
-      "delaware-30526",
+      "delaware-32047",
       "delaware",
       "Cole Carbone",
       "Hitter",
@@ -12466,10 +12466,10 @@
       "Cranston, R.I.",
       "Worchester Academy",
       "",
-      "https://bluehens.com/sports/baseball/roster/cole-carbone/30526"
+      "https://bluehens.com/sports/baseball/roster/cole-carbone/32047"
     ],
     [
-      "delaware-30225",
+      "delaware-32044",
       "delaware",
       "Brady Blum",
       "Pitcher",
@@ -12480,7 +12480,7 @@
       "Northfield, N.J.",
       "Mainland",
       "",
-      "https://bluehens.com/sports/baseball/roster/brady-blum/30225"
+      "https://bluehens.com/sports/baseball/roster/brady-blum/32044"
     ],
     [
       "delaware-30527",
@@ -26945,20 +26945,6 @@
       "https://riceowls.com/sports/baseball/roster/masa-chilcutt/10586"
     ],
     [
-      "rice-10375",
-      "rice",
-      "Cole Green",
-      "Hitter",
-      "INF",
-      "SO",
-      "R-R",
-      "2",
-      "Indian Trail, North Carolina",
-      "Sun Valley",
-      "",
-      "https://riceowls.com/sports/baseball/roster/cole-green/10375"
-    ],
-    [
       "rice-10587",
       "rice",
       "JC Davis",
@@ -32921,20 +32907,6 @@
       "McKinney Boyd",
       "",
       "https://texassports.com/sports/baseball/roster/brody-walls/15092"
-    ],
-    [
-      "texas-15093",
-      "texas",
-      "Cooper Rummel",
-      "Pitcher",
-      "RHP",
-      "FR",
-      "R/R",
-      "80",
-      "Austin, Texas",
-      "Dripping Springs",
-      "",
-      "https://texassports.com/sports/baseball/roster/cooper-rummel/15093"
     ],
     [
       "texas-15094",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T11:25:55.465Z",
+  "generatedAt": "2026-06-06T10:55:21.287Z",
   "season": 2026,
   "school": {
     "slug": "texas",
@@ -24,7 +24,7 @@
     "ncaa": "NCAA school index"
   },
   "coverage": {
-    "rosterPlayers": 39,
+    "rosterPlayers": 38,
     "espnRosterPlayers": 0,
     "playersWithHittingStats": 17,
     "playersWithPitchingStats": 18,
@@ -5064,94 +5064,6 @@
       }
     },
     {
-      "id": "texas-15093",
-      "schoolSlug": "texas",
-      "school": "Texas",
-      "schoolLongName": "University of Texas",
-      "name": "Cooper Rummel",
-      "normalizedName": "cooper rummel",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "FR",
-      "handedness": "R/R",
-      "jersey": "80",
-      "hometown": "Austin, Texas",
-      "highSchool": "Dripping Springs",
-      "previousSchool": "",
-      "hometownHighSchool": "Austin, Texas / Dripping Springs",
-      "profileUrl": "https://texassports.com/sports/baseball/roster/cooper-rummel/15093",
-      "imageUrl": "https://texaslonghorns.com/images/2025/12/8/Rummel_Cooper_Cropped-2026_zbxxM.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "15093",
-      "sources": [
-        "Texas Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Cooper Rummel looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Texas Athletics roster"
-      }
-    },
-    {
       "id": "texas-15094",
       "schoolSlug": "texas",
       "school": "Texas",
@@ -5439,10 +5351,10 @@
   "playerBoard": {
     "source": "Texas Athletics roster + cumulative stats / ESPN roster",
     "note": "This Texas-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but Texas's public ESPN roster feed did not line up cleanly with the current school-site roster.",
-    "totalPlayers": 39,
+    "totalPlayers": 38,
     "roleCounts": {
       "Hitter": 17,
-      "Pitcher": 22
+      "Pitcher": 21
     },
     "players": [
       {
@@ -7924,74 +7836,6 @@
         "schoolSlug": "texas",
         "compositeRole": "Pitcher",
         "profileUrl": "https://texassports.com/sports/baseball/roster/brody-walls/15092",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "texas-15093",
-        "name": "Cooper Rummel",
-        "school": "Texas",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Cooper Rummel looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Texas Athletics roster"
-        ],
-        "sourceSummary": "Texas Athletics roster",
-        "schoolSlug": "texas",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://texassports.com/sports/baseball/roster/cooper-rummel/15093",
         "espnAthleteId": ""
       },
       {

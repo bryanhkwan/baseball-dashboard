@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.rice2026 = {
-  "generatedAt": "2026-06-05T11:25:43.457Z",
+  "generatedAt": "2026-06-06T10:55:07.262Z",
   "season": 2026,
   "school": {
     "slug": "rice",
@@ -25,15 +25,16 @@ window.__BASEBALL_DATASETS__.rice2026 = {
     "ncaa": "NCAA school index"
   },
   "coverage": {
-    "rosterPlayers": 36,
+    "rosterPlayers": 35,
     "espnRosterPlayers": 0,
-    "playersWithHittingStats": 17,
+    "playersWithHittingStats": 16,
     "playersWithPitchingStats": 14,
-    "playersWithFieldingStats": 31,
-    "mergedPlayersWithAnyStats": 31,
+    "playersWithFieldingStats": 30,
+    "mergedPlayersWithAnyStats": 30,
     "matchedEspnPlayers": 0,
     "unmatchedStatRows": {
       "hitting": [
+        "Cole Green",
         "Tobias Motley"
       ],
       "pitching": [
@@ -43,7 +44,8 @@ window.__BASEBALL_DATASETS__.rice2026 = {
       ],
       "fielding": [
         "Tobias Motley",
-        "Marco Fuentes"
+        "Marco Fuentes",
+        "Cole Green"
       ]
     }
   },
@@ -271,151 +273,6 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "detailBadges": [
           "C/UT",
           "FR",
-          "R-R",
-          "Hitter"
-        ],
-        "sourceSummary": "Rice Athletics roster + Rice cumulative stats"
-      }
-    },
-    {
-      "id": "rice-10375",
-      "schoolSlug": "rice",
-      "school": "Rice",
-      "schoolLongName": "Rice University",
-      "name": "Cole Green",
-      "normalizedName": "cole green",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "INF",
-      "positionLong": "",
-      "classYear": "SO",
-      "handedness": "R-R",
-      "jersey": "2",
-      "hometown": "Indian Trail, North Carolina",
-      "highSchool": "Sun Valley",
-      "previousSchool": "",
-      "hometownHighSchool": "Indian Trail, North Carolina / Sun Valley",
-      "profileUrl": "https://riceowls.com/sports/baseball/roster/cole-green/10375",
-      "imageUrl": "https://riceowls.com/images/2025/9/1/2_GREEN_COLE.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "10375",
-      "sources": [
-        "Rice Athletics roster",
-        "Rice cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "10375",
-        "name": "Cole Green",
-        "normalizedName": "cole green",
-        "jersey": "2",
-        "profileUrl": "https://riceowls.com/sports/baseball/roster/cole-green/10375",
-        "imageUrl": "https://riceowls.com/images/2025/9/1/2_GREEN_COLE.png",
-        "gamesPlayed": 58,
-        "gamesStarted": 58,
-        "battingAverage": 0.29,
-        "onBasePercentage": 0.356,
-        "sluggingPercentage": 0.451,
-        "ops": 0.807,
-        "atBats": 224,
-        "runs": 34,
-        "hits": 65,
-        "doubles": 13,
-        "triples": 1,
-        "homeRuns": 7,
-        "runsBattedIn": 32,
-        "totalBases": 101,
-        "walks": 15,
-        "hitByPitch": 8,
-        "strikeouts": 50,
-        "intentionalWalks": 1,
-        "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 4,
-        "stolenBases": 9,
-        "stolenBasesAttempts": 11,
-        "putouts": 75,
-        "assists": 0,
-        "errors": 10,
-        "plateAppearances": 264,
-        "caughtStealing": 2,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "10375",
-        "name": "Cole Green",
-        "normalizedName": "cole green",
-        "jersey": "2",
-        "profileUrl": "https://riceowls.com/sports/baseball/roster/cole-green/10375",
-        "imageUrl": "https://riceowls.com/images/2025/9/1/2_GREEN_COLE.png",
-        "gamesPlayed": 57,
-        "gamesStarted": 57,
-        "putouts": 75,
-        "assists": 76,
-        "errors": 10,
-        "fieldingPercentage": 0.938,
-        "doublePlays": 9,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 161
-      },
-      "evaluation": {
-        "score": 35,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 42.2222222222222,
-          "Power": 34.47368421052632,
-          "Contact": 43.749999999999986,
-          "Discipline": 11.111111111111107,
-          "Speed": 30
-        },
-        "summary": "Cole Green profiles as a INF piece who adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .290",
-          "OBP .356",
-          "SLG .451"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".290"
-          },
-          {
-            "label": "OBP",
-            "value": ".356"
-          },
-          {
-            "label": "SLG",
-            "value": ".451"
-          },
-          {
-            "label": "HR",
-            "value": "7"
-          },
-          {
-            "label": "RBI",
-            "value": "32"
-          },
-          {
-            "label": "SB",
-            "value": "9"
-          }
-        ],
-        "metaLine": "SO / R-R",
-        "detailBadges": [
-          "INF",
-          "SO",
           "R-R",
           "Hitter"
         ],
@@ -5029,9 +4886,9 @@ window.__BASEBALL_DATASETS__.rice2026 = {
   "playerBoard": {
     "source": "Rice Athletics roster + cumulative stats / ESPN roster",
     "note": "This Rice-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but Rice's public ESPN roster feed did not line up cleanly with the current school-site roster.",
-    "totalPlayers": 36,
+    "totalPlayers": 35,
     "roleCounts": {
-      "Hitter": 18,
+      "Hitter": 17,
       "Pitcher": 18
     },
     "players": [
@@ -5102,75 +4959,6 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "schoolSlug": "rice",
         "compositeRole": "Hitter",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/masa-chilcutt/10586",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "rice-10375",
-        "name": "Cole Green",
-        "school": "Rice",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SO",
-        "handedness": "R-R",
-        "score": 35,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Cole Green profiles as a INF piece who adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .290",
-          "OBP .356",
-          "SLG .451"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".290"
-          },
-          {
-            "label": "OBP",
-            "value": ".356"
-          },
-          {
-            "label": "SLG",
-            "value": ".451"
-          },
-          {
-            "label": "HR",
-            "value": "7"
-          },
-          {
-            "label": "RBI",
-            "value": "32"
-          },
-          {
-            "label": "SB",
-            "value": "9"
-          }
-        ],
-        "components": {
-          "On-base": 42.2222222222222,
-          "Power": 34.47368421052632,
-          "Contact": 43.749999999999986,
-          "Discipline": 11.111111111111107,
-          "Speed": 30
-        },
-        "metaLine": "SO / R-R",
-        "detailBadges": [
-          "INF",
-          "SO",
-          "R-R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Rice Athletics roster",
-          "Rice cumulative stats"
-        ],
-        "sourceSummary": "Rice Athletics roster + Rice cumulative stats",
-        "schoolSlug": "rice",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://riceowls.com/sports/baseball/roster/cole-green/10375",
         "espnAthleteId": ""
       },
       {
