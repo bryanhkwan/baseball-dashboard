@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-06T10:55:15.548Z",
+  "generatedAt": "2026-06-07T10:58:57.928Z",
   "season": 2026,
   "school": {
     "slug": "southern-california",
@@ -28,7 +28,7 @@
     "espnRosterPlayers": 0,
     "playersWithHittingStats": 18,
     "playersWithPitchingStats": 18,
-    "playersWithFieldingStats": 31,
+    "playersWithFieldingStats": 32,
     "mergedPlayersWithAnyStats": 35,
     "matchedEspnPlayers": 0,
     "unmatchedStatRows": {
@@ -38,84 +38,84 @@
     }
   },
   "teamSummary": {
-    "record": "48-16, 20-10",
-    "battingAverage": ".282",
-    "earnedRunAverage": "3.48",
+    "record": "48-17, 20-10",
+    "battingAverage": ".279",
+    "earnedRunAverage": "3.49",
     "wins": "48",
-    "losses": "16",
+    "losses": "17",
     "hitting": {
-      "atBats": "2129",
+      "atBats": "2158",
       "runsScored": "461",
-      "hits": "601",
+      "hits": "603",
       "runsBattedIn": "425",
       "doubles": "133",
       "triples": "15",
       "homeRuns": "90",
-      "walks": "290",
+      "walks": "291",
       "intentionalWalks": "7",
-      "strikeouts": "472",
-      "strikeoutsLooking": "109",
-      "hitByPitch": "81",
+      "strikeouts": "480",
+      "strikeoutsLooking": "111",
+      "hitByPitch": "82",
       "stolenBases": "60",
-      "caughtStealing": "19",
+      "caughtStealing": "20",
       "sacrificeHits": "38",
       "sacrificeFlies": "35",
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "528",
-      "flyOuts": "569",
+      "groundOuts": "537",
+      "flyOuts": "578",
       "groundedIntoDoublePlay": "26",
       "pickedOff": "11",
       "doublePlaysHitInto": "30",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1689",
-      "assists": "492",
+      "putouts": "1716",
+      "assists": "500",
       "errors": "44",
       "passedBalls": "6",
       "catchersInterference": "0",
       "stolenBasesAgainst": "24",
       "caughtStealingBy": "8",
-      "involvedInDoublePlays": "36",
+      "involvedInDoublePlays": "38",
       "involvedInTriplePlays": "0",
-      "totalChances": "2225",
-      "fieldingPercentage": ".980"
+      "totalChances": "2260",
+      "fieldingPercentage": ".981"
     },
     "pitching": {
       "orderOfAppearance": "0",
       "wins": "47",
-      "saves": "17",
-      "losses": "16",
+      "saves": "18",
+      "losses": "17",
       "gamesStarted": "0",
       "gamesCompleted": "1",
       "shutouts": "10",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "563.0",
-      "hitsAllowed": "441",
-      "runsAllowed": "244",
-      "earnedRunsAllowed": "218",
-      "walksAllowed": "236",
-      "strikeouts": "625",
-      "battersFaced": "2400",
-      "opponentAtBats": "2083",
+      "inningsPitched": "572.0",
+      "hitsAllowed": "450",
+      "runsAllowed": "248",
+      "earnedRunsAllowed": "222",
+      "walksAllowed": "243",
+      "strikeouts": "628",
+      "battersFaced": "2444",
+      "opponentAtBats": "2113",
       "doublesAllowed": "82",
       "triplesAllowed": "6",
-      "homerunsAllowed": "59",
-      "wildPitches": "54",
+      "homerunsAllowed": "61",
+      "wildPitches": "55",
       "balks": "6",
-      "hitBatters": "46",
-      "strikeoutsLooking": "198",
-      "intentionalWalks": "6",
-      "inheritedRunners": "0",
-      "inheritedRunnersThatScored": "0",
-      "sacrificeHitsAllowed": "19",
-      "sacrificeFliesAllowed": "16",
+      "hitBatters": "49",
+      "strikeoutsLooking": "199",
+      "intentionalWalks": "7",
+      "inheritedRunners": "1",
+      "inheritedRunnersThatScored": "1",
+      "sacrificeHitsAllowed": "21",
+      "sacrificeFliesAllowed": "18",
       "catchersInterferenceAllowed": "0",
-      "pitches": "9459",
-      "flyouts": "559",
-      "groundouts": "459",
+      "pitches": "9613",
+      "flyouts": "573",
+      "groundouts": "465",
       "teamUnearnedRuns": "0",
       "saveRecord": "17",
       "pickoff": "2"
@@ -483,20 +483,20 @@
         "jersey": "5",
         "profileUrl": "https://usctrojans.com/sports/baseball/roster/adrian-lopez/17997",
         "imageUrl": "https://usctrojans.com/images/2025/12/17/Lopez__Adrian.jpg",
-        "gamesPlayed": 63,
-        "gamesStarted": 62,
-        "battingAverage": 0.306,
-        "onBasePercentage": 0.385,
-        "sluggingPercentage": 0.543,
-        "ops": 0.928,
-        "atBats": 245,
+        "gamesPlayed": 64,
+        "gamesStarted": 63,
+        "battingAverage": 0.305,
+        "onBasePercentage": 0.384,
+        "sluggingPercentage": 0.538,
+        "ops": 0.922,
+        "atBats": 249,
         "runs": 67,
-        "hits": 75,
+        "hits": 76,
         "doubles": 15,
         "triples": 2,
         "homeRuns": 13,
         "runsBattedIn": 47,
-        "totalBases": 133,
+        "totalBases": 134,
         "walks": 31,
         "hitByPitch": 5,
         "strikeouts": 40,
@@ -506,10 +506,10 @@
         "sacrificeHits": 1,
         "stolenBases": 7,
         "stolenBasesAttempts": 9,
-        "putouts": 383,
+        "putouts": 392,
         "assists": 0,
         "errors": 8,
-        "plateAppearances": 300,
+        "plateAppearances": 304,
         "caughtStealing": 2,
         "pickedOff": 2
       },
@@ -521,51 +521,51 @@
         "jersey": "5",
         "profileUrl": "https://usctrojans.com/sports/baseball/roster/adrian-lopez/17997",
         "imageUrl": "https://usctrojans.com/images/2025/12/17/Lopez__Adrian.jpg",
-        "gamesPlayed": 62,
-        "gamesStarted": 61,
-        "putouts": 383,
+        "gamesPlayed": 63,
+        "gamesStarted": 62,
+        "putouts": 392,
         "assists": 41,
         "errors": 8,
-        "fieldingPercentage": 0.981,
-        "doublePlays": 30,
+        "fieldingPercentage": 0.982,
+        "doublePlays": 32,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 432
+        "totalChances": 441
       },
       "evaluation": {
-        "score": 55,
+        "score": 54,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 58.33333333333333,
-          "Power": 58.68421052631581,
-          "Contact": 53.75,
+          "On-base": 57.77777777777777,
+          "Power": 57.36842105263159,
+          "Contact": 53.124999999999986,
           "Discipline": 63.88888888888887,
           "Speed": 23.333333333333332
         },
         "summary": "Adrian Lopez gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .306",
-          "OBP .385",
-          "SLG .543"
+          "AVG .305",
+          "OBP .384",
+          "SLG .538"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".306"
+            "value": ".305"
           },
           {
             "label": "OBP",
-            "value": ".385"
+            "value": ".384"
           },
           {
             "label": "SLG",
-            "value": ".543"
+            "value": ".538"
           },
           {
             "label": "HR",
@@ -628,23 +628,23 @@
         "jersey": "6",
         "profileUrl": "https://usctrojans.com/sports/baseball/roster/dean-carpentier/17988",
         "imageUrl": "https://usctrojans.com/images/2025/12/17/Carpentier__Dean.jpg",
-        "gamesPlayed": 43,
-        "gamesStarted": 41,
-        "battingAverage": 0.252,
-        "onBasePercentage": 0.379,
-        "sluggingPercentage": 0.42,
-        "ops": 0.799,
-        "atBats": 131,
+        "gamesPlayed": 44,
+        "gamesStarted": 42,
+        "battingAverage": 0.254,
+        "onBasePercentage": 0.378,
+        "sluggingPercentage": 0.418,
+        "ops": 0.796,
+        "atBats": 134,
         "runs": 26,
-        "hits": 33,
+        "hits": 34,
         "doubles": 8,
         "triples": 1,
         "homeRuns": 4,
         "runsBattedIn": 29,
-        "totalBases": 55,
+        "totalBases": 56,
         "walks": 16,
         "hitByPitch": 12,
-        "strikeouts": 33,
+        "strikeouts": 34,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 2,
@@ -654,7 +654,7 @@
         "putouts": 126,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 175,
+        "plateAppearances": 178,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -666,51 +666,51 @@
         "jersey": "6",
         "profileUrl": "https://usctrojans.com/sports/baseball/roster/dean-carpentier/17988",
         "imageUrl": "https://usctrojans.com/images/2025/12/17/Carpentier__Dean.jpg",
-        "gamesPlayed": 37,
-        "gamesStarted": 35,
+        "gamesPlayed": 38,
+        "gamesStarted": 36,
         "putouts": 126,
-        "assists": 55,
+        "assists": 56,
         "errors": 2,
         "fieldingPercentage": 0.989,
-        "doublePlays": 13,
+        "doublePlays": 14,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 183
+        "totalChances": 184
       },
       "evaluation": {
-        "score": 34,
+        "score": 33,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 54.99999999999999,
-          "Power": 26.31578947368421,
-          "Contact": 20,
-          "Discipline": 31.649831649831643,
+          "On-base": 54.44444444444443,
+          "Power": 25.789473684210524,
+          "Contact": 21.250000000000004,
+          "Discipline": 30.065359477124176,
           "Speed": 13.333333333333334
         },
         "summary": "Dean Carpentier gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .252",
-          "OBP .379",
-          "SLG .420"
+          "AVG .254",
+          "OBP .378",
+          "SLG .418"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".252"
+            "value": ".254"
           },
           {
             "label": "OBP",
-            "value": ".379"
+            "value": ".378"
           },
           {
             "label": "SLG",
-            "value": ".420"
+            "value": ".418"
           },
           {
             "label": "HR",
@@ -773,13 +773,13 @@
         "jersey": "7",
         "profileUrl": "https://usctrojans.com/sports/baseball/roster/abbrie-covarrubias/17989",
         "imageUrl": "https://usctrojans.com/images/2025/12/17/Covarrubias__Abbrie_.jpg",
-        "gamesPlayed": 55,
-        "gamesStarted": 53,
-        "battingAverage": 0.275,
-        "onBasePercentage": 0.38,
-        "sluggingPercentage": 0.386,
-        "ops": 0.766,
-        "atBats": 207,
+        "gamesPlayed": 56,
+        "gamesStarted": 54,
+        "battingAverage": 0.27,
+        "onBasePercentage": 0.373,
+        "sluggingPercentage": 0.379,
+        "ops": 0.752,
+        "atBats": 211,
         "runs": 40,
         "hits": 57,
         "doubles": 10,
@@ -789,17 +789,17 @@
         "totalBases": 80,
         "walks": 28,
         "hitByPitch": 8,
-        "strikeouts": 37,
+        "strikeouts": 38,
         "intentionalWalks": 2,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 2,
         "sacrificeHits": 3,
         "stolenBases": 18,
         "stolenBasesAttempts": 24,
-        "putouts": 78,
+        "putouts": 79,
         "assists": 0,
         "errors": 3,
-        "plateAppearances": 278,
+        "plateAppearances": 282,
         "caughtStealing": 6,
         "pickedOff": 2
       },
@@ -811,51 +811,51 @@
         "jersey": "7",
         "profileUrl": "https://usctrojans.com/sports/baseball/roster/abbrie-covarrubias/17989",
         "imageUrl": "https://usctrojans.com/images/2025/12/17/Covarrubias__Abbrie_.jpg",
-        "gamesPlayed": 51,
-        "gamesStarted": 50,
-        "putouts": 78,
-        "assists": 113,
+        "gamesPlayed": 52,
+        "gamesStarted": 51,
+        "putouts": 79,
+        "assists": 116,
         "errors": 3,
         "fieldingPercentage": 0.985,
-        "doublePlays": 24,
+        "doublePlays": 25,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 194
+        "totalChances": 198
       },
       "evaluation": {
-        "score": 43,
+        "score": 41,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 55.55555555555555,
-          "Power": 17.368421052631582,
-          "Contact": 34.375000000000014,
-          "Discipline": 61.86186186186187,
+          "On-base": 51.66666666666665,
+          "Power": 15.526315789473685,
+          "Contact": 31.25000000000001,
+          "Discipline": 59.64912280701752,
           "Speed": 60
         },
         "summary": "Abbrie Covarrubias profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .275",
-          "OBP .380",
-          "SLG .386"
+          "AVG .270",
+          "OBP .373",
+          "SLG .379"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".275"
+            "value": ".270"
           },
           {
             "label": "OBP",
-            "value": ".380"
+            "value": ".373"
           },
           {
             "label": "SLG",
-            "value": ".386"
+            "value": ".379"
           },
           {
             "label": "HR",
@@ -918,13 +918,13 @@
         "jersey": "8",
         "profileUrl": "https://usctrojans.com/sports/baseball/roster/kevin-takeuchi/18003",
         "imageUrl": "https://usctrojans.com/images/2025/12/17/Takeuchi__Kevin.jpg",
-        "gamesPlayed": 64,
-        "gamesStarted": 64,
-        "battingAverage": 0.316,
-        "onBasePercentage": 0.421,
-        "sluggingPercentage": 0.536,
-        "ops": 0.957,
-        "atBats": 237,
+        "gamesPlayed": 65,
+        "gamesStarted": 65,
+        "battingAverage": 0.311,
+        "onBasePercentage": 0.416,
+        "sluggingPercentage": 0.527,
+        "ops": 0.943,
+        "atBats": 241,
         "runs": 65,
         "hits": 75,
         "doubles": 19,
@@ -934,17 +934,17 @@
         "totalBases": 127,
         "walks": 44,
         "hitByPitch": 4,
-        "strikeouts": 43,
+        "strikeouts": 44,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 7,
         "sacrificeHits": 1,
         "stolenBases": 14,
         "stolenBasesAttempts": 15,
-        "putouts": 148,
+        "putouts": 150,
         "assists": 0,
         "errors": 6,
-        "plateAppearances": 309,
+        "plateAppearances": 313,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -956,51 +956,51 @@
         "jersey": "8",
         "profileUrl": "https://usctrojans.com/sports/baseball/roster/kevin-takeuchi/18003",
         "imageUrl": "https://usctrojans.com/images/2025/12/17/Takeuchi__Kevin.jpg",
-        "gamesPlayed": 60,
-        "gamesStarted": 60,
-        "putouts": 148,
-        "assists": 35,
+        "gamesPlayed": 61,
+        "gamesStarted": 61,
+        "putouts": 150,
+        "assists": 36,
         "errors": 6,
-        "fieldingPercentage": 0.968,
-        "doublePlays": 8,
+        "fieldingPercentage": 0.969,
+        "doublePlays": 9,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 189
+        "totalChances": 192
       },
       "evaluation": {
-        "score": 68,
+        "score": 66,
         "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
         "components": {
-          "On-base": 78.33333333333331,
-          "Power": 56.842105263157904,
-          "Contact": 60,
-          "Discipline": 91.47286821705426,
+          "On-base": 75.55555555555553,
+          "Power": 54.47368421052633,
+          "Contact": 56.875,
+          "Discipline": 88.88888888888889,
           "Speed": 46.666666666666664
         },
         "summary": "Kevin Takeuchi profiles as a INF/OF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .316",
-          "OBP .421",
-          "SLG .536"
+          "AVG .311",
+          "OBP .416",
+          "SLG .527"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".316"
+            "value": ".311"
           },
           {
             "label": "OBP",
-            "value": ".421"
+            "value": ".416"
           },
           {
             "label": "SLG",
-            "value": ".536"
+            "value": ".527"
           },
           {
             "label": "HR",
@@ -1728,13 +1728,13 @@
         "jersey": "14",
         "profileUrl": "https://usctrojans.com/sports/baseball/roster/jack-basseer/17987",
         "imageUrl": "https://usctrojans.com/images/2025/12/17/Basseer__Jack.jpg",
-        "gamesPlayed": 52,
-        "gamesStarted": 45,
-        "battingAverage": 0.333,
-        "onBasePercentage": 0.435,
-        "sluggingPercentage": 0.615,
-        "ops": 1.05,
-        "atBats": 174,
+        "gamesPlayed": 53,
+        "gamesStarted": 46,
+        "battingAverage": 0.33,
+        "onBasePercentage": 0.433,
+        "sluggingPercentage": 0.608,
+        "ops": 1.041,
+        "atBats": 176,
         "runs": 44,
         "hits": 58,
         "doubles": 15,
@@ -1742,7 +1742,7 @@
         "homeRuns": 10,
         "runsBattedIn": 42,
         "totalBases": 107,
-        "walks": 21,
+        "walks": 22,
         "hitByPitch": 11,
         "strikeouts": 38,
         "intentionalWalks": 1,
@@ -1750,12 +1750,12 @@
         "sacrificeFlies": 1,
         "sacrificeHits": 1,
         "stolenBases": 1,
-        "stolenBasesAttempts": 1,
-        "putouts": 73,
+        "stolenBasesAttempts": 2,
+        "putouts": 77,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 209,
-        "caughtStealing": 0,
+        "plateAppearances": 214,
+        "caughtStealing": 1,
         "pickedOff": 0
       },
       "pitchingStats": null,
@@ -1766,9 +1766,9 @@
         "jersey": "14",
         "profileUrl": "https://usctrojans.com/sports/baseball/roster/jack-basseer/17987",
         "imageUrl": "https://usctrojans.com/images/2025/12/17/Basseer__Jack.jpg",
-        "gamesPlayed": 36,
-        "gamesStarted": 35,
-        "putouts": 73,
+        "gamesPlayed": 37,
+        "gamesStarted": 36,
+        "putouts": 77,
         "assists": 0,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -1778,7 +1778,7 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 73
+        "totalChances": 77
       },
       "evaluation": {
         "score": 66,
@@ -1787,30 +1787,30 @@
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 86.1111111111111,
-          "Power": 77.63157894736842,
-          "Contact": 70.625,
-          "Discipline": 39.1812865497076,
+          "On-base": 84.99999999999999,
+          "Power": 75.78947368421053,
+          "Contact": 68.75000000000001,
+          "Discipline": 42.10526315789473,
           "Speed": 3.3333333333333335
         },
         "summary": "Jack Basseer profiles as a OF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .333",
-          "OBP .435",
-          "SLG .615"
+          "AVG .330",
+          "OBP .433",
+          "SLG .608"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".333"
+            "value": ".330"
           },
           {
             "label": "OBP",
-            "value": ".435"
+            "value": ".433"
           },
           {
             "label": "SLG",
-            "value": ".615"
+            "value": ".608"
           },
           {
             "label": "HR",
@@ -1961,13 +1961,13 @@
         "jersey": "16",
         "profileUrl": "https://usctrojans.com/sports/baseball/roster/walter-urbon/18012",
         "imageUrl": "https://usctrojans.com/images/2025/12/17/Urbon__Walter.jpg",
-        "gamesPlayed": 36,
-        "gamesStarted": 15,
-        "battingAverage": 0.403,
-        "onBasePercentage": 0.431,
-        "sluggingPercentage": 0.627,
-        "ops": 1.058,
-        "atBats": 67,
+        "gamesPlayed": 37,
+        "gamesStarted": 16,
+        "battingAverage": 0.386,
+        "onBasePercentage": 0.413,
+        "sluggingPercentage": 0.6,
+        "ops": 1.013,
+        "atBats": 70,
         "runs": 13,
         "hits": 27,
         "doubles": 6,
@@ -1977,17 +1977,17 @@
         "totalBases": 42,
         "walks": 3,
         "hitByPitch": 1,
-        "strikeouts": 19,
+        "strikeouts": 21,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 1,
         "sacrificeHits": 5,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 44,
+        "putouts": 47,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 78,
+        "plateAppearances": 81,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1999,9 +1999,9 @@
         "jersey": "16",
         "profileUrl": "https://usctrojans.com/sports/baseball/roster/walter-urbon/18012",
         "imageUrl": "https://usctrojans.com/images/2025/12/17/Urbon__Walter.jpg",
-        "gamesPlayed": 20,
-        "gamesStarted": 14,
-        "putouts": 44,
+        "gamesPlayed": 21,
+        "gamesStarted": 15,
+        "putouts": 47,
         "assists": 1,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -2011,39 +2011,39 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 45
+        "totalChances": 48
       },
       "evaluation": {
-        "score": 66,
+        "score": 61,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 83.88888888888889,
-          "Power": 80.78947368421053,
+          "On-base": 73.88888888888886,
+          "Power": 73.6842105263158,
           "Contact": 100,
           "Discipline": 0,
           "Speed": 3.3333333333333335
         },
         "summary": "Walter Urbon profiles as a OF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .403",
-          "OBP .431",
-          "SLG .627"
+          "AVG .386",
+          "OBP .413",
+          "SLG .600"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".403"
+            "value": ".386"
           },
           {
             "label": "OBP",
-            "value": ".431"
+            "value": ".413"
           },
           {
             "label": "SLG",
-            "value": ".627"
+            "value": ".600"
           },
           {
             "label": "HR",
@@ -2251,13 +2251,13 @@
         "jersey": "20",
         "profileUrl": "https://usctrojans.com/sports/baseball/roster/isaac-cadena/18014",
         "imageUrl": "https://usctrojans.com/images/2025/12/17/Cadena__Isaac.jpg",
-        "gamesPlayed": 62,
-        "gamesStarted": 60,
-        "battingAverage": 0.298,
-        "onBasePercentage": 0.428,
-        "sluggingPercentage": 0.512,
-        "ops": 0.94,
-        "atBats": 215,
+        "gamesPlayed": 63,
+        "gamesStarted": 61,
+        "battingAverage": 0.294,
+        "onBasePercentage": 0.423,
+        "sluggingPercentage": 0.505,
+        "ops": 0.928,
+        "atBats": 218,
         "runs": 51,
         "hits": 64,
         "doubles": 16,
@@ -2274,10 +2274,10 @@
         "sacrificeHits": 1,
         "stolenBases": 5,
         "stolenBasesAttempts": 7,
-        "putouts": 351,
+        "putouts": 355,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 279,
+        "plateAppearances": 282,
         "caughtStealing": 2,
         "pickedOff": 4
       },
@@ -2289,9 +2289,9 @@
         "jersey": "20",
         "profileUrl": "https://usctrojans.com/sports/baseball/roster/isaac-cadena/18014",
         "imageUrl": "https://usctrojans.com/images/2025/12/17/Cadena__Isaac.jpg",
-        "gamesPlayed": 59,
-        "gamesStarted": 57,
-        "putouts": 351,
+        "gamesPlayed": 60,
+        "gamesStarted": 58,
+        "putouts": 355,
         "assists": 25,
         "errors": 2,
         "fieldingPercentage": 0.995,
@@ -2301,39 +2301,39 @@
         "stolenBasesPercentage": null,
         "passedBalls": 2,
         "catchersInterference": 0,
-        "totalChances": 378
+        "totalChances": 382
       },
       "evaluation": {
-        "score": 57,
+        "score": 55,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 82.22222222222221,
-          "Power": 50.5263157894737,
-          "Contact": 48.749999999999986,
+          "On-base": 79.44444444444443,
+          "Power": 48.684210526315795,
+          "Contact": 46.249999999999986,
           "Discipline": 51.224105461393584,
           "Speed": 16.666666666666664
         },
         "summary": "Isaac Cadena profiles as a C piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .298",
-          "OBP .428",
-          "SLG .512"
+          "AVG .294",
+          "OBP .423",
+          "SLG .505"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".298"
+            "value": ".294"
           },
           {
             "label": "OBP",
-            "value": ".428"
+            "value": ".423"
           },
           {
             "label": "SLG",
-            "value": ".512"
+            "value": ".505"
           },
           {
             "label": "HR",
@@ -2542,31 +2542,31 @@
         "jersey": "22",
         "profileUrl": "https://usctrojans.com/sports/baseball/roster/gavin-lauridsen/18016",
         "imageUrl": "https://usctrojans.com/images/2025/12/17/Lauridsen__Gavin.jpg",
-        "gamesPlayed": 25,
+        "gamesPlayed": 26,
         "gamesStarted": 2,
-        "appearances": 25,
+        "appearances": 26,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.84,
-        "whip": 1.46,
+        "earnedRunAverage": 4.73,
+        "whip": 1.49,
         "wins": 3,
         "losses": 1,
         "saves": 3,
         "shutouts": 0,
-        "inningsPitched": 44.666666666666664,
-        "inningsPitchedDisplay": "44.2",
-        "hitsAllowed": 40,
+        "inningsPitched": 45.666666666666664,
+        "inningsPitchedDisplay": "45.2",
+        "hitsAllowed": 41,
         "runsAllowed": 25,
         "earnedRunsAllowed": 24,
-        "walksAllowed": 25,
+        "walksAllowed": 27,
         "strikeouts": 40,
         "doublesAllowed": 6,
         "triplesAllowed": 0,
         "homeRunsAllowed": 5,
-        "opponentsAtBats": 162,
+        "opponentsAtBats": 164,
         "wildPitches": 4,
         "hitBatters": 5,
         "balks": 2,
-        "opponentsBattingAverage": 0.247,
+        "opponentsBattingAverage": 0.25,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -2599,40 +2599,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 36.90637720488468,
-          "Command": 12.000000000000002,
+          "Miss bats": 35.301924353019245,
+          "Command": 9.629629629629628,
           "Damage suppression": 0
         },
         "summary": "Gavin Lauridsen gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.84",
-          "WHIP 1.46",
-          "K/9 8.1"
+          "ERA 4.73",
+          "WHIP 1.49",
+          "K/9 7.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.84"
+            "value": "4.73"
           },
           {
             "label": "WHIP",
-            "value": "1.46"
+            "value": "1.49"
           },
           {
             "label": "K/9",
-            "value": "8.1"
+            "value": "7.9"
           },
           {
             "label": "BB/9",
-            "value": "5.0"
+            "value": "5.3"
           },
           {
             "label": "HR/9",
-            "value": "1.01"
+            "value": "0.99"
           },
           {
             "label": "IP",
-            "value": "44.7"
+            "value": "45.7"
           }
         ],
         "metaLine": "FR / N/A",
@@ -2805,13 +2805,13 @@
         "jersey": "24",
         "profileUrl": "https://usctrojans.com/sports/baseball/roster/augie-lopez/17998",
         "imageUrl": "https://usctrojans.com/images/2025/12/17/Lopez__Augie.jpg",
-        "gamesPlayed": 59,
-        "gamesStarted": 56,
-        "battingAverage": 0.282,
-        "onBasePercentage": 0.368,
-        "sluggingPercentage": 0.6,
-        "ops": 0.968,
-        "atBats": 220,
+        "gamesPlayed": 60,
+        "gamesStarted": 57,
+        "battingAverage": 0.278,
+        "onBasePercentage": 0.366,
+        "sluggingPercentage": 0.592,
+        "ops": 0.958,
+        "atBats": 223,
         "runs": 50,
         "hits": 62,
         "doubles": 13,
@@ -2820,8 +2820,8 @@
         "runsBattedIn": 57,
         "totalBases": 132,
         "walks": 25,
-        "hitByPitch": 6,
-        "strikeouts": 57,
+        "hitByPitch": 7,
+        "strikeouts": 58,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 2,
@@ -2831,43 +2831,43 @@
         "putouts": 0,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 258,
+        "plateAppearances": 262,
         "caughtStealing": 1,
         "pickedOff": 0
       },
       "pitchingStats": null,
       "fieldingStats": null,
       "evaluation": {
-        "score": 46,
+        "score": 45,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 48.88888888888887,
-          "Power": 73.6842105263158,
-          "Contact": 38.74999999999998,
-          "Discipline": 26.510721247563346,
+          "On-base": 47.77777777777776,
+          "Power": 71.57894736842105,
+          "Contact": 36.250000000000014,
+          "Discipline": 25.670498084291182,
           "Speed": 6.666666666666667
         },
         "summary": "Augie Lopez profiles as a C piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .282",
-          "OBP .368",
-          "SLG .600"
+          "AVG .278",
+          "OBP .366",
+          "SLG .592"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".282"
+            "value": ".278"
           },
           {
             "label": "OBP",
-            "value": ".368"
+            "value": ".366"
           },
           {
             "label": "SLG",
-            "value": ".600"
+            "value": ".592"
           },
           {
             "label": "HR",
@@ -2931,31 +2931,31 @@
         "jersey": "25",
         "profileUrl": "https://usctrojans.com/sports/baseball/roster/sax-matson/18000",
         "imageUrl": "https://usctrojans.com/images/2025/12/17/Matson__Sax.jpg",
-        "gamesPlayed": 35,
+        "gamesPlayed": 36,
         "gamesStarted": 0,
-        "appearances": 35,
+        "appearances": 36,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.64,
-        "whip": 1.21,
+        "earnedRunAverage": 4.19,
+        "whip": 1.26,
         "wins": 2,
         "losses": 2,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 42,
-        "inningsPitchedDisplay": "42.0",
-        "hitsAllowed": 30,
-        "runsAllowed": 19,
-        "earnedRunsAllowed": 17,
-        "walksAllowed": 21,
+        "inningsPitched": 43,
+        "inningsPitchedDisplay": "43.0",
+        "hitsAllowed": 32,
+        "runsAllowed": 22,
+        "earnedRunsAllowed": 20,
+        "walksAllowed": 22,
         "strikeouts": 54,
         "doublesAllowed": 6,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 1,
-        "opponentsAtBats": 151,
+        "homeRunsAllowed": 2,
+        "opponentsAtBats": 154,
         "wildPitches": 4,
-        "hitBatters": 7,
+        "hitBatters": 8,
         "balks": 0,
-        "opponentsBattingAverage": 0.199,
+        "opponentsBattingAverage": 0.208,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -2965,22 +2965,22 @@
         "jersey": "25",
         "profileUrl": "https://usctrojans.com/sports/baseball/roster/sax-matson/18000",
         "imageUrl": "https://usctrojans.com/images/2025/12/17/Matson__Sax.jpg",
-        "gamesPlayed": 12,
+        "gamesPlayed": 13,
         "gamesStarted": 0,
         "putouts": 2,
-        "assists": 6,
+        "assists": 7,
         "errors": 1,
-        "fieldingPercentage": 0.889,
+        "fieldingPercentage": 0.9,
         "doublePlays": 0,
         "stolenBasesAgainst": 5,
         "caughtStealingBy": 2,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 9
+        "totalChances": 10
       },
       "evaluation": {
-        "score": 19,
+        "score": 18,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2988,40 +2988,40 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 68.83116883116884,
-          "Command": 31.428571428571423,
+          "Miss bats": 66.384778012685,
+          "Command": 29.09090909090909,
           "Damage suppression": 0
         },
-        "summary": "Sax Matson looks like a LHP option who limits runs and misses bats and keeps traffic under control.",
+        "summary": "Sax Matson looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 3.64",
-          "WHIP 1.21",
-          "K/9 11.6"
+          "ERA 4.19",
+          "WHIP 1.26",
+          "K/9 11.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.64"
+            "value": "4.19"
           },
           {
             "label": "WHIP",
-            "value": "1.21"
+            "value": "1.26"
           },
           {
             "label": "K/9",
-            "value": "11.6"
+            "value": "11.3"
           },
           {
             "label": "BB/9",
-            "value": "4.5"
+            "value": "4.6"
           },
           {
             "label": "HR/9",
-            "value": "0.21"
+            "value": "0.42"
           },
           {
             "label": "IP",
-            "value": "42.0"
+            "value": "43.0"
           }
         ],
         "metaLine": "JR / N/A",
@@ -3073,12 +3073,12 @@
         "jersey": "26",
         "profileUrl": "https://usctrojans.com/sports/baseball/roster/henry-chabot/18018",
         "imageUrl": "https://usctrojans.com/images/2025/12/17/Chabot__Henry.jpg",
-        "gamesPlayed": 17,
+        "gamesPlayed": 18,
         "gamesStarted": 0,
-        "appearances": 17,
+        "appearances": 18,
         "gamesCompleted": 0,
         "earnedRunAverage": 2.2,
-        "whip": 1.41,
+        "whip": 1.47,
         "wins": 2,
         "losses": 0,
         "saves": 0,
@@ -3088,13 +3088,13 @@
         "hitsAllowed": 9,
         "runsAllowed": 6,
         "earnedRunsAllowed": 4,
-        "walksAllowed": 14,
+        "walksAllowed": 15,
         "strikeouts": 20,
         "doublesAllowed": 2,
         "triplesAllowed": 0,
         "homeRunsAllowed": 0,
         "opponentsAtBats": 55,
-        "wildPitches": 3,
+        "wildPitches": 4,
         "hitBatters": 3,
         "balks": 0,
         "opponentsBattingAverage": 0.164,
@@ -3131,13 +3131,13 @@
           "Run prevention": 0,
           "Traffic control": 0,
           "Miss bats": 63.821892393320965,
-          "Command": 8.571428571428571,
+          "Command": 6.66666666666667,
           "Damage suppression": 0
         },
         "summary": "Henry Chabot looks like a RHP option who limits runs and misses bats.",
         "summaryMetrics": [
           "ERA 2.20",
-          "WHIP 1.41",
+          "WHIP 1.47",
           "K/9 11.0"
         ],
         "statCards": [
@@ -3147,7 +3147,7 @@
           },
           {
             "label": "WHIP",
-            "value": "1.41"
+            "value": "1.47"
           },
           {
             "label": "K/9",
@@ -3155,7 +3155,7 @@
           },
           {
             "label": "BB/9",
-            "value": "7.7"
+            "value": "8.3"
           },
           {
             "label": "HR/9",
@@ -3357,36 +3357,56 @@
         "jersey": "28",
         "profileUrl": "https://usctrojans.com/sports/baseball/roster/garren-rizzo/18002",
         "imageUrl": "https://usctrojans.com/images/2025/12/17/Rizzo__Garren.jpg",
-        "gamesPlayed": 10,
+        "gamesPlayed": 11,
         "gamesStarted": 1,
-        "appearances": 10,
+        "appearances": 11,
         "gamesCompleted": 0,
-        "earnedRunAverage": 6.75,
+        "earnedRunAverage": 6,
         "whip": 2,
         "wins": 1,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 8,
-        "inningsPitchedDisplay": "8.0",
+        "inningsPitched": 9,
+        "inningsPitchedDisplay": "9.0",
         "hitsAllowed": 13,
         "runsAllowed": 8,
         "earnedRunsAllowed": 6,
-        "walksAllowed": 3,
+        "walksAllowed": 5,
         "strikeouts": 7,
         "doublesAllowed": 4,
         "triplesAllowed": 1,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 37,
+        "opponentsAtBats": 40,
         "wildPitches": 2,
         "hitBatters": 1,
         "balks": 1,
-        "opponentsBattingAverage": 0.351,
+        "opponentsBattingAverage": 0.325,
         "walksHits": 0
       },
-      "fieldingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "18002",
+        "name": "Garren Rizzo",
+        "normalizedName": "garren rizzo",
+        "jersey": "28",
+        "profileUrl": "https://usctrojans.com/sports/baseball/roster/garren-rizzo/18002",
+        "imageUrl": "https://usctrojans.com/images/2025/12/17/Rizzo__Garren.jpg",
+        "gamesPlayed": 1,
+        "gamesStarted": 0,
+        "putouts": 0,
+        "assists": 1,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 1
+      },
       "evaluation": {
-        "score": 11,
+        "score": 7,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3394,20 +3414,20 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 35.22727272727273,
-          "Command": 26.66666666666667,
+          "Miss bats": 27.27272727272727,
+          "Command": 7.999999999999999,
           "Damage suppression": 0
         },
         "summary": "Garren Rizzo gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 6.75",
+          "ERA 6.00",
           "WHIP 2.00",
-          "K/9 7.9"
+          "K/9 7.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.75"
+            "value": "6.00"
           },
           {
             "label": "WHIP",
@@ -3415,19 +3435,19 @@
           },
           {
             "label": "K/9",
-            "value": "7.9"
+            "value": "7.0"
           },
           {
             "label": "BB/9",
-            "value": "3.4"
+            "value": "5.0"
           },
           {
             "label": "HR/9",
-            "value": "1.13"
+            "value": "1.00"
           },
           {
             "label": "IP",
-            "value": "8.0"
+            "value": "9.0"
           }
         ],
         "metaLine": "R-SO / N/A",
@@ -3478,13 +3498,13 @@
         "jersey": "29",
         "profileUrl": "https://usctrojans.com/sports/baseball/roster/andrew-lamb/17996",
         "imageUrl": "https://usctrojans.com/images/2025/12/17/Lamb__Andrew.jpg",
-        "gamesPlayed": 56,
-        "gamesStarted": 50,
-        "battingAverage": 0.287,
-        "onBasePercentage": 0.386,
-        "sluggingPercentage": 0.596,
-        "ops": 0.982,
-        "atBats": 171,
+        "gamesPlayed": 57,
+        "gamesStarted": 51,
+        "battingAverage": 0.282,
+        "onBasePercentage": 0.381,
+        "sluggingPercentage": 0.586,
+        "ops": 0.967,
+        "atBats": 174,
         "runs": 38,
         "hits": 49,
         "doubles": 10,
@@ -3494,17 +3514,17 @@
         "totalBases": 102,
         "walks": 22,
         "hitByPitch": 9,
-        "strikeouts": 37,
+        "strikeouts": 39,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 5,
         "sacrificeHits": 3,
         "stolenBases": 2,
         "stolenBasesAttempts": 2,
-        "putouts": 72,
+        "putouts": 76,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 212,
+        "plateAppearances": 215,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -3516,51 +3536,51 @@
         "jersey": "29",
         "profileUrl": "https://usctrojans.com/sports/baseball/roster/andrew-lamb/17996",
         "imageUrl": "https://usctrojans.com/images/2025/12/17/Lamb__Andrew.jpg",
-        "gamesPlayed": 35,
-        "gamesStarted": 33,
-        "putouts": 72,
+        "gamesPlayed": 36,
+        "gamesStarted": 34,
+        "putouts": 76,
         "assists": 1,
         "errors": 1,
-        "fieldingPercentage": 0.986,
+        "fieldingPercentage": 0.987,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 74
+        "totalChances": 78
       },
       "evaluation": {
-        "score": 52,
+        "score": 49,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 58.88888888888888,
-          "Power": 72.63157894736842,
-          "Contact": 41.874999999999986,
-          "Discipline": 43.843843843843835,
+          "On-base": 56.1111111111111,
+          "Power": 70,
+          "Contact": 38.74999999999998,
+          "Discipline": 40.455840455840445,
           "Speed": 6.666666666666667
         },
         "summary": "Andrew Lamb profiles as a C/1B/OF piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .287",
-          "OBP .386",
-          "SLG .596"
+          "AVG .282",
+          "OBP .381",
+          "SLG .586"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".287"
+            "value": ".282"
           },
           {
             "label": "OBP",
-            "value": ".386"
+            "value": ".381"
           },
           {
             "label": "SLG",
-            "value": ".596"
+            "value": ".586"
           },
           {
             "label": "HR",
@@ -4371,19 +4391,19 @@
         "jersey": "36",
         "profileUrl": "https://usctrojans.com/sports/baseball/roster/rohan-kasanagottu/18022",
         "imageUrl": "https://usctrojans.com/images/2025/12/17/Kasanagottu__Rohan.jpg",
-        "gamesPlayed": 8,
+        "gamesPlayed": 9,
         "gamesStarted": 0,
-        "appearances": 8,
+        "appearances": 9,
         "gamesCompleted": 0,
         "earnedRunAverage": 0,
-        "whip": 0.82,
+        "whip": 0.84,
         "wins": 0,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 7.333333333333333,
-        "inningsPitchedDisplay": "7.1",
-        "hitsAllowed": 2,
+        "inningsPitched": 8.333333333333334,
+        "inningsPitchedDisplay": "8.1",
+        "hitsAllowed": 3,
         "runsAllowed": 0,
         "earnedRunsAllowed": 0,
         "walksAllowed": 4,
@@ -4391,11 +4411,11 @@
         "doublesAllowed": 1,
         "triplesAllowed": 0,
         "homeRunsAllowed": 0,
-        "opponentsAtBats": 24,
+        "opponentsAtBats": 27,
         "wildPitches": 1,
         "hitBatters": 1,
         "balks": 0,
-        "opponentsBattingAverage": 0.083,
+        "opponentsBattingAverage": 0.111,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -4405,10 +4425,10 @@
         "jersey": "36",
         "profileUrl": "https://usctrojans.com/sports/baseball/roster/rohan-kasanagottu/18022",
         "imageUrl": "https://usctrojans.com/images/2025/12/17/Kasanagottu__Rohan.jpg",
-        "gamesPlayed": 1,
+        "gamesPlayed": 2,
         "gamesStarted": 0,
         "putouts": 1,
-        "assists": 0,
+        "assists": 1,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
@@ -4417,10 +4437,10 @@
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 1
+        "totalChances": 2
       },
       "evaluation": {
-        "score": 26,
+        "score": 23,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4428,15 +4448,15 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 97.5206611570248,
+          "Miss bats": 81.45454545454544,
           "Command": 40,
           "Damage suppression": 0
         },
         "summary": "Rohan Kasanagottu looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
           "ERA 0.00",
-          "WHIP 0.82",
-          "K/9 14.7"
+          "WHIP 0.84",
+          "K/9 13.0"
         ],
         "statCards": [
           {
@@ -4445,15 +4465,15 @@
           },
           {
             "label": "WHIP",
-            "value": "0.82"
+            "value": "0.84"
           },
           {
             "label": "K/9",
-            "value": "14.7"
+            "value": "13.0"
           },
           {
             "label": "BB/9",
-            "value": "4.9"
+            "value": "4.3"
           },
           {
             "label": "HR/9",
@@ -4461,7 +4481,7 @@
           },
           {
             "label": "IP",
-            "value": "7.3"
+            "value": "8.3"
           }
         ],
         "metaLine": "FR / N/A",
@@ -5436,31 +5456,31 @@
         "jersey": "95",
         "profileUrl": "https://usctrojans.com/sports/baseball/roster/grant-govel/17993",
         "imageUrl": "https://usctrojans.com/images/2025/12/17/Govel__Grant.jpg",
-        "gamesPlayed": 18,
-        "gamesStarted": 17,
-        "appearances": 18,
+        "gamesPlayed": 19,
+        "gamesStarted": 18,
+        "appearances": 19,
         "gamesCompleted": 1,
-        "earnedRunAverage": 2.93,
-        "whip": 0.88,
+        "earnedRunAverage": 2.87,
+        "whip": 0.9,
         "wins": 10,
-        "losses": 2,
+        "losses": 3,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 98.33333333333333,
-        "inningsPitchedDisplay": "98.1",
-        "hitsAllowed": 72,
-        "runsAllowed": 34,
-        "earnedRunsAllowed": 32,
-        "walksAllowed": 15,
-        "strikeouts": 96,
+        "inningsPitched": 103.33333333333333,
+        "inningsPitchedDisplay": "103.1",
+        "hitsAllowed": 77,
+        "runsAllowed": 35,
+        "earnedRunsAllowed": 33,
+        "walksAllowed": 16,
+        "strikeouts": 99,
         "doublesAllowed": 13,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 13,
-        "opponentsAtBats": 360,
+        "homeRunsAllowed": 14,
+        "opponentsAtBats": 379,
         "wildPitches": 5,
-        "hitBatters": 3,
+        "hitBatters": 5,
         "balks": 0,
-        "opponentsBattingAverage": 0.2,
+        "opponentsBattingAverage": 0.203,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -5485,7 +5505,7 @@
         "totalChances": 17
       },
       "evaluation": {
-        "score": 25,
+        "score": 24,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5493,28 +5513,28 @@
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 43.51309707241911,
+          "Miss bats": 42.02346041055719,
           "Command": 100,
           "Damage suppression": 0
         },
         "summary": "Grant Govel looks like a RHP option who limits runs and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 2.93",
-          "WHIP 0.88",
-          "K/9 8.8"
+          "ERA 2.87",
+          "WHIP 0.90",
+          "K/9 8.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.93"
+            "value": "2.87"
           },
           {
             "label": "WHIP",
-            "value": "0.88"
+            "value": "0.90"
           },
           {
             "label": "K/9",
-            "value": "8.8"
+            "value": "8.6"
           },
           {
             "label": "BB/9",
@@ -5522,11 +5542,11 @@
           },
           {
             "label": "HR/9",
-            "value": "1.19"
+            "value": "1.22"
           },
           {
             "label": "IP",
-            "value": "98.3"
+            "value": "103.3"
           }
         ],
         "metaLine": "SO / N/A",
@@ -5695,29 +5715,29 @@
         "position": "INF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 55,
+        "score": 54,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Adrian Lopez gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .306",
-          "OBP .385",
-          "SLG .543"
+          "AVG .305",
+          "OBP .384",
+          "SLG .538"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".306"
+            "value": ".305"
           },
           {
             "label": "OBP",
-            "value": ".385"
+            "value": ".384"
           },
           {
             "label": "SLG",
-            "value": ".543"
+            "value": ".538"
           },
           {
             "label": "HR",
@@ -5733,9 +5753,9 @@
           }
         ],
         "components": {
-          "On-base": 58.33333333333333,
-          "Power": 58.68421052631581,
-          "Contact": 53.75,
+          "On-base": 57.77777777777777,
+          "Power": 57.36842105263159,
+          "Contact": 53.124999999999986,
           "Discipline": 63.88888888888887,
           "Speed": 23.333333333333332
         },
@@ -5764,29 +5784,29 @@
         "position": "INF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 34,
+        "score": 33,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Dean Carpentier gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .252",
-          "OBP .379",
-          "SLG .420"
+          "AVG .254",
+          "OBP .378",
+          "SLG .418"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".252"
+            "value": ".254"
           },
           {
             "label": "OBP",
-            "value": ".379"
+            "value": ".378"
           },
           {
             "label": "SLG",
-            "value": ".420"
+            "value": ".418"
           },
           {
             "label": "HR",
@@ -5802,10 +5822,10 @@
           }
         ],
         "components": {
-          "On-base": 54.99999999999999,
-          "Power": 26.31578947368421,
-          "Contact": 20,
-          "Discipline": 31.649831649831643,
+          "On-base": 54.44444444444443,
+          "Power": 25.789473684210524,
+          "Contact": 21.250000000000004,
+          "Discipline": 30.065359477124176,
           "Speed": 13.333333333333334
         },
         "metaLine": "JR / N/A",
@@ -5833,29 +5853,29 @@
         "position": "INF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 43,
+        "score": 41,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Abbrie Covarrubias profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .275",
-          "OBP .380",
-          "SLG .386"
+          "AVG .270",
+          "OBP .373",
+          "SLG .379"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".275"
+            "value": ".270"
           },
           {
             "label": "OBP",
-            "value": ".380"
+            "value": ".373"
           },
           {
             "label": "SLG",
-            "value": ".386"
+            "value": ".379"
           },
           {
             "label": "HR",
@@ -5871,10 +5891,10 @@
           }
         ],
         "components": {
-          "On-base": 55.55555555555555,
-          "Power": 17.368421052631582,
-          "Contact": 34.375000000000014,
-          "Discipline": 61.86186186186187,
+          "On-base": 51.66666666666665,
+          "Power": 15.526315789473685,
+          "Contact": 31.25000000000001,
+          "Discipline": 59.64912280701752,
           "Speed": 60
         },
         "metaLine": "JR / N/A",
@@ -5902,29 +5922,29 @@
         "position": "INF/OF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 68,
+        "score": 66,
         "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
         "summary": "Kevin Takeuchi profiles as a INF/OF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .316",
-          "OBP .421",
-          "SLG .536"
+          "AVG .311",
+          "OBP .416",
+          "SLG .527"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".316"
+            "value": ".311"
           },
           {
             "label": "OBP",
-            "value": ".421"
+            "value": ".416"
           },
           {
             "label": "SLG",
-            "value": ".536"
+            "value": ".527"
           },
           {
             "label": "HR",
@@ -5940,10 +5960,10 @@
           }
         ],
         "components": {
-          "On-base": 78.33333333333331,
-          "Power": 56.842105263157904,
-          "Contact": 60,
-          "Discipline": 91.47286821705426,
+          "On-base": 75.55555555555553,
+          "Power": 54.47368421052633,
+          "Contact": 56.875,
+          "Discipline": 88.88888888888889,
           "Speed": 46.666666666666664
         },
         "metaLine": "JR / N/A",
@@ -6322,22 +6342,22 @@
         },
         "summary": "Jack Basseer profiles as a OF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .333",
-          "OBP .435",
-          "SLG .615"
+          "AVG .330",
+          "OBP .433",
+          "SLG .608"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".333"
+            "value": ".330"
           },
           {
             "label": "OBP",
-            "value": ".435"
+            "value": ".433"
           },
           {
             "label": "SLG",
-            "value": ".615"
+            "value": ".608"
           },
           {
             "label": "HR",
@@ -6353,10 +6373,10 @@
           }
         ],
         "components": {
-          "On-base": 86.1111111111111,
-          "Power": 77.63157894736842,
-          "Contact": 70.625,
-          "Discipline": 39.1812865497076,
+          "On-base": 84.99999999999999,
+          "Power": 75.78947368421053,
+          "Contact": 68.75000000000001,
+          "Discipline": 42.10526315789473,
           "Speed": 3.3333333333333335
         },
         "metaLine": "SR / N/A",
@@ -6452,29 +6472,29 @@
         "position": "OF",
         "classYear": "FR",
         "handedness": "N/A",
-        "score": 66,
+        "score": 61,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Walter Urbon profiles as a OF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .403",
-          "OBP .431",
-          "SLG .627"
+          "AVG .386",
+          "OBP .413",
+          "SLG .600"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".403"
+            "value": ".386"
           },
           {
             "label": "OBP",
-            "value": ".431"
+            "value": ".413"
           },
           {
             "label": "SLG",
-            "value": ".627"
+            "value": ".600"
           },
           {
             "label": "HR",
@@ -6490,8 +6510,8 @@
           }
         ],
         "components": {
-          "On-base": 83.88888888888889,
-          "Power": 80.78947368421053,
+          "On-base": 73.88888888888886,
+          "Power": 73.6842105263158,
           "Contact": 100,
           "Discipline": 0,
           "Speed": 3.3333333333333335
@@ -6590,29 +6610,29 @@
         "position": "C",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 57,
+        "score": 55,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Isaac Cadena profiles as a C piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .298",
-          "OBP .428",
-          "SLG .512"
+          "AVG .294",
+          "OBP .423",
+          "SLG .505"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".298"
+            "value": ".294"
           },
           {
             "label": "OBP",
-            "value": ".428"
+            "value": ".423"
           },
           {
             "label": "SLG",
-            "value": ".512"
+            "value": ".505"
           },
           {
             "label": "HR",
@@ -6628,9 +6648,9 @@
           }
         ],
         "components": {
-          "On-base": 82.22222222222221,
-          "Power": 50.5263157894737,
-          "Contact": 48.749999999999986,
+          "On-base": 79.44444444444443,
+          "Power": 48.684210526315795,
+          "Contact": 46.249999999999986,
           "Discipline": 51.224105461393584,
           "Speed": 16.666666666666664
         },
@@ -6735,41 +6755,41 @@
         },
         "summary": "Gavin Lauridsen gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.84",
-          "WHIP 1.46",
-          "K/9 8.1"
+          "ERA 4.73",
+          "WHIP 1.49",
+          "K/9 7.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.84"
+            "value": "4.73"
           },
           {
             "label": "WHIP",
-            "value": "1.46"
+            "value": "1.49"
           },
           {
             "label": "K/9",
-            "value": "8.1"
+            "value": "7.9"
           },
           {
             "label": "BB/9",
-            "value": "5.0"
+            "value": "5.3"
           },
           {
             "label": "HR/9",
-            "value": "1.01"
+            "value": "0.99"
           },
           {
             "label": "IP",
-            "value": "44.7"
+            "value": "45.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 36.90637720488468,
-          "Command": 12.000000000000002,
+          "Miss bats": 35.301924353019245,
+          "Command": 9.629629629629628,
           "Damage suppression": 0
         },
         "metaLine": "FR / N/A",
@@ -6866,29 +6886,29 @@
         "position": "C",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 46,
+        "score": 45,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Augie Lopez profiles as a C piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .282",
-          "OBP .368",
-          "SLG .600"
+          "AVG .278",
+          "OBP .366",
+          "SLG .592"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".282"
+            "value": ".278"
           },
           {
             "label": "OBP",
-            "value": ".368"
+            "value": ".366"
           },
           {
             "label": "SLG",
-            "value": ".600"
+            "value": ".592"
           },
           {
             "label": "HR",
@@ -6904,10 +6924,10 @@
           }
         ],
         "components": {
-          "On-base": 48.88888888888887,
-          "Power": 73.6842105263158,
-          "Contact": 38.74999999999998,
-          "Discipline": 26.510721247563346,
+          "On-base": 47.77777777777776,
+          "Power": 71.57894736842105,
+          "Contact": 36.250000000000014,
+          "Discipline": 25.670498084291182,
           "Speed": 6.666666666666667
         },
         "metaLine": "SO / N/A",
@@ -6935,48 +6955,48 @@
         "position": "LHP",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 19,
+        "score": 18,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Sax Matson looks like a LHP option who limits runs and misses bats and keeps traffic under control.",
+        "summary": "Sax Matson looks like a LHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 3.64",
-          "WHIP 1.21",
-          "K/9 11.6"
+          "ERA 4.19",
+          "WHIP 1.26",
+          "K/9 11.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.64"
+            "value": "4.19"
           },
           {
             "label": "WHIP",
-            "value": "1.21"
+            "value": "1.26"
           },
           {
             "label": "K/9",
-            "value": "11.6"
+            "value": "11.3"
           },
           {
             "label": "BB/9",
-            "value": "4.5"
+            "value": "4.6"
           },
           {
             "label": "HR/9",
-            "value": "0.21"
+            "value": "0.42"
           },
           {
             "label": "IP",
-            "value": "42.0"
+            "value": "43.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 68.83116883116884,
-          "Command": 31.428571428571423,
+          "Miss bats": 66.384778012685,
+          "Command": 29.09090909090909,
           "Damage suppression": 0
         },
         "metaLine": "JR / N/A",
@@ -7012,7 +7032,7 @@
         "summary": "Henry Chabot looks like a RHP option who limits runs and misses bats.",
         "summaryMetrics": [
           "ERA 2.20",
-          "WHIP 1.41",
+          "WHIP 1.47",
           "K/9 11.0"
         ],
         "statCards": [
@@ -7022,7 +7042,7 @@
           },
           {
             "label": "WHIP",
-            "value": "1.41"
+            "value": "1.47"
           },
           {
             "label": "K/9",
@@ -7030,7 +7050,7 @@
           },
           {
             "label": "BB/9",
-            "value": "7.7"
+            "value": "8.3"
           },
           {
             "label": "HR/9",
@@ -7045,7 +7065,7 @@
           "Run prevention": 0,
           "Traffic control": 0,
           "Miss bats": 63.821892393320965,
-          "Command": 8.571428571428571,
+          "Command": 6.66666666666667,
           "Damage suppression": 0
         },
         "metaLine": "GR / N/A",
@@ -7142,21 +7162,21 @@
         "position": "RHP",
         "classYear": "R-SO",
         "handedness": "N/A",
-        "score": 11,
+        "score": 7,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Garren Rizzo gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 6.75",
+          "ERA 6.00",
           "WHIP 2.00",
-          "K/9 7.9"
+          "K/9 7.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.75"
+            "value": "6.00"
           },
           {
             "label": "WHIP",
@@ -7164,26 +7184,26 @@
           },
           {
             "label": "K/9",
-            "value": "7.9"
+            "value": "7.0"
           },
           {
             "label": "BB/9",
-            "value": "3.4"
+            "value": "5.0"
           },
           {
             "label": "HR/9",
-            "value": "1.13"
+            "value": "1.00"
           },
           {
             "label": "IP",
-            "value": "8.0"
+            "value": "9.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 35.22727272727273,
-          "Command": 26.66666666666667,
+          "Miss bats": 27.27272727272727,
+          "Command": 7.999999999999999,
           "Damage suppression": 0
         },
         "metaLine": "R-SO / N/A",
@@ -7211,29 +7231,29 @@
         "position": "C/1B/OF",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 52,
+        "score": 49,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Andrew Lamb profiles as a C/1B/OF piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .287",
-          "OBP .386",
-          "SLG .596"
+          "AVG .282",
+          "OBP .381",
+          "SLG .586"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".287"
+            "value": ".282"
           },
           {
             "label": "OBP",
-            "value": ".386"
+            "value": ".381"
           },
           {
             "label": "SLG",
-            "value": ".596"
+            "value": ".586"
           },
           {
             "label": "HR",
@@ -7249,10 +7269,10 @@
           }
         ],
         "components": {
-          "On-base": 58.88888888888888,
-          "Power": 72.63157894736842,
-          "Contact": 41.874999999999986,
-          "Discipline": 43.843843843843835,
+          "On-base": 56.1111111111111,
+          "Power": 70,
+          "Contact": 38.74999999999998,
+          "Discipline": 40.455840455840445,
           "Speed": 6.666666666666667
         },
         "metaLine": "JR / N/A",
@@ -7692,7 +7712,7 @@
         "position": "RHP",
         "classYear": "FR",
         "handedness": "N/A",
-        "score": 26,
+        "score": 23,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -7700,8 +7720,8 @@
         "summary": "Rohan Kasanagottu looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
           "ERA 0.00",
-          "WHIP 0.82",
-          "K/9 14.7"
+          "WHIP 0.84",
+          "K/9 13.0"
         ],
         "statCards": [
           {
@@ -7710,15 +7730,15 @@
           },
           {
             "label": "WHIP",
-            "value": "0.82"
+            "value": "0.84"
           },
           {
             "label": "K/9",
-            "value": "14.7"
+            "value": "13.0"
           },
           {
             "label": "BB/9",
-            "value": "4.9"
+            "value": "4.3"
           },
           {
             "label": "HR/9",
@@ -7726,13 +7746,13 @@
           },
           {
             "label": "IP",
-            "value": "7.3"
+            "value": "8.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 97.5206611570248,
+          "Miss bats": 81.45454545454544,
           "Command": 40,
           "Damage suppression": 0
         },
@@ -8243,29 +8263,29 @@
         "position": "RHP",
         "classYear": "SO",
         "handedness": "N/A",
-        "score": 25,
+        "score": 24,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Grant Govel looks like a RHP option who limits runs and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 2.93",
-          "WHIP 0.88",
-          "K/9 8.8"
+          "ERA 2.87",
+          "WHIP 0.90",
+          "K/9 8.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.93"
+            "value": "2.87"
           },
           {
             "label": "WHIP",
-            "value": "0.88"
+            "value": "0.90"
           },
           {
             "label": "K/9",
-            "value": "8.8"
+            "value": "8.6"
           },
           {
             "label": "BB/9",
@@ -8273,17 +8293,17 @@
           },
           {
             "label": "HR/9",
-            "value": "1.19"
+            "value": "1.22"
           },
           {
             "label": "IP",
-            "value": "98.3"
+            "value": "103.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 43.51309707241911,
+          "Miss bats": 42.02346041055719,
           "Command": 100,
           "Damage suppression": 0
         },

@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.north-carolina2026 = {
-  "generatedAt": "2026-06-06T10:54:52.021Z",
+  "generatedAt": "2026-06-07T10:58:38.806Z",
   "season": 2026,
   "school": {
     "slug": "north-carolina",
@@ -39,84 +39,84 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
     }
   },
   "teamSummary": {
-    "record": "48-12-1, 22-8",
+    "record": "49-12-1, 22-8",
     "battingAverage": ".294",
-    "earnedRunAverage": "3.94",
-    "wins": "48",
+    "earnedRunAverage": "3.87",
+    "wins": "49",
     "losses": "13",
     "hitting": {
-      "atBats": "2044",
-      "runsScored": "508",
-      "hits": "600",
-      "runsBattedIn": "465",
+      "atBats": "2074",
+      "runsScored": "512",
+      "hits": "609",
+      "runsBattedIn": "469",
       "doubles": "120",
       "triples": "16",
-      "homeRuns": "78",
-      "walks": "340",
-      "intentionalWalks": "4",
-      "strikeouts": "438",
-      "strikeoutsLooking": "88",
-      "hitByPitch": "108",
+      "homeRuns": "80",
+      "walks": "347",
+      "intentionalWalks": "5",
+      "strikeouts": "441",
+      "strikeoutsLooking": "89",
+      "hitByPitch": "111",
       "stolenBases": "62",
       "caughtStealing": "14",
-      "sacrificeHits": "15",
-      "sacrificeFlies": "34",
+      "sacrificeHits": "17",
+      "sacrificeFlies": "36",
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "402",
-      "flyOuts": "560",
-      "groundedIntoDoublePlay": "40",
+      "groundOuts": "410",
+      "flyOuts": "574",
+      "groundedIntoDoublePlay": "42",
       "pickedOff": "3",
-      "doublePlaysHitInto": "41",
+      "doublePlaysHitInto": "43",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1590",
-      "assists": "528",
-      "errors": "38",
+      "putouts": "1617",
+      "assists": "538",
+      "errors": "39",
       "passedBalls": "5",
       "catchersInterference": "0",
       "stolenBasesAgainst": "20",
-      "caughtStealingBy": "10",
+      "caughtStealingBy": "11",
       "involvedInDoublePlays": "56",
       "involvedInTriplePlays": "0",
-      "totalChances": "2156",
+      "totalChances": "2194",
       "fieldingPercentage": ".982"
     },
     "pitching": {
       "orderOfAppearance": "0",
-      "wins": "48",
-      "saves": "55",
+      "wins": "49",
+      "saves": "56",
       "losses": "12",
       "gamesStarted": "0",
       "gamesCompleted": "0",
-      "shutouts": "2",
+      "shutouts": "3",
       "creditForCombinedShutout": "2",
-      "inningsPitched": "530.0",
-      "hitsAllowed": "478",
+      "inningsPitched": "539.0",
+      "hitsAllowed": "480",
       "runsAllowed": "257",
       "earnedRunsAllowed": "232",
-      "walksAllowed": "256",
-      "strikeouts": "553",
-      "battersFaced": "2331",
-      "opponentAtBats": "1976",
+      "walksAllowed": "257",
+      "strikeouts": "561",
+      "battersFaced": "2362",
+      "opponentAtBats": "2005",
       "doublesAllowed": "85",
       "triplesAllowed": "8",
       "homerunsAllowed": "48",
       "wildPitches": "58",
       "balks": "3",
-      "hitBatters": "59",
-      "strikeoutsLooking": "104",
+      "hitBatters": "60",
+      "strikeoutsLooking": "106",
       "intentionalWalks": "7",
       "inheritedRunners": "119",
       "inheritedRunnersThatScored": "55",
       "sacrificeHitsAllowed": "26",
       "sacrificeFliesAllowed": "13",
       "catchersInterferenceAllowed": "0",
-      "pitches": "8517",
-      "flyouts": "463",
-      "groundouts": "477",
+      "pitches": "8634",
+      "flyouts": "472",
+      "groundouts": "486",
       "teamUnearnedRuns": "0",
       "saveRecord": "14",
       "pickoff": "0"
@@ -161,33 +161,33 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "jersey": "1",
         "profileUrl": "https://goheels.com/sports/baseball/roster/cooper-nicholson/27931",
         "imageUrl": "https://goheels.com/images/2025/10/2/Nicholson_Cooper.2026.bb.2815.jpg",
-        "gamesPlayed": 61,
-        "gamesStarted": 61,
-        "battingAverage": 0.264,
-        "onBasePercentage": 0.431,
-        "sluggingPercentage": 0.579,
-        "ops": 1.01,
-        "atBats": 197,
+        "gamesPlayed": 62,
+        "gamesStarted": 62,
+        "battingAverage": 0.265,
+        "onBasePercentage": 0.432,
+        "sluggingPercentage": 0.575,
+        "ops": 1.007,
+        "atBats": 200,
         "runs": 51,
-        "hits": 52,
+        "hits": 53,
         "doubles": 14,
         "triples": 0,
         "homeRuns": 16,
         "runsBattedIn": 48,
-        "totalBases": 114,
+        "totalBases": 115,
         "walks": 39,
-        "hitByPitch": 21,
+        "hitByPitch": 22,
         "strikeouts": 60,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 3,
-        "sacrificeHits": 0,
+        "sacrificeHits": 1,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
         "putouts": 27,
         "assists": 0,
-        "errors": 12,
-        "plateAppearances": 261,
+        "errors": 13,
+        "plateAppearances": 266,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -199,19 +199,19 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "jersey": "1",
         "profileUrl": "https://goheels.com/sports/baseball/roster/cooper-nicholson/27931",
         "imageUrl": "https://goheels.com/images/2025/10/2/Nicholson_Cooper.2026.bb.2815.jpg",
-        "gamesPlayed": 55,
-        "gamesStarted": 55,
+        "gamesPlayed": 56,
+        "gamesStarted": 56,
         "putouts": 27,
-        "assists": 101,
-        "errors": 12,
-        "fieldingPercentage": 0.914,
+        "assists": 102,
+        "errors": 13,
+        "fieldingPercentage": 0.908,
         "doublePlays": 12,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 140
+        "totalChances": 142
       },
       "evaluation": {
         "score": 57,
@@ -220,30 +220,30 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 83.88888888888889,
-          "Power": 68.15789473684211,
-          "Contact": 27.500000000000007,
+          "On-base": 84.44444444444443,
+          "Power": 67.10526315789474,
+          "Contact": 28.125000000000007,
           "Discipline": 49.99999999999999,
           "Speed": 3.3333333333333335
         },
         "summary": "Cooper Nicholson profiles as a INF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .264",
-          "OBP .431",
-          "SLG .579"
+          "AVG .265",
+          "OBP .432",
+          "SLG .575"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".264"
+            "value": ".265"
           },
           {
             "label": "OBP",
-            "value": ".431"
+            "value": ".432"
           },
           {
             "label": "SLG",
-            "value": ".579"
+            "value": ".575"
           },
           {
             "label": "HR",
@@ -306,13 +306,13 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "jersey": "2",
         "profileUrl": "https://goheels.com/sports/baseball/roster/jake-schaffner/27932",
         "imageUrl": "https://goheels.com/images/2025/10/2/Schaffner_Jake.2026.bb..2833.jpg",
-        "gamesPlayed": 60,
-        "gamesStarted": 60,
-        "battingAverage": 0.364,
-        "onBasePercentage": 0.48,
-        "sluggingPercentage": 0.577,
-        "ops": 1.057,
-        "atBats": 239,
+        "gamesPlayed": 61,
+        "gamesStarted": 61,
+        "battingAverage": 0.36,
+        "onBasePercentage": 0.477,
+        "sluggingPercentage": 0.57,
+        "ops": 1.047,
+        "atBats": 242,
         "runs": 77,
         "hits": 87,
         "doubles": 19,
@@ -321,18 +321,18 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "runsBattedIn": 45,
         "totalBases": 138,
         "walks": 41,
-        "hitByPitch": 16,
+        "hitByPitch": 17,
         "strikeouts": 27,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 5,
         "sacrificeFlies": 4,
-        "sacrificeHits": 0,
+        "sacrificeHits": 1,
         "stolenBases": 25,
         "stolenBasesAttempts": 28,
-        "putouts": 83,
+        "putouts": 85,
         "assists": 0,
         "errors": 3,
-        "plateAppearances": 331,
+        "plateAppearances": 336,
         "caughtStealing": 3,
         "pickedOff": 1
       },
@@ -344,51 +344,51 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "jersey": "2",
         "profileUrl": "https://goheels.com/sports/baseball/roster/jake-schaffner/27932",
         "imageUrl": "https://goheels.com/images/2025/10/2/Schaffner_Jake.2026.bb..2833.jpg",
-        "gamesPlayed": 57,
-        "gamesStarted": 57,
-        "putouts": 83,
-        "assists": 120,
+        "gamesPlayed": 58,
+        "gamesStarted": 58,
+        "putouts": 85,
+        "assists": 122,
         "errors": 3,
-        "fieldingPercentage": 0.985,
+        "fieldingPercentage": 0.986,
         "doublePlays": 30,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 206
+        "totalChances": 210
       },
       "evaluation": {
-        "score": 88,
+        "score": 87,
         "fit": {
           "label": "Priority",
           "className": "fit-priority"
         },
         "components": {
           "On-base": 100,
-          "Power": 67.63157894736842,
-          "Contact": 89.99999999999999,
+          "Power": 65.78947368421052,
+          "Contact": 87.49999999999999,
           "Discipline": 100,
           "Speed": 83.33333333333334
         },
         "summary": "Jake Schaffner profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .364",
-          "OBP .480",
-          "SLG .577"
+          "AVG .360",
+          "OBP .477",
+          "SLG .570"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".364"
+            "value": ".360"
           },
           {
             "label": "OBP",
-            "value": ".480"
+            "value": ".477"
           },
           {
             "label": "SLG",
-            "value": ".577"
+            "value": ".570"
           },
           {
             "label": "HR",
@@ -741,21 +741,21 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "jersey": "5",
         "profileUrl": "https://goheels.com/sports/baseball/roster/gavin-gallaher/27917",
         "imageUrl": "https://goheels.com/images/2025/10/2/Gallaher_Gavin.2026.bb.ba.2797.jpg",
-        "gamesPlayed": 61,
-        "gamesStarted": 61,
-        "battingAverage": 0.282,
-        "onBasePercentage": 0.375,
+        "gamesPlayed": 62,
+        "gamesStarted": 62,
+        "battingAverage": 0.286,
+        "onBasePercentage": 0.379,
         "sluggingPercentage": 0.49,
-        "ops": 0.865,
-        "atBats": 255,
-        "runs": 73,
-        "hits": 72,
+        "ops": 0.869,
+        "atBats": 259,
+        "runs": 74,
+        "hits": 74,
         "doubles": 13,
         "triples": 2,
         "homeRuns": 12,
         "runsBattedIn": 54,
-        "totalBases": 125,
-        "walks": 37,
+        "totalBases": 127,
+        "walks": 38,
         "hitByPitch": 4,
         "strikeouts": 50,
         "intentionalWalks": 1,
@@ -764,10 +764,10 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "sacrificeHits": 0,
         "stolenBases": 7,
         "stolenBasesAttempts": 7,
-        "putouts": 91,
+        "putouts": 93,
         "assists": 0,
         "errors": 5,
-        "plateAppearances": 308,
+        "plateAppearances": 313,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -779,10 +779,10 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "jersey": "5",
         "profileUrl": "https://goheels.com/sports/baseball/roster/gavin-gallaher/27917",
         "imageUrl": "https://goheels.com/images/2025/10/2/Gallaher_Gavin.2026.bb.ba.2797.jpg",
-        "gamesPlayed": 61,
-        "gamesStarted": 61,
-        "putouts": 91,
-        "assists": 176,
+        "gamesPlayed": 62,
+        "gamesStarted": 62,
+        "putouts": 93,
+        "assists": 180,
         "errors": 5,
         "fieldingPercentage": 0.982,
         "doublePlays": 34,
@@ -791,35 +791,35 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 272
+        "totalChances": 278
       },
       "evaluation": {
-        "score": 46,
+        "score": 48,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 52.77777777777777,
+          "On-base": 54.99999999999999,
           "Power": 44.73684210526316,
-          "Contact": 38.74999999999998,
-          "Discipline": 60,
+          "Contact": 41.24999999999998,
+          "Discipline": 62.22222222222222,
           "Speed": 23.333333333333332
         },
         "summary": "Gavin Gallaher gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .282",
-          "OBP .375",
+          "AVG .286",
+          "OBP .379",
           "SLG .490"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".282"
+            "value": ".286"
           },
           {
             "label": "OBP",
-            "value": ".375"
+            "value": ".379"
           },
           {
             "label": "SLG",
@@ -886,33 +886,33 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "jersey": "6",
         "profileUrl": "https://goheels.com/sports/baseball/roster/macon-winslow/27933",
         "imageUrl": "https://goheels.com/images/2025/10/2/Winslow_Macon.2026.bb.2731.jpg",
-        "gamesPlayed": 61,
-        "gamesStarted": 61,
-        "battingAverage": 0.295,
+        "gamesPlayed": 62,
+        "gamesStarted": 62,
+        "battingAverage": 0.293,
         "onBasePercentage": 0.426,
-        "sluggingPercentage": 0.491,
-        "ops": 0.917,
-        "atBats": 220,
+        "sluggingPercentage": 0.486,
+        "ops": 0.912,
+        "atBats": 222,
         "runs": 60,
         "hits": 65,
         "doubles": 13,
         "triples": 0,
         "homeRuns": 10,
-        "runsBattedIn": 55,
+        "runsBattedIn": 56,
         "totalBases": 108,
-        "walks": 44,
+        "walks": 46,
         "hitByPitch": 12,
-        "strikeouts": 41,
+        "strikeouts": 42,
         "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 3,
-        "sacrificeFlies": 8,
+        "groundedIntoDoublePlay": 4,
+        "sacrificeFlies": 9,
         "sacrificeHits": 2,
         "stolenBases": 0,
         "stolenBasesAttempts": 2,
         "putouts": 281,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 290,
+        "plateAppearances": 295,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -939,28 +939,28 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "totalChances": 304
       },
       "evaluation": {
-        "score": 60,
+        "score": 59,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
           "On-base": 81.11111111111109,
-          "Power": 45,
-          "Contact": 46.874999999999986,
-          "Discipline": 97.01897018970189,
+          "Power": 43.684210526315795,
+          "Contact": 45.624999999999986,
+          "Discipline": 99.47089947089948,
           "Speed": 0
         },
         "summary": "Macon Winslow profiles as a C piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .295",
+          "AVG .293",
           "OBP .426",
-          "SLG .491"
+          "SLG .486"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".295"
+            "value": ".293"
           },
           {
             "label": "OBP",
@@ -968,7 +968,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
           },
           {
             "label": "SLG",
-            "value": ".491"
+            "value": ".486"
           },
           {
             "label": "HR",
@@ -976,7 +976,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
           },
           {
             "label": "RBI",
-            "value": "55"
+            "value": "56"
           },
           {
             "label": "SB",
@@ -1176,21 +1176,21 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "jersey": "8",
         "profileUrl": "https://goheels.com/sports/baseball/roster/owen-hull/27936",
         "imageUrl": "https://goheels.com/images/2025/10/2/Hull_Owen.2026.bb.2860.jpg",
-        "gamesPlayed": 61,
-        "gamesStarted": 61,
-        "battingAverage": 0.374,
-        "onBasePercentage": 0.495,
-        "sluggingPercentage": 0.564,
-        "ops": 1.059,
-        "atBats": 227,
+        "gamesPlayed": 62,
+        "gamesStarted": 62,
+        "battingAverage": 0.381,
+        "onBasePercentage": 0.5,
+        "sluggingPercentage": 0.567,
+        "ops": 1.067,
+        "atBats": 231,
         "runs": 52,
-        "hits": 85,
+        "hits": 88,
         "doubles": 20,
         "triples": 1,
         "homeRuns": 7,
         "runsBattedIn": 79,
-        "totalBases": 128,
-        "walks": 46,
+        "totalBases": 131,
+        "walks": 47,
         "hitByPitch": 11,
         "strikeouts": 40,
         "intentionalWalks": 2,
@@ -1199,10 +1199,10 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "sacrificeHits": 0,
         "stolenBases": 17,
         "stolenBasesAttempts": 22,
-        "putouts": 132,
+        "putouts": 135,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 314,
+        "plateAppearances": 319,
         "caughtStealing": 5,
         "pickedOff": 1
       },
@@ -1214,51 +1214,51 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "jersey": "8",
         "profileUrl": "https://goheels.com/sports/baseball/roster/owen-hull/27936",
         "imageUrl": "https://goheels.com/images/2025/10/2/Hull_Owen.2026.bb.2860.jpg",
-        "gamesPlayed": 52,
-        "gamesStarted": 52,
-        "putouts": 132,
+        "gamesPlayed": 53,
+        "gamesStarted": 53,
+        "putouts": 135,
         "assists": 0,
         "errors": 1,
-        "fieldingPercentage": 0.992,
+        "fieldingPercentage": 0.993,
         "doublePlays": 1,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 133
+        "totalChances": 136
       },
       "evaluation": {
-        "score": 86,
+        "score": 87,
         "fit": {
           "label": "Priority",
           "className": "fit-priority"
         },
         "components": {
           "On-base": 100,
-          "Power": 64.21052631578947,
-          "Contact": 96.25,
+          "Power": 64.99999999999999,
+          "Contact": 100,
           "Discipline": 100,
           "Speed": 56.666666666666664
         },
         "summary": "Owen Hull profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .374",
-          "OBP .495",
-          "SLG .564"
+          "AVG .381",
+          "OBP .500",
+          "SLG .567"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".374"
+            "value": ".381"
           },
           {
             "label": "OBP",
-            "value": ".495"
+            "value": ".500"
           },
           {
             "label": "SLG",
-            "value": ".564"
+            "value": ".567"
           },
           {
             "label": "HR",
@@ -1551,13 +1551,13 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "jersey": "12",
         "profileUrl": "https://goheels.com/sports/baseball/roster/tyler-howe/27934",
         "imageUrl": "https://goheels.com/images/2025/10/2/Howe_Tyler.2026.bb.2708.jpg",
-        "gamesPlayed": 59,
-        "gamesStarted": 53,
-        "battingAverage": 0.249,
-        "onBasePercentage": 0.375,
-        "sluggingPercentage": 0.347,
-        "ops": 0.722,
-        "atBats": 193,
+        "gamesPlayed": 60,
+        "gamesStarted": 54,
+        "battingAverage": 0.245,
+        "onBasePercentage": 0.376,
+        "sluggingPercentage": 0.342,
+        "ops": 0.718,
+        "atBats": 196,
         "runs": 38,
         "hits": 48,
         "doubles": 7,
@@ -1565,19 +1565,19 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "homeRuns": 4,
         "runsBattedIn": 30,
         "totalBases": 67,
-        "walks": 28,
-        "hitByPitch": 11,
+        "walks": 29,
+        "hitByPitch": 12,
         "strikeouts": 47,
         "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 3,
+        "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 0,
         "sacrificeHits": 5,
         "stolenBases": 4,
         "stolenBasesAttempts": 4,
-        "putouts": 93,
+        "putouts": 94,
         "assists": 0,
         "errors": 5,
-        "plateAppearances": 241,
+        "plateAppearances": 246,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1589,19 +1589,19 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "jersey": "12",
         "profileUrl": "https://goheels.com/sports/baseball/roster/tyler-howe/27934",
         "imageUrl": "https://goheels.com/images/2025/10/2/Howe_Tyler.2026.bb.2708.jpg",
-        "gamesPlayed": 43,
-        "gamesStarted": 39,
-        "putouts": 93,
+        "gamesPlayed": 44,
+        "gamesStarted": 40,
+        "putouts": 94,
         "assists": 3,
         "errors": 5,
-        "fieldingPercentage": 0.95,
+        "fieldingPercentage": 0.951,
         "doublePlays": 4,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 101
+        "totalChances": 102
       },
       "evaluation": {
         "score": 29,
@@ -1610,30 +1610,30 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 52.77777777777777,
-          "Power": 7.10526315789473,
-          "Contact": 18.125,
-          "Discipline": 43.97163120567375,
+          "On-base": 53.33333333333332,
+          "Power": 5.789473684210533,
+          "Contact": 15.624999999999996,
+          "Discipline": 46.335697399527184,
           "Speed": 13.333333333333334
         },
         "summary": "Tyler Howe gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .249",
-          "OBP .375",
-          "SLG .347"
+          "AVG .245",
+          "OBP .376",
+          "SLG .342"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".249"
+            "value": ".245"
           },
           {
             "label": "OBP",
-            "value": ".375"
+            "value": ".376"
           },
           {
             "label": "SLG",
-            "value": ".347"
+            "value": ".342"
           },
           {
             "label": "HR",
@@ -2105,13 +2105,13 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "jersey": "18",
         "profileUrl": "https://goheels.com/sports/baseball/roster/carter-french/27916",
         "imageUrl": "https://goheels.com/images/2025/10/2/French_Carter.2026.bb.2866.jpg",
-        "gamesPlayed": 55,
+        "gamesPlayed": 56,
         "gamesStarted": 34,
-        "battingAverage": 0.227,
-        "onBasePercentage": 0.383,
-        "sluggingPercentage": 0.282,
-        "ops": 0.665,
-        "atBats": 110,
+        "battingAverage": 0.225,
+        "onBasePercentage": 0.38,
+        "sluggingPercentage": 0.279,
+        "ops": 0.659,
+        "atBats": 111,
         "runs": 25,
         "hits": 25,
         "doubles": 2,
@@ -2131,7 +2131,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "putouts": 78,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 155,
+        "plateAppearances": 156,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -2158,36 +2158,36 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "totalChances": 82
       },
       "evaluation": {
-        "score": 30,
+        "score": 29,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 57.22222222222222,
+          "On-base": 55.55555555555555,
           "Power": 0,
-          "Contact": 4.3750000000000036,
+          "Contact": 3.1250000000000027,
           "Discipline": 66.66666666666666,
           "Speed": 16.666666666666664
         },
         "summary": "Carter French gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .227",
-          "OBP .383",
-          "SLG .282"
+          "AVG .225",
+          "OBP .380",
+          "SLG .279"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".227"
+            "value": ".225"
           },
           {
             "label": "OBP",
-            "value": ".383"
+            "value": ".380"
           },
           {
             "label": "SLG",
-            "value": ".282"
+            "value": ".279"
           },
           {
             "label": "HR",
@@ -2537,33 +2537,33 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "jersey": "23",
         "profileUrl": "https://goheels.com/sports/baseball/roster/colin-hynek/27940",
         "imageUrl": "https://goheels.com/images/2025/10/2/Hynek_Colin.2026.bb.2722.jpg",
-        "gamesPlayed": 61,
-        "gamesStarted": 58,
-        "battingAverage": 0.272,
-        "onBasePercentage": 0.362,
-        "sluggingPercentage": 0.488,
-        "ops": 0.85,
-        "atBats": 217,
-        "runs": 45,
-        "hits": 59,
+        "gamesPlayed": 62,
+        "gamesStarted": 59,
+        "battingAverage": 0.276,
+        "onBasePercentage": 0.367,
+        "sluggingPercentage": 0.502,
+        "ops": 0.869,
+        "atBats": 221,
+        "runs": 47,
+        "hits": 61,
         "doubles": 17,
         "triples": 3,
-        "homeRuns": 8,
-        "runsBattedIn": 54,
-        "totalBases": 106,
-        "walks": 27,
+        "homeRuns": 9,
+        "runsBattedIn": 55,
+        "totalBases": 111,
+        "walks": 28,
         "hitByPitch": 6,
-        "strikeouts": 49,
+        "strikeouts": 50,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 4,
         "sacrificeHits": 0,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 274,
+        "putouts": 281,
         "assists": 0,
         "errors": 2,
-        "plateAppearances": 255,
+        "plateAppearances": 260,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2575,59 +2575,59 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "jersey": "23",
         "profileUrl": "https://goheels.com/sports/baseball/roster/colin-hynek/27940",
         "imageUrl": "https://goheels.com/images/2025/10/2/Hynek_Colin.2026.bb.2722.jpg",
-        "gamesPlayed": 29,
-        "gamesStarted": 28,
-        "putouts": 274,
-        "assists": 10,
+        "gamesPlayed": 30,
+        "gamesStarted": 29,
+        "putouts": 281,
+        "assists": 12,
         "errors": 2,
         "fieldingPercentage": 0.993,
         "doublePlays": 2,
         "stolenBasesAgainst": 10,
-        "caughtStealingBy": 2,
+        "caughtStealingBy": 3,
         "stolenBasesPercentage": null,
         "passedBalls": 2,
         "catchersInterference": 0,
-        "totalChances": 286
+        "totalChances": 295
       },
       "evaluation": {
-        "score": 38,
+        "score": 40,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 45.555555555555536,
-          "Power": 44.21052631578947,
-          "Contact": 32.500000000000014,
-          "Discipline": 39.00226757369613,
+          "On-base": 48.333333333333314,
+          "Power": 47.89473684210527,
+          "Contact": 35.000000000000014,
+          "Discipline": 40,
           "Speed": 3.3333333333333335
         },
         "summary": "Colin Hynek gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .272",
-          "OBP .362",
-          "SLG .488"
+          "AVG .276",
+          "OBP .367",
+          "SLG .502"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".272"
+            "value": ".276"
           },
           {
             "label": "OBP",
-            "value": ".362"
+            "value": ".367"
           },
           {
             "label": "SLG",
-            "value": ".488"
+            "value": ".502"
           },
           {
             "label": "HR",
-            "value": "8"
+            "value": "9"
           },
           {
             "label": "RBI",
-            "value": "54"
+            "value": "55"
           },
           {
             "label": "SB",
@@ -2824,33 +2824,33 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "jersey": "25",
         "profileUrl": "https://goheels.com/sports/baseball/roster/rom-kellis-v/27920",
         "imageUrl": "https://goheels.com/images/2025/10/2/Kellis_Rom.2026.bb.2767.jpg",
-        "gamesPlayed": 28,
-        "gamesStarted": 15,
-        "battingAverage": 0.333,
-        "onBasePercentage": 0.381,
-        "sluggingPercentage": 0.596,
-        "ops": 0.977,
-        "atBats": 57,
+        "gamesPlayed": 29,
+        "gamesStarted": 16,
+        "battingAverage": 0.322,
+        "onBasePercentage": 0.364,
+        "sluggingPercentage": 0.576,
+        "ops": 0.94,
+        "atBats": 59,
         "runs": 10,
         "hits": 19,
         "doubles": 3,
         "triples": 0,
         "homeRuns": 4,
-        "runsBattedIn": 18,
+        "runsBattedIn": 19,
         "totalBases": 34,
         "walks": 4,
         "hitByPitch": 1,
-        "strikeouts": 12,
+        "strikeouts": 13,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 1,
+        "sacrificeFlies": 2,
         "sacrificeHits": 0,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 24,
+        "putouts": 25,
         "assists": 0,
         "errors": 1,
-        "plateAppearances": 64,
+        "plateAppearances": 67,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -2862,51 +2862,51 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "jersey": "25",
         "profileUrl": "https://goheels.com/sports/baseball/roster/rom-kellis-v/27920",
         "imageUrl": "https://goheels.com/images/2025/10/2/Kellis_Rom.2026.bb.2767.jpg",
-        "gamesPlayed": 14,
-        "gamesStarted": 12,
-        "putouts": 24,
+        "gamesPlayed": 15,
+        "gamesStarted": 13,
+        "putouts": 25,
         "assists": 1,
         "errors": 1,
-        "fieldingPercentage": 0.962,
+        "fieldingPercentage": 0.963,
         "doublePlays": 1,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 26
+        "totalChances": 27
       },
       "evaluation": {
-        "score": 52,
+        "score": 46,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 56.1111111111111,
-          "Power": 72.63157894736842,
-          "Contact": 70.625,
-          "Discipline": 14.814814814814808,
+          "On-base": 46.66666666666665,
+          "Power": 67.36842105263158,
+          "Contact": 63.75000000000001,
+          "Discipline": 11.965811965811964,
           "Speed": 3.3333333333333335
         },
         "summary": "Rom Kellis V profiles as a OF/C piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .333",
-          "OBP .381",
-          "SLG .596"
+          "AVG .322",
+          "OBP .364",
+          "SLG .576"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".333"
+            "value": ".322"
           },
           {
             "label": "OBP",
-            "value": ".381"
+            "value": ".364"
           },
           {
             "label": "SLG",
-            "value": ".596"
+            "value": ".576"
           },
           {
             "label": "HR",
@@ -2914,7 +2914,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
           },
           {
             "label": "RBI",
-            "value": "18"
+            "value": "19"
           },
           {
             "label": "SB",
@@ -3379,31 +3379,31 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "jersey": "29",
         "profileUrl": "https://goheels.com/sports/baseball/roster/jason-decaro/27914",
         "imageUrl": "https://goheels.com/images/2025/10/2/DeCaro_Jason.2026.bb.2777.jpg",
-        "gamesPlayed": 16,
-        "gamesStarted": 16,
-        "appearances": 16,
-        "gamesCompleted": 1,
-        "earnedRunAverage": 2.54,
-        "whip": 1.38,
-        "wins": 10,
+        "gamesPlayed": 17,
+        "gamesStarted": 17,
+        "appearances": 17,
+        "gamesCompleted": 2,
+        "earnedRunAverage": 2.28,
+        "whip": 1.28,
+        "wins": 11,
         "losses": 2,
         "saves": 0,
-        "shutouts": 1,
-        "inningsPitched": 78,
-        "inningsPitchedDisplay": "78.0",
-        "hitsAllowed": 71,
+        "shutouts": 2,
+        "inningsPitched": 87,
+        "inningsPitchedDisplay": "87.0",
+        "hitsAllowed": 73,
         "runsAllowed": 28,
         "earnedRunsAllowed": 22,
-        "walksAllowed": 37,
-        "strikeouts": 76,
+        "walksAllowed": 38,
+        "strikeouts": 84,
         "doublesAllowed": 13,
         "triplesAllowed": 1,
         "homeRunsAllowed": 7,
-        "opponentsAtBats": 284,
+        "opponentsAtBats": 313,
         "wildPitches": 6,
-        "hitBatters": 7,
+        "hitBatters": 8,
         "balks": 1,
-        "opponentsBattingAverage": 0.25,
+        "opponentsBattingAverage": 0.233,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -3413,10 +3413,10 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "jersey": "29",
         "profileUrl": "https://goheels.com/sports/baseball/roster/jason-decaro/27914",
         "imageUrl": "https://goheels.com/images/2025/10/2/DeCaro_Jason.2026.bb.2777.jpg",
-        "gamesPlayed": 6,
-        "gamesStarted": 6,
-        "putouts": 2,
-        "assists": 5,
+        "gamesPlayed": 7,
+        "gamesStarted": 7,
+        "putouts": 3,
+        "assists": 6,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
@@ -3425,7 +3425,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 7
+        "totalChances": 9
       },
       "evaluation": {
         "score": 12,
@@ -3436,40 +3436,40 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 43.35664335664337,
-          "Command": 21.081081081081088,
+          "Miss bats": 42.6332288401254,
+          "Command": 24.210526315789476,
           "Damage suppression": 0
         },
         "summary": "Jason DeCaro looks like a RHP option who limits runs.",
         "summaryMetrics": [
-          "ERA 2.54",
-          "WHIP 1.38",
-          "K/9 8.8"
+          "ERA 2.28",
+          "WHIP 1.28",
+          "K/9 8.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.54"
+            "value": "2.28"
           },
           {
             "label": "WHIP",
-            "value": "1.38"
+            "value": "1.28"
           },
           {
             "label": "K/9",
-            "value": "8.8"
+            "value": "8.7"
           },
           {
             "label": "BB/9",
-            "value": "4.3"
+            "value": "3.9"
           },
           {
             "label": "HR/9",
-            "value": "0.81"
+            "value": "0.72"
           },
           {
             "label": "IP",
-            "value": "78.0"
+            "value": "87.0"
           }
         ],
         "metaLine": "JR / R/R",
@@ -4548,33 +4548,33 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "jersey": "44",
         "profileUrl": "https://goheels.com/sports/baseball/roster/erik-paulsen/27946",
         "imageUrl": "https://goheels.com/images/2025/10/2/Paulson_Erik.2026.bb.2716.jpg",
-        "gamesPlayed": 60,
-        "gamesStarted": 60,
+        "gamesPlayed": 61,
+        "gamesStarted": 61,
         "battingAverage": 0.3,
         "onBasePercentage": 0.426,
-        "sluggingPercentage": 0.484,
-        "ops": 0.91,
-        "atBats": 223,
-        "runs": 55,
-        "hits": 67,
+        "sluggingPercentage": 0.493,
+        "ops": 0.919,
+        "atBats": 227,
+        "runs": 56,
+        "hits": 68,
         "doubles": 11,
         "triples": 0,
-        "homeRuns": 10,
-        "runsBattedIn": 53,
-        "totalBases": 108,
-        "walks": 39,
+        "homeRuns": 11,
+        "runsBattedIn": 54,
+        "totalBases": 112,
+        "walks": 40,
         "hitByPitch": 12,
         "strikeouts": 54,
-        "intentionalWalks": 1,
+        "intentionalWalks": 2,
         "groundedIntoDoublePlay": 7,
         "sacrificeFlies": 3,
         "sacrificeHits": 0,
         "stolenBases": 1,
         "stolenBasesAttempts": 1,
-        "putouts": 445,
+        "putouts": 455,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 278,
+        "plateAppearances": 283,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -4586,9 +4586,9 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "jersey": "44",
         "profileUrl": "https://goheels.com/sports/baseball/roster/erik-paulsen/27946",
         "imageUrl": "https://goheels.com/images/2025/10/2/Paulson_Erik.2026.bb.2716.jpg",
-        "gamesPlayed": 60,
-        "gamesStarted": 60,
-        "putouts": 445,
+        "gamesPlayed": 61,
+        "gamesStarted": 61,
+        "putouts": 455,
         "assists": 29,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -4598,26 +4598,26 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 474
+        "totalChances": 484
       },
       "evaluation": {
-        "score": 55,
+        "score": 56,
         "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
         "components": {
           "On-base": 81.11111111111109,
-          "Power": 43.15789473684211,
+          "Power": 45.526315789473685,
           "Contact": 49.999999999999986,
-          "Discipline": 58.02469135802467,
+          "Discipline": 60.08230452674896,
           "Speed": 3.3333333333333335
         },
         "summary": "Erik Paulsen profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
           "AVG .300",
           "OBP .426",
-          "SLG .484"
+          "SLG .493"
         ],
         "statCards": [
           {
@@ -4630,15 +4630,15 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
           },
           {
             "label": "SLG",
-            "value": ".484"
+            "value": ".493"
           },
           {
             "label": "HR",
-            "value": "10"
+            "value": "11"
           },
           {
             "label": "RBI",
-            "value": "53"
+            "value": "54"
           },
           {
             "label": "SB",
@@ -5174,22 +5174,22 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         },
         "summary": "Cooper Nicholson profiles as a INF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .264",
-          "OBP .431",
-          "SLG .579"
+          "AVG .265",
+          "OBP .432",
+          "SLG .575"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".264"
+            "value": ".265"
           },
           {
             "label": "OBP",
-            "value": ".431"
+            "value": ".432"
           },
           {
             "label": "SLG",
-            "value": ".579"
+            "value": ".575"
           },
           {
             "label": "HR",
@@ -5205,9 +5205,9 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
           }
         ],
         "components": {
-          "On-base": 83.88888888888889,
-          "Power": 68.15789473684211,
-          "Contact": 27.500000000000007,
+          "On-base": 84.44444444444443,
+          "Power": 67.10526315789474,
+          "Contact": 28.125000000000007,
           "Discipline": 49.99999999999999,
           "Speed": 3.3333333333333335
         },
@@ -5236,29 +5236,29 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "L/R",
-        "score": 88,
+        "score": 87,
         "fit": {
           "label": "Priority",
           "className": "fit-priority"
         },
         "summary": "Jake Schaffner profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .364",
-          "OBP .480",
-          "SLG .577"
+          "AVG .360",
+          "OBP .477",
+          "SLG .570"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".364"
+            "value": ".360"
           },
           {
             "label": "OBP",
-            "value": ".480"
+            "value": ".477"
           },
           {
             "label": "SLG",
-            "value": ".577"
+            "value": ".570"
           },
           {
             "label": "HR",
@@ -5275,8 +5275,8 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         ],
         "components": {
           "On-base": 100,
-          "Power": 67.63157894736842,
-          "Contact": 89.99999999999999,
+          "Power": 65.78947368421052,
+          "Contact": 87.49999999999999,
           "Discipline": 100,
           "Speed": 83.33333333333334
         },
@@ -5443,25 +5443,25 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 46,
+        "score": 48,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Gavin Gallaher gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .282",
-          "OBP .375",
+          "AVG .286",
+          "OBP .379",
           "SLG .490"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".282"
+            "value": ".286"
           },
           {
             "label": "OBP",
-            "value": ".375"
+            "value": ".379"
           },
           {
             "label": "SLG",
@@ -5481,10 +5481,10 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
           }
         ],
         "components": {
-          "On-base": 52.77777777777777,
+          "On-base": 54.99999999999999,
           "Power": 44.73684210526316,
-          "Contact": 38.74999999999998,
-          "Discipline": 60,
+          "Contact": 41.24999999999998,
+          "Discipline": 62.22222222222222,
           "Speed": 23.333333333333332
         },
         "metaLine": "JR / R/R",
@@ -5512,21 +5512,21 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "position": "C",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 60,
+        "score": 59,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Macon Winslow profiles as a C piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .295",
+          "AVG .293",
           "OBP .426",
-          "SLG .491"
+          "SLG .486"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".295"
+            "value": ".293"
           },
           {
             "label": "OBP",
@@ -5534,7 +5534,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
           },
           {
             "label": "SLG",
-            "value": ".491"
+            "value": ".486"
           },
           {
             "label": "HR",
@@ -5542,7 +5542,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
           },
           {
             "label": "RBI",
-            "value": "55"
+            "value": "56"
           },
           {
             "label": "SB",
@@ -5551,9 +5551,9 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         ],
         "components": {
           "On-base": 81.11111111111109,
-          "Power": 45,
-          "Contact": 46.874999999999986,
-          "Discipline": 97.01897018970189,
+          "Power": 43.684210526315795,
+          "Contact": 45.624999999999986,
+          "Discipline": 99.47089947089948,
           "Speed": 0
         },
         "metaLine": "JR / R/R",
@@ -5650,29 +5650,29 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "position": "OF",
         "classYear": "JR",
         "handedness": "L/R",
-        "score": 86,
+        "score": 87,
         "fit": {
           "label": "Priority",
           "className": "fit-priority"
         },
         "summary": "Owen Hull profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .374",
-          "OBP .495",
-          "SLG .564"
+          "AVG .381",
+          "OBP .500",
+          "SLG .567"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".374"
+            "value": ".381"
           },
           {
             "label": "OBP",
-            "value": ".495"
+            "value": ".500"
           },
           {
             "label": "SLG",
-            "value": ".564"
+            "value": ".567"
           },
           {
             "label": "HR",
@@ -5689,8 +5689,8 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         ],
         "components": {
           "On-base": 100,
-          "Power": 64.21052631578947,
-          "Contact": 96.25,
+          "Power": 64.99999999999999,
+          "Contact": 100,
           "Discipline": 100,
           "Speed": 56.666666666666664
         },
@@ -5863,22 +5863,22 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         },
         "summary": "Tyler Howe gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .249",
-          "OBP .375",
-          "SLG .347"
+          "AVG .245",
+          "OBP .376",
+          "SLG .342"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".249"
+            "value": ".245"
           },
           {
             "label": "OBP",
-            "value": ".375"
+            "value": ".376"
           },
           {
             "label": "SLG",
-            "value": ".347"
+            "value": ".342"
           },
           {
             "label": "HR",
@@ -5894,10 +5894,10 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
           }
         ],
         "components": {
-          "On-base": 52.77777777777777,
-          "Power": 7.10526315789473,
-          "Contact": 18.125,
-          "Discipline": 43.97163120567375,
+          "On-base": 53.33333333333332,
+          "Power": 5.789473684210533,
+          "Contact": 15.624999999999996,
+          "Discipline": 46.335697399527184,
           "Speed": 13.333333333333334
         },
         "metaLine": "FR / L/L",
@@ -6132,29 +6132,29 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "position": "OF",
         "classYear": "SR",
         "handedness": "L/L",
-        "score": 30,
+        "score": 29,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Carter French gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .227",
-          "OBP .383",
-          "SLG .282"
+          "AVG .225",
+          "OBP .380",
+          "SLG .279"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".227"
+            "value": ".225"
           },
           {
             "label": "OBP",
-            "value": ".383"
+            "value": ".380"
           },
           {
             "label": "SLG",
-            "value": ".282"
+            "value": ".279"
           },
           {
             "label": "HR",
@@ -6170,9 +6170,9 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
           }
         ],
         "components": {
-          "On-base": 57.22222222222222,
+          "On-base": 55.55555555555555,
           "Power": 0,
-          "Contact": 4.3750000000000036,
+          "Contact": 3.1250000000000027,
           "Discipline": 66.66666666666666,
           "Speed": 16.666666666666664
         },
@@ -6339,37 +6339,37 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "position": "C",
         "classYear": "GR",
         "handedness": "R/R",
-        "score": 38,
+        "score": 40,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Colin Hynek gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .272",
-          "OBP .362",
-          "SLG .488"
+          "AVG .276",
+          "OBP .367",
+          "SLG .502"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".272"
+            "value": ".276"
           },
           {
             "label": "OBP",
-            "value": ".362"
+            "value": ".367"
           },
           {
             "label": "SLG",
-            "value": ".488"
+            "value": ".502"
           },
           {
             "label": "HR",
-            "value": "8"
+            "value": "9"
           },
           {
             "label": "RBI",
-            "value": "54"
+            "value": "55"
           },
           {
             "label": "SB",
@@ -6377,10 +6377,10 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
           }
         ],
         "components": {
-          "On-base": 45.555555555555536,
-          "Power": 44.21052631578947,
-          "Contact": 32.500000000000014,
-          "Discipline": 39.00226757369613,
+          "On-base": 48.333333333333314,
+          "Power": 47.89473684210527,
+          "Contact": 35.000000000000014,
+          "Discipline": 40,
           "Speed": 3.3333333333333335
         },
         "metaLine": "GR / R/R",
@@ -6477,29 +6477,29 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "position": "OF/C",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 52,
+        "score": 46,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Rom Kellis V profiles as a OF/C piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .333",
-          "OBP .381",
-          "SLG .596"
+          "AVG .322",
+          "OBP .364",
+          "SLG .576"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".333"
+            "value": ".322"
           },
           {
             "label": "OBP",
-            "value": ".381"
+            "value": ".364"
           },
           {
             "label": "SLG",
-            "value": ".596"
+            "value": ".576"
           },
           {
             "label": "HR",
@@ -6507,7 +6507,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
           },
           {
             "label": "RBI",
-            "value": "18"
+            "value": "19"
           },
           {
             "label": "SB",
@@ -6515,10 +6515,10 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
           }
         ],
         "components": {
-          "On-base": 56.1111111111111,
-          "Power": 72.63157894736842,
-          "Contact": 70.625,
-          "Discipline": 14.814814814814808,
+          "On-base": 46.66666666666665,
+          "Power": 67.36842105263158,
+          "Contact": 63.75000000000001,
+          "Discipline": 11.965811965811964,
           "Speed": 3.3333333333333335
         },
         "metaLine": "SR / R/R",
@@ -6760,41 +6760,41 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         },
         "summary": "Jason DeCaro looks like a RHP option who limits runs.",
         "summaryMetrics": [
-          "ERA 2.54",
-          "WHIP 1.38",
-          "K/9 8.8"
+          "ERA 2.28",
+          "WHIP 1.28",
+          "K/9 8.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.54"
+            "value": "2.28"
           },
           {
             "label": "WHIP",
-            "value": "1.38"
+            "value": "1.28"
           },
           {
             "label": "K/9",
-            "value": "8.8"
+            "value": "8.7"
           },
           {
             "label": "BB/9",
-            "value": "4.3"
+            "value": "3.9"
           },
           {
             "label": "HR/9",
-            "value": "0.81"
+            "value": "0.72"
           },
           {
             "label": "IP",
-            "value": "78.0"
+            "value": "87.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 43.35664335664337,
-          "Command": 21.081081081081088,
+          "Miss bats": 42.6332288401254,
+          "Command": 24.210526315789476,
           "Damage suppression": 0
         },
         "metaLine": "JR / R/R",
@@ -7372,16 +7372,16 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "L/L",
-        "score": 55,
+        "score": 56,
         "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
         "summary": "Erik Paulsen profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
           "AVG .300",
           "OBP .426",
-          "SLG .484"
+          "SLG .493"
         ],
         "statCards": [
           {
@@ -7394,15 +7394,15 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
           },
           {
             "label": "SLG",
-            "value": ".484"
+            "value": ".493"
           },
           {
             "label": "HR",
-            "value": "10"
+            "value": "11"
           },
           {
             "label": "RBI",
-            "value": "53"
+            "value": "54"
           },
           {
             "label": "SB",
@@ -7411,9 +7411,9 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         ],
         "components": {
           "On-base": 81.11111111111109,
-          "Power": 43.15789473684211,
+          "Power": 45.526315789473685,
           "Contact": 49.999999999999986,
-          "Discipline": 58.02469135802467,
+          "Discipline": 60.08230452674896,
           "Speed": 3.3333333333333335
         },
         "metaLine": "JR / L/L",
