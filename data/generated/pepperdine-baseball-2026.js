@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.pepperdine2026 = {
-  "generatedAt": "2026-06-09T11:24:13.688Z",
+  "generatedAt": "2026-06-10T11:28:14.543Z",
   "season": 2026,
   "school": {
     "slug": "pepperdine",
@@ -25,17 +25,40 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
     "ncaa": "NCAA school index"
   },
   "coverage": {
-    "rosterPlayers": 38,
+    "rosterPlayers": 27,
     "espnRosterPlayers": 0,
-    "playersWithHittingStats": 4,
-    "playersWithPitchingStats": 6,
-    "playersWithFieldingStats": 10,
-    "mergedPlayersWithAnyStats": 10,
+    "playersWithHittingStats": 0,
+    "playersWithPitchingStats": 0,
+    "playersWithFieldingStats": 0,
+    "mergedPlayersWithAnyStats": 0,
     "matchedEspnPlayers": 0,
     "unmatchedStatRows": {
-      "hitting": [],
-      "pitching": [],
-      "fielding": []
+      "hitting": [
+        "Daniel Patterson",
+        "Trey Dunn",
+        "Max Aude",
+        "Cal Wipf"
+      ],
+      "pitching": [
+        "Collin Valentine",
+        "Tommy Scavone",
+        "Lucien Wechsberg",
+        "Dylan Stewart",
+        "Gabe Maya",
+        "Jake Guardiancic"
+      ],
+      "fielding": [
+        "Trey Dunn",
+        "Tommy Scavone",
+        "Cal Wipf",
+        "Dylan Stewart",
+        "Gabe Maya",
+        "Jake Guardiancic",
+        "Max Aude",
+        "Daniel Patterson",
+        "Collin Valentine",
+        "Lucien Wechsberg"
+      ]
     }
   },
   "teamSummary": {
@@ -134,7 +157,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
       "role": "Pitcher",
       "position": "OF/LHP",
       "positionLong": "",
-      "classYear": "JR",
+      "classYear": "SR",
       "handedness": "TR",
       "jersey": "1",
       "hometown": "Vancouver, Wash.",
@@ -201,10 +224,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "JR / TR",
+        "metaLine": "SR / TR",
         "detailBadges": [
           "OF/LHP",
-          "JR",
+          "SR",
           "TR",
           "Pitcher"
         ],
@@ -222,7 +245,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
       "role": "Hitter",
       "position": "INF",
       "positionLong": "",
-      "classYear": "JR",
+      "classYear": "SR",
       "handedness": "TR",
       "jersey": "2",
       "hometown": "San Francisco, Calif.",
@@ -289,10 +312,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "JR / TR",
+        "metaLine": "SR / TR",
         "detailBadges": [
           "INF",
-          "JR",
+          "SR",
           "TR",
           "Rostered"
         ],
@@ -310,7 +333,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
       "role": "Hitter",
       "position": "UTL",
       "positionLong": "",
-      "classYear": "R-JR",
+      "classYear": "R-SR",
       "handedness": "SQ",
       "jersey": "3",
       "hometown": "Lafayette, Calif.",
@@ -377,10 +400,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "R-JR / SQ",
+        "metaLine": "R-SR / SQ",
         "detailBadges": [
           "UTL",
-          "R-JR",
+          "R-SR",
           "SQ",
           "Rostered"
         ],
@@ -398,7 +421,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
       "role": "Hitter",
       "position": "OF",
       "positionLong": "",
-      "classYear": "R-JR",
+      "classYear": "R-SR",
       "handedness": "1V",
       "jersey": "4",
       "hometown": "Salinas, Calif.",
@@ -465,159 +488,14 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "R-JR / 1V",
+        "metaLine": "R-SR / 1V",
         "detailBadges": [
           "OF",
-          "R-JR",
+          "R-SR",
           "1V",
           "Rostered"
         ],
         "sourceSummary": "Pepperdine Athletics roster"
-      }
-    },
-    {
-      "id": "pepperdine-5774",
-      "schoolSlug": "pepperdine",
-      "school": "Pepperdine",
-      "schoolLongName": "Pepperdine University",
-      "name": "Trey Dunn",
-      "normalizedName": "trey dunn",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "OF",
-      "positionLong": "",
-      "classYear": "GR",
-      "handedness": "TR",
-      "jersey": "5",
-      "hometown": "Highlands Ranch, Colo.",
-      "highSchool": "Mountain Vista HS",
-      "previousSchool": "Westmont",
-      "hometownHighSchool": "Highlands Ranch, Colo. / Mountain Vista HS",
-      "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/trey-dunn/5774",
-      "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/dunn.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "5774",
-      "sources": [
-        "Pepperdine Athletics roster",
-        "Pepperdine cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "5774",
-        "name": "Trey Dunn",
-        "normalizedName": "trey dunn",
-        "jersey": "5",
-        "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/trey-dunn/5774",
-        "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/dunn.jpg",
-        "gamesPlayed": 50,
-        "gamesStarted": 47,
-        "battingAverage": 0.275,
-        "onBasePercentage": 0.335,
-        "sluggingPercentage": 0.489,
-        "ops": 0.824,
-        "atBats": 178,
-        "runs": 25,
-        "hits": 49,
-        "doubles": 9,
-        "triples": 1,
-        "homeRuns": 9,
-        "runsBattedIn": 25,
-        "totalBases": 87,
-        "walks": 14,
-        "hitByPitch": 2,
-        "strikeouts": 62,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 3,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 2,
-        "stolenBasesAttempts": 3,
-        "putouts": 123,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 198,
-        "caughtStealing": 1,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "5774",
-        "name": "Trey Dunn",
-        "normalizedName": "trey dunn",
-        "jersey": "5",
-        "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/trey-dunn/5774",
-        "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/dunn.jpg",
-        "gamesPlayed": 48,
-        "gamesStarted": 45,
-        "putouts": 123,
-        "assists": 7,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 1,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 130
-      },
-      "evaluation": {
-        "score": 29,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 30.555555555555554,
-          "Power": 44.473684210526315,
-          "Contact": 34.375000000000014,
-          "Discipline": 2.8673835125448006,
-          "Speed": 6.666666666666667
-        },
-        "summary": "Trey Dunn gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .275",
-          "OBP .335",
-          "SLG .489"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".275"
-          },
-          {
-            "label": "OBP",
-            "value": ".335"
-          },
-          {
-            "label": "SLG",
-            "value": ".489"
-          },
-          {
-            "label": "HR",
-            "value": "9"
-          },
-          {
-            "label": "RBI",
-            "value": "25"
-          },
-          {
-            "label": "SB",
-            "value": "2"
-          }
-        ],
-        "metaLine": "GR / TR",
-        "detailBadges": [
-          "OF",
-          "GR",
-          "TR",
-          "Hitter"
-        ],
-        "sourceSummary": "Pepperdine Athletics roster + Pepperdine cumulative stats"
       }
     },
     {
@@ -631,7 +509,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
       "role": "Hitter",
       "position": "INF",
       "positionLong": "",
-      "classYear": "R-SO",
+      "classYear": "R-JR",
       "handedness": "1V",
       "jersey": "6",
       "hometown": "Oak Park, Calif.",
@@ -698,10 +576,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "R-SO / 1V",
+        "metaLine": "R-JR / 1V",
         "detailBadges": [
           "INF",
-          "R-SO",
+          "R-JR",
           "1V",
           "Rostered"
         ],
@@ -797,384 +675,6 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
       }
     },
     {
-      "id": "pepperdine-5785",
-      "schoolSlug": "pepperdine",
-      "school": "Pepperdine",
-      "schoolLongName": "Pepperdine University",
-      "name": "Daniel Patterson",
-      "normalizedName": "daniel patterson",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "INF",
-      "positionLong": "",
-      "classYear": "GR",
-      "handedness": "TR",
-      "jersey": "8",
-      "hometown": "Round Rock, Texas",
-      "highSchool": "Cedar Ridge HS",
-      "previousSchool": "Westmont",
-      "hometownHighSchool": "Round Rock, Texas / Cedar Ridge HS",
-      "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/daniel-patterson/5785",
-      "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/patterson.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "5785",
-      "sources": [
-        "Pepperdine Athletics roster",
-        "Pepperdine cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "5785",
-        "name": "Daniel Patterson",
-        "normalizedName": "daniel patterson",
-        "jersey": "8",
-        "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/daniel-patterson/5785",
-        "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/patterson.jpg",
-        "gamesPlayed": 51,
-        "gamesStarted": 51,
-        "battingAverage": 0.28,
-        "onBasePercentage": 0.357,
-        "sluggingPercentage": 0.502,
-        "ops": 0.859,
-        "atBats": 207,
-        "runs": 38,
-        "hits": 58,
-        "doubles": 14,
-        "triples": 1,
-        "homeRuns": 10,
-        "runsBattedIn": 27,
-        "totalBases": 104,
-        "walks": 23,
-        "hitByPitch": 3,
-        "strikeouts": 28,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 4,
-        "sacrificeFlies": 2,
-        "sacrificeHits": 0,
-        "stolenBases": 5,
-        "stolenBasesAttempts": 5,
-        "putouts": 45,
-        "assists": 0,
-        "errors": 11,
-        "plateAppearances": 240,
-        "caughtStealing": 0,
-        "pickedOff": 2
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "5785",
-        "name": "Daniel Patterson",
-        "normalizedName": "daniel patterson",
-        "jersey": "8",
-        "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/daniel-patterson/5785",
-        "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/patterson.jpg",
-        "gamesPlayed": 45,
-        "gamesStarted": 45,
-        "putouts": 45,
-        "assists": 71,
-        "errors": 11,
-        "fieldingPercentage": 0.913,
-        "doublePlays": 6,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 127
-      },
-      "evaluation": {
-        "score": 44,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 42.77777777777775,
-          "Power": 47.89473684210527,
-          "Contact": 37.500000000000014,
-          "Discipline": 69.04761904761904,
-          "Speed": 16.666666666666664
-        },
-        "summary": "Daniel Patterson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .280",
-          "OBP .357",
-          "SLG .502"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".280"
-          },
-          {
-            "label": "OBP",
-            "value": ".357"
-          },
-          {
-            "label": "SLG",
-            "value": ".502"
-          },
-          {
-            "label": "HR",
-            "value": "10"
-          },
-          {
-            "label": "RBI",
-            "value": "27"
-          },
-          {
-            "label": "SB",
-            "value": "5"
-          }
-        ],
-        "metaLine": "GR / TR",
-        "detailBadges": [
-          "INF",
-          "GR",
-          "TR",
-          "Hitter"
-        ],
-        "sourceSummary": "Pepperdine Athletics roster + Pepperdine cumulative stats"
-      }
-    },
-    {
-      "id": "pepperdine-5519",
-      "schoolSlug": "pepperdine",
-      "school": "Pepperdine",
-      "schoolLongName": "Pepperdine University",
-      "name": "Max Aude",
-      "normalizedName": "max aude",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "C/1B",
-      "positionLong": "",
-      "classYear": "SR",
-      "handedness": "1V",
-      "jersey": "9",
-      "hometown": "Woodland Hills, Calif.",
-      "highSchool": "Notre Dame HS",
-      "previousSchool": "St. John's/LA Valley College",
-      "hometownHighSchool": "Woodland Hills, Calif. / Notre Dame HS",
-      "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/max-aude/5519",
-      "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/aude.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "5519",
-      "sources": [
-        "Pepperdine Athletics roster",
-        "Pepperdine cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "5519",
-        "name": "Max Aude",
-        "normalizedName": "max aude",
-        "jersey": "9",
-        "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/max-aude/5519",
-        "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/aude.jpg",
-        "gamesPlayed": 35,
-        "gamesStarted": 27,
-        "battingAverage": 0.261,
-        "onBasePercentage": 0.33,
-        "sluggingPercentage": 0.432,
-        "ops": 0.762,
-        "atBats": 88,
-        "runs": 8,
-        "hits": 23,
-        "doubles": 7,
-        "triples": 1,
-        "homeRuns": 2,
-        "runsBattedIn": 14,
-        "totalBases": 38,
-        "walks": 6,
-        "hitByPitch": 3,
-        "strikeouts": 19,
-        "intentionalWalks": 1,
-        "groundedIntoDoublePlay": 3,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 169,
-        "assists": 0,
-        "errors": 6,
-        "plateAppearances": 97,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "5519",
-        "name": "Max Aude",
-        "normalizedName": "max aude",
-        "jersey": "9",
-        "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/max-aude/5519",
-        "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/aude.jpg",
-        "gamesPlayed": 32,
-        "gamesStarted": 27,
-        "putouts": 169,
-        "assists": 24,
-        "errors": 6,
-        "fieldingPercentage": 0.97,
-        "doublePlays": 1,
-        "stolenBasesAgainst": 44,
-        "caughtStealingBy": 8,
-        "stolenBasesPercentage": null,
-        "passedBalls": 4,
-        "catchersInterference": 0,
-        "totalChances": 199
-      },
-      "evaluation": {
-        "score": 23,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 27.777777777777775,
-          "Power": 29.47368421052632,
-          "Contact": 25.625000000000004,
-          "Discipline": 12.865497076023386,
-          "Speed": 0
-        },
-        "summary": "Max Aude gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .261",
-          "OBP .330",
-          "SLG .432"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".261"
-          },
-          {
-            "label": "OBP",
-            "value": ".330"
-          },
-          {
-            "label": "SLG",
-            "value": ".432"
-          },
-          {
-            "label": "HR",
-            "value": "2"
-          },
-          {
-            "label": "RBI",
-            "value": "14"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "SR / 1V",
-        "detailBadges": [
-          "C/1B",
-          "SR",
-          "1V",
-          "Hitter"
-        ],
-        "sourceSummary": "Pepperdine Athletics roster + Pepperdine cumulative stats"
-      }
-    },
-    {
-      "id": "pepperdine-5779",
-      "schoolSlug": "pepperdine",
-      "school": "Pepperdine",
-      "schoolLongName": "Pepperdine University",
-      "name": "Ryan Humphreys",
-      "normalizedName": "ryan humphreys",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "",
-      "classYear": "GR",
-      "handedness": "TR",
-      "jersey": "10",
-      "hometown": "Chino Hills, Calif.",
-      "highSchool": "Northview HS",
-      "previousSchool": "Westmont",
-      "hometownHighSchool": "Chino Hills, Calif. / Northview HS",
-      "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/ryan-humphreys/5779",
-      "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/humphreys.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "5779",
-      "sources": [
-        "Pepperdine Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Ryan Humphreys looks like a LHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "metaLine": "GR / TR",
-        "detailBadges": [
-          "LHP",
-          "GR",
-          "TR",
-          "Pitcher"
-        ],
-        "sourceSummary": "Pepperdine Athletics roster"
-      }
-    },
-    {
       "id": "pepperdine-5955",
       "schoolSlug": "pepperdine",
       "school": "Pepperdine",
@@ -1185,7 +685,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
       "role": "Hitter",
       "position": "1B/OF",
       "positionLong": "",
-      "classYear": "FR",
+      "classYear": "SO",
       "handedness": "HS",
       "jersey": "11",
       "hometown": "Los Angeles, Calif.",
@@ -1252,10 +752,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "FR / HS",
+        "metaLine": "SO / HS",
         "detailBadges": [
           "1B/OF",
-          "FR",
+          "SO",
           "HS",
           "Rostered"
         ],
@@ -1273,7 +773,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
       "role": "Hitter",
       "position": "C/OF",
       "positionLong": "",
-      "classYear": "R-SO",
+      "classYear": "R-JR",
       "handedness": "TR",
       "jersey": "12",
       "hometown": "San Ramon, Calif.",
@@ -1340,10 +840,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "R-SO / TR",
+        "metaLine": "R-JR / TR",
         "detailBadges": [
           "C/OF",
-          "R-SO",
+          "R-JR",
           "TR",
           "Rostered"
         ],
@@ -1361,7 +861,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
       "role": "Hitter",
       "position": "C/OF",
       "positionLong": "",
-      "classYear": "FR",
+      "classYear": "SO",
       "handedness": "HS",
       "jersey": "13",
       "hometown": "Soquel, Calif.",
@@ -1428,10 +928,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "FR / HS",
+        "metaLine": "SO / HS",
         "detailBadges": [
           "C/OF",
-          "FR",
+          "SO",
           "HS",
           "Rostered"
         ],
@@ -1449,7 +949,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
       "role": "Hitter",
       "position": "INF",
       "positionLong": "",
-      "classYear": "FR",
+      "classYear": "SO",
       "handedness": "HS",
       "jersey": "15",
       "hometown": "New Hope, Pa.",
@@ -1516,10 +1016,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "FR / HS",
+        "metaLine": "SO / HS",
         "detailBadges": [
           "INF",
-          "FR",
+          "SO",
           "HS",
           "Rostered"
         ],
@@ -1537,7 +1037,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
       "role": "Hitter",
       "position": "C",
       "positionLong": "",
-      "classYear": "FR",
+      "classYear": "SO",
       "handedness": "HS",
       "jersey": "16",
       "hometown": "Orange, Calif.",
@@ -1604,10 +1104,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "FR / HS",
+        "metaLine": "SO / HS",
         "detailBadges": [
           "C",
-          "FR",
+          "SO",
           "HS",
           "Rostered"
         ],
@@ -1625,7 +1125,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
-      "classYear": "FR",
+      "classYear": "SO",
       "handedness": "HS",
       "jersey": "18",
       "hometown": "Woodland, Calif.",
@@ -1692,10 +1192,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "FR / HS",
+        "metaLine": "SO / HS",
         "detailBadges": [
           "RHP",
-          "FR",
+          "SO",
           "HS",
           "Pitcher"
         ],
@@ -1713,7 +1213,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
-      "classYear": "JR",
+      "classYear": "SR",
       "handedness": "2V",
       "jersey": "19",
       "hometown": "Manhattan, N.Y.",
@@ -1780,10 +1280,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "JR / 2V",
+        "metaLine": "SR / 2V",
         "detailBadges": [
           "RHP",
-          "JR",
+          "SR",
           "2V",
           "Pitcher"
         ],
@@ -1801,7 +1301,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
       "role": "Pitcher",
       "position": "INF/RHP",
       "positionLong": "",
-      "classYear": "FR",
+      "classYear": "SO",
       "handedness": "HS",
       "jersey": "20",
       "hometown": "Ventura, Calif.",
@@ -1868,10 +1368,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "FR / HS",
+        "metaLine": "SO / HS",
         "detailBadges": [
           "INF/RHP",
-          "FR",
+          "SO",
           "HS",
           "Pitcher"
         ],
@@ -1889,7 +1389,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
       "role": "Pitcher",
       "position": "OF/LHP",
       "positionLong": "",
-      "classYear": "FR",
+      "classYear": "SO",
       "handedness": "HS",
       "jersey": "21",
       "hometown": "Pleasanton, Calif.",
@@ -1956,156 +1456,14 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "FR / HS",
+        "metaLine": "SO / HS",
         "detailBadges": [
           "OF/LHP",
-          "FR",
+          "SO",
           "HS",
           "Pitcher"
         ],
         "sourceSummary": "Pepperdine Athletics roster"
-      }
-    },
-    {
-      "id": "pepperdine-5543",
-      "schoolSlug": "pepperdine",
-      "school": "Pepperdine",
-      "schoolLongName": "Pepperdine University",
-      "name": "Collin Valentine",
-      "normalizedName": "collin valentine",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "",
-      "classYear": "R-JR",
-      "handedness": "2V",
-      "jersey": "22",
-      "hometown": "Dallas, Texas",
-      "highSchool": "Highland Park",
-      "previousSchool": "Texas",
-      "hometownHighSchool": "Dallas, Texas / Highland Park",
-      "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/collin-valentine/5543",
-      "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/pace.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "5543",
-      "sources": [
-        "Pepperdine Athletics roster",
-        "Pepperdine cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "5543",
-        "name": "Collin Valentine",
-        "normalizedName": "collin valentine",
-        "jersey": "22",
-        "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/collin-valentine/5543",
-        "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/pace.jpg",
-        "gamesPlayed": 15,
-        "gamesStarted": 14,
-        "appearances": 15,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 3.86,
-        "whip": 1.49,
-        "wins": 3,
-        "losses": 6,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 67.66666666666667,
-        "inningsPitchedDisplay": "67.2",
-        "hitsAllowed": 76,
-        "runsAllowed": 35,
-        "earnedRunsAllowed": 29,
-        "walksAllowed": 25,
-        "strikeouts": 30,
-        "doublesAllowed": 12,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 3,
-        "opponentsAtBats": 260,
-        "wildPitches": 1,
-        "hitBatters": 8,
-        "balks": 2,
-        "opponentsBattingAverage": 0.292,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "5543",
-        "name": "Collin Valentine",
-        "normalizedName": "collin valentine",
-        "jersey": "22",
-        "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/collin-valentine/5543",
-        "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/pace.jpg",
-        "gamesPlayed": 11,
-        "gamesStarted": 11,
-        "putouts": 1,
-        "assists": 15,
-        "errors": 2,
-        "fieldingPercentage": 0.889,
-        "doublePlays": 1,
-        "stolenBasesAgainst": 4,
-        "caughtStealingBy": 1,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 18
-      },
-      "evaluation": {
-        "score": 1,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 3.9999999999999996,
-          "Damage suppression": 0
-        },
-        "summary": "Collin Valentine looks like a LHP option who limits runs.",
-        "summaryMetrics": [
-          "ERA 3.86",
-          "WHIP 1.49",
-          "K/9 4.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.86"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.49"
-          },
-          {
-            "label": "K/9",
-            "value": "4.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.3"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.40"
-          },
-          {
-            "label": "IP",
-            "value": "67.7"
-          }
-        ],
-        "metaLine": "R-JR / 2V",
-        "detailBadges": [
-          "LHP",
-          "R-JR",
-          "2V",
-          "Pitcher"
-        ],
-        "sourceSummary": "Pepperdine Athletics roster + Pepperdine cumulative stats"
       }
     },
     {
@@ -2119,7 +1477,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
       "role": "Hitter",
       "position": "OF",
       "positionLong": "",
-      "classYear": "R-FR",
+      "classYear": "R-SO",
       "handedness": "TR",
       "jersey": "23",
       "hometown": "Malibu, Calif.",
@@ -2186,156 +1544,14 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "R-FR / TR",
+        "metaLine": "R-SO / TR",
         "detailBadges": [
           "OF",
-          "R-FR",
+          "R-SO",
           "TR",
           "Rostered"
         ],
         "sourceSummary": "Pepperdine Athletics roster"
-      }
-    },
-    {
-      "id": "pepperdine-5651",
-      "schoolSlug": "pepperdine",
-      "school": "Pepperdine",
-      "schoolLongName": "Pepperdine University",
-      "name": "Tommy Scavone",
-      "normalizedName": "tommy scavone",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "GR",
-      "handedness": "3V",
-      "jersey": "24",
-      "hometown": "Pleasanton, Calif.",
-      "highSchool": "Foothill HS",
-      "previousSchool": "Cal State East Bay",
-      "hometownHighSchool": "Pleasanton, Calif. / Foothill HS",
-      "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/tommy-scavone/5651",
-      "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/scavone.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "5651",
-      "sources": [
-        "Pepperdine Athletics roster",
-        "Pepperdine cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "5651",
-        "name": "Tommy Scavone",
-        "normalizedName": "tommy scavone",
-        "jersey": "24",
-        "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/tommy-scavone/5651",
-        "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/scavone.jpg",
-        "gamesPlayed": 14,
-        "gamesStarted": 13,
-        "appearances": 14,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 4.04,
-        "whip": 1.15,
-        "wins": 5,
-        "losses": 3,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 71.33333333333333,
-        "inningsPitchedDisplay": "71.1",
-        "hitsAllowed": 63,
-        "runsAllowed": 34,
-        "earnedRunsAllowed": 32,
-        "walksAllowed": 19,
-        "strikeouts": 60,
-        "doublesAllowed": 18,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 6,
-        "opponentsAtBats": 259,
-        "wildPitches": 5,
-        "hitBatters": 13,
-        "balks": 0,
-        "opponentsBattingAverage": 0.243,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "5651",
-        "name": "Tommy Scavone",
-        "normalizedName": "tommy scavone",
-        "jersey": "24",
-        "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/tommy-scavone/5651",
-        "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/scavone.jpg",
-        "gamesPlayed": 9,
-        "gamesStarted": 9,
-        "putouts": 6,
-        "assists": 8,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 4,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 14
-      },
-      "evaluation": {
-        "score": 13,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 32.4553950722175,
-          "Command": 43.15789473684211,
-          "Damage suppression": 0
-        },
-        "summary": "Tommy Scavone looks like a RHP option who throws enough strikes and keeps traffic under control.",
-        "summaryMetrics": [
-          "ERA 4.04",
-          "WHIP 1.15",
-          "K/9 7.6"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.04"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.15"
-          },
-          {
-            "label": "K/9",
-            "value": "7.6"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.4"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.76"
-          },
-          {
-            "label": "IP",
-            "value": "71.3"
-          }
-        ],
-        "metaLine": "GR / 3V",
-        "detailBadges": [
-          "RHP",
-          "GR",
-          "3V",
-          "Pitcher"
-        ],
-        "sourceSummary": "Pepperdine Athletics roster + Pepperdine cumulative stats"
       }
     },
     {
@@ -2349,7 +1565,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
-      "classYear": "SO",
+      "classYear": "JR",
       "handedness": "1V",
       "jersey": "25",
       "hometown": "Ladera Ranch, Calif.",
@@ -2416,10 +1632,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "SO / 1V",
+        "metaLine": "JR / 1V",
         "detailBadges": [
           "RHP",
-          "SO",
+          "JR",
           "1V",
           "Pitcher"
         ],
@@ -2437,7 +1653,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
       "role": "Hitter",
       "position": "INF",
       "positionLong": "",
-      "classYear": "FR",
+      "classYear": "SO",
       "handedness": "HS",
       "jersey": "26",
       "hometown": "Bend, Ore.",
@@ -2504,10 +1720,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "FR / HS",
+        "metaLine": "SO / HS",
         "detailBadges": [
           "INF",
-          "FR",
+          "SO",
           "HS",
           "Rostered"
         ],
@@ -2525,7 +1741,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
-      "classYear": "R-SO",
+      "classYear": "R-JR",
       "handedness": "2V",
       "jersey": "28",
       "hometown": "Huntington Beach, Calif.",
@@ -2592,156 +1808,14 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "R-SO / 2V",
+        "metaLine": "R-JR / 2V",
         "detailBadges": [
           "RHP",
-          "R-SO",
+          "R-JR",
           "2V",
           "Pitcher"
         ],
         "sourceSummary": "Pepperdine Athletics roster"
-      }
-    },
-    {
-      "id": "pepperdine-5791",
-      "schoolSlug": "pepperdine",
-      "school": "Pepperdine",
-      "schoolLongName": "Pepperdine University",
-      "name": "Jake Guardiancic",
-      "normalizedName": "jake guardiancic",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "GR",
-      "handedness": "TR",
-      "jersey": "30",
-      "hometown": "Brentwood, Calif.",
-      "highSchool": "Heritage HS",
-      "previousSchool": "California",
-      "hometownHighSchool": "Brentwood, Calif. / Heritage HS",
-      "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/jake-guardiancic/5791",
-      "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/guardiancic.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "5791",
-      "sources": [
-        "Pepperdine Athletics roster",
-        "Pepperdine cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "5791",
-        "name": "Jake Guardiancic",
-        "normalizedName": "jake guardiancic",
-        "jersey": "30",
-        "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/jake-guardiancic/5791",
-        "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/guardiancic.jpg",
-        "gamesPlayed": 8,
-        "gamesStarted": 0,
-        "appearances": 8,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 14.73,
-        "whip": 2.59,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 7.333333333333333,
-        "inningsPitchedDisplay": "7.1",
-        "hitsAllowed": 13,
-        "runsAllowed": 14,
-        "earnedRunsAllowed": 12,
-        "walksAllowed": 6,
-        "strikeouts": 4,
-        "doublesAllowed": 5,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 1,
-        "opponentsAtBats": 30,
-        "wildPitches": 0,
-        "hitBatters": 4,
-        "balks": 0,
-        "opponentsBattingAverage": 0.433,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "5791",
-        "name": "Jake Guardiancic",
-        "normalizedName": "jake guardiancic",
-        "jersey": "30",
-        "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/jake-guardiancic/5791",
-        "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/guardiancic.jpg",
-        "gamesPlayed": 1,
-        "gamesStarted": 0,
-        "putouts": 0,
-        "assists": 1,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 2,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 1
-      },
-      "evaluation": {
-        "score": 2,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 8.264462809917356,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Jake Guardiancic gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 14.73",
-          "WHIP 2.59",
-          "K/9 4.9"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "14.73"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.59"
-          },
-          {
-            "label": "K/9",
-            "value": "4.9"
-          },
-          {
-            "label": "BB/9",
-            "value": "7.4"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.23"
-          },
-          {
-            "label": "IP",
-            "value": "7.3"
-          }
-        ],
-        "metaLine": "GR / TR",
-        "detailBadges": [
-          "RHP",
-          "GR",
-          "TR",
-          "Pitcher"
-        ],
-        "sourceSummary": "Pepperdine Athletics roster + Pepperdine cumulative stats"
       }
     },
     {
@@ -2755,7 +1829,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
       "role": "Hitter",
       "position": "INF",
       "positionLong": "",
-      "classYear": "SO",
+      "classYear": "JR",
       "handedness": "1V",
       "jersey": "31",
       "hometown": "Monument, Colo.",
@@ -2822,10 +1896,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "SO / 1V",
+        "metaLine": "JR / 1V",
         "detailBadges": [
           "INF",
-          "SO",
+          "JR",
           "1V",
           "Rostered"
         ],
@@ -2843,7 +1917,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
-      "classYear": "FR",
+      "classYear": "SO",
       "handedness": "HS",
       "jersey": "32",
       "hometown": "Redondo Beach, Calif.",
@@ -2910,10 +1984,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "FR / HS",
+        "metaLine": "SO / HS",
         "detailBadges": [
           "RHP",
-          "FR",
+          "SO",
           "HS",
           "Pitcher"
         ],
@@ -2931,7 +2005,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
       "role": "Pitcher",
       "position": "LHP",
       "positionLong": "",
-      "classYear": "SO",
+      "classYear": "JR",
       "handedness": "TR",
       "jersey": "33",
       "hometown": "Irvine, Calif.",
@@ -2998,10 +2072,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "SO / TR",
+        "metaLine": "JR / TR",
         "detailBadges": [
           "LHP",
-          "SO",
+          "JR",
           "TR",
           "Pitcher"
         ],
@@ -3019,7 +2093,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
-      "classYear": "SO",
+      "classYear": "JR",
       "handedness": "1V",
       "jersey": "34",
       "hometown": "Toluca Lake, Calif.",
@@ -3086,298 +2160,14 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "SO / 1V",
+        "metaLine": "JR / 1V",
         "detailBadges": [
           "RHP",
-          "SO",
+          "JR",
           "1V",
           "Pitcher"
         ],
         "sourceSummary": "Pepperdine Athletics roster"
-      }
-    },
-    {
-      "id": "pepperdine-5782",
-      "schoolSlug": "pepperdine",
-      "school": "Pepperdine",
-      "schoolLongName": "Pepperdine University",
-      "name": "Gabe Maya",
-      "normalizedName": "gabe maya",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "",
-      "classYear": "GR",
-      "handedness": "TR",
-      "jersey": "36",
-      "hometown": "El Dorado Hills, Calif.",
-      "highSchool": "Christian Brothers HS",
-      "previousSchool": "LMU",
-      "hometownHighSchool": "El Dorado Hills, Calif. / Christian Brothers HS",
-      "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/gabe-maya/5782",
-      "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/maya.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "5782",
-      "sources": [
-        "Pepperdine Athletics roster",
-        "Pepperdine cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "5782",
-        "name": "Gabe Maya",
-        "normalizedName": "gabe maya",
-        "jersey": "36",
-        "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/gabe-maya/5782",
-        "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/maya.jpg",
-        "gamesPlayed": 19,
-        "gamesStarted": 0,
-        "appearances": 19,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 7.02,
-        "whip": 1.92,
-        "wins": 0,
-        "losses": 1,
-        "saves": 1,
-        "shutouts": 0,
-        "inningsPitched": 16.666666666666668,
-        "inningsPitchedDisplay": "16.2",
-        "hitsAllowed": 28,
-        "runsAllowed": 17,
-        "earnedRunsAllowed": 13,
-        "walksAllowed": 4,
-        "strikeouts": 8,
-        "doublesAllowed": 6,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 71,
-        "wildPitches": 1,
-        "hitBatters": 4,
-        "balks": 0,
-        "opponentsBattingAverage": 0.394,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "5782",
-        "name": "Gabe Maya",
-        "normalizedName": "gabe maya",
-        "jersey": "36",
-        "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/gabe-maya/5782",
-        "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/maya.jpg",
-        "gamesPlayed": 4,
-        "gamesStarted": 0,
-        "putouts": 0,
-        "assists": 4,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 4
-      },
-      "evaluation": {
-        "score": 4,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 2.9090909090909034,
-          "Command": 20,
-          "Damage suppression": 0
-        },
-        "summary": "Gabe Maya looks like a LHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA 7.02",
-          "WHIP 1.92",
-          "K/9 4.3"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "7.02"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.92"
-          },
-          {
-            "label": "K/9",
-            "value": "4.3"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.2"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.08"
-          },
-          {
-            "label": "IP",
-            "value": "16.7"
-          }
-        ],
-        "metaLine": "GR / TR",
-        "detailBadges": [
-          "LHP",
-          "GR",
-          "TR",
-          "Pitcher"
-        ],
-        "sourceSummary": "Pepperdine Athletics roster + Pepperdine cumulative stats"
-      }
-    },
-    {
-      "id": "pepperdine-5544",
-      "schoolSlug": "pepperdine",
-      "school": "Pepperdine",
-      "schoolLongName": "Pepperdine University",
-      "name": "Lucien Wechsberg",
-      "normalizedName": "lucien wechsberg",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "GR",
-      "handedness": "1V",
-      "jersey": "37",
-      "hometown": "Camarillo, Calif.",
-      "highSchool": "Adolfo Camarillo HS",
-      "previousSchool": "Oxnard College / Westmont",
-      "hometownHighSchool": "Camarillo, Calif. / Adolfo Camarillo HS",
-      "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/lucien-wechsberg/5544",
-      "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/wechsberg.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "5544",
-      "sources": [
-        "Pepperdine Athletics roster",
-        "Pepperdine cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "5544",
-        "name": "Lucien Wechsberg",
-        "normalizedName": "lucien wechsberg",
-        "jersey": "37",
-        "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/lucien-wechsberg/5544",
-        "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/wechsberg.jpg",
-        "gamesPlayed": 25,
-        "gamesStarted": 0,
-        "appearances": 25,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 4.66,
-        "whip": 1.52,
-        "wins": 3,
-        "losses": 3,
-        "saves": 10,
-        "shutouts": 0,
-        "inningsPitched": 29,
-        "inningsPitchedDisplay": "29.0",
-        "hitsAllowed": 31,
-        "runsAllowed": 22,
-        "earnedRunsAllowed": 15,
-        "walksAllowed": 13,
-        "strikeouts": 30,
-        "doublesAllowed": 6,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 1,
-        "opponentsAtBats": 113,
-        "wildPitches": 3,
-        "hitBatters": 2,
-        "balks": 0,
-        "opponentsBattingAverage": 0.274,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "5544",
-        "name": "Lucien Wechsberg",
-        "normalizedName": "lucien wechsberg",
-        "jersey": "37",
-        "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/lucien-wechsberg/5544",
-        "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/wechsberg.jpg",
-        "gamesPlayed": 7,
-        "gamesStarted": 0,
-        "putouts": 3,
-        "assists": 3,
-        "errors": 1,
-        "fieldingPercentage": 0.857,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 1,
-        "caughtStealingBy": 1,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 7
-      },
-      "evaluation": {
-        "score": 14,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 48.275862068965516,
-          "Command": 26.15384615384615,
-          "Damage suppression": 0
-        },
-        "summary": "Lucien Wechsberg looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 4.66",
-          "WHIP 1.52",
-          "K/9 9.3"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.66"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.52"
-          },
-          {
-            "label": "K/9",
-            "value": "9.3"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.31"
-          },
-          {
-            "label": "IP",
-            "value": "29.0"
-          }
-        ],
-        "metaLine": "GR / 1V",
-        "detailBadges": [
-          "RHP",
-          "GR",
-          "1V",
-          "Pitcher"
-        ],
-        "sourceSummary": "Pepperdine Athletics roster + Pepperdine cumulative stats"
       }
     },
     {
@@ -3391,7 +2181,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
       "role": "Hitter",
       "position": "1B/OF",
       "positionLong": "",
-      "classYear": "SO",
+      "classYear": "JR",
       "handedness": "1V",
       "jersey": "39",
       "hometown": "Long Beach, Calif.",
@@ -3458,159 +2248,14 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "SO / 1V",
+        "metaLine": "JR / 1V",
         "detailBadges": [
           "1B/OF",
-          "SO",
+          "JR",
           "1V",
           "Rostered"
         ],
         "sourceSummary": "Pepperdine Athletics roster"
-      }
-    },
-    {
-      "id": "pepperdine-5545",
-      "schoolSlug": "pepperdine",
-      "school": "Pepperdine",
-      "schoolLongName": "Pepperdine University",
-      "name": "Cal Wipf",
-      "normalizedName": "cal wipf",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "INF",
-      "positionLong": "",
-      "classYear": "R-SO",
-      "handedness": "1V",
-      "jersey": "42",
-      "hometown": "Santa Barbara, Calif.",
-      "highSchool": "Santa Barbara HS",
-      "previousSchool": "",
-      "hometownHighSchool": "Santa Barbara, Calif. / Santa Barbara HS",
-      "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/cal-wipf/5545",
-      "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/wipf.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "5545",
-      "sources": [
-        "Pepperdine Athletics roster",
-        "Pepperdine cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "5545",
-        "name": "Cal Wipf",
-        "normalizedName": "cal wipf",
-        "jersey": "42",
-        "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/cal-wipf/5545",
-        "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/wipf.jpg",
-        "gamesPlayed": 10,
-        "gamesStarted": 2,
-        "battingAverage": 0.1,
-        "onBasePercentage": 0.4,
-        "sluggingPercentage": 0.1,
-        "ops": 0.5,
-        "atBats": 10,
-        "runs": 0,
-        "hits": 1,
-        "doubles": 0,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 0,
-        "totalBases": 1,
-        "walks": 5,
-        "hitByPitch": 0,
-        "strikeouts": 4,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 7,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 15,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "5545",
-        "name": "Cal Wipf",
-        "normalizedName": "cal wipf",
-        "jersey": "42",
-        "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/cal-wipf/5545",
-        "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/wipf.jpg",
-        "gamesPlayed": 5,
-        "gamesStarted": 1,
-        "putouts": 7,
-        "assists": 3,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 2,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 10
-      },
-      "evaluation": {
-        "score": 35,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 66.66666666666666,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 100,
-          "Speed": 0
-        },
-        "summary": "Cal Wipf profiles as a INF piece who gets on base at a high clip and controls at-bats.",
-        "summaryMetrics": [
-          "AVG .100",
-          "OBP .400",
-          "SLG .100"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".100"
-          },
-          {
-            "label": "OBP",
-            "value": ".400"
-          },
-          {
-            "label": "SLG",
-            "value": ".100"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "R-SO / 1V",
-        "detailBadges": [
-          "INF",
-          "R-SO",
-          "1V",
-          "Hitter"
-        ],
-        "sourceSummary": "Pepperdine Athletics roster + Pepperdine cumulative stats"
       }
     },
     {
@@ -3624,7 +2269,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
-      "classYear": "R-JR",
+      "classYear": "R-SR",
       "handedness": "1V",
       "jersey": "43",
       "hometown": "Hollister, Calif.",
@@ -3691,156 +2336,14 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "R-JR / 1V",
+        "metaLine": "R-SR / 1V",
         "detailBadges": [
           "RHP",
-          "R-JR",
+          "R-SR",
           "1V",
           "Pitcher"
         ],
         "sourceSummary": "Pepperdine Athletics roster"
-      }
-    },
-    {
-      "id": "pepperdine-5540",
-      "schoolSlug": "pepperdine",
-      "school": "Pepperdine",
-      "schoolLongName": "Pepperdine University",
-      "name": "Dylan Stewart",
-      "normalizedName": "dylan stewart",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "SR",
-      "handedness": "3V",
-      "jersey": "44",
-      "hometown": "Alameda, Calif.",
-      "highSchool": "Saint Joseph Notre Dame HS",
-      "previousSchool": "",
-      "hometownHighSchool": "Alameda, Calif. / Saint Joseph Notre Dame HS",
-      "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/dylan-stewart/5540",
-      "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/stewart.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "5540",
-      "sources": [
-        "Pepperdine Athletics roster",
-        "Pepperdine cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "5540",
-        "name": "Dylan Stewart",
-        "normalizedName": "dylan stewart",
-        "jersey": "44",
-        "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/dylan-stewart/5540",
-        "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/stewart.jpg",
-        "gamesPlayed": 17,
-        "gamesStarted": 3,
-        "appearances": 17,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 6.43,
-        "whip": 1.52,
-        "wins": 1,
-        "losses": 3,
-        "saves": 1,
-        "shutouts": 0,
-        "inningsPitched": 42,
-        "inningsPitchedDisplay": "42.0",
-        "hitsAllowed": 44,
-        "runsAllowed": 30,
-        "earnedRunsAllowed": 30,
-        "walksAllowed": 20,
-        "strikeouts": 50,
-        "doublesAllowed": 12,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 3,
-        "opponentsAtBats": 160,
-        "wildPitches": 2,
-        "hitBatters": 6,
-        "balks": 0,
-        "opponentsBattingAverage": 0.275,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "5540",
-        "name": "Dylan Stewart",
-        "normalizedName": "dylan stewart",
-        "jersey": "44",
-        "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/dylan-stewart/5540",
-        "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/stewart.jpg",
-        "gamesPlayed": 6,
-        "gamesStarted": 1,
-        "putouts": 2,
-        "assists": 3,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 6,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 5
-      },
-      "evaluation": {
-        "score": 17,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 61.038961038961034,
-          "Command": 30,
-          "Damage suppression": 0
-        },
-        "summary": "Dylan Stewart looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 6.43",
-          "WHIP 1.52",
-          "K/9 10.7"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "6.43"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.52"
-          },
-          {
-            "label": "K/9",
-            "value": "10.7"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.3"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.64"
-          },
-          {
-            "label": "IP",
-            "value": "42.0"
-          }
-        ],
-        "metaLine": "SR / 3V",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "3V",
-          "Pitcher"
-        ],
-        "sourceSummary": "Pepperdine Athletics roster + Pepperdine cumulative stats"
       }
     },
     {
@@ -3854,7 +2357,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
-      "classYear": "FR",
+      "classYear": "SO",
       "handedness": "HS",
       "jersey": "45",
       "hometown": "Taipei, Taiwan",
@@ -3921,10 +2424,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "FR / HS",
+        "metaLine": "SO / HS",
         "detailBadges": [
           "RHP",
-          "FR",
+          "SO",
           "HS",
           "Pitcher"
         ],
@@ -3942,7 +2445,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
-      "classYear": "JR",
+      "classYear": "SR",
       "handedness": "2V",
       "jersey": "55",
       "hometown": "Danville, Calif",
@@ -4009,10 +2512,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "JR / 2V",
+        "metaLine": "SR / 2V",
         "detailBadges": [
           "RHP",
-          "JR",
+          "SR",
           "2V",
           "Pitcher"
         ],
@@ -4023,10 +2526,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
   "playerBoard": {
     "source": "Pepperdine Athletics roster + cumulative stats / ESPN roster",
     "note": "This Pepperdine-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but Pepperdine's public ESPN roster feed did not line up cleanly with the current school-site roster.",
-    "totalPlayers": 38,
+    "totalPlayers": 27,
     "roleCounts": {
-      "Hitter": 18,
-      "Pitcher": 20
+      "Hitter": 14,
+      "Pitcher": 13
     },
     "players": [
       {
@@ -4035,7 +2538,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "school": "Pepperdine",
         "role": "Pitcher",
         "position": "OF/LHP",
-        "classYear": "JR",
+        "classYear": "SR",
         "handedness": "TR",
         "score": 0,
         "fit": {
@@ -4081,10 +2584,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "JR / TR",
+        "metaLine": "SR / TR",
         "detailBadges": [
           "OF/LHP",
-          "JR",
+          "SR",
           "TR",
           "Pitcher"
         ],
@@ -4103,7 +2606,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "school": "Pepperdine",
         "role": "Hitter",
         "position": "INF",
-        "classYear": "JR",
+        "classYear": "SR",
         "handedness": "TR",
         "score": 0,
         "fit": {
@@ -4149,10 +2652,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "JR / TR",
+        "metaLine": "SR / TR",
         "detailBadges": [
           "INF",
-          "JR",
+          "SR",
           "TR",
           "Rostered"
         ],
@@ -4171,7 +2674,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "school": "Pepperdine",
         "role": "Hitter",
         "position": "UTL",
-        "classYear": "R-JR",
+        "classYear": "R-SR",
         "handedness": "SQ",
         "score": 0,
         "fit": {
@@ -4217,10 +2720,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "R-JR / SQ",
+        "metaLine": "R-SR / SQ",
         "detailBadges": [
           "UTL",
-          "R-JR",
+          "R-SR",
           "SQ",
           "Rostered"
         ],
@@ -4239,7 +2742,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "school": "Pepperdine",
         "role": "Hitter",
         "position": "OF",
-        "classYear": "R-JR",
+        "classYear": "R-SR",
         "handedness": "1V",
         "score": 0,
         "fit": {
@@ -4285,10 +2788,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "R-JR / 1V",
+        "metaLine": "R-SR / 1V",
         "detailBadges": [
           "OF",
-          "R-JR",
+          "R-SR",
           "1V",
           "Rostered"
         ],
@@ -4302,81 +2805,12 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "pepperdine-5774",
-        "name": "Trey Dunn",
-        "school": "Pepperdine",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "GR",
-        "handedness": "TR",
-        "score": 29,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Trey Dunn gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .275",
-          "OBP .335",
-          "SLG .489"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".275"
-          },
-          {
-            "label": "OBP",
-            "value": ".335"
-          },
-          {
-            "label": "SLG",
-            "value": ".489"
-          },
-          {
-            "label": "HR",
-            "value": "9"
-          },
-          {
-            "label": "RBI",
-            "value": "25"
-          },
-          {
-            "label": "SB",
-            "value": "2"
-          }
-        ],
-        "components": {
-          "On-base": 30.555555555555554,
-          "Power": 44.473684210526315,
-          "Contact": 34.375000000000014,
-          "Discipline": 2.8673835125448006,
-          "Speed": 6.666666666666667
-        },
-        "metaLine": "GR / TR",
-        "detailBadges": [
-          "OF",
-          "GR",
-          "TR",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Pepperdine Athletics roster",
-          "Pepperdine cumulative stats"
-        ],
-        "sourceSummary": "Pepperdine Athletics roster + Pepperdine cumulative stats",
-        "schoolSlug": "pepperdine",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/trey-dunn/5774",
-        "espnAthleteId": ""
-      },
-      {
         "id": "pepperdine-5922",
         "name": "Finley Buckner",
         "school": "Pepperdine",
         "role": "Hitter",
         "position": "INF",
-        "classYear": "R-SO",
+        "classYear": "R-JR",
         "handedness": "1V",
         "score": 0,
         "fit": {
@@ -4422,10 +2856,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "R-SO / 1V",
+        "metaLine": "R-JR / 1V",
         "detailBadges": [
           "INF",
-          "R-SO",
+          "R-JR",
           "1V",
           "Rostered"
         ],
@@ -4507,218 +2941,12 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "pepperdine-5785",
-        "name": "Daniel Patterson",
-        "school": "Pepperdine",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "GR",
-        "handedness": "TR",
-        "score": 44,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Daniel Patterson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .280",
-          "OBP .357",
-          "SLG .502"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".280"
-          },
-          {
-            "label": "OBP",
-            "value": ".357"
-          },
-          {
-            "label": "SLG",
-            "value": ".502"
-          },
-          {
-            "label": "HR",
-            "value": "10"
-          },
-          {
-            "label": "RBI",
-            "value": "27"
-          },
-          {
-            "label": "SB",
-            "value": "5"
-          }
-        ],
-        "components": {
-          "On-base": 42.77777777777775,
-          "Power": 47.89473684210527,
-          "Contact": 37.500000000000014,
-          "Discipline": 69.04761904761904,
-          "Speed": 16.666666666666664
-        },
-        "metaLine": "GR / TR",
-        "detailBadges": [
-          "INF",
-          "GR",
-          "TR",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Pepperdine Athletics roster",
-          "Pepperdine cumulative stats"
-        ],
-        "sourceSummary": "Pepperdine Athletics roster + Pepperdine cumulative stats",
-        "schoolSlug": "pepperdine",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/daniel-patterson/5785",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "pepperdine-5519",
-        "name": "Max Aude",
-        "school": "Pepperdine",
-        "role": "Hitter",
-        "position": "C/1B",
-        "classYear": "SR",
-        "handedness": "1V",
-        "score": 23,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Max Aude gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .261",
-          "OBP .330",
-          "SLG .432"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".261"
-          },
-          {
-            "label": "OBP",
-            "value": ".330"
-          },
-          {
-            "label": "SLG",
-            "value": ".432"
-          },
-          {
-            "label": "HR",
-            "value": "2"
-          },
-          {
-            "label": "RBI",
-            "value": "14"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 27.777777777777775,
-          "Power": 29.47368421052632,
-          "Contact": 25.625000000000004,
-          "Discipline": 12.865497076023386,
-          "Speed": 0
-        },
-        "metaLine": "SR / 1V",
-        "detailBadges": [
-          "C/1B",
-          "SR",
-          "1V",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Pepperdine Athletics roster",
-          "Pepperdine cumulative stats"
-        ],
-        "sourceSummary": "Pepperdine Athletics roster + Pepperdine cumulative stats",
-        "schoolSlug": "pepperdine",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/max-aude/5519",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "pepperdine-5779",
-        "name": "Ryan Humphreys",
-        "school": "Pepperdine",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "GR",
-        "handedness": "TR",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Ryan Humphreys looks like a LHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "GR / TR",
-        "detailBadges": [
-          "LHP",
-          "GR",
-          "TR",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Pepperdine Athletics roster"
-        ],
-        "sourceSummary": "Pepperdine Athletics roster",
-        "schoolSlug": "pepperdine",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/ryan-humphreys/5779",
-        "espnAthleteId": ""
-      },
-      {
         "id": "pepperdine-5955",
         "name": "James Dell'Amico",
         "school": "Pepperdine",
         "role": "Hitter",
         "position": "1B/OF",
-        "classYear": "FR",
+        "classYear": "SO",
         "handedness": "HS",
         "score": 0,
         "fit": {
@@ -4764,10 +2992,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "FR / HS",
+        "metaLine": "SO / HS",
         "detailBadges": [
           "1B/OF",
-          "FR",
+          "SO",
           "HS",
           "Rostered"
         ],
@@ -4786,7 +3014,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "school": "Pepperdine",
         "role": "Hitter",
         "position": "C/OF",
-        "classYear": "R-SO",
+        "classYear": "R-JR",
         "handedness": "TR",
         "score": 0,
         "fit": {
@@ -4832,10 +3060,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "R-SO / TR",
+        "metaLine": "R-JR / TR",
         "detailBadges": [
           "C/OF",
-          "R-SO",
+          "R-JR",
           "TR",
           "Rostered"
         ],
@@ -4854,7 +3082,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "school": "Pepperdine",
         "role": "Hitter",
         "position": "C/OF",
-        "classYear": "FR",
+        "classYear": "SO",
         "handedness": "HS",
         "score": 0,
         "fit": {
@@ -4900,10 +3128,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "FR / HS",
+        "metaLine": "SO / HS",
         "detailBadges": [
           "C/OF",
-          "FR",
+          "SO",
           "HS",
           "Rostered"
         ],
@@ -4922,7 +3150,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "school": "Pepperdine",
         "role": "Hitter",
         "position": "INF",
-        "classYear": "FR",
+        "classYear": "SO",
         "handedness": "HS",
         "score": 0,
         "fit": {
@@ -4968,10 +3196,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "FR / HS",
+        "metaLine": "SO / HS",
         "detailBadges": [
           "INF",
-          "FR",
+          "SO",
           "HS",
           "Rostered"
         ],
@@ -4990,7 +3218,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "school": "Pepperdine",
         "role": "Hitter",
         "position": "C",
-        "classYear": "FR",
+        "classYear": "SO",
         "handedness": "HS",
         "score": 0,
         "fit": {
@@ -5036,10 +3264,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "FR / HS",
+        "metaLine": "SO / HS",
         "detailBadges": [
           "C",
-          "FR",
+          "SO",
           "HS",
           "Rostered"
         ],
@@ -5058,7 +3286,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "school": "Pepperdine",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "FR",
+        "classYear": "SO",
         "handedness": "HS",
         "score": 0,
         "fit": {
@@ -5104,10 +3332,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "FR / HS",
+        "metaLine": "SO / HS",
         "detailBadges": [
           "RHP",
-          "FR",
+          "SO",
           "HS",
           "Pitcher"
         ],
@@ -5126,7 +3354,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "school": "Pepperdine",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "JR",
+        "classYear": "SR",
         "handedness": "2V",
         "score": 0,
         "fit": {
@@ -5172,10 +3400,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "JR / 2V",
+        "metaLine": "SR / 2V",
         "detailBadges": [
           "RHP",
-          "JR",
+          "SR",
           "2V",
           "Pitcher"
         ],
@@ -5194,7 +3422,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "school": "Pepperdine",
         "role": "Pitcher",
         "position": "INF/RHP",
-        "classYear": "FR",
+        "classYear": "SO",
         "handedness": "HS",
         "score": 0,
         "fit": {
@@ -5240,10 +3468,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "FR / HS",
+        "metaLine": "SO / HS",
         "detailBadges": [
           "INF/RHP",
-          "FR",
+          "SO",
           "HS",
           "Pitcher"
         ],
@@ -5262,7 +3490,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "school": "Pepperdine",
         "role": "Pitcher",
         "position": "OF/LHP",
-        "classYear": "FR",
+        "classYear": "SO",
         "handedness": "HS",
         "score": 0,
         "fit": {
@@ -5308,10 +3536,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "FR / HS",
+        "metaLine": "SO / HS",
         "detailBadges": [
           "OF/LHP",
-          "FR",
+          "SO",
           "HS",
           "Pitcher"
         ],
@@ -5325,81 +3553,12 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "pepperdine-5543",
-        "name": "Collin Valentine",
-        "school": "Pepperdine",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "R-JR",
-        "handedness": "2V",
-        "score": 1,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Collin Valentine looks like a LHP option who limits runs.",
-        "summaryMetrics": [
-          "ERA 3.86",
-          "WHIP 1.49",
-          "K/9 4.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.86"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.49"
-          },
-          {
-            "label": "K/9",
-            "value": "4.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.3"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.40"
-          },
-          {
-            "label": "IP",
-            "value": "67.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 3.9999999999999996,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-JR / 2V",
-        "detailBadges": [
-          "LHP",
-          "R-JR",
-          "2V",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Pepperdine Athletics roster",
-          "Pepperdine cumulative stats"
-        ],
-        "sourceSummary": "Pepperdine Athletics roster + Pepperdine cumulative stats",
-        "schoolSlug": "pepperdine",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/collin-valentine/5543",
-        "espnAthleteId": ""
-      },
-      {
         "id": "pepperdine-5920",
         "name": "Johnny Backus",
         "school": "Pepperdine",
         "role": "Hitter",
         "position": "OF",
-        "classYear": "R-FR",
+        "classYear": "R-SO",
         "handedness": "TR",
         "score": 0,
         "fit": {
@@ -5445,10 +3604,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "R-FR / TR",
+        "metaLine": "R-SO / TR",
         "detailBadges": [
           "OF",
-          "R-FR",
+          "R-SO",
           "TR",
           "Rostered"
         ],
@@ -5462,81 +3621,12 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "pepperdine-5651",
-        "name": "Tommy Scavone",
-        "school": "Pepperdine",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "GR",
-        "handedness": "3V",
-        "score": 13,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Tommy Scavone looks like a RHP option who throws enough strikes and keeps traffic under control.",
-        "summaryMetrics": [
-          "ERA 4.04",
-          "WHIP 1.15",
-          "K/9 7.6"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.04"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.15"
-          },
-          {
-            "label": "K/9",
-            "value": "7.6"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.4"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.76"
-          },
-          {
-            "label": "IP",
-            "value": "71.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 32.4553950722175,
-          "Command": 43.15789473684211,
-          "Damage suppression": 0
-        },
-        "metaLine": "GR / 3V",
-        "detailBadges": [
-          "RHP",
-          "GR",
-          "3V",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Pepperdine Athletics roster",
-          "Pepperdine cumulative stats"
-        ],
-        "sourceSummary": "Pepperdine Athletics roster + Pepperdine cumulative stats",
-        "schoolSlug": "pepperdine",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/tommy-scavone/5651",
-        "espnAthleteId": ""
-      },
-      {
         "id": "pepperdine-5967",
         "name": "Austin Plisinski",
         "school": "Pepperdine",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "SO",
+        "classYear": "JR",
         "handedness": "1V",
         "score": 0,
         "fit": {
@@ -5582,10 +3672,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SO / 1V",
+        "metaLine": "JR / 1V",
         "detailBadges": [
           "RHP",
-          "SO",
+          "JR",
           "1V",
           "Pitcher"
         ],
@@ -5604,7 +3694,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "school": "Pepperdine",
         "role": "Hitter",
         "position": "INF",
-        "classYear": "FR",
+        "classYear": "SO",
         "handedness": "HS",
         "score": 0,
         "fit": {
@@ -5650,10 +3740,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "FR / HS",
+        "metaLine": "SO / HS",
         "detailBadges": [
           "INF",
-          "FR",
+          "SO",
           "HS",
           "Rostered"
         ],
@@ -5672,7 +3762,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "school": "Pepperdine",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "R-SO",
+        "classYear": "R-JR",
         "handedness": "2V",
         "score": 0,
         "fit": {
@@ -5718,10 +3808,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "R-SO / 2V",
+        "metaLine": "R-JR / 2V",
         "detailBadges": [
           "RHP",
-          "R-SO",
+          "R-JR",
           "2V",
           "Pitcher"
         ],
@@ -5735,81 +3825,12 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "pepperdine-5791",
-        "name": "Jake Guardiancic",
-        "school": "Pepperdine",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "GR",
-        "handedness": "TR",
-        "score": 2,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jake Guardiancic gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 14.73",
-          "WHIP 2.59",
-          "K/9 4.9"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "14.73"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.59"
-          },
-          {
-            "label": "K/9",
-            "value": "4.9"
-          },
-          {
-            "label": "BB/9",
-            "value": "7.4"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.23"
-          },
-          {
-            "label": "IP",
-            "value": "7.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 8.264462809917356,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "GR / TR",
-        "detailBadges": [
-          "RHP",
-          "GR",
-          "TR",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Pepperdine Athletics roster",
-          "Pepperdine cumulative stats"
-        ],
-        "sourceSummary": "Pepperdine Athletics roster + Pepperdine cumulative stats",
-        "schoolSlug": "pepperdine",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/jake-guardiancic/5791",
-        "espnAthleteId": ""
-      },
-      {
         "id": "pepperdine-5953",
         "name": "Danny Cook",
         "school": "Pepperdine",
         "role": "Hitter",
         "position": "INF",
-        "classYear": "SO",
+        "classYear": "JR",
         "handedness": "1V",
         "score": 0,
         "fit": {
@@ -5855,10 +3876,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "SO / 1V",
+        "metaLine": "JR / 1V",
         "detailBadges": [
           "INF",
-          "SO",
+          "JR",
           "1V",
           "Rostered"
         ],
@@ -5877,7 +3898,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "school": "Pepperdine",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "FR",
+        "classYear": "SO",
         "handedness": "HS",
         "score": 0,
         "fit": {
@@ -5923,10 +3944,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "FR / HS",
+        "metaLine": "SO / HS",
         "detailBadges": [
           "RHP",
-          "FR",
+          "SO",
           "HS",
           "Pitcher"
         ],
@@ -5945,7 +3966,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "school": "Pepperdine",
         "role": "Pitcher",
         "position": "LHP",
-        "classYear": "SO",
+        "classYear": "JR",
         "handedness": "TR",
         "score": 0,
         "fit": {
@@ -5991,10 +4012,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SO / TR",
+        "metaLine": "JR / TR",
         "detailBadges": [
           "LHP",
-          "SO",
+          "JR",
           "TR",
           "Pitcher"
         ],
@@ -6013,7 +4034,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "school": "Pepperdine",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "SO",
+        "classYear": "JR",
         "handedness": "1V",
         "score": 0,
         "fit": {
@@ -6059,10 +4080,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SO / 1V",
+        "metaLine": "JR / 1V",
         "detailBadges": [
           "RHP",
-          "SO",
+          "JR",
           "1V",
           "Pitcher"
         ],
@@ -6076,150 +4097,12 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "pepperdine-5782",
-        "name": "Gabe Maya",
-        "school": "Pepperdine",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "GR",
-        "handedness": "TR",
-        "score": 4,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Gabe Maya looks like a LHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA 7.02",
-          "WHIP 1.92",
-          "K/9 4.3"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "7.02"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.92"
-          },
-          {
-            "label": "K/9",
-            "value": "4.3"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.2"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.08"
-          },
-          {
-            "label": "IP",
-            "value": "16.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 2.9090909090909034,
-          "Command": 20,
-          "Damage suppression": 0
-        },
-        "metaLine": "GR / TR",
-        "detailBadges": [
-          "LHP",
-          "GR",
-          "TR",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Pepperdine Athletics roster",
-          "Pepperdine cumulative stats"
-        ],
-        "sourceSummary": "Pepperdine Athletics roster + Pepperdine cumulative stats",
-        "schoolSlug": "pepperdine",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/gabe-maya/5782",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "pepperdine-5544",
-        "name": "Lucien Wechsberg",
-        "school": "Pepperdine",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "GR",
-        "handedness": "1V",
-        "score": 14,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Lucien Wechsberg looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 4.66",
-          "WHIP 1.52",
-          "K/9 9.3"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.66"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.52"
-          },
-          {
-            "label": "K/9",
-            "value": "9.3"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.31"
-          },
-          {
-            "label": "IP",
-            "value": "29.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 48.275862068965516,
-          "Command": 26.15384615384615,
-          "Damage suppression": 0
-        },
-        "metaLine": "GR / 1V",
-        "detailBadges": [
-          "RHP",
-          "GR",
-          "1V",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Pepperdine Athletics roster",
-          "Pepperdine cumulative stats"
-        ],
-        "sourceSummary": "Pepperdine Athletics roster + Pepperdine cumulative stats",
-        "schoolSlug": "pepperdine",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/lucien-wechsberg/5544",
-        "espnAthleteId": ""
-      },
-      {
         "id": "pepperdine-5944",
         "name": "Zach Woodson",
         "school": "Pepperdine",
         "role": "Hitter",
         "position": "1B/OF",
-        "classYear": "SO",
+        "classYear": "JR",
         "handedness": "1V",
         "score": 0,
         "fit": {
@@ -6265,10 +4148,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "SO / 1V",
+        "metaLine": "JR / 1V",
         "detailBadges": [
           "1B/OF",
-          "SO",
+          "JR",
           "1V",
           "Rostered"
         ],
@@ -6282,81 +4165,12 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "pepperdine-5545",
-        "name": "Cal Wipf",
-        "school": "Pepperdine",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "R-SO",
-        "handedness": "1V",
-        "score": 35,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Cal Wipf profiles as a INF piece who gets on base at a high clip and controls at-bats.",
-        "summaryMetrics": [
-          "AVG .100",
-          "OBP .400",
-          "SLG .100"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".100"
-          },
-          {
-            "label": "OBP",
-            "value": ".400"
-          },
-          {
-            "label": "SLG",
-            "value": ".100"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 66.66666666666666,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 100,
-          "Speed": 0
-        },
-        "metaLine": "R-SO / 1V",
-        "detailBadges": [
-          "INF",
-          "R-SO",
-          "1V",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Pepperdine Athletics roster",
-          "Pepperdine cumulative stats"
-        ],
-        "sourceSummary": "Pepperdine Athletics roster + Pepperdine cumulative stats",
-        "schoolSlug": "pepperdine",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/cal-wipf/5545",
-        "espnAthleteId": ""
-      },
-      {
         "id": "pepperdine-5965",
         "name": "Jackson Pace",
         "school": "Pepperdine",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "R-JR",
+        "classYear": "R-SR",
         "handedness": "1V",
         "score": 0,
         "fit": {
@@ -6402,10 +4216,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "R-JR / 1V",
+        "metaLine": "R-SR / 1V",
         "detailBadges": [
           "RHP",
-          "R-JR",
+          "R-SR",
           "1V",
           "Pitcher"
         ],
@@ -6419,81 +4233,12 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "pepperdine-5540",
-        "name": "Dylan Stewart",
-        "school": "Pepperdine",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "3V",
-        "score": 17,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Dylan Stewart looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 6.43",
-          "WHIP 1.52",
-          "K/9 10.7"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "6.43"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.52"
-          },
-          {
-            "label": "K/9",
-            "value": "10.7"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.3"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.64"
-          },
-          {
-            "label": "IP",
-            "value": "42.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 61.038961038961034,
-          "Command": 30,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / 3V",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "3V",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Pepperdine Athletics roster",
-          "Pepperdine cumulative stats"
-        ],
-        "sourceSummary": "Pepperdine Athletics roster + Pepperdine cumulative stats",
-        "schoolSlug": "pepperdine",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/dylan-stewart/5540",
-        "espnAthleteId": ""
-      },
-      {
         "id": "pepperdine-5973",
         "name": "Arnold Wu",
         "school": "Pepperdine",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "FR",
+        "classYear": "SO",
         "handedness": "HS",
         "score": 0,
         "fit": {
@@ -6539,10 +4284,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "FR / HS",
+        "metaLine": "SO / HS",
         "detailBadges": [
           "RHP",
-          "FR",
+          "SO",
           "HS",
           "Pitcher"
         ],
@@ -6561,7 +4306,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "school": "Pepperdine",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "JR",
+        "classYear": "SR",
         "handedness": "2V",
         "score": 0,
         "fit": {
@@ -6607,10 +4352,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "JR / 2V",
+        "metaLine": "SR / 2V",
         "detailBadges": [
           "RHP",
-          "JR",
+          "SR",
           "2V",
           "Pitcher"
         ],

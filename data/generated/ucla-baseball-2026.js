@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.ucla2026 = {
-  "generatedAt": "2026-06-09T11:24:36.881Z",
+  "generatedAt": "2026-06-10T11:28:36.887Z",
   "season": 2026,
   "school": {
     "slug": "ucla",
