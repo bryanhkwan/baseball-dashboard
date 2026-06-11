@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T11:28:41.259Z",
+  "generatedAt": "2026-06-11T11:48:47.555Z",
   "season": 2026,
   "source": "Generated Sidearm baseball school-site pool",
   "note": "This generated free player pool combines verified public roster and cumulative stats pages from multiple Sidearm baseball programs. It is broader than Toledo alone, but still not a full every-school national directory yet.",
@@ -79,7 +79,7 @@
       "hitters": 17,
       "pitchers": 17,
       "rosterPlayers": 34,
-      "playersWithAnyStats": 33,
+      "playersWithAnyStats": 32,
       "statsUrl": "https://utrockets.com/sports/baseball/stats/2026",
       "rosterUrl": "https://utrockets.com/sports/baseball/roster"
     },
@@ -15059,29 +15059,29 @@
         "position": "OF",
         "classYear": "GR",
         "handedness": "R/R",
-        "score": 34,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Saborn Campbell gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .258",
-          "OBP .378",
-          "SLG .269"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".258"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".378"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".269"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -15089,34 +15089,33 @@
           },
           {
             "label": "RBI",
-            "value": "6"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "6"
+            "value": "0"
           }
         ],
         "components": {
-          "On-base": 54.44444444444443,
+          "On-base": 0,
           "Power": 0,
-          "Contact": 23.750000000000004,
-          "Discipline": 76.54320987654319,
-          "Speed": 20
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
         "metaLine": "GR / R/R",
         "detailBadges": [
           "OF",
           "GR",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "Toledo Athletics roster",
-          "Toledo cumulative stats"
+          "Toledo Athletics roster"
         ],
-        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats",
+        "sourceSummary": "Toledo Athletics roster",
         "schoolSlug": "toledo",
-        "compositeRole": "Hitter",
+        "compositeRole": "Rostered",
         "profileUrl": "https://utrockets.com/sports/baseball/roster/saborn-campbell/10282",
         "espnAthleteId": ""
       },
