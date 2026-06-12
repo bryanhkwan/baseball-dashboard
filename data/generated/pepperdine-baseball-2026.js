@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.pepperdine2026 = {
-  "generatedAt": "2026-06-11T11:48:16.266Z",
+  "generatedAt": "2026-06-12T11:30:27.864Z",
   "season": 2026,
   "school": {
     "slug": "pepperdine",
@@ -25,7 +25,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
     "ncaa": "NCAA school index"
   },
   "coverage": {
-    "rosterPlayers": 27,
+    "rosterPlayers": 26,
     "espnRosterPlayers": 0,
     "playersWithHittingStats": 0,
     "playersWithPitchingStats": 0,
@@ -43,6 +43,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "Collin Valentine",
         "Tommy Scavone",
         "Lucien Wechsberg",
+        "Jackson Pace",
         "Dylan Stewart",
         "Gabe Maya",
         "Jake Guardiancic"
@@ -51,6 +52,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "Trey Dunn",
         "Tommy Scavone",
         "Cal Wipf",
+        "Jackson Pace",
         "Dylan Stewart",
         "Gabe Maya",
         "Jake Guardiancic",
@@ -2259,94 +2261,6 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
       }
     },
     {
-      "id": "pepperdine-5965",
-      "schoolSlug": "pepperdine",
-      "school": "Pepperdine",
-      "schoolLongName": "Pepperdine University",
-      "name": "Jackson Pace",
-      "normalizedName": "jackson pace",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "R-SR",
-      "handedness": "1V",
-      "jersey": "43",
-      "hometown": "Hollister, Calif.",
-      "highSchool": "San Benito HS",
-      "previousSchool": "Oregon",
-      "hometownHighSchool": "Hollister, Calif. / San Benito HS",
-      "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/jackson-pace/5965",
-      "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/valentine.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "5965",
-      "sources": [
-        "Pepperdine Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Jackson Pace looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "metaLine": "R-SR / 1V",
-        "detailBadges": [
-          "RHP",
-          "R-SR",
-          "1V",
-          "Pitcher"
-        ],
-        "sourceSummary": "Pepperdine Athletics roster"
-      }
-    },
-    {
       "id": "pepperdine-5973",
       "schoolSlug": "pepperdine",
       "school": "Pepperdine",
@@ -2526,10 +2440,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
   "playerBoard": {
     "source": "Pepperdine Athletics roster + cumulative stats / ESPN roster",
     "note": "This Pepperdine-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but Pepperdine's public ESPN roster feed did not line up cleanly with the current school-site roster.",
-    "totalPlayers": 27,
+    "totalPlayers": 26,
     "roleCounts": {
       "Hitter": 14,
-      "Pitcher": 13
+      "Pitcher": 12
     },
     "players": [
       {
@@ -4162,74 +4076,6 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "schoolSlug": "pepperdine",
         "compositeRole": "Rostered",
         "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/zach-woodson/5944",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "pepperdine-5965",
-        "name": "Jackson Pace",
-        "school": "Pepperdine",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "R-SR",
-        "handedness": "1V",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jackson Pace looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-SR / 1V",
-        "detailBadges": [
-          "RHP",
-          "R-SR",
-          "1V",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Pepperdine Athletics roster"
-        ],
-        "sourceSummary": "Pepperdine Athletics roster",
-        "schoolSlug": "pepperdine",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/jackson-pace/5965",
         "espnAthleteId": ""
       },
       {

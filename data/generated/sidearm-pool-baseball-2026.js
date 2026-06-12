@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
-  "generatedAt": "2026-06-11T11:48:47.555Z",
+  "generatedAt": "2026-06-12T11:31:03.965Z",
   "season": 2026,
   "source": "Generated Sidearm baseball school-site pool",
   "note": "This generated free player pool combines verified public roster and cumulative stats pages from multiple Sidearm baseball programs. It is broader than Toledo alone, but still not a full every-school national directory yet.",
@@ -80,7 +80,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
       "hitters": 17,
       "pitchers": 17,
       "rosterPlayers": 34,
-      "playersWithAnyStats": 32,
+      "playersWithAnyStats": 33,
       "statsUrl": "https://utrockets.com/sports/baseball/stats/2026",
       "rosterUrl": "https://utrockets.com/sports/baseball/roster"
     },
@@ -609,10 +609,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
       "name": "Pepperdine",
       "longName": "Pepperdine University",
       "record": "21-33, 15-12",
-      "totalPlayers": 27,
+      "totalPlayers": 26,
       "hitters": 14,
-      "pitchers": 13,
-      "rosterPlayers": 27,
+      "pitchers": 12,
+      "rosterPlayers": 26,
       "playersWithAnyStats": 0,
       "statsUrl": "https://pepperdinewaves.com/sports/baseball/stats/2026",
       "rosterUrl": "https://pepperdinewaves.com/sports/baseball/roster"
@@ -931,18 +931,18 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
     }
   ],
   "coverage": {
-    "totalPlayers": 2668,
+    "totalPlayers": 2667,
     "totalHitters": 1240,
-    "totalPitchers": 1428,
+    "totalPitchers": 1427,
     "schoolsCovered": 71
   },
   "playerBoard": {
     "source": "Generated Sidearm baseball school-site pool",
     "note": "This free generated pool comes from verified public school-site roster and cumulative stats pages across multiple Sidearm baseball programs.",
-    "totalPlayers": 2668,
+    "totalPlayers": 2667,
     "roleCounts": {
       "Hitter": 1240,
-      "Pitcher": 1428
+      "Pitcher": 1427
     },
     "players": [
       {
@@ -15060,29 +15060,29 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "position": "OF",
         "classYear": "GR",
         "handedness": "R/R",
-        "score": 0,
+        "score": 34,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Saborn Campbell gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
+          "AVG .258",
+          "OBP .378",
+          "SLG .269"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": "--"
+            "value": ".258"
           },
           {
             "label": "OBP",
-            "value": "--"
+            "value": ".378"
           },
           {
             "label": "SLG",
-            "value": "--"
+            "value": ".269"
           },
           {
             "label": "HR",
@@ -15090,33 +15090,34 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           },
           {
             "label": "RBI",
-            "value": "0"
+            "value": "6"
           },
           {
             "label": "SB",
-            "value": "0"
+            "value": "6"
           }
         ],
         "components": {
-          "On-base": 0,
+          "On-base": 54.44444444444443,
           "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
+          "Contact": 23.750000000000004,
+          "Discipline": 76.54320987654319,
+          "Speed": 20
         },
         "metaLine": "GR / R/R",
         "detailBadges": [
           "OF",
           "GR",
           "R/R",
-          "Rostered"
+          "Hitter"
         ],
         "leaderboards": [
-          "Toledo Athletics roster"
+          "Toledo Athletics roster",
+          "Toledo cumulative stats"
         ],
-        "sourceSummary": "Toledo Athletics roster",
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats",
         "schoolSlug": "toledo",
-        "compositeRole": "Rostered",
+        "compositeRole": "Hitter",
         "profileUrl": "https://utrockets.com/sports/baseball/roster/saborn-campbell/10282",
         "espnAthleteId": ""
       },
@@ -122221,74 +122222,6 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "schoolSlug": "pepperdine",
         "compositeRole": "Rostered",
         "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/zach-woodson/5944",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "pepperdine-5965",
-        "name": "Jackson Pace",
-        "school": "Pepperdine",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "R-SR",
-        "handedness": "1V",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jackson Pace looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-SR / 1V",
-        "detailBadges": [
-          "RHP",
-          "R-SR",
-          "1V",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Pepperdine Athletics roster"
-        ],
-        "sourceSummary": "Pepperdine Athletics roster",
-        "schoolSlug": "pepperdine",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/jackson-pace/5965",
         "espnAthleteId": ""
       },
       {

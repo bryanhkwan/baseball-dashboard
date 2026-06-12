@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-11T11:49:05.685Z",
+  "generatedAt": "2026-06-12T11:31:21.606Z",
   "season": 2026,
   "source": "Generated Sidearm baseball roster pool",
   "note": "This compact roster-only pool captures public school-site baseball rosters so non-appearing players can still enter coverage before they log a reachable NCAA boxscore.",
@@ -303,7 +303,7 @@
       "slug": "pepperdine",
       "name": "Pepperdine",
       "longName": "Pepperdine University",
-      "rosterPlayers": 27,
+      "rosterPlayers": 26,
       "rosterUrl": "https://pepperdinewaves.com/sports/baseball/roster"
     },
     {
@@ -507,10 +507,10 @@
     "schoolsRequested": 73,
     "schoolsLoaded": 71,
     "schoolsFailed": 2,
-    "totalPlayers": 2668,
+    "totalPlayers": 2667,
     "roleCounts": {
       "Hitter": 1331,
-      "Pitcher": 1337
+      "Pitcher": 1336
     },
     "failures": [
       {
@@ -25193,20 +25193,6 @@
       "St. John Bosco",
       "",
       "https://pepperdinewaves.com/sports/baseball/roster/zach-woodson/5944"
-    ],
-    [
-      "pepperdine-5965",
-      "pepperdine",
-      "Jackson Pace",
-      "Pitcher",
-      "RHP",
-      "R-SR",
-      "1V",
-      "43",
-      "Hollister, Calif.",
-      "San Benito HS",
-      "Oregon",
-      "https://pepperdinewaves.com/sports/baseball/roster/jackson-pace/5965"
     ],
     [
       "pepperdine-5973",

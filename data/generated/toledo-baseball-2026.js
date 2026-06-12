@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.toledo2026 = {
-  "generatedAt": "2026-06-11T11:47:18.536Z",
+  "generatedAt": "2026-06-12T11:29:36.069Z",
   "season": 2026,
   "school": {
     "slug": "toledo",
@@ -28,21 +28,17 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
   "coverage": {
     "rosterPlayers": 34,
     "espnRosterPlayers": 26,
-    "playersWithHittingStats": 17,
+    "playersWithHittingStats": 18,
     "playersWithPitchingStats": 15,
-    "playersWithFieldingStats": 31,
-    "mergedPlayersWithAnyStats": 32,
+    "playersWithFieldingStats": 32,
+    "mergedPlayersWithAnyStats": 33,
     "matchedEspnPlayers": 0,
     "unmatchedStatRows": {
-      "hitting": [
-        "Amare Snowden"
-      ],
+      "hitting": [],
       "pitching": [
         "Luke Riha"
       ],
-      "fielding": [
-        "Amare Snowden"
-      ]
+      "fielding": []
     }
   },
   "teamSummary": {
@@ -1874,7 +1870,7 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
       "schoolLongName": "University of Toledo",
       "name": "Saborn Campbell",
       "normalizedName": "saborn campbell",
-      "compositeRole": "Rostered",
+      "compositeRole": "Hitter",
       "role": "Hitter",
       "position": "OF",
       "positionLong": "Outfielder",
@@ -1895,42 +1891,99 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
       "espnThrows": "",
       "rosterBioId": "10282",
       "sources": [
-        "Toledo Athletics roster"
+        "Toledo Athletics roster",
+        "Toledo cumulative stats"
       ],
-      "hittingStats": null,
+      "hittingStats": {
+        "rosterBioId": "10282",
+        "name": "Saborn Campbell",
+        "normalizedName": "saborn campbell",
+        "jersey": "14",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/saborn-campbell/10282",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Saborn_Campbell.jpg",
+        "gamesPlayed": 32,
+        "gamesStarted": 23,
+        "battingAverage": 0.258,
+        "onBasePercentage": 0.378,
+        "sluggingPercentage": 0.269,
+        "ops": 0.647,
+        "atBats": 93,
+        "runs": 20,
+        "hits": 24,
+        "doubles": 1,
+        "triples": 0,
+        "homeRuns": 0,
+        "runsBattedIn": 6,
+        "totalBases": 25,
+        "walks": 16,
+        "hitByPitch": 2,
+        "strikeouts": 18,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 1,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 1,
+        "stolenBases": 6,
+        "stolenBasesAttempts": 9,
+        "putouts": 43,
+        "assists": 0,
+        "errors": 1,
+        "plateAppearances": 124,
+        "caughtStealing": 3,
+        "pickedOff": 0
+      },
       "pitchingStats": null,
-      "fieldingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "10282",
+        "name": "Saborn Campbell",
+        "normalizedName": "saborn campbell",
+        "jersey": "14",
+        "profileUrl": "https://utrockets.com/sports/baseball/roster/saborn-campbell/10282",
+        "imageUrl": "https://utrockets.com/images/2025/12/15/Saborn_Campbell.jpg",
+        "gamesPlayed": 20,
+        "gamesStarted": 17,
+        "putouts": 43,
+        "assists": 0,
+        "errors": 1,
+        "fieldingPercentage": 0.977,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 44
+      },
       "evaluation": {
-        "score": 0,
+        "score": 34,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 0,
+          "On-base": 54.44444444444443,
           "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
+          "Contact": 23.750000000000004,
+          "Discipline": 76.54320987654319,
+          "Speed": 20
         },
         "summary": "Saborn Campbell gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
+          "AVG .258",
+          "OBP .378",
+          "SLG .269"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": "--"
+            "value": ".258"
           },
           {
             "label": "OBP",
-            "value": "--"
+            "value": ".378"
           },
           {
             "label": "SLG",
-            "value": "--"
+            "value": ".269"
           },
           {
             "label": "HR",
@@ -1938,11 +1991,11 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
           },
           {
             "label": "RBI",
-            "value": "0"
+            "value": "6"
           },
           {
             "label": "SB",
-            "value": "0"
+            "value": "6"
           }
         ],
         "metaLine": "GR / R/R",
@@ -1950,9 +2003,9 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
           "OF",
           "GR",
           "R/R",
-          "Rostered"
+          "Hitter"
         ],
-        "sourceSummary": "Toledo Athletics roster"
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats"
       }
     },
     {
@@ -5727,29 +5780,29 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
         "position": "OF",
         "classYear": "GR",
         "handedness": "R/R",
-        "score": 0,
+        "score": 34,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Saborn Campbell gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
+          "AVG .258",
+          "OBP .378",
+          "SLG .269"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": "--"
+            "value": ".258"
           },
           {
             "label": "OBP",
-            "value": "--"
+            "value": ".378"
           },
           {
             "label": "SLG",
-            "value": "--"
+            "value": ".269"
           },
           {
             "label": "HR",
@@ -5757,33 +5810,34 @@ window.__BASEBALL_DATASETS__.toledo2026 = {
           },
           {
             "label": "RBI",
-            "value": "0"
+            "value": "6"
           },
           {
             "label": "SB",
-            "value": "0"
+            "value": "6"
           }
         ],
         "components": {
-          "On-base": 0,
+          "On-base": 54.44444444444443,
           "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
+          "Contact": 23.750000000000004,
+          "Discipline": 76.54320987654319,
+          "Speed": 20
         },
         "metaLine": "GR / R/R",
         "detailBadges": [
           "OF",
           "GR",
           "R/R",
-          "Rostered"
+          "Hitter"
         ],
         "leaderboards": [
-          "Toledo Athletics roster"
+          "Toledo Athletics roster",
+          "Toledo cumulative stats"
         ],
-        "sourceSummary": "Toledo Athletics roster",
+        "sourceSummary": "Toledo Athletics roster + Toledo cumulative stats",
         "schoolSlug": "toledo",
-        "compositeRole": "Rostered",
+        "compositeRole": "Hitter",
         "profileUrl": "https://utrockets.com/sports/baseball/roster/saborn-campbell/10282",
         "espnAthleteId": ""
       },
