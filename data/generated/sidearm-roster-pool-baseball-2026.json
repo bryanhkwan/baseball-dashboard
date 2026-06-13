@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T11:31:21.606Z",
+  "generatedAt": "2026-06-13T11:03:45.656Z",
   "season": 2026,
   "source": "Generated Sidearm baseball roster pool",
   "note": "This compact roster-only pool captures public school-site baseball rosters so non-appearing players can still enter coverage before they log a reachable NCAA boxscore.",
@@ -303,7 +303,7 @@
       "slug": "pepperdine",
       "name": "Pepperdine",
       "longName": "Pepperdine University",
-      "rosterPlayers": 26,
+      "rosterPlayers": 25,
       "rosterUrl": "https://pepperdinewaves.com/sports/baseball/roster"
     },
     {
@@ -507,10 +507,10 @@
     "schoolsRequested": 73,
     "schoolsLoaded": 71,
     "schoolsFailed": 2,
-    "totalPlayers": 2667,
+    "totalPlayers": 2666,
     "roleCounts": {
-      "Hitter": 1331,
-      "Pitcher": 1336
+      "Hitter": 1329,
+      "Pitcher": 1337
     },
     "failures": [
       {
@@ -24864,7 +24864,7 @@
       "Dylan Osborne",
       "Hitter",
       "OF/LHP",
-      "SR",
+      "R-JR",
       "TR",
       "1",
       "Vancouver, Wash.",
@@ -24920,27 +24920,13 @@
       "Finley Buckner",
       "Hitter",
       "INF",
-      "R-JR",
+      "R-SO",
       "1V",
       "6",
       "Oak Park, Calif.",
       "Oaks Christian HS",
       "California",
       "https://pepperdinewaves.com/sports/baseball/roster/finley-buckner/5922"
-    ],
-    [
-      "pepperdine-5963",
-      "pepperdine",
-      "Julian Nunez",
-      "Hitter",
-      "INF",
-      "GR",
-      "2V",
-      "7",
-      "Encinitas, Calif.",
-      "Classical Academy HS",
-      "San Diego City College",
-      "https://pepperdinewaves.com/sports/baseball/roster/julian-nunez/5963"
     ],
     [
       "pepperdine-5955",
@@ -24990,7 +24976,7 @@
       "Will Kraemer",
       "Hitter",
       "INF",
-      "SO",
+      "R-FR",
       "HS",
       "15",
       "New Hope, Pa.",
@@ -25018,7 +25004,7 @@
       "Drew Van Court",
       "Pitcher",
       "RHP",
-      "SO",
+      "R-FR",
       "HS",
       "18",
       "Woodland, Calif.",
@@ -25032,7 +25018,7 @@
       "Matt Queen",
       "Pitcher",
       "RHP",
-      "SR",
+      "R-JR",
       "2V",
       "19",
       "Manhattan, N.Y.",
@@ -25069,18 +25055,18 @@
       "https://pepperdinewaves.com/sports/baseball/roster/jack-fowler/5957"
     ],
     [
-      "pepperdine-5920",
+      "pepperdine-5990",
       "pepperdine",
-      "Johnny Backus",
-      "Hitter",
-      "OF",
-      "R-SO",
-      "TR",
-      "23",
-      "Malibu, Calif.",
-      "Westlake HS",
-      "Michigan",
-      "https://pepperdinewaves.com/sports/baseball/roster/johnny-backus/5920"
+      "Collin Valentine",
+      "Pitcher",
+      "LHP",
+      "GR",
+      "",
+      "22",
+      "Dallas, Texas",
+      "Highland Park",
+      "Texas",
+      "https://pepperdinewaves.com/sports/baseball/roster/collin-valentine/5990"
     ],
     [
       "pepperdine-5967",
@@ -25102,7 +25088,7 @@
       "Will Goodman",
       "Hitter",
       "INF",
-      "SO",
+      "R-FR",
       "HS",
       "26",
       "Bend, Ore.",

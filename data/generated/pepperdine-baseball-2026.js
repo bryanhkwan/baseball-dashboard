@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.pepperdine2026 = {
-  "generatedAt": "2026-06-12T11:30:27.864Z",
+  "generatedAt": "2026-06-13T11:02:52.738Z",
   "season": 2026,
   "school": {
     "slug": "pepperdine",
@@ -25,7 +25,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
     "ncaa": "NCAA school index"
   },
   "coverage": {
-    "rosterPlayers": 26,
+    "rosterPlayers": 25,
     "espnRosterPlayers": 0,
     "playersWithHittingStats": 0,
     "playersWithPitchingStats": 0,
@@ -36,17 +36,19 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
       "hitting": [
         "Daniel Patterson",
         "Trey Dunn",
+        "Julian Nunez",
         "Max Aude",
+        "Johnny Backus",
         "Cal Wipf"
       ],
       "pitching": [
-        "Collin Valentine",
         "Tommy Scavone",
         "Lucien Wechsberg",
         "Jackson Pace",
         "Dylan Stewart",
         "Gabe Maya",
-        "Jake Guardiancic"
+        "Jake Guardiancic",
+        "Johnny Backus"
       ],
       "fielding": [
         "Trey Dunn",
@@ -55,10 +57,11 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "Jackson Pace",
         "Dylan Stewart",
         "Gabe Maya",
+        "Johnny Backus",
         "Jake Guardiancic",
         "Max Aude",
+        "Julian Nunez",
         "Daniel Patterson",
-        "Collin Valentine",
         "Lucien Wechsberg"
       ]
     }
@@ -159,7 +162,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
       "role": "Pitcher",
       "position": "OF/LHP",
       "positionLong": "",
-      "classYear": "SR",
+      "classYear": "R-JR",
       "handedness": "TR",
       "jersey": "1",
       "hometown": "Vancouver, Wash.",
@@ -226,10 +229,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "SR / TR",
+        "metaLine": "R-JR / TR",
         "detailBadges": [
           "OF/LHP",
-          "SR",
+          "R-JR",
           "TR",
           "Pitcher"
         ],
@@ -511,7 +514,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
       "role": "Hitter",
       "position": "INF",
       "positionLong": "",
-      "classYear": "R-JR",
+      "classYear": "R-SO",
       "handedness": "1V",
       "jersey": "6",
       "hometown": "Oak Park, Calif.",
@@ -578,99 +581,11 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "R-JR / 1V",
+        "metaLine": "R-SO / 1V",
         "detailBadges": [
           "INF",
-          "R-JR",
+          "R-SO",
           "1V",
-          "Rostered"
-        ],
-        "sourceSummary": "Pepperdine Athletics roster"
-      }
-    },
-    {
-      "id": "pepperdine-5963",
-      "schoolSlug": "pepperdine",
-      "school": "Pepperdine",
-      "schoolLongName": "Pepperdine University",
-      "name": "Julian Nunez",
-      "normalizedName": "julian nunez",
-      "compositeRole": "Rostered",
-      "role": "Hitter",
-      "position": "INF",
-      "positionLong": "",
-      "classYear": "GR",
-      "handedness": "2V",
-      "jersey": "7",
-      "hometown": "Encinitas, Calif.",
-      "highSchool": "Classical Academy HS",
-      "previousSchool": "San Diego City College",
-      "hometownHighSchool": "Encinitas, Calif. / Classical Academy HS",
-      "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/julian-nunez/5963",
-      "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/nunez.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "5963",
-      "sources": [
-        "Pepperdine Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "summary": "Julian Nunez gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "GR / 2V",
-        "detailBadges": [
-          "INF",
-          "GR",
-          "2V",
           "Rostered"
         ],
         "sourceSummary": "Pepperdine Athletics roster"
@@ -951,7 +866,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
       "role": "Hitter",
       "position": "INF",
       "positionLong": "",
-      "classYear": "SO",
+      "classYear": "R-FR",
       "handedness": "HS",
       "jersey": "15",
       "hometown": "New Hope, Pa.",
@@ -1018,10 +933,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "SO / HS",
+        "metaLine": "R-FR / HS",
         "detailBadges": [
           "INF",
-          "SO",
+          "R-FR",
           "HS",
           "Rostered"
         ],
@@ -1127,7 +1042,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
-      "classYear": "SO",
+      "classYear": "R-FR",
       "handedness": "HS",
       "jersey": "18",
       "hometown": "Woodland, Calif.",
@@ -1194,10 +1109,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "SO / HS",
+        "metaLine": "R-FR / HS",
         "detailBadges": [
           "RHP",
-          "SO",
+          "R-FR",
           "HS",
           "Pitcher"
         ],
@@ -1215,7 +1130,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
-      "classYear": "SR",
+      "classYear": "R-JR",
       "handedness": "2V",
       "jersey": "19",
       "hometown": "Manhattan, N.Y.",
@@ -1282,10 +1197,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "SR / 2V",
+        "metaLine": "R-JR / 2V",
         "detailBadges": [
           "RHP",
-          "SR",
+          "R-JR",
           "2V",
           "Pitcher"
         ],
@@ -1469,32 +1384,32 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
       }
     },
     {
-      "id": "pepperdine-5920",
+      "id": "pepperdine-5990",
       "schoolSlug": "pepperdine",
       "school": "Pepperdine",
       "schoolLongName": "Pepperdine University",
-      "name": "Johnny Backus",
-      "normalizedName": "johnny backus",
-      "compositeRole": "Rostered",
-      "role": "Hitter",
-      "position": "OF",
-      "positionLong": "",
-      "classYear": "R-SO",
-      "handedness": "TR",
-      "jersey": "23",
-      "hometown": "Malibu, Calif.",
-      "highSchool": "Westlake HS",
-      "previousSchool": "Michigan",
-      "hometownHighSchool": "Malibu, Calif. / Westlake HS",
-      "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/johnny-backus/5920",
-      "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/backus.jpg",
+      "name": "Collin Valentine",
+      "normalizedName": "collin valentine",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "LHP",
+      "classYear": "GR",
+      "handedness": "N/A",
+      "jersey": "22",
+      "hometown": "Dallas, Texas",
+      "highSchool": "Highland Park",
+      "previousSchool": "Texas",
+      "hometownHighSchool": "Dallas, Texas / Highland Park",
+      "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/collin-valentine/5990",
+      "imageUrl": "https://pepperdinewaves.com/images/2025/2/6/22_ValentineCROPPED.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "5920",
+      "rosterBioId": "5990",
       "sources": [
         "Pepperdine Athletics roster"
       ],
@@ -1508,50 +1423,50 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
         },
-        "summary": "Johnny Backus gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Collin Valentine looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
-            "label": "AVG",
+            "label": "ERA",
             "value": "--"
           },
           {
-            "label": "OBP",
+            "label": "WHIP",
             "value": "--"
           },
           {
-            "label": "SLG",
-            "value": "--"
+            "label": "K/9",
+            "value": "0.0"
           },
           {
-            "label": "HR",
-            "value": "0"
+            "label": "BB/9",
+            "value": "0.0"
           },
           {
-            "label": "RBI",
-            "value": "0"
+            "label": "HR/9",
+            "value": "0.00"
           },
           {
-            "label": "SB",
-            "value": "0"
+            "label": "IP",
+            "value": "0.0"
           }
         ],
-        "metaLine": "R-SO / TR",
+        "metaLine": "GR / N/A",
         "detailBadges": [
-          "OF",
-          "R-SO",
-          "TR",
-          "Rostered"
+          "LHP",
+          "GR",
+          "N/A",
+          "Pitcher"
         ],
         "sourceSummary": "Pepperdine Athletics roster"
       }
@@ -1655,7 +1570,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
       "role": "Hitter",
       "position": "INF",
       "positionLong": "",
-      "classYear": "SO",
+      "classYear": "R-FR",
       "handedness": "HS",
       "jersey": "26",
       "hometown": "Bend, Ore.",
@@ -1722,10 +1637,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "SO / HS",
+        "metaLine": "R-FR / HS",
         "detailBadges": [
           "INF",
-          "SO",
+          "R-FR",
           "HS",
           "Rostered"
         ],
@@ -2440,10 +2355,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
   "playerBoard": {
     "source": "Pepperdine Athletics roster + cumulative stats / ESPN roster",
     "note": "This Pepperdine-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but Pepperdine's public ESPN roster feed did not line up cleanly with the current school-site roster.",
-    "totalPlayers": 26,
+    "totalPlayers": 25,
     "roleCounts": {
-      "Hitter": 14,
-      "Pitcher": 12
+      "Hitter": 12,
+      "Pitcher": 13
     },
     "players": [
       {
@@ -2452,7 +2367,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "school": "Pepperdine",
         "role": "Pitcher",
         "position": "OF/LHP",
-        "classYear": "SR",
+        "classYear": "R-JR",
         "handedness": "TR",
         "score": 0,
         "fit": {
@@ -2498,10 +2413,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SR / TR",
+        "metaLine": "R-JR / TR",
         "detailBadges": [
           "OF/LHP",
-          "SR",
+          "R-JR",
           "TR",
           "Pitcher"
         ],
@@ -2724,7 +2639,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "school": "Pepperdine",
         "role": "Hitter",
         "position": "INF",
-        "classYear": "R-JR",
+        "classYear": "R-SO",
         "handedness": "1V",
         "score": 0,
         "fit": {
@@ -2770,10 +2685,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "R-JR / 1V",
+        "metaLine": "R-SO / 1V",
         "detailBadges": [
           "INF",
-          "R-JR",
+          "R-SO",
           "1V",
           "Rostered"
         ],
@@ -2784,74 +2699,6 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "schoolSlug": "pepperdine",
         "compositeRole": "Rostered",
         "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/finley-buckner/5922",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "pepperdine-5963",
-        "name": "Julian Nunez",
-        "school": "Pepperdine",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "GR",
-        "handedness": "2V",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Julian Nunez gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "GR / 2V",
-        "detailBadges": [
-          "INF",
-          "GR",
-          "2V",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Pepperdine Athletics roster"
-        ],
-        "sourceSummary": "Pepperdine Athletics roster",
-        "schoolSlug": "pepperdine",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/julian-nunez/5963",
         "espnAthleteId": ""
       },
       {
@@ -3064,7 +2911,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "school": "Pepperdine",
         "role": "Hitter",
         "position": "INF",
-        "classYear": "SO",
+        "classYear": "R-FR",
         "handedness": "HS",
         "score": 0,
         "fit": {
@@ -3110,10 +2957,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "SO / HS",
+        "metaLine": "R-FR / HS",
         "detailBadges": [
           "INF",
-          "SO",
+          "R-FR",
           "HS",
           "Rostered"
         ],
@@ -3200,7 +3047,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "school": "Pepperdine",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "SO",
+        "classYear": "R-FR",
         "handedness": "HS",
         "score": 0,
         "fit": {
@@ -3246,10 +3093,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SO / HS",
+        "metaLine": "R-FR / HS",
         "detailBadges": [
           "RHP",
-          "SO",
+          "R-FR",
           "HS",
           "Pitcher"
         ],
@@ -3268,7 +3115,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "school": "Pepperdine",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "SR",
+        "classYear": "R-JR",
         "handedness": "2V",
         "score": 0,
         "fit": {
@@ -3314,10 +3161,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SR / 2V",
+        "metaLine": "R-JR / 2V",
         "detailBadges": [
           "RHP",
-          "SR",
+          "R-JR",
           "2V",
           "Pitcher"
         ],
@@ -3467,71 +3314,71 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "pepperdine-5920",
-        "name": "Johnny Backus",
+        "id": "pepperdine-5990",
+        "name": "Collin Valentine",
         "school": "Pepperdine",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "R-SO",
-        "handedness": "TR",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "GR",
+        "handedness": "N/A",
         "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Johnny Backus gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Collin Valentine looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
-            "label": "AVG",
+            "label": "ERA",
             "value": "--"
           },
           {
-            "label": "OBP",
+            "label": "WHIP",
             "value": "--"
           },
           {
-            "label": "SLG",
-            "value": "--"
+            "label": "K/9",
+            "value": "0.0"
           },
           {
-            "label": "HR",
-            "value": "0"
+            "label": "BB/9",
+            "value": "0.0"
           },
           {
-            "label": "RBI",
-            "value": "0"
+            "label": "HR/9",
+            "value": "0.00"
           },
           {
-            "label": "SB",
-            "value": "0"
+            "label": "IP",
+            "value": "0.0"
           }
         ],
         "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
         },
-        "metaLine": "R-SO / TR",
+        "metaLine": "GR / N/A",
         "detailBadges": [
-          "OF",
-          "R-SO",
-          "TR",
-          "Rostered"
+          "LHP",
+          "GR",
+          "N/A",
+          "Pitcher"
         ],
         "leaderboards": [
           "Pepperdine Athletics roster"
         ],
         "sourceSummary": "Pepperdine Athletics roster",
         "schoolSlug": "pepperdine",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/johnny-backus/5920",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/collin-valentine/5990",
         "espnAthleteId": ""
       },
       {
@@ -3608,7 +3455,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "school": "Pepperdine",
         "role": "Hitter",
         "position": "INF",
-        "classYear": "SO",
+        "classYear": "R-FR",
         "handedness": "HS",
         "score": 0,
         "fit": {
@@ -3654,10 +3501,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "SO / HS",
+        "metaLine": "R-FR / HS",
         "detailBadges": [
           "INF",
-          "SO",
+          "R-FR",
           "HS",
           "Rostered"
         ],
