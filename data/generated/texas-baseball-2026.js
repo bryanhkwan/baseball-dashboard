@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.texas2026 = {
-  "generatedAt": "2026-06-13T11:03:08.395Z",
+  "generatedAt": "2026-06-14T11:12:01.016Z",
   "season": 2026,
   "school": {
     "slug": "texas",
@@ -39,84 +39,84 @@ window.__BASEBALL_DATASETS__.texas2026 = {
     }
   },
   "teamSummary": {
-    "record": "45-13, 19-10",
-    "battingAverage": ".298",
-    "earnedRunAverage": "4.08",
+    "record": "45-14, 19-10",
+    "battingAverage": ".296",
+    "earnedRunAverage": "4.05",
     "wins": "45",
-    "losses": "13",
+    "losses": "14",
     "hitting": {
-      "atBats": "1935",
-      "runsScored": "481",
-      "hits": "577",
-      "runsBattedIn": "443",
+      "atBats": "1965",
+      "runsScored": "482",
+      "hits": "581",
+      "runsBattedIn": "444",
       "doubles": "109",
       "triples": "7",
       "homeRuns": "103",
-      "walks": "373",
+      "walks": "374",
       "intentionalWalks": "6",
-      "strikeouts": "487",
-      "strikeoutsLooking": "121",
+      "strikeouts": "502",
+      "strikeoutsLooking": "125",
       "hitByPitch": "57",
-      "stolenBases": "111",
+      "stolenBases": "112",
       "caughtStealing": "16",
       "sacrificeHits": "14",
       "sacrificeFlies": "34",
       "reachedOnCatchersInteference": "0",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "425",
-      "flyOuts": "466",
-      "groundedIntoDoublePlay": "26",
+      "groundOuts": "435",
+      "flyOuts": "468",
+      "groundedIntoDoublePlay": "27",
       "pickedOff": "4",
-      "doublePlaysHitInto": "34",
+      "doublePlaysHitInto": "35",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1516",
-      "assists": "500",
-      "errors": "41",
+      "putouts": "1540",
+      "assists": "505",
+      "errors": "44",
       "passedBalls": "5",
       "catchersInterference": "0",
-      "stolenBasesAgainst": "26",
+      "stolenBasesAgainst": "27",
       "caughtStealingBy": "12",
       "involvedInDoublePlays": "33",
       "involvedInTriplePlays": "0",
-      "totalChances": "2057",
-      "fieldingPercentage": ".980"
+      "totalChances": "2089",
+      "fieldingPercentage": ".979"
     },
     "pitching": {
       "orderOfAppearance": "0",
       "wins": "45",
       "saves": "16",
-      "losses": "13",
+      "losses": "14",
       "gamesStarted": "0",
       "gamesCompleted": "1",
       "shutouts": "4",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "505.1",
-      "hitsAllowed": "427",
-      "runsAllowed": "255",
-      "earnedRunsAllowed": "229",
-      "walksAllowed": "192",
-      "strikeouts": "658",
-      "battersFaced": "2167",
-      "opponentAtBats": "1896",
-      "doublesAllowed": "105",
+      "inningsPitched": "513.1",
+      "hitsAllowed": "432",
+      "runsAllowed": "262",
+      "earnedRunsAllowed": "231",
+      "walksAllowed": "194",
+      "strikeouts": "670",
+      "battersFaced": "2206",
+      "opponentAtBats": "1929",
+      "doublesAllowed": "106",
       "triplesAllowed": "8",
-      "homerunsAllowed": "47",
-      "wildPitches": "42",
+      "homerunsAllowed": "48",
+      "wildPitches": "44",
       "balks": "4",
-      "hitBatters": "62",
-      "strikeoutsLooking": "186",
+      "hitBatters": "66",
+      "strikeoutsLooking": "187",
       "intentionalWalks": "2",
       "inheritedRunners": "0",
       "inheritedRunnersThatScored": "0",
       "sacrificeHitsAllowed": "11",
       "sacrificeFliesAllowed": "6",
       "catchersInterferenceAllowed": "0",
-      "pitches": "8525",
-      "flyouts": "342",
-      "groundouts": "465",
+      "pitches": "8667",
+      "flyouts": "352",
+      "groundouts": "469",
       "teamUnearnedRuns": "1",
       "saveRecord": "16",
       "pickoff": "3"
@@ -306,13 +306,13 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "jersey": "1",
         "profileUrl": "https://texassports.com/sports/baseball/roster/temo-becerra/15049",
         "imageUrl": "https://texassports.com/images/2025/12/8/Becerra_Temo_cropped-2026_ookTi.jpg",
-        "gamesPlayed": 58,
-        "gamesStarted": 58,
-        "battingAverage": 0.318,
-        "onBasePercentage": 0.436,
-        "sluggingPercentage": 0.467,
-        "ops": 0.903,
-        "atBats": 214,
+        "gamesPlayed": 59,
+        "gamesStarted": 59,
+        "battingAverage": 0.312,
+        "onBasePercentage": 0.429,
+        "sluggingPercentage": 0.459,
+        "ops": 0.888,
+        "atBats": 218,
         "runs": 50,
         "hits": 68,
         "doubles": 12,
@@ -322,17 +322,17 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "totalBases": 100,
         "walks": 41,
         "hitByPitch": 6,
-        "strikeouts": 47,
+        "strikeouts": 51,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 3,
         "sacrificeHits": 1,
         "stolenBases": 12,
         "stolenBasesAttempts": 12,
-        "putouts": 30,
+        "putouts": 31,
         "assists": 0,
         "errors": 5,
-        "plateAppearances": 277,
+        "plateAppearances": 281,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -344,9 +344,9 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "jersey": "1",
         "profileUrl": "https://texassports.com/sports/baseball/roster/temo-becerra/15049",
         "imageUrl": "https://texassports.com/images/2025/12/8/Becerra_Temo_cropped-2026_ookTi.jpg",
-        "gamesPlayed": 54,
-        "gamesStarted": 54,
-        "putouts": 30,
+        "gamesPlayed": 55,
+        "gamesStarted": 55,
+        "putouts": 31,
         "assists": 110,
         "errors": 5,
         "fieldingPercentage": 0.966,
@@ -356,39 +356,39 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 145
+        "totalChances": 146
       },
       "evaluation": {
-        "score": 63,
+        "score": 60,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 86.66666666666666,
-          "Power": 38.6842105263158,
-          "Contact": 61.25000000000001,
-          "Discipline": 74.70449172576832,
+          "On-base": 82.77777777777776,
+          "Power": 36.57894736842106,
+          "Contact": 57.49999999999999,
+          "Discipline": 67.10239651416123,
           "Speed": 40
         },
         "summary": "Temo Becerra profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .318",
-          "OBP .436",
-          "SLG .467"
+          "AVG .312",
+          "OBP .429",
+          "SLG .459"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".318"
+            "value": ".312"
           },
           {
             "label": "OBP",
-            "value": ".436"
+            "value": ".429"
           },
           {
             "label": "SLG",
-            "value": ".467"
+            "value": ".459"
           },
           {
             "label": "HR",
@@ -593,23 +593,23 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "jersey": "5",
         "profileUrl": "https://texassports.com/sports/baseball/roster/ethan-mendoza/15053",
         "imageUrl": "https://texassports.com/images/2026/1/28/Mendoza_Ethan_Cropped-2026.jpg",
-        "gamesPlayed": 57,
-        "gamesStarted": 57,
-        "battingAverage": 0.269,
-        "onBasePercentage": 0.386,
-        "sluggingPercentage": 0.475,
-        "ops": 0.861,
-        "atBats": 219,
+        "gamesPlayed": 58,
+        "gamesStarted": 58,
+        "battingAverage": 0.275,
+        "onBasePercentage": 0.389,
+        "sluggingPercentage": 0.477,
+        "ops": 0.866,
+        "atBats": 222,
         "runs": 50,
-        "hits": 59,
+        "hits": 61,
         "doubles": 13,
         "triples": 1,
         "homeRuns": 10,
-        "runsBattedIn": 47,
-        "totalBases": 104,
+        "runsBattedIn": 48,
+        "totalBases": 106,
         "walks": 40,
         "hitByPitch": 6,
-        "strikeouts": 31,
+        "strikeouts": 32,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 7,
@@ -619,7 +619,7 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "putouts": 64,
         "assists": 0,
         "errors": 3,
-        "plateAppearances": 285,
+        "plateAppearances": 288,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -646,36 +646,36 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "totalChances": 168
       },
       "evaluation": {
-        "score": 53,
+        "score": 54,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 58.88888888888888,
-          "Power": 40.78947368421053,
-          "Contact": 30.625000000000007,
+          "On-base": 60.55555555555555,
+          "Power": 41.31578947368421,
+          "Contact": 34.375000000000014,
           "Discipline": 100,
           "Speed": 36.666666666666664
         },
         "summary": "Ethan Mendoza profiles as a INF piece who controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .269",
-          "OBP .386",
-          "SLG .475"
+          "AVG .275",
+          "OBP .389",
+          "SLG .477"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".269"
+            "value": ".275"
           },
           {
             "label": "OBP",
-            "value": ".386"
+            "value": ".389"
           },
           {
             "label": "SLG",
-            "value": ".475"
+            "value": ".477"
           },
           {
             "label": "HR",
@@ -683,7 +683,7 @@ window.__BASEBALL_DATASETS__.texas2026 = {
           },
           {
             "label": "RBI",
-            "value": "47"
+            "value": "48"
           },
           {
             "label": "SB",
@@ -738,13 +738,13 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "jersey": "6",
         "profileUrl": "https://texassports.com/sports/baseball/roster/anthony-pack-jr/15054",
         "imageUrl": "https://texassports.com/images/2025/12/8/Pack_Anthony_Cropped-2026_DgU66.jpg",
-        "gamesPlayed": 58,
-        "gamesStarted": 57,
-        "battingAverage": 0.359,
-        "onBasePercentage": 0.485,
-        "sluggingPercentage": 0.597,
-        "ops": 1.082,
-        "atBats": 206,
+        "gamesPlayed": 59,
+        "gamesStarted": 58,
+        "battingAverage": 0.352,
+        "onBasePercentage": 0.477,
+        "sluggingPercentage": 0.586,
+        "ops": 1.063,
+        "atBats": 210,
         "runs": 58,
         "hits": 74,
         "doubles": 16,
@@ -754,7 +754,7 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "totalBases": 123,
         "walks": 45,
         "hitByPitch": 8,
-        "strikeouts": 36,
+        "strikeouts": 39,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 3,
@@ -764,7 +764,7 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "putouts": 78,
         "assists": 0,
         "errors": 4,
-        "plateAppearances": 288,
+        "plateAppearances": 292,
         "caughtStealing": 3,
         "pickedOff": 1
       },
@@ -791,36 +791,36 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "totalChances": 86
       },
       "evaluation": {
-        "score": 87,
+        "score": 86,
         "fit": {
           "label": "Priority",
           "className": "fit-priority"
         },
         "components": {
           "On-base": 100,
-          "Power": 72.89473684210527,
-          "Contact": 86.87499999999999,
+          "Power": 70,
+          "Contact": 82.49999999999999,
           "Discipline": 100,
           "Speed": 66.66666666666666
         },
         "summary": "Anthony Pack Jr. profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .359",
-          "OBP .485",
-          "SLG .597"
+          "AVG .352",
+          "OBP .477",
+          "SLG .586"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".359"
+            "value": ".352"
           },
           {
             "label": "OBP",
-            "value": ".485"
+            "value": ".477"
           },
           {
             "label": "SLG",
-            "value": ".597"
+            "value": ".586"
           },
           {
             "label": "HR",
@@ -1028,13 +1028,13 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "jersey": "8",
         "profileUrl": "https://texassports.com/sports/baseball/roster/carson-tinney/15056",
         "imageUrl": "https://texassports.com/images/2025/12/8/Tinney_Carson_Cropped-2026_0wzqR.jpg",
-        "gamesPlayed": 58,
-        "gamesStarted": 57,
-        "battingAverage": 0.333,
-        "onBasePercentage": 0.484,
-        "sluggingPercentage": 0.71,
-        "ops": 1.194,
-        "atBats": 210,
+        "gamesPlayed": 59,
+        "gamesStarted": 58,
+        "battingAverage": 0.329,
+        "onBasePercentage": 0.48,
+        "sluggingPercentage": 0.7,
+        "ops": 1.18,
+        "atBats": 213,
         "runs": 66,
         "hits": 70,
         "doubles": 13,
@@ -1042,19 +1042,19 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "homeRuns": 22,
         "runsBattedIn": 58,
         "totalBases": 149,
-        "walks": 50,
+        "walks": 51,
         "hitByPitch": 12,
-        "strikeouts": 61,
+        "strikeouts": 63,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
         "stolenBases": 10,
         "stolenBasesAttempts": 11,
-        "putouts": 566,
+        "putouts": 574,
         "assists": 0,
-        "errors": 2,
-        "plateAppearances": 285,
+        "errors": 4,
+        "plateAppearances": 289,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -1066,22 +1066,22 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "jersey": "8",
         "profileUrl": "https://texassports.com/sports/baseball/roster/carson-tinney/15056",
         "imageUrl": "https://texassports.com/images/2025/12/8/Tinney_Carson_Cropped-2026_0wzqR.jpg",
-        "gamesPlayed": 51,
-        "gamesStarted": 51,
-        "putouts": 566,
-        "assists": 41,
-        "errors": 2,
-        "fieldingPercentage": 0.997,
+        "gamesPlayed": 52,
+        "gamesStarted": 52,
+        "putouts": 574,
+        "assists": 43,
+        "errors": 4,
+        "fieldingPercentage": 0.994,
         "doublePlays": 2,
-        "stolenBasesAgainst": 22,
+        "stolenBasesAgainst": 23,
         "caughtStealingBy": 8,
         "stolenBasesPercentage": null,
         "passedBalls": 5,
         "catchersInterference": 0,
-        "totalChances": 609
+        "totalChances": 621
       },
       "evaluation": {
-        "score": 84,
+        "score": 83,
         "fit": {
           "label": "Priority",
           "className": "fit-priority"
@@ -1089,28 +1089,28 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "components": {
           "On-base": 100,
           "Power": 100,
-          "Contact": 70.625,
-          "Discipline": 68.85245901639344,
+          "Contact": 68.125,
+          "Discipline": 67.72486772486772,
           "Speed": 33.33333333333333
         },
         "summary": "Carson Tinney profiles as a C piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .333",
-          "OBP .484",
-          "SLG .710"
+          "AVG .329",
+          "OBP .480",
+          "SLG .700"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".333"
+            "value": ".329"
           },
           {
             "label": "OBP",
-            "value": ".484"
+            "value": ".480"
           },
           {
             "label": "SLG",
-            "value": ".710"
+            "value": ".700"
           },
           {
             "label": "HR",
@@ -1889,13 +1889,13 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "jersey": "15",
         "profileUrl": "https://texassports.com/sports/baseball/roster/josh-livingston/15065",
         "imageUrl": "https://texassports.com/images/2025/12/8/Livingston_Josh_Cropped-2026_6c20Q.jpg",
-        "gamesPlayed": 33,
+        "gamesPlayed": 34,
         "gamesStarted": 21,
-        "battingAverage": 0.231,
-        "onBasePercentage": 0.358,
-        "sluggingPercentage": 0.449,
-        "ops": 0.807,
-        "atBats": 78,
+        "battingAverage": 0.228,
+        "onBasePercentage": 0.354,
+        "sluggingPercentage": 0.443,
+        "ops": 0.797,
+        "atBats": 79,
         "runs": 18,
         "hits": 18,
         "doubles": 5,
@@ -1915,7 +1915,7 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "putouts": 46,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 97,
+        "plateAppearances": 98,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -1942,36 +1942,36 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "totalChances": 52
       },
       "evaluation": {
-        "score": 29,
+        "score": 27,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 43.333333333333314,
-          "Power": 33.94736842105264,
-          "Contact": 6.875000000000006,
+          "On-base": 41.111111111111086,
+          "Power": 32.36842105263158,
+          "Contact": 5.000000000000004,
           "Discipline": 29.36507936507936,
           "Speed": 6.666666666666667
         },
         "summary": "Josh Livingston gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .231",
-          "OBP .358",
-          "SLG .449"
+          "AVG .228",
+          "OBP .354",
+          "SLG .443"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".231"
+            "value": ".228"
           },
           {
             "label": "OBP",
-            "value": ".358"
+            "value": ".354"
           },
           {
             "label": "SLG",
-            "value": ".449"
+            "value": ".443"
           },
           {
             "label": "HR",
@@ -2122,20 +2122,20 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "jersey": "24",
         "profileUrl": "https://texassports.com/sports/baseball/roster/adrian-rodriguez/15068",
         "imageUrl": "https://texassports.com/images/2025/12/8/Rodriguez_Adrian_Cropped-2026_u0fBX.jpg",
-        "gamesPlayed": 50,
-        "gamesStarted": 50,
-        "battingAverage": 0.306,
-        "onBasePercentage": 0.404,
-        "sluggingPercentage": 0.469,
-        "ops": 0.873,
-        "atBats": 196,
-        "runs": 45,
-        "hits": 60,
+        "gamesPlayed": 51,
+        "gamesStarted": 51,
+        "battingAverage": 0.312,
+        "onBasePercentage": 0.408,
+        "sluggingPercentage": 0.472,
+        "ops": 0.88,
+        "atBats": 199,
+        "runs": 46,
+        "hits": 62,
         "doubles": 16,
         "triples": 2,
         "homeRuns": 4,
         "runsBattedIn": 40,
-        "totalBases": 92,
+        "totalBases": 94,
         "walks": 33,
         "hitByPitch": 2,
         "strikeouts": 33,
@@ -2143,12 +2143,12 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "groundedIntoDoublePlay": 3,
         "sacrificeFlies": 4,
         "sacrificeHits": 2,
-        "stolenBases": 13,
-        "stolenBasesAttempts": 17,
-        "putouts": 42,
+        "stolenBases": 14,
+        "stolenBasesAttempts": 18,
+        "putouts": 44,
         "assists": 0,
         "errors": 5,
-        "plateAppearances": 258,
+        "plateAppearances": 262,
         "caughtStealing": 4,
         "pickedOff": 0
       },
@@ -2160,10 +2160,10 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "jersey": "24",
         "profileUrl": "https://texassports.com/sports/baseball/roster/adrian-rodriguez/15068",
         "imageUrl": "https://texassports.com/images/2025/12/8/Rodriguez_Adrian_Cropped-2026_u0fBX.jpg",
-        "gamesPlayed": 48,
-        "gamesStarted": 48,
-        "putouts": 42,
-        "assists": 108,
+        "gamesPlayed": 49,
+        "gamesStarted": 49,
+        "putouts": 44,
+        "assists": 109,
         "errors": 5,
         "fieldingPercentage": 0.968,
         "doublePlays": 18,
@@ -2172,39 +2172,39 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 155
+        "totalChances": 158
       },
       "evaluation": {
-        "score": 59,
+        "score": 61,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 68.88888888888889,
-          "Power": 39.210526315789465,
-          "Contact": 53.75,
+          "On-base": 71.11111111111109,
+          "Power": 40,
+          "Contact": 57.49999999999999,
           "Discipline": 88.88888888888889,
-          "Speed": 43.333333333333336
+          "Speed": 46.666666666666664
         },
         "summary": "Adrian Rodriguez profiles as a INF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .306",
-          "OBP .404",
-          "SLG .469"
+          "AVG .312",
+          "OBP .408",
+          "SLG .472"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".306"
+            "value": ".312"
           },
           {
             "label": "OBP",
-            "value": ".404"
+            "value": ".408"
           },
           {
             "label": "SLG",
-            "value": ".469"
+            "value": ".472"
           },
           {
             "label": "HR",
@@ -2216,7 +2216,7 @@ window.__BASEBALL_DATASETS__.texas2026 = {
           },
           {
             "label": "SB",
-            "value": "13"
+            "value": "14"
           }
         ],
         "metaLine": "SO / S/B",
@@ -2744,13 +2744,13 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "jersey": "31",
         "profileUrl": "https://texassports.com/sports/baseball/roster/casey-borba/15074",
         "imageUrl": "https://texassports.com/images/2025/12/8/Borba_Casey_Cropped-2026_rSUTv.jpg",
-        "gamesPlayed": 58,
-        "gamesStarted": 57,
-        "battingAverage": 0.269,
-        "onBasePercentage": 0.372,
-        "sluggingPercentage": 0.571,
-        "ops": 0.943,
-        "atBats": 212,
+        "gamesPlayed": 59,
+        "gamesStarted": 58,
+        "battingAverage": 0.265,
+        "onBasePercentage": 0.367,
+        "sluggingPercentage": 0.563,
+        "ops": 0.93,
+        "atBats": 215,
         "runs": 48,
         "hits": 57,
         "doubles": 10,
@@ -2760,7 +2760,7 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "totalBases": 121,
         "walks": 32,
         "hitByPitch": 5,
-        "strikeouts": 77,
+        "strikeouts": 79,
         "intentionalWalks": 2,
         "groundedIntoDoublePlay": 6,
         "sacrificeFlies": 4,
@@ -2769,8 +2769,8 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "stolenBasesAttempts": 6,
         "putouts": 311,
         "assists": 0,
-        "errors": 3,
-        "plateAppearances": 263,
+        "errors": 4,
+        "plateAppearances": 266,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -2782,51 +2782,51 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "jersey": "31",
         "profileUrl": "https://texassports.com/sports/baseball/roster/casey-borba/15074",
         "imageUrl": "https://texassports.com/images/2025/12/8/Borba_Casey_Cropped-2026_rSUTv.jpg",
-        "gamesPlayed": 58,
-        "gamesStarted": 57,
+        "gamesPlayed": 59,
+        "gamesStarted": 58,
         "putouts": 311,
         "assists": 52,
-        "errors": 3,
-        "fieldingPercentage": 0.992,
+        "errors": 4,
+        "fieldingPercentage": 0.989,
         "doublePlays": 26,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 366
+        "totalChances": 367
       },
       "evaluation": {
-        "score": 44,
+        "score": 42,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 51.11111111111109,
-          "Power": 66.05263157894737,
-          "Contact": 30.625000000000007,
-          "Discipline": 23.953823953823953,
+          "On-base": 48.333333333333314,
+          "Power": 63.947368421052616,
+          "Contact": 28.125000000000007,
+          "Discipline": 22.784810126582272,
           "Speed": 16.666666666666664
         },
         "summary": "Casey Borba profiles as a INF piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .269",
-          "OBP .372",
-          "SLG .571"
+          "AVG .265",
+          "OBP .367",
+          "SLG .563"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".269"
+            "value": ".265"
           },
           {
             "label": "OBP",
-            "value": ".372"
+            "value": ".367"
           },
           {
             "label": "SLG",
-            "value": ".571"
+            "value": ".563"
           },
           {
             "label": "HR",
@@ -2889,7 +2889,7 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "jersey": "32",
         "profileUrl": "https://texassports.com/sports/baseball/roster/maddox-monsour/15075",
         "imageUrl": "https://texassports.com/images/2026/2/10/Monsour_Maddox_Cropped-2026.jpg",
-        "gamesPlayed": 34,
+        "gamesPlayed": 35,
         "gamesStarted": 14,
         "battingAverage": 0.185,
         "onBasePercentage": 0.267,
@@ -3157,31 +3157,31 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "jersey": "34",
         "profileUrl": "https://texassports.com/sports/baseball/roster/michael-winter/15077",
         "imageUrl": "https://texassports.com/images/2025/12/8/Winter_Michael_Cropped-2026_Vq4VN.jpg",
-        "gamesPlayed": 11,
+        "gamesPlayed": 12,
         "gamesStarted": 2,
-        "appearances": 11,
+        "appearances": 12,
         "gamesCompleted": 0,
-        "earnedRunAverage": 6.39,
-        "whip": 1.82,
+        "earnedRunAverage": 5.93,
+        "whip": 1.76,
         "wins": 1,
         "losses": 0,
         "saves": 1,
         "shutouts": 0,
-        "inningsPitched": 12.666666666666666,
-        "inningsPitchedDisplay": "12.2",
+        "inningsPitched": 13.666666666666666,
+        "inningsPitchedDisplay": "13.2",
         "hitsAllowed": 16,
         "runsAllowed": 10,
         "earnedRunsAllowed": 9,
-        "walksAllowed": 7,
-        "strikeouts": 12,
+        "walksAllowed": 8,
+        "strikeouts": 13,
         "doublesAllowed": 3,
         "triplesAllowed": 0,
         "homeRunsAllowed": 1,
-        "opponentsAtBats": 51,
+        "opponentsAtBats": 54,
         "wildPitches": 2,
         "hitBatters": 1,
         "balks": 2,
-        "opponentsBattingAverage": 0.314,
+        "opponentsBattingAverage": 0.296,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -3206,7 +3206,7 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "totalChances": 1
       },
       "evaluation": {
-        "score": 11,
+        "score": 10,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3214,40 +3214,40 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 41.148325358851686,
-          "Command": 14.285714285714288,
+          "Miss bats": 41.46341463414634,
+          "Command": 12.499999999999996,
           "Damage suppression": 0
         },
         "summary": "Michael Winter gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 6.39",
-          "WHIP 1.82",
-          "K/9 8.5"
+          "ERA 5.93",
+          "WHIP 1.76",
+          "K/9 8.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.39"
+            "value": "5.93"
           },
           {
             "label": "WHIP",
-            "value": "1.82"
+            "value": "1.76"
           },
           {
             "label": "K/9",
-            "value": "8.5"
+            "value": "8.6"
           },
           {
             "label": "BB/9",
-            "value": "5.0"
+            "value": "5.3"
           },
           {
             "label": "HR/9",
-            "value": "0.71"
+            "value": "0.66"
           },
           {
             "label": "IP",
-            "value": "12.7"
+            "value": "13.7"
           }
         ],
         "metaLine": "FR / R/R",
@@ -3440,7 +3440,7 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "jersey": "36",
         "profileUrl": "https://texassports.com/sports/baseball/roster/callum-early/15080",
         "imageUrl": "https://texassports.com/images/2025/12/8/Early_Callum_Cropped-2026_9Gcpb.jpg",
-        "gamesPlayed": 9,
+        "gamesPlayed": 10,
         "gamesStarted": 0,
         "battingAverage": 0,
         "onBasePercentage": 0.167,
@@ -3869,13 +3869,13 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "jersey": "42",
         "profileUrl": "https://texassports.com/sports/baseball/roster/dariyan-pendergrass/16904",
         "imageUrl": "https://texassports.com/images/2025/12/16/Pendergrass_Dariyan_Cropped-2026.jpg",
-        "gamesPlayed": 17,
-        "gamesStarted": 12,
-        "battingAverage": 0.222,
-        "onBasePercentage": 0.408,
-        "sluggingPercentage": 0.25,
-        "ops": 0.658,
-        "atBats": 36,
+        "gamesPlayed": 18,
+        "gamesStarted": 13,
+        "battingAverage": 0.211,
+        "onBasePercentage": 0.392,
+        "sluggingPercentage": 0.237,
+        "ops": 0.629,
+        "atBats": 38,
         "runs": 11,
         "hits": 8,
         "doubles": 1,
@@ -3885,17 +3885,17 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "totalBases": 9,
         "walks": 9,
         "hitByPitch": 3,
-        "strikeouts": 6,
+        "strikeouts": 7,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 1,
         "sacrificeHits": 1,
         "stolenBases": 4,
         "stolenBasesAttempts": 5,
-        "putouts": 12,
+        "putouts": 15,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 56,
+        "plateAppearances": 58,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -3907,9 +3907,9 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "jersey": "42",
         "profileUrl": "https://texassports.com/sports/baseball/roster/dariyan-pendergrass/16904",
         "imageUrl": "https://texassports.com/images/2025/12/16/Pendergrass_Dariyan_Cropped-2026.jpg",
-        "gamesPlayed": 8,
-        "gamesStarted": 7,
-        "putouts": 12,
+        "gamesPlayed": 9,
+        "gamesStarted": 8,
+        "putouts": 15,
         "assists": 0,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -3919,39 +3919,39 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 12
+        "totalChances": 15
       },
       "evaluation": {
-        "score": 38,
+        "score": 35,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 71.11111111111109,
+          "On-base": 62.22222222222222,
           "Power": 0,
-          "Contact": 1.250000000000001,
+          "Contact": 0,
           "Discipline": 100,
           "Speed": 13.333333333333334
         },
-        "summary": "Dariyan Pendergrass profiles as a OF piece who gets on base at a high clip and controls at-bats.",
+        "summary": "Dariyan Pendergrass profiles as a OF piece who controls at-bats.",
         "summaryMetrics": [
-          "AVG .222",
-          "OBP .408",
-          "SLG .250"
+          "AVG .211",
+          "OBP .392",
+          "SLG .237"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".222"
+            "value": ".211"
           },
           {
             "label": "OBP",
-            "value": ".408"
+            "value": ".392"
           },
           {
             "label": "SLG",
-            "value": ".250"
+            "value": ".237"
           },
           {
             "label": "HR",
@@ -4014,13 +4014,13 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "jersey": "43",
         "profileUrl": "https://texassports.com/sports/baseball/roster/aiden-robbins/15083",
         "imageUrl": "https://texassports.com/images/2025/12/8/Robbins_Aiden_Cropped-2026_2TzGy.jpg",
-        "gamesPlayed": 57,
-        "gamesStarted": 57,
-        "battingAverage": 0.342,
-        "onBasePercentage": 0.435,
-        "sluggingPercentage": 0.72,
-        "ops": 1.155,
-        "atBats": 225,
+        "gamesPlayed": 58,
+        "gamesStarted": 58,
+        "battingAverage": 0.336,
+        "onBasePercentage": 0.429,
+        "sluggingPercentage": 0.707,
+        "ops": 1.136,
+        "atBats": 229,
         "runs": 65,
         "hits": 77,
         "doubles": 9,
@@ -4030,17 +4030,17 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "totalBases": 162,
         "walks": 39,
         "hitByPitch": 2,
-        "strikeouts": 60,
+        "strikeouts": 62,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 5,
         "sacrificeHits": 0,
         "stolenBases": 12,
         "stolenBasesAttempts": 13,
-        "putouts": 81,
+        "putouts": 84,
         "assists": 0,
         "errors": 5,
-        "plateAppearances": 285,
+        "plateAppearances": 289,
         "caughtStealing": 1,
         "pickedOff": 0
       },
@@ -4052,51 +4052,51 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "jersey": "43",
         "profileUrl": "https://texassports.com/sports/baseball/roster/aiden-robbins/15083",
         "imageUrl": "https://texassports.com/images/2025/12/8/Robbins_Aiden_Cropped-2026_2TzGy.jpg",
-        "gamesPlayed": 47,
-        "gamesStarted": 47,
-        "putouts": 81,
+        "gamesPlayed": 48,
+        "gamesStarted": 48,
+        "putouts": 84,
         "assists": 1,
         "errors": 5,
-        "fieldingPercentage": 0.943,
+        "fieldingPercentage": 0.944,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 87
+        "totalChances": 90
       },
       "evaluation": {
-        "score": 78,
+        "score": 76,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "components": {
-          "On-base": 86.1111111111111,
+          "On-base": 82.77777777777776,
           "Power": 100,
-          "Contact": 76.25000000000001,
-          "Discipline": 49.99999999999999,
+          "Contact": 72.50000000000001,
+          "Discipline": 47.67025089605734,
           "Speed": 40
         },
         "summary": "Aiden Robbins profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .342",
-          "OBP .435",
-          "SLG .720"
+          "AVG .336",
+          "OBP .429",
+          "SLG .707"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".342"
+            "value": ".336"
           },
           {
             "label": "OBP",
-            "value": ".435"
+            "value": ".429"
           },
           {
             "label": "SLG",
-            "value": ".720"
+            "value": ".707"
           },
           {
             "label": "HR",
@@ -4159,13 +4159,13 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "jersey": "44",
         "profileUrl": "https://texassports.com/sports/baseball/roster/ashton-larson/15084",
         "imageUrl": "https://texassports.com/images/2025/12/8/Larson_Ashton_Cropped-2026_bWbxp.jpg",
-        "gamesPlayed": 53,
-        "gamesStarted": 43,
-        "battingAverage": 0.28,
-        "onBasePercentage": 0.453,
-        "sluggingPercentage": 0.364,
-        "ops": 0.817,
-        "atBats": 118,
+        "gamesPlayed": 54,
+        "gamesStarted": 44,
+        "battingAverage": 0.273,
+        "onBasePercentage": 0.444,
+        "sluggingPercentage": 0.355,
+        "ops": 0.799,
+        "atBats": 121,
         "runs": 21,
         "hits": 33,
         "doubles": 7,
@@ -4177,15 +4177,15 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "hitByPitch": 5,
         "strikeouts": 32,
         "intentionalWalks": 1,
-        "groundedIntoDoublePlay": 3,
+        "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 2,
         "sacrificeHits": 1,
         "stolenBases": 3,
         "stolenBasesAttempts": 3,
-        "putouts": 122,
+        "putouts": 129,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 163,
+        "plateAppearances": 166,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -4197,9 +4197,9 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "jersey": "44",
         "profileUrl": "https://texassports.com/sports/baseball/roster/ashton-larson/15084",
         "imageUrl": "https://texassports.com/images/2025/12/8/Larson_Ashton_Cropped-2026_bWbxp.jpg",
-        "gamesPlayed": 23,
-        "gamesStarted": 23,
-        "putouts": 122,
+        "gamesPlayed": 24,
+        "gamesStarted": 24,
+        "putouts": 129,
         "assists": 4,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -4209,39 +4209,39 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 126
+        "totalChances": 133
       },
       "evaluation": {
-        "score": 55,
+        "score": 52,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 96.1111111111111,
-          "Power": 11.57894736842105,
-          "Contact": 37.500000000000014,
+          "On-base": 91.1111111111111,
+          "Power": 9.210526315789469,
+          "Contact": 33.12500000000001,
           "Discipline": 95.83333333333333,
           "Speed": 10
         },
         "summary": "Ashton Larson profiles as a OF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .280",
-          "OBP .453",
-          "SLG .364"
+          "AVG .273",
+          "OBP .444",
+          "SLG .355"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".280"
+            "value": ".273"
           },
           {
             "label": "OBP",
-            "value": ".453"
+            "value": ".444"
           },
           {
             "label": "SLG",
-            "value": ".364"
+            "value": ".355"
           },
           {
             "label": "HR",
@@ -5103,31 +5103,31 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "jersey": "88",
         "profileUrl": "https://texassports.com/sports/baseball/roster/brett-crossland/15094",
         "imageUrl": "https://texassports.com/images/2025/12/8/Crossland_Brett_Cropped-2026_KqmEy.png",
-        "gamesPlayed": 24,
+        "gamesPlayed": 25,
         "gamesStarted": 0,
-        "appearances": 24,
+        "appearances": 25,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.57,
+        "earnedRunAverage": 3.47,
         "whip": 1.37,
         "wins": 1,
         "losses": 2,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 22.666666666666668,
-        "inningsPitchedDisplay": "22.2",
-        "hitsAllowed": 19,
+        "inningsPitched": 23.333333333333332,
+        "inningsPitchedDisplay": "23.1",
+        "hitsAllowed": 20,
         "runsAllowed": 10,
         "earnedRunsAllowed": 9,
         "walksAllowed": 12,
-        "strikeouts": 32,
+        "strikeouts": 34,
         "doublesAllowed": 3,
         "triplesAllowed": 0,
         "homeRunsAllowed": 2,
-        "opponentsAtBats": 84,
+        "opponentsAtBats": 87,
         "wildPitches": 2,
         "hitBatters": 7,
         "balks": 0,
-        "opponentsBattingAverage": 0.226,
+        "opponentsBattingAverage": 0.23,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -5137,14 +5137,14 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "jersey": "88",
         "profileUrl": "https://texassports.com/sports/baseball/roster/brett-crossland/15094",
         "imageUrl": "https://texassports.com/images/2025/12/8/Crossland_Brett_Cropped-2026_KqmEy.png",
-        "gamesPlayed": 8,
+        "gamesPlayed": 9,
         "gamesStarted": 0,
         "putouts": 3,
         "assists": 3,
         "errors": 2,
         "fieldingPercentage": 0.75,
         "doublePlays": 0,
-        "stolenBasesAgainst": 3,
+        "stolenBasesAgainst": 4,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
@@ -5152,7 +5152,7 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "totalChances": 8
       },
       "evaluation": {
-        "score": 21,
+        "score": 22,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5160,20 +5160,20 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 79.14438502673796,
-          "Command": 33.33333333333333,
+          "Miss bats": 82.85714285714288,
+          "Command": 36.66666666666667,
           "Damage suppression": 0
         },
         "summary": "Brett Crossland looks like a RHP option who limits runs and misses bats.",
         "summaryMetrics": [
-          "ERA 3.57",
+          "ERA 3.47",
           "WHIP 1.37",
-          "K/9 12.7"
+          "K/9 13.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.57"
+            "value": "3.47"
           },
           {
             "label": "WHIP",
@@ -5181,19 +5181,19 @@ window.__BASEBALL_DATASETS__.texas2026 = {
           },
           {
             "label": "K/9",
-            "value": "12.7"
+            "value": "13.1"
           },
           {
             "label": "BB/9",
-            "value": "4.8"
+            "value": "4.6"
           },
           {
             "label": "HR/9",
-            "value": "0.79"
+            "value": "0.77"
           },
           {
             "label": "IP",
-            "value": "22.7"
+            "value": "23.3"
           }
         ],
         "metaLine": "FR / R/R",
@@ -5245,31 +5245,31 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "jersey": "99",
         "profileUrl": "https://texassports.com/sports/baseball/roster/dylan-volantis/15096",
         "imageUrl": "https://texassports.com/images/2025/12/8/Volantis_Dylan_Cropped-2026_pwLpD.jpg",
-        "gamesPlayed": 16,
-        "gamesStarted": 15,
-        "appearances": 16,
+        "gamesPlayed": 17,
+        "gamesStarted": 16,
+        "appearances": 17,
         "gamesCompleted": 0,
-        "earnedRunAverage": 2.03,
-        "whip": 1.02,
+        "earnedRunAverage": 2.08,
+        "whip": 1,
         "wins": 10,
-        "losses": 1,
+        "losses": 2,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 88.66666666666667,
-        "inningsPitchedDisplay": "88.2",
-        "hitsAllowed": 63,
-        "runsAllowed": 21,
-        "earnedRunsAllowed": 20,
-        "walksAllowed": 27,
-        "strikeouts": 126,
-        "doublesAllowed": 12,
+        "inningsPitched": 95,
+        "inningsPitchedDisplay": "95.0",
+        "hitsAllowed": 67,
+        "runsAllowed": 28,
+        "earnedRunsAllowed": 22,
+        "walksAllowed": 28,
+        "strikeouts": 135,
+        "doublesAllowed": 13,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 328,
-        "wildPitches": 11,
-        "hitBatters": 7,
+        "homeRunsAllowed": 3,
+        "opponentsAtBats": 355,
+        "wildPitches": 13,
+        "hitBatters": 11,
         "balks": 0,
-        "opponentsBattingAverage": 0.192,
+        "opponentsBattingAverage": 0.189,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -5279,19 +5279,19 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "jersey": "99",
         "profileUrl": "https://texassports.com/sports/baseball/roster/dylan-volantis/15096",
         "imageUrl": "https://texassports.com/images/2025/12/8/Volantis_Dylan_Cropped-2026_pwLpD.jpg",
-        "gamesPlayed": 14,
-        "gamesStarted": 14,
+        "gamesPlayed": 15,
+        "gamesStarted": 15,
         "putouts": 1,
-        "assists": 17,
+        "assists": 19,
         "errors": 3,
-        "fieldingPercentage": 0.857,
+        "fieldingPercentage": 0.87,
         "doublePlays": 2,
         "stolenBasesAgainst": 7,
         "caughtStealingBy": 2,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 21
+        "totalChances": 23
       },
       "evaluation": {
         "score": 28,
@@ -5303,23 +5303,23 @@ window.__BASEBALL_DATASETS__.texas2026 = {
           "Run prevention": 0,
           "Traffic control": 0,
           "Miss bats": 79.90430622009569,
-          "Command": 73.33333333333331,
+          "Command": 76.42857142857142,
           "Damage suppression": 0
         },
         "summary": "Dylan Volantis looks like a LHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 2.03",
-          "WHIP 1.02",
+          "ERA 2.08",
+          "WHIP 1.00",
           "K/9 12.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.03"
+            "value": "2.08"
           },
           {
             "label": "WHIP",
-            "value": "1.02"
+            "value": "1.00"
           },
           {
             "label": "K/9",
@@ -5331,11 +5331,11 @@ window.__BASEBALL_DATASETS__.texas2026 = {
           },
           {
             "label": "HR/9",
-            "value": "0.20"
+            "value": "0.28"
           },
           {
             "label": "IP",
-            "value": "88.7"
+            "value": "95.0"
           }
         ],
         "metaLine": "SO / L/L",
@@ -5435,29 +5435,29 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "position": "INF",
         "classYear": "R-SR",
         "handedness": "R/R",
-        "score": 63,
+        "score": 60,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Temo Becerra profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .318",
-          "OBP .436",
-          "SLG .467"
+          "AVG .312",
+          "OBP .429",
+          "SLG .459"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".318"
+            "value": ".312"
           },
           {
             "label": "OBP",
-            "value": ".436"
+            "value": ".429"
           },
           {
             "label": "SLG",
-            "value": ".467"
+            "value": ".459"
           },
           {
             "label": "HR",
@@ -5473,10 +5473,10 @@ window.__BASEBALL_DATASETS__.texas2026 = {
           }
         ],
         "components": {
-          "On-base": 86.66666666666666,
-          "Power": 38.6842105263158,
-          "Contact": 61.25000000000001,
-          "Discipline": 74.70449172576832,
+          "On-base": 82.77777777777776,
+          "Power": 36.57894736842106,
+          "Contact": 57.49999999999999,
+          "Discipline": 67.10239651416123,
           "Speed": 40
         },
         "metaLine": "R-SR / R/R",
@@ -5573,29 +5573,29 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 53,
+        "score": 54,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Ethan Mendoza profiles as a INF piece who controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .269",
-          "OBP .386",
-          "SLG .475"
+          "AVG .275",
+          "OBP .389",
+          "SLG .477"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".269"
+            "value": ".275"
           },
           {
             "label": "OBP",
-            "value": ".386"
+            "value": ".389"
           },
           {
             "label": "SLG",
-            "value": ".475"
+            "value": ".477"
           },
           {
             "label": "HR",
@@ -5603,7 +5603,7 @@ window.__BASEBALL_DATASETS__.texas2026 = {
           },
           {
             "label": "RBI",
-            "value": "47"
+            "value": "48"
           },
           {
             "label": "SB",
@@ -5611,9 +5611,9 @@ window.__BASEBALL_DATASETS__.texas2026 = {
           }
         ],
         "components": {
-          "On-base": 58.88888888888888,
-          "Power": 40.78947368421053,
-          "Contact": 30.625000000000007,
+          "On-base": 60.55555555555555,
+          "Power": 41.31578947368421,
+          "Contact": 34.375000000000014,
           "Discipline": 100,
           "Speed": 36.666666666666664
         },
@@ -5642,29 +5642,29 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "position": "OF",
         "classYear": "FR",
         "handedness": "L/L",
-        "score": 87,
+        "score": 86,
         "fit": {
           "label": "Priority",
           "className": "fit-priority"
         },
         "summary": "Anthony Pack Jr. profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .359",
-          "OBP .485",
-          "SLG .597"
+          "AVG .352",
+          "OBP .477",
+          "SLG .586"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".359"
+            "value": ".352"
           },
           {
             "label": "OBP",
-            "value": ".485"
+            "value": ".477"
           },
           {
             "label": "SLG",
-            "value": ".597"
+            "value": ".586"
           },
           {
             "label": "HR",
@@ -5681,8 +5681,8 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         ],
         "components": {
           "On-base": 100,
-          "Power": 72.89473684210527,
-          "Contact": 86.87499999999999,
+          "Power": 70,
+          "Contact": 82.49999999999999,
           "Discipline": 100,
           "Speed": 66.66666666666666
         },
@@ -5780,29 +5780,29 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "position": "C",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 84,
+        "score": 83,
         "fit": {
           "label": "Priority",
           "className": "fit-priority"
         },
         "summary": "Carson Tinney profiles as a C piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .333",
-          "OBP .484",
-          "SLG .710"
+          "AVG .329",
+          "OBP .480",
+          "SLG .700"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".333"
+            "value": ".329"
           },
           {
             "label": "OBP",
-            "value": ".484"
+            "value": ".480"
           },
           {
             "label": "SLG",
-            "value": ".710"
+            "value": ".700"
           },
           {
             "label": "HR",
@@ -5820,8 +5820,8 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "components": {
           "On-base": 100,
           "Power": 100,
-          "Contact": 70.625,
-          "Discipline": 68.85245901639344,
+          "Contact": 68.125,
+          "Discipline": 67.72486772486772,
           "Speed": 33.33333333333333
         },
         "metaLine": "JR / R/R",
@@ -6194,29 +6194,29 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "position": "INF",
         "classYear": "GR",
         "handedness": "L/R",
-        "score": 29,
+        "score": 27,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Josh Livingston gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .231",
-          "OBP .358",
-          "SLG .449"
+          "AVG .228",
+          "OBP .354",
+          "SLG .443"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".231"
+            "value": ".228"
           },
           {
             "label": "OBP",
-            "value": ".358"
+            "value": ".354"
           },
           {
             "label": "SLG",
-            "value": ".449"
+            "value": ".443"
           },
           {
             "label": "HR",
@@ -6232,9 +6232,9 @@ window.__BASEBALL_DATASETS__.texas2026 = {
           }
         ],
         "components": {
-          "On-base": 43.333333333333314,
-          "Power": 33.94736842105264,
-          "Contact": 6.875000000000006,
+          "On-base": 41.111111111111086,
+          "Power": 32.36842105263158,
+          "Contact": 5.000000000000004,
           "Discipline": 29.36507936507936,
           "Speed": 6.666666666666667
         },
@@ -6331,29 +6331,29 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "position": "INF",
         "classYear": "SO",
         "handedness": "S/B",
-        "score": 59,
+        "score": 61,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Adrian Rodriguez profiles as a INF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .306",
-          "OBP .404",
-          "SLG .469"
+          "AVG .312",
+          "OBP .408",
+          "SLG .472"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".306"
+            "value": ".312"
           },
           {
             "label": "OBP",
-            "value": ".404"
+            "value": ".408"
           },
           {
             "label": "SLG",
-            "value": ".469"
+            "value": ".472"
           },
           {
             "label": "HR",
@@ -6365,15 +6365,15 @@ window.__BASEBALL_DATASETS__.texas2026 = {
           },
           {
             "label": "SB",
-            "value": "13"
+            "value": "14"
           }
         ],
         "components": {
-          "On-base": 68.88888888888889,
-          "Power": 39.210526315789465,
-          "Contact": 53.75,
+          "On-base": 71.11111111111109,
+          "Power": 40,
+          "Contact": 57.49999999999999,
           "Discipline": 88.88888888888889,
-          "Speed": 43.333333333333336
+          "Speed": 46.666666666666664
         },
         "metaLine": "SO / S/B",
         "detailBadges": [
@@ -6675,29 +6675,29 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "position": "INF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 44,
+        "score": 42,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Casey Borba profiles as a INF piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .269",
-          "OBP .372",
-          "SLG .571"
+          "AVG .265",
+          "OBP .367",
+          "SLG .563"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".269"
+            "value": ".265"
           },
           {
             "label": "OBP",
-            "value": ".372"
+            "value": ".367"
           },
           {
             "label": "SLG",
-            "value": ".571"
+            "value": ".563"
           },
           {
             "label": "HR",
@@ -6713,10 +6713,10 @@ window.__BASEBALL_DATASETS__.texas2026 = {
           }
         ],
         "components": {
-          "On-base": 51.11111111111109,
-          "Power": 66.05263157894737,
-          "Contact": 30.625000000000007,
-          "Discipline": 23.953823953823953,
+          "On-base": 48.333333333333314,
+          "Power": 63.947368421052616,
+          "Contact": 28.125000000000007,
+          "Discipline": 22.784810126582272,
           "Speed": 16.666666666666664
         },
         "metaLine": "JR / R/R",
@@ -6882,48 +6882,48 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "position": "RHP",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 11,
+        "score": 10,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Michael Winter gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 6.39",
-          "WHIP 1.82",
-          "K/9 8.5"
+          "ERA 5.93",
+          "WHIP 1.76",
+          "K/9 8.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.39"
+            "value": "5.93"
           },
           {
             "label": "WHIP",
-            "value": "1.82"
+            "value": "1.76"
           },
           {
             "label": "K/9",
-            "value": "8.5"
+            "value": "8.6"
           },
           {
             "label": "BB/9",
-            "value": "5.0"
+            "value": "5.3"
           },
           {
             "label": "HR/9",
-            "value": "0.71"
+            "value": "0.66"
           },
           {
             "label": "IP",
-            "value": "12.7"
+            "value": "13.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 41.148325358851686,
-          "Command": 14.285714285714288,
+          "Miss bats": 41.46341463414634,
+          "Command": 12.499999999999996,
           "Damage suppression": 0
         },
         "metaLine": "FR / R/R",
@@ -7227,29 +7227,29 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "position": "OF",
         "classYear": "R-SR",
         "handedness": "L/L",
-        "score": 38,
+        "score": 35,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Dariyan Pendergrass profiles as a OF piece who gets on base at a high clip and controls at-bats.",
+        "summary": "Dariyan Pendergrass profiles as a OF piece who controls at-bats.",
         "summaryMetrics": [
-          "AVG .222",
-          "OBP .408",
-          "SLG .250"
+          "AVG .211",
+          "OBP .392",
+          "SLG .237"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".222"
+            "value": ".211"
           },
           {
             "label": "OBP",
-            "value": ".408"
+            "value": ".392"
           },
           {
             "label": "SLG",
-            "value": ".250"
+            "value": ".237"
           },
           {
             "label": "HR",
@@ -7265,9 +7265,9 @@ window.__BASEBALL_DATASETS__.texas2026 = {
           }
         ],
         "components": {
-          "On-base": 71.11111111111109,
+          "On-base": 62.22222222222222,
           "Power": 0,
-          "Contact": 1.250000000000001,
+          "Contact": 0,
           "Discipline": 100,
           "Speed": 13.333333333333334
         },
@@ -7296,29 +7296,29 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "position": "OF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 78,
+        "score": 76,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Aiden Robbins profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .342",
-          "OBP .435",
-          "SLG .720"
+          "AVG .336",
+          "OBP .429",
+          "SLG .707"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".342"
+            "value": ".336"
           },
           {
             "label": "OBP",
-            "value": ".435"
+            "value": ".429"
           },
           {
             "label": "SLG",
-            "value": ".720"
+            "value": ".707"
           },
           {
             "label": "HR",
@@ -7334,10 +7334,10 @@ window.__BASEBALL_DATASETS__.texas2026 = {
           }
         ],
         "components": {
-          "On-base": 86.1111111111111,
+          "On-base": 82.77777777777776,
           "Power": 100,
-          "Contact": 76.25000000000001,
-          "Discipline": 49.99999999999999,
+          "Contact": 72.50000000000001,
+          "Discipline": 47.67025089605734,
           "Speed": 40
         },
         "metaLine": "JR / R/R",
@@ -7365,29 +7365,29 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "position": "OF",
         "classYear": "JR",
         "handedness": "L/L",
-        "score": 55,
+        "score": 52,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Ashton Larson profiles as a OF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .280",
-          "OBP .453",
-          "SLG .364"
+          "AVG .273",
+          "OBP .444",
+          "SLG .355"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".280"
+            "value": ".273"
           },
           {
             "label": "OBP",
-            "value": ".453"
+            "value": ".444"
           },
           {
             "label": "SLG",
-            "value": ".364"
+            "value": ".355"
           },
           {
             "label": "HR",
@@ -7403,9 +7403,9 @@ window.__BASEBALL_DATASETS__.texas2026 = {
           }
         ],
         "components": {
-          "On-base": 96.1111111111111,
-          "Power": 11.57894736842105,
-          "Contact": 37.500000000000014,
+          "On-base": 91.1111111111111,
+          "Power": 9.210526315789469,
+          "Contact": 33.12500000000001,
           "Discipline": 95.83333333333333,
           "Speed": 10
         },
@@ -7847,21 +7847,21 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         "position": "RHP",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 21,
+        "score": 22,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Brett Crossland looks like a RHP option who limits runs and misses bats.",
         "summaryMetrics": [
-          "ERA 3.57",
+          "ERA 3.47",
           "WHIP 1.37",
-          "K/9 12.7"
+          "K/9 13.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.57"
+            "value": "3.47"
           },
           {
             "label": "WHIP",
@@ -7869,26 +7869,26 @@ window.__BASEBALL_DATASETS__.texas2026 = {
           },
           {
             "label": "K/9",
-            "value": "12.7"
+            "value": "13.1"
           },
           {
             "label": "BB/9",
-            "value": "4.8"
+            "value": "4.6"
           },
           {
             "label": "HR/9",
-            "value": "0.79"
+            "value": "0.77"
           },
           {
             "label": "IP",
-            "value": "22.7"
+            "value": "23.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 79.14438502673796,
-          "Command": 33.33333333333333,
+          "Miss bats": 82.85714285714288,
+          "Command": 36.66666666666667,
           "Damage suppression": 0
         },
         "metaLine": "FR / R/R",
@@ -7923,18 +7923,18 @@ window.__BASEBALL_DATASETS__.texas2026 = {
         },
         "summary": "Dylan Volantis looks like a LHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 2.03",
-          "WHIP 1.02",
+          "ERA 2.08",
+          "WHIP 1.00",
           "K/9 12.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.03"
+            "value": "2.08"
           },
           {
             "label": "WHIP",
-            "value": "1.02"
+            "value": "1.00"
           },
           {
             "label": "K/9",
@@ -7946,18 +7946,18 @@ window.__BASEBALL_DATASETS__.texas2026 = {
           },
           {
             "label": "HR/9",
-            "value": "0.20"
+            "value": "0.28"
           },
           {
             "label": "IP",
-            "value": "88.7"
+            "value": "95.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
           "Miss bats": 79.90430622009569,
-          "Command": 73.33333333333331,
+          "Command": 76.42857142857142,
           "Damage suppression": 0
         },
         "metaLine": "SO / L/L",
