@@ -1,6 +1,6 @@
 export default {
   "source": "Mid-American Conference standings page",
-  "fetchedAt": "2026-06-08T13:23:10.809Z",
+  "fetchedAt": "2026-06-15T14:02:41.264Z",
   "conference": {
     "id": "mac",
     "name": "Mid-American Conference",
