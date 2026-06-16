@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.alabama2026 = {
-  "generatedAt": "2026-06-15T12:23:47.757Z",
+  "generatedAt": "2026-06-16T11:58:02.473Z",
   "season": 2026,
   "school": {
     "slug": "alabama",
@@ -39,84 +39,84 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
     }
   },
   "teamSummary": {
-    "record": "42-20, 18-12",
-    "battingAverage": ".257",
-    "earnedRunAverage": "4.19",
+    "record": "42-21, 18-12",
+    "battingAverage": ".256",
+    "earnedRunAverage": "4.34",
     "wins": "42",
-    "losses": "20",
+    "losses": "21",
     "hitting": {
-      "atBats": "2017",
-      "runsScored": "407",
-      "hits": "518",
-      "runsBattedIn": "377",
+      "atBats": "2049",
+      "runsScored": "409",
+      "hits": "524",
+      "runsBattedIn": "379",
       "doubles": "101",
       "triples": "10",
-      "homeRuns": "80",
-      "walks": "290",
+      "homeRuns": "81",
+      "walks": "293",
       "intentionalWalks": "8",
-      "strikeouts": "566",
-      "strikeoutsLooking": "167",
-      "hitByPitch": "104",
-      "stolenBases": "86",
+      "strikeouts": "577",
+      "strikeoutsLooking": "169",
+      "hitByPitch": "105",
+      "stolenBases": "87",
       "caughtStealing": "8",
       "sacrificeHits": "15",
       "sacrificeFlies": "26",
       "reachedOnCatchersInteference": "2",
       "reachedOnError": "0",
       "reachesOnAFieldersChoice": "0",
-      "groundOuts": "444",
-      "flyOuts": "496",
-      "groundedIntoDoublePlay": "32",
+      "groundOuts": "452",
+      "flyOuts": "502",
+      "groundedIntoDoublePlay": "33",
       "pickedOff": "4",
-      "doublePlaysHitInto": "35",
+      "doublePlaysHitInto": "37",
       "triplePlaysHitInto": "0"
     },
     "fielding": {
-      "putouts": "1611",
-      "assists": "550",
-      "errors": "81",
+      "putouts": "1635",
+      "assists": "563",
+      "errors": "82",
       "passedBalls": "10",
       "catchersInterference": "1",
-      "stolenBasesAgainst": "54",
+      "stolenBasesAgainst": "56",
       "caughtStealingBy": "19",
-      "involvedInDoublePlays": "51",
+      "involvedInDoublePlays": "53",
       "involvedInTriplePlays": "0",
-      "totalChances": "2242",
+      "totalChances": "2280",
       "fieldingPercentage": ".964"
     },
     "pitching": {
       "orderOfAppearance": "0",
       "wins": "42",
       "saves": "15",
-      "losses": "20",
+      "losses": "21",
       "gamesStarted": "0",
       "gamesCompleted": "1",
       "shutouts": "3",
       "creditForCombinedShutout": "0",
-      "inningsPitched": "537.0",
-      "hitsAllowed": "496",
-      "runsAllowed": "304",
-      "earnedRunsAllowed": "250",
-      "walksAllowed": "213",
-      "strikeouts": "540",
-      "battersFaced": "2346",
-      "opponentAtBats": "2023",
-      "doublesAllowed": "87",
-      "triplesAllowed": "4",
-      "homerunsAllowed": "59",
-      "wildPitches": "33",
+      "inningsPitched": "545.0",
+      "hitsAllowed": "509",
+      "runsAllowed": "318",
+      "earnedRunsAllowed": "263",
+      "walksAllowed": "219",
+      "strikeouts": "546",
+      "battersFaced": "2389",
+      "opponentAtBats": "2058",
+      "doublesAllowed": "91",
+      "triplesAllowed": "5",
+      "homerunsAllowed": "61",
+      "wildPitches": "34",
       "balks": "2",
-      "hitBatters": "65",
-      "strikeoutsLooking": "138",
+      "hitBatters": "66",
+      "strikeoutsLooking": "139",
       "intentionalWalks": "8",
       "inheritedRunners": "7",
       "inheritedRunnersThatScored": "3",
-      "sacrificeHitsAllowed": "24",
+      "sacrificeHitsAllowed": "25",
       "sacrificeFliesAllowed": "20",
       "catchersInterferenceAllowed": "1",
-      "pitches": "8961",
-      "flyouts": "474",
-      "groundouts": "507",
+      "pitches": "9131",
+      "flyouts": "476",
+      "groundouts": "521",
       "teamUnearnedRuns": "0",
       "saveRecord": "14",
       "pickoff": "9"
@@ -161,33 +161,33 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "jersey": "1",
         "profileUrl": "https://rolltide.com/sports/baseball/roster/justin-lebron/17284",
         "imageUrl": "https://rolltide.com/images/2026/2/4/Lebron__Justin.png",
-        "gamesPlayed": 60,
-        "gamesStarted": 60,
+        "gamesPlayed": 61,
+        "gamesStarted": 61,
         "battingAverage": 0.277,
-        "onBasePercentage": 0.384,
-        "sluggingPercentage": 0.536,
+        "onBasePercentage": 0.386,
+        "sluggingPercentage": 0.534,
         "ops": 0.92,
-        "atBats": 235,
+        "atBats": 238,
         "runs": 58,
-        "hits": 65,
+        "hits": 66,
         "doubles": 13,
         "triples": 0,
         "homeRuns": 16,
         "runsBattedIn": 48,
-        "totalBases": 126,
+        "totalBases": 127,
         "walks": 27,
-        "hitByPitch": 16,
+        "hitByPitch": 17,
         "strikeouts": 56,
         "intentionalWalks": 2,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 3,
         "sacrificeHits": 0,
-        "stolenBases": 41,
-        "stolenBasesAttempts": 42,
-        "putouts": 96,
+        "stolenBases": 42,
+        "stolenBasesAttempts": 43,
+        "putouts": 97,
         "assists": 0,
-        "errors": 18,
-        "plateAppearances": 324,
+        "errors": 19,
+        "plateAppearances": 329,
         "caughtStealing": 1,
         "pickedOff": 1
       },
@@ -199,19 +199,19 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "jersey": "1",
         "profileUrl": "https://rolltide.com/sports/baseball/roster/justin-lebron/17284",
         "imageUrl": "https://rolltide.com/images/2026/2/4/Lebron__Justin.png",
-        "gamesPlayed": 59,
-        "gamesStarted": 59,
-        "putouts": 96,
-        "assists": 158,
-        "errors": 18,
-        "fieldingPercentage": 0.934,
-        "doublePlays": 35,
+        "gamesPlayed": 60,
+        "gamesStarted": 60,
+        "putouts": 97,
+        "assists": 162,
+        "errors": 19,
+        "fieldingPercentage": 0.932,
+        "doublePlays": 37,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 272
+        "totalChances": 278
       },
       "evaluation": {
         "score": 54,
@@ -220,8 +220,8 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 57.77777777777777,
-          "Power": 56.842105263157904,
+          "On-base": 58.88888888888888,
+          "Power": 56.31578947368422,
           "Contact": 35.625000000000014,
           "Discipline": 31.349206349206344,
           "Speed": 100
@@ -229,8 +229,8 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "summary": "Justin Lebron profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
           "AVG .277",
-          "OBP .384",
-          "SLG .536"
+          "OBP .386",
+          "SLG .534"
         ],
         "statCards": [
           {
@@ -239,11 +239,11 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
           },
           {
             "label": "OBP",
-            "value": ".384"
+            "value": ".386"
           },
           {
             "label": "SLG",
-            "value": ".536"
+            "value": ".534"
           },
           {
             "label": "HR",
@@ -255,7 +255,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
           },
           {
             "label": "SB",
-            "value": "41"
+            "value": "42"
           }
         ],
         "metaLine": "JR / R-R",
@@ -306,13 +306,13 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "jersey": "3",
         "profileUrl": "https://rolltide.com/sports/baseball/roster/will-plattner/17300",
         "imageUrl": "https://rolltide.com/images/2026/2/4/Plattner__Will.png",
-        "gamesPlayed": 29,
+        "gamesPlayed": 30,
         "gamesStarted": 20,
-        "battingAverage": 0.175,
-        "onBasePercentage": 0.284,
-        "sluggingPercentage": 0.3,
-        "ops": 0.584,
-        "atBats": 80,
+        "battingAverage": 0.173,
+        "onBasePercentage": 0.281,
+        "sluggingPercentage": 0.296,
+        "ops": 0.577,
+        "atBats": 81,
         "runs": 10,
         "hits": 14,
         "doubles": 4,
@@ -332,7 +332,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "putouts": 32,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 97,
+        "plateAppearances": 98,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -359,13 +359,13 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "totalChances": 35
       },
       "evaluation": {
-        "score": 4,
+        "score": 3,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 2.2222222222221935,
+          "On-base": 0.5555555555555561,
           "Power": 0,
           "Contact": 0,
           "Discipline": 17.77777777777777,
@@ -373,22 +373,22 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         },
         "summary": "Will Plattner gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .175",
-          "OBP .284",
-          "SLG .300"
+          "AVG .173",
+          "OBP .281",
+          "SLG .296"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".175"
+            "value": ".173"
           },
           {
             "label": "OBP",
-            "value": ".284"
+            "value": ".281"
           },
           {
             "label": "SLG",
-            "value": ".300"
+            "value": ".296"
           },
           {
             "label": "HR",
@@ -451,33 +451,33 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "jersey": "4",
         "profileUrl": "https://rolltide.com/sports/baseball/roster/brennan-holt/17411",
         "imageUrl": "https://rolltide.com/images/2026/2/4/Holt__Brennan.png",
-        "gamesPlayed": 62,
-        "gamesStarted": 62,
-        "battingAverage": 0.242,
-        "onBasePercentage": 0.382,
-        "sluggingPercentage": 0.323,
-        "ops": 0.705,
-        "atBats": 198,
+        "gamesPlayed": 63,
+        "gamesStarted": 63,
+        "battingAverage": 0.243,
+        "onBasePercentage": 0.38,
+        "sluggingPercentage": 0.322,
+        "ops": 0.702,
+        "atBats": 202,
         "runs": 35,
-        "hits": 48,
+        "hits": 49,
         "doubles": 8,
         "triples": 1,
         "homeRuns": 2,
         "runsBattedIn": 23,
-        "totalBases": 64,
+        "totalBases": 65,
         "walks": 32,
         "hitByPitch": 14,
-        "strikeouts": 62,
+        "strikeouts": 63,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 2,
         "sacrificeHits": 2,
         "stolenBases": 15,
         "stolenBasesAttempts": 17,
-        "putouts": 101,
+        "putouts": 102,
         "assists": 0,
         "errors": 10,
-        "plateAppearances": 267,
+        "plateAppearances": 271,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -489,51 +489,51 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "jersey": "4",
         "profileUrl": "https://rolltide.com/sports/baseball/roster/brennan-holt/17411",
         "imageUrl": "https://rolltide.com/images/2026/2/4/Holt__Brennan.png",
-        "gamesPlayed": 62,
-        "gamesStarted": 62,
-        "putouts": 101,
-        "assists": 148,
+        "gamesPlayed": 63,
+        "gamesStarted": 63,
+        "putouts": 102,
+        "assists": 151,
         "errors": 10,
-        "fieldingPercentage": 0.961,
-        "doublePlays": 30,
+        "fieldingPercentage": 0.962,
+        "doublePlays": 32,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 259
+        "totalChances": 263
       },
       "evaluation": {
-        "score": 31,
+        "score": 30,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 56.66666666666666,
-          "Power": 0.7894736842105272,
-          "Contact": 13.749999999999996,
-          "Discipline": 35.12544802867383,
+          "On-base": 55.55555555555555,
+          "Power": 0.5263157894736847,
+          "Contact": 14.374999999999996,
+          "Discipline": 34.21516754850087,
           "Speed": 50
         },
         "summary": "Brennan Holt profiles as a INF/OF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .242",
-          "OBP .382",
-          "SLG .323"
+          "AVG .243",
+          "OBP .380",
+          "SLG .322"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".242"
+            "value": ".243"
           },
           {
             "label": "OBP",
-            "value": ".382"
+            "value": ".380"
           },
           {
             "label": "SLG",
-            "value": ".323"
+            "value": ".322"
           },
           {
             "label": "HR",
@@ -830,31 +830,31 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "jersey": "7",
         "profileUrl": "https://rolltide.com/sports/baseball/roster/matthew-heiberger/17291",
         "imageUrl": "https://rolltide.com/images/2026/2/4/Heiberger__Matthew.png",
-        "gamesPlayed": 25,
+        "gamesPlayed": 26,
         "gamesStarted": 0,
-        "appearances": 25,
+        "appearances": 26,
         "gamesCompleted": 0,
-        "earnedRunAverage": 2.85,
-        "whip": 1.37,
+        "earnedRunAverage": 3.2,
+        "whip": 1.36,
         "wins": 3,
         "losses": 2,
         "saves": 5,
         "shutouts": 0,
-        "inningsPitched": 41,
-        "inningsPitchedDisplay": "41.0",
-        "hitsAllowed": 36,
-        "runsAllowed": 22,
-        "earnedRunsAllowed": 13,
-        "walksAllowed": 20,
-        "strikeouts": 33,
+        "inningsPitched": 45,
+        "inningsPitchedDisplay": "45.0",
+        "hitsAllowed": 39,
+        "runsAllowed": 25,
+        "earnedRunsAllowed": 16,
+        "walksAllowed": 22,
+        "strikeouts": 34,
         "doublesAllowed": 7,
         "triplesAllowed": 1,
-        "homeRunsAllowed": 5,
-        "opponentsAtBats": 150,
+        "homeRunsAllowed": 6,
+        "opponentsAtBats": 163,
         "wildPitches": 1,
-        "hitBatters": 8,
+        "hitBatters": 9,
         "balks": 0,
-        "opponentsBattingAverage": 0.24,
+        "opponentsBattingAverage": 0.239,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -864,22 +864,22 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "jersey": "7",
         "profileUrl": "https://rolltide.com/sports/baseball/roster/matthew-heiberger/17291",
         "imageUrl": "https://rolltide.com/images/2026/2/4/Heiberger__Matthew.png",
-        "gamesPlayed": 11,
+        "gamesPlayed": 12,
         "gamesStarted": 0,
-        "putouts": 3,
+        "putouts": 6,
         "assists": 8,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 2,
-        "stolenBasesAgainst": 3,
+        "stolenBasesAgainst": 4,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 11
+        "totalChances": 14
       },
       "evaluation": {
-        "score": 8,
+        "score": 7,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -887,28 +887,28 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 29.490022172949004,
-          "Command": 12.999999999999998,
+          "Miss bats": 25.454545454545453,
+          "Command": 10.909090909090905,
           "Damage suppression": 0
         },
         "summary": "Matthew Heiberger looks like a LHP option who limits runs.",
         "summaryMetrics": [
-          "ERA 2.85",
-          "WHIP 1.37",
-          "K/9 7.2"
+          "ERA 3.20",
+          "WHIP 1.36",
+          "K/9 6.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.85"
+            "value": "3.20"
           },
           {
             "label": "WHIP",
-            "value": "1.37"
+            "value": "1.36"
           },
           {
             "label": "K/9",
-            "value": "7.2"
+            "value": "6.8"
           },
           {
             "label": "BB/9",
@@ -916,11 +916,11 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
           },
           {
             "label": "HR/9",
-            "value": "1.10"
+            "value": "1.20"
           },
           {
             "label": "IP",
-            "value": "41.0"
+            "value": "45.0"
           }
         ],
         "metaLine": "JR / L-L",
@@ -1113,23 +1113,23 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "jersey": "9",
         "profileUrl": "https://rolltide.com/sports/baseball/roster/bryce-fowler/17290",
         "imageUrl": "https://rolltide.com/images/2026/2/4/Fowler__Bryce.png",
-        "gamesPlayed": 61,
-        "gamesStarted": 61,
-        "battingAverage": 0.321,
-        "onBasePercentage": 0.415,
-        "sluggingPercentage": 0.492,
-        "ops": 0.907,
-        "atBats": 240,
+        "gamesPlayed": 62,
+        "gamesStarted": 62,
+        "battingAverage": 0.32,
+        "onBasePercentage": 0.413,
+        "sluggingPercentage": 0.488,
+        "ops": 0.901,
+        "atBats": 244,
         "runs": 56,
-        "hits": 77,
+        "hits": 78,
         "doubles": 19,
         "triples": 2,
         "homeRuns": 6,
         "runsBattedIn": 40,
-        "totalBases": 118,
+        "totalBases": 119,
         "walks": 32,
         "hitByPitch": 9,
-        "strikeouts": 61,
+        "strikeouts": 63,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 3,
@@ -1139,7 +1139,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "putouts": 137,
         "assists": 0,
         "errors": 4,
-        "plateAppearances": 304,
+        "plateAppearances": 308,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -1166,36 +1166,36 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "totalChances": 144
       },
       "evaluation": {
-        "score": 57,
+        "score": 56,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 74.99999999999997,
-          "Power": 45.26315789473684,
-          "Contact": 63.125,
-          "Discipline": 36.065573770491795,
+          "On-base": 73.88888888888886,
+          "Power": 44.21052631578947,
+          "Contact": 62.5,
+          "Discipline": 34.21516754850087,
           "Speed": 50
         },
         "summary": "Bryce Fowler profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .321",
-          "OBP .415",
-          "SLG .492"
+          "AVG .320",
+          "OBP .413",
+          "SLG .488"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".321"
+            "value": ".320"
           },
           {
             "label": "OBP",
-            "value": ".415"
+            "value": ".413"
           },
           {
             "label": "SLG",
-            "value": ".492"
+            "value": ".488"
           },
           {
             "label": "HR",
@@ -1258,13 +1258,13 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "jersey": "10",
         "profileUrl": "https://rolltide.com/sports/baseball/roster/brady-neal/17298",
         "imageUrl": "https://rolltide.com/images/2026/2/4/Neal__Brady.png",
-        "gamesPlayed": 60,
-        "gamesStarted": 57,
-        "battingAverage": 0.322,
-        "onBasePercentage": 0.435,
-        "sluggingPercentage": 0.551,
-        "ops": 0.986,
-        "atBats": 205,
+        "gamesPlayed": 61,
+        "gamesStarted": 58,
+        "battingAverage": 0.316,
+        "onBasePercentage": 0.429,
+        "sluggingPercentage": 0.541,
+        "ops": 0.97,
+        "atBats": 209,
         "runs": 39,
         "hits": 66,
         "doubles": 15,
@@ -1274,17 +1274,17 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "totalBases": 113,
         "walks": 35,
         "hitByPitch": 10,
-        "strikeouts": 48,
+        "strikeouts": 50,
         "intentionalWalks": 3,
-        "groundedIntoDoublePlay": 3,
+        "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 5,
         "sacrificeHits": 2,
         "stolenBases": 4,
         "stolenBasesAttempts": 6,
-        "putouts": 259,
+        "putouts": 265,
         "assists": 0,
         "errors": 5,
-        "plateAppearances": 265,
+        "plateAppearances": 269,
         "caughtStealing": 2,
         "pickedOff": 0
       },
@@ -1296,51 +1296,51 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "jersey": "10",
         "profileUrl": "https://rolltide.com/sports/baseball/roster/brady-neal/17298",
         "imageUrl": "https://rolltide.com/images/2026/2/4/Neal__Brady.png",
-        "gamesPlayed": 52,
-        "gamesStarted": 50,
-        "putouts": 259,
+        "gamesPlayed": 53,
+        "gamesStarted": 51,
+        "putouts": 265,
         "assists": 19,
         "errors": 5,
-        "fieldingPercentage": 0.982,
+        "fieldingPercentage": 0.983,
         "doublePlays": 2,
-        "stolenBasesAgainst": 14,
+        "stolenBasesAgainst": 16,
         "caughtStealingBy": 7,
         "stolenBasesPercentage": null,
         "passedBalls": 5,
         "catchersInterference": 0,
-        "totalChances": 283
+        "totalChances": 289
       },
       "evaluation": {
-        "score": 64,
+        "score": 62,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "components": {
-          "On-base": 86.1111111111111,
-          "Power": 60.78947368421055,
-          "Contact": 63.75000000000001,
-          "Discipline": 58.796296296296276,
+          "On-base": 82.77777777777776,
+          "Power": 58.15789473684212,
+          "Contact": 60,
+          "Discipline": 55.555555555555536,
           "Speed": 13.333333333333334
         },
-        "summary": "Brady Neal profiles as a C/INF piece who gets on base at a high clip and brings real extra-base damage.",
+        "summary": "Brady Neal profiles as a C/INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .322",
-          "OBP .435",
-          "SLG .551"
+          "AVG .316",
+          "OBP .429",
+          "SLG .541"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".322"
+            "value": ".316"
           },
           {
             "label": "OBP",
-            "value": ".435"
+            "value": ".429"
           },
           {
             "label": "SLG",
-            "value": ".551"
+            "value": ".541"
           },
           {
             "label": "HR",
@@ -1404,31 +1404,31 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "jersey": "11",
         "profileUrl": "https://rolltide.com/sports/baseball/roster/myles-upchurch/17406",
         "imageUrl": "https://rolltide.com/images/2026/2/4/Upchurch__Myles.png",
-        "gamesPlayed": 15,
+        "gamesPlayed": 16,
         "gamesStarted": 15,
-        "appearances": 15,
+        "appearances": 16,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.57,
-        "whip": 1.27,
+        "earnedRunAverage": 3.75,
+        "whip": 1.29,
         "wins": 8,
         "losses": 3,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 70.66666666666667,
-        "inningsPitchedDisplay": "70.2",
-        "hitsAllowed": 50,
-        "runsAllowed": 29,
-        "earnedRunsAllowed": 28,
-        "walksAllowed": 40,
-        "strikeouts": 77,
-        "doublesAllowed": 6,
+        "inningsPitched": 72,
+        "inningsPitchedDisplay": "72.0",
+        "hitsAllowed": 52,
+        "runsAllowed": 32,
+        "earnedRunsAllowed": 30,
+        "walksAllowed": 41,
+        "strikeouts": 78,
+        "doublesAllowed": 7,
         "triplesAllowed": 1,
         "homeRunsAllowed": 6,
-        "opponentsAtBats": 252,
+        "opponentsAtBats": 259,
         "wildPitches": 8,
         "hitBatters": 11,
         "balks": 0,
-        "opponentsBattingAverage": 0.198,
+        "opponentsBattingAverage": 0.201,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -1438,22 +1438,22 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "jersey": "11",
         "profileUrl": "https://rolltide.com/sports/baseball/roster/myles-upchurch/17406",
         "imageUrl": "https://rolltide.com/images/2026/2/4/Upchurch__Myles.png",
-        "gamesPlayed": 9,
+        "gamesPlayed": 10,
         "gamesStarted": 9,
-        "putouts": 2,
+        "putouts": 3,
         "assists": 6,
         "errors": 2,
-        "fieldingPercentage": 0.8,
+        "fieldingPercentage": 0.818,
         "doublePlays": 0,
         "stolenBasesAgainst": 8,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 10
+        "totalChances": 11
       },
       "evaluation": {
-        "score": 14,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -1461,24 +1461,24 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 52.78730703259005,
-          "Command": 18.500000000000007,
+          "Miss bats": 52.27272727272727,
+          "Command": 18.048780487804876,
           "Damage suppression": 0
         },
         "summary": "Myles Upchurch looks like a RHP option who limits runs and misses bats.",
         "summaryMetrics": [
-          "ERA 3.57",
-          "WHIP 1.27",
+          "ERA 3.75",
+          "WHIP 1.29",
           "K/9 9.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.57"
+            "value": "3.75"
           },
           {
             "label": "WHIP",
-            "value": "1.27"
+            "value": "1.29"
           },
           {
             "label": "K/9",
@@ -1490,11 +1490,11 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
           },
           {
             "label": "HR/9",
-            "value": "0.76"
+            "value": "0.75"
           },
           {
             "label": "IP",
-            "value": "70.7"
+            "value": "72.0"
           }
         ],
         "metaLine": "FR / R-R",
@@ -1687,20 +1687,20 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "jersey": "13",
         "profileUrl": "https://rolltide.com/sports/baseball/roster/luke-vaughn/17304",
         "imageUrl": "https://rolltide.com/images/2026/2/4/Vaughn__Luke.png",
-        "gamesPlayed": 54,
-        "gamesStarted": 51,
-        "battingAverage": 0.215,
-        "onBasePercentage": 0.366,
-        "sluggingPercentage": 0.448,
-        "ops": 0.814,
-        "atBats": 163,
+        "gamesPlayed": 55,
+        "gamesStarted": 52,
+        "battingAverage": 0.217,
+        "onBasePercentage": 0.365,
+        "sluggingPercentage": 0.446,
+        "ops": 0.811,
+        "atBats": 166,
         "runs": 39,
-        "hits": 35,
+        "hits": 36,
         "doubles": 9,
         "triples": 1,
         "homeRuns": 9,
-        "runsBattedIn": 31,
-        "totalBases": 73,
+        "runsBattedIn": 32,
+        "totalBases": 74,
         "walks": 27,
         "hitByPitch": 13,
         "strikeouts": 38,
@@ -1710,10 +1710,10 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "sacrificeHits": 3,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 385,
+        "putouts": 395,
         "assists": 0,
         "errors": 4,
-        "plateAppearances": 208,
+        "plateAppearances": 211,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -1725,19 +1725,19 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "jersey": "13",
         "profileUrl": "https://rolltide.com/sports/baseball/roster/luke-vaughn/17304",
         "imageUrl": "https://rolltide.com/images/2026/2/4/Vaughn__Luke.png",
-        "gamesPlayed": 53,
-        "gamesStarted": 51,
-        "putouts": 385,
-        "assists": 15,
+        "gamesPlayed": 54,
+        "gamesStarted": 52,
+        "putouts": 395,
+        "assists": 19,
         "errors": 4,
         "fieldingPercentage": 0.99,
-        "doublePlays": 41,
+        "doublePlays": 43,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 404
+        "totalChances": 418
       },
       "evaluation": {
         "score": 32,
@@ -1746,30 +1746,30 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 47.77777777777776,
-          "Power": 33.684210526315795,
+          "On-base": 47.22222222222221,
+          "Power": 33.15789473684211,
           "Contact": 0,
           "Discipline": 56.7251461988304,
           "Speed": 0
         },
         "summary": "Luke Vaughn gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .215",
-          "OBP .366",
-          "SLG .448"
+          "AVG .217",
+          "OBP .365",
+          "SLG .446"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".215"
+            "value": ".217"
           },
           {
             "label": "OBP",
-            "value": ".366"
+            "value": ".365"
           },
           {
             "label": "SLG",
-            "value": ".448"
+            "value": ".446"
           },
           {
             "label": "HR",
@@ -1777,7 +1777,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
           },
           {
             "label": "RBI",
-            "value": "31"
+            "value": "32"
           },
           {
             "label": "SB",
@@ -1832,13 +1832,13 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "jersey": "14",
         "profileUrl": "https://rolltide.com/sports/baseball/roster/peyton-steele/17302",
         "imageUrl": "https://rolltide.com/images/2026/2/4/Steele__Peyton.png",
-        "gamesPlayed": 49,
-        "gamesStarted": 42,
-        "battingAverage": 0.224,
+        "gamesPlayed": 50,
+        "gamesStarted": 43,
+        "battingAverage": 0.221,
         "onBasePercentage": 0.314,
-        "sluggingPercentage": 0.306,
-        "ops": 0.62,
-        "atBats": 147,
+        "sluggingPercentage": 0.302,
+        "ops": 0.616,
+        "atBats": 149,
         "runs": 24,
         "hits": 33,
         "doubles": 4,
@@ -1846,19 +1846,19 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "homeRuns": 2,
         "runsBattedIn": 25,
         "totalBases": 45,
-        "walks": 19,
+        "walks": 20,
         "hitByPitch": 1,
-        "strikeouts": 48,
+        "strikeouts": 49,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 4,
         "sacrificeFlies": 2,
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 72,
+        "putouts": 73,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 169,
+        "plateAppearances": 172,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -1870,9 +1870,9 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "jersey": "14",
         "profileUrl": "https://rolltide.com/sports/baseball/roster/peyton-steele/17302",
         "imageUrl": "https://rolltide.com/images/2026/2/4/Steele__Peyton.png",
-        "gamesPlayed": 36,
-        "gamesStarted": 34,
-        "putouts": 72,
+        "gamesPlayed": 37,
+        "gamesStarted": 35,
+        "putouts": 73,
         "assists": 3,
         "errors": 0,
         "fieldingPercentage": 1,
@@ -1882,10 +1882,10 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 75
+        "totalChances": 76
       },
       "evaluation": {
-        "score": 10,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -1893,20 +1893,20 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "components": {
           "On-base": 18.888888888888875,
           "Power": 0,
-          "Contact": 2.500000000000002,
-          "Discipline": 21.759259259259252,
+          "Contact": 0.6250000000000006,
+          "Discipline": 23.129251700680268,
           "Speed": 0
         },
         "summary": "Peyton Steele gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .224",
+          "AVG .221",
           "OBP .314",
-          "SLG .306"
+          "SLG .302"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".224"
+            "value": ".221"
           },
           {
             "label": "OBP",
@@ -1914,7 +1914,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
           },
           {
             "label": "SLG",
-            "value": ".306"
+            "value": ".302"
           },
           {
             "label": "HR",
@@ -2586,31 +2586,31 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "jersey": "20",
         "profileUrl": "https://rolltide.com/sports/baseball/roster/zane-adams/17285",
         "imageUrl": "https://rolltide.com/images/2026/2/4/Adams__Zane.png",
-        "gamesPlayed": 16,
-        "gamesStarted": 16,
-        "appearances": 16,
+        "gamesPlayed": 17,
+        "gamesStarted": 17,
+        "appearances": 17,
         "gamesCompleted": 0,
-        "earnedRunAverage": 3.96,
-        "whip": 1.32,
+        "earnedRunAverage": 4.58,
+        "whip": 1.41,
         "wins": 8,
-        "losses": 4,
+        "losses": 5,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 88.66666666666667,
-        "inningsPitchedDisplay": "88.2",
-        "hitsAllowed": 90,
-        "runsAllowed": 44,
-        "earnedRunsAllowed": 39,
-        "walksAllowed": 27,
-        "strikeouts": 98,
-        "doublesAllowed": 16,
-        "triplesAllowed": 1,
+        "inningsPitched": 90.33333333333333,
+        "inningsPitchedDisplay": "90.1",
+        "hitsAllowed": 97,
+        "runsAllowed": 51,
+        "earnedRunsAllowed": 46,
+        "walksAllowed": 30,
+        "strikeouts": 100,
+        "doublesAllowed": 19,
+        "triplesAllowed": 2,
         "homeRunsAllowed": 9,
-        "opponentsAtBats": 343,
-        "wildPitches": 4,
+        "opponentsAtBats": 354,
+        "wildPitches": 5,
         "hitBatters": 4,
         "balks": 0,
-        "opponentsBattingAverage": 0.262,
+        "opponentsBattingAverage": 0.274,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -2620,22 +2620,22 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "jersey": "20",
         "profileUrl": "https://rolltide.com/sports/baseball/roster/zane-adams/17285",
         "imageUrl": "https://rolltide.com/images/2026/2/4/Adams__Zane.png",
-        "gamesPlayed": 13,
-        "gamesStarted": 13,
+        "gamesPlayed": 14,
+        "gamesStarted": 14,
         "putouts": 2,
-        "assists": 9,
+        "assists": 10,
         "errors": 3,
-        "fieldingPercentage": 0.786,
+        "fieldingPercentage": 0.8,
         "doublePlays": 1,
         "stolenBasesAgainst": 11,
         "caughtStealingBy": 3,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 14
+        "totalChances": 15
       },
       "evaluation": {
-        "score": 19,
+        "score": 18,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2643,40 +2643,40 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 54.066985645933016,
-          "Command": 52.59259259259259,
+          "Miss bats": 54.20999664542101,
+          "Command": 46.666666666666664,
           "Damage suppression": 0
         },
-        "summary": "Zane Adams looks like a LHP option who limits runs and misses bats and throws enough strikes.",
+        "summary": "Zane Adams looks like a LHP option who misses bats and throws enough strikes.",
         "summaryMetrics": [
-          "ERA 3.96",
-          "WHIP 1.32",
-          "K/9 9.9"
+          "ERA 4.58",
+          "WHIP 1.41",
+          "K/9 10.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.96"
+            "value": "4.58"
           },
           {
             "label": "WHIP",
-            "value": "1.32"
+            "value": "1.41"
           },
           {
             "label": "K/9",
-            "value": "9.9"
+            "value": "10.0"
           },
           {
             "label": "BB/9",
-            "value": "2.7"
+            "value": "3.0"
           },
           {
             "label": "HR/9",
-            "value": "0.91"
+            "value": "0.90"
           },
           {
             "label": "IP",
-            "value": "88.7"
+            "value": "90.3"
           }
         ],
         "metaLine": "JR / L-L",
@@ -2960,13 +2960,13 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "jersey": "23",
         "profileUrl": "https://rolltide.com/sports/baseball/roster/chase-kroberger/17400",
         "imageUrl": "https://rolltide.com/images/2026/2/4/Kroberger__Chase.png",
-        "gamesPlayed": 25,
+        "gamesPlayed": 26,
         "gamesStarted": 6,
-        "battingAverage": 0.148,
-        "onBasePercentage": 0.258,
-        "sluggingPercentage": 0.259,
-        "ops": 0.517,
-        "atBats": 27,
+        "battingAverage": 0.143,
+        "onBasePercentage": 0.25,
+        "sluggingPercentage": 0.25,
+        "ops": 0.5,
+        "atBats": 28,
         "runs": 8,
         "hits": 4,
         "doubles": 0,
@@ -2976,7 +2976,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "totalBases": 7,
         "walks": 3,
         "hitByPitch": 1,
-        "strikeouts": 11,
+        "strikeouts": 12,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 0,
         "sacrificeFlies": 0,
@@ -2986,7 +2986,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "putouts": 21,
         "assists": 0,
         "errors": 0,
-        "plateAppearances": 33,
+        "plateAppearances": 34,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -3013,7 +3013,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "totalChances": 21
       },
       "evaluation": {
-        "score": 2,
+        "score": 1,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3022,27 +3022,27 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
           "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 8.080808080808076,
+          "Discipline": 5.555555555555554,
           "Speed": 6.666666666666667
         },
         "summary": "Chase Kroberger gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .148",
-          "OBP .258",
-          "SLG .259"
+          "AVG .143",
+          "OBP .250",
+          "SLG .250"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".148"
+            "value": ".143"
           },
           {
             "label": "OBP",
-            "value": ".258"
+            "value": ".250"
           },
           {
             "label": "SLG",
-            "value": ".259"
+            "value": ".250"
           },
           {
             "label": "HR",
@@ -3994,13 +3994,13 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "jersey": "32",
         "profileUrl": "https://rolltide.com/sports/baseball/roster/jason-torres/17303",
         "imageUrl": "https://rolltide.com/images/2026/2/4/Torres__Jason.png",
-        "gamesPlayed": 62,
-        "gamesStarted": 62,
-        "battingAverage": 0.235,
-        "onBasePercentage": 0.355,
-        "sluggingPercentage": 0.41,
-        "ops": 0.765,
-        "atBats": 217,
+        "gamesPlayed": 63,
+        "gamesStarted": 63,
+        "battingAverage": 0.231,
+        "onBasePercentage": 0.35,
+        "sluggingPercentage": 0.403,
+        "ops": 0.753,
+        "atBats": 221,
         "runs": 31,
         "hits": 51,
         "doubles": 9,
@@ -4010,7 +4010,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "totalBases": 89,
         "walks": 36,
         "hitByPitch": 6,
-        "strikeouts": 62,
+        "strikeouts": 64,
         "intentionalWalks": 1,
         "groundedIntoDoublePlay": 6,
         "sacrificeFlies": 3,
@@ -4020,7 +4020,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "putouts": 27,
         "assists": 0,
         "errors": 8,
-        "plateAppearances": 267,
+        "plateAppearances": 271,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -4032,10 +4032,10 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "jersey": "32",
         "profileUrl": "https://rolltide.com/sports/baseball/roster/jason-torres/17303",
         "imageUrl": "https://rolltide.com/images/2026/2/4/Torres__Jason.png",
-        "gamesPlayed": 52,
-        "gamesStarted": 52,
+        "gamesPlayed": 53,
+        "gamesStarted": 53,
         "putouts": 27,
-        "assists": 107,
+        "assists": 108,
         "errors": 8,
         "fieldingPercentage": 0.944,
         "doublePlays": 10,
@@ -4044,39 +4044,39 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 142
+        "totalChances": 143
       },
       "evaluation": {
-        "score": 27,
+        "score": 25,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 41.66666666666664,
-          "Power": 23.684210526315784,
-          "Contact": 9.374999999999991,
-          "Discipline": 42.29390681003584,
+          "On-base": 38.888888888888864,
+          "Power": 21.8421052631579,
+          "Contact": 6.875000000000006,
+          "Discipline": 40.27777777777777,
           "Speed": 0
         },
         "summary": "Jason Torres gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .235",
-          "OBP .355",
-          "SLG .410"
+          "AVG .231",
+          "OBP .350",
+          "SLG .403"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".235"
+            "value": ".231"
           },
           {
             "label": "OBP",
-            "value": ".355"
+            "value": ".350"
           },
           {
             "label": "SLG",
-            "value": ".410"
+            "value": ".403"
           },
           {
             "label": "HR",
@@ -4139,23 +4139,23 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "jersey": "33",
         "profileUrl": "https://rolltide.com/sports/baseball/roster/john-lemm/17413",
         "imageUrl": "https://rolltide.com/images/2026/2/4/Lemm__John.png",
-        "gamesPlayed": 57,
-        "gamesStarted": 54,
-        "battingAverage": 0.251,
-        "onBasePercentage": 0.387,
-        "sluggingPercentage": 0.45,
-        "ops": 0.837,
-        "atBats": 191,
-        "runs": 41,
-        "hits": 48,
+        "gamesPlayed": 58,
+        "gamesStarted": 55,
+        "battingAverage": 0.253,
+        "onBasePercentage": 0.389,
+        "sluggingPercentage": 0.464,
+        "ops": 0.853,
+        "atBats": 194,
+        "runs": 43,
+        "hits": 49,
         "doubles": 9,
         "triples": 1,
-        "homeRuns": 9,
-        "runsBattedIn": 33,
-        "totalBases": 86,
-        "walks": 33,
+        "homeRuns": 10,
+        "runsBattedIn": 34,
+        "totalBases": 90,
+        "walks": 34,
         "hitByPitch": 10,
-        "strikeouts": 54,
+        "strikeouts": 55,
         "intentionalWalks": 0,
         "groundedIntoDoublePlay": 1,
         "sacrificeFlies": 1,
@@ -4165,7 +4165,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "putouts": 288,
         "assists": 0,
         "errors": 4,
-        "plateAppearances": 237,
+        "plateAppearances": 241,
         "caughtStealing": 0,
         "pickedOff": 1
       },
@@ -4192,44 +4192,44 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "totalChances": 310
       },
       "evaluation": {
-        "score": 38,
+        "score": 40,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 59.444444444444436,
-          "Power": 34.21052631578948,
-          "Contact": 19.375,
-          "Discipline": 45.67901234567901,
+          "On-base": 60.55555555555555,
+          "Power": 37.89473684210527,
+          "Contact": 20.625,
+          "Discipline": 46.46464646464645,
           "Speed": 3.3333333333333335
         },
         "summary": "John Lemm gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .251",
-          "OBP .387",
-          "SLG .450"
+          "AVG .253",
+          "OBP .389",
+          "SLG .464"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".251"
+            "value": ".253"
           },
           {
             "label": "OBP",
-            "value": ".387"
+            "value": ".389"
           },
           {
             "label": "SLG",
-            "value": ".450"
+            "value": ".464"
           },
           {
             "label": "HR",
-            "value": "9"
+            "value": "10"
           },
           {
             "label": "RBI",
-            "value": "33"
+            "value": "34"
           },
           {
             "label": "SB",
@@ -4427,31 +4427,31 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "jersey": "36",
         "profileUrl": "https://rolltide.com/sports/baseball/roster/hagan-banks/17287",
         "imageUrl": "https://rolltide.com/images/2026/2/4/Banks__Hagan.png",
-        "gamesPlayed": 17,
+        "gamesPlayed": 18,
         "gamesStarted": 0,
-        "appearances": 17,
+        "appearances": 18,
         "gamesCompleted": 0,
-        "earnedRunAverage": 2.82,
-        "whip": 1.39,
+        "earnedRunAverage": 3.09,
+        "whip": 1.37,
         "wins": 2,
         "losses": 0,
         "saves": 6,
         "shutouts": 0,
-        "inningsPitched": 22.333333333333332,
-        "inningsPitchedDisplay": "22.1",
-        "hitsAllowed": 23,
-        "runsAllowed": 10,
-        "earnedRunsAllowed": 7,
+        "inningsPitched": 23.333333333333332,
+        "inningsPitchedDisplay": "23.1",
+        "hitsAllowed": 24,
+        "runsAllowed": 11,
+        "earnedRunsAllowed": 8,
         "walksAllowed": 8,
-        "strikeouts": 29,
+        "strikeouts": 31,
         "doublesAllowed": 8,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 1,
-        "opponentsAtBats": 90,
+        "homeRunsAllowed": 2,
+        "opponentsAtBats": 94,
         "wildPitches": 1,
         "hitBatters": 1,
         "balks": 1,
-        "opponentsBattingAverage": 0.256,
+        "opponentsBattingAverage": 0.255,
         "walksHits": 0
       },
       "fieldingStats": {
@@ -4461,14 +4461,14 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "jersey": "36",
         "profileUrl": "https://rolltide.com/sports/baseball/roster/hagan-banks/17287",
         "imageUrl": "https://rolltide.com/images/2026/2/4/Banks__Hagan.png",
-        "gamesPlayed": 6,
+        "gamesPlayed": 7,
         "gamesStarted": 0,
         "putouts": 0,
         "assists": 0,
         "errors": 0,
         "fieldingPercentage": 0,
         "doublePlays": 0,
-        "stolenBasesAgainst": 6,
+        "stolenBasesAgainst": 7,
         "caughtStealingBy": 2,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
@@ -4476,7 +4476,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "totalChances": 0
       },
       "evaluation": {
-        "score": 22,
+        "score": 24,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4484,40 +4484,40 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 69.87788331071913,
-          "Command": 52.5,
+          "Miss bats": 72.33766233766234,
+          "Command": 57.49999999999999,
           "Damage suppression": 0
         },
         "summary": "Hagan Banks looks like a RHP option who limits runs and misses bats.",
         "summaryMetrics": [
-          "ERA 2.82",
-          "WHIP 1.39",
-          "K/9 11.7"
+          "ERA 3.09",
+          "WHIP 1.37",
+          "K/9 12.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.82"
+            "value": "3.09"
           },
           {
             "label": "WHIP",
-            "value": "1.39"
+            "value": "1.37"
           },
           {
             "label": "K/9",
-            "value": "11.7"
+            "value": "12.0"
           },
           {
             "label": "BB/9",
-            "value": "3.2"
+            "value": "3.1"
           },
           {
             "label": "HR/9",
-            "value": "0.40"
+            "value": "0.77"
           },
           {
             "label": "IP",
-            "value": "22.3"
+            "value": "23.3"
           }
         ],
         "metaLine": "R-SR / R-R",
@@ -4920,33 +4920,33 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "jersey": "42",
         "profileUrl": "https://rolltide.com/sports/baseball/roster/eric-hines/17398",
         "imageUrl": "https://rolltide.com/images/2026/2/4/Hines__Eric.png",
-        "gamesPlayed": 38,
-        "gamesStarted": 33,
-        "battingAverage": 0.288,
-        "onBasePercentage": 0.336,
-        "sluggingPercentage": 0.538,
-        "ops": 0.874,
-        "atBats": 132,
+        "gamesPlayed": 39,
+        "gamesStarted": 34,
+        "battingAverage": 0.289,
+        "onBasePercentage": 0.34,
+        "sluggingPercentage": 0.533,
+        "ops": 0.873,
+        "atBats": 135,
         "runs": 26,
-        "hits": 38,
+        "hits": 39,
         "doubles": 4,
         "triples": 1,
         "homeRuns": 9,
         "runsBattedIn": 24,
-        "totalBases": 71,
-        "walks": 5,
+        "totalBases": 72,
+        "walks": 6,
         "hitByPitch": 5,
-        "strikeouts": 48,
+        "strikeouts": 49,
         "intentionalWalks": 2,
         "groundedIntoDoublePlay": 2,
         "sacrificeFlies": 1,
         "sacrificeHits": 0,
         "stolenBases": 0,
         "stolenBasesAttempts": 0,
-        "putouts": 32,
+        "putouts": 33,
         "assists": 0,
         "errors": 3,
-        "plateAppearances": 143,
+        "plateAppearances": 147,
         "caughtStealing": 0,
         "pickedOff": 0
       },
@@ -4958,19 +4958,19 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "jersey": "42",
         "profileUrl": "https://rolltide.com/sports/baseball/roster/eric-hines/17398",
         "imageUrl": "https://rolltide.com/images/2026/2/4/Hines__Eric.png",
-        "gamesPlayed": 21,
-        "gamesStarted": 18,
-        "putouts": 32,
+        "gamesPlayed": 22,
+        "gamesStarted": 19,
+        "putouts": 33,
         "assists": 0,
         "errors": 3,
-        "fieldingPercentage": 0.914,
+        "fieldingPercentage": 0.917,
         "doublePlays": 0,
         "stolenBasesAgainst": 0,
         "caughtStealingBy": 0,
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 35
+        "totalChances": 36
       },
       "evaluation": {
         "score": 33,
@@ -4979,30 +4979,30 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 31.11111111111111,
-          "Power": 57.36842105263159,
-          "Contact": 42.499999999999986,
+          "On-base": 33.33333333333333,
+          "Power": 56.052631578947384,
+          "Contact": 43.124999999999986,
           "Discipline": 0,
           "Speed": 0
         },
         "summary": "Eric Hines gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .288",
-          "OBP .336",
-          "SLG .538"
+          "AVG .289",
+          "OBP .340",
+          "SLG .533"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".288"
+            "value": ".289"
           },
           {
             "label": "OBP",
-            "value": ".336"
+            "value": ".340"
           },
           {
             "label": "SLG",
-            "value": ".538"
+            "value": ".533"
           },
           {
             "label": "HR",
@@ -5867,8 +5867,8 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "summary": "Justin Lebron profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
           "AVG .277",
-          "OBP .384",
-          "SLG .536"
+          "OBP .386",
+          "SLG .534"
         ],
         "statCards": [
           {
@@ -5877,11 +5877,11 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
           },
           {
             "label": "OBP",
-            "value": ".384"
+            "value": ".386"
           },
           {
             "label": "SLG",
-            "value": ".536"
+            "value": ".534"
           },
           {
             "label": "HR",
@@ -5893,12 +5893,12 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
           },
           {
             "label": "SB",
-            "value": "41"
+            "value": "42"
           }
         ],
         "components": {
-          "On-base": 57.77777777777777,
-          "Power": 56.842105263157904,
+          "On-base": 58.88888888888888,
+          "Power": 56.31578947368422,
           "Contact": 35.625000000000014,
           "Discipline": 31.349206349206344,
           "Speed": 100
@@ -5928,29 +5928,29 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "position": "C",
         "classYear": "R-JR",
         "handedness": "R-R",
-        "score": 4,
+        "score": 3,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Will Plattner gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .175",
-          "OBP .284",
-          "SLG .300"
+          "AVG .173",
+          "OBP .281",
+          "SLG .296"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".175"
+            "value": ".173"
           },
           {
             "label": "OBP",
-            "value": ".284"
+            "value": ".281"
           },
           {
             "label": "SLG",
-            "value": ".300"
+            "value": ".296"
           },
           {
             "label": "HR",
@@ -5966,7 +5966,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
           }
         ],
         "components": {
-          "On-base": 2.2222222222221935,
+          "On-base": 0.5555555555555561,
           "Power": 0,
           "Contact": 0,
           "Discipline": 17.77777777777777,
@@ -5997,29 +5997,29 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "position": "INF/OF",
         "classYear": "GR",
         "handedness": "L-R",
-        "score": 31,
+        "score": 30,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Brennan Holt profiles as a INF/OF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .242",
-          "OBP .382",
-          "SLG .323"
+          "AVG .243",
+          "OBP .380",
+          "SLG .322"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".242"
+            "value": ".243"
           },
           {
             "label": "OBP",
-            "value": ".382"
+            "value": ".380"
           },
           {
             "label": "SLG",
-            "value": ".323"
+            "value": ".322"
           },
           {
             "label": "HR",
@@ -6035,10 +6035,10 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
           }
         ],
         "components": {
-          "On-base": 56.66666666666666,
-          "Power": 0.7894736842105272,
-          "Contact": 13.749999999999996,
-          "Discipline": 35.12544802867383,
+          "On-base": 55.55555555555555,
+          "Power": 0.5263157894736847,
+          "Contact": 14.374999999999996,
+          "Discipline": 34.21516754850087,
           "Speed": 50
         },
         "metaLine": "GR / L-R",
@@ -6203,29 +6203,29 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "position": "LHP",
         "classYear": "JR",
         "handedness": "L-L",
-        "score": 8,
+        "score": 7,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Matthew Heiberger looks like a LHP option who limits runs.",
         "summaryMetrics": [
-          "ERA 2.85",
-          "WHIP 1.37",
-          "K/9 7.2"
+          "ERA 3.20",
+          "WHIP 1.36",
+          "K/9 6.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.85"
+            "value": "3.20"
           },
           {
             "label": "WHIP",
-            "value": "1.37"
+            "value": "1.36"
           },
           {
             "label": "K/9",
-            "value": "7.2"
+            "value": "6.8"
           },
           {
             "label": "BB/9",
@@ -6233,18 +6233,18 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
           },
           {
             "label": "HR/9",
-            "value": "1.10"
+            "value": "1.20"
           },
           {
             "label": "IP",
-            "value": "41.0"
+            "value": "45.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 29.490022172949004,
-          "Command": 12.999999999999998,
+          "Miss bats": 25.454545454545453,
+          "Command": 10.909090909090905,
           "Damage suppression": 0
         },
         "metaLine": "JR / L-L",
@@ -6341,29 +6341,29 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "position": "OF",
         "classYear": "R-SR",
         "handedness": "L-L",
-        "score": 57,
+        "score": 56,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Bryce Fowler profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .321",
-          "OBP .415",
-          "SLG .492"
+          "AVG .320",
+          "OBP .413",
+          "SLG .488"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".321"
+            "value": ".320"
           },
           {
             "label": "OBP",
-            "value": ".415"
+            "value": ".413"
           },
           {
             "label": "SLG",
-            "value": ".492"
+            "value": ".488"
           },
           {
             "label": "HR",
@@ -6379,10 +6379,10 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
           }
         ],
         "components": {
-          "On-base": 74.99999999999997,
-          "Power": 45.26315789473684,
-          "Contact": 63.125,
-          "Discipline": 36.065573770491795,
+          "On-base": 73.88888888888886,
+          "Power": 44.21052631578947,
+          "Contact": 62.5,
+          "Discipline": 34.21516754850087,
           "Speed": 50
         },
         "metaLine": "R-SR / L-L",
@@ -6410,29 +6410,29 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "position": "C/INF",
         "classYear": "SR",
         "handedness": "L-R",
-        "score": 64,
+        "score": 62,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
-        "summary": "Brady Neal profiles as a C/INF piece who gets on base at a high clip and brings real extra-base damage.",
+        "summary": "Brady Neal profiles as a C/INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .322",
-          "OBP .435",
-          "SLG .551"
+          "AVG .316",
+          "OBP .429",
+          "SLG .541"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".322"
+            "value": ".316"
           },
           {
             "label": "OBP",
-            "value": ".435"
+            "value": ".429"
           },
           {
             "label": "SLG",
-            "value": ".551"
+            "value": ".541"
           },
           {
             "label": "HR",
@@ -6448,10 +6448,10 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
           }
         ],
         "components": {
-          "On-base": 86.1111111111111,
-          "Power": 60.78947368421055,
-          "Contact": 63.75000000000001,
-          "Discipline": 58.796296296296276,
+          "On-base": 82.77777777777776,
+          "Power": 58.15789473684212,
+          "Contact": 60,
+          "Discipline": 55.555555555555536,
           "Speed": 13.333333333333334
         },
         "metaLine": "SR / L-R",
@@ -6479,25 +6479,25 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "position": "RHP",
         "classYear": "FR",
         "handedness": "R-R",
-        "score": 14,
+        "score": 13,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Myles Upchurch looks like a RHP option who limits runs and misses bats.",
         "summaryMetrics": [
-          "ERA 3.57",
-          "WHIP 1.27",
+          "ERA 3.75",
+          "WHIP 1.29",
           "K/9 9.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.57"
+            "value": "3.75"
           },
           {
             "label": "WHIP",
-            "value": "1.27"
+            "value": "1.29"
           },
           {
             "label": "K/9",
@@ -6509,18 +6509,18 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
           },
           {
             "label": "HR/9",
-            "value": "0.76"
+            "value": "0.75"
           },
           {
             "label": "IP",
-            "value": "70.7"
+            "value": "72.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 52.78730703259005,
-          "Command": 18.500000000000007,
+          "Miss bats": 52.27272727272727,
+          "Command": 18.048780487804876,
           "Damage suppression": 0
         },
         "metaLine": "FR / R-R",
@@ -6624,22 +6624,22 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         },
         "summary": "Luke Vaughn gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .215",
-          "OBP .366",
-          "SLG .448"
+          "AVG .217",
+          "OBP .365",
+          "SLG .446"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".215"
+            "value": ".217"
           },
           {
             "label": "OBP",
-            "value": ".366"
+            "value": ".365"
           },
           {
             "label": "SLG",
-            "value": ".448"
+            "value": ".446"
           },
           {
             "label": "HR",
@@ -6647,7 +6647,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
           },
           {
             "label": "RBI",
-            "value": "31"
+            "value": "32"
           },
           {
             "label": "SB",
@@ -6655,8 +6655,8 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
           }
         ],
         "components": {
-          "On-base": 47.77777777777776,
-          "Power": 33.684210526315795,
+          "On-base": 47.22222222222221,
+          "Power": 33.15789473684211,
           "Contact": 0,
           "Discipline": 56.7251461988304,
           "Speed": 0
@@ -6686,21 +6686,21 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "position": "OF",
         "classYear": "SO",
         "handedness": "R-R",
-        "score": 10,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Peyton Steele gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .224",
+          "AVG .221",
           "OBP .314",
-          "SLG .306"
+          "SLG .302"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".224"
+            "value": ".221"
           },
           {
             "label": "OBP",
@@ -6708,7 +6708,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
           },
           {
             "label": "SLG",
-            "value": ".306"
+            "value": ".302"
           },
           {
             "label": "HR",
@@ -6726,8 +6726,8 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "components": {
           "On-base": 18.888888888888875,
           "Power": 0,
-          "Contact": 2.500000000000002,
-          "Discipline": 21.759259259259252,
+          "Contact": 0.6250000000000006,
+          "Discipline": 23.129251700680268,
           "Speed": 0
         },
         "metaLine": "SO / R-R",
@@ -7098,48 +7098,48 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "position": "LHP",
         "classYear": "JR",
         "handedness": "L-L",
-        "score": 19,
+        "score": 18,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Zane Adams looks like a LHP option who limits runs and misses bats and throws enough strikes.",
+        "summary": "Zane Adams looks like a LHP option who misses bats and throws enough strikes.",
         "summaryMetrics": [
-          "ERA 3.96",
-          "WHIP 1.32",
-          "K/9 9.9"
+          "ERA 4.58",
+          "WHIP 1.41",
+          "K/9 10.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.96"
+            "value": "4.58"
           },
           {
             "label": "WHIP",
-            "value": "1.32"
+            "value": "1.41"
           },
           {
             "label": "K/9",
-            "value": "9.9"
+            "value": "10.0"
           },
           {
             "label": "BB/9",
-            "value": "2.7"
+            "value": "3.0"
           },
           {
             "label": "HR/9",
-            "value": "0.91"
+            "value": "0.90"
           },
           {
             "label": "IP",
-            "value": "88.7"
+            "value": "90.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 54.066985645933016,
-          "Command": 52.59259259259259,
+          "Miss bats": 54.20999664542101,
+          "Command": 46.666666666666664,
           "Damage suppression": 0
         },
         "metaLine": "JR / L-L",
@@ -7304,29 +7304,29 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "position": "OF",
         "classYear": "FR",
         "handedness": "R-R",
-        "score": 2,
+        "score": 1,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Chase Kroberger gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .148",
-          "OBP .258",
-          "SLG .259"
+          "AVG .143",
+          "OBP .250",
+          "SLG .250"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".148"
+            "value": ".143"
           },
           {
             "label": "OBP",
-            "value": ".258"
+            "value": ".250"
           },
           {
             "label": "SLG",
-            "value": ".259"
+            "value": ".250"
           },
           {
             "label": "HR",
@@ -7345,7 +7345,7 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
           "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 8.080808080808076,
+          "Discipline": 5.555555555555554,
           "Speed": 6.666666666666667
         },
         "metaLine": "FR / R-R",
@@ -7854,29 +7854,29 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "position": "INF",
         "classYear": "SR",
         "handedness": "R-R",
-        "score": 27,
+        "score": 25,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jason Torres gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .235",
-          "OBP .355",
-          "SLG .410"
+          "AVG .231",
+          "OBP .350",
+          "SLG .403"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".235"
+            "value": ".231"
           },
           {
             "label": "OBP",
-            "value": ".355"
+            "value": ".350"
           },
           {
             "label": "SLG",
-            "value": ".410"
+            "value": ".403"
           },
           {
             "label": "HR",
@@ -7892,10 +7892,10 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
           }
         ],
         "components": {
-          "On-base": 41.66666666666664,
-          "Power": 23.684210526315784,
-          "Contact": 9.374999999999991,
-          "Discipline": 42.29390681003584,
+          "On-base": 38.888888888888864,
+          "Power": 21.8421052631579,
+          "Contact": 6.875000000000006,
+          "Discipline": 40.27777777777777,
           "Speed": 0
         },
         "metaLine": "SR / R-R",
@@ -7923,37 +7923,37 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "position": "C",
         "classYear": "SR",
         "handedness": "L-R",
-        "score": 38,
+        "score": 40,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "John Lemm gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .251",
-          "OBP .387",
-          "SLG .450"
+          "AVG .253",
+          "OBP .389",
+          "SLG .464"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".251"
+            "value": ".253"
           },
           {
             "label": "OBP",
-            "value": ".387"
+            "value": ".389"
           },
           {
             "label": "SLG",
-            "value": ".450"
+            "value": ".464"
           },
           {
             "label": "HR",
-            "value": "9"
+            "value": "10"
           },
           {
             "label": "RBI",
-            "value": "33"
+            "value": "34"
           },
           {
             "label": "SB",
@@ -7961,10 +7961,10 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
           }
         ],
         "components": {
-          "On-base": 59.444444444444436,
-          "Power": 34.21052631578948,
-          "Contact": 19.375,
-          "Discipline": 45.67901234567901,
+          "On-base": 60.55555555555555,
+          "Power": 37.89473684210527,
+          "Contact": 20.625,
+          "Discipline": 46.46464646464645,
           "Speed": 3.3333333333333335
         },
         "metaLine": "SR / L-R",
@@ -8061,48 +8061,48 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         "position": "RHP",
         "classYear": "R-SR",
         "handedness": "R-R",
-        "score": 22,
+        "score": 24,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Hagan Banks looks like a RHP option who limits runs and misses bats.",
         "summaryMetrics": [
-          "ERA 2.82",
-          "WHIP 1.39",
-          "K/9 11.7"
+          "ERA 3.09",
+          "WHIP 1.37",
+          "K/9 12.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.82"
+            "value": "3.09"
           },
           {
             "label": "WHIP",
-            "value": "1.39"
+            "value": "1.37"
           },
           {
             "label": "K/9",
-            "value": "11.7"
+            "value": "12.0"
           },
           {
             "label": "BB/9",
-            "value": "3.2"
+            "value": "3.1"
           },
           {
             "label": "HR/9",
-            "value": "0.40"
+            "value": "0.77"
           },
           {
             "label": "IP",
-            "value": "22.3"
+            "value": "23.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 69.87788331071913,
-          "Command": 52.5,
+          "Miss bats": 72.33766233766234,
+          "Command": 57.49999999999999,
           "Damage suppression": 0
         },
         "metaLine": "R-SR / R-R",
@@ -8343,22 +8343,22 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
         },
         "summary": "Eric Hines gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .288",
-          "OBP .336",
-          "SLG .538"
+          "AVG .289",
+          "OBP .340",
+          "SLG .533"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".288"
+            "value": ".289"
           },
           {
             "label": "OBP",
-            "value": ".336"
+            "value": ".340"
           },
           {
             "label": "SLG",
-            "value": ".538"
+            "value": ".533"
           },
           {
             "label": "HR",
@@ -8374,9 +8374,9 @@ window.__BASEBALL_DATASETS__.alabama2026 = {
           }
         ],
         "components": {
-          "On-base": 31.11111111111111,
-          "Power": 57.36842105263159,
-          "Contact": 42.499999999999986,
+          "On-base": 33.33333333333333,
+          "Power": 56.052631578947384,
+          "Contact": 43.124999999999986,
           "Discipline": 0,
           "Speed": 0
         },

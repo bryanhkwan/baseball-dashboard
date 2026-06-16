@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T12:23:41.089Z",
+  "generatedAt": "2026-06-16T11:57:50.911Z",
   "season": 2026,
   "school": {
     "slug": "tcu",
@@ -27,10 +27,10 @@
   "coverage": {
     "rosterPlayers": 34,
     "espnRosterPlayers": 100,
-    "playersWithHittingStats": 7,
+    "playersWithHittingStats": 6,
     "playersWithPitchingStats": 12,
-    "playersWithFieldingStats": 16,
-    "mergedPlayersWithAnyStats": 17,
+    "playersWithFieldingStats": 15,
+    "mergedPlayersWithAnyStats": 16,
     "matchedEspnPlayers": 0,
     "unmatchedStatRows": {
       "hitting": [
@@ -1384,13 +1384,13 @@
       }
     },
     {
-      "id": "tcu-18355",
+      "id": "tcu-18005",
       "schoolSlug": "tcu",
       "school": "TCU",
       "schoolLongName": "Texas Christian University",
       "name": "Kyuss Gargett",
       "normalizedName": "kyuss gargett",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "INF",
       "positionLong": "",
@@ -1401,7 +1401,7 @@
       "highSchool": "Cathedral H.S.",
       "previousSchool": "Kentucky",
       "hometownHighSchool": "Anderson, Ind. / Cathedral H.S.",
-      "profileUrl": "https://gofrogs.com/sports/baseball/roster/kyuss-gargett/18355",
+      "profileUrl": "https://gofrogs.com/sports/baseball/roster/kyuss-gargett/18005",
       "imageUrl": "https://gofrogs.com/images/2025/11/20/_0023_12_-_Kyuss_Gargett.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -1409,113 +1409,56 @@
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "18355",
+      "rosterBioId": "18005",
       "sources": [
-        "TCU Athletics roster",
-        "TCU cumulative stats"
+        "TCU Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "18355",
-        "name": "Kyuss Gargett",
-        "normalizedName": "kyuss gargett",
-        "jersey": "12",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/kyuss-gargett/18355",
-        "imageUrl": "https://gofrogs.com/images/2025/11/20/_0023_12_-_Kyuss_Gargett.jpg",
-        "gamesPlayed": 30,
-        "gamesStarted": 25,
-        "battingAverage": 0.217,
-        "onBasePercentage": 0.393,
-        "sluggingPercentage": 0.337,
-        "ops": 0.73,
-        "atBats": 83,
-        "runs": 16,
-        "hits": 18,
-        "doubles": 1,
-        "triples": 0,
-        "homeRuns": 3,
-        "runsBattedIn": 14,
-        "totalBases": 28,
-        "walks": 15,
-        "hitByPitch": 9,
-        "strikeouts": 21,
-        "intentionalWalks": 1,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 4,
-        "stolenBasesAttempts": 4,
-        "putouts": 17,
-        "assists": 0,
-        "errors": 2,
-        "plateAppearances": 111,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "18355",
-        "name": "Kyuss Gargett",
-        "normalizedName": "kyuss gargett",
-        "jersey": "12",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/kyuss-gargett/18355",
-        "imageUrl": "https://gofrogs.com/images/2025/11/20/_0023_12_-_Kyuss_Gargett.jpg",
-        "gamesPlayed": 15,
-        "gamesStarted": 14,
-        "putouts": 17,
-        "assists": 21,
-        "errors": 2,
-        "fieldingPercentage": 0.95,
-        "doublePlays": 3,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 40
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 31,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 62.77777777777778,
-          "Power": 4.47368421052632,
+          "On-base": 0,
+          "Power": 0,
           "Contact": 0,
-          "Discipline": 57.14285714285713,
-          "Speed": 13.333333333333334
+          "Discipline": 0,
+          "Speed": 0
         },
         "summary": "Kyuss Gargett gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .217",
-          "OBP .393",
-          "SLG .337"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".217"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".393"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".337"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "3"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "14"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "4"
+            "value": "0"
           }
         ],
         "metaLine": "JR / B/R",
@@ -1523,9 +1466,9 @@
           "INF",
           "JR",
           "B/R",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "TCU Athletics roster + TCU cumulative stats"
+        "sourceSummary": "TCU Athletics roster"
       }
     },
     {
@@ -4894,72 +4837,71 @@
         "espnAthleteId": ""
       },
       {
-        "id": "tcu-18355",
+        "id": "tcu-18005",
         "name": "Kyuss Gargett",
         "school": "TCU",
         "role": "Hitter",
         "position": "INF",
         "classYear": "JR",
         "handedness": "B/R",
-        "score": 31,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Kyuss Gargett gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .217",
-          "OBP .393",
-          "SLG .337"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".217"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".393"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".337"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "3"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "14"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "4"
+            "value": "0"
           }
         ],
         "components": {
-          "On-base": 62.77777777777778,
-          "Power": 4.47368421052632,
+          "On-base": 0,
+          "Power": 0,
           "Contact": 0,
-          "Discipline": 57.14285714285713,
-          "Speed": 13.333333333333334
+          "Discipline": 0,
+          "Speed": 0
         },
         "metaLine": "JR / B/R",
         "detailBadges": [
           "INF",
           "JR",
           "B/R",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "TCU Athletics roster",
-          "TCU cumulative stats"
+          "TCU Athletics roster"
         ],
-        "sourceSummary": "TCU Athletics roster + TCU cumulative stats",
+        "sourceSummary": "TCU Athletics roster",
         "schoolSlug": "tcu",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/kyuss-gargett/18355",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gofrogs.com/sports/baseball/roster/kyuss-gargett/18005",
         "espnAthleteId": ""
       },
       {
