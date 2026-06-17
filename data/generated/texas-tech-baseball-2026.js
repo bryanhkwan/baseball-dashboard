@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.texas-tech2026 = {
-  "generatedAt": "2026-06-16T11:59:25.408Z",
+  "generatedAt": "2026-06-17T11:54:36.035Z",
   "season": 2026,
   "school": {
     "slug": "texas-tech",
@@ -2597,7 +2597,7 @@ window.__BASEBALL_DATASETS__.texas-tech2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
-      "classYear": "R-FR",
+      "classYear": "SO",
       "handedness": "R/R",
       "jersey": "21",
       "hometown": "Aledo, Texas",
@@ -2718,10 +2718,10 @@ window.__BASEBALL_DATASETS__.texas-tech2026 = {
             "value": "52.0"
           }
         ],
-        "metaLine": "R-FR / R/R",
+        "metaLine": "SO / R/R",
         "detailBadges": [
           "RHP",
-          "R-FR",
+          "SO",
           "R/R",
           "Pitcher"
         ],
@@ -6467,7 +6467,7 @@ window.__BASEBALL_DATASETS__.texas-tech2026 = {
         "school": "Texas Tech",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "R-FR",
+        "classYear": "SO",
         "handedness": "R/R",
         "score": 13,
         "fit": {
@@ -6513,10 +6513,10 @@ window.__BASEBALL_DATASETS__.texas-tech2026 = {
           "Command": 24.16666666666666,
           "Damage suppression": 0
         },
-        "metaLine": "R-FR / R/R",
+        "metaLine": "SO / R/R",
         "detailBadges": [
           "RHP",
-          "R-FR",
+          "SO",
           "R/R",
           "Pitcher"
         ],
