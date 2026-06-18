@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.rice2026 = {
-  "generatedAt": "2026-06-17T11:54:13.374Z",
+  "generatedAt": "2026-06-18T11:38:16.781Z",
   "season": 2026,
   "school": {
     "slug": "rice",

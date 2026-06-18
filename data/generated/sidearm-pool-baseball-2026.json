@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-17T11:54:47.354Z",
+  "generatedAt": "2026-06-18T11:38:54.928Z",
   "season": 2026,
   "source": "Generated Sidearm baseball school-site pool",
   "note": "This generated free player pool combines verified public roster and cumulative stats pages from multiple Sidearm baseball programs. It is broader than Toledo alone, but still not a full every-school national directory yet.",
-  "schoolCount": 70,
+  "schoolCount": 69,
   "schools": [
     {
       "slug": "middle-tenn",
@@ -347,7 +347,7 @@
       "slug": "georgia",
       "name": "Georgia",
       "longName": "University of Georgia",
-      "record": "53-13, 23-7",
+      "record": "53-14, 23-7",
       "totalPlayers": 41,
       "hitters": 16,
       "pitchers": 25,
@@ -439,10 +439,10 @@
       "name": "Mass-Amherst",
       "longName": "University of Massachusetts",
       "record": "18-29, 13-20",
-      "totalPlayers": 25,
-      "hitters": 12,
-      "pitchers": 13,
-      "rosterPlayers": 25,
+      "totalPlayers": 19,
+      "hitters": 9,
+      "pitchers": 10,
+      "rosterPlayers": 19,
       "playersWithAnyStats": 0,
       "statsUrl": "https://umassathletics.com/sports/baseball/stats/2026",
       "rosterUrl": "https://umassathletics.com/sports/baseball/roster"
@@ -529,7 +529,7 @@
       "slug": "north-carolina",
       "name": "North Carolina",
       "longName": "University of North Carolina",
-      "record": "52-12-1, 22-8",
+      "record": "53-12-1, 22-8",
       "totalPlayers": 38,
       "hitters": 17,
       "pitchers": 21,
@@ -563,19 +563,6 @@
       "playersWithAnyStats": 33,
       "statsUrl": "https://nusports.com/sports/baseball/stats/2026",
       "rosterUrl": "https://nusports.com/sports/baseball/roster"
-    },
-    {
-      "slug": "oklahoma",
-      "name": "Oklahoma",
-      "longName": "University of Oklahoma",
-      "record": "40-22, 14-16",
-      "totalPlayers": 37,
-      "hitters": 17,
-      "pitchers": 20,
-      "rosterPlayers": 37,
-      "playersWithAnyStats": 35,
-      "statsUrl": "https://soonersports.com/sports/baseball/stats/2026",
-      "rosterUrl": "https://soonersports.com/sports/baseball/roster"
     },
     {
       "slug": "oregon",
@@ -893,7 +880,7 @@
       "slug": "west-virginia",
       "name": "West Virginia",
       "longName": "West Virginia University",
-      "record": "47-16, 21-9",
+      "record": "47-17, 21-9",
       "totalPlayers": 43,
       "hitters": 19,
       "pitchers": 24,
@@ -917,18 +904,18 @@
     }
   ],
   "coverage": {
-    "totalPlayers": 2616,
-    "totalHitters": 1212,
-    "totalPitchers": 1404,
-    "schoolsCovered": 70
+    "totalPlayers": 2573,
+    "totalHitters": 1192,
+    "totalPitchers": 1381,
+    "schoolsCovered": 69
   },
   "playerBoard": {
     "source": "Generated Sidearm baseball school-site pool",
     "note": "This free generated pool comes from verified public school-site roster and cumulative stats pages across multiple Sidearm baseball programs.",
-    "totalPlayers": 2616,
+    "totalPlayers": 2573,
     "roleCounts": {
-      "Hitter": 1212,
-      "Pitcher": 1404
+      "Hitter": 1192,
+      "Pitcher": 1381
     },
     "players": [
       {
@@ -67528,29 +67515,29 @@
         "position": "INF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 55,
+        "score": 53,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Ryan Wynn profiles as a INF piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .328",
-          "OBP .378",
-          "SLG .648"
+          "AVG .323",
+          "OBP .377",
+          "SLG .638"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".328"
+            "value": ".323"
           },
           {
             "label": "OBP",
-            "value": ".378"
+            "value": ".377"
           },
           {
             "label": "SLG",
-            "value": ".648"
+            "value": ".638"
           },
           {
             "label": "HR",
@@ -67566,10 +67553,10 @@
           }
         ],
         "components": {
-          "On-base": 54.44444444444443,
-          "Power": 86.31578947368422,
-          "Contact": 67.5,
-          "Discipline": 9.523809523809518,
+          "On-base": 53.88888888888887,
+          "Power": 83.68421052631581,
+          "Contact": 64.375,
+          "Discipline": 11.111111111111107,
           "Speed": 13.333333333333334
         },
         "metaLine": "JR / R/R",
@@ -67597,29 +67584,29 @@
         "position": "INF/OF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 77,
+        "score": 75,
         "fit": {
           "label": "Pursue",
           "className": "fit-pursue"
         },
         "summary": "Tre Phelps profiles as a INF/OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .355",
-          "OBP .476",
-          "SLG .641"
+          "AVG .348",
+          "OBP .468",
+          "SLG .628"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".355"
+            "value": ".348"
           },
           {
             "label": "OBP",
-            "value": ".476"
+            "value": ".468"
           },
           {
             "label": "SLG",
-            "value": ".641"
+            "value": ".628"
           },
           {
             "label": "HR",
@@ -67636,8 +67623,8 @@
         ],
         "components": {
           "On-base": 100,
-          "Power": 84.47368421052633,
-          "Contact": 84.37499999999999,
+          "Power": 81.05263157894737,
+          "Contact": 79.99999999999999,
           "Discipline": 35.748792270531396,
           "Speed": 26.666666666666668
         },
@@ -67673,18 +67660,18 @@
         },
         "summary": "Ryan Black profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .298",
-          "OBP .415",
+          "AVG .300",
+          "OBP .418",
           "SLG .505"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".298"
+            "value": ".300"
           },
           {
             "label": "OBP",
-            "value": ".415"
+            "value": ".418"
           },
           {
             "label": "SLG",
@@ -67696,7 +67683,7 @@
           },
           {
             "label": "RBI",
-            "value": "32"
+            "value": "34"
           },
           {
             "label": "SB",
@@ -67704,10 +67691,10 @@
           }
         ],
         "components": {
-          "On-base": 74.99999999999997,
+          "On-base": 76.66666666666664,
           "Power": 48.684210526315795,
-          "Contact": 48.749999999999986,
-          "Discipline": 45.804988662131514,
+          "Contact": 49.999999999999986,
+          "Discipline": 46.66666666666666,
           "Speed": 16.666666666666664
         },
         "metaLine": "SR / L/R",
@@ -67742,22 +67729,22 @@
         },
         "summary": "Daniel Jackson profiles as a C/OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .378",
-          "OBP .475",
-          "SLG .807"
+          "AVG .379",
+          "OBP .473",
+          "SLG .803"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".378"
+            "value": ".379"
           },
           {
             "label": "OBP",
-            "value": ".475"
+            "value": ".473"
           },
           {
             "label": "SLG",
-            "value": ".807"
+            "value": ".803"
           },
           {
             "label": "HR",
@@ -67775,8 +67762,8 @@
         "components": {
           "On-base": 100,
           "Power": 100,
-          "Contact": 98.75,
-          "Discipline": 55.37918871252203,
+          "Contact": 99.375,
+          "Discipline": 54.166666666666664,
           "Speed": 86.66666666666667
         },
         "metaLine": "JR / R/R",
@@ -67880,14 +67867,14 @@
         },
         "summary": "Justin Byrd looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.63",
+          "ERA 3.73",
           "WHIP 0.94",
-          "K/9 11.0"
+          "K/9 11.1"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.63"
+            "value": "3.73"
           },
           {
             "label": "WHIP",
@@ -67895,7 +67882,7 @@
           },
           {
             "label": "K/9",
-            "value": "11.0"
+            "value": "11.1"
           },
           {
             "label": "BB/9",
@@ -67903,18 +67890,18 @@
           },
           {
             "label": "HR/9",
-            "value": "1.74"
+            "value": "1.87"
           },
           {
             "label": "IP",
-            "value": "62.0"
+            "value": "62.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 63.92961876832845,
-          "Command": 88.57142857142858,
+          "Miss bats": 64.16827852998067,
+          "Command": 90,
           "Damage suppression": 0
         },
         "metaLine": "R-JR / R/R",
@@ -68011,29 +67998,29 @@
         "position": "C/OF",
         "classYear": "JR",
         "handedness": "L/R",
-        "score": 46,
+        "score": 40,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jack Arcamone gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .317",
-          "OBP .396",
-          "SLG .488"
+          "AVG .302",
+          "OBP .380",
+          "SLG .465"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".317"
+            "value": ".302"
           },
           {
             "label": "OBP",
-            "value": ".396"
+            "value": ".380"
           },
           {
             "label": "SLG",
-            "value": ".488"
+            "value": ".465"
           },
           {
             "label": "HR",
@@ -68049,10 +68036,10 @@
           }
         ],
         "components": {
-          "On-base": 64.44444444444444,
-          "Power": 44.21052631578947,
-          "Contact": 60.62499999999999,
-          "Discipline": 22.22222222222222,
+          "On-base": 55.55555555555555,
+          "Power": 38.15789473684211,
+          "Contact": 51.24999999999999,
+          "Discipline": 20.51282051282051,
           "Speed": 3.3333333333333335
         },
         "metaLine": "JR / L/R",
@@ -68080,29 +68067,29 @@
         "position": "INF",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 81,
+        "score": 77,
         "fit": {
-          "label": "Priority",
-          "className": "fit-priority"
+          "label": "Pursue",
+          "className": "fit-pursue"
         },
         "summary": "Rylan Lujo profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .366",
-          "OBP .436",
-          "SLG .644"
+          "AVG .357",
+          "OBP .427",
+          "SLG .629"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".366"
+            "value": ".357"
           },
           {
             "label": "OBP",
-            "value": ".436"
+            "value": ".427"
           },
           {
             "label": "SLG",
-            "value": ".644"
+            "value": ".629"
           },
           {
             "label": "HR",
@@ -68118,9 +68105,9 @@
           }
         ],
         "components": {
-          "On-base": 86.66666666666666,
-          "Power": 85.26315789473685,
-          "Contact": 91.25,
+          "On-base": 81.66666666666666,
+          "Power": 81.31578947368422,
+          "Contact": 85.62499999999999,
           "Discipline": 73.73737373737373,
           "Speed": 43.333333333333336
         },
@@ -68149,37 +68136,37 @@
         "position": "INF",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 53,
+        "score": 56,
         "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
+          "label": "Monitor",
+          "className": "fit-monitor"
         },
         "summary": "Kolby Branch profiles as a INF piece who brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .286",
-          "OBP .389",
-          "SLG .610"
+          "AVG .291",
+          "OBP .394",
+          "SLG .628"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".286"
+            "value": ".291"
           },
           {
             "label": "OBP",
-            "value": ".389"
+            "value": ".394"
           },
           {
             "label": "SLG",
-            "value": ".610"
+            "value": ".628"
           },
           {
             "label": "HR",
-            "value": "19"
+            "value": "20"
           },
           {
             "label": "RBI",
-            "value": "58"
+            "value": "60"
           },
           {
             "label": "SB",
@@ -68187,10 +68174,10 @@
           }
         ],
         "components": {
-          "On-base": 60.55555555555555,
-          "Power": 76.31578947368422,
-          "Contact": 41.24999999999998,
-          "Discipline": 37.962962962962955,
+          "On-base": 63.33333333333333,
+          "Power": 81.05263157894737,
+          "Contact": 44.374999999999986,
+          "Discipline": 39.50617283950617,
           "Speed": 13.333333333333334
         },
         "metaLine": "SR / R/R",
@@ -68223,24 +68210,24 @@
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Matt Scott looks like a RHP option who limits runs and misses bats.",
+        "summary": "Matt Scott looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 3.88",
-          "WHIP 1.29",
-          "K/9 11.3"
+          "ERA 4.22",
+          "WHIP 1.32",
+          "K/9 11.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.88"
+            "value": "4.22"
           },
           {
             "label": "WHIP",
-            "value": "1.29"
+            "value": "1.32"
           },
           {
             "label": "K/9",
-            "value": "11.3"
+            "value": "11.5"
           },
           {
             "label": "BB/9",
@@ -68248,18 +68235,18 @@
           },
           {
             "label": "HR/9",
-            "value": "1.94"
+            "value": "1.96"
           },
           {
             "label": "IP",
-            "value": "55.7"
+            "value": "59.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 66.52150244964616,
-          "Command": 29.999999999999993,
+          "Miss bats": 67.85170137125445,
+          "Command": 30.666666666666664,
           "Damage suppression": 0
         },
         "metaLine": "SR / R/R",
@@ -68639,22 +68626,22 @@
         },
         "summary": "Zach Brown looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.53",
-          "WHIP 1.07",
-          "K/9 9.3"
+          "ERA 4.00",
+          "WHIP 1.14",
+          "K/9 9.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.53"
+            "value": "4.00"
           },
           {
             "label": "WHIP",
-            "value": "1.07"
+            "value": "1.14"
           },
           {
             "label": "K/9",
-            "value": "9.3"
+            "value": "9.5"
           },
           {
             "label": "BB/9",
@@ -68662,18 +68649,18 @@
           },
           {
             "label": "HR/9",
-            "value": "2.02"
+            "value": "2.00"
           },
           {
             "label": "IP",
-            "value": "35.7"
+            "value": "36.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 48.51316907391674,
-          "Command": 62.222222222222214,
+          "Miss bats": 50,
+          "Command": 64.44444444444444,
           "Damage suppression": 0
         },
         "metaLine": "JR / R/R",
@@ -68914,40 +68901,40 @@
         },
         "summary": "Joe Nottingham looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 4.85",
-          "WHIP 1.31",
-          "K/9 13.2"
+          "ERA 4.73",
+          "WHIP 1.28",
+          "K/9 12.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.85"
+            "value": "4.73"
           },
           {
             "label": "WHIP",
-            "value": "1.31"
+            "value": "1.28"
           },
           {
             "label": "K/9",
-            "value": "13.2"
+            "value": "12.8"
           },
           {
             "label": "BB/9",
-            "value": "4.8"
+            "value": "4.7"
           },
           {
             "label": "HR/9",
-            "value": "1.38"
+            "value": "1.35"
           },
           {
             "label": "IP",
-            "value": "13.0"
+            "value": "13.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 83.21678321678321,
+          "Miss bats": 80.22727272727272,
           "Command": 34.285714285714285,
           "Damage suppression": 0
         },
@@ -69328,22 +69315,22 @@
         },
         "summary": "Brennan Hudson profiles as a C/INF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .292",
-          "OBP .461",
-          "SLG .733"
+          "AVG .294",
+          "OBP .466",
+          "SLG .730"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".292"
+            "value": ".294"
           },
           {
             "label": "OBP",
-            "value": ".461"
+            "value": ".466"
           },
           {
             "label": "SLG",
-            "value": ".733"
+            "value": ".730"
           },
           {
             "label": "HR",
@@ -69361,8 +69348,8 @@
         "components": {
           "On-base": 100,
           "Power": 100,
-          "Contact": 44.999999999999986,
-          "Discipline": 71.60493827160492,
+          "Contact": 46.249999999999986,
+          "Discipline": 71.98067632850241,
           "Speed": 0
         },
         "metaLine": "SR / L/R",
@@ -69397,40 +69384,40 @@
         },
         "summary": "Grant Edwards gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 5.79",
-          "WHIP 1.29",
-          "K/9 7.1"
+          "ERA 5.65",
+          "WHIP 1.26",
+          "K/9 6.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.79"
+            "value": "5.65"
           },
           {
             "label": "WHIP",
-            "value": "1.29"
+            "value": "1.26"
           },
           {
             "label": "K/9",
-            "value": "7.1"
+            "value": "6.9"
           },
           {
             "label": "BB/9",
-            "value": "3.9"
+            "value": "3.8"
           },
           {
             "label": "HR/9",
-            "value": "1.29"
+            "value": "1.26"
           },
           {
             "label": "IP",
-            "value": "14.0"
+            "value": "14.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 27.92207792207792,
+          "Miss bats": 26.42706131078224,
           "Command": 16.666666666666664,
           "Damage suppression": 0
         },
@@ -69597,48 +69584,48 @@
         "position": "RHP",
         "classYear": "R-SO",
         "handedness": "R/R",
-        "score": 13,
+        "score": 15,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Paul Farley looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 4.53",
-          "WHIP 1.60",
-          "K/9 9.1"
+          "ERA 4.98",
+          "WHIP 1.62",
+          "K/9 9.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.53"
+            "value": "4.98"
           },
           {
             "label": "WHIP",
-            "value": "1.60"
+            "value": "1.62"
           },
           {
             "label": "K/9",
-            "value": "9.1"
+            "value": "9.6"
           },
           {
             "label": "BB/9",
-            "value": "4.3"
+            "value": "4.0"
           },
           {
             "label": "HR/9",
-            "value": "0.82"
+            "value": "1.34"
           },
           {
             "label": "IP",
-            "value": "43.7"
+            "value": "47.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 46.07911172796669,
-          "Command": 21.904761904761898,
+          "Miss bats": 50.67698259187622,
+          "Command": 27.619047619047628,
           "Damage suppression": 0
         },
         "metaLine": "R-SO / R/R",
@@ -69873,29 +69860,29 @@
         "position": "OF",
         "classYear": "GR",
         "handedness": "R/R",
-        "score": 37,
+        "score": 33,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Cole Koniarsky gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .310",
-          "OBP .364",
-          "SLG .448"
+          "AVG .300",
+          "OBP .353",
+          "SLG .433"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".310"
+            "value": ".300"
           },
           {
             "label": "OBP",
-            "value": ".364"
+            "value": ".353"
           },
           {
             "label": "SLG",
-            "value": ".448"
+            "value": ".433"
           },
           {
             "label": "HR",
@@ -69911,9 +69898,9 @@
           }
         ],
         "components": {
-          "On-base": 46.66666666666665,
-          "Power": 33.684210526315795,
-          "Contact": 56.25,
+          "On-base": 40.555555555555536,
+          "Power": 29.73684210526316,
+          "Contact": 49.999999999999986,
           "Discipline": 22.22222222222222,
           "Speed": 0
         },
@@ -86876,74 +86863,6 @@
         "espnAthleteId": ""
       },
       {
-        "id": "massachusetts-18343",
-        "name": "Anthony Tirado",
-        "school": "Mass-Amherst",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "R-JR",
-        "handedness": "L/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Anthony Tirado gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "R-JR / L/R",
-        "detailBadges": [
-          "INF",
-          "R-JR",
-          "L/R",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Mass-Amherst Athletics roster"
-        ],
-        "sourceSummary": "Mass-Amherst Athletics roster",
-        "schoolSlug": "massachusetts",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://umassathletics.com/sports/baseball/roster/anthony-tirado/18343",
-        "espnAthleteId": ""
-      },
-      {
         "id": "massachusetts-18332",
         "name": "Reece McCarthy",
         "school": "Mass-Amherst",
@@ -87148,74 +87067,6 @@
         "espnAthleteId": ""
       },
       {
-        "id": "massachusetts-18336",
-        "name": "Gavin O'Brien",
-        "school": "Mass-Amherst",
-        "role": "Hitter",
-        "position": "OF/INF",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Gavin O'Brien gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "OF/INF",
-          "JR",
-          "R/R",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Mass-Amherst Athletics roster"
-        ],
-        "sourceSummary": "Mass-Amherst Athletics roster",
-        "schoolSlug": "massachusetts",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://umassathletics.com/sports/baseball/roster/gavin-obrien/18336",
-        "espnAthleteId": ""
-      },
-      {
         "id": "massachusetts-18318",
         "name": "Vance Bonior",
         "school": "Mass-Amherst",
@@ -87349,74 +87200,6 @@
         "schoolSlug": "massachusetts",
         "compositeRole": "Pitcher",
         "profileUrl": "https://umassathletics.com/sports/baseball/roster/michael-goodman/18326",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "massachusetts-18337",
-        "name": "Sam Perry",
-        "school": "Mass-Amherst",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Sam Perry looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Mass-Amherst Athletics roster"
-        ],
-        "sourceSummary": "Mass-Amherst Athletics roster",
-        "schoolSlug": "massachusetts",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://umassathletics.com/sports/baseball/roster/sam-perry/18337",
         "espnAthleteId": ""
       },
       {
@@ -87760,74 +87543,6 @@
         "espnAthleteId": ""
       },
       {
-        "id": "massachusetts-18331",
-        "name": "Randen May",
-        "school": "Mass-Amherst",
-        "role": "Hitter",
-        "position": "INF/OF",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Randen May gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "INF/OF",
-          "SO",
-          "R/R",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Mass-Amherst Athletics roster"
-        ],
-        "sourceSummary": "Mass-Amherst Athletics roster",
-        "schoolSlug": "massachusetts",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://umassathletics.com/sports/baseball/roster/randen-may/18331",
-        "espnAthleteId": ""
-      },
-      {
         "id": "massachusetts-18339",
         "name": "Jackson Richard",
         "school": "Mass-Amherst",
@@ -88032,74 +87747,6 @@
         "espnAthleteId": ""
       },
       {
-        "id": "massachusetts-18335",
-        "name": "Adam Merritt",
-        "school": "Mass-Amherst",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Adam Merritt looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Mass-Amherst Athletics roster"
-        ],
-        "sourceSummary": "Mass-Amherst Athletics roster",
-        "schoolSlug": "massachusetts",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://umassathletics.com/sports/baseball/roster/adam-merritt/18335",
-        "espnAthleteId": ""
-      },
-      {
         "id": "massachusetts-18338",
         "name": "Callen Powers",
         "school": "Mass-Amherst",
@@ -88233,74 +87880,6 @@
         "schoolSlug": "massachusetts",
         "compositeRole": "Pitcher",
         "profileUrl": "https://umassathletics.com/sports/baseball/roster/justin-masteralexis/18330",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "massachusetts-18329",
-        "name": "Lorcan Lee",
-        "school": "Mass-Amherst",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Lorcan Lee looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Mass-Amherst Athletics roster"
-        ],
-        "sourceSummary": "Mass-Amherst Athletics roster",
-        "schoolSlug": "massachusetts",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://umassathletics.com/sports/baseball/roster/lorcan-lee/18329",
         "espnAthleteId": ""
       },
       {
@@ -104023,29 +103602,29 @@
         "position": "INF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 57,
+        "score": 56,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Cooper Nicholson profiles as a INF piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .261",
-          "OBP .435",
-          "SLG .560"
+          "AVG .259",
+          "OBP .431",
+          "SLG .561"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".261"
+            "value": ".259"
           },
           {
             "label": "OBP",
-            "value": ".435"
+            "value": ".431"
           },
           {
             "label": "SLG",
-            "value": ".560"
+            "value": ".561"
           },
           {
             "label": "HR",
@@ -104053,7 +103632,7 @@
           },
           {
             "label": "RBI",
-            "value": "49"
+            "value": "51"
           },
           {
             "label": "SB",
@@ -104061,10 +103640,10 @@
           }
         ],
         "components": {
-          "On-base": 86.1111111111111,
-          "Power": 63.157894736842124,
-          "Contact": 25.625000000000004,
-          "Discipline": 54.83870967741935,
+          "On-base": 83.88888888888889,
+          "Power": 63.421052631578966,
+          "Contact": 24.375000000000004,
+          "Discipline": 53.61552028218695,
           "Speed": 3.3333333333333335
         },
         "metaLine": "JR / R/R",
@@ -104100,8 +103679,8 @@
         "summary": "Jake Schaffner profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
           "AVG .352",
-          "OBP .465",
-          "SLG .553"
+          "OBP .467",
+          "SLG .551"
         ],
         "statCards": [
           {
@@ -104110,11 +103689,11 @@
           },
           {
             "label": "OBP",
-            "value": ".465"
+            "value": ".467"
           },
           {
             "label": "SLG",
-            "value": ".553"
+            "value": ".551"
           },
           {
             "label": "HR",
@@ -104122,19 +103701,19 @@
           },
           {
             "label": "RBI",
-            "value": "47"
+            "value": "48"
           },
           {
             "label": "SB",
-            "value": "25"
+            "value": "26"
           }
         ],
         "components": {
           "On-base": 100,
-          "Power": 61.315789473684234,
+          "Power": 60.78947368421055,
           "Contact": 82.49999999999999,
           "Discipline": 100,
-          "Speed": 83.33333333333334
+          "Speed": 86.66666666666667
         },
         "metaLine": "JR / L/R",
         "detailBadges": [
@@ -104299,29 +103878,29 @@
         "position": "INF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 46,
+        "score": 49,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Gavin Gallaher gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Gavin Gallaher profiles as a INF piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .283",
-          "OBP .375",
-          "SLG .489"
+          "AVG .292",
+          "OBP .382",
+          "SLG .495"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".283"
+            "value": ".292"
           },
           {
             "label": "OBP",
-            "value": ".375"
+            "value": ".382"
           },
           {
             "label": "SLG",
-            "value": ".489"
+            "value": ".495"
           },
           {
             "label": "HR",
@@ -104329,19 +103908,19 @@
           },
           {
             "label": "RBI",
-            "value": "57"
+            "value": "61"
           },
           {
             "label": "SB",
-            "value": "7"
+            "value": "8"
           }
         ],
         "components": {
-          "On-base": 52.77777777777777,
-          "Power": 44.473684210526315,
-          "Contact": 39.374999999999986,
+          "On-base": 56.66666666666666,
+          "Power": 46.05263157894737,
+          "Contact": 44.999999999999986,
           "Discipline": 59.538784067085935,
-          "Speed": 23.333333333333332
+          "Speed": 26.666666666666668
         },
         "metaLine": "JR / R/R",
         "detailBadges": [
@@ -104375,14 +103954,14 @@
         },
         "summary": "Macon Winslow profiles as a C piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .286",
+          "AVG .285",
           "OBP .422",
-          "SLG .476"
+          "SLG .472"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".286"
+            "value": ".285"
           },
           {
             "label": "OBP",
@@ -104390,7 +103969,7 @@
           },
           {
             "label": "SLG",
-            "value": ".476"
+            "value": ".472"
           },
           {
             "label": "HR",
@@ -104407,8 +103986,8 @@
         ],
         "components": {
           "On-base": 78.88888888888886,
-          "Power": 41.05263157894737,
-          "Contact": 41.24999999999998,
+          "Power": 40,
+          "Contact": 40.624999999999986,
           "Discipline": 98.98989898989898,
           "Speed": 0
         },
@@ -104506,29 +104085,29 @@
         "position": "OF",
         "classYear": "JR",
         "handedness": "L/R",
-        "score": 88,
+        "score": 90,
         "fit": {
           "label": "Priority",
           "className": "fit-priority"
         },
         "summary": "Owen Hull profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .389",
-          "OBP .502",
-          "SLG .594"
+          "AVG .398",
+          "OBP .506",
+          "SLG .614"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".389"
+            "value": ".398"
           },
           {
             "label": "OBP",
-            "value": ".502"
+            "value": ".506"
           },
           {
             "label": "SLG",
-            "value": ".594"
+            "value": ".614"
           },
           {
             "label": "HR",
@@ -104536,19 +104115,19 @@
           },
           {
             "label": "RBI",
-            "value": "83"
+            "value": "85"
           },
           {
             "label": "SB",
-            "value": "17"
+            "value": "18"
           }
         ],
         "components": {
           "On-base": 100,
-          "Power": 72.10526315789474,
+          "Power": 77.36842105263159,
           "Contact": 100,
           "Discipline": 96.46464646464645,
-          "Speed": 56.666666666666664
+          "Speed": 60
         },
         "metaLine": "JR / L/R",
         "detailBadges": [
@@ -104712,29 +104291,29 @@
         "position": "OF/1B",
         "classYear": "FR",
         "handedness": "L/L",
-        "score": 30,
+        "score": 27,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Tyler Howe gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .248",
-          "OBP .375",
-          "SLG .345"
+          "AVG .242",
+          "OBP .368",
+          "SLG .336"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".248"
+            "value": ".242"
           },
           {
             "label": "OBP",
-            "value": ".375"
+            "value": ".368"
           },
           {
             "label": "SLG",
-            "value": ".345"
+            "value": ".336"
           },
           {
             "label": "HR",
@@ -104750,10 +104329,10 @@
           }
         ],
         "components": {
-          "On-base": 52.77777777777777,
-          "Power": 6.578947368421045,
-          "Contact": 17.5,
-          "Discipline": 47.222222222222214,
+          "On-base": 48.88888888888887,
+          "Power": 4.210526315789478,
+          "Contact": 13.749999999999996,
+          "Discipline": 44.444444444444436,
           "Speed": 13.333333333333334
         },
         "metaLine": "FR / L/L",
@@ -104858,7 +104437,7 @@
         "summary": "Cameron Padgett gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "ERA 6.56",
-          "WHIP 1.63",
+          "WHIP 1.71",
           "K/9 8.9"
         ],
         "statCards": [
@@ -104868,7 +104447,7 @@
           },
           {
             "label": "WHIP",
-            "value": "1.63"
+            "value": "1.71"
           },
           {
             "label": "K/9",
@@ -104995,22 +104574,22 @@
         },
         "summary": "Carter French gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .239",
-          "OBP .393",
-          "SLG .291"
+          "AVG .246",
+          "OBP .394",
+          "SLG .303"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".239"
+            "value": ".246"
           },
           {
             "label": "OBP",
-            "value": ".393"
+            "value": ".394"
           },
           {
             "label": "SLG",
-            "value": ".291"
+            "value": ".303"
           },
           {
             "label": "HR",
@@ -105018,7 +104597,7 @@
           },
           {
             "label": "RBI",
-            "value": "13"
+            "value": "14"
           },
           {
             "label": "SB",
@@ -105026,10 +104605,10 @@
           }
         ],
         "components": {
-          "On-base": 62.77777777777778,
+          "On-base": 63.33333333333333,
           "Power": 0,
-          "Contact": 11.874999999999993,
-          "Discipline": 71.79487179487177,
+          "Contact": 16.249999999999996,
+          "Discipline": 68.31275720164606,
           "Speed": 16.666666666666664
         },
         "metaLine": "SR / L/L",
@@ -105195,29 +104774,29 @@
         "position": "C",
         "classYear": "GR",
         "handedness": "R/R",
-        "score": 36,
+        "score": 34,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Colin Hynek gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .267",
-          "OBP .358",
-          "SLG .496"
+          "AVG .262",
+          "OBP .351",
+          "SLG .485"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".267"
+            "value": ".262"
           },
           {
             "label": "OBP",
-            "value": ".358"
+            "value": ".351"
           },
           {
             "label": "SLG",
-            "value": ".496"
+            "value": ".485"
           },
           {
             "label": "HR",
@@ -105233,10 +104812,10 @@
           }
         ],
         "components": {
-          "On-base": 43.333333333333314,
-          "Power": 46.31578947368421,
-          "Contact": 29.375000000000007,
-          "Discipline": 35.317460317460316,
+          "On-base": 39.44444444444442,
+          "Power": 43.42105263157895,
+          "Contact": 26.250000000000007,
+          "Discipline": 33.33333333333333,
           "Speed": 3.3333333333333335
         },
         "metaLine": "GR / R/R",
@@ -105264,48 +104843,48 @@
         "position": "RHP",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 20,
+        "score": 19,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Matthew Matthijs looks like a RHP option who misses bats.",
         "summaryMetrics": [
-          "ERA 5.34",
-          "WHIP 1.40",
-          "K/9 11.0"
+          "ERA 6.30",
+          "WHIP 1.47",
+          "K/9 10.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.34"
+            "value": "6.30"
           },
           {
             "label": "WHIP",
-            "value": "1.40"
+            "value": "1.47"
           },
           {
             "label": "K/9",
-            "value": "11.0"
+            "value": "10.8"
           },
           {
             "label": "BB/9",
-            "value": "3.5"
+            "value": "3.6"
           },
           {
             "label": "HR/9",
-            "value": "1.26"
+            "value": "1.20"
           },
           {
             "label": "IP",
-            "value": "28.7"
+            "value": "30.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 63.5306553911205,
-          "Command": 43.63636363636363,
+          "Miss bats": 61.81818181818183,
+          "Command": 40,
           "Damage suppression": 0
         },
         "metaLine": "SR / R/R",
@@ -105478,22 +105057,22 @@
         },
         "summary": "Caden Glauber looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 2.13",
-          "WHIP 1.10",
-          "K/9 10.9"
+          "ERA 2.17",
+          "WHIP 1.11",
+          "K/9 11.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.13"
+            "value": "2.17"
           },
           {
             "label": "WHIP",
-            "value": "1.10"
+            "value": "1.11"
           },
           {
             "label": "K/9",
-            "value": "10.9"
+            "value": "11.0"
           },
           {
             "label": "BB/9",
@@ -105501,18 +105080,18 @@
           },
           {
             "label": "HR/9",
-            "value": "0.74"
+            "value": "0.83"
           },
           {
             "label": "IP",
-            "value": "84.7"
+            "value": "87.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 63.17108088761631,
-          "Command": 34.210526315789465,
+          "Miss bats": 63.322884012539184,
+          "Command": 34.35897435897436,
           "Damage suppression": 0
         },
         "metaLine": "FR / R/R",
@@ -105746,29 +105325,29 @@
         "position": "LHP",
         "classYear": "FR",
         "handedness": "L/L",
-        "score": 12,
+        "score": 11,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jackson Rose looks like a LHP option who limits runs and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 2.35",
-          "WHIP 1.07",
-          "K/9 8.6"
+          "ERA 2.15",
+          "WHIP 1.05",
+          "K/9 8.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.35"
+            "value": "2.15"
           },
           {
             "label": "WHIP",
-            "value": "1.07"
+            "value": "1.05"
           },
           {
             "label": "K/9",
-            "value": "8.6"
+            "value": "8.2"
           },
           {
             "label": "BB/9",
@@ -105776,18 +105355,18 @@
           },
           {
             "label": "HR/9",
-            "value": "0.39"
+            "value": "0.36"
           },
           {
             "label": "IP",
-            "value": "46.0"
+            "value": "50.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 41.89723320158102,
-          "Command": 20,
+          "Miss bats": 38.410596026490055,
+          "Command": 18.33333333333333,
           "Damage suppression": 0
         },
         "metaLine": "FR / L/L",
@@ -105822,18 +105401,18 @@
         },
         "summary": "Folger Boaz gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 7.03",
-          "WHIP 1.85",
+          "ERA 7.06",
+          "WHIP 1.87",
           "K/9 8.5"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.03"
+            "value": "7.06"
           },
           {
             "label": "WHIP",
-            "value": "1.85"
+            "value": "1.87"
           },
           {
             "label": "K/9",
@@ -105841,22 +105420,22 @@
           },
           {
             "label": "BB/9",
-            "value": "3.7"
+            "value": "3.8"
           },
           {
             "label": "HR/9",
-            "value": "1.44"
+            "value": "1.41"
           },
           {
             "label": "IP",
-            "value": "56.3"
+            "value": "57.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 40.61323292092523,
-          "Command": 26.08695652173913,
+          "Miss bats": 40.69767441860465,
+          "Command": 25,
           "Damage suppression": 0
         },
         "metaLine": "JR / L/L",
@@ -106228,29 +105807,29 @@
         "position": "INF",
         "classYear": "JR",
         "handedness": "L/L",
-        "score": 52,
+        "score": 53,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Erik Paulsen profiles as a INF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .291",
-          "OBP .418",
-          "SLG .477"
+          "AVG .298",
+          "OBP .421",
+          "SLG .479"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".291"
+            "value": ".298"
           },
           {
             "label": "OBP",
-            "value": ".418"
+            "value": ".421"
           },
           {
             "label": "SLG",
-            "value": ".477"
+            "value": ".479"
           },
           {
             "label": "HR",
@@ -106258,7 +105837,7 @@
           },
           {
             "label": "RBI",
-            "value": "55"
+            "value": "56"
           },
           {
             "label": "SB",
@@ -106266,10 +105845,10 @@
           }
         ],
         "components": {
-          "On-base": 76.66666666666664,
-          "Power": 41.31578947368421,
-          "Contact": 44.374999999999986,
-          "Discipline": 60.606060606060595,
+          "On-base": 78.33333333333331,
+          "Power": 41.84210526315789,
+          "Contact": 48.749999999999986,
+          "Discipline": 57.69980506822612,
           "Speed": 3.3333333333333335
         },
         "metaLine": "JR / L/L",
@@ -111797,2557 +111376,6 @@
         "schoolSlug": "northwestern",
         "compositeRole": "Pitcher",
         "profileUrl": "https://nusports.com/sports/baseball/roster/justin-fryer/13024",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "oklahoma-19856",
-        "name": "Jason Walk",
-        "school": "Oklahoma",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "JR",
-        "handedness": "S/R",
-        "score": 38,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jason Walk profiles as a OF piece who adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .275",
-          "OBP .379",
-          "SLG .380"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".275"
-          },
-          {
-            "label": "OBP",
-            "value": ".379"
-          },
-          {
-            "label": "SLG",
-            "value": ".380"
-          },
-          {
-            "label": "HR",
-            "value": "4"
-          },
-          {
-            "label": "RBI",
-            "value": "22"
-          },
-          {
-            "label": "SB",
-            "value": "16"
-          }
-        ],
-        "components": {
-          "On-base": 54.99999999999999,
-          "Power": 15.789473684210527,
-          "Contact": 34.375000000000014,
-          "Discipline": 33.33333333333333,
-          "Speed": 53.333333333333336
-        },
-        "metaLine": "JR / S/R",
-        "detailBadges": [
-          "OF",
-          "JR",
-          "S/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Oklahoma Athletics roster",
-          "Oklahoma cumulative stats"
-        ],
-        "sourceSummary": "Oklahoma Athletics roster + Oklahoma cumulative stats",
-        "schoolSlug": "oklahoma",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://soonersports.com/sports/baseball/roster/jason-walk/19856",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "oklahoma-19858",
-        "name": "Myles Davis",
-        "school": "Oklahoma",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 89,
-        "fit": {
-          "label": "Priority",
-          "className": "fit-priority"
-        },
-        "summary": "Myles Davis profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
-        "summaryMetrics": [
-          "AVG .375",
-          "OBP .500",
-          "SLG .875"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".375"
-          },
-          {
-            "label": "OBP",
-            "value": ".500"
-          },
-          {
-            "label": "SLG",
-            "value": ".875"
-          },
-          {
-            "label": "HR",
-            "value": "1"
-          },
-          {
-            "label": "RBI",
-            "value": "6"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 100,
-          "Power": 100,
-          "Contact": 96.875,
-          "Discipline": 100,
-          "Speed": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "INF",
-          "SO",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Oklahoma Athletics roster",
-          "Oklahoma cumulative stats"
-        ],
-        "sourceSummary": "Oklahoma Athletics roster + Oklahoma cumulative stats",
-        "schoolSlug": "oklahoma",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://soonersports.com/sports/baseball/roster/myles-davis/19858",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "oklahoma-19859",
-        "name": "Cayden Brumbaugh",
-        "school": "Oklahoma",
-        "role": "Hitter",
-        "position": "UTL",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 67,
-        "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
-        },
-        "summary": "Cayden Brumbaugh profiles as a UTL piece who gets on base at a high clip.",
-        "summaryMetrics": [
-          "AVG .385",
-          "OBP .467",
-          "SLG .538"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".385"
-          },
-          {
-            "label": "OBP",
-            "value": ".467"
-          },
-          {
-            "label": "SLG",
-            "value": ".538"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "3"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
-        "components": {
-          "On-base": 100,
-          "Power": 57.36842105263159,
-          "Contact": 100,
-          "Discipline": 14.814814814814808,
-          "Speed": 3.3333333333333335
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "UTL",
-          "SR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Oklahoma Athletics roster",
-          "Oklahoma cumulative stats"
-        ],
-        "sourceSummary": "Oklahoma Athletics roster + Oklahoma cumulative stats",
-        "schoolSlug": "oklahoma",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://soonersports.com/sports/baseball/roster/cayden-brumbaugh/19859",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "oklahoma-19877",
-        "name": "Alec Blair",
-        "school": "Oklahoma",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "FR",
-        "handedness": "L/L",
-        "score": 16,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Alec Blair gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .247",
-          "OBP .320",
-          "SLG .376"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".247"
-          },
-          {
-            "label": "OBP",
-            "value": ".320"
-          },
-          {
-            "label": "SLG",
-            "value": ".376"
-          },
-          {
-            "label": "HR",
-            "value": "2"
-          },
-          {
-            "label": "RBI",
-            "value": "18"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
-        "components": {
-          "On-base": 22.222222222222214,
-          "Power": 14.73684210526316,
-          "Contact": 16.875,
-          "Discipline": 12.499999999999996,
-          "Speed": 3.3333333333333335
-        },
-        "metaLine": "FR / L/L",
-        "detailBadges": [
-          "OF",
-          "FR",
-          "L/L",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Oklahoma Athletics roster",
-          "Oklahoma cumulative stats"
-        ],
-        "sourceSummary": "Oklahoma Athletics roster + Oklahoma cumulative stats",
-        "schoolSlug": "oklahoma",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://soonersports.com/sports/baseball/roster/alec-blair/19877",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "oklahoma-19860",
-        "name": "Nolan Stevens",
-        "school": "Oklahoma",
-        "role": "Pitcher",
-        "position": "OF/LHP",
-        "classYear": "JR",
-        "handedness": "L/L",
-        "score": 36,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Nolan Stevens looks like a OF/LHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
-        "summaryMetrics": [
-          "ERA 0.00",
-          "WHIP 0.00",
-          "K/9 27.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "0.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "0.00"
-          },
-          {
-            "label": "K/9",
-            "value": "27.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 100,
-          "Command": 100,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / L/L",
-        "detailBadges": [
-          "OF/LHP",
-          "JR",
-          "L/L",
-          "Two-Way"
-        ],
-        "leaderboards": [
-          "Oklahoma Athletics roster",
-          "Oklahoma cumulative stats"
-        ],
-        "sourceSummary": "Oklahoma Athletics roster + Oklahoma cumulative stats",
-        "schoolSlug": "oklahoma",
-        "compositeRole": "Two-Way",
-        "profileUrl": "https://soonersports.com/sports/baseball/roster/nolan-stevens/19860",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "oklahoma-19845",
-        "name": "Kyle Branch",
-        "school": "Oklahoma",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 19,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Kyle Branch gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .216",
-          "OBP .319",
-          "SLG .295"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".216"
-          },
-          {
-            "label": "OBP",
-            "value": ".319"
-          },
-          {
-            "label": "SLG",
-            "value": ".295"
-          },
-          {
-            "label": "HR",
-            "value": "3"
-          },
-          {
-            "label": "RBI",
-            "value": "21"
-          },
-          {
-            "label": "SB",
-            "value": "4"
-          }
-        ],
-        "components": {
-          "On-base": 21.666666666666657,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 76.98412698412696,
-          "Speed": 13.333333333333334
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "INF",
-          "SO",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Oklahoma Athletics roster",
-          "Oklahoma cumulative stats"
-        ],
-        "sourceSummary": "Oklahoma Athletics roster + Oklahoma cumulative stats",
-        "schoolSlug": "oklahoma",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://soonersports.com/sports/baseball/roster/kyle-branch/19845",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "oklahoma-19857",
-        "name": "Jaxon Willits",
-        "school": "Oklahoma",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "JR",
-        "handedness": "S/R",
-        "score": 54,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jaxon Willits profiles as a INF piece who gets on base at a high clip.",
-        "summaryMetrics": [
-          "AVG .302",
-          "OBP .400",
-          "SLG .498"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".302"
-          },
-          {
-            "label": "OBP",
-            "value": ".400"
-          },
-          {
-            "label": "SLG",
-            "value": ".498"
-          },
-          {
-            "label": "HR",
-            "value": "7"
-          },
-          {
-            "label": "RBI",
-            "value": "51"
-          },
-          {
-            "label": "SB",
-            "value": "6"
-          }
-        ],
-        "components": {
-          "On-base": 66.66666666666666,
-          "Power": 46.842105263157904,
-          "Contact": 51.24999999999999,
-          "Discipline": 63.42592592592591,
-          "Speed": 20
-        },
-        "metaLine": "JR / S/R",
-        "detailBadges": [
-          "INF",
-          "JR",
-          "S/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Oklahoma Athletics roster",
-          "Oklahoma cumulative stats"
-        ],
-        "sourceSummary": "Oklahoma Athletics roster + Oklahoma cumulative stats",
-        "schoolSlug": "oklahoma",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://soonersports.com/sports/baseball/roster/jaxon-willits/19857",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "oklahoma-19861",
-        "name": "Uriah Walters",
-        "school": "Oklahoma",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 46,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Uriah Walters profiles as a INF piece who gets on base at a high clip.",
-        "summaryMetrics": [
-          "AVG .300",
-          "OBP .417",
-          "SLG .500"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".300"
-          },
-          {
-            "label": "OBP",
-            "value": ".417"
-          },
-          {
-            "label": "SLG",
-            "value": ".500"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "2"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 76.11111111111109,
-          "Power": 47.36842105263158,
-          "Contact": 49.999999999999986,
-          "Discipline": 5.555555555555554,
-          "Speed": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "INF",
-          "JR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Oklahoma Athletics roster",
-          "Oklahoma cumulative stats"
-        ],
-        "sourceSummary": "Oklahoma Athletics roster + Oklahoma cumulative stats",
-        "schoolSlug": "oklahoma",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://soonersports.com/sports/baseball/roster/uriah-walters/19861",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "oklahoma-19862",
-        "name": "Camden Johnson",
-        "school": "Oklahoma",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "JR",
-        "handedness": "L/R",
-        "score": 58,
-        "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
-        },
-        "summary": "Camden Johnson profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .304",
-          "OBP .403",
-          "SLG .496"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".304"
-          },
-          {
-            "label": "OBP",
-            "value": ".403"
-          },
-          {
-            "label": "SLG",
-            "value": ".496"
-          },
-          {
-            "label": "HR",
-            "value": "9"
-          },
-          {
-            "label": "RBI",
-            "value": "47"
-          },
-          {
-            "label": "SB",
-            "value": "29"
-          }
-        ],
-        "components": {
-          "On-base": 68.33333333333333,
-          "Power": 46.31578947368421,
-          "Contact": 52.49999999999999,
-          "Discipline": 33.33333333333333,
-          "Speed": 96.66666666666667
-        },
-        "metaLine": "JR / L/R",
-        "detailBadges": [
-          "INF",
-          "JR",
-          "L/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Oklahoma Athletics roster",
-          "Oklahoma cumulative stats"
-        ],
-        "sourceSummary": "Oklahoma Athletics roster + Oklahoma cumulative stats",
-        "schoolSlug": "oklahoma",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://soonersports.com/sports/baseball/roster/camden-johnson/19862",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "oklahoma-19863",
-        "name": "Brendan Brock",
-        "school": "Oklahoma",
-        "role": "Hitter",
-        "position": "C/OF",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 55,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Brendan Brock profiles as a C/OF piece who adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .294",
-          "OBP .388",
-          "SLG .528"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".294"
-          },
-          {
-            "label": "OBP",
-            "value": ".388"
-          },
-          {
-            "label": "SLG",
-            "value": ".528"
-          },
-          {
-            "label": "HR",
-            "value": "13"
-          },
-          {
-            "label": "RBI",
-            "value": "54"
-          },
-          {
-            "label": "SB",
-            "value": "27"
-          }
-        ],
-        "components": {
-          "On-base": 60,
-          "Power": 54.73684210526317,
-          "Contact": 46.249999999999986,
-          "Discipline": 27.69726247987117,
-          "Speed": 90
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "C/OF",
-          "JR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Oklahoma Athletics roster",
-          "Oklahoma cumulative stats"
-        ],
-        "sourceSummary": "Oklahoma Athletics roster + Oklahoma cumulative stats",
-        "schoolSlug": "oklahoma",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://soonersports.com/sports/baseball/roster/brendan-brock/19863",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "oklahoma-19864",
-        "name": "Gerardo Prado",
-        "school": "Oklahoma",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 12,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Gerardo Prado profiles as a OF piece who controls at-bats.",
-        "summaryMetrics": [
-          "AVG .091",
-          "OBP .267",
-          "SLG .091"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".091"
-          },
-          {
-            "label": "OBP",
-            "value": ".267"
-          },
-          {
-            "label": "SLG",
-            "value": ".091"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "1"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 88.88888888888889,
-          "Speed": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "OF",
-          "JR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Oklahoma Athletics roster",
-          "Oklahoma cumulative stats"
-        ],
-        "sourceSummary": "Oklahoma Athletics roster + Oklahoma cumulative stats",
-        "schoolSlug": "oklahoma",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://soonersports.com/sports/baseball/roster/gerardo-prado/19864",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "oklahoma-19865",
-        "name": "Kadyn Leon",
-        "school": "Oklahoma",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 12,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Kadyn Leon looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
-        "summaryMetrics": [
-          "ERA 3.76",
-          "WHIP 1.25",
-          "K/9 9.6"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.76"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.25"
-          },
-          {
-            "label": "K/9",
-            "value": "9.6"
-          },
-          {
-            "label": "BB/9",
-            "value": "6.2"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.34"
-          },
-          {
-            "label": "IP",
-            "value": "26.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 50.63291139240508,
-          "Command": 11.111111111111116,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Oklahoma Athletics roster",
-          "Oklahoma cumulative stats"
-        ],
-        "sourceSummary": "Oklahoma Athletics roster + Oklahoma cumulative stats",
-        "schoolSlug": "oklahoma",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://soonersports.com/sports/baseball/roster/kadyn-leon/19865",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "oklahoma-19876",
-        "name": "Connor Larkin",
-        "school": "Oklahoma",
-        "role": "Hitter",
-        "position": "UTL",
-        "classYear": "FR",
-        "handedness": "L/L",
-        "score": 60,
-        "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
-        },
-        "summary": "Connor Larkin profiles as a UTL piece who gets on base at a high clip and controls at-bats.",
-        "summaryMetrics": [
-          "AVG .310",
-          "OBP .474",
-          "SLG .379"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".310"
-          },
-          {
-            "label": "OBP",
-            "value": ".474"
-          },
-          {
-            "label": "SLG",
-            "value": ".379"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "1"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 100,
-          "Power": 15.526315789473685,
-          "Contact": 56.25,
-          "Discipline": 100,
-          "Speed": 0
-        },
-        "metaLine": "FR / L/L",
-        "detailBadges": [
-          "UTL",
-          "FR",
-          "L/L",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Oklahoma Athletics roster",
-          "Oklahoma cumulative stats"
-        ],
-        "sourceSummary": "Oklahoma Athletics roster + Oklahoma cumulative stats",
-        "schoolSlug": "oklahoma",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://soonersports.com/sports/baseball/roster/connor-larkin/19876",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "oklahoma-19855",
-        "name": "Dayton Tockey",
-        "school": "Oklahoma",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SR",
-        "handedness": "L/L",
-        "score": 53,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Dayton Tockey profiles as a INF piece who gets on base at a high clip and brings real extra-base damage.",
-        "summaryMetrics": [
-          "AVG .261",
-          "OBP .402",
-          "SLG .591"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".261"
-          },
-          {
-            "label": "OBP",
-            "value": ".402"
-          },
-          {
-            "label": "SLG",
-            "value": ".591"
-          },
-          {
-            "label": "HR",
-            "value": "8"
-          },
-          {
-            "label": "RBI",
-            "value": "22"
-          },
-          {
-            "label": "SB",
-            "value": "2"
-          }
-        ],
-        "components": {
-          "On-base": 67.77777777777779,
-          "Power": 71.3157894736842,
-          "Contact": 25.625000000000004,
-          "Discipline": 50.69444444444443,
-          "Speed": 6.666666666666667
-        },
-        "metaLine": "SR / L/L",
-        "detailBadges": [
-          "INF",
-          "SR",
-          "L/L",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Oklahoma Athletics roster",
-          "Oklahoma cumulative stats"
-        ],
-        "sourceSummary": "Oklahoma Athletics roster + Oklahoma cumulative stats",
-        "schoolSlug": "oklahoma",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://soonersports.com/sports/baseball/roster/dayton-tockey/19855",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "oklahoma-19849",
-        "name": "Dasan Harris",
-        "school": "Oklahoma",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "JR",
-        "handedness": "L/L",
-        "score": 68,
-        "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
-        },
-        "summary": "Dasan Harris profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .358",
-          "OBP .418",
-          "SLG .547"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".358"
-          },
-          {
-            "label": "OBP",
-            "value": ".418"
-          },
-          {
-            "label": "SLG",
-            "value": ".547"
-          },
-          {
-            "label": "HR",
-            "value": "4"
-          },
-          {
-            "label": "RBI",
-            "value": "25"
-          },
-          {
-            "label": "SB",
-            "value": "18"
-          }
-        ],
-        "components": {
-          "On-base": 76.66666666666664,
-          "Power": 59.73684210526318,
-          "Contact": 86.25,
-          "Discipline": 47.222222222222214,
-          "Speed": 60
-        },
-        "metaLine": "JR / L/L",
-        "detailBadges": [
-          "OF",
-          "JR",
-          "L/L",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Oklahoma Athletics roster",
-          "Oklahoma cumulative stats"
-        ],
-        "sourceSummary": "Oklahoma Athletics roster + Oklahoma cumulative stats",
-        "schoolSlug": "oklahoma",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://soonersports.com/sports/baseball/roster/dasan-harris/19849",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "oklahoma-19852",
-        "name": "Gavyn Jones",
-        "school": "Oklahoma",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "JR",
-        "handedness": "L/L",
-        "score": 10,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Gavyn Jones gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 5.18",
-          "WHIP 1.56",
-          "K/9 8.9"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.18"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.56"
-          },
-          {
-            "label": "K/9",
-            "value": "8.9"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.9"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.11"
-          },
-          {
-            "label": "IP",
-            "value": "24.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 44.333748443337484,
-          "Command": 9.999999999999995,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / L/L",
-        "detailBadges": [
-          "LHP",
-          "JR",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Oklahoma Athletics roster",
-          "Oklahoma cumulative stats"
-        ],
-        "sourceSummary": "Oklahoma Athletics roster + Oklahoma cumulative stats",
-        "schoolSlug": "oklahoma",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://soonersports.com/sports/baseball/roster/gavyn-jones/19852",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "oklahoma-19867",
-        "name": "Jaxon Grossman",
-        "school": "Oklahoma",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jaxon Grossman looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Oklahoma Athletics roster"
-        ],
-        "sourceSummary": "Oklahoma Athletics roster",
-        "schoolSlug": "oklahoma",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://soonersports.com/sports/baseball/roster/jaxon-grossman/19867",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "oklahoma-19848",
-        "name": "Trey Gambill",
-        "school": "Oklahoma",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "SR",
-        "handedness": "L/R",
-        "score": 65,
-        "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
-        },
-        "summary": "Trey Gambill profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .286",
-          "OBP .434",
-          "SLG .515"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".286"
-          },
-          {
-            "label": "OBP",
-            "value": ".434"
-          },
-          {
-            "label": "SLG",
-            "value": ".515"
-          },
-          {
-            "label": "HR",
-            "value": "10"
-          },
-          {
-            "label": "RBI",
-            "value": "37"
-          },
-          {
-            "label": "SB",
-            "value": "16"
-          }
-        ],
-        "components": {
-          "On-base": 85.55555555555554,
-          "Power": 51.31578947368421,
-          "Contact": 41.24999999999998,
-          "Discipline": 79.01234567901233,
-          "Speed": 53.333333333333336
-        },
-        "metaLine": "SR / L/R",
-        "detailBadges": [
-          "OF",
-          "SR",
-          "L/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Oklahoma Athletics roster",
-          "Oklahoma cumulative stats"
-        ],
-        "sourceSummary": "Oklahoma Athletics roster + Oklahoma cumulative stats",
-        "schoolSlug": "oklahoma",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://soonersports.com/sports/baseball/roster/trey-gambill/19848",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "oklahoma-19847",
-        "name": "Drew Dickerson",
-        "school": "Oklahoma",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 40,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Drew Dickerson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .281",
-          "OBP .387",
-          "SLG .506"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".281"
-          },
-          {
-            "label": "OBP",
-            "value": ".387"
-          },
-          {
-            "label": "SLG",
-            "value": ".506"
-          },
-          {
-            "label": "HR",
-            "value": "4"
-          },
-          {
-            "label": "RBI",
-            "value": "21"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
-        "components": {
-          "On-base": 59.444444444444436,
-          "Power": 48.94736842105264,
-          "Contact": 38.125000000000014,
-          "Discipline": 11.111111111111107,
-          "Speed": 3.3333333333333335
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "OF",
-          "SO",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Oklahoma Athletics roster",
-          "Oklahoma cumulative stats"
-        ],
-        "sourceSummary": "Oklahoma Athletics roster + Oklahoma cumulative stats",
-        "schoolSlug": "oklahoma",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://soonersports.com/sports/baseball/roster/drew-dickerson/19847",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "oklahoma-19868",
-        "name": "LJ Mercurius",
-        "school": "Oklahoma",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 23,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "LJ Mercurius looks like a RHP option who misses bats and throws enough strikes.",
-        "summaryMetrics": [
-          "ERA 4.83",
-          "WHIP 1.28",
-          "K/9 11.6"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.83"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.28"
-          },
-          {
-            "label": "K/9",
-            "value": "11.6"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.61"
-          },
-          {
-            "label": "IP",
-            "value": "72.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 69.47456213511258,
-          "Command": 58.33333333333333,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Oklahoma Athletics roster",
-          "Oklahoma cumulative stats"
-        ],
-        "sourceSummary": "Oklahoma Athletics roster + Oklahoma cumulative stats",
-        "schoolSlug": "oklahoma",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://soonersports.com/sports/baseball/roster/lj-mercurius/19868",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "oklahoma-19878",
-        "name": "Xander Mercurius",
-        "school": "Oklahoma",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 16,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Xander Mercurius looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 5.51",
-          "WHIP 1.38",
-          "K/9 9.9"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.51"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.38"
-          },
-          {
-            "label": "K/9",
-            "value": "9.9"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.9"
-          },
-          {
-            "label": "HR/9",
-            "value": "2.13"
-          },
-          {
-            "label": "IP",
-            "value": "50.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 54.066985645933016,
-          "Command": 30.909090909090907,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Oklahoma Athletics roster",
-          "Oklahoma cumulative stats"
-        ],
-        "sourceSummary": "Oklahoma Athletics roster + Oklahoma cumulative stats",
-        "schoolSlug": "oklahoma",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://soonersports.com/sports/baseball/roster/xander-mercurius/19878",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "oklahoma-19869",
-        "name": "Mason Bixby",
-        "school": "Oklahoma",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 19,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Mason Bixby looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 6.75",
-          "WHIP 1.67",
-          "K/9 13.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "6.75"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.67"
-          },
-          {
-            "label": "K/9",
-            "value": "13.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "7.3"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.04"
-          },
-          {
-            "label": "IP",
-            "value": "17.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 81.64335664335665,
-          "Command": 15.714285714285712,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Oklahoma Athletics roster",
-          "Oklahoma cumulative stats"
-        ],
-        "sourceSummary": "Oklahoma Athletics roster + Oklahoma cumulative stats",
-        "schoolSlug": "oklahoma",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://soonersports.com/sports/baseball/roster/mason-bixby/19869",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "oklahoma-19870",
-        "name": "Drew Rerick",
-        "school": "Oklahoma",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 14,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Drew Rerick looks like a RHP option who limits runs and misses bats.",
-        "summaryMetrics": [
-          "ERA 3.86",
-          "WHIP 2.57",
-          "K/9 11.6"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.86"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.57"
-          },
-          {
-            "label": "K/9",
-            "value": "11.6"
-          },
-          {
-            "label": "BB/9",
-            "value": "19.3"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "2.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 68.83116883116884,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Oklahoma Athletics roster",
-          "Oklahoma cumulative stats"
-        ],
-        "sourceSummary": "Oklahoma Athletics roster + Oklahoma cumulative stats",
-        "schoolSlug": "oklahoma",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://soonersports.com/sports/baseball/roster/drew-rerick/19870",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "oklahoma-19843",
-        "name": "Jaden Barfield",
-        "school": "Oklahoma",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "SO",
-        "handedness": "L/L",
-        "score": 9,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jaden Barfield gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 9.35",
-          "WHIP 1.96",
-          "K/9 8.3"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "9.35"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.96"
-          },
-          {
-            "label": "K/9",
-            "value": "8.3"
-          },
-          {
-            "label": "BB/9",
-            "value": "6.2"
-          },
-          {
-            "label": "HR/9",
-            "value": "3.12"
-          },
-          {
-            "label": "IP",
-            "value": "8.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 39.16083916083917,
-          "Command": 6.66666666666667,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / L/L",
-        "detailBadges": [
-          "LHP",
-          "SO",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Oklahoma Athletics roster",
-          "Oklahoma cumulative stats"
-        ],
-        "sourceSummary": "Oklahoma Athletics roster + Oklahoma cumulative stats",
-        "schoolSlug": "oklahoma",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://soonersports.com/sports/baseball/roster/jaden-barfield/19843",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "oklahoma-19846",
-        "name": "Michael Catalano",
-        "school": "Oklahoma",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 16,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Michael Catalano looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 7.02",
-          "WHIP 1.44",
-          "K/9 10.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "7.02"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.44"
-          },
-          {
-            "label": "K/9",
-            "value": "10.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "2.70"
-          },
-          {
-            "label": "IP",
-            "value": "33.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 54.454545454545446,
-          "Command": 29.33333333333333,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Oklahoma Athletics roster",
-          "Oklahoma cumulative stats"
-        ],
-        "sourceSummary": "Oklahoma Athletics roster + Oklahoma cumulative stats",
-        "schoolSlug": "oklahoma",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://soonersports.com/sports/baseball/roster/michael-catalano/19846",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "oklahoma-19851",
-        "name": "Cameron Johnson",
-        "school": "Oklahoma",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "JR",
-        "handedness": "L/L",
-        "score": 17,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Cameron Johnson looks like a LHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 4.36",
-          "WHIP 1.55",
-          "K/9 12.1"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.36"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.55"
-          },
-          {
-            "label": "K/9",
-            "value": "12.1"
-          },
-          {
-            "label": "BB/9",
-            "value": "7.2"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.67"
-          },
-          {
-            "label": "IP",
-            "value": "53.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 73.40485601355167,
-          "Command": 13.488372093023257,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / L/L",
-        "detailBadges": [
-          "LHP",
-          "JR",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Oklahoma Athletics roster",
-          "Oklahoma cumulative stats"
-        ],
-        "sourceSummary": "Oklahoma Athletics roster + Oklahoma cumulative stats",
-        "schoolSlug": "oklahoma",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://soonersports.com/sports/baseball/roster/cameron-johnson/19851",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "oklahoma-19880",
-        "name": "Brisco Smith",
-        "school": "Oklahoma",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "FR",
-        "handedness": "S/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Brisco Smith looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA 9.00",
-          "WHIP 5.00",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "9.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "5.00"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "9.00"
-          },
-          {
-            "label": "IP",
-            "value": "1.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / S/R",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "S/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Oklahoma Athletics roster",
-          "Oklahoma cumulative stats"
-        ],
-        "sourceSummary": "Oklahoma Athletics roster + Oklahoma cumulative stats",
-        "schoolSlug": "oklahoma",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://soonersports.com/sports/baseball/roster/brisco-smith/19880",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "oklahoma-19871",
-        "name": "Isaac Williams",
-        "school": "Oklahoma",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 18,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Isaac Williams looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 5.14",
-          "WHIP 1.50",
-          "K/9 11.6"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.14"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.50"
-          },
-          {
-            "label": "K/9",
-            "value": "11.6"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.1"
-          },
-          {
-            "label": "HR/9",
-            "value": "2.57"
-          },
-          {
-            "label": "IP",
-            "value": "14.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 68.83116883116884,
-          "Command": 25,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Oklahoma Athletics roster",
-          "Oklahoma cumulative stats"
-        ],
-        "sourceSummary": "Oklahoma Athletics roster + Oklahoma cumulative stats",
-        "schoolSlug": "oklahoma",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://soonersports.com/sports/baseball/roster/isaac-williams/19871",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "oklahoma-19844",
-        "name": "Jason Bodin",
-        "school": "Oklahoma",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "L/R",
-        "score": 13,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jason Bodin looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 5.45",
-          "WHIP 1.38",
-          "K/9 10.1"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.45"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.38"
-          },
-          {
-            "label": "K/9",
-            "value": "10.1"
-          },
-          {
-            "label": "BB/9",
-            "value": "6.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.04"
-          },
-          {
-            "label": "IP",
-            "value": "34.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 55.68181818181818,
-          "Command": 13.913043478260864,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / L/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "L/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Oklahoma Athletics roster",
-          "Oklahoma cumulative stats"
-        ],
-        "sourceSummary": "Oklahoma Athletics roster + Oklahoma cumulative stats",
-        "schoolSlug": "oklahoma",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://soonersports.com/sports/baseball/roster/jason-bodin/19844",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "oklahoma-19881",
-        "name": "Nick Wesloski",
-        "school": "Oklahoma",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 14,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Nick Wesloski looks like a RHP option who misses bats and keeps traffic under control.",
-        "summaryMetrics": [
-          "ERA 4.03",
-          "WHIP 1.07",
-          "K/9 9.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.03"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.07"
-          },
-          {
-            "label": "K/9",
-            "value": "9.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.4"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.86"
-          },
-          {
-            "label": "IP",
-            "value": "29.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
-          "Command": 32.72727272727273,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Oklahoma Athletics roster",
-          "Oklahoma cumulative stats"
-        ],
-        "sourceSummary": "Oklahoma Athletics roster + Oklahoma cumulative stats",
-        "schoolSlug": "oklahoma",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://soonersports.com/sports/baseball/roster/nick-wesloski/19881",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "oklahoma-19873",
-        "name": "Trent Collier",
-        "school": "Oklahoma",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "SO",
-        "handedness": "L/L",
-        "score": 18,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Trent Collier looks like a LHP option who limits runs and misses bats.",
-        "summaryMetrics": [
-          "ERA 3.97",
-          "WHIP 1.46",
-          "K/9 10.7"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.97"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.46"
-          },
-          {
-            "label": "K/9",
-            "value": "10.7"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.19"
-          },
-          {
-            "label": "IP",
-            "value": "22.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 61.096256684491976,
-          "Command": 34,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / L/L",
-        "detailBadges": [
-          "LHP",
-          "SO",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Oklahoma Athletics roster",
-          "Oklahoma cumulative stats"
-        ],
-        "sourceSummary": "Oklahoma Athletics roster + Oklahoma cumulative stats",
-        "schoolSlug": "oklahoma",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://soonersports.com/sports/baseball/roster/trent-collier/19873",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "oklahoma-19883",
-        "name": "Gunnar Dillard",
-        "school": "Oklahoma",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Gunnar Dillard gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "C",
-          "FR",
-          "R/R",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Oklahoma Athletics roster"
-        ],
-        "sourceSummary": "Oklahoma Athletics roster",
-        "schoolSlug": "oklahoma",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://soonersports.com/sports/baseball/roster/gunnar-dillard/19883",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "oklahoma-19850",
-        "name": "Reid Hensley",
-        "school": "Oklahoma",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "GR",
-        "handedness": "R/R",
-        "score": 8,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Reid Hensley gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 5.25",
-          "WHIP 2.33",
-          "K/9 8.3"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.25"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.33"
-          },
-          {
-            "label": "K/9",
-            "value": "8.3"
-          },
-          {
-            "label": "BB/9",
-            "value": "9.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.75"
-          },
-          {
-            "label": "IP",
-            "value": "12.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 38.63636363636363,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "GR / R/R",
-        "detailBadges": [
-          "RHP",
-          "GR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Oklahoma Athletics roster",
-          "Oklahoma cumulative stats"
-        ],
-        "sourceSummary": "Oklahoma Athletics roster + Oklahoma cumulative stats",
-        "schoolSlug": "oklahoma",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://soonersports.com/sports/baseball/roster/reid-hensley/19850",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "oklahoma-19874",
-        "name": "Deiten Lachance",
-        "school": "Oklahoma",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 62,
-        "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
-        },
-        "summary": "Deiten Lachance profiles as a C piece who gets on base at a high clip and brings real extra-base damage.",
-        "summaryMetrics": [
-          "AVG .332",
-          "OBP .404",
-          "SLG .611"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".332"
-          },
-          {
-            "label": "OBP",
-            "value": ".404"
-          },
-          {
-            "label": "SLG",
-            "value": ".611"
-          },
-          {
-            "label": "HR",
-            "value": "16"
-          },
-          {
-            "label": "RBI",
-            "value": "65"
-          },
-          {
-            "label": "SB",
-            "value": "2"
-          }
-        ],
-        "components": {
-          "On-base": 68.88888888888889,
-          "Power": 76.57894736842105,
-          "Contact": 70,
-          "Discipline": 48.48484848484848,
-          "Speed": 6.666666666666667
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "C",
-          "JR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Oklahoma Athletics roster",
-          "Oklahoma cumulative stats"
-        ],
-        "sourceSummary": "Oklahoma Athletics roster + Oklahoma cumulative stats",
-        "schoolSlug": "oklahoma",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://soonersports.com/sports/baseball/roster/deiten-lachance/19874",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "oklahoma-19875",
-        "name": "Jackson Cleveland",
-        "school": "Oklahoma",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "L/R",
-        "score": 13,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jackson Cleveland gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 5.45",
-          "WHIP 1.44",
-          "K/9 8.8"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.45"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.44"
-          },
-          {
-            "label": "K/9",
-            "value": "8.8"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.6"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.68"
-          },
-          {
-            "label": "IP",
-            "value": "39.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 44.07944996180291,
-          "Command": 28.749999999999996,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / L/R",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "L/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Oklahoma Athletics roster",
-          "Oklahoma cumulative stats"
-        ],
-        "sourceSummary": "Oklahoma Athletics roster + Oklahoma cumulative stats",
-        "schoolSlug": "oklahoma",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://soonersports.com/sports/baseball/roster/jackson-cleveland/19875",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "oklahoma-19853",
-        "name": "Nate Smithburg",
-        "school": "Oklahoma",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "R-JR",
-        "handedness": "L/L",
-        "score": 15,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Nate Smithburg looks like a LHP option who limits runs and throws enough strikes and keeps traffic under control.",
-        "summaryMetrics": [
-          "ERA 3.06",
-          "WHIP 1.08",
-          "K/9 8.2"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.06"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.08"
-          },
-          {
-            "label": "K/9",
-            "value": "8.2"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.5"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.02"
-          },
-          {
-            "label": "IP",
-            "value": "17.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 37.73584905660377,
-          "Command": 44.000000000000014,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-JR / L/L",
-        "detailBadges": [
-          "LHP",
-          "R-JR",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Oklahoma Athletics roster",
-          "Oklahoma cumulative stats"
-        ],
-        "sourceSummary": "Oklahoma Athletics roster + Oklahoma cumulative stats",
-        "schoolSlug": "oklahoma",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://soonersports.com/sports/baseball/roster/nate-smithburg/19853",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "oklahoma-19886",
-        "name": "Cord Rager",
-        "school": "Oklahoma",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "FR",
-        "handedness": "L/L",
-        "score": 25,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Cord Rager looks like a LHP option who misses bats and throws enough strikes and keeps traffic under control.",
-        "summaryMetrics": [
-          "ERA 4.69",
-          "WHIP 1.01",
-          "K/9 11.3"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.69"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.01"
-          },
-          {
-            "label": "K/9",
-            "value": "11.3"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.4"
-          },
-          {
-            "label": "HR/9",
-            "value": "2.03"
-          },
-          {
-            "label": "IP",
-            "value": "71.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 66.19718309859155,
-          "Command": 73.68421052631578,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / L/L",
-        "detailBadges": [
-          "LHP",
-          "FR",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Oklahoma Athletics roster",
-          "Oklahoma cumulative stats"
-        ],
-        "sourceSummary": "Oklahoma Athletics roster + Oklahoma cumulative stats",
-        "schoolSlug": "oklahoma",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://soonersports.com/sports/baseball/roster/cord-rager/19886",
         "espnAthleteId": ""
       },
       {
@@ -175161,29 +172189,29 @@
         "position": "OF/C",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 38,
+        "score": 43,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Matthew Graveline profiles as a OF/C piece who adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .294",
-          "OBP .369",
-          "SLG .421"
+          "AVG .305",
+          "OBP .381",
+          "SLG .431"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".294"
+            "value": ".305"
           },
           {
             "label": "OBP",
-            "value": ".369"
+            "value": ".381"
           },
           {
             "label": "SLG",
-            "value": ".421"
+            "value": ".431"
           },
           {
             "label": "HR",
@@ -175191,19 +172219,19 @@
           },
           {
             "label": "RBI",
-            "value": "37"
+            "value": "39"
           },
           {
             "label": "SB",
-            "value": "8"
+            "value": "9"
           }
         ],
         "components": {
-          "On-base": 49.44444444444443,
-          "Power": 26.57894736842105,
-          "Contact": 46.249999999999986,
-          "Discipline": 30.303030303030297,
-          "Speed": 26.666666666666668
+          "On-base": 56.1111111111111,
+          "Power": 29.210526315789476,
+          "Contact": 53.124999999999986,
+          "Discipline": 32.32323232323232,
+          "Speed": 30
         },
         "metaLine": "SR / R/R",
         "detailBadges": [
@@ -175306,30 +172334,30 @@
         },
         "summary": "Gavin Kelly profiles as a UTL piece who gets on base at a high clip and brings real extra-base damage.",
         "summaryMetrics": [
-          "AVG .378",
-          "OBP .475",
-          "SLG .707"
+          "AVG .382",
+          "OBP .477",
+          "SLG .725"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".378"
+            "value": ".382"
           },
           {
             "label": "OBP",
-            "value": ".475"
+            "value": ".477"
           },
           {
             "label": "SLG",
-            "value": ".707"
+            "value": ".725"
           },
           {
             "label": "HR",
-            "value": "18"
+            "value": "19"
           },
           {
             "label": "RBI",
-            "value": "61"
+            "value": "63"
           },
           {
             "label": "SB",
@@ -175339,7 +172367,7 @@
         "components": {
           "On-base": 100,
           "Power": 100,
-          "Contact": 98.75,
+          "Contact": 100,
           "Discipline": 83.9506172839506,
           "Speed": 16.666666666666664
         },
@@ -175368,29 +172396,29 @@
         "position": "INF",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 19,
+        "score": 16,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Zahir Barjam gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .281",
-          "OBP .314",
-          "SLG .406"
+          "AVG .273",
+          "OBP .306",
+          "SLG .394"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".281"
+            "value": ".273"
           },
           {
             "label": "OBP",
-            "value": ".314"
+            "value": ".306"
           },
           {
             "label": "SLG",
-            "value": ".406"
+            "value": ".394"
           },
           {
             "label": "HR",
@@ -175406,9 +172434,9 @@
           }
         ],
         "components": {
-          "On-base": 18.888888888888875,
-          "Power": 22.631578947368432,
-          "Contact": 38.125000000000014,
+          "On-base": 14.444444444444427,
+          "Power": 19.473684210526322,
+          "Contact": 33.12500000000001,
           "Discipline": 0,
           "Speed": 0
         },
@@ -175505,29 +172533,29 @@
         "position": "UTL",
         "classYear": "JR",
         "handedness": "L/R",
-        "score": 64,
+        "score": 66,
         "fit": {
           "label": "Monitor",
           "className": "fit-monitor"
         },
         "summary": "Armani Guzman profiles as a UTL piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .317",
-          "OBP .416",
-          "SLG .443"
+          "AVG .321",
+          "OBP .419",
+          "SLG .444"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".317"
+            "value": ".321"
           },
           {
             "label": "OBP",
-            "value": ".416"
+            "value": ".419"
           },
           {
             "label": "SLG",
-            "value": ".443"
+            "value": ".444"
           },
           {
             "label": "HR",
@@ -175543,10 +172571,10 @@
           }
         ],
         "components": {
-          "On-base": 75.55555555555553,
-          "Power": 32.36842105263158,
-          "Contact": 60.62499999999999,
-          "Discipline": 78.30687830687829,
+          "On-base": 77.2222222222222,
+          "Power": 32.631578947368425,
+          "Contact": 63.125,
+          "Discipline": 80.95238095238095,
           "Speed": 100
         },
         "metaLine": "JR / L/R",
@@ -175581,14 +172609,14 @@
         },
         "summary": "Paul Schoenfeld profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .328",
+          "AVG .327",
           "OBP .422",
-          "SLG .484"
+          "SLG .480"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".328"
+            "value": ".327"
           },
           {
             "label": "OBP",
@@ -175596,7 +172624,7 @@
           },
           {
             "label": "SLG",
-            "value": ".484"
+            "value": ".480"
           },
           {
             "label": "HR",
@@ -175604,19 +172632,19 @@
           },
           {
             "label": "RBI",
-            "value": "51"
+            "value": "52"
           },
           {
             "label": "SB",
-            "value": "25"
+            "value": "26"
           }
         ],
         "components": {
           "On-base": 78.88888888888886,
-          "Power": 43.15789473684211,
-          "Contact": 67.5,
+          "Power": 42.10526315789473,
+          "Contact": 66.875,
           "Discipline": 86.17886178861788,
-          "Speed": 83.33333333333334
+          "Speed": 86.66666666666667
         },
         "metaLine": "5TH / L/L",
         "detailBadges": [
@@ -175712,29 +172740,29 @@
         "position": "INF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 49,
+        "score": 46,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Tyrus Hall profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
         "summaryMetrics": [
-          "AVG .284",
-          "OBP .409",
-          "SLG .442"
+          "AVG .279",
+          "OBP .402",
+          "SLG .433"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".284"
+            "value": ".279"
           },
           {
             "label": "OBP",
-            "value": ".409"
+            "value": ".402"
           },
           {
             "label": "SLG",
-            "value": ".442"
+            "value": ".433"
           },
           {
             "label": "HR",
@@ -175750,10 +172778,10 @@
           }
         ],
         "components": {
-          "On-base": 71.66666666666664,
-          "Power": 32.10526315789474,
-          "Contact": 39.99999999999998,
-          "Discipline": 25.970548862115123,
+          "On-base": 67.77777777777779,
+          "Power": 29.73684210526316,
+          "Contact": 36.875000000000014,
+          "Discipline": 24.836601307189536,
           "Speed": 66.66666666666666
         },
         "metaLine": "JR / R/R",
@@ -175919,29 +172947,29 @@
         "position": "OF",
         "classYear": "GR",
         "handedness": "R/R",
-        "score": 55,
+        "score": 53,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
         "summary": "Sean Smith profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG .320",
-          "OBP .413",
-          "SLG .524"
+          "AVG .315",
+          "OBP .409",
+          "SLG .515"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".320"
+            "value": ".315"
           },
           {
             "label": "OBP",
-            "value": ".413"
+            "value": ".409"
           },
           {
             "label": "SLG",
-            "value": ".524"
+            "value": ".515"
           },
           {
             "label": "HR",
@@ -175957,10 +172985,10 @@
           }
         ],
         "components": {
-          "On-base": 73.88888888888886,
-          "Power": 53.6842105263158,
-          "Contact": 62.5,
-          "Discipline": 32.35867446393762,
+          "On-base": 71.66666666666664,
+          "Power": 51.31578947368421,
+          "Contact": 59.375,
+          "Discipline": 31.481481481481477,
           "Speed": 20
         },
         "metaLine": "GR / R/R",
@@ -175988,29 +173016,29 @@
         "position": "INF",
         "classYear": "GR",
         "handedness": "R/R",
-        "score": 46,
+        "score": 45,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Brodie Kresser gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .297",
-          "OBP .396",
-          "SLG .379"
+          "AVG .295",
+          "OBP .395",
+          "SLG .377"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".297"
+            "value": ".295"
           },
           {
             "label": "OBP",
-            "value": ".396"
+            "value": ".395"
           },
           {
             "label": "SLG",
-            "value": ".379"
+            "value": ".377"
           },
           {
             "label": "HR",
@@ -176026,9 +173054,9 @@
           }
         ],
         "components": {
-          "On-base": 64.44444444444444,
-          "Power": 15.526315789473685,
-          "Contact": 48.12499999999999,
+          "On-base": 63.888888888888886,
+          "Power": 15,
+          "Contact": 46.874999999999986,
           "Discipline": 74.07407407407408,
           "Speed": 20
         },
@@ -176264,29 +173292,29 @@
         "position": "OF",
         "classYear": "SR",
         "handedness": "L/R",
-        "score": 31,
+        "score": 32,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Brock Wills gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .280",
-          "OBP .367",
-          "SLG .390"
+          "AVG .283",
+          "OBP .372",
+          "SLG .392"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".280"
+            "value": ".283"
           },
           {
             "label": "OBP",
-            "value": ".367"
+            "value": ".372"
           },
           {
             "label": "SLG",
-            "value": ".390"
+            "value": ".392"
           },
           {
             "label": "HR",
@@ -176302,10 +173330,10 @@
           }
         ],
         "components": {
-          "On-base": 48.333333333333314,
-          "Power": 18.421052631578952,
-          "Contact": 37.500000000000014,
-          "Discipline": 16.66666666666666,
+          "On-base": 51.11111111111109,
+          "Power": 18.947368421052634,
+          "Contact": 39.374999999999986,
+          "Discipline": 19.44444444444444,
           "Speed": 13.333333333333334
         },
         "metaLine": "SR / L/R",
@@ -176340,22 +173368,22 @@
         },
         "summary": "Matt Ineich profiles as a INF piece who gets on base at a high clip and controls at-bats.",
         "summaryMetrics": [
-          "AVG .297",
-          "OBP .443",
-          "SLG .414"
+          "AVG .296",
+          "OBP .442",
+          "SLG .412"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".297"
+            "value": ".296"
           },
           {
             "label": "OBP",
-            "value": ".443"
+            "value": ".442"
           },
           {
             "label": "SLG",
-            "value": ".414"
+            "value": ".412"
           },
           {
             "label": "HR",
@@ -176363,7 +173391,7 @@
           },
           {
             "label": "RBI",
-            "value": "35"
+            "value": "36"
           },
           {
             "label": "SB",
@@ -176371,9 +173399,9 @@
           }
         ],
         "components": {
-          "On-base": 90.55555555555554,
-          "Power": 24.736842105263154,
-          "Contact": 48.12499999999999,
+          "On-base": 89.99999999999999,
+          "Power": 24.21052631578947,
+          "Contact": 47.499999999999986,
           "Discipline": 100,
           "Speed": 23.333333333333332
         },
@@ -176402,25 +173430,25 @@
         "position": "RHP",
         "classYear": "GR",
         "handedness": "R/R",
-        "score": 20,
+        "score": 21,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Ian Korn looks like a RHP option who limits runs and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 2.95",
-          "WHIP 1.03",
+          "ERA 3.39",
+          "WHIP 1.08",
           "K/9 7.9"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.95"
+            "value": "3.39"
           },
           {
             "label": "WHIP",
-            "value": "1.03"
+            "value": "1.08"
           },
           {
             "label": "K/9",
@@ -176432,18 +173460,18 @@
           },
           {
             "label": "HR/9",
-            "value": "0.83"
+            "value": "0.79"
           },
           {
             "label": "IP",
-            "value": "76.3"
+            "value": "79.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 35.45057562524812,
-          "Command": 83.07692307692308,
+          "Miss bats": 35.526816279954346,
+          "Command": 87.69230769230768,
           "Damage suppression": 0
         },
         "metaLine": "GR / R/R",
@@ -176746,29 +173774,29 @@
         "position": "OF",
         "classYear": "SR",
         "handedness": "L/R",
-        "score": 45,
+        "score": 37,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Ben Lumsden profiles as a OF piece who gets on base at a high clip.",
+        "summary": "Ben Lumsden gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .274",
-          "OBP .404",
-          "SLG .464"
+          "AVG .258",
+          "OBP .385",
+          "SLG .438"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".274"
+            "value": ".258"
           },
           {
             "label": "OBP",
-            "value": ".404"
+            "value": ".385"
           },
           {
             "label": "SLG",
-            "value": ".464"
+            "value": ".438"
           },
           {
             "label": "HR",
@@ -176784,10 +173812,10 @@
           }
         ],
         "components": {
-          "On-base": 68.88888888888889,
-          "Power": 37.89473684210527,
-          "Contact": 33.750000000000014,
-          "Discipline": 48.14814814814813,
+          "On-base": 58.33333333333333,
+          "Power": 31.05263157894737,
+          "Contact": 23.750000000000004,
+          "Discipline": 45.87813620071684,
           "Speed": 0
         },
         "metaLine": "SR / L/R",
@@ -176957,43 +173985,43 @@
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Reese Bassinger looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
+        "summary": "Reese Bassinger looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.07",
-          "WHIP 1.14",
-          "K/9 9.5"
+          "ERA 3.30",
+          "WHIP 1.18",
+          "K/9 9.6"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.07"
+            "value": "3.30"
           },
           {
             "label": "WHIP",
-            "value": "1.14"
+            "value": "1.18"
           },
           {
             "label": "K/9",
-            "value": "9.5"
+            "value": "9.6"
           },
           {
             "label": "BB/9",
-            "value": "3.1"
+            "value": "3.0"
           },
           {
             "label": "HR/9",
-            "value": "0.46"
+            "value": "0.45"
           },
           {
             "label": "IP",
-            "value": "58.7"
+            "value": "60.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 50.10330578512397,
-          "Command": 42.00000000000001,
+          "Miss bats": 50.90909090909091,
+          "Command": 43.99999999999999,
           "Damage suppression": 0
         },
         "metaLine": "GR / R/R",
@@ -177297,48 +174325,48 @@
         "position": "RHP",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 19,
+        "score": 18,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Chansen Cole looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
-          "ERA 3.14",
-          "WHIP 1.15",
-          "K/9 10.0"
+          "ERA 3.43",
+          "WHIP 1.18",
+          "K/9 9.8"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.14"
+            "value": "3.43"
           },
           {
             "label": "WHIP",
-            "value": "1.15"
+            "value": "1.18"
           },
           {
             "label": "K/9",
-            "value": "10.0"
+            "value": "9.8"
           },
           {
             "label": "BB/9",
-            "value": "2.8"
+            "value": "2.9"
           },
           {
             "label": "HR/9",
-            "value": "1.02"
+            "value": "0.99"
           },
           {
             "label": "IP",
-            "value": "97.3"
+            "value": "99.7"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 54.42092154420922,
-          "Command": 52,
+          "Miss bats": 53.11644876862268,
+          "Command": 48.12500000000001,
           "Damage suppression": 0
         },
         "metaLine": "SO / R/R",
@@ -177571,48 +174599,48 @@
         "position": "RHP",
         "classYear": "SR",
         "handedness": "L/R",
-        "score": 13,
+        "score": 14,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Carson Estridge looks like a RHP option who limits runs.",
         "summaryMetrics": [
-          "ERA 3.18",
-          "WHIP 1.32",
-          "K/9 8.5"
+          "ERA 3.09",
+          "WHIP 1.29",
+          "K/9 8.7"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.18"
+            "value": "3.09"
           },
           {
             "label": "WHIP",
-            "value": "1.32"
+            "value": "1.29"
           },
           {
             "label": "K/9",
-            "value": "8.5"
+            "value": "8.7"
           },
           {
             "label": "BB/9",
-            "value": "3.4"
+            "value": "3.3"
           },
           {
             "label": "HR/9",
-            "value": "0.53"
+            "value": "0.51"
           },
           {
             "label": "IP",
-            "value": "34.0"
+            "value": "35.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 40.64171122994652,
-          "Command": 29.230769230769226,
+          "Miss bats": 43.11688311688311,
+          "Command": 32.3076923076923,
           "Damage suppression": 0
         },
         "metaLine": "SR / L/R",
@@ -178054,48 +175082,48 @@
         "position": "LHP",
         "classYear": "SR",
         "handedness": "L/L",
-        "score": 9,
+        "score": 10,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Ben McDougal looks like a LHP option who limits runs.",
         "summaryMetrics": [
-          "ERA 3.38",
-          "WHIP 1.43",
-          "K/9 8.1"
+          "ERA 3.14",
+          "WHIP 1.40",
+          "K/9 8.2"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.38"
+            "value": "3.14"
           },
           {
             "label": "WHIP",
-            "value": "1.43"
+            "value": "1.40"
           },
           {
             "label": "K/9",
-            "value": "8.1"
+            "value": "8.2"
           },
           {
             "label": "BB/9",
-            "value": "5.4"
+            "value": "5.0"
           },
           {
             "label": "HR/9",
-            "value": "2.70"
+            "value": "2.51"
           },
           {
             "label": "IP",
-            "value": "13.3"
+            "value": "14.3"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 37.272727272727266,
-          "Command": 10,
+          "Miss bats": 37.84355179704017,
+          "Command": 12.5,
           "Damage suppression": 0
         },
         "metaLine": "SR / L/L",

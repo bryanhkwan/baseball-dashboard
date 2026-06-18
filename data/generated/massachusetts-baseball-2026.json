@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T11:53:56.847Z",
+  "generatedAt": "2026-06-18T11:37:58.416Z",
   "season": 2026,
   "school": {
     "slug": "massachusetts",
@@ -24,7 +24,7 @@
     "ncaa": "NCAA school index"
   },
   "coverage": {
-    "rosterPlayers": 25,
+    "rosterPlayers": 19,
     "espnRosterPlayers": 0,
     "playersWithHittingStats": 0,
     "playersWithPitchingStats": 0,
@@ -33,15 +33,21 @@
     "matchedEspnPlayers": 0,
     "unmatchedStatRows": {
       "hitting": [
+        "Anthony Tirado",
+        "Gavin O'Brien",
         "Jack Beverly",
         "Kevin Schnupp",
         "Marc Willi",
         "Sam Hill",
-        "Jared Muñoz"
+        "Jared Muñoz",
+        "Randen May"
       ],
       "pitching": [
+        "Adam Merritt",
+        "Sam Perry",
         "Dylan Terwilliger",
         "Jack Niedringhaus",
+        "Lorcan Lee",
         "Drew Sliwkowski",
         "Jack Levine"
       ],
@@ -49,9 +55,14 @@
         "Jack Beverly",
         "Marc Willi",
         "Sam Hill",
+        "Adam Merritt",
+        "Sam Perry",
         "Jack Niedringhaus",
         "Jared Muñoz",
+        "Lorcan Lee",
         "Drew Sliwkowski",
+        "Gavin O'Brien",
+        "Anthony Tirado",
         "Dylan Terwilliger",
         "Jack Levine"
       ]
@@ -495,94 +506,6 @@
       }
     },
     {
-      "id": "massachusetts-18343",
-      "schoolSlug": "massachusetts",
-      "school": "Mass-Amherst",
-      "schoolLongName": "University of Massachusetts",
-      "name": "Anthony Tirado",
-      "normalizedName": "anthony tirado",
-      "compositeRole": "Rostered",
-      "role": "Hitter",
-      "position": "INF",
-      "positionLong": "Infielder",
-      "classYear": "R-JR",
-      "handedness": "L/R",
-      "jersey": "7",
-      "hometown": "Cheshire, Conn.",
-      "highSchool": "Cheshire Academy",
-      "previousSchool": "",
-      "hometownHighSchool": "Cheshire, Conn. / Cheshire Academy",
-      "profileUrl": "https://umassathletics.com/sports/baseball/roster/anthony-tirado/18343",
-      "imageUrl": "https://umassathletics.com/images/2026/2/4/2026_Tirado_Anthony.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "18343",
-      "sources": [
-        "Mass-Amherst Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "summary": "Anthony Tirado gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "R-JR / L/R",
-        "detailBadges": [
-          "INF",
-          "R-JR",
-          "L/R",
-          "Rostered"
-        ],
-        "sourceSummary": "Mass-Amherst Athletics roster"
-      }
-    },
-    {
       "id": "massachusetts-18332",
       "schoolSlug": "massachusetts",
       "school": "Mass-Amherst",
@@ -847,94 +770,6 @@
       }
     },
     {
-      "id": "massachusetts-18336",
-      "schoolSlug": "massachusetts",
-      "school": "Mass-Amherst",
-      "schoolLongName": "University of Massachusetts",
-      "name": "Gavin O'Brien",
-      "normalizedName": "gavin o brien",
-      "compositeRole": "Rostered",
-      "role": "Hitter",
-      "position": "OF/INF",
-      "positionLong": "Outfielder/Infielder",
-      "classYear": "JR",
-      "handedness": "R/R",
-      "jersey": "16",
-      "hometown": "Salisbury, Conn.",
-      "highSchool": "Salisbury",
-      "previousSchool": "",
-      "hometownHighSchool": "Salisbury, Conn. / Salisbury",
-      "profileUrl": "https://umassathletics.com/sports/baseball/roster/gavin-obrien/18336",
-      "imageUrl": "https://umassathletics.com/images/2026/2/4/2026_OBrien_Gavin.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "18336",
-      "sources": [
-        "Mass-Amherst Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "summary": "Gavin O'Brien gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "OF/INF",
-          "JR",
-          "R/R",
-          "Rostered"
-        ],
-        "sourceSummary": "Mass-Amherst Athletics roster"
-      }
-    },
-    {
       "id": "massachusetts-18318",
       "schoolSlug": "massachusetts",
       "school": "Mass-Amherst",
@@ -1104,94 +939,6 @@
         "detailBadges": [
           "RHP",
           "R-SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Mass-Amherst Athletics roster"
-      }
-    },
-    {
-      "id": "massachusetts-18337",
-      "schoolSlug": "massachusetts",
-      "school": "Mass-Amherst",
-      "schoolLongName": "University of Massachusetts",
-      "name": "Sam Perry",
-      "normalizedName": "sam perry",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right-Handed Pitcher",
-      "classYear": "SO",
-      "handedness": "R/R",
-      "jersey": "19",
-      "hometown": "Westport, Mass.",
-      "highSchool": "Diman Regional Vocational Tech",
-      "previousSchool": "",
-      "hometownHighSchool": "Westport, Mass. / Diman Regional Vocational Tech",
-      "profileUrl": "https://umassathletics.com/sports/baseball/roster/sam-perry/18337",
-      "imageUrl": "https://umassathletics.com/images/2026/2/4/2026_Perry_Sam.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "18337",
-      "sources": [
-        "Mass-Amherst Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Sam Perry looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
           "R/R",
           "Pitcher"
         ],
@@ -1639,94 +1386,6 @@
       }
     },
     {
-      "id": "massachusetts-18331",
-      "schoolSlug": "massachusetts",
-      "school": "Mass-Amherst",
-      "schoolLongName": "University of Massachusetts",
-      "name": "Randen May",
-      "normalizedName": "randen may",
-      "compositeRole": "Rostered",
-      "role": "Hitter",
-      "position": "INF/OF",
-      "positionLong": "Infielder/Outfielder",
-      "classYear": "SO",
-      "handedness": "R/R",
-      "jersey": "29",
-      "hometown": "West Bridgewater, Mass.",
-      "highSchool": "Bishop Feehan",
-      "previousSchool": "",
-      "hometownHighSchool": "West Bridgewater, Mass. / Bishop Feehan",
-      "profileUrl": "https://umassathletics.com/sports/baseball/roster/randen-may/18331",
-      "imageUrl": "https://umassathletics.com/images/2026/2/4/2026_May_Randen.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "18331",
-      "sources": [
-        "Mass-Amherst Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "summary": "Randen May gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "INF/OF",
-          "SO",
-          "R/R",
-          "Rostered"
-        ],
-        "sourceSummary": "Mass-Amherst Athletics roster"
-      }
-    },
-    {
       "id": "massachusetts-18339",
       "schoolSlug": "massachusetts",
       "school": "Mass-Amherst",
@@ -1991,94 +1650,6 @@
       }
     },
     {
-      "id": "massachusetts-18335",
-      "schoolSlug": "massachusetts",
-      "school": "Mass-Amherst",
-      "schoolLongName": "University of Massachusetts",
-      "name": "Adam Merritt",
-      "normalizedName": "adam merritt",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right-Handed Pitcher",
-      "classYear": "JR",
-      "handedness": "R/R",
-      "jersey": "36",
-      "hometown": "West Hartford, Conn.",
-      "highSchool": "Kingswood Oxford",
-      "previousSchool": "",
-      "hometownHighSchool": "West Hartford, Conn. / Kingswood Oxford",
-      "profileUrl": "https://umassathletics.com/sports/baseball/roster/adam-merritt/18335",
-      "imageUrl": "https://umassathletics.com/images/2026/2/4/2026_Merritt_Adam.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "18335",
-      "sources": [
-        "Mass-Amherst Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Adam Merritt looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Mass-Amherst Athletics roster"
-      }
-    },
-    {
       "id": "massachusetts-18338",
       "schoolSlug": "massachusetts",
       "school": "Mass-Amherst",
@@ -2253,103 +1824,15 @@
         ],
         "sourceSummary": "Mass-Amherst Athletics roster"
       }
-    },
-    {
-      "id": "massachusetts-18329",
-      "schoolSlug": "massachusetts",
-      "school": "Mass-Amherst",
-      "schoolLongName": "University of Massachusetts",
-      "name": "Lorcan Lee",
-      "normalizedName": "lorcan lee",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right-Handed Pitcher",
-      "classYear": "SO",
-      "handedness": "R/R",
-      "jersey": "44",
-      "hometown": "Newton, Mass.",
-      "highSchool": "Dexter Southfield",
-      "previousSchool": "",
-      "hometownHighSchool": "Newton, Mass. / Dexter Southfield",
-      "profileUrl": "https://umassathletics.com/sports/baseball/roster/lorcan-lee/18329",
-      "imageUrl": "https://umassathletics.com/images/2026/2/4/2026_Lee_Lorcan.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "18329",
-      "sources": [
-        "Mass-Amherst Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Lorcan Lee looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Mass-Amherst Athletics roster"
-      }
     }
   ],
   "playerBoard": {
     "source": "Mass-Amherst Athletics roster + cumulative stats / ESPN roster",
     "note": "This Mass-Amherst-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but Mass-Amherst's public ESPN roster feed did not line up cleanly with the current school-site roster.",
-    "totalPlayers": 25,
+    "totalPlayers": 19,
     "roleCounts": {
-      "Hitter": 12,
-      "Pitcher": 13
+      "Hitter": 9,
+      "Pitcher": 10
     },
     "players": [
       {
@@ -2625,74 +2108,6 @@
         "espnAthleteId": ""
       },
       {
-        "id": "massachusetts-18343",
-        "name": "Anthony Tirado",
-        "school": "Mass-Amherst",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "R-JR",
-        "handedness": "L/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Anthony Tirado gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "R-JR / L/R",
-        "detailBadges": [
-          "INF",
-          "R-JR",
-          "L/R",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Mass-Amherst Athletics roster"
-        ],
-        "sourceSummary": "Mass-Amherst Athletics roster",
-        "schoolSlug": "massachusetts",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://umassathletics.com/sports/baseball/roster/anthony-tirado/18343",
-        "espnAthleteId": ""
-      },
-      {
         "id": "massachusetts-18332",
         "name": "Reece McCarthy",
         "school": "Mass-Amherst",
@@ -2897,74 +2312,6 @@
         "espnAthleteId": ""
       },
       {
-        "id": "massachusetts-18336",
-        "name": "Gavin O'Brien",
-        "school": "Mass-Amherst",
-        "role": "Hitter",
-        "position": "OF/INF",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Gavin O'Brien gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "OF/INF",
-          "JR",
-          "R/R",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Mass-Amherst Athletics roster"
-        ],
-        "sourceSummary": "Mass-Amherst Athletics roster",
-        "schoolSlug": "massachusetts",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://umassathletics.com/sports/baseball/roster/gavin-obrien/18336",
-        "espnAthleteId": ""
-      },
-      {
         "id": "massachusetts-18318",
         "name": "Vance Bonior",
         "school": "Mass-Amherst",
@@ -3098,74 +2445,6 @@
         "schoolSlug": "massachusetts",
         "compositeRole": "Pitcher",
         "profileUrl": "https://umassathletics.com/sports/baseball/roster/michael-goodman/18326",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "massachusetts-18337",
-        "name": "Sam Perry",
-        "school": "Mass-Amherst",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Sam Perry looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Mass-Amherst Athletics roster"
-        ],
-        "sourceSummary": "Mass-Amherst Athletics roster",
-        "schoolSlug": "massachusetts",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://umassathletics.com/sports/baseball/roster/sam-perry/18337",
         "espnAthleteId": ""
       },
       {
@@ -3509,74 +2788,6 @@
         "espnAthleteId": ""
       },
       {
-        "id": "massachusetts-18331",
-        "name": "Randen May",
-        "school": "Mass-Amherst",
-        "role": "Hitter",
-        "position": "INF/OF",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Randen May gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "INF/OF",
-          "SO",
-          "R/R",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Mass-Amherst Athletics roster"
-        ],
-        "sourceSummary": "Mass-Amherst Athletics roster",
-        "schoolSlug": "massachusetts",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://umassathletics.com/sports/baseball/roster/randen-may/18331",
-        "espnAthleteId": ""
-      },
-      {
         "id": "massachusetts-18339",
         "name": "Jackson Richard",
         "school": "Mass-Amherst",
@@ -3781,74 +2992,6 @@
         "espnAthleteId": ""
       },
       {
-        "id": "massachusetts-18335",
-        "name": "Adam Merritt",
-        "school": "Mass-Amherst",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Adam Merritt looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Mass-Amherst Athletics roster"
-        ],
-        "sourceSummary": "Mass-Amherst Athletics roster",
-        "schoolSlug": "massachusetts",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://umassathletics.com/sports/baseball/roster/adam-merritt/18335",
-        "espnAthleteId": ""
-      },
-      {
         "id": "massachusetts-18338",
         "name": "Callen Powers",
         "school": "Mass-Amherst",
@@ -3982,74 +3125,6 @@
         "schoolSlug": "massachusetts",
         "compositeRole": "Pitcher",
         "profileUrl": "https://umassathletics.com/sports/baseball/roster/justin-masteralexis/18330",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "massachusetts-18329",
-        "name": "Lorcan Lee",
-        "school": "Mass-Amherst",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Lorcan Lee looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Mass-Amherst Athletics roster"
-        ],
-        "sourceSummary": "Mass-Amherst Athletics roster",
-        "schoolSlug": "massachusetts",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://umassathletics.com/sports/baseball/roster/lorcan-lee/18329",
         "espnAthleteId": ""
       }
     ]
