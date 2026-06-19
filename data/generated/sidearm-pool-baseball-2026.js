@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
-  "generatedAt": "2026-06-18T11:38:54.928Z",
+  "generatedAt": "2026-06-19T11:44:10.141Z",
   "season": 2026,
   "source": "Generated Sidearm baseball school-site pool",
   "note": "This generated free player pool combines verified public roster and cumulative stats pages from multiple Sidearm baseball programs. It is broader than Toledo alone, but still not a full every-school national directory yet.",
@@ -54,7 +54,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
       "hitters": 15,
       "pitchers": 19,
       "rosterPlayers": 34,
-      "playersWithAnyStats": 16,
+      "playersWithAnyStats": 15,
       "statsUrl": "https://gofrogs.com/sports/baseball/stats/2026",
       "rosterUrl": "https://gofrogs.com/sports/baseball/roster"
     },
@@ -167,10 +167,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
       "name": "Brown",
       "longName": "Brown University",
       "record": "23-20, 13-8",
-      "totalPlayers": 39,
-      "hitters": 19,
+      "totalPlayers": 38,
+      "hitters": 18,
       "pitchers": 20,
-      "rosterPlayers": 39,
+      "rosterPlayers": 38,
       "playersWithAnyStats": 0,
       "statsUrl": "https://brownbears.com/sports/baseball/stats/2026",
       "rosterUrl": "https://brownbears.com/sports/baseball/roster"
@@ -336,10 +336,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
       "name": "George Washington",
       "longName": "George Washington University",
       "record": "18-35, 9-21",
-      "totalPlayers": 26,
-      "hitters": 12,
-      "pitchers": 14,
-      "rosterPlayers": 26,
+      "totalPlayers": 33,
+      "hitters": 16,
+      "pitchers": 17,
+      "rosterPlayers": 33,
       "playersWithAnyStats": 0,
       "statsUrl": "https://gwsports.com/sports/baseball/stats/2026",
       "rosterUrl": "https://gwsports.com/sports/baseball/roster"
@@ -905,18 +905,18 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
     }
   ],
   "coverage": {
-    "totalPlayers": 2573,
-    "totalHitters": 1192,
-    "totalPitchers": 1381,
+    "totalPlayers": 2579,
+    "totalHitters": 1195,
+    "totalPitchers": 1384,
     "schoolsCovered": 69
   },
   "playerBoard": {
     "source": "Generated Sidearm baseball school-site pool",
     "note": "This free generated pool comes from verified public school-site roster and cumulative stats pages across multiple Sidearm baseball programs.",
-    "totalPlayers": 2573,
+    "totalPlayers": 2579,
     "roleCounts": {
-      "Hitter": 1192,
-      "Pitcher": 1381
+      "Hitter": 1195,
+      "Pitcher": 1384
     },
     "players": [
       {
@@ -10893,54 +10893,54 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "tcu-18349",
+        "id": "tcu-17714",
         "name": "Kade Durnin",
         "school": "TCU",
         "role": "Pitcher",
         "position": "RHP",
         "classYear": "R-FR",
         "handedness": "N/A",
-        "score": 4,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Kade Durnin gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Kade Durnin looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 5.79",
-          "WHIP 2.71",
-          "K/9 6.4"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.79"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "2.71"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "6.4"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "10.3"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.29"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "14.0"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 22.07792207792208,
+          "Miss bats": 0,
           "Command": 0,
           "Damage suppression": 0
         },
@@ -10952,13 +10952,12 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Pitcher"
         ],
         "leaderboards": [
-          "TCU Athletics roster",
-          "TCU cumulative stats"
+          "TCU Athletics roster"
         ],
-        "sourceSummary": "TCU Athletics roster + TCU cumulative stats",
+        "sourceSummary": "TCU Athletics roster",
         "schoolSlug": "tcu",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/kade-durnin/18349",
+        "profileUrl": "https://gofrogs.com/sports/baseball/roster/kade-durnin/17714",
         "espnAthleteId": ""
       },
       {
@@ -32450,74 +32449,6 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "schoolSlug": "brown",
         "compositeRole": "Rostered",
         "profileUrl": "https://brownbears.com/sports/baseball/roster/jack-edmunds/24036",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "brown-24032",
-        "name": "Kanghee Cho",
-        "school": "Brown",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Kanghee Cho gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "OF",
-          "SO",
-          "R/R",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster"
-        ],
-        "sourceSummary": "Brown Athletics roster",
-        "schoolSlug": "brown",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/kanghee-cho/24032",
         "espnAthleteId": ""
       },
       {
@@ -67506,6 +67437,482 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "schoolSlug": "george-washington",
         "compositeRole": "Pitcher",
         "profileUrl": "https://gwsports.com/sports/baseball/roster/nathan-murphy/10417",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "george-washington-10430",
+        "name": "Owen Bourgeois",
+        "school": "George Washington",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "FR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Owen Bourgeois looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "LHP",
+          "FR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "George Washington Athletics roster"
+        ],
+        "sourceSummary": "George Washington Athletics roster",
+        "schoolSlug": "george-washington",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gwsports.com/sports/baseball/roster/owen-bourgeois/10430",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "george-washington-10431",
+        "name": "Anthony Coppola",
+        "school": "George Washington",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "FR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Anthony Coppola gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "OF",
+          "FR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "George Washington Athletics roster"
+        ],
+        "sourceSummary": "George Washington Athletics roster",
+        "schoolSlug": "george-washington",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gwsports.com/sports/baseball/roster/anthony-coppola/10431",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "george-washington-10432",
+        "name": "Cameron Croci",
+        "school": "George Washington",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "FR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Cameron Croci looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "George Washington Athletics roster"
+        ],
+        "sourceSummary": "George Washington Athletics roster",
+        "schoolSlug": "george-washington",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gwsports.com/sports/baseball/roster/cameron-croci/10432",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "george-washington-10433",
+        "name": "Cameron Duke",
+        "school": "George Washington",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "FR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Cameron Duke gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "OF",
+          "FR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "George Washington Athletics roster"
+        ],
+        "sourceSummary": "George Washington Athletics roster",
+        "schoolSlug": "george-washington",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gwsports.com/sports/baseball/roster/cameron-duke/10433",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "george-washington-10434",
+        "name": "Aidan McKeating",
+        "school": "George Washington",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "FR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Aidan McKeating gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "INF",
+          "FR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "George Washington Athletics roster"
+        ],
+        "sourceSummary": "George Washington Athletics roster",
+        "schoolSlug": "george-washington",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gwsports.com/sports/baseball/roster/aidan-mckeating/10434",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "george-washington-10435",
+        "name": "Camden Ogden",
+        "school": "George Washington",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "FR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Camden Ogden looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "George Washington Athletics roster"
+        ],
+        "sourceSummary": "George Washington Athletics roster",
+        "schoolSlug": "george-washington",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gwsports.com/sports/baseball/roster/camden-ogden/10435",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "george-washington-10436",
+        "name": "Vince Porcaro",
+        "school": "George Washington",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "FR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Vince Porcaro gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "INF",
+          "FR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "George Washington Athletics roster"
+        ],
+        "sourceSummary": "George Washington Athletics roster",
+        "schoolSlug": "george-washington",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gwsports.com/sports/baseball/roster/vince-porcaro/10436",
         "espnAthleteId": ""
       },
       {

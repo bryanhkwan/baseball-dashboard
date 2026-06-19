@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T11:39:19.783Z",
+  "generatedAt": "2026-06-19T11:44:25.645Z",
   "season": 2026,
   "source": "Generated Sidearm baseball roster pool",
   "note": "This compact roster-only pool captures public school-site baseball rosters so non-appearing players can still enter coverage before they log a reachable NCAA boxscore.",
@@ -51,7 +51,7 @@
       "slug": "brown",
       "name": "Brown",
       "longName": "Brown University",
-      "rosterPlayers": 39,
+      "rosterPlayers": 38,
       "rosterUrl": "https://brownbears.com/sports/baseball/roster"
     },
     {
@@ -142,7 +142,7 @@
       "slug": "george-washington",
       "name": "George Washington",
       "longName": "George Washington University",
-      "rosterPlayers": 26,
+      "rosterPlayers": 33,
       "rosterUrl": "https://gwsports.com/sports/baseball/roster"
     },
     {
@@ -493,10 +493,10 @@
     "schoolsRequested": 73,
     "schoolsLoaded": 69,
     "schoolsFailed": 4,
-    "totalPlayers": 2573,
+    "totalPlayers": 2579,
     "roleCounts": {
-      "Hitter": 1280,
-      "Pitcher": 1293
+      "Hitter": 1283,
+      "Pitcher": 1296
     },
     "failures": [
       {
@@ -2553,7 +2553,7 @@
       "https://gofrogs.com/sports/baseball/roster/colin-blanchard/18052"
     ],
     [
-      "tcu-18349",
+      "tcu-17714",
       "tcu",
       "Kade Durnin",
       "Pitcher",
@@ -2564,7 +2564,7 @@
       "Linn Creek, Mo.",
       "Camdenton HS",
       "",
-      "https://gofrogs.com/sports/baseball/roster/kade-durnin/18349"
+      "https://gofrogs.com/sports/baseball/roster/kade-durnin/17714"
     ],
     [
       "tcu-18359",
@@ -6933,20 +6933,6 @@
       "Eastlake",
       "",
       "https://brownbears.com/sports/baseball/roster/jack-edmunds/24036"
-    ],
-    [
-      "brown-24032",
-      "brown",
-      "Kanghee Cho",
-      "Hitter",
-      "OF",
-      "SO",
-      "R/R",
-      "11",
-      "Palo Alto, Calif.",
-      "Palo Alto",
-      "",
-      "https://brownbears.com/sports/baseball/roster/kanghee-cho/24032"
     ],
     [
       "brown-24049",
@@ -14073,6 +14059,104 @@
       "Severna Park",
       "",
       "https://gwsports.com/sports/baseball/roster/nathan-murphy/10417"
+    ],
+    [
+      "george-washington-10430",
+      "george-washington",
+      "Owen Bourgeois",
+      "Pitcher",
+      "LHP",
+      "FR",
+      "",
+      "",
+      "Surrey, United Kingdon",
+      "ACS Cobham International School",
+      "",
+      "https://gwsports.com/sports/baseball/roster/owen-bourgeois/10430"
+    ],
+    [
+      "george-washington-10431",
+      "george-washington",
+      "Anthony Coppola",
+      "Hitter",
+      "OF",
+      "FR",
+      "",
+      "",
+      "Union, KY",
+      "Ryle",
+      "",
+      "https://gwsports.com/sports/baseball/roster/anthony-coppola/10431"
+    ],
+    [
+      "george-washington-10432",
+      "george-washington",
+      "Cameron Croci",
+      "Pitcher",
+      "RHP",
+      "FR",
+      "",
+      "",
+      "Columbus, OH",
+      "Upper Arlington",
+      "",
+      "https://gwsports.com/sports/baseball/roster/cameron-croci/10432"
+    ],
+    [
+      "george-washington-10433",
+      "george-washington",
+      "Cameron Duke",
+      "Hitter",
+      "OF",
+      "FR",
+      "",
+      "",
+      "Portsmouth, VA",
+      "Churchland",
+      "",
+      "https://gwsports.com/sports/baseball/roster/cameron-duke/10433"
+    ],
+    [
+      "george-washington-10434",
+      "george-washington",
+      "Aidan McKeating",
+      "Hitter",
+      "INF",
+      "FR",
+      "",
+      "",
+      "Virginia Beach, VA",
+      "Princess Anne",
+      "",
+      "https://gwsports.com/sports/baseball/roster/aidan-mckeating/10434"
+    ],
+    [
+      "george-washington-10435",
+      "george-washington",
+      "Camden Ogden",
+      "Pitcher",
+      "RHP",
+      "FR",
+      "",
+      "",
+      "Pawcatuk, CT",
+      "Stonington",
+      "",
+      "https://gwsports.com/sports/baseball/roster/camden-ogden/10435"
+    ],
+    [
+      "george-washington-10436",
+      "george-washington",
+      "Vince Porcaro",
+      "Hitter",
+      "INF",
+      "FR",
+      "",
+      "",
+      "Henrico, VA",
+      "Deep Run",
+      "",
+      "https://gwsports.com/sports/baseball/roster/vince-porcaro/10436"
     ],
     [
       "georgia-10323",

@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.st-thomas-mn2026 = {
-  "generatedAt": "2026-06-18T11:38:26.209Z",
+  "generatedAt": "2026-06-19T11:43:56.496Z",
   "season": 2026,
   "school": {
     "slug": "st-thomas-mn",

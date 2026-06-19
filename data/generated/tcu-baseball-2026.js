@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.tcu2026 = {
-  "generatedAt": "2026-06-18T11:37:06.140Z",
+  "generatedAt": "2026-06-19T11:42:59.863Z",
   "season": 2026,
   "school": {
     "slug": "tcu",
@@ -29,9 +29,9 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
     "rosterPlayers": 34,
     "espnRosterPlayers": 100,
     "playersWithHittingStats": 6,
-    "playersWithPitchingStats": 12,
-    "playersWithFieldingStats": 15,
-    "mergedPlayersWithAnyStats": 16,
+    "playersWithPitchingStats": 11,
+    "playersWithFieldingStats": 14,
+    "mergedPlayersWithAnyStats": 15,
     "matchedEspnPlayers": 0,
     "unmatchedStatRows": {
       "hitting": [
@@ -2994,7 +2994,7 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
       }
     },
     {
-      "id": "tcu-18349",
+      "id": "tcu-17714",
       "schoolSlug": "tcu",
       "school": "TCU",
       "schoolLongName": "Texas Christian University",
@@ -3011,7 +3011,7 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
       "highSchool": "Camdenton HS",
       "previousSchool": "",
       "hometownHighSchool": "Linn Creek, Mo. / Camdenton HS",
-      "profileUrl": "https://gofrogs.com/sports/baseball/roster/kade-durnin/18349",
+      "profileUrl": "https://gofrogs.com/sports/baseball/roster/kade-durnin/17714",
       "imageUrl": "https://gofrogs.com/images/2025/11/20/_0007_33_-_Kade_Durnin.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -3019,69 +3019,15 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "18349",
+      "rosterBioId": "17714",
       "sources": [
-        "TCU Athletics roster",
-        "TCU cumulative stats"
+        "TCU Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "18349",
-        "name": "Kade Durnin",
-        "normalizedName": "kade durnin",
-        "jersey": "33",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/kade-durnin/18349",
-        "imageUrl": "https://gofrogs.com/images/2025/11/20/_0007_33_-_Kade_Durnin.jpg",
-        "gamesPlayed": 11,
-        "gamesStarted": 0,
-        "appearances": 11,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 5.79,
-        "whip": 2.71,
-        "wins": 0,
-        "losses": 0,
-        "saves": 1,
-        "shutouts": 0,
-        "inningsPitched": 14,
-        "inningsPitchedDisplay": "14.0",
-        "hitsAllowed": 22,
-        "runsAllowed": 14,
-        "earnedRunsAllowed": 9,
-        "walksAllowed": 16,
-        "strikeouts": 10,
-        "doublesAllowed": 4,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 60,
-        "wildPitches": 3,
-        "hitBatters": 1,
-        "balks": 0,
-        "opponentsBattingAverage": 0.367,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "18349",
-        "name": "Kade Durnin",
-        "normalizedName": "kade durnin",
-        "jersey": "33",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/kade-durnin/18349",
-        "imageUrl": "https://gofrogs.com/images/2025/11/20/_0007_33_-_Kade_Durnin.jpg",
-        "gamesPlayed": 4,
-        "gamesStarted": 0,
-        "putouts": 0,
-        "assists": 2,
-        "errors": 1,
-        "fieldingPercentage": 0.667,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 2,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 3
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 4,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3089,40 +3035,40 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 22.07792207792208,
+          "Miss bats": 0,
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Kade Durnin gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Kade Durnin looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 5.79",
-          "WHIP 2.71",
-          "K/9 6.4"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.79"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "2.71"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "6.4"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "10.3"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.29"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "14.0"
+            "value": "0.0"
           }
         ],
         "metaLine": "R-FR / N/A",
@@ -3132,7 +3078,7 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
           "N/A",
           "Pitcher"
         ],
-        "sourceSummary": "TCU Athletics roster + TCU cumulative stats"
+        "sourceSummary": "TCU Athletics roster"
       }
     },
     {
@@ -5863,54 +5809,54 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "tcu-18349",
+        "id": "tcu-17714",
         "name": "Kade Durnin",
         "school": "TCU",
         "role": "Pitcher",
         "position": "RHP",
         "classYear": "R-FR",
         "handedness": "N/A",
-        "score": 4,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Kade Durnin gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Kade Durnin looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 5.79",
-          "WHIP 2.71",
-          "K/9 6.4"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.79"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "2.71"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "6.4"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "10.3"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.29"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "14.0"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 22.07792207792208,
+          "Miss bats": 0,
           "Command": 0,
           "Damage suppression": 0
         },
@@ -5922,13 +5868,12 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
           "Pitcher"
         ],
         "leaderboards": [
-          "TCU Athletics roster",
-          "TCU cumulative stats"
+          "TCU Athletics roster"
         ],
-        "sourceSummary": "TCU Athletics roster + TCU cumulative stats",
+        "sourceSummary": "TCU Athletics roster",
         "schoolSlug": "tcu",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/kade-durnin/18349",
+        "profileUrl": "https://gofrogs.com/sports/baseball/roster/kade-durnin/17714",
         "espnAthleteId": ""
       },
       {

@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.brown2026 = {
-  "generatedAt": "2026-06-18T11:37:24.588Z",
+  "generatedAt": "2026-06-19T11:43:09.048Z",
   "season": 2026,
   "school": {
     "slug": "brown",
@@ -25,7 +25,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
     "ncaa": "NCAA school index"
   },
   "coverage": {
-    "rosterPlayers": 39,
+    "rosterPlayers": 38,
     "espnRosterPlayers": 0,
     "playersWithHittingStats": 0,
     "playersWithPitchingStats": 0,
@@ -754,94 +754,6 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "detailBadges": [
           "C/OF",
           "JR",
-          "R/R",
-          "Rostered"
-        ],
-        "sourceSummary": "Brown Athletics roster"
-      }
-    },
-    {
-      "id": "brown-24032",
-      "schoolSlug": "brown",
-      "school": "Brown",
-      "schoolLongName": "Brown University",
-      "name": "Kanghee Cho",
-      "normalizedName": "kanghee cho",
-      "compositeRole": "Rostered",
-      "role": "Hitter",
-      "position": "OF",
-      "positionLong": "OF",
-      "classYear": "SO",
-      "handedness": "R/R",
-      "jersey": "11",
-      "hometown": "Palo Alto, Calif.",
-      "highSchool": "Palo Alto",
-      "previousSchool": "",
-      "hometownHighSchool": "Palo Alto, Calif. / Palo Alto",
-      "profileUrl": "https://brownbears.com/sports/baseball/roster/kanghee-cho/24032",
-      "imageUrl": "https://brownbears.com/images/2026/2/10/Cho-headshot-2026.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "24032",
-      "sources": [
-        "Brown Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "summary": "Kanghee Cho gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "OF",
-          "SO",
           "R/R",
           "Rostered"
         ],
@@ -3580,9 +3492,9 @@ window.__BASEBALL_DATASETS__.brown2026 = {
   "playerBoard": {
     "source": "Brown Athletics roster + cumulative stats / ESPN roster",
     "note": "This Brown-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but Brown's public ESPN roster feed did not line up cleanly with the current school-site roster.",
-    "totalPlayers": 39,
+    "totalPlayers": 38,
     "roleCounts": {
-      "Hitter": 19,
+      "Hitter": 18,
       "Pitcher": 20
     },
     "players": [
@@ -4060,74 +3972,6 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "schoolSlug": "brown",
         "compositeRole": "Rostered",
         "profileUrl": "https://brownbears.com/sports/baseball/roster/jack-edmunds/24036",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "brown-24032",
-        "name": "Kanghee Cho",
-        "school": "Brown",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Kanghee Cho gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "OF",
-          "SO",
-          "R/R",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster"
-        ],
-        "sourceSummary": "Brown Athletics roster",
-        "schoolSlug": "brown",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/kanghee-cho/24032",
         "espnAthleteId": ""
       },
       {
