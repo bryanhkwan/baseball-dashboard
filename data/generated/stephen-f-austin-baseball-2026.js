@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
-  "generatedAt": "2026-06-21T11:23:00.362Z",
+  "generatedAt": "2026-06-22T12:22:43.233Z",
   "season": 2026,
   "school": {
     "slug": "stephen-f-austin",

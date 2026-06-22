@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.quinnipiac2026 = {
-  "generatedAt": "2026-06-21T11:22:51.058Z",
+  "generatedAt": "2026-06-22T12:22:33.882Z",
   "season": 2026,
   "school": {
     "slug": "quinnipiac",
