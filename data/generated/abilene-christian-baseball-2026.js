@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.abilene-christian2026 = {
-  "generatedAt": "2026-06-22T12:21:50.098Z",
+  "generatedAt": "2026-06-24T11:17:13.976Z",
   "season": 2026,
   "school": {
     "slug": "abilene-christian",
@@ -1029,8 +1029,8 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
       "normalizedName": "brady coe",
       "compositeRole": "Two-Way",
       "role": "Pitcher",
-      "position": "INF / RHP",
-      "positionLong": "Infield / Right-Handed Pitcher",
+      "position": "INF/RHP",
+      "positionLong": "Infield/Right-Handed Pitcher",
       "classYear": "SO",
       "handedness": "R/R",
       "jersey": "7",
@@ -1190,7 +1190,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         ],
         "metaLine": "SO / R/R",
         "detailBadges": [
-          "INF / RHP",
+          "INF/RHP",
           "SO",
           "R/R",
           "Two-Way"
@@ -5616,7 +5616,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         "name": "Brady Coe",
         "school": "Abilene Christian",
         "role": "Pitcher",
-        "position": "INF / RHP",
+        "position": "INF/RHP",
         "classYear": "SO",
         "handedness": "R/R",
         "score": 11,
@@ -5665,7 +5665,7 @@ window.__BASEBALL_DATASETS__.abilene-christian2026 = {
         },
         "metaLine": "SO / R/R",
         "detailBadges": [
-          "INF / RHP",
+          "INF/RHP",
           "SO",
           "R/R",
           "Two-Way"

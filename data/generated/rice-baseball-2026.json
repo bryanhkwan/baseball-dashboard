@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T12:22:34.635Z",
+  "generatedAt": "2026-06-24T11:17:56.504Z",
   "season": 2026,
   "school": {
     "slug": "rice",
@@ -24,16 +24,17 @@
     "ncaa": "NCAA school index"
   },
   "coverage": {
-    "rosterPlayers": 35,
+    "rosterPlayers": 34,
     "espnRosterPlayers": 0,
-    "playersWithHittingStats": 16,
+    "playersWithHittingStats": 15,
     "playersWithPitchingStats": 14,
-    "playersWithFieldingStats": 30,
-    "mergedPlayersWithAnyStats": 30,
+    "playersWithFieldingStats": 29,
+    "mergedPlayersWithAnyStats": 29,
     "matchedEspnPlayers": 0,
     "unmatchedStatRows": {
       "hitting": [
         "Cole Green",
+        "Mason Ashlock",
         "Tobias Motley"
       ],
       "pitching": [
@@ -42,6 +43,7 @@
         "D.C. Brown"
       ],
       "fielding": [
+        "Mason Ashlock",
         "Tobias Motley",
         "Marco Fuentes",
         "Cole Green"
@@ -2905,151 +2907,6 @@
       }
     },
     {
-      "id": "rice-10595",
-      "schoolSlug": "rice",
-      "school": "Rice",
-      "schoolLongName": "Rice University",
-      "name": "Mason Ashlock",
-      "normalizedName": "mason ashlock",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "OF",
-      "positionLong": "",
-      "classYear": "SO",
-      "handedness": "R-R",
-      "jersey": "27",
-      "hometown": "Dripping Springs",
-      "highSchool": "Dripping Springs",
-      "previousSchool": "Weatherford College",
-      "hometownHighSchool": "Dripping Springs / Dripping Springs",
-      "profileUrl": "https://riceowls.com/sports/baseball/roster/mason-ashlock/10595",
-      "imageUrl": "https://riceowls.com/images/2025/9/1/27_ASHLOCK_MASON.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "10595",
-      "sources": [
-        "Rice Athletics roster",
-        "Rice cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "10595",
-        "name": "Mason Ashlock",
-        "normalizedName": "mason ashlock",
-        "jersey": "27",
-        "profileUrl": "https://riceowls.com/sports/baseball/roster/mason-ashlock/10595",
-        "imageUrl": "https://riceowls.com/images/2025/9/1/27_ASHLOCK_MASON.png",
-        "gamesPlayed": 34,
-        "gamesStarted": 23,
-        "battingAverage": 0.179,
-        "onBasePercentage": 0.26,
-        "sluggingPercentage": 0.25,
-        "ops": 0.51,
-        "atBats": 84,
-        "runs": 8,
-        "hits": 15,
-        "doubles": 3,
-        "triples": 0,
-        "homeRuns": 1,
-        "runsBattedIn": 14,
-        "totalBases": 21,
-        "walks": 9,
-        "hitByPitch": 1,
-        "strikeouts": 24,
-        "intentionalWalks": 1,
-        "groundedIntoDoublePlay": 2,
-        "sacrificeFlies": 2,
-        "sacrificeHits": 0,
-        "stolenBases": 1,
-        "stolenBasesAttempts": 1,
-        "putouts": 46,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 97,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "10595",
-        "name": "Mason Ashlock",
-        "normalizedName": "mason ashlock",
-        "jersey": "27",
-        "profileUrl": "https://riceowls.com/sports/baseball/roster/mason-ashlock/10595",
-        "imageUrl": "https://riceowls.com/images/2025/9/1/27_ASHLOCK_MASON.png",
-        "gamesPlayed": 20,
-        "gamesStarted": 20,
-        "putouts": 46,
-        "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 46
-      },
-      "evaluation": {
-        "score": 3,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 19.44444444444444,
-          "Speed": 3.3333333333333335
-        },
-        "summary": "Mason Ashlock gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .179",
-          "OBP .260",
-          "SLG .250"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".179"
-          },
-          {
-            "label": "OBP",
-            "value": ".260"
-          },
-          {
-            "label": "SLG",
-            "value": ".250"
-          },
-          {
-            "label": "HR",
-            "value": "1"
-          },
-          {
-            "label": "RBI",
-            "value": "14"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
-        "metaLine": "SO / R-R",
-        "detailBadges": [
-          "OF",
-          "SO",
-          "R-R",
-          "Hitter"
-        ],
-        "sourceSummary": "Rice Athletics roster + Rice cumulative stats"
-      }
-    },
-    {
       "id": "rice-10394",
       "schoolSlug": "rice",
       "school": "Rice",
@@ -4885,9 +4742,9 @@
   "playerBoard": {
     "source": "Rice Athletics roster + cumulative stats / ESPN roster",
     "note": "This Rice-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but Rice's public ESPN roster feed did not line up cleanly with the current school-site roster.",
-    "totalPlayers": 35,
+    "totalPlayers": 34,
     "roleCounts": {
-      "Hitter": 17,
+      "Hitter": 16,
       "Pitcher": 18
     },
     "players": [
@@ -6267,75 +6124,6 @@
         "schoolSlug": "rice",
         "compositeRole": "Pitcher",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/ethan-atchley/10359",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "rice-10595",
-        "name": "Mason Ashlock",
-        "school": "Rice",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "SO",
-        "handedness": "R-R",
-        "score": 3,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Mason Ashlock gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .179",
-          "OBP .260",
-          "SLG .250"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".179"
-          },
-          {
-            "label": "OBP",
-            "value": ".260"
-          },
-          {
-            "label": "SLG",
-            "value": ".250"
-          },
-          {
-            "label": "HR",
-            "value": "1"
-          },
-          {
-            "label": "RBI",
-            "value": "14"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 19.44444444444444,
-          "Speed": 3.3333333333333335
-        },
-        "metaLine": "SO / R-R",
-        "detailBadges": [
-          "OF",
-          "SO",
-          "R-R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Rice Athletics roster",
-          "Rice cumulative stats"
-        ],
-        "sourceSummary": "Rice Athletics roster + Rice cumulative stats",
-        "schoolSlug": "rice",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://riceowls.com/sports/baseball/roster/mason-ashlock/10595",
         "espnAthleteId": ""
       },
       {

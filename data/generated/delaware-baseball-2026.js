@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.delaware2026 = {
-  "generatedAt": "2026-06-22T12:22:06.393Z",
+  "generatedAt": "2026-06-24T11:17:26.848Z",
   "season": 2026,
   "school": {
     "slug": "delaware",
@@ -25,27 +25,55 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
     "ncaa": "NCAA school index"
   },
   "coverage": {
-    "rosterPlayers": 36,
+    "rosterPlayers": 31,
     "espnRosterPlayers": 0,
-    "playersWithHittingStats": 10,
-    "playersWithPitchingStats": 5,
-    "playersWithFieldingStats": 13,
-    "mergedPlayersWithAnyStats": 14,
+    "playersWithHittingStats": 0,
+    "playersWithPitchingStats": 0,
+    "playersWithFieldingStats": 0,
+    "mergedPlayersWithAnyStats": 0,
     "matchedEspnPlayers": 0,
     "unmatchedStatRows": {
       "hitting": [
-        "Noah Burroughs"
+        "Evan Bouldin",
+        "Sal Mineo",
+        "Jeremy Wolf",
+        "LT Cockrill",
+        "Noah Burroughs",
+        "Sam Winsett",
+        "Vincent Davis",
+        "Anthony Charles",
+        "Connor Doherty",
+        "Luke Lambert",
+        "Ethan Shaub"
       ],
       "pitching": [
-        "Tm"
+        "Tm",
+        "Doug Marose",
+        "Jackson Hulcher",
+        "Ethan Shaub",
+        "Evan Lewis",
+        "Jake Pollaro"
       ],
       "fielding": [
-        "Noah Burroughs"
+        "LT Cockrill",
+        "Anthony Charles",
+        "Connor Doherty",
+        "Ethan Shaub",
+        "Vincent Davis",
+        "Evan Bouldin",
+        "Noah Burroughs",
+        "Jeremy Wolf",
+        "Sal Mineo",
+        "Luke Lambert",
+        "Doug Marose",
+        "Sam Winsett",
+        "Jackson Hulcher",
+        "Jake Pollaro"
       ]
     }
   },
   "teamSummary": {
-    "record": "19-35, 6-23",
+    "record": "19-35, 7-23",
     "battingAverage": ".265",
     "earnedRunAverage": "7.02",
     "wins": "19",
@@ -130,296 +158,6 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
   },
   "players": [
     {
-      "id": "delaware-30511",
-      "schoolSlug": "delaware",
-      "school": "Delaware",
-      "schoolLongName": "University of Delaware",
-      "name": "Sal Mineo",
-      "normalizedName": "sal mineo",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "OF",
-      "positionLong": "Outfield",
-      "classYear": "SO",
-      "handedness": "N/A",
-      "jersey": "1",
-      "hometown": "Slippery Rock, Pa.",
-      "highSchool": "Slippery Rock",
-      "previousSchool": "",
-      "hometownHighSchool": "Slippery Rock, Pa. / Slippery Rock",
-      "profileUrl": "https://bluehens.com/sports/baseball/roster/sal-mineo/30511",
-      "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Sal_0q1zF.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "30511",
-      "sources": [
-        "Delaware Athletics roster",
-        "Delaware cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "30511",
-        "name": "Sal Mineo",
-        "normalizedName": "sal mineo",
-        "jersey": "1",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/sal-mineo/30511",
-        "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Sal_0q1zF.jpg",
-        "gamesPlayed": 54,
-        "gamesStarted": 54,
-        "battingAverage": 0.304,
-        "onBasePercentage": 0.41,
-        "sluggingPercentage": 0.447,
-        "ops": 0.857,
-        "atBats": 217,
-        "runs": 45,
-        "hits": 66,
-        "doubles": 8,
-        "triples": 1,
-        "homeRuns": 7,
-        "runsBattedIn": 32,
-        "totalBases": 97,
-        "walks": 26,
-        "hitByPitch": 13,
-        "strikeouts": 31,
-        "intentionalWalks": 2,
-        "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 16,
-        "stolenBasesAttempts": 23,
-        "putouts": 140,
-        "assists": 0,
-        "errors": 7,
-        "plateAppearances": 286,
-        "caughtStealing": 7,
-        "pickedOff": 2
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "30511",
-        "name": "Sal Mineo",
-        "normalizedName": "sal mineo",
-        "jersey": "1",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/sal-mineo/30511",
-        "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Sal_0q1zF.jpg",
-        "gamesPlayed": 50,
-        "gamesStarted": 50,
-        "putouts": 140,
-        "assists": 7,
-        "errors": 7,
-        "fieldingPercentage": 0.955,
-        "doublePlays": 2,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 154
-      },
-      "evaluation": {
-        "score": 57,
-        "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
-        },
-        "components": {
-          "On-base": 72.2222222222222,
-          "Power": 33.42105263157895,
-          "Contact": 52.49999999999999,
-          "Discipline": 70.96774193548386,
-          "Speed": 53.333333333333336
-        },
-        "summary": "Sal Mineo profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .304",
-          "OBP .410",
-          "SLG .447"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".304"
-          },
-          {
-            "label": "OBP",
-            "value": ".410"
-          },
-          {
-            "label": "SLG",
-            "value": ".447"
-          },
-          {
-            "label": "HR",
-            "value": "7"
-          },
-          {
-            "label": "RBI",
-            "value": "32"
-          },
-          {
-            "label": "SB",
-            "value": "16"
-          }
-        ],
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "OF",
-          "SO",
-          "N/A",
-          "Hitter"
-        ],
-        "sourceSummary": "Delaware Athletics roster + Delaware cumulative stats"
-      }
-    },
-    {
-      "id": "delaware-30512",
-      "schoolSlug": "delaware",
-      "school": "Delaware",
-      "schoolLongName": "University of Delaware",
-      "name": "Connor Doherty",
-      "normalizedName": "connor doherty",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "OF/INF",
-      "positionLong": "Infield/ Outfield",
-      "classYear": "FR",
-      "handedness": "N/A",
-      "jersey": "2",
-      "hometown": "Fairfax, Va.",
-      "highSchool": "Robinson",
-      "previousSchool": "",
-      "hometownHighSchool": "Fairfax, Va. / Robinson",
-      "profileUrl": "https://bluehens.com/sports/baseball/roster/connor-doherty/30512",
-      "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Connor_Doherty_AWxSG.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "30512",
-      "sources": [
-        "Delaware Athletics roster",
-        "Delaware cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "30512",
-        "name": "Connor Doherty",
-        "normalizedName": "connor doherty",
-        "jersey": "2",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/connor-doherty/30512",
-        "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Connor_Doherty_AWxSG.jpg",
-        "gamesPlayed": 13,
-        "gamesStarted": 5,
-        "battingAverage": 0.182,
-        "onBasePercentage": 0.308,
-        "sluggingPercentage": 0.182,
-        "ops": 0.49,
-        "atBats": 22,
-        "runs": 2,
-        "hits": 4,
-        "doubles": 0,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 4,
-        "totalBases": 4,
-        "walks": 4,
-        "hitByPitch": 0,
-        "strikeouts": 10,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 2,
-        "stolenBasesAttempts": 2,
-        "putouts": 7,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 28,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "30512",
-        "name": "Connor Doherty",
-        "normalizedName": "connor doherty",
-        "jersey": "2",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/connor-doherty/30512",
-        "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Connor_Doherty_AWxSG.jpg",
-        "gamesPlayed": 5,
-        "gamesStarted": 3,
-        "putouts": 7,
-        "assists": 3,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 10
-      },
-      "evaluation": {
-        "score": 9,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 15.55555555555554,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 22.22222222222222,
-          "Speed": 6.666666666666667
-        },
-        "summary": "Connor Doherty gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .182",
-          "OBP .308",
-          "SLG .182"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".182"
-          },
-          {
-            "label": "OBP",
-            "value": ".308"
-          },
-          {
-            "label": "SLG",
-            "value": ".182"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "4"
-          },
-          {
-            "label": "SB",
-            "value": "2"
-          }
-        ],
-        "metaLine": "FR / N/A",
-        "detailBadges": [
-          "OF/INF",
-          "FR",
-          "N/A",
-          "Hitter"
-        ],
-        "sourceSummary": "Delaware Athletics roster + Delaware cumulative stats"
-      }
-    },
-    {
       "id": "delaware-32058",
       "schoolSlug": "delaware",
       "school": "Delaware",
@@ -430,7 +168,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
       "role": "Pitcher",
       "position": "INF/RHP",
       "positionLong": "Infield / Right Handed Pitcher",
-      "classYear": "JR",
+      "classYear": "SR",
       "handedness": "N/A",
       "jersey": "3",
       "hometown": "Bangkok, Thailand",
@@ -497,682 +235,14 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "JR / N/A",
+        "metaLine": "SR / N/A",
         "detailBadges": [
           "INF/RHP",
-          "JR",
+          "SR",
           "N/A",
           "Pitcher"
         ],
         "sourceSummary": "Delaware Athletics roster"
-      }
-    },
-    {
-      "id": "delaware-30234",
-      "schoolSlug": "delaware",
-      "school": "Delaware",
-      "schoolLongName": "University of Delaware",
-      "name": "Rory Finn",
-      "normalizedName": "rory finn",
-      "compositeRole": "Rostered",
-      "role": "Hitter",
-      "position": "INF",
-      "positionLong": "Infield",
-      "classYear": "SO",
-      "handedness": "N/A",
-      "jersey": "4",
-      "hometown": "Warrington, Pa",
-      "highSchool": "Springside Chestnut Hill",
-      "previousSchool": "",
-      "hometownHighSchool": "Warrington, Pa / Springside Chestnut Hill",
-      "profileUrl": "https://bluehens.com/sports/baseball/roster/rory-finn/30234",
-      "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Rory_Finn_NIdMk.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "30234",
-      "sources": [
-        "Delaware Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "summary": "Rory Finn gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "INF",
-          "SO",
-          "N/A",
-          "Rostered"
-        ],
-        "sourceSummary": "Delaware Athletics roster"
-      }
-    },
-    {
-      "id": "delaware-30513",
-      "schoolSlug": "delaware",
-      "school": "Delaware",
-      "schoolLongName": "University of Delaware",
-      "name": "Jeremy Wolf",
-      "normalizedName": "jeremy wolf",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "INF",
-      "positionLong": "Infield",
-      "classYear": "SR",
-      "handedness": "N/A",
-      "jersey": "5",
-      "hometown": "Sicklerville, N.J.",
-      "highSchool": "Gloucester Catholic",
-      "previousSchool": "",
-      "hometownHighSchool": "Sicklerville, N.J. / Gloucester Catholic",
-      "profileUrl": "https://bluehens.com/sports/baseball/roster/jeremy-wolf/30513",
-      "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Jeremy_Wolf_msdCz.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "30513",
-      "sources": [
-        "Delaware Athletics roster",
-        "Delaware cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "30513",
-        "name": "Jeremy Wolf",
-        "normalizedName": "jeremy wolf",
-        "jersey": "5",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/jeremy-wolf/30513",
-        "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Jeremy_Wolf_msdCz.jpg",
-        "gamesPlayed": 49,
-        "gamesStarted": 49,
-        "battingAverage": 0.301,
-        "onBasePercentage": 0.411,
-        "sluggingPercentage": 0.486,
-        "ops": 0.897,
-        "atBats": 173,
-        "runs": 42,
-        "hits": 52,
-        "doubles": 12,
-        "triples": 1,
-        "homeRuns": 6,
-        "runsBattedIn": 29,
-        "totalBases": 84,
-        "walks": 20,
-        "hitByPitch": 14,
-        "strikeouts": 37,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 3,
-        "sacrificeFlies": 2,
-        "sacrificeHits": 0,
-        "stolenBases": 9,
-        "stolenBasesAttempts": 10,
-        "putouts": 72,
-        "assists": 0,
-        "errors": 6,
-        "plateAppearances": 220,
-        "caughtStealing": 1,
-        "pickedOff": 1
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "30513",
-        "name": "Jeremy Wolf",
-        "normalizedName": "jeremy wolf",
-        "jersey": "5",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/jeremy-wolf/30513",
-        "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Jeremy_Wolf_msdCz.jpg",
-        "gamesPlayed": 48,
-        "gamesStarted": 48,
-        "putouts": 72,
-        "assists": 109,
-        "errors": 6,
-        "fieldingPercentage": 0.968,
-        "doublePlays": 25,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 187
-      },
-      "evaluation": {
-        "score": 52,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 72.77777777777776,
-          "Power": 43.684210526315795,
-          "Contact": 50.624999999999986,
-          "Discipline": 37.83783783783783,
-          "Speed": 30
-        },
-        "summary": "Jeremy Wolf profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .301",
-          "OBP .411",
-          "SLG .486"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".301"
-          },
-          {
-            "label": "OBP",
-            "value": ".411"
-          },
-          {
-            "label": "SLG",
-            "value": ".486"
-          },
-          {
-            "label": "HR",
-            "value": "6"
-          },
-          {
-            "label": "RBI",
-            "value": "29"
-          },
-          {
-            "label": "SB",
-            "value": "9"
-          }
-        ],
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "INF",
-          "SR",
-          "N/A",
-          "Hitter"
-        ],
-        "sourceSummary": "Delaware Athletics roster + Delaware cumulative stats"
-      }
-    },
-    {
-      "id": "delaware-30230",
-      "schoolSlug": "delaware",
-      "school": "Delaware",
-      "schoolLongName": "University of Delaware",
-      "name": "LT Cockrill",
-      "normalizedName": "lt cockrill",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "C",
-      "positionLong": "Catcher",
-      "classYear": "SR",
-      "handedness": "N/A",
-      "jersey": "6",
-      "hometown": "Las Vegas, Nev.",
-      "highSchool": "Centennial (State College of Florida)",
-      "previousSchool": "",
-      "hometownHighSchool": "Las Vegas, Nev. / Centennial (State College of Florida)",
-      "profileUrl": "https://bluehens.com/sports/baseball/roster/lt-cockrill/30230",
-      "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_LT_Cockrill_GS3Yh.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "30230",
-      "sources": [
-        "Delaware Athletics roster",
-        "Delaware cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "30230",
-        "name": "LT Cockrill",
-        "normalizedName": "lt cockrill",
-        "jersey": "6",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/lt-cockrill/30230",
-        "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_LT_Cockrill_GS3Yh.jpg",
-        "gamesPlayed": 53,
-        "gamesStarted": 53,
-        "battingAverage": 0.229,
-        "onBasePercentage": 0.364,
-        "sluggingPercentage": 0.335,
-        "ops": 0.699,
-        "atBats": 188,
-        "runs": 29,
-        "hits": 43,
-        "doubles": 8,
-        "triples": 0,
-        "homeRuns": 4,
-        "runsBattedIn": 25,
-        "totalBases": 63,
-        "walks": 33,
-        "hitByPitch": 8,
-        "strikeouts": 55,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 2,
-        "sacrificeFlies": 2,
-        "sacrificeHits": 1,
-        "stolenBases": 3,
-        "stolenBasesAttempts": 4,
-        "putouts": 252,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 237,
-        "caughtStealing": 1,
-        "pickedOff": 1
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "30230",
-        "name": "LT Cockrill",
-        "normalizedName": "lt cockrill",
-        "jersey": "6",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/lt-cockrill/30230",
-        "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_LT_Cockrill_GS3Yh.jpg",
-        "gamesPlayed": 35,
-        "gamesStarted": 35,
-        "putouts": 252,
-        "assists": 22,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 1,
-        "stolenBasesAgainst": 46,
-        "caughtStealingBy": 11,
-        "stolenBasesPercentage": null,
-        "passedBalls": 18,
-        "catchersInterference": 0,
-        "totalChances": 274
-      },
-      "evaluation": {
-        "score": 24,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 46.66666666666665,
-          "Power": 3.9473684210526354,
-          "Contact": 5.625000000000005,
-          "Discipline": 44.444444444444436,
-          "Speed": 10
-        },
-        "summary": "LT Cockrill gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .229",
-          "OBP .364",
-          "SLG .335"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".229"
-          },
-          {
-            "label": "OBP",
-            "value": ".364"
-          },
-          {
-            "label": "SLG",
-            "value": ".335"
-          },
-          {
-            "label": "HR",
-            "value": "4"
-          },
-          {
-            "label": "RBI",
-            "value": "25"
-          },
-          {
-            "label": "SB",
-            "value": "3"
-          }
-        ],
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "C",
-          "SR",
-          "N/A",
-          "Hitter"
-        ],
-        "sourceSummary": "Delaware Athletics roster + Delaware cumulative stats"
-      }
-    },
-    {
-      "id": "delaware-30226",
-      "schoolSlug": "delaware",
-      "school": "Delaware",
-      "schoolLongName": "University of Delaware",
-      "name": "Evan Bouldin",
-      "normalizedName": "evan bouldin",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "INF",
-      "positionLong": "Infield",
-      "classYear": "SR",
-      "handedness": "N/A",
-      "jersey": "7",
-      "hometown": "Middletown, Del.",
-      "highSchool": "Appoquinimink",
-      "previousSchool": "",
-      "hometownHighSchool": "Middletown, Del. / Appoquinimink",
-      "profileUrl": "https://bluehens.com/sports/baseball/roster/evan-bouldin/30226",
-      "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Evan_Bouldin_IJAjW.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "30226",
-      "sources": [
-        "Delaware Athletics roster",
-        "Delaware cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "30226",
-        "name": "Evan Bouldin",
-        "normalizedName": "evan bouldin",
-        "jersey": "7",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/evan-bouldin/30226",
-        "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Evan_Bouldin_IJAjW.jpg",
-        "gamesPlayed": 54,
-        "gamesStarted": 54,
-        "battingAverage": 0.33,
-        "onBasePercentage": 0.424,
-        "sluggingPercentage": 0.558,
-        "ops": 0.982,
-        "atBats": 206,
-        "runs": 44,
-        "hits": 68,
-        "doubles": 15,
-        "triples": 1,
-        "homeRuns": 10,
-        "runsBattedIn": 43,
-        "totalBases": 115,
-        "walks": 33,
-        "hitByPitch": 2,
-        "strikeouts": 19,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 5,
-        "sacrificeFlies": 2,
-        "sacrificeHits": 0,
-        "stolenBases": 7,
-        "stolenBasesAttempts": 8,
-        "putouts": 366,
-        "assists": 0,
-        "errors": 9,
-        "plateAppearances": 252,
-        "caughtStealing": 1,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "30226",
-        "name": "Evan Bouldin",
-        "normalizedName": "evan bouldin",
-        "jersey": "7",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/evan-bouldin/30226",
-        "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Evan_Bouldin_IJAjW.jpg",
-        "gamesPlayed": 54,
-        "gamesStarted": 54,
-        "putouts": 366,
-        "assists": 30,
-        "errors": 9,
-        "fieldingPercentage": 0.978,
-        "doublePlays": 29,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 405
-      },
-      "evaluation": {
-        "score": 71,
-        "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
-        },
-        "components": {
-          "On-base": 79.99999999999999,
-          "Power": 62.63157894736844,
-          "Contact": 68.75000000000001,
-          "Discipline": 100,
-          "Speed": 23.333333333333332
-        },
-        "summary": "Evan Bouldin profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
-        "summaryMetrics": [
-          "AVG .330",
-          "OBP .424",
-          "SLG .558"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".330"
-          },
-          {
-            "label": "OBP",
-            "value": ".424"
-          },
-          {
-            "label": "SLG",
-            "value": ".558"
-          },
-          {
-            "label": "HR",
-            "value": "10"
-          },
-          {
-            "label": "RBI",
-            "value": "43"
-          },
-          {
-            "label": "SB",
-            "value": "7"
-          }
-        ],
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "INF",
-          "SR",
-          "N/A",
-          "Hitter"
-        ],
-        "sourceSummary": "Delaware Athletics roster + Delaware cumulative stats"
-      }
-    },
-    {
-      "id": "delaware-30514",
-      "schoolSlug": "delaware",
-      "school": "Delaware",
-      "schoolLongName": "University of Delaware",
-      "name": "Anthony Charles",
-      "normalizedName": "anthony charles",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "OF",
-      "positionLong": "Outfield",
-      "classYear": "SR",
-      "handedness": "N/A",
-      "jersey": "8",
-      "hometown": "Mullica Hill, N.J.",
-      "highSchool": "Clearview",
-      "previousSchool": "",
-      "hometownHighSchool": "Mullica Hill, N.J. / Clearview",
-      "profileUrl": "https://bluehens.com/sports/baseball/roster/anthony-charles/30514",
-      "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Anthony_Charles_kqHd4.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "30514",
-      "sources": [
-        "Delaware Athletics roster",
-        "Delaware cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "30514",
-        "name": "Anthony Charles",
-        "normalizedName": "anthony charles",
-        "jersey": "8",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/anthony-charles/30514",
-        "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Anthony_Charles_kqHd4.jpg",
-        "gamesPlayed": 40,
-        "gamesStarted": 36,
-        "battingAverage": 0.236,
-        "onBasePercentage": 0.333,
-        "sluggingPercentage": 0.285,
-        "ops": 0.618,
-        "atBats": 123,
-        "runs": 14,
-        "hits": 29,
-        "doubles": 6,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 13,
-        "totalBases": 35,
-        "walks": 16,
-        "hitByPitch": 2,
-        "strikeouts": 25,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 5,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 4,
-        "stolenBases": 8,
-        "stolenBasesAttempts": 8,
-        "putouts": 57,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 153,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "30514",
-        "name": "Anthony Charles",
-        "normalizedName": "anthony charles",
-        "jersey": "8",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/anthony-charles/30514",
-        "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Anthony_Charles_kqHd4.jpg",
-        "gamesPlayed": 27,
-        "gamesStarted": 27,
-        "putouts": 57,
-        "assists": 2,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 59
-      },
-      "evaluation": {
-        "score": 21,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 29.44444444444444,
-          "Power": 0,
-          "Contact": 9.999999999999991,
-          "Discipline": 48.88888888888888,
-          "Speed": 26.666666666666668
-        },
-        "summary": "Anthony Charles profiles as a OF piece who adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .236",
-          "OBP .333",
-          "SLG .285"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".236"
-          },
-          {
-            "label": "OBP",
-            "value": ".333"
-          },
-          {
-            "label": "SLG",
-            "value": ".285"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "13"
-          },
-          {
-            "label": "SB",
-            "value": "8"
-          }
-        ],
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "OF",
-          "SR",
-          "N/A",
-          "Hitter"
-        ],
-        "sourceSummary": "Delaware Athletics roster + Delaware cumulative stats"
       }
     },
     {
@@ -1186,7 +256,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
       "role": "Pitcher",
       "position": "LHP",
       "positionLong": "Left Handed Pitcher",
-      "classYear": "JR",
+      "classYear": "SR",
       "handedness": "N/A",
       "jersey": "10",
       "hometown": "Seaford, Del.",
@@ -1253,159 +323,14 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "JR / N/A",
+        "metaLine": "SR / N/A",
         "detailBadges": [
           "LHP",
-          "JR",
+          "SR",
           "N/A",
           "Pitcher"
         ],
         "sourceSummary": "Delaware Athletics roster"
-      }
-    },
-    {
-      "id": "delaware-30236",
-      "schoolSlug": "delaware",
-      "school": "Delaware",
-      "schoolLongName": "University of Delaware",
-      "name": "Luke Lambert",
-      "normalizedName": "luke lambert",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "C",
-      "positionLong": "Catcher",
-      "classYear": "SR",
-      "handedness": "N/A",
-      "jersey": "11",
-      "hometown": "McDonald, Pa.",
-      "highSchool": "West Allegheny (Eastern Florida Community College)",
-      "previousSchool": "",
-      "hometownHighSchool": "McDonald, Pa. / West Allegheny (Eastern Florida Community College)",
-      "profileUrl": "https://bluehens.com/sports/baseball/roster/luke-lambert/30236",
-      "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Luke_Lambert_7kq14.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "30236",
-      "sources": [
-        "Delaware Athletics roster",
-        "Delaware cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "30236",
-        "name": "Luke Lambert",
-        "normalizedName": "luke lambert",
-        "jersey": "11",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/luke-lambert/30236",
-        "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Luke_Lambert_7kq14.jpg",
-        "gamesPlayed": 5,
-        "gamesStarted": 4,
-        "battingAverage": 0,
-        "onBasePercentage": 0.176,
-        "sluggingPercentage": 0,
-        "ops": 0.176,
-        "atBats": 14,
-        "runs": 3,
-        "hits": 0,
-        "doubles": 0,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 0,
-        "totalBases": 0,
-        "walks": 1,
-        "hitByPitch": 2,
-        "strikeouts": 6,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 20,
-        "assists": 0,
-        "errors": 1,
-        "plateAppearances": 17,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "30236",
-        "name": "Luke Lambert",
-        "normalizedName": "luke lambert",
-        "jersey": "11",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/luke-lambert/30236",
-        "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Luke_Lambert_7kq14.jpg",
-        "gamesPlayed": 2,
-        "gamesStarted": 2,
-        "putouts": 20,
-        "assists": 1,
-        "errors": 1,
-        "fieldingPercentage": 0.955,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 4,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 22
-      },
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "summary": "Luke Lambert gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .000",
-          "OBP .176",
-          "SLG .000"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".000"
-          },
-          {
-            "label": "OBP",
-            "value": ".176"
-          },
-          {
-            "label": "SLG",
-            "value": ".000"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "C",
-          "SR",
-          "N/A",
-          "Hitter"
-        ],
-        "sourceSummary": "Delaware Athletics roster + Delaware cumulative stats"
       }
     },
     {
@@ -1419,7 +344,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
       "role": "Pitcher",
       "position": "LHP",
       "positionLong": "Left Handed Pitcher",
-      "classYear": "JR",
+      "classYear": "SR",
       "handedness": "N/A",
       "jersey": "12",
       "hometown": "Lutherville, Md.",
@@ -1486,10 +411,10 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "JR / N/A",
+        "metaLine": "SR / N/A",
         "detailBadges": [
           "LHP",
-          "JR",
+          "SR",
           "N/A",
           "Pitcher"
         ],
@@ -1507,7 +432,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
       "role": "Hitter",
       "position": "INF",
       "positionLong": "Infield",
-      "classYear": "SO",
+      "classYear": "JR",
       "handedness": "N/A",
       "jersey": "14",
       "hometown": "Philadelphia, Pa.",
@@ -1574,10 +499,10 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "SO / N/A",
+        "metaLine": "JR / N/A",
         "detailBadges": [
           "INF",
-          "SO",
+          "JR",
           "N/A",
           "Rostered"
         ],
@@ -1595,7 +520,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Right Handed Pitcher",
-      "classYear": "SO",
+      "classYear": "JR",
       "handedness": "N/A",
       "jersey": "15",
       "hometown": "South Riding, Va.",
@@ -1662,159 +587,14 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "SO / N/A",
+        "metaLine": "JR / N/A",
         "detailBadges": [
           "RHP",
-          "SO",
+          "JR",
           "N/A",
           "Pitcher"
         ],
         "sourceSummary": "Delaware Athletics roster"
-      }
-    },
-    {
-      "id": "delaware-30232",
-      "schoolSlug": "delaware",
-      "school": "Delaware",
-      "schoolLongName": "University of Delaware",
-      "name": "Vincent Davis",
-      "normalizedName": "vincent davis",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "INF/OF",
-      "positionLong": "Infield/ Outfield",
-      "classYear": "JR",
-      "handedness": "N/A",
-      "jersey": "16",
-      "hometown": "Somerdale, N.J.",
-      "highSchool": "Highland",
-      "previousSchool": "",
-      "hometownHighSchool": "Somerdale, N.J. / Highland",
-      "profileUrl": "https://bluehens.com/sports/baseball/roster/vincent-davis/30232",
-      "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Vincent_jjdaB.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "30232",
-      "sources": [
-        "Delaware Athletics roster",
-        "Delaware cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "30232",
-        "name": "Vincent Davis",
-        "normalizedName": "vincent davis",
-        "jersey": "16",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/vincent-davis/30232",
-        "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Vincent_jjdaB.jpg",
-        "gamesPlayed": 36,
-        "gamesStarted": 34,
-        "battingAverage": 0.271,
-        "onBasePercentage": 0.365,
-        "sluggingPercentage": 0.473,
-        "ops": 0.838,
-        "atBats": 129,
-        "runs": 21,
-        "hits": 35,
-        "doubles": 6,
-        "triples": 1,
-        "homeRuns": 6,
-        "runsBattedIn": 27,
-        "totalBases": 61,
-        "walks": 14,
-        "hitByPitch": 5,
-        "strikeouts": 38,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 1,
-        "stolenBasesAttempts": 4,
-        "putouts": 101,
-        "assists": 0,
-        "errors": 1,
-        "plateAppearances": 155,
-        "caughtStealing": 3,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "30232",
-        "name": "Vincent Davis",
-        "normalizedName": "vincent davis",
-        "jersey": "16",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/vincent-davis/30232",
-        "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Vincent_jjdaB.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 30,
-        "putouts": 101,
-        "assists": 8,
-        "errors": 1,
-        "fieldingPercentage": 0.991,
-        "doublePlays": 5,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 110
-      },
-      "evaluation": {
-        "score": 34,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 47.22222222222221,
-          "Power": 40.26315789473684,
-          "Contact": 31.875000000000007,
-          "Discipline": 18.713450292397653,
-          "Speed": 3.3333333333333335
-        },
-        "summary": "Vincent Davis gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .271",
-          "OBP .365",
-          "SLG .473"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".271"
-          },
-          {
-            "label": "OBP",
-            "value": ".365"
-          },
-          {
-            "label": "SLG",
-            "value": ".473"
-          },
-          {
-            "label": "HR",
-            "value": "6"
-          },
-          {
-            "label": "RBI",
-            "value": "27"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "INF/OF",
-          "JR",
-          "N/A",
-          "Hitter"
-        ],
-        "sourceSummary": "Delaware Athletics roster + Delaware cumulative stats"
       }
     },
     {
@@ -1828,7 +608,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
       "role": "Pitcher",
       "position": "RHP/INF",
       "positionLong": "Right Handed Pitcher / Infielder",
-      "classYear": "FR",
+      "classYear": "SO",
       "handedness": "N/A",
       "jersey": "18",
       "hometown": "New Paltz, N.Y.",
@@ -1895,298 +675,14 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "FR / N/A",
+        "metaLine": "SO / N/A",
         "detailBadges": [
           "RHP/INF",
-          "FR",
+          "SO",
           "N/A",
           "Pitcher"
         ],
         "sourceSummary": "Delaware Athletics roster"
-      }
-    },
-    {
-      "id": "delaware-30519",
-      "schoolSlug": "delaware",
-      "school": "Delaware",
-      "schoolLongName": "University of Delaware",
-      "name": "Jackson Hulcher",
-      "normalizedName": "jackson hulcher",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right Handed Pitcher",
-      "classYear": "JR",
-      "handedness": "N/A",
-      "jersey": "19",
-      "hometown": "Ashburn, Va.",
-      "highSchool": "Broad Run / Richard Bland Community College",
-      "previousSchool": "",
-      "hometownHighSchool": "Ashburn, Va. / Broad Run / Richard Bland Community College",
-      "profileUrl": "https://bluehens.com/sports/baseball/roster/jackson-hulcher/30519",
-      "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Jackson_Hulcher_SqVeA.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "30519",
-      "sources": [
-        "Delaware Athletics roster",
-        "Delaware cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "30519",
-        "name": "Jackson Hulcher",
-        "normalizedName": "jackson hulcher",
-        "jersey": "19",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/jackson-hulcher/30519",
-        "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Jackson_Hulcher_SqVeA.jpg",
-        "gamesPlayed": 17,
-        "gamesStarted": 2,
-        "appearances": 17,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 8.03,
-        "whip": 1.81,
-        "wins": 1,
-        "losses": 3,
-        "saves": 1,
-        "shutouts": 0,
-        "inningsPitched": 37,
-        "inningsPitchedDisplay": "37.0",
-        "hitsAllowed": 36,
-        "runsAllowed": 34,
-        "earnedRunsAllowed": 33,
-        "walksAllowed": 31,
-        "strikeouts": 43,
-        "doublesAllowed": 5,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 5,
-        "opponentsAtBats": 140,
-        "wildPitches": 8,
-        "hitBatters": 5,
-        "balks": 2,
-        "opponentsBattingAverage": 0.257,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "30519",
-        "name": "Jackson Hulcher",
-        "normalizedName": "jackson hulcher",
-        "jersey": "19",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/jackson-hulcher/30519",
-        "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Jackson_Hulcher_SqVeA.jpg",
-        "gamesPlayed": 8,
-        "gamesStarted": 2,
-        "putouts": 0,
-        "assists": 5,
-        "errors": 1,
-        "fieldingPercentage": 0.833,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 7,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 6
-      },
-      "evaluation": {
-        "score": 13,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 58.72235872235873,
-          "Command": 7.74193548387097,
-          "Damage suppression": 0
-        },
-        "summary": "Jackson Hulcher looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 8.03",
-          "WHIP 1.81",
-          "K/9 10.5"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "8.03"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.81"
-          },
-          {
-            "label": "K/9",
-            "value": "10.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "7.5"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.22"
-          },
-          {
-            "label": "IP",
-            "value": "37.0"
-          }
-        ],
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "N/A",
-          "Pitcher"
-        ],
-        "sourceSummary": "Delaware Athletics roster + Delaware cumulative stats"
-      }
-    },
-    {
-      "id": "delaware-30238",
-      "schoolSlug": "delaware",
-      "school": "Delaware",
-      "schoolLongName": "University of Delaware",
-      "name": "Doug Marose",
-      "normalizedName": "doug marose",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right Handed Pitcher",
-      "classYear": "GR",
-      "handedness": "N/A",
-      "jersey": "20",
-      "hometown": "Laytonsville, Md.",
-      "highSchool": "Gaithersburg (Harford Community College)",
-      "previousSchool": "Harford Community College",
-      "hometownHighSchool": "Laytonsville, Md. / Gaithersburg (Harford Community College)",
-      "profileUrl": "https://bluehens.com/sports/baseball/roster/doug-marose/30238",
-      "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Doug_Marose_9NgX5.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "30238",
-      "sources": [
-        "Delaware Athletics roster",
-        "Delaware cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "30238",
-        "name": "Doug Marose",
-        "normalizedName": "doug marose",
-        "jersey": "20",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/doug-marose/30238",
-        "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Doug_Marose_9NgX5.jpg",
-        "gamesPlayed": 12,
-        "gamesStarted": 11,
-        "appearances": 12,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 6.56,
-        "whip": 1.78,
-        "wins": 1,
-        "losses": 7,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 46.666666666666664,
-        "inningsPitchedDisplay": "46.2",
-        "hitsAllowed": 64,
-        "runsAllowed": 40,
-        "earnedRunsAllowed": 34,
-        "walksAllowed": 19,
-        "strikeouts": 28,
-        "doublesAllowed": 18,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 6,
-        "opponentsAtBats": 189,
-        "wildPitches": 0,
-        "hitBatters": 3,
-        "balks": 0,
-        "opponentsBattingAverage": 0.339,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "30238",
-        "name": "Doug Marose",
-        "normalizedName": "doug marose",
-        "jersey": "20",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/doug-marose/30238",
-        "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Doug_Marose_9NgX5.jpg",
-        "gamesPlayed": 11,
-        "gamesStarted": 11,
-        "putouts": 6,
-        "assists": 7,
-        "errors": 1,
-        "fieldingPercentage": 0.929,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 4,
-        "caughtStealingBy": 1,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 14
-      },
-      "evaluation": {
-        "score": 4,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 12.727272727272732,
-          "Command": 9.473684210526315,
-          "Damage suppression": 0
-        },
-        "summary": "Doug Marose gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 6.56",
-          "WHIP 1.78",
-          "K/9 5.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "6.56"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.78"
-          },
-          {
-            "label": "K/9",
-            "value": "5.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.7"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.16"
-          },
-          {
-            "label": "IP",
-            "value": "46.7"
-          }
-        ],
-        "metaLine": "GR / N/A",
-        "detailBadges": [
-          "RHP",
-          "GR",
-          "N/A",
-          "Pitcher"
-        ],
-        "sourceSummary": "Delaware Athletics roster + Delaware cumulative stats"
       }
     },
     {
@@ -2200,7 +696,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Right Handed Pitcher",
-      "classYear": "FR",
+      "classYear": "SO",
       "handedness": "N/A",
       "jersey": "21",
       "hometown": "Ellicott City, Md.",
@@ -2267,425 +763,14 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "FR / N/A",
+        "metaLine": "SO / N/A",
         "detailBadges": [
           "RHP",
-          "FR",
+          "SO",
           "N/A",
           "Pitcher"
         ],
         "sourceSummary": "Delaware Athletics roster"
-      }
-    },
-    {
-      "id": "delaware-30520",
-      "schoolSlug": "delaware",
-      "school": "Delaware",
-      "schoolLongName": "University of Delaware",
-      "name": "Sam Winsett",
-      "normalizedName": "sam winsett",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "INF",
-      "positionLong": "Infield",
-      "classYear": "SO",
-      "handedness": "N/A",
-      "jersey": "22",
-      "hometown": "Voorhees, N.J.",
-      "highSchool": "Eastern",
-      "previousSchool": "",
-      "hometownHighSchool": "Voorhees, N.J. / Eastern",
-      "profileUrl": "https://bluehens.com/sports/baseball/roster/sam-winsett/30520",
-      "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Sam_Winsett_QTZ80.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "30520",
-      "sources": [
-        "Delaware Athletics roster",
-        "Delaware cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "30520",
-        "name": "Sam Winsett",
-        "normalizedName": "sam winsett",
-        "jersey": "22",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/sam-winsett/30520",
-        "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Sam_Winsett_QTZ80.jpg",
-        "gamesPlayed": 40,
-        "gamesStarted": 29,
-        "battingAverage": 0.296,
-        "onBasePercentage": 0.375,
-        "sluggingPercentage": 0.408,
-        "ops": 0.783,
-        "atBats": 125,
-        "runs": 20,
-        "hits": 37,
-        "doubles": 4,
-        "triples": 2,
-        "homeRuns": 2,
-        "runsBattedIn": 22,
-        "totalBases": 51,
-        "walks": 15,
-        "hitByPitch": 2,
-        "strikeouts": 41,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 3,
-        "sacrificeFlies": 2,
-        "sacrificeHits": 1,
-        "stolenBases": 2,
-        "stolenBasesAttempts": 2,
-        "putouts": 21,
-        "assists": 0,
-        "errors": 7,
-        "plateAppearances": 147,
-        "caughtStealing": 0,
-        "pickedOff": 1
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "30520",
-        "name": "Sam Winsett",
-        "normalizedName": "sam winsett",
-        "jersey": "22",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/sam-winsett/30520",
-        "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Sam_Winsett_QTZ80.jpg",
-        "gamesPlayed": 28,
-        "gamesStarted": 24,
-        "putouts": 21,
-        "assists": 62,
-        "errors": 7,
-        "fieldingPercentage": 0.922,
-        "doublePlays": 5,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 90
-      },
-      "evaluation": {
-        "score": 35,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 52.77777777777777,
-          "Power": 23.1578947368421,
-          "Contact": 47.499999999999986,
-          "Discipline": 18.428184281842814,
-          "Speed": 6.666666666666667
-        },
-        "summary": "Sam Winsett gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .296",
-          "OBP .375",
-          "SLG .408"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".296"
-          },
-          {
-            "label": "OBP",
-            "value": ".375"
-          },
-          {
-            "label": "SLG",
-            "value": ".408"
-          },
-          {
-            "label": "HR",
-            "value": "2"
-          },
-          {
-            "label": "RBI",
-            "value": "22"
-          },
-          {
-            "label": "SB",
-            "value": "2"
-          }
-        ],
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "INF",
-          "SO",
-          "N/A",
-          "Hitter"
-        ],
-        "sourceSummary": "Delaware Athletics roster + Delaware cumulative stats"
-      }
-    },
-    {
-      "id": "delaware-30521",
-      "schoolSlug": "delaware",
-      "school": "Delaware",
-      "schoolLongName": "University of Delaware",
-      "name": "Luke Guire",
-      "normalizedName": "luke guire",
-      "compositeRole": "Rostered",
-      "role": "Hitter",
-      "position": "INF",
-      "positionLong": "Infield",
-      "classYear": "FR",
-      "handedness": "N/A",
-      "jersey": "23",
-      "hometown": "Bordentown, N.J.",
-      "highSchool": "Bordentown",
-      "previousSchool": "",
-      "hometownHighSchool": "Bordentown, N.J. / Bordentown",
-      "profileUrl": "https://bluehens.com/sports/baseball/roster/luke-guire/30521",
-      "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Luke_AEWm8.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "30521",
-      "sources": [
-        "Delaware Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "summary": "Luke Guire gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "FR / N/A",
-        "detailBadges": [
-          "INF",
-          "FR",
-          "N/A",
-          "Rostered"
-        ],
-        "sourceSummary": "Delaware Athletics roster"
-      }
-    },
-    {
-      "id": "delaware-30510",
-      "schoolSlug": "delaware",
-      "school": "Delaware",
-      "schoolLongName": "University of Delaware",
-      "name": "Ethan Shaub",
-      "normalizedName": "ethan shaub",
-      "compositeRole": "Two-Way",
-      "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "Left-Handed Pitcher",
-      "classYear": "GR",
-      "handedness": "N/A",
-      "jersey": "24",
-      "hometown": "Haddon Township, N.J.",
-      "highSchool": "Haddon Township (Gloucester Community College)",
-      "previousSchool": "Gloucester Community College",
-      "hometownHighSchool": "Haddon Township, N.J. / Haddon Township (Gloucester Community College)",
-      "profileUrl": "https://bluehens.com/sports/baseball/roster/ethan-shaub/30510",
-      "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Ethan_v00DO.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "30510",
-      "sources": [
-        "Delaware Athletics roster",
-        "Delaware cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "30510",
-        "name": "Ethan Shaub",
-        "normalizedName": "ethan shaub",
-        "jersey": "24",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/ethan-shaub/30510",
-        "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Ethan_v00DO.jpg",
-        "gamesPlayed": 8,
-        "gamesStarted": 1,
-        "battingAverage": 0,
-        "onBasePercentage": 0,
-        "sluggingPercentage": 0,
-        "ops": 0,
-        "atBats": 1,
-        "runs": 0,
-        "hits": 0,
-        "doubles": 0,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 0,
-        "totalBases": 0,
-        "walks": 0,
-        "hitByPitch": 0,
-        "strikeouts": 1,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 0,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 1,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": {
-        "rosterBioId": "30510",
-        "name": "Ethan Shaub",
-        "normalizedName": "ethan shaub",
-        "jersey": "24",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/ethan-shaub/30510",
-        "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Ethan_v00DO.jpg",
-        "gamesPlayed": 8,
-        "gamesStarted": 2,
-        "appearances": 8,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 11.7,
-        "whip": 2.7,
-        "wins": 0,
-        "losses": 2,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 10,
-        "inningsPitchedDisplay": "10.0",
-        "hitsAllowed": 21,
-        "runsAllowed": 17,
-        "earnedRunsAllowed": 13,
-        "walksAllowed": 6,
-        "strikeouts": 8,
-        "doublesAllowed": 6,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 4,
-        "opponentsAtBats": 52,
-        "wildPitches": 2,
-        "hitBatters": 1,
-        "balks": 0,
-        "opponentsBattingAverage": 0.404,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "30510",
-        "name": "Ethan Shaub",
-        "normalizedName": "ethan shaub",
-        "jersey": "24",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/ethan-shaub/30510",
-        "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Ethan_v00DO.jpg",
-        "gamesPlayed": 3,
-        "gamesStarted": 1,
-        "putouts": 0,
-        "assists": 1,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 3,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 1
-      },
-      "evaluation": {
-        "score": 7,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 29.090909090909093,
-          "Command": 6.666666666666665,
-          "Damage suppression": 0
-        },
-        "summary": "Ethan Shaub gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 11.70",
-          "WHIP 2.70",
-          "K/9 7.2"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "11.70"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.70"
-          },
-          {
-            "label": "K/9",
-            "value": "7.2"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.4"
-          },
-          {
-            "label": "HR/9",
-            "value": "3.60"
-          },
-          {
-            "label": "IP",
-            "value": "10.0"
-          }
-        ],
-        "metaLine": "GR / N/A",
-        "detailBadges": [
-          "LHP",
-          "GR",
-          "N/A",
-          "Two-Way"
-        ],
-        "sourceSummary": "Delaware Athletics roster + Delaware cumulative stats"
       }
     },
     {
@@ -2699,7 +784,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
       "role": "Pitcher",
       "position": "LHP",
       "positionLong": "Left Handed Pitcher",
-      "classYear": "JR",
+      "classYear": "SR",
       "handedness": "N/A",
       "jersey": "25",
       "hometown": "East Nassau, N.Y.",
@@ -2766,10 +851,10 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "JR / N/A",
+        "metaLine": "SR / N/A",
         "detailBadges": [
           "LHP",
-          "JR",
+          "SR",
           "N/A",
           "Pitcher"
         ],
@@ -2785,9 +870,9 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
       "normalizedName": "anthony decesare",
       "compositeRole": "Rostered",
       "role": "Hitter",
-      "position": "C",
-      "positionLong": "Catcher",
-      "classYear": "FR",
+      "position": "C/INF",
+      "positionLong": "Catcher / Infield",
+      "classYear": "SO",
       "handedness": "N/A",
       "jersey": "27",
       "hometown": "Yorktown Heights, N.Y.",
@@ -2854,10 +939,10 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "FR / N/A",
+        "metaLine": "SO / N/A",
         "detailBadges": [
-          "C",
-          "FR",
+          "C/INF",
+          "SO",
           "N/A",
           "Rostered"
         ],
@@ -2875,7 +960,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Right Handed Pitcher",
-      "classYear": "SR",
+      "classYear": "GR",
       "handedness": "N/A",
       "jersey": "28",
       "hometown": "Lumberton, N.J.",
@@ -2942,10 +1027,10 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "SR / N/A",
+        "metaLine": "GR / N/A",
         "detailBadges": [
           "RHP",
-          "SR",
+          "GR",
           "N/A",
           "Pitcher"
         ],
@@ -2963,7 +1048,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Right Handed Pitcher",
-      "classYear": "FR",
+      "classYear": "SO",
       "handedness": "N/A",
       "jersey": "29",
       "hometown": "Enola, Pa.",
@@ -3030,10 +1115,10 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "FR / N/A",
+        "metaLine": "SO / N/A",
         "detailBadges": [
           "RHP",
-          "FR",
+          "SO",
           "N/A",
           "Pitcher"
         ],
@@ -3051,7 +1136,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
       "role": "Hitter",
       "position": "OF",
       "positionLong": "Outfield",
-      "classYear": "FR",
+      "classYear": "SO",
       "handedness": "N/A",
       "jersey": "30",
       "hometown": "Cherry Hill, N.J.",
@@ -3118,10 +1203,10 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "FR / N/A",
+        "metaLine": "SO / N/A",
         "detailBadges": [
           "OF",
-          "FR",
+          "SO",
           "N/A",
           "Rostered"
         ],
@@ -3139,7 +1224,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Right Handed Pitcher",
-      "classYear": "SR",
+      "classYear": "GR",
       "handedness": "N/A",
       "jersey": "31",
       "hometown": "Northford, Conn.",
@@ -3206,10 +1291,10 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "SR / N/A",
+        "metaLine": "GR / N/A",
         "detailBadges": [
           "RHP",
-          "SR",
+          "GR",
           "N/A",
           "Pitcher"
         ],
@@ -3227,7 +1312,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Right Handed Pitcher",
-      "classYear": "SO",
+      "classYear": "JR",
       "handedness": "N/A",
       "jersey": "32",
       "hometown": "Boiling Spring, Pa.",
@@ -3294,10 +1379,10 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "SO / N/A",
+        "metaLine": "JR / N/A",
         "detailBadges": [
           "RHP",
-          "SO",
+          "JR",
           "N/A",
           "Pitcher"
         ],
@@ -3315,7 +1400,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Right Handed Pitcher",
-      "classYear": "JR",
+      "classYear": "SR",
       "handedness": "N/A",
       "jersey": "33",
       "hometown": "Berlin, Md.",
@@ -3382,10 +1467,10 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "JR / N/A",
+        "metaLine": "SR / N/A",
         "detailBadges": [
           "RHP",
-          "JR",
+          "SR",
           "N/A",
           "Pitcher"
         ],
@@ -3403,7 +1488,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Right Handed Pitcher",
-      "classYear": "FR",
+      "classYear": "SO",
       "handedness": "N/A",
       "jersey": "35",
       "hometown": "Feasterville, Pa.",
@@ -3470,10 +1555,10 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "FR / N/A",
+        "metaLine": "SO / N/A",
         "detailBadges": [
           "RHP",
-          "FR",
+          "SO",
           "N/A",
           "Pitcher"
         ],
@@ -3491,7 +1576,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Right Handed Pitcher",
-      "classYear": "JR",
+      "classYear": "SR",
       "handedness": "N/A",
       "jersey": "36",
       "hometown": "Bethlehem, Pa.",
@@ -3558,136 +1643,14 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "JR / N/A",
+        "metaLine": "SR / N/A",
         "detailBadges": [
           "RHP",
-          "JR",
+          "SR",
           "N/A",
           "Pitcher"
         ],
         "sourceSummary": "Delaware Athletics roster"
-      }
-    },
-    {
-      "id": "delaware-30528",
-      "schoolSlug": "delaware",
-      "school": "Delaware",
-      "schoolLongName": "University of Delaware",
-      "name": "Evan Lewis",
-      "normalizedName": "evan lewis",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right Handed Pitcher",
-      "classYear": "GR",
-      "handedness": "N/A",
-      "jersey": "37",
-      "hometown": "Severna Park, Md.",
-      "highSchool": "Severna Park (Gaston Community College)",
-      "previousSchool": "Gaston Community College / Louisiana Tech",
-      "hometownHighSchool": "Severna Park, Md. / Severna Park (Gaston Community College)",
-      "profileUrl": "https://bluehens.com/sports/baseball/roster/evan-lewis/30528",
-      "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Evan_qBz3s.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "30528",
-      "sources": [
-        "Delaware Athletics roster",
-        "Delaware cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "30528",
-        "name": "Evan Lewis",
-        "normalizedName": "evan lewis",
-        "jersey": "37",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/evan-lewis/30528",
-        "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Evan_qBz3s.jpg",
-        "gamesPlayed": 8,
-        "gamesStarted": 1,
-        "appearances": 8,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 14.54,
-        "whip": 3.35,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 8.666666666666666,
-        "inningsPitchedDisplay": "8.2",
-        "hitsAllowed": 9,
-        "runsAllowed": 18,
-        "earnedRunsAllowed": 14,
-        "walksAllowed": 20,
-        "strikeouts": 8,
-        "doublesAllowed": 2,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 1,
-        "opponentsAtBats": 33,
-        "wildPitches": 4,
-        "hitBatters": 8,
-        "balks": 0,
-        "opponentsBattingAverage": 0.273,
-        "walksHits": 0
-      },
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 8,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 39.16083916083917,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Evan Lewis gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 14.54",
-          "WHIP 3.35",
-          "K/9 8.3"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "14.54"
-          },
-          {
-            "label": "WHIP",
-            "value": "3.35"
-          },
-          {
-            "label": "K/9",
-            "value": "8.3"
-          },
-          {
-            "label": "BB/9",
-            "value": "20.8"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.04"
-          },
-          {
-            "label": "IP",
-            "value": "8.7"
-          }
-        ],
-        "metaLine": "GR / N/A",
-        "detailBadges": [
-          "RHP",
-          "GR",
-          "N/A",
-          "Pitcher"
-        ],
-        "sourceSummary": "Delaware Athletics roster + Delaware cumulative stats"
       }
     },
     {
@@ -3701,7 +1664,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
       "role": "Hitter",
       "position": "C",
       "positionLong": "Catcher",
-      "classYear": "JR",
+      "classYear": "SR",
       "handedness": "N/A",
       "jersey": "38",
       "hometown": "Cranston, R.I.",
@@ -3768,10 +1731,10 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "JR / N/A",
+        "metaLine": "SR / N/A",
         "detailBadges": [
           "C",
-          "JR",
+          "SR",
           "N/A",
           "Rostered"
         ],
@@ -3789,7 +1752,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Right Handed Pitcher",
-      "classYear": "SO",
+      "classYear": "JR",
       "handedness": "N/A",
       "jersey": "39",
       "hometown": "Northfield, N.J.",
@@ -3856,10 +1819,10 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "SO / N/A",
+        "metaLine": "JR / N/A",
         "detailBadges": [
           "RHP",
-          "SO",
+          "JR",
           "N/A",
           "Pitcher"
         ],
@@ -3867,32 +1830,384 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
       }
     },
     {
-      "id": "delaware-30527",
+      "id": "delaware-32192",
       "schoolSlug": "delaware",
       "school": "Delaware",
       "schoolLongName": "University of Delaware",
-      "name": "Joaquin Rodriguez-Costa",
-      "normalizedName": "joaquin rodriguez costa",
-      "compositeRole": "Rostered",
-      "role": "Hitter",
-      "position": "INF",
-      "positionLong": "Infield",
+      "name": "Zach Bond",
+      "normalizedName": "zach bond",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right Handed Pitcher",
       "classYear": "FR",
       "handedness": "N/A",
-      "jersey": "41",
-      "hometown": "Harbeson, Del.",
-      "highSchool": "Sussex Central",
+      "jersey": "",
+      "hometown": "Mount Kisco, N.Y.",
+      "highSchool": "Horace Greeley",
       "previousSchool": "",
-      "hometownHighSchool": "Harbeson, Del. / Sussex Central",
-      "profileUrl": "https://bluehens.com/sports/baseball/roster/joaquin-rodriguezcosta/30527",
-      "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Joaquin_Rodriguez_5hkTz.jpg",
+      "hometownHighSchool": "Mount Kisco, N.Y. / Horace Greeley",
+      "profileUrl": "https://bluehens.com/sports/baseball/roster/zach-bond/32192",
+      "imageUrl": "https://bluehens.com/images/2018/8/23/200x200_8_AthleticsPrimary.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "30527",
+      "rosterBioId": "32192",
+      "sources": [
+        "Delaware Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Zach Bond looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "Delaware Athletics roster"
+      }
+    },
+    {
+      "id": "delaware-32193",
+      "schoolSlug": "delaware",
+      "school": "Delaware",
+      "schoolLongName": "University of Delaware",
+      "name": "Nate Bott",
+      "normalizedName": "nate bott",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right Handed Pitcher",
+      "classYear": "FR",
+      "handedness": "N/A",
+      "jersey": "",
+      "hometown": "Woolwich, N.J.",
+      "highSchool": "Kingsway",
+      "previousSchool": "",
+      "hometownHighSchool": "Woolwich, N.J. / Kingsway",
+      "profileUrl": "https://bluehens.com/sports/baseball/roster/nate-bott/32193",
+      "imageUrl": "https://bluehens.com/images/2018/8/23/200x200_8_AthleticsPrimary.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "32193",
+      "sources": [
+        "Delaware Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Nate Bott looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "Delaware Athletics roster"
+      }
+    },
+    {
+      "id": "delaware-32194",
+      "schoolSlug": "delaware",
+      "school": "Delaware",
+      "schoolLongName": "University of Delaware",
+      "name": "Tim Dougherty",
+      "normalizedName": "tim dougherty",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "Left Handed Pitcher",
+      "classYear": "FR",
+      "handedness": "N/A",
+      "jersey": "",
+      "hometown": "Medford, N.J.",
+      "highSchool": "Shawnee",
+      "previousSchool": "",
+      "hometownHighSchool": "Medford, N.J. / Shawnee",
+      "profileUrl": "https://bluehens.com/sports/baseball/roster/tim-dougherty/32194",
+      "imageUrl": "https://bluehens.com/images/2018/8/23/200x200_8_AthleticsPrimary.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "32194",
+      "sources": [
+        "Delaware Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Tim Dougherty looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "LHP",
+          "FR",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "Delaware Athletics roster"
+      }
+    },
+    {
+      "id": "delaware-32195",
+      "schoolSlug": "delaware",
+      "school": "Delaware",
+      "schoolLongName": "University of Delaware",
+      "name": "Logan Kriner",
+      "normalizedName": "logan kriner",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right Handed Pitcher",
+      "classYear": "FR",
+      "handedness": "N/A",
+      "jersey": "",
+      "hometown": "Palmyra, Pa.",
+      "highSchool": "Palmyra",
+      "previousSchool": "",
+      "hometownHighSchool": "Palmyra, Pa. / Palmyra",
+      "profileUrl": "https://bluehens.com/sports/baseball/roster/logan-kriner/32195",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "32195",
+      "sources": [
+        "Delaware Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Logan Kriner looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "Delaware Athletics roster"
+      }
+    },
+    {
+      "id": "delaware-32532",
+      "schoolSlug": "delaware",
+      "school": "Delaware",
+      "schoolLongName": "University of Delaware",
+      "name": "Colin Leslie",
+      "normalizedName": "colin leslie",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "C",
+      "positionLong": "Catcher",
+      "classYear": "FR",
+      "handedness": "N/A",
+      "jersey": "",
+      "hometown": "Chicago, Ill.",
+      "highSchool": "Chicago Lab School",
+      "previousSchool": "",
+      "hometownHighSchool": "Chicago, Ill. / Chicago Lab School",
+      "profileUrl": "https://bluehens.com/sports/baseball/roster/colin-leslie/32532",
+      "imageUrl": "https://bluehens.com/images/2018/8/23/200x200_8_AthleticsPrimary.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "32532",
       "sources": [
         "Delaware Athletics roster"
       ],
@@ -3912,7 +2227,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "summary": "Joaquin Rodriguez-Costa gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Colin Leslie gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG --",
           "OBP --",
@@ -3946,7 +2261,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         ],
         "metaLine": "FR / N/A",
         "detailBadges": [
-          "INF",
+          "C",
           "FR",
           "N/A",
           "Rostered"
@@ -3955,257 +2270,69 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
       }
     },
     {
-      "id": "delaware-30243",
+      "id": "delaware-32530",
       "schoolSlug": "delaware",
       "school": "Delaware",
       "schoolLongName": "University of Delaware",
-      "name": "Jake Pollaro",
-      "normalizedName": "jake pollaro",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "Left Handed Pitcher",
+      "name": "Robbie Melo",
+      "normalizedName": "robbie melo",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF/OF",
+      "positionLong": "INF/OF",
       "classYear": "SO",
       "handedness": "N/A",
-      "jersey": "42",
-      "hometown": "Pittsburgh, Pa.",
-      "highSchool": "North Hills",
-      "previousSchool": "",
-      "hometownHighSchool": "Pittsburgh, Pa. / North Hills",
-      "profileUrl": "https://bluehens.com/sports/baseball/roster/jake-pollaro/30243",
-      "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Jake_Pollaro_WmIga.jpg",
+      "jersey": "",
+      "hometown": "Patchogue, N.Y.",
+      "highSchool": "Patchogue Medford",
+      "previousSchool": "Hudson Valley CC",
+      "hometownHighSchool": "Patchogue, N.Y. / Patchogue Medford",
+      "profileUrl": "https://bluehens.com/sports/baseball/roster/robbie-melo/32530",
+      "imageUrl": "https://bluehens.com/images/2018/8/23/200x200_8_AthleticsPrimary.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "30243",
+      "rosterBioId": "32530",
       "sources": [
-        "Delaware Athletics roster",
-        "Delaware cumulative stats"
+        "Delaware Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "30243",
-        "name": "Jake Pollaro",
-        "normalizedName": "jake pollaro",
-        "jersey": "42",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/jake-pollaro/30243",
-        "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Jake_Pollaro_WmIga.jpg",
-        "gamesPlayed": 9,
-        "gamesStarted": 0,
-        "appearances": 9,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 14.63,
-        "whip": 3.63,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 8,
-        "inningsPitchedDisplay": "8.0",
-        "hitsAllowed": 13,
-        "runsAllowed": 13,
-        "earnedRunsAllowed": 13,
-        "walksAllowed": 16,
-        "strikeouts": 9,
-        "doublesAllowed": 4,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 34,
-        "wildPitches": 6,
-        "hitBatters": 2,
-        "balks": 0,
-        "opponentsBattingAverage": 0.382,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "30243",
-        "name": "Jake Pollaro",
-        "normalizedName": "jake pollaro",
-        "jersey": "42",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/jake-pollaro/30243",
-        "imageUrl": "https://bluehens.com/images/2025/9/22/Baseball_headshots_-_cropped_Jake_Pollaro_WmIga.jpg",
-        "gamesPlayed": 3,
-        "gamesStarted": 0,
-        "putouts": 0,
-        "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 0,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 3,
-        "caughtStealingBy": 1,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 0
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 11,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 55.68181818181818,
-          "Command": 0,
-          "Damage suppression": 0
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "summary": "Jake Pollaro looks like a LHP option who misses bats.",
+        "summary": "Robbie Melo gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 14.63",
-          "WHIP 3.63",
-          "K/9 10.1"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "14.63"
-          },
-          {
-            "label": "WHIP",
-            "value": "3.63"
-          },
-          {
-            "label": "K/9",
-            "value": "10.1"
-          },
-          {
-            "label": "BB/9",
-            "value": "18.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "8.0"
-          }
-        ],
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "LHP",
-          "SO",
-          "N/A",
-          "Pitcher"
-        ],
-        "sourceSummary": "Delaware Athletics roster + Delaware cumulative stats"
-      }
-    }
-  ],
-  "playerBoard": {
-    "source": "Delaware Athletics roster + cumulative stats / ESPN roster",
-    "note": "This Delaware-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but Delaware's public ESPN roster feed did not line up cleanly with the current school-site roster.",
-    "totalPlayers": 36,
-    "roleCounts": {
-      "Hitter": 16,
-      "Pitcher": 20
-    },
-    "players": [
-      {
-        "id": "delaware-30511",
-        "name": "Sal Mineo",
-        "school": "Delaware",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "SO",
-        "handedness": "N/A",
-        "score": 57,
-        "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
-        },
-        "summary": "Sal Mineo profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .304",
-          "OBP .410",
-          "SLG .447"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".304"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".410"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".447"
-          },
-          {
-            "label": "HR",
-            "value": "7"
-          },
-          {
-            "label": "RBI",
-            "value": "32"
-          },
-          {
-            "label": "SB",
-            "value": "16"
-          }
-        ],
-        "components": {
-          "On-base": 72.2222222222222,
-          "Power": 33.42105263157895,
-          "Contact": 52.49999999999999,
-          "Discipline": 70.96774193548386,
-          "Speed": 53.333333333333336
-        },
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "OF",
-          "SO",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Delaware Athletics roster",
-          "Delaware cumulative stats"
-        ],
-        "sourceSummary": "Delaware Athletics roster + Delaware cumulative stats",
-        "schoolSlug": "delaware",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/sal-mineo/30511",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "delaware-30512",
-        "name": "Connor Doherty",
-        "school": "Delaware",
-        "role": "Hitter",
-        "position": "OF/INF",
-        "classYear": "FR",
-        "handedness": "N/A",
-        "score": 9,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Connor Doherty gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .182",
-          "OBP .308",
-          "SLG .182"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".182"
-          },
-          {
-            "label": "OBP",
-            "value": ".308"
-          },
-          {
-            "label": "SLG",
-            "value": ".182"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -4213,44 +2340,568 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
           },
           {
             "label": "RBI",
-            "value": "4"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "2"
+            "value": "0"
           }
         ],
-        "components": {
-          "On-base": 15.55555555555554,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 22.22222222222222,
-          "Speed": 6.666666666666667
+        "metaLine": "SO / N/A",
+        "detailBadges": [
+          "INF/OF",
+          "SO",
+          "N/A",
+          "Rostered"
+        ],
+        "sourceSummary": "Delaware Athletics roster"
+      }
+    },
+    {
+      "id": "delaware-32196",
+      "schoolSlug": "delaware",
+      "school": "Delaware",
+      "schoolLongName": "University of Delaware",
+      "name": "Daniel Passalacqua",
+      "normalizedName": "daniel passalacqua",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right Handed Pitcher",
+      "classYear": "FR",
+      "handedness": "N/A",
+      "jersey": "",
+      "hometown": "Cherry Hill, N.J.",
+      "highSchool": "Bishop Eustace Prep",
+      "previousSchool": "",
+      "hometownHighSchool": "Cherry Hill, N.J. / Bishop Eustace Prep",
+      "profileUrl": "https://bluehens.com/sports/baseball/roster/daniel-passalacqua/32196",
+      "imageUrl": "https://bluehens.com/images/2018/8/23/200x200_8_AthleticsPrimary.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "32196",
+      "sources": [
+        "Delaware Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
         },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Daniel Passalacqua looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
         "metaLine": "FR / N/A",
         "detailBadges": [
-          "OF/INF",
+          "RHP",
           "FR",
           "N/A",
-          "Hitter"
+          "Pitcher"
         ],
-        "leaderboards": [
-          "Delaware Athletics roster",
-          "Delaware cumulative stats"
+        "sourceSummary": "Delaware Athletics roster"
+      }
+    },
+    {
+      "id": "delaware-32197",
+      "schoolSlug": "delaware",
+      "school": "Delaware",
+      "schoolLongName": "University of Delaware",
+      "name": "AJ Saccento",
+      "normalizedName": "aj saccento",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "Left Handed Pitcher",
+      "classYear": "FR",
+      "handedness": "N/A",
+      "jersey": "",
+      "hometown": "Scotch Plains, N.J.",
+      "highSchool": "Delbarton School",
+      "previousSchool": "",
+      "hometownHighSchool": "Scotch Plains, N.J. / Delbarton School",
+      "profileUrl": "https://bluehens.com/sports/baseball/roster/aj-saccento/32197",
+      "imageUrl": "https://bluehens.com/images/2018/8/23/200x200_8_AthleticsPrimary.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "32197",
+      "sources": [
+        "Delaware Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "AJ Saccento looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
-        "sourceSummary": "Delaware Athletics roster + Delaware cumulative stats",
-        "schoolSlug": "delaware",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/connor-doherty/30512",
-        "espnAthleteId": ""
-      },
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "LHP",
+          "FR",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "Delaware Athletics roster"
+      }
+    },
+    {
+      "id": "delaware-32531",
+      "schoolSlug": "delaware",
+      "school": "Delaware",
+      "schoolLongName": "University of Delaware",
+      "name": "Anthony Saleeba",
+      "normalizedName": "anthony saleeba",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "C",
+      "positionLong": "Catcher",
+      "classYear": "JR",
+      "handedness": "N/A",
+      "jersey": "",
+      "hometown": "Jacksonville, Fla.",
+      "highSchool": "Bolles",
+      "previousSchool": "Gulf Coast CC",
+      "hometownHighSchool": "Jacksonville, Fla. / Bolles",
+      "profileUrl": "https://bluehens.com/sports/baseball/roster/anthony-saleeba/32531",
+      "imageUrl": "https://bluehens.com/images/2018/8/23/200x200_8_AthleticsPrimary.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "32531",
+      "sources": [
+        "Delaware Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Anthony Saleeba gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "C",
+          "JR",
+          "N/A",
+          "Rostered"
+        ],
+        "sourceSummary": "Delaware Athletics roster"
+      }
+    },
+    {
+      "id": "delaware-32198",
+      "schoolSlug": "delaware",
+      "school": "Delaware",
+      "schoolLongName": "University of Delaware",
+      "name": "Josh Tseronis",
+      "normalizedName": "josh tseronis",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "Outfield",
+      "classYear": "FR",
+      "handedness": "N/A",
+      "jersey": "",
+      "hometown": "Gaithsburg, Md.",
+      "highSchool": "Pro 5 Academy",
+      "previousSchool": "",
+      "hometownHighSchool": "Gaithsburg, Md. / Pro 5 Academy",
+      "profileUrl": "https://bluehens.com/sports/baseball/roster/josh-tseronis/32198",
+      "imageUrl": "https://bluehens.com/images/2018/8/23/200x200_8_AthleticsPrimary.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "32198",
+      "sources": [
+        "Delaware Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Josh Tseronis gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "OF",
+          "FR",
+          "N/A",
+          "Rostered"
+        ],
+        "sourceSummary": "Delaware Athletics roster"
+      }
+    },
+    {
+      "id": "delaware-32199",
+      "schoolSlug": "delaware",
+      "school": "Delaware",
+      "schoolLongName": "University of Delaware",
+      "name": "Aidan Willard",
+      "normalizedName": "aidan willard",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "Outfield",
+      "classYear": "FR",
+      "handedness": "N/A",
+      "jersey": "",
+      "hometown": "Palmyra, Pa.",
+      "highSchool": "Palmyra Area",
+      "previousSchool": "",
+      "hometownHighSchool": "Palmyra, Pa. / Palmyra Area",
+      "profileUrl": "https://bluehens.com/sports/baseball/roster/aidan-willard/32199",
+      "imageUrl": "https://bluehens.com/images/2018/8/23/200x200_8_AthleticsPrimary.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "32199",
+      "sources": [
+        "Delaware Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Aidan Willard gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "OF",
+          "FR",
+          "N/A",
+          "Rostered"
+        ],
+        "sourceSummary": "Delaware Athletics roster"
+      }
+    },
+    {
+      "id": "delaware-32200",
+      "schoolSlug": "delaware",
+      "school": "Delaware",
+      "schoolLongName": "University of Delaware",
+      "name": "Trey Wingard",
+      "normalizedName": "trey wingard",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "C",
+      "positionLong": "Catcher",
+      "classYear": "FR",
+      "handedness": "N/A",
+      "jersey": "",
+      "hometown": "DuBois, Pa.",
+      "highSchool": "DuBois Area",
+      "previousSchool": "",
+      "hometownHighSchool": "DuBois, Pa. / DuBois Area",
+      "profileUrl": "https://bluehens.com/sports/baseball/roster/trey-wingard/32200",
+      "imageUrl": "https://bluehens.com/images/2018/8/23/200x200_8_AthleticsPrimary.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "32200",
+      "sources": [
+        "Delaware Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Trey Wingard gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "C",
+          "FR",
+          "N/A",
+          "Rostered"
+        ],
+        "sourceSummary": "Delaware Athletics roster"
+      }
+    }
+  ],
+  "playerBoard": {
+    "source": "Delaware Athletics roster + cumulative stats / ESPN roster",
+    "note": "This Delaware-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but Delaware's public ESPN roster feed did not line up cleanly with the current school-site roster.",
+    "totalPlayers": 31,
+    "roleCounts": {
+      "Hitter": 10,
+      "Pitcher": 21
+    },
+    "players": [
       {
         "id": "delaware-32058",
         "name": "Matthew Minckler",
         "school": "Delaware",
         "role": "Pitcher",
         "position": "INF/RHP",
-        "classYear": "JR",
+        "classYear": "SR",
         "handedness": "N/A",
         "score": 0,
         "fit": {
@@ -4296,10 +2947,10 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "JR / N/A",
+        "metaLine": "SR / N/A",
         "detailBadges": [
           "INF/RHP",
-          "JR",
+          "SR",
           "N/A",
           "Pitcher"
         ],
@@ -4313,356 +2964,12 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "delaware-30234",
-        "name": "Rory Finn",
-        "school": "Delaware",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SO",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Rory Finn gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "INF",
-          "SO",
-          "N/A",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Delaware Athletics roster"
-        ],
-        "sourceSummary": "Delaware Athletics roster",
-        "schoolSlug": "delaware",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/rory-finn/30234",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "delaware-30513",
-        "name": "Jeremy Wolf",
-        "school": "Delaware",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SR",
-        "handedness": "N/A",
-        "score": 52,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jeremy Wolf profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .301",
-          "OBP .411",
-          "SLG .486"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".301"
-          },
-          {
-            "label": "OBP",
-            "value": ".411"
-          },
-          {
-            "label": "SLG",
-            "value": ".486"
-          },
-          {
-            "label": "HR",
-            "value": "6"
-          },
-          {
-            "label": "RBI",
-            "value": "29"
-          },
-          {
-            "label": "SB",
-            "value": "9"
-          }
-        ],
-        "components": {
-          "On-base": 72.77777777777776,
-          "Power": 43.684210526315795,
-          "Contact": 50.624999999999986,
-          "Discipline": 37.83783783783783,
-          "Speed": 30
-        },
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "INF",
-          "SR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Delaware Athletics roster",
-          "Delaware cumulative stats"
-        ],
-        "sourceSummary": "Delaware Athletics roster + Delaware cumulative stats",
-        "schoolSlug": "delaware",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/jeremy-wolf/30513",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "delaware-30230",
-        "name": "LT Cockrill",
-        "school": "Delaware",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "SR",
-        "handedness": "N/A",
-        "score": 24,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "LT Cockrill gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .229",
-          "OBP .364",
-          "SLG .335"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".229"
-          },
-          {
-            "label": "OBP",
-            "value": ".364"
-          },
-          {
-            "label": "SLG",
-            "value": ".335"
-          },
-          {
-            "label": "HR",
-            "value": "4"
-          },
-          {
-            "label": "RBI",
-            "value": "25"
-          },
-          {
-            "label": "SB",
-            "value": "3"
-          }
-        ],
-        "components": {
-          "On-base": 46.66666666666665,
-          "Power": 3.9473684210526354,
-          "Contact": 5.625000000000005,
-          "Discipline": 44.444444444444436,
-          "Speed": 10
-        },
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "C",
-          "SR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Delaware Athletics roster",
-          "Delaware cumulative stats"
-        ],
-        "sourceSummary": "Delaware Athletics roster + Delaware cumulative stats",
-        "schoolSlug": "delaware",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/lt-cockrill/30230",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "delaware-30226",
-        "name": "Evan Bouldin",
-        "school": "Delaware",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SR",
-        "handedness": "N/A",
-        "score": 71,
-        "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
-        },
-        "summary": "Evan Bouldin profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
-        "summaryMetrics": [
-          "AVG .330",
-          "OBP .424",
-          "SLG .558"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".330"
-          },
-          {
-            "label": "OBP",
-            "value": ".424"
-          },
-          {
-            "label": "SLG",
-            "value": ".558"
-          },
-          {
-            "label": "HR",
-            "value": "10"
-          },
-          {
-            "label": "RBI",
-            "value": "43"
-          },
-          {
-            "label": "SB",
-            "value": "7"
-          }
-        ],
-        "components": {
-          "On-base": 79.99999999999999,
-          "Power": 62.63157894736844,
-          "Contact": 68.75000000000001,
-          "Discipline": 100,
-          "Speed": 23.333333333333332
-        },
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "INF",
-          "SR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Delaware Athletics roster",
-          "Delaware cumulative stats"
-        ],
-        "sourceSummary": "Delaware Athletics roster + Delaware cumulative stats",
-        "schoolSlug": "delaware",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/evan-bouldin/30226",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "delaware-30514",
-        "name": "Anthony Charles",
-        "school": "Delaware",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "SR",
-        "handedness": "N/A",
-        "score": 21,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Anthony Charles profiles as a OF piece who adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .236",
-          "OBP .333",
-          "SLG .285"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".236"
-          },
-          {
-            "label": "OBP",
-            "value": ".333"
-          },
-          {
-            "label": "SLG",
-            "value": ".285"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "13"
-          },
-          {
-            "label": "SB",
-            "value": "8"
-          }
-        ],
-        "components": {
-          "On-base": 29.44444444444444,
-          "Power": 0,
-          "Contact": 9.999999999999991,
-          "Discipline": 48.88888888888888,
-          "Speed": 26.666666666666668
-        },
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "OF",
-          "SR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Delaware Athletics roster",
-          "Delaware cumulative stats"
-        ],
-        "sourceSummary": "Delaware Athletics roster + Delaware cumulative stats",
-        "schoolSlug": "delaware",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/anthony-charles/30514",
-        "espnAthleteId": ""
-      },
-      {
         "id": "delaware-32046",
         "name": "Andrew Callaway",
         "school": "Delaware",
         "role": "Pitcher",
         "position": "LHP",
-        "classYear": "JR",
+        "classYear": "SR",
         "handedness": "N/A",
         "score": 0,
         "fit": {
@@ -4708,10 +3015,10 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "JR / N/A",
+        "metaLine": "SR / N/A",
         "detailBadges": [
           "LHP",
-          "JR",
+          "SR",
           "N/A",
           "Pitcher"
         ],
@@ -4725,81 +3032,12 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "delaware-30236",
-        "name": "Luke Lambert",
-        "school": "Delaware",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "SR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Luke Lambert gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .000",
-          "OBP .176",
-          "SLG .000"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".000"
-          },
-          {
-            "label": "OBP",
-            "value": ".176"
-          },
-          {
-            "label": "SLG",
-            "value": ".000"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "C",
-          "SR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Delaware Athletics roster",
-          "Delaware cumulative stats"
-        ],
-        "sourceSummary": "Delaware Athletics roster + Delaware cumulative stats",
-        "schoolSlug": "delaware",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/luke-lambert/30236",
-        "espnAthleteId": ""
-      },
-      {
         "id": "delaware-32045",
         "name": "Dylan Bryan",
         "school": "Delaware",
         "role": "Pitcher",
         "position": "LHP",
-        "classYear": "JR",
+        "classYear": "SR",
         "handedness": "N/A",
         "score": 0,
         "fit": {
@@ -4845,10 +3083,10 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "JR / N/A",
+        "metaLine": "SR / N/A",
         "detailBadges": [
           "LHP",
-          "JR",
+          "SR",
           "N/A",
           "Pitcher"
         ],
@@ -4867,7 +3105,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "school": "Delaware",
         "role": "Hitter",
         "position": "INF",
-        "classYear": "SO",
+        "classYear": "JR",
         "handedness": "N/A",
         "score": 0,
         "fit": {
@@ -4913,10 +3151,10 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "SO / N/A",
+        "metaLine": "JR / N/A",
         "detailBadges": [
           "INF",
-          "SO",
+          "JR",
           "N/A",
           "Rostered"
         ],
@@ -4935,7 +3173,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "school": "Delaware",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "SO",
+        "classYear": "JR",
         "handedness": "N/A",
         "score": 0,
         "fit": {
@@ -4981,10 +3219,10 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SO / N/A",
+        "metaLine": "JR / N/A",
         "detailBadges": [
           "RHP",
-          "SO",
+          "JR",
           "N/A",
           "Pitcher"
         ],
@@ -4998,81 +3236,12 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "delaware-30232",
-        "name": "Vincent Davis",
-        "school": "Delaware",
-        "role": "Hitter",
-        "position": "INF/OF",
-        "classYear": "JR",
-        "handedness": "N/A",
-        "score": 34,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Vincent Davis gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .271",
-          "OBP .365",
-          "SLG .473"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".271"
-          },
-          {
-            "label": "OBP",
-            "value": ".365"
-          },
-          {
-            "label": "SLG",
-            "value": ".473"
-          },
-          {
-            "label": "HR",
-            "value": "6"
-          },
-          {
-            "label": "RBI",
-            "value": "27"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
-        "components": {
-          "On-base": 47.22222222222221,
-          "Power": 40.26315789473684,
-          "Contact": 31.875000000000007,
-          "Discipline": 18.713450292397653,
-          "Speed": 3.3333333333333335
-        },
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "INF/OF",
-          "JR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Delaware Athletics roster",
-          "Delaware cumulative stats"
-        ],
-        "sourceSummary": "Delaware Athletics roster + Delaware cumulative stats",
-        "schoolSlug": "delaware",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/vincent-davis/30232",
-        "espnAthleteId": ""
-      },
-      {
         "id": "delaware-32055",
         "name": "Jack Maiale",
         "school": "Delaware",
         "role": "Pitcher",
         "position": "RHP/INF",
-        "classYear": "FR",
+        "classYear": "SO",
         "handedness": "N/A",
         "score": 0,
         "fit": {
@@ -5118,10 +3287,10 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "FR / N/A",
+        "metaLine": "SO / N/A",
         "detailBadges": [
           "RHP/INF",
-          "FR",
+          "SO",
           "N/A",
           "Pitcher"
         ],
@@ -5135,150 +3304,12 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "delaware-30519",
-        "name": "Jackson Hulcher",
-        "school": "Delaware",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "N/A",
-        "score": 13,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jackson Hulcher looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 8.03",
-          "WHIP 1.81",
-          "K/9 10.5"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "8.03"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.81"
-          },
-          {
-            "label": "K/9",
-            "value": "10.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "7.5"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.22"
-          },
-          {
-            "label": "IP",
-            "value": "37.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 58.72235872235873,
-          "Command": 7.74193548387097,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Delaware Athletics roster",
-          "Delaware cumulative stats"
-        ],
-        "sourceSummary": "Delaware Athletics roster + Delaware cumulative stats",
-        "schoolSlug": "delaware",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/jackson-hulcher/30519",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "delaware-30238",
-        "name": "Doug Marose",
-        "school": "Delaware",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "GR",
-        "handedness": "N/A",
-        "score": 4,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Doug Marose gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 6.56",
-          "WHIP 1.78",
-          "K/9 5.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "6.56"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.78"
-          },
-          {
-            "label": "K/9",
-            "value": "5.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.7"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.16"
-          },
-          {
-            "label": "IP",
-            "value": "46.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 12.727272727272732,
-          "Command": 9.473684210526315,
-          "Damage suppression": 0
-        },
-        "metaLine": "GR / N/A",
-        "detailBadges": [
-          "RHP",
-          "GR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Delaware Athletics roster",
-          "Delaware cumulative stats"
-        ],
-        "sourceSummary": "Delaware Athletics roster + Delaware cumulative stats",
-        "schoolSlug": "delaware",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/doug-marose/30238",
-        "espnAthleteId": ""
-      },
-      {
         "id": "delaware-32043",
         "name": "Nick Bilotto",
         "school": "Delaware",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "FR",
+        "classYear": "SO",
         "handedness": "N/A",
         "score": 0,
         "fit": {
@@ -5324,10 +3355,10 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "FR / N/A",
+        "metaLine": "SO / N/A",
         "detailBadges": [
           "RHP",
-          "FR",
+          "SO",
           "N/A",
           "Pitcher"
         ],
@@ -5341,218 +3372,12 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "delaware-30520",
-        "name": "Sam Winsett",
-        "school": "Delaware",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SO",
-        "handedness": "N/A",
-        "score": 35,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Sam Winsett gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .296",
-          "OBP .375",
-          "SLG .408"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".296"
-          },
-          {
-            "label": "OBP",
-            "value": ".375"
-          },
-          {
-            "label": "SLG",
-            "value": ".408"
-          },
-          {
-            "label": "HR",
-            "value": "2"
-          },
-          {
-            "label": "RBI",
-            "value": "22"
-          },
-          {
-            "label": "SB",
-            "value": "2"
-          }
-        ],
-        "components": {
-          "On-base": 52.77777777777777,
-          "Power": 23.1578947368421,
-          "Contact": 47.499999999999986,
-          "Discipline": 18.428184281842814,
-          "Speed": 6.666666666666667
-        },
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "INF",
-          "SO",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Delaware Athletics roster",
-          "Delaware cumulative stats"
-        ],
-        "sourceSummary": "Delaware Athletics roster + Delaware cumulative stats",
-        "schoolSlug": "delaware",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/sam-winsett/30520",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "delaware-30521",
-        "name": "Luke Guire",
-        "school": "Delaware",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "FR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Luke Guire gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "FR / N/A",
-        "detailBadges": [
-          "INF",
-          "FR",
-          "N/A",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Delaware Athletics roster"
-        ],
-        "sourceSummary": "Delaware Athletics roster",
-        "schoolSlug": "delaware",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/luke-guire/30521",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "delaware-30510",
-        "name": "Ethan Shaub",
-        "school": "Delaware",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "GR",
-        "handedness": "N/A",
-        "score": 7,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Ethan Shaub gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 11.70",
-          "WHIP 2.70",
-          "K/9 7.2"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "11.70"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.70"
-          },
-          {
-            "label": "K/9",
-            "value": "7.2"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.4"
-          },
-          {
-            "label": "HR/9",
-            "value": "3.60"
-          },
-          {
-            "label": "IP",
-            "value": "10.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 29.090909090909093,
-          "Command": 6.666666666666665,
-          "Damage suppression": 0
-        },
-        "metaLine": "GR / N/A",
-        "detailBadges": [
-          "LHP",
-          "GR",
-          "N/A",
-          "Two-Way"
-        ],
-        "leaderboards": [
-          "Delaware Athletics roster",
-          "Delaware cumulative stats"
-        ],
-        "sourceSummary": "Delaware Athletics roster + Delaware cumulative stats",
-        "schoolSlug": "delaware",
-        "compositeRole": "Two-Way",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/ethan-shaub/30510",
-        "espnAthleteId": ""
-      },
-      {
         "id": "delaware-32049",
         "name": "Elias Conway",
         "school": "Delaware",
         "role": "Pitcher",
         "position": "LHP",
-        "classYear": "JR",
+        "classYear": "SR",
         "handedness": "N/A",
         "score": 0,
         "fit": {
@@ -5598,10 +3423,10 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "JR / N/A",
+        "metaLine": "SR / N/A",
         "detailBadges": [
           "LHP",
-          "JR",
+          "SR",
           "N/A",
           "Pitcher"
         ],
@@ -5619,8 +3444,8 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "name": "Anthony DeCesare",
         "school": "Delaware",
         "role": "Hitter",
-        "position": "C",
-        "classYear": "FR",
+        "position": "C/INF",
+        "classYear": "SO",
         "handedness": "N/A",
         "score": 0,
         "fit": {
@@ -5666,10 +3491,10 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "FR / N/A",
+        "metaLine": "SO / N/A",
         "detailBadges": [
-          "C",
-          "FR",
+          "C/INF",
+          "SO",
           "N/A",
           "Rostered"
         ],
@@ -5688,7 +3513,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "school": "Delaware",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "SR",
+        "classYear": "GR",
         "handedness": "N/A",
         "score": 0,
         "fit": {
@@ -5696,6 +3521,346 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
           "className": "fit-depth"
         },
         "summary": "Tim Hartman looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "GR / N/A",
+        "detailBadges": [
+          "RHP",
+          "GR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Delaware Athletics roster"
+        ],
+        "sourceSummary": "Delaware Athletics roster",
+        "schoolSlug": "delaware",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://bluehens.com/sports/baseball/roster/tim-hartman/32054",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "delaware-32051",
+        "name": "Chase Deibler",
+        "school": "Delaware",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SO",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Chase Deibler looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SO / N/A",
+        "detailBadges": [
+          "RHP",
+          "SO",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Delaware Athletics roster"
+        ],
+        "sourceSummary": "Delaware Athletics roster",
+        "schoolSlug": "delaware",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://bluehens.com/sports/baseball/roster/chase-deibler/32051",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "delaware-32053",
+        "name": "Grant Fournier",
+        "school": "Delaware",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "SO",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Grant Fournier gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "SO / N/A",
+        "detailBadges": [
+          "OF",
+          "SO",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Delaware Athletics roster"
+        ],
+        "sourceSummary": "Delaware Athletics roster",
+        "schoolSlug": "delaware",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://bluehens.com/sports/baseball/roster/grant-fournier/32053",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "delaware-32061",
+        "name": "Matt Reyes",
+        "school": "Delaware",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "GR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Matt Reyes looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "GR / N/A",
+        "detailBadges": [
+          "RHP",
+          "GR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Delaware Athletics roster"
+        ],
+        "sourceSummary": "Delaware Athletics roster",
+        "schoolSlug": "delaware",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://bluehens.com/sports/baseball/roster/matt-reyes/32061",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "delaware-32062",
+        "name": "Jonah Richardson",
+        "school": "Delaware",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jonah Richardson looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Delaware Athletics roster"
+        ],
+        "sourceSummary": "Delaware Athletics roster",
+        "schoolSlug": "delaware",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://bluehens.com/sports/baseball/roster/jonah-richardson/32062",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "delaware-32057",
+        "name": "Ryan McLaughlin",
+        "school": "Delaware",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Ryan McLaughlin looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -5747,12 +3912,284 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "sourceSummary": "Delaware Athletics roster",
         "schoolSlug": "delaware",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/tim-hartman/32054",
+        "profileUrl": "https://bluehens.com/sports/baseball/roster/ryan-mclaughlin/32057",
         "espnAthleteId": ""
       },
       {
-        "id": "delaware-32051",
-        "name": "Chase Deibler",
+        "id": "delaware-32056",
+        "name": "Jake Marchesano",
+        "school": "Delaware",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SO",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jake Marchesano looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SO / N/A",
+        "detailBadges": [
+          "RHP",
+          "SO",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Delaware Athletics roster"
+        ],
+        "sourceSummary": "Delaware Athletics roster",
+        "schoolSlug": "delaware",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://bluehens.com/sports/baseball/roster/jake-marchesano/32056",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "delaware-32059",
+        "name": "Ben Moyzan",
+        "school": "Delaware",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Ben Moyzan looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / N/A",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Delaware Athletics roster"
+        ],
+        "sourceSummary": "Delaware Athletics roster",
+        "schoolSlug": "delaware",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://bluehens.com/sports/baseball/roster/ben-moyzan/32059",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "delaware-32047",
+        "name": "Cole Carbone",
+        "school": "Delaware",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "SR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Cole Carbone gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "SR / N/A",
+        "detailBadges": [
+          "C",
+          "SR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Delaware Athletics roster"
+        ],
+        "sourceSummary": "Delaware Athletics roster",
+        "schoolSlug": "delaware",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://bluehens.com/sports/baseball/roster/cole-carbone/32047",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "delaware-32044",
+        "name": "Brady Blum",
+        "school": "Delaware",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Brady Blum looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Delaware Athletics roster"
+        ],
+        "sourceSummary": "Delaware Athletics roster",
+        "schoolSlug": "delaware",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://bluehens.com/sports/baseball/roster/brady-blum/32044",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "delaware-32192",
+        "name": "Zach Bond",
         "school": "Delaware",
         "role": "Pitcher",
         "position": "RHP",
@@ -5763,7 +4200,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Chase Deibler looks like a RHP option who throws enough strikes.",
+        "summary": "Zach Bond looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -5815,12 +4252,556 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "sourceSummary": "Delaware Athletics roster",
         "schoolSlug": "delaware",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/chase-deibler/32051",
+        "profileUrl": "https://bluehens.com/sports/baseball/roster/zach-bond/32192",
         "espnAthleteId": ""
       },
       {
-        "id": "delaware-32053",
-        "name": "Grant Fournier",
+        "id": "delaware-32193",
+        "name": "Nate Bott",
+        "school": "Delaware",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "FR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Nate Bott looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Delaware Athletics roster"
+        ],
+        "sourceSummary": "Delaware Athletics roster",
+        "schoolSlug": "delaware",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://bluehens.com/sports/baseball/roster/nate-bott/32193",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "delaware-32194",
+        "name": "Tim Dougherty",
+        "school": "Delaware",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "FR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Tim Dougherty looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "LHP",
+          "FR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Delaware Athletics roster"
+        ],
+        "sourceSummary": "Delaware Athletics roster",
+        "schoolSlug": "delaware",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://bluehens.com/sports/baseball/roster/tim-dougherty/32194",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "delaware-32195",
+        "name": "Logan Kriner",
+        "school": "Delaware",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "FR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Logan Kriner looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Delaware Athletics roster"
+        ],
+        "sourceSummary": "Delaware Athletics roster",
+        "schoolSlug": "delaware",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://bluehens.com/sports/baseball/roster/logan-kriner/32195",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "delaware-32532",
+        "name": "Colin Leslie",
+        "school": "Delaware",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "FR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Colin Leslie gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "C",
+          "FR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Delaware Athletics roster"
+        ],
+        "sourceSummary": "Delaware Athletics roster",
+        "schoolSlug": "delaware",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://bluehens.com/sports/baseball/roster/colin-leslie/32532",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "delaware-32530",
+        "name": "Robbie Melo",
+        "school": "Delaware",
+        "role": "Hitter",
+        "position": "INF/OF",
+        "classYear": "SO",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Robbie Melo gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "SO / N/A",
+        "detailBadges": [
+          "INF/OF",
+          "SO",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Delaware Athletics roster"
+        ],
+        "sourceSummary": "Delaware Athletics roster",
+        "schoolSlug": "delaware",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://bluehens.com/sports/baseball/roster/robbie-melo/32530",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "delaware-32196",
+        "name": "Daniel Passalacqua",
+        "school": "Delaware",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "FR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Daniel Passalacqua looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Delaware Athletics roster"
+        ],
+        "sourceSummary": "Delaware Athletics roster",
+        "schoolSlug": "delaware",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://bluehens.com/sports/baseball/roster/daniel-passalacqua/32196",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "delaware-32197",
+        "name": "AJ Saccento",
+        "school": "Delaware",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "FR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "AJ Saccento looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "LHP",
+          "FR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Delaware Athletics roster"
+        ],
+        "sourceSummary": "Delaware Athletics roster",
+        "schoolSlug": "delaware",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://bluehens.com/sports/baseball/roster/aj-saccento/32197",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "delaware-32531",
+        "name": "Anthony Saleeba",
+        "school": "Delaware",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "JR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Anthony Saleeba gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "C",
+          "JR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Delaware Athletics roster"
+        ],
+        "sourceSummary": "Delaware Athletics roster",
+        "schoolSlug": "delaware",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://bluehens.com/sports/baseball/roster/anthony-saleeba/32531",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "delaware-32198",
+        "name": "Josh Tseronis",
         "school": "Delaware",
         "role": "Hitter",
         "position": "OF",
@@ -5831,7 +4812,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Grant Fournier gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Josh Tseronis gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG --",
           "OBP --",
@@ -5883,219 +4864,15 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "sourceSummary": "Delaware Athletics roster",
         "schoolSlug": "delaware",
         "compositeRole": "Rostered",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/grant-fournier/32053",
+        "profileUrl": "https://bluehens.com/sports/baseball/roster/josh-tseronis/32198",
         "espnAthleteId": ""
       },
       {
-        "id": "delaware-32061",
-        "name": "Matt Reyes",
+        "id": "delaware-32199",
+        "name": "Aidan Willard",
         "school": "Delaware",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Matt Reyes looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Delaware Athletics roster"
-        ],
-        "sourceSummary": "Delaware Athletics roster",
-        "schoolSlug": "delaware",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/matt-reyes/32061",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "delaware-32062",
-        "name": "Jonah Richardson",
-        "school": "Delaware",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jonah Richardson looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Delaware Athletics roster"
-        ],
-        "sourceSummary": "Delaware Athletics roster",
-        "schoolSlug": "delaware",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/jonah-richardson/32062",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "delaware-32057",
-        "name": "Ryan McLaughlin",
-        "school": "Delaware",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Ryan McLaughlin looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Delaware Athletics roster"
-        ],
-        "sourceSummary": "Delaware Athletics roster",
-        "schoolSlug": "delaware",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/ryan-mclaughlin/32057",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "delaware-32056",
-        "name": "Jake Marchesano",
-        "school": "Delaware",
-        "role": "Pitcher",
-        "position": "RHP",
+        "role": "Hitter",
+        "position": "OF",
         "classYear": "FR",
         "handedness": "N/A",
         "score": 0,
@@ -6103,340 +4880,67 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Jake Marchesano looks like a RHP option who throws enough strikes.",
+        "summary": "Aidan Willard gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
-            "label": "ERA",
+            "label": "AVG",
             "value": "--"
           },
           {
-            "label": "WHIP",
+            "label": "OBP",
             "value": "--"
           },
           {
-            "label": "K/9",
-            "value": "0.0"
+            "label": "SLG",
+            "value": "--"
           },
           {
-            "label": "BB/9",
-            "value": "0.0"
+            "label": "HR",
+            "value": "0"
           },
           {
-            "label": "HR/9",
-            "value": "0.00"
+            "label": "RBI",
+            "value": "0"
           },
           {
-            "label": "IP",
-            "value": "0.0"
+            "label": "SB",
+            "value": "0"
           }
         ],
         "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
         "metaLine": "FR / N/A",
         "detailBadges": [
-          "RHP",
+          "OF",
           "FR",
           "N/A",
-          "Pitcher"
+          "Rostered"
         ],
         "leaderboards": [
           "Delaware Athletics roster"
         ],
         "sourceSummary": "Delaware Athletics roster",
         "schoolSlug": "delaware",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/jake-marchesano/32056",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://bluehens.com/sports/baseball/roster/aidan-willard/32199",
         "espnAthleteId": ""
       },
       {
-        "id": "delaware-32059",
-        "name": "Ben Moyzan",
-        "school": "Delaware",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Ben Moyzan looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Delaware Athletics roster"
-        ],
-        "sourceSummary": "Delaware Athletics roster",
-        "schoolSlug": "delaware",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/ben-moyzan/32059",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "delaware-30528",
-        "name": "Evan Lewis",
-        "school": "Delaware",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "GR",
-        "handedness": "N/A",
-        "score": 8,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Evan Lewis gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 14.54",
-          "WHIP 3.35",
-          "K/9 8.3"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "14.54"
-          },
-          {
-            "label": "WHIP",
-            "value": "3.35"
-          },
-          {
-            "label": "K/9",
-            "value": "8.3"
-          },
-          {
-            "label": "BB/9",
-            "value": "20.8"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.04"
-          },
-          {
-            "label": "IP",
-            "value": "8.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 39.16083916083917,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "GR / N/A",
-        "detailBadges": [
-          "RHP",
-          "GR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Delaware Athletics roster",
-          "Delaware cumulative stats"
-        ],
-        "sourceSummary": "Delaware Athletics roster + Delaware cumulative stats",
-        "schoolSlug": "delaware",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/evan-lewis/30528",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "delaware-32047",
-        "name": "Cole Carbone",
+        "id": "delaware-32200",
+        "name": "Trey Wingard",
         "school": "Delaware",
         "role": "Hitter",
         "position": "C",
-        "classYear": "JR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Cole Carbone gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "C",
-          "JR",
-          "N/A",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Delaware Athletics roster"
-        ],
-        "sourceSummary": "Delaware Athletics roster",
-        "schoolSlug": "delaware",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/cole-carbone/32047",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "delaware-32044",
-        "name": "Brady Blum",
-        "school": "Delaware",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Brady Blum looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Delaware Athletics roster"
-        ],
-        "sourceSummary": "Delaware Athletics roster",
-        "schoolSlug": "delaware",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/brady-blum/32044",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "delaware-30527",
-        "name": "Joaquin Rodriguez-Costa",
-        "school": "Delaware",
-        "role": "Hitter",
-        "position": "INF",
         "classYear": "FR",
         "handedness": "N/A",
         "score": 0,
@@ -6444,7 +4948,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Joaquin Rodriguez-Costa gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Trey Wingard gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG --",
           "OBP --",
@@ -6485,7 +4989,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         },
         "metaLine": "FR / N/A",
         "detailBadges": [
-          "INF",
+          "C",
           "FR",
           "N/A",
           "Rostered"
@@ -6496,76 +5000,7 @@ window.__BASEBALL_DATASETS__.delaware2026 = {
         "sourceSummary": "Delaware Athletics roster",
         "schoolSlug": "delaware",
         "compositeRole": "Rostered",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/joaquin-rodriguezcosta/30527",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "delaware-30243",
-        "name": "Jake Pollaro",
-        "school": "Delaware",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "SO",
-        "handedness": "N/A",
-        "score": 11,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jake Pollaro looks like a LHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 14.63",
-          "WHIP 3.63",
-          "K/9 10.1"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "14.63"
-          },
-          {
-            "label": "WHIP",
-            "value": "3.63"
-          },
-          {
-            "label": "K/9",
-            "value": "10.1"
-          },
-          {
-            "label": "BB/9",
-            "value": "18.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "8.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 55.68181818181818,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "LHP",
-          "SO",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Delaware Athletics roster",
-          "Delaware cumulative stats"
-        ],
-        "sourceSummary": "Delaware Athletics roster + Delaware cumulative stats",
-        "schoolSlug": "delaware",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bluehens.com/sports/baseball/roster/jake-pollaro/30243",
+        "profileUrl": "https://bluehens.com/sports/baseball/roster/trey-wingard/32200",
         "espnAthleteId": ""
       }
     ]

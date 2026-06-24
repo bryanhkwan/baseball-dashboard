@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.louisville2026 = {
-  "generatedAt": "2026-06-22T12:22:18.754Z",
+  "generatedAt": "2026-06-24T11:17:40.057Z",
   "season": 2026,
   "school": {
     "slug": "louisville",

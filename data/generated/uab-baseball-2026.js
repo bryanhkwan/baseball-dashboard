@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.uab2026 = {
-  "generatedAt": "2026-06-22T12:22:49.716Z",
+  "generatedAt": "2026-06-24T11:18:08.542Z",
   "season": 2026,
   "school": {
     "slug": "uab",
@@ -3965,9 +3965,9 @@ window.__BASEBALL_DATASETS__.uab2026 = {
       "handedness": "N/A",
       "jersey": "34",
       "hometown": "Alexandria, La.",
-      "highSchool": "Holy Savior Menard",
+      "highSchool": "Holy Savior Menard Central",
       "previousSchool": "Meridian CC",
-      "hometownHighSchool": "Alexandria, La. / Holy Savior Menard",
+      "hometownHighSchool": "Alexandria, La. / Holy Savior Menard Central",
       "profileUrl": "https://uabsports.com/sports/baseball/roster/andrew-prejean/11516",
       "imageUrl": "https://uabsports.com/images/2026/1/16/Andrew_Prejean_3KCs3.jpg",
       "espnAthleteId": "",
