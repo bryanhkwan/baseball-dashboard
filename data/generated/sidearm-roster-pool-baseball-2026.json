@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-06-24T11:18:22.252Z",
+  "generatedAt": "2026-06-25T11:12:22.968Z",
   "season": 2026,
   "source": "Generated Sidearm baseball roster pool",
   "note": "This compact roster-only pool captures public school-site baseball rosters so non-appearing players can still enter coverage before they log a reachable NCAA boxscore.",
-  "schoolCount": 69,
+  "schoolCount": 68,
   "schools": [
     {
       "slug": "abilene-christian",
@@ -380,7 +380,7 @@
       "slug": "st-thomas-mn",
       "name": "St. Thomas (MN)",
       "longName": "University of St. Thomas (Minn.)",
-      "rosterPlayers": 41,
+      "rosterPlayers": 35,
       "rosterUrl": "https://tommiesports.com/sports/baseball/roster"
     },
     {
@@ -403,13 +403,6 @@
       "longName": "University of Tennessee",
       "rosterPlayers": 39,
       "rosterUrl": "https://utsports.com/sports/baseball/roster"
-    },
-    {
-      "slug": "texas-am",
-      "name": "Texas A&M",
-      "longName": "Texas A&M University",
-      "rosterPlayers": 35,
-      "rosterUrl": "https://12thman.com/sports/baseball/roster"
     },
     {
       "slug": "texas-tech",
@@ -491,12 +484,12 @@
   ],
   "coverage": {
     "schoolsRequested": 73,
-    "schoolsLoaded": 69,
-    "schoolsFailed": 4,
-    "totalPlayers": 2551,
+    "schoolsLoaded": 68,
+    "schoolsFailed": 5,
+    "totalPlayers": 2510,
     "roleCounts": {
-      "Hitter": 1268,
-      "Pitcher": 1283
+      "Hitter": 1245,
+      "Pitcher": 1265
     },
     "failures": [
       {
@@ -518,6 +511,11 @@
         "schoolSlug": "texas",
         "schoolName": "Texas",
         "message": "No roster players were found on Texas's public roster page."
+      },
+      {
+        "schoolSlug": "texas-am",
+        "schoolName": "Texas A&M",
+        "message": "No roster players were found on Texas A&M's public roster page."
       }
     ]
   },
@@ -12507,7 +12505,7 @@
       "https://ecupirates.com/sports/baseball/roster/carlos-jacome/14128"
     ],
     [
-      "east-carolina-14129",
+      "east-carolina-14543",
       "east-carolina",
       "Jack Strom",
       "Hitter",
@@ -12518,10 +12516,10 @@
       "Raleigh",
       "Millbrook",
       "",
-      "https://ecupirates.com/sports/baseball/roster/jack-strom/14129"
+      "https://ecupirates.com/sports/baseball/roster/jack-strom/14543"
     ],
     [
-      "east-carolina-13920",
+      "east-carolina-14550",
       "east-carolina",
       "Davin Whitaker",
       "Hitter",
@@ -12532,10 +12530,10 @@
       "Mocksville",
       "Davie County",
       "",
-      "https://ecupirates.com/sports/baseball/roster/davin-whitaker/13920"
+      "https://ecupirates.com/sports/baseball/roster/davin-whitaker/14550"
     ],
     [
-      "east-carolina-13915",
+      "east-carolina-14538",
       "east-carolina",
       "Nick Parham",
       "Hitter",
@@ -12546,10 +12544,10 @@
       "Asheville",
       "T.C. Roberson",
       "",
-      "https://ecupirates.com/sports/baseball/roster/nick-parham/13915"
+      "https://ecupirates.com/sports/baseball/roster/nick-parham/14538"
     ],
     [
-      "east-carolina-13899",
+      "east-carolina-14531",
       "east-carolina",
       "Gabe Beschloss",
       "Pitcher",
@@ -12560,7 +12558,7 @@
       "Garden City, N.Y.",
       "Garden City",
       "",
-      "https://ecupirates.com/sports/baseball/roster/gabe-beschloss/13899"
+      "https://ecupirates.com/sports/baseball/roster/gabe-beschloss/14531"
     ],
     [
       "east-carolina-13913",
@@ -12577,7 +12575,7 @@
       "https://ecupirates.com/sports/baseball/roster/dawson-neal/13913"
     ],
     [
-      "east-carolina-13917",
+      "east-carolina-14544",
       "east-carolina",
       "Ryan Towers",
       "Pitcher",
@@ -12588,7 +12586,7 @@
       "Henderson, Nev.",
       "Liberty",
       "Loyola Marymount",
-      "https://ecupirates.com/sports/baseball/roster/ryan-towers/13917"
+      "https://ecupirates.com/sports/baseball/roster/ryan-towers/14544"
     ],
     [
       "east-carolina-13900",
@@ -12605,7 +12603,7 @@
       "https://ecupirates.com/sports/baseball/roster/alex-bouche/13900"
     ],
     [
-      "east-carolina-13897",
+      "east-carolina-14527",
       "east-carolina",
       "Brett Antolick",
       "Pitcher",
@@ -12616,10 +12614,10 @@
       "Conyngham, Pa.",
       "Hazelton Area",
       "Texas A&M",
-      "https://ecupirates.com/sports/baseball/roster/brett-antolick/13897"
+      "https://ecupirates.com/sports/baseball/roster/brett-antolick/14527"
     ],
     [
-      "east-carolina-13919",
+      "east-carolina-14548",
       "east-carolina",
       "Colby Wallace",
       "Hitter",
@@ -12630,10 +12628,10 @@
       "Biscoe",
       "Pinecrest",
       "",
-      "https://ecupirates.com/sports/baseball/roster/colby-wallace/13919"
+      "https://ecupirates.com/sports/baseball/roster/colby-wallace/14548"
     ],
     [
-      "east-carolina-13916",
+      "east-carolina-14541",
       "east-carolina",
       "Alex Peltier",
       "Hitter",
@@ -12644,10 +12642,10 @@
       "Haymarket, Va.",
       "Paul VI",
       "",
-      "https://ecupirates.com/sports/baseball/roster/alex-peltier/13916"
+      "https://ecupirates.com/sports/baseball/roster/alex-peltier/14541"
     ],
     [
-      "east-carolina-14130",
+      "east-carolina-14536",
       "east-carolina",
       "Grady Lenahan",
       "Hitter",
@@ -12658,7 +12656,7 @@
       "Bristow, Va.",
       "Pro5 Academy",
       "",
-      "https://ecupirates.com/sports/baseball/roster/grady-lenahan/14130"
+      "https://ecupirates.com/sports/baseball/roster/grady-lenahan/14536"
     ],
     [
       "east-carolina-13909",
@@ -12703,7 +12701,7 @@
       "https://ecupirates.com/sports/baseball/roster/parker-byrd/13902"
     ],
     [
-      "east-carolina-13914",
+      "east-carolina-14537",
       "east-carolina",
       "Ethan Norby",
       "Pitcher",
@@ -12714,7 +12712,7 @@
       "Kernersville",
       "East Forsyth",
       "",
-      "https://ecupirates.com/sports/baseball/roster/ethan-norby/13914"
+      "https://ecupirates.com/sports/baseball/roster/ethan-norby/14537"
     ],
     [
       "east-carolina-13903",
@@ -12759,7 +12757,7 @@
       "https://ecupirates.com/sports/baseball/roster/austin-irby/13906"
     ],
     [
-      "east-carolina-13898",
+      "east-carolina-14529",
       "east-carolina",
       "Walker Barron",
       "Hitter",
@@ -12770,10 +12768,10 @@
       "Atlanta, Ga.",
       "IMG Academy",
       "",
-      "https://ecupirates.com/sports/baseball/roster/walker-barron/13898"
+      "https://ecupirates.com/sports/baseball/roster/walker-barron/14529"
     ],
     [
-      "east-carolina-13918",
+      "east-carolina-14545",
       "east-carolina",
       "Braxton Tramel",
       "Hitter",
@@ -12784,10 +12782,10 @@
       "Hickory",
       "Fred T Foard",
       "",
-      "https://ecupirates.com/sports/baseball/roster/braxton-tramel/13918"
+      "https://ecupirates.com/sports/baseball/roster/braxton-tramel/14545"
     ],
     [
-      "east-carolina-13901",
+      "east-carolina-14532",
       "east-carolina",
       "Braden Burress",
       "Hitter",
@@ -12798,7 +12796,7 @@
       "Snow Hill",
       "Greene Central",
       "",
-      "https://ecupirates.com/sports/baseball/roster/braden-burress/13901"
+      "https://ecupirates.com/sports/baseball/roster/braden-burress/14532"
     ],
     [
       "east-carolina-13912",
@@ -12829,7 +12827,7 @@
       "https://ecupirates.com/sports/baseball/roster/blade-carver/14133"
     ],
     [
-      "east-carolina-14134",
+      "east-carolina-14528",
       "east-carolina",
       "Brayden Bachman",
       "Hitter",
@@ -12840,10 +12838,10 @@
       "Chesapeake, Va.",
       "Hickory",
       "",
-      "https://ecupirates.com/sports/baseball/roster/brayden-bachman/14134"
+      "https://ecupirates.com/sports/baseball/roster/brayden-bachman/14528"
     ],
     [
-      "east-carolina-14135",
+      "east-carolina-14547",
       "east-carolina",
       "Jack Vogele",
       "Hitter",
@@ -12854,7 +12852,7 @@
       "Cincinnati, Ohio",
       "Cincinnati Hills Christian Academy",
       "Walters State CC",
-      "https://ecupirates.com/sports/baseball/roster/jack-vogele/14135"
+      "https://ecupirates.com/sports/baseball/roster/jack-vogele/14547"
     ],
     [
       "east-carolina-14136",
@@ -12885,7 +12883,7 @@
       "https://ecupirates.com/sports/baseball/roster/nathan-wines/14137"
     ],
     [
-      "east-carolina-14138",
+      "east-carolina-14546",
       "east-carolina",
       "Gavin Van Kempen",
       "Pitcher",
@@ -12896,10 +12894,10 @@
       "Castleton, N.Y.",
       "Maple Hill",
       "West Virginia",
-      "https://ecupirates.com/sports/baseball/roster/gavin-van-kempen/14138"
+      "https://ecupirates.com/sports/baseball/roster/gavin-van-kempen/14546"
     ],
     [
-      "east-carolina-14139",
+      "east-carolina-14542",
       "east-carolina",
       "Ethan Rose",
       "Pitcher",
@@ -12910,10 +12908,10 @@
       "Bridgeville, Pa.",
       "South Fayette",
       "",
-      "https://ecupirates.com/sports/baseball/roster/ethan-rose/14139"
+      "https://ecupirates.com/sports/baseball/roster/ethan-rose/14542"
     ],
     [
-      "east-carolina-14140",
+      "east-carolina-14540",
       "east-carolina",
       "Luke Payne",
       "Pitcher",
@@ -12924,10 +12922,10 @@
       "Gallatin, Tenn.",
       "Goodpasture Christian",
       "Tennessee",
-      "https://ecupirates.com/sports/baseball/roster/luke-payne/14140"
+      "https://ecupirates.com/sports/baseball/roster/luke-payne/14540"
     ],
     [
-      "east-carolina-14141",
+      "east-carolina-14549",
       "east-carolina",
       "Colby Weber",
       "Pitcher",
@@ -12938,7 +12936,7 @@
       "Allison Park, Pa.",
       "Shaler Area",
       "",
-      "https://ecupirates.com/sports/baseball/roster/colby-weber/14141"
+      "https://ecupirates.com/sports/baseball/roster/colby-weber/14549"
     ],
     [
       "east-carolina-14142",
@@ -12955,7 +12953,7 @@
       "https://ecupirates.com/sports/baseball/roster/luke-craddock/14142"
     ],
     [
-      "east-carolina-13908",
+      "east-carolina-14535",
       "east-carolina",
       "Sean Jenkins",
       "Pitcher",
@@ -12966,10 +12964,10 @@
       "Hickory",
       "Fred T Foard",
       "",
-      "https://ecupirates.com/sports/baseball/roster/sean-jenkins/13908"
+      "https://ecupirates.com/sports/baseball/roster/sean-jenkins/14535"
     ],
     [
-      "east-carolina-14143",
+      "east-carolina-14534",
       "east-carolina",
       "Charlie Hoagland",
       "Pitcher",
@@ -12980,7 +12978,7 @@
       "Dayton, Ohio",
       "Chaminade Julienne Catholic",
       "",
-      "https://ecupirates.com/sports/baseball/roster/charlie-hoagland/14143"
+      "https://ecupirates.com/sports/baseball/roster/charlie-hoagland/14534"
     ],
     [
       "east-carolina-13905",
@@ -12997,7 +12995,7 @@
       "https://ecupirates.com/sports/baseball/roster/jack-herring/13905"
     ],
     [
-      "east-carolina-14144",
+      "east-carolina-14539",
       "east-carolina",
       "Thomas Paxton",
       "Pitcher",
@@ -13008,10 +13006,10 @@
       "Waxhaw",
       "Cuthberson",
       "Belmont Abbey",
-      "https://ecupirates.com/sports/baseball/roster/thomas-paxton/14144"
+      "https://ecupirates.com/sports/baseball/roster/thomas-paxton/14539"
     ],
     [
-      "east-carolina-13904",
+      "east-carolina-14533",
       "east-carolina",
       "Chance Hall",
       "Hitter",
@@ -13022,10 +13020,10 @@
       "North Myrtle Beach, S.C.",
       "North Myrtle Beach",
       "",
-      "https://ecupirates.com/sports/baseball/roster/chance-hall/13904"
+      "https://ecupirates.com/sports/baseball/roster/chance-hall/14533"
     ],
     [
-      "east-carolina-14145",
+      "east-carolina-14530",
       "east-carolina",
       "Brett Beasley",
       "Hitter",
@@ -13036,7 +13034,7 @@
       "Virginia Beach, Va.",
       "Atlantic Shores Christian",
       "",
-      "https://ecupirates.com/sports/baseball/roster/brett-beasley/14145"
+      "https://ecupirates.com/sports/baseball/roster/brett-beasley/14530"
     ],
     [
       "east-carolina-14146",
@@ -29629,20 +29627,6 @@
       "https://tommiesports.com/sports/baseball/roster/sean-marlow/11579"
     ],
     [
-      "st-thomas-mn-11588",
-      "st-thomas-mn",
-      "Tanner Recchio",
-      "Hitter",
-      "INF",
-      "JR",
-      "L/R",
-      "2",
-      "Lakeville, Minn.",
-      "Lakeville North",
-      "",
-      "https://tommiesports.com/sports/baseball/roster/tanner-recchio/11588"
-    ],
-    [
       "st-thomas-mn-11592",
       "st-thomas-mn",
       "Zan Von Schlegell",
@@ -29671,20 +29655,6 @@
       "https://tommiesports.com/sports/baseball/roster/easton-fritcher/11575"
     ],
     [
-      "st-thomas-mn-11608",
-      "st-thomas-mn",
-      "Terek Verhage",
-      "Hitter",
-      "C",
-      "FR",
-      "L/R",
-      "5",
-      "Madison, Wis.",
-      "Mnona Grove",
-      "",
-      "https://tommiesports.com/sports/baseball/roster/terek-verhage/11608"
-    ],
-    [
       "st-thomas-mn-11609",
       "st-thomas-mn",
       "Nolan Welke",
@@ -29711,20 +29681,6 @@
       "St. Michael-Albertville",
       "",
       "https://tommiesports.com/sports/baseball/roster/matthew-maulik/11580"
-    ],
-    [
-      "st-thomas-mn-11600",
-      "st-thomas-mn",
-      "Owen Marsolek",
-      "Pitcher",
-      "LHP",
-      "FR",
-      "L/L",
-      "8",
-      "Duluth, Minn.",
-      "Duluth Marshall",
-      "",
-      "https://tommiesports.com/sports/baseball/roster/owen-marsolek/11600"
     ],
     [
       "st-thomas-mn-11587",
@@ -29979,20 +29935,6 @@
       "https://tommiesports.com/sports/baseball/roster/chris-petersen/11585"
     ],
     [
-      "st-thomas-mn-11612",
-      "st-thomas-mn",
-      "Nick Brauhn",
-      "Hitter",
-      "INF",
-      "FR",
-      "R/R",
-      "31",
-      "Sussex, Wis.",
-      "Hamilton",
-      "",
-      "https://tommiesports.com/sports/baseball/roster/nick-brauhn/11612"
-    ],
-    [
       "st-thomas-mn-11574",
       "st-thomas-mn",
       "Ezra Formaneck",
@@ -30091,20 +30033,6 @@
       "https://tommiesports.com/sports/baseball/roster/max-nelson/11601"
     ],
     [
-      "st-thomas-mn-11603",
-      "st-thomas-mn",
-      "William Pierro",
-      "Pitcher",
-      "RHP",
-      "FR",
-      "R/R",
-      "41",
-      "Dubuque, Iowa",
-      "Wahlert",
-      "",
-      "https://tommiesports.com/sports/baseball/roster/william-pierro/11603"
-    ],
-    [
       "st-thomas-mn-11586",
       "st-thomas-mn",
       "Nolan Phillips",
@@ -30117,20 +30045,6 @@
       "Palmer Ridge",
       "",
       "https://tommiesports.com/sports/baseball/roster/nolan-phillips/11586"
-    ],
-    [
-      "st-thomas-mn-11571",
-      "st-thomas-mn",
-      "Owen Bond",
-      "Hitter",
-      "OF",
-      "JR",
-      "L/L",
-      "45",
-      "Pewaukee, Wis.",
-      "Kettle-Moraine",
-      "",
-      "https://tommiesports.com/sports/baseball/roster/owen-bond/11571"
     ],
     [
       "st-thomas-mn-11577",
@@ -31307,496 +31221,6 @@
       "Lassiter HS",
       "",
       "https://utsports.com/sports/baseball/roster/dj-mcdowell/22713"
-    ],
-    [
-      "texas-am-14967",
-      "texas-am",
-      "Sawyer Farr",
-      "Hitter",
-      "INF",
-      "SO",
-      "S/R",
-      "0",
-      "Fort Worth, Texas",
-      "Boswell",
-      "",
-      "https://12thman.com/sports/baseball/roster/sawyer-farr/14967"
-    ],
-    [
-      "texas-am-14977",
-      "texas-am",
-      "Terrence Kiel II",
-      "Hitter",
-      "OF",
-      "SO",
-      "R/R",
-      "1",
-      "Atlanta, Ga.",
-      "Pace Academy",
-      "",
-      "https://12thman.com/sports/baseball/roster/terrence-kiel-ii/14977"
-    ],
-    [
-      "texas-am-15268",
-      "texas-am",
-      "Nico Partida",
-      "Hitter",
-      "INF/RHP",
-      "FR",
-      "R/R",
-      "2",
-      "Manvel, Texas",
-      "Pearland",
-      "",
-      "https://12thman.com/sports/baseball/roster/nico-partida/15268"
-    ],
-    [
-      "texas-am-15261",
-      "texas-am",
-      "Jake Duer",
-      "Hitter",
-      "OF",
-      "SR",
-      "L/L",
-      "3",
-      "Flower Mound, Texas",
-      "Marcus",
-      "Florida Atlantic",
-      "https://12thman.com/sports/baseball/roster/jake-duer/15261"
-    ],
-    [
-      "texas-am-15274",
-      "texas-am",
-      "Travis Chestnut",
-      "Hitter",
-      "OF/INF",
-      "GR",
-      "R/R",
-      "4",
-      "Pflugerville, Texas",
-      "Pflugerville",
-      "St. Edwards",
-      "https://12thman.com/sports/baseball/roster/travis-chestnut/15274"
-    ],
-    [
-      "texas-am-15265",
-      "texas-am",
-      "Boston Kellner",
-      "Hitter",
-      "INF",
-      "FR",
-      "R/R",
-      "6",
-      "Chandler, Ariz.",
-      "Hamilton",
-      "",
-      "https://12thman.com/sports/baseball/roster/boston-kellner/15265"
-    ],
-    [
-      "texas-am-15263",
-      "texas-am",
-      "Chris Hacopian",
-      "Hitter",
-      "INF",
-      "JR",
-      "R/R",
-      "8",
-      "Potomac, Md.",
-      "Winston Churchill",
-      "Maryland",
-      "https://12thman.com/sports/baseball/roster/chris-hacopian/15263"
-    ],
-    [
-      "texas-am-14971",
-      "texas-am",
-      "Gavin Grahovac",
-      "Hitter",
-      "INF",
-      "JR",
-      "R/R",
-      "9",
-      "Orange, Calif.",
-      "Villa Park",
-      "",
-      "https://12thman.com/sports/baseball/roster/gavin-grahovac/14971"
-    ],
-    [
-      "texas-am-14987",
-      "texas-am",
-      "Ben Royo",
-      "Hitter",
-      "INF",
-      "SR",
-      "R/R",
-      "10",
-      "Corpus Christi, Texas",
-      "Veterans",
-      "Rice",
-      "https://12thman.com/sports/baseball/roster/ben-royo/14987"
-    ],
-    [
-      "texas-am-14992",
-      "texas-am",
-      "Josh Stewart",
-      "Pitcher",
-      "RHP",
-      "GR",
-      "R/R",
-      "12",
-      "Georgetown, Texas",
-      "St. Dominic Savio Catholic",
-      "Texas",
-      "https://12thman.com/sports/baseball/roster/josh-stewart/14992"
-    ],
-    [
-      "texas-am-14991",
-      "texas-am",
-      "Caden Sorrell",
-      "Hitter",
-      "OF",
-      "JR",
-      "L/L",
-      "13",
-      "Highland Village, Texas",
-      "Marcus",
-      "",
-      "https://12thman.com/sports/baseball/roster/caden-sorrell/14991"
-    ],
-    [
-      "texas-am-15257",
-      "texas-am",
-      "Luke Billings",
-      "Hitter",
-      "OF/RHP",
-      "FR",
-      "R/R",
-      "14",
-      "Prosper, Texas",
-      "Prosper",
-      "",
-      "https://12thman.com/sports/baseball/roster/luke-billings/15257"
-    ],
-    [
-      "texas-am-15270",
-      "texas-am",
-      "David Ramirez",
-      "Pitcher",
-      "LHP",
-      "FR",
-      "L/L",
-      "15",
-      "Kemah, Texas",
-      "Clear Falls",
-      "",
-      "https://12thman.com/sports/baseball/roster/david-ramirez/15270"
-    ],
-    [
-      "texas-am-14972",
-      "texas-am",
-      "Bear Harrison",
-      "Hitter",
-      "C",
-      "JR",
-      "R/R",
-      "16",
-      "Danville, Calif.",
-      "De La Salle",
-      "Saint Mary's",
-      "https://12thman.com/sports/baseball/roster/bear-harrison/14972"
-    ],
-    [
-      "texas-am-15256",
-      "texas-am",
-      "Zane Becker",
-      "Hitter",
-      "C",
-      "SO",
-      "R/R",
-      "17",
-      "Flower Mound, Texas",
-      "Flower Mound",
-      "Arkansas",
-      "https://12thman.com/sports/baseball/roster/zane-becker/15256"
-    ],
-    [
-      "texas-am-15266",
-      "texas-am",
-      "Wesley Jordan",
-      "Hitter",
-      "OF/INF",
-      "SR",
-      "R/R",
-      "18",
-      "Highland Village, Texas",
-      "Marcus",
-      "Baylor",
-      "https://12thman.com/sports/baseball/roster/wesley-jordan/15266"
-    ],
-    [
-      "texas-am-15271",
-      "texas-am",
-      "Juan Vargas",
-      "Pitcher",
-      "RHP",
-      "JR",
-      "R/R",
-      "19",
-      "Panama City, Panama",
-      "North Cobb Christian",
-      "Tennessee Tech",
-      "https://12thman.com/sports/baseball/roster/juan-vargas/15271"
-    ],
-    [
-      "texas-am-14989",
-      "texas-am",
-      "Aiden Sims",
-      "Pitcher",
-      "RHP",
-      "SO",
-      "L/R",
-      "20",
-      "Forney, Texas",
-      "Forney",
-      "",
-      "https://12thman.com/sports/baseball/roster/aiden-sims/14989"
-    ],
-    [
-      "texas-am-14985",
-      "texas-am",
-      "Weston Moss",
-      "Pitcher",
-      "RHP",
-      "JR",
-      "R/R",
-      "21",
-      "Spring, Texas",
-      "Lake Creek",
-      "",
-      "https://12thman.com/sports/baseball/roster/weston-moss/14985"
-    ],
-    [
-      "texas-am-15273",
-      "texas-am",
-      "Jorian Wilson",
-      "Hitter",
-      "OF",
-      "FR",
-      "L/R",
-      "23",
-      "Hallettsville, Texas",
-      "Hallettsville",
-      "",
-      "https://12thman.com/sports/baseball/roster/jorian-wilson/15273"
-    ],
-    [
-      "texas-am-14968",
-      "texas-am",
-      "Clayton Freshcorn",
-      "Pitcher",
-      "RHP",
-      "JR",
-      "R/R",
-      "25",
-      "Waller, Texas",
-      "Waller",
-      "McLennan College",
-      "https://12thman.com/sports/baseball/roster/clayton-freshcorn/14968"
-    ],
-    [
-      "texas-am-14982",
-      "texas-am",
-      "Gavin Lyons",
-      "Pitcher",
-      "RHP",
-      "SO",
-      "R/R",
-      "27",
-      "Guilford, Conn.",
-      "Hamden Hall",
-      "",
-      "https://12thman.com/sports/baseball/roster/gavin-lyons/14982"
-    ],
-    [
-      "texas-am-14983",
-      "texas-am",
-      "Caden McCoy",
-      "Pitcher",
-      "LHP",
-      "SO",
-      "R/L",
-      "28",
-      "Bloomington, Ind.",
-      "North",
-      "",
-      "https://12thman.com/sports/baseball/roster/caden-mccoy/14983"
-    ],
-    [
-      "texas-am-15272",
-      "texas-am",
-      "Hunter Vincent",
-      "Pitcher",
-      "LHP",
-      "FR",
-      "L/L",
-      "30",
-      "Prosper, Texas",
-      "Prosper",
-      "",
-      "https://12thman.com/sports/baseball/roster/hunter-vincent/15272"
-    ],
-    [
-      "texas-am-14965",
-      "texas-am",
-      "Grant Cunningham",
-      "Pitcher",
-      "RHP",
-      "SR",
-      "R/R",
-      "31",
-      "Seattle, Wash.",
-      "Seattle Prep",
-      "Washington",
-      "https://12thman.com/sports/baseball/roster/grant-cunningham/14965"
-    ],
-    [
-      "texas-am-15259",
-      "texas-am",
-      "Hunter Bond",
-      "Pitcher",
-      "LHP",
-      "JR",
-      "L/L",
-      "32",
-      "College Station, Texas",
-      "A&M Consolidated",
-      "Blinn College",
-      "https://12thman.com/sports/baseball/roster/hunter-bond/15259"
-    ],
-    [
-      "texas-am-14966",
-      "texas-am",
-      "Sam Erickson",
-      "Hitter",
-      "OF",
-      "SO",
-      "R/L",
-      "35",
-      "Flower Mound, Texas",
-      "Flower Mound",
-      "",
-      "https://12thman.com/sports/baseball/roster/sam-erickson/14966"
-    ],
-    [
-      "texas-am-15264",
-      "texas-am",
-      "Cole Hubert",
-      "Pitcher",
-      "LHP",
-      "FR",
-      "L/L",
-      "36",
-      "Hellertown, Pa.",
-      "Saucon Valley",
-      "",
-      "https://12thman.com/sports/baseball/roster/cole-hubert/15264"
-    ],
-    [
-      "texas-am-14988",
-      "texas-am",
-      "Shane Sdao",
-      "Pitcher",
-      "LHP",
-      "R-JR",
-      "L/L",
-      "38",
-      "Montgomery, Texas",
-      "Lake Creek",
-      "",
-      "https://12thman.com/sports/baseball/roster/shane-sdao/14988"
-    ],
-    [
-      "texas-am-15260",
-      "texas-am",
-      "Ethan Darden",
-      "Pitcher",
-      "LHP",
-      "SR",
-      "L/L",
-      "39",
-      "Rock Hill, S.C.",
-      "Northwestern",
-      "Clemson",
-      "https://12thman.com/sports/baseball/roster/ethan-darden/15260"
-    ],
-    [
-      "texas-am-15269",
-      "texas-am",
-      "Cooper Powell",
-      "Pitcher",
-      "LHP",
-      "SO",
-      "L/L",
-      "40",
-      "Bedford, Texas",
-      "Colleyville Heritage",
-      "Northwest Florida State",
-      "https://12thman.com/sports/baseball/roster/cooper-powell/15269"
-    ],
-    [
-      "texas-am-15262",
-      "texas-am",
-      "Cooper Fulbright",
-      "Pitcher",
-      "RHP",
-      "FR",
-      "R/R",
-      "44",
-      "Missouri City, Texas",
-      "Strake Jesuit",
-      "",
-      "https://12thman.com/sports/baseball/roster/cooper-fulbright/15262"
-    ],
-    [
-      "texas-am-14962",
-      "texas-am",
-      "Blake Binderup",
-      "Hitter",
-      "INF",
-      "R-JR",
-      "R/R",
-      "46",
-      "College Station, Texas",
-      "College Station",
-      "",
-      "https://12thman.com/sports/baseball/roster/blake-binderup/14962"
-    ],
-    [
-      "texas-am-15267",
-      "texas-am",
-      "Blake LaBuda",
-      "Hitter",
-      "C",
-      "SR",
-      "R/R",
-      "47",
-      "Broomfield, Colo.",
-      "Legacy",
-      "UT Tyler",
-      "https://12thman.com/sports/baseball/roster/blake-labuda/15267"
-    ],
-    [
-      "texas-am-15255",
-      "texas-am",
-      "Elijah Batista",
-      "Hitter",
-      "INF",
-      "SR",
-      "R/R",
-      "52",
-      "El Paso, Texas",
-      "Eastlake",
-      "West Texas A&M",
-      "https://12thman.com/sports/baseball/roster/elijah-batista/15255"
     ],
     [
       "texas-tech-14082",
