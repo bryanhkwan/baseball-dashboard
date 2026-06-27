@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.bowling-green2026 = {
-  "generatedAt": "2026-06-26T11:15:27.166Z",
+  "generatedAt": "2026-06-27T10:54:57.719Z",
   "season": 2026,
   "school": {
     "slug": "bowling-green",
