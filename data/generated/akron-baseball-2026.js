@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.akron2026 = {
-  "generatedAt": "2026-06-29T11:54:55.671Z",
+  "generatedAt": "2026-06-30T11:19:06.860Z",
   "season": 2026,
   "school": {
     "slug": "akron",
@@ -27,10 +27,10 @@ window.__BASEBALL_DATASETS__.akron2026 = {
   "coverage": {
     "rosterPlayers": 35,
     "espnRosterPlayers": 0,
-    "playersWithHittingStats": 18,
-    "playersWithPitchingStats": 16,
-    "playersWithFieldingStats": 32,
-    "mergedPlayersWithAnyStats": 32,
+    "playersWithHittingStats": 11,
+    "playersWithPitchingStats": 6,
+    "playersWithFieldingStats": 16,
+    "mergedPlayersWithAnyStats": 16,
     "matchedEspnPlayers": 0,
     "unmatchedStatRows": {
       "hitting": [],
@@ -128,7 +128,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
   },
   "players": [
     {
-      "id": "akron-9854",
+      "id": "akron-10286",
       "schoolSlug": "akron",
       "school": "Akron",
       "schoolLongName": "University of Akron",
@@ -145,7 +145,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
       "highSchool": "Kenston",
       "previousSchool": "",
       "hometownHighSchool": "Chagrin Falls, Ohio / Kenston",
-      "profileUrl": "https://gozips.com/sports/baseball/roster/parker-munday/9854",
+      "profileUrl": "https://gozips.com/sports/baseball/roster/parker-munday/10286",
       "imageUrl": "https://gozips.com/images/2026/1/13/0_Parker_Munday.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -153,69 +153,15 @@ window.__BASEBALL_DATASETS__.akron2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "9854",
+      "rosterBioId": "10286",
       "sources": [
-        "Akron Athletics roster",
-        "Akron cumulative stats"
+        "Akron Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "9854",
-        "name": "Parker Munday",
-        "normalizedName": "parker munday",
-        "jersey": "0",
-        "profileUrl": "https://gozips.com/sports/baseball/roster/parker-munday/9854",
-        "imageUrl": "https://gozips.com/images/2026/1/13/0_Parker_Munday.jpg",
-        "gamesPlayed": 17,
-        "gamesStarted": 0,
-        "appearances": 17,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 3.09,
-        "whip": 1.63,
-        "wins": 1,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 23.333333333333332,
-        "inningsPitchedDisplay": "23.1",
-        "hitsAllowed": 20,
-        "runsAllowed": 11,
-        "earnedRunsAllowed": 8,
-        "walksAllowed": 18,
-        "strikeouts": 31,
-        "doublesAllowed": 3,
-        "triplesAllowed": 2,
-        "homeRunsAllowed": 1,
-        "opponentsAtBats": 83,
-        "wildPitches": 6,
-        "hitBatters": 10,
-        "balks": 0,
-        "opponentsBattingAverage": 0.241,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "9854",
-        "name": "Parker Munday",
-        "normalizedName": "parker munday",
-        "jersey": "0",
-        "profileUrl": "https://gozips.com/sports/baseball/roster/parker-munday/9854",
-        "imageUrl": "https://gozips.com/images/2026/1/13/0_Parker_Munday.jpg",
-        "gamesPlayed": 7,
-        "gamesStarted": 0,
-        "putouts": 1,
-        "assists": 5,
-        "errors": 2,
-        "fieldingPercentage": 0.75,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 5,
-        "caughtStealingBy": 2,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 8
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 17,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -223,40 +169,40 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 72.33766233766234,
-          "Command": 14.444444444444443,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Parker Munday looks like a LHP option who limits runs and misses bats.",
+        "summary": "Parker Munday looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 3.09",
-          "WHIP 1.63",
-          "K/9 12.0"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.09"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.63"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "12.0"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "6.9"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "0.39"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "23.3"
+            "value": "0.0"
           }
         ],
         "metaLine": "R-SO / L/L",
@@ -266,17 +212,17 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           "L/L",
           "Pitcher"
         ],
-        "sourceSummary": "Akron Athletics roster + Akron cumulative stats"
+        "sourceSummary": "Akron Athletics roster"
       }
     },
     {
-      "id": "akron-9852",
+      "id": "akron-10282",
       "schoolSlug": "akron",
       "school": "Akron",
       "schoolLongName": "University of Akron",
       "name": "Austin Lafferty",
       "normalizedName": "austin lafferty",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "OF",
       "positionLong": "",
@@ -287,7 +233,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
       "highSchool": "South Park",
       "previousSchool": "",
       "hometownHighSchool": "Pittsburgh, Pa. / South Park",
-      "profileUrl": "https://gozips.com/sports/baseball/roster/austin-lafferty/9852",
+      "profileUrl": "https://gozips.com/sports/baseball/roster/austin-lafferty/10282",
       "imageUrl": "https://gozips.com/images/2026/1/13/1_Austin_Lafferty.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -295,113 +241,56 @@ window.__BASEBALL_DATASETS__.akron2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "9852",
+      "rosterBioId": "10282",
       "sources": [
-        "Akron Athletics roster",
-        "Akron cumulative stats"
+        "Akron Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "9852",
-        "name": "Austin Lafferty",
-        "normalizedName": "austin lafferty",
-        "jersey": "1",
-        "profileUrl": "https://gozips.com/sports/baseball/roster/austin-lafferty/9852",
-        "imageUrl": "https://gozips.com/images/2026/1/13/1_Austin_Lafferty.jpg",
-        "gamesPlayed": 30,
-        "gamesStarted": 24,
-        "battingAverage": 0.226,
-        "onBasePercentage": 0.404,
-        "sluggingPercentage": 0.429,
-        "ops": 0.833,
-        "atBats": 84,
-        "runs": 24,
-        "hits": 19,
-        "doubles": 6,
-        "triples": 1,
-        "homeRuns": 3,
-        "runsBattedIn": 9,
-        "totalBases": 36,
-        "walks": 20,
-        "hitByPitch": 5,
-        "strikeouts": 24,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 1,
-        "stolenBases": 6,
-        "stolenBasesAttempts": 7,
-        "putouts": 33,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 118,
-        "caughtStealing": 1,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "9852",
-        "name": "Austin Lafferty",
-        "normalizedName": "austin lafferty",
-        "jersey": "1",
-        "profileUrl": "https://gozips.com/sports/baseball/roster/austin-lafferty/9852",
-        "imageUrl": "https://gozips.com/images/2026/1/13/1_Austin_Lafferty.jpg",
-        "gamesPlayed": 19,
-        "gamesStarted": 17,
-        "putouts": 33,
-        "assists": 3,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 36
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 42,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 68.88888888888889,
-          "Power": 28.68421052631579,
-          "Contact": 3.7500000000000036,
-          "Discipline": 70.37037037037037,
-          "Speed": 20
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "summary": "Austin Lafferty profiles as a OF piece who gets on base at a high clip.",
+        "summary": "Austin Lafferty gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .226",
-          "OBP .404",
-          "SLG .429"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".226"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".404"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".429"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "3"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "9"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "6"
+            "value": "0"
           }
         ],
         "metaLine": "JR / R/R",
@@ -409,9 +298,9 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           "OF",
           "JR",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "Akron Athletics roster + Akron cumulative stats"
+        "sourceSummary": "Akron Athletics roster"
       }
     },
     {
@@ -560,13 +449,13 @@ window.__BASEBALL_DATASETS__.akron2026 = {
       }
     },
     {
-      "id": "akron-9863",
+      "id": "akron-10284",
       "schoolSlug": "akron",
       "school": "Akron",
       "schoolLongName": "University of Akron",
       "name": "Gio Melchione",
       "normalizedName": "gio melchione",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "C",
       "positionLong": "",
@@ -577,7 +466,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
       "highSchool": "Desert Ridge HS | Gonzaga | UNLV",
       "previousSchool": "",
       "hometownHighSchool": "Gilbert, Ariz. / Desert Ridge HS | Gonzaga | UNLV",
-      "profileUrl": "https://gozips.com/sports/baseball/roster/gio-melchione/9863",
+      "profileUrl": "https://gozips.com/sports/baseball/roster/gio-melchione/10284",
       "imageUrl": "https://gozips.com/images/2026/1/13/3_Gio_Melchione.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -585,72 +474,15 @@ window.__BASEBALL_DATASETS__.akron2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "9863",
+      "rosterBioId": "10284",
       "sources": [
-        "Akron Athletics roster",
-        "Akron cumulative stats"
+        "Akron Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "9863",
-        "name": "Gio Melchione",
-        "normalizedName": "gio melchione",
-        "jersey": "3",
-        "profileUrl": "https://gozips.com/sports/baseball/roster/gio-melchione/9863",
-        "imageUrl": "https://gozips.com/images/2026/1/13/3_Gio_Melchione.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 21,
-        "battingAverage": 0.178,
-        "onBasePercentage": 0.259,
-        "sluggingPercentage": 0.219,
-        "ops": 0.478,
-        "atBats": 73,
-        "runs": 7,
-        "hits": 13,
-        "doubles": 3,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 6,
-        "totalBases": 16,
-        "walks": 3,
-        "hitByPitch": 5,
-        "strikeouts": 13,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 3,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 1,
-        "stolenBases": 1,
-        "stolenBasesAttempts": 1,
-        "putouts": 140,
-        "assists": 0,
-        "errors": 3,
-        "plateAppearances": 83,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "9863",
-        "name": "Gio Melchione",
-        "normalizedName": "gio melchione",
-        "jersey": "3",
-        "profileUrl": "https://gozips.com/sports/baseball/roster/gio-melchione/9863",
-        "imageUrl": "https://gozips.com/images/2026/1/13/3_Gio_Melchione.jpg",
-        "gamesPlayed": 28,
-        "gamesStarted": 21,
-        "putouts": 140,
-        "assists": 14,
-        "errors": 3,
-        "fieldingPercentage": 0.981,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 58,
-        "caughtStealingBy": 10,
-        "stolenBasesPercentage": null,
-        "passedBalls": 2,
-        "catchersInterference": 1,
-        "totalChances": 157
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 1,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -659,27 +491,27 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 3.4188034188034186,
-          "Speed": 3.3333333333333335
+          "Discipline": 0,
+          "Speed": 0
         },
         "summary": "Gio Melchione gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .178",
-          "OBP .259",
-          "SLG .219"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".178"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".259"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".219"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -687,11 +519,11 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           },
           {
             "label": "RBI",
-            "value": "6"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "1"
+            "value": "0"
           }
         ],
         "metaLine": "R-SO / R/R",
@@ -699,9 +531,9 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           "C",
           "R-SO",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "Akron Athletics roster + Akron cumulative stats"
+        "sourceSummary": "Akron Athletics roster"
       }
     },
     {
@@ -1282,7 +1114,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
       }
     },
     {
-      "id": "akron-9848",
+      "id": "akron-10274",
       "schoolSlug": "akron",
       "school": "Akron",
       "schoolLongName": "University of Akron",
@@ -1299,7 +1131,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
       "highSchool": "Christ the King",
       "previousSchool": "",
       "hometownHighSchool": "Georgetown, Ontario, Canada / Christ the King",
-      "profileUrl": "https://gozips.com/sports/baseball/roster/nathan-currah/9848",
+      "profileUrl": "https://gozips.com/sports/baseball/roster/nathan-currah/10274",
       "imageUrl": "https://gozips.com/images/2026/1/13/8_Nathan_Currah.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -1307,69 +1139,15 @@ window.__BASEBALL_DATASETS__.akron2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "9848",
+      "rosterBioId": "10274",
       "sources": [
-        "Akron Athletics roster",
-        "Akron cumulative stats"
+        "Akron Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "9848",
-        "name": "Nathan Currah",
-        "normalizedName": "nathan currah",
-        "jersey": "8",
-        "profileUrl": "https://gozips.com/sports/baseball/roster/nathan-currah/9848",
-        "imageUrl": "https://gozips.com/images/2026/1/13/8_Nathan_Currah.jpg",
-        "gamesPlayed": 13,
-        "gamesStarted": 0,
-        "appearances": 13,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 9.77,
-        "whip": 2.04,
-        "wins": 1,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 15.666666666666666,
-        "inningsPitchedDisplay": "15.2",
-        "hitsAllowed": 15,
-        "runsAllowed": 17,
-        "earnedRunsAllowed": 17,
-        "walksAllowed": 17,
-        "strikeouts": 9,
-        "doublesAllowed": 2,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 6,
-        "opponentsAtBats": 57,
-        "wildPitches": 2,
-        "hitBatters": 2,
-        "balks": 0,
-        "opponentsBattingAverage": 0.263,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "9848",
-        "name": "Nathan Currah",
-        "normalizedName": "nathan currah",
-        "jersey": "8",
-        "profileUrl": "https://gozips.com/sports/baseball/roster/nathan-currah/9848",
-        "imageUrl": "https://gozips.com/images/2026/1/13/8_Nathan_Currah.jpg",
-        "gamesPlayed": 5,
-        "gamesStarted": 0,
-        "putouts": 2,
-        "assists": 1,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 3,
-        "caughtStealingBy": 2,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 3
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 2,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -1377,40 +1155,40 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 10.638297872340429,
+          "Miss bats": 0,
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Nathan Currah gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Nathan Currah looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 9.77",
-          "WHIP 2.04",
-          "K/9 5.2"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "9.77"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "2.04"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "5.2"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "9.8"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "3.45"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "15.7"
+            "value": "0.0"
           }
         ],
         "metaLine": "SO / L/L",
@@ -1420,11 +1198,11 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           "L/L",
           "Pitcher"
         ],
-        "sourceSummary": "Akron Athletics roster + Akron cumulative stats"
+        "sourceSummary": "Akron Athletics roster"
       }
     },
     {
-      "id": "akron-9849",
+      "id": "akron-10276",
       "schoolSlug": "akron",
       "school": "Akron",
       "schoolLongName": "University of Akron",
@@ -1441,7 +1219,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
       "highSchool": "Kamiak | Columbia Basin College",
       "previousSchool": "",
       "hometownHighSchool": "Seattle, Wa / Kamiak | Columbia Basin College",
-      "profileUrl": "https://gozips.com/sports/baseball/roster/jack-fenton/9849",
+      "profileUrl": "https://gozips.com/sports/baseball/roster/jack-fenton/10276",
       "imageUrl": "https://gozips.com/images/2026/1/13/9_Jack_Fenton.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -1449,7 +1227,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "9849",
+      "rosterBioId": "10276",
       "sources": [
         "Akron Athletics roster"
       ],
@@ -1512,7 +1290,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
       }
     },
     {
-      "id": "akron-9878",
+      "id": "akron-10290",
       "schoolSlug": "akron",
       "school": "Akron",
       "schoolLongName": "University of Akron",
@@ -1529,7 +1307,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
       "highSchool": "Wooster HS",
       "previousSchool": "",
       "hometownHighSchool": "Wooster, Ohio / Wooster HS",
-      "profileUrl": "https://gozips.com/sports/baseball/roster/ben-winge/9878",
+      "profileUrl": "https://gozips.com/sports/baseball/roster/ben-winge/10290",
       "imageUrl": "https://gozips.com/images/2026/1/13/10_Ben_Winge.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -1537,7 +1315,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "9878",
+      "rosterBioId": "10290",
       "sources": [
         "Akron Athletics roster"
       ],
@@ -1887,13 +1665,13 @@ window.__BASEBALL_DATASETS__.akron2026 = {
       }
     },
     {
-      "id": "akron-9869",
+      "id": "akron-10281",
       "schoolSlug": "akron",
       "school": "Akron",
       "schoolLongName": "University of Akron",
       "name": "Ryan Jones",
       "normalizedName": "ryan jones",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "C",
       "positionLong": "",
@@ -1904,7 +1682,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
       "highSchool": "Littlestown Senior | Canisius University",
       "previousSchool": "",
       "hometownHighSchool": "Littlestown, Pa. / Littlestown Senior | Canisius University",
-      "profileUrl": "https://gozips.com/sports/baseball/roster/ryan-jones/9869",
+      "profileUrl": "https://gozips.com/sports/baseball/roster/ryan-jones/10281",
       "imageUrl": "https://gozips.com/images/2026/1/13/13_Ryan_Jones.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -1912,101 +1690,44 @@ window.__BASEBALL_DATASETS__.akron2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "9869",
+      "rosterBioId": "10281",
       "sources": [
-        "Akron Athletics roster",
-        "Akron cumulative stats"
+        "Akron Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "9869",
-        "name": "Ryan Jones",
-        "normalizedName": "ryan jones",
-        "jersey": "13",
-        "profileUrl": "https://gozips.com/sports/baseball/roster/ryan-jones/9869",
-        "imageUrl": "https://gozips.com/images/2026/1/13/13_Ryan_Jones.jpg",
-        "gamesPlayed": 11,
-        "gamesStarted": 6,
-        "battingAverage": 0.188,
-        "onBasePercentage": 0.48,
-        "sluggingPercentage": 0.188,
-        "ops": 0.668,
-        "atBats": 16,
-        "runs": 3,
-        "hits": 3,
-        "doubles": 0,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 4,
-        "totalBases": 3,
-        "walks": 7,
-        "hitByPitch": 2,
-        "strikeouts": 6,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 45,
-        "assists": 0,
-        "errors": 1,
-        "plateAppearances": 25,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "9869",
-        "name": "Ryan Jones",
-        "normalizedName": "ryan jones",
-        "jersey": "13",
-        "profileUrl": "https://gozips.com/sports/baseball/roster/ryan-jones/9869",
-        "imageUrl": "https://gozips.com/images/2026/1/13/13_Ryan_Jones.jpg",
-        "gamesPlayed": 8,
-        "gamesStarted": 6,
-        "putouts": 45,
-        "assists": 4,
-        "errors": 1,
-        "fieldingPercentage": 0.98,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 11,
-        "caughtStealingBy": 2,
-        "stolenBasesPercentage": null,
-        "passedBalls": 1,
-        "catchersInterference": 0,
-        "totalChances": 50
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 46,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 100,
+          "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 100,
+          "Discipline": 0,
           "Speed": 0
         },
-        "summary": "Ryan Jones profiles as a C piece who gets on base at a high clip and controls at-bats.",
+        "summary": "Ryan Jones gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .188",
-          "OBP .480",
-          "SLG .188"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".188"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".480"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".188"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -2014,7 +1735,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           },
           {
             "label": "RBI",
-            "value": "4"
+            "value": "0"
           },
           {
             "label": "SB",
@@ -2026,9 +1747,9 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           "C",
           "SO",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "Akron Athletics roster + Akron cumulative stats"
+        "sourceSummary": "Akron Athletics roster"
       }
     },
     {
@@ -2174,7 +1895,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
       }
     },
     {
-      "id": "akron-9857",
+      "id": "akron-10289",
       "schoolSlug": "akron",
       "school": "Akron",
       "schoolLongName": "University of Akron",
@@ -2191,7 +1912,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
       "highSchool": "Teays Valley",
       "previousSchool": "",
       "hometownHighSchool": "Orient, Ohio / Teays Valley",
-      "profileUrl": "https://gozips.com/sports/baseball/roster/landon-vandegrift/9857",
+      "profileUrl": "https://gozips.com/sports/baseball/roster/landon-vandegrift/10289",
       "imageUrl": "https://gozips.com/images/2026/1/13/16_Landon_Vandegrift.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -2199,69 +1920,15 @@ window.__BASEBALL_DATASETS__.akron2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "9857",
+      "rosterBioId": "10289",
       "sources": [
-        "Akron Athletics roster",
-        "Akron cumulative stats"
+        "Akron Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "9857",
-        "name": "Landon Vandegrift",
-        "normalizedName": "landon vandegrift",
-        "jersey": "16",
-        "profileUrl": "https://gozips.com/sports/baseball/roster/landon-vandegrift/9857",
-        "imageUrl": "https://gozips.com/images/2026/1/13/16_Landon_Vandegrift.jpg",
-        "gamesPlayed": 21,
-        "gamesStarted": 7,
-        "appearances": 21,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 11.41,
-        "whip": 1.94,
-        "wins": 2,
-        "losses": 2,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 38.666666666666664,
-        "inningsPitchedDisplay": "38.2",
-        "hitsAllowed": 57,
-        "runsAllowed": 52,
-        "earnedRunsAllowed": 49,
-        "walksAllowed": 18,
-        "strikeouts": 25,
-        "doublesAllowed": 15,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 10,
-        "opponentsAtBats": 164,
-        "wildPitches": 4,
-        "hitBatters": 13,
-        "balks": 0,
-        "opponentsBattingAverage": 0.348,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "9857",
-        "name": "Landon Vandegrift",
-        "normalizedName": "landon vandegrift",
-        "jersey": "16",
-        "profileUrl": "https://gozips.com/sports/baseball/roster/landon-vandegrift/9857",
-        "imageUrl": "https://gozips.com/images/2026/1/13/16_Landon_Vandegrift.jpg",
-        "gamesPlayed": 9,
-        "gamesStarted": 4,
-        "putouts": 2,
-        "assists": 6,
-        "errors": 1,
-        "fieldingPercentage": 0.889,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 6,
-        "caughtStealingBy": 1,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 9
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 5,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2269,40 +1936,40 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 16.53605015673982,
-          "Command": 7.777777777777777,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Landon Vandegrift gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Landon Vandegrift looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 11.41",
-          "WHIP 1.94",
-          "K/9 5.8"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "11.41"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.94"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "5.8"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "4.2"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "2.33"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "38.7"
+            "value": "0.0"
           }
         ],
         "metaLine": "SO / R/R",
@@ -2312,7 +1979,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           "R/R",
           "Pitcher"
         ],
-        "sourceSummary": "Akron Athletics roster + Akron cumulative stats"
+        "sourceSummary": "Akron Athletics roster"
       }
     },
     {
@@ -2458,7 +2125,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
       }
     },
     {
-      "id": "akron-9867",
+      "id": "akron-10278",
       "schoolSlug": "akron",
       "school": "Akron",
       "schoolLongName": "University of Akron",
@@ -2475,7 +2142,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
       "highSchool": "Colegio Apostolico Leonardo | Talladega College",
       "previousSchool": "",
       "hometownHighSchool": "Managua, Nicaragua / Colegio Apostolico Leonardo | Talladega College",
-      "profileUrl": "https://gozips.com/sports/baseball/roster/samuel-guadamuz/9867",
+      "profileUrl": "https://gozips.com/sports/baseball/roster/samuel-guadamuz/10278",
       "imageUrl": "https://gozips.com/images/2026/1/13/19_Samuel_Guadamuz.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -2483,69 +2150,15 @@ window.__BASEBALL_DATASETS__.akron2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "9867",
+      "rosterBioId": "10278",
       "sources": [
-        "Akron Athletics roster",
-        "Akron cumulative stats"
+        "Akron Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "9867",
-        "name": "Samuel Guadamuz",
-        "normalizedName": "samuel guadamuz",
-        "jersey": "19",
-        "profileUrl": "https://gozips.com/sports/baseball/roster/samuel-guadamuz/9867",
-        "imageUrl": "https://gozips.com/images/2026/1/13/19_Samuel_Guadamuz.jpg",
-        "gamesPlayed": 4,
-        "gamesStarted": 3,
-        "appearances": 4,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 13.5,
-        "whip": 2.4,
-        "wins": 0,
-        "losses": 1,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 10,
-        "inningsPitchedDisplay": "10.0",
-        "hitsAllowed": 19,
-        "runsAllowed": 18,
-        "earnedRunsAllowed": 15,
-        "walksAllowed": 5,
-        "strikeouts": 10,
-        "doublesAllowed": 3,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 48,
-        "wildPitches": 1,
-        "hitBatters": 2,
-        "balks": 0,
-        "opponentsBattingAverage": 0.396,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "9867",
-        "name": "Samuel Guadamuz",
-        "normalizedName": "samuel guadamuz",
-        "jersey": "19",
-        "profileUrl": "https://gozips.com/sports/baseball/roster/samuel-guadamuz/9867",
-        "imageUrl": "https://gozips.com/images/2026/1/13/19_Samuel_Guadamuz.jpg",
-        "gamesPlayed": 2,
-        "gamesStarted": 2,
-        "putouts": 0,
-        "assists": 1,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 4,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 1
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 12,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2553,40 +2166,40 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
-          "Command": 20,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Samuel Guadamuz looks like a RHP option who misses bats.",
+        "summary": "Samuel Guadamuz looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 13.50",
-          "WHIP 2.40",
-          "K/9 9.0"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "13.50"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "2.40"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "9.0"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "4.5"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.80"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "10.0"
+            "value": "0.0"
           }
         ],
         "metaLine": "SR / R/R",
@@ -2596,11 +2209,11 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           "R/R",
           "Pitcher"
         ],
-        "sourceSummary": "Akron Athletics roster + Akron cumulative stats"
+        "sourceSummary": "Akron Athletics roster"
       }
     },
     {
-      "id": "akron-9875",
+      "id": "akron-10277",
       "schoolSlug": "akron",
       "school": "Akron",
       "schoolLongName": "University of Akron",
@@ -2617,7 +2230,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
       "highSchool": "Danville Community HS",
       "previousSchool": "",
       "hometownHighSchool": "Danville, Ind. / Danville Community HS",
-      "profileUrl": "https://gozips.com/sports/baseball/roster/garrett-groce/9875",
+      "profileUrl": "https://gozips.com/sports/baseball/roster/garrett-groce/10277",
       "imageUrl": "https://gozips.com/images/2026/1/13/20_Garrett_Groce.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -2625,69 +2238,15 @@ window.__BASEBALL_DATASETS__.akron2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "9875",
+      "rosterBioId": "10277",
       "sources": [
-        "Akron Athletics roster",
-        "Akron cumulative stats"
+        "Akron Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "9875",
-        "name": "Garrett Groce",
-        "normalizedName": "garrett groce",
-        "jersey": "20",
-        "profileUrl": "https://gozips.com/sports/baseball/roster/garrett-groce/9875",
-        "imageUrl": "https://gozips.com/images/2026/1/13/20_Garrett_Groce.jpg",
-        "gamesPlayed": 16,
-        "gamesStarted": 0,
-        "appearances": 16,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 14.36,
-        "whip": 2.94,
-        "wins": 0,
-        "losses": 2,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 15.666666666666666,
-        "inningsPitchedDisplay": "15.2",
-        "hitsAllowed": 24,
-        "runsAllowed": 27,
-        "earnedRunsAllowed": 25,
-        "walksAllowed": 22,
-        "strikeouts": 11,
-        "doublesAllowed": 5,
-        "triplesAllowed": 2,
-        "homeRunsAllowed": 4,
-        "opponentsAtBats": 66,
-        "wildPitches": 3,
-        "hitBatters": 5,
-        "balks": 0,
-        "opponentsBattingAverage": 0.364,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "9875",
-        "name": "Garrett Groce",
-        "normalizedName": "garrett groce",
-        "jersey": "20",
-        "profileUrl": "https://gozips.com/sports/baseball/roster/garrett-groce/9875",
-        "imageUrl": "https://gozips.com/images/2026/1/13/20_Garrett_Groce.jpg",
-        "gamesPlayed": 8,
-        "gamesStarted": 0,
-        "putouts": 1,
-        "assists": 2,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 7,
-        "caughtStealingBy": 1,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 3
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 4,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2695,40 +2254,40 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 21.08317214700193,
+          "Miss bats": 0,
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Garrett Groce gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Garrett Groce looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 14.36",
-          "WHIP 2.94",
-          "K/9 6.3"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "14.36"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "2.94"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "6.3"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "12.6"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "2.30"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "15.7"
+            "value": "0.0"
           }
         ],
         "metaLine": "FR / R/R",
@@ -2738,17 +2297,17 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           "R/R",
           "Pitcher"
         ],
-        "sourceSummary": "Akron Athletics roster + Akron cumulative stats"
+        "sourceSummary": "Akron Athletics roster"
       }
     },
     {
-      "id": "akron-9859",
+      "id": "akron-10285",
       "schoolSlug": "akron",
       "school": "Akron",
       "schoolLongName": "University of Akron",
       "name": "Brennan Morgan",
       "normalizedName": "brennan morgan",
-      "compositeRole": "Two-Way",
+      "compositeRole": "Pitcher",
       "role": "Pitcher",
       "position": "INF/RHP",
       "positionLong": "",
@@ -2759,7 +2318,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
       "highSchool": "Marlow HS | Central Michigan | Murray State College",
       "previousSchool": "",
       "hometownHighSchool": "Marlow, Okla. / Marlow HS | Central Michigan | Murray State College",
-      "profileUrl": "https://gozips.com/sports/baseball/roster/brennan-morgan/9859",
+      "profileUrl": "https://gozips.com/sports/baseball/roster/brennan-morgan/10285",
       "imageUrl": "https://gozips.com/images/2026/1/13/21_Brennan_Morgan.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -2767,105 +2326,15 @@ window.__BASEBALL_DATASETS__.akron2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "9859",
+      "rosterBioId": "10285",
       "sources": [
-        "Akron Athletics roster",
-        "Akron cumulative stats"
+        "Akron Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "9859",
-        "name": "Brennan Morgan",
-        "normalizedName": "brennan morgan",
-        "jersey": "21",
-        "profileUrl": "https://gozips.com/sports/baseball/roster/brennan-morgan/9859",
-        "imageUrl": "https://gozips.com/images/2026/1/13/21_Brennan_Morgan.jpg",
-        "gamesPlayed": 43,
-        "gamesStarted": 40,
-        "battingAverage": 0.278,
-        "onBasePercentage": 0.444,
-        "sluggingPercentage": 0.349,
-        "ops": 0.793,
-        "atBats": 126,
-        "runs": 23,
-        "hits": 35,
-        "doubles": 9,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 29,
-        "totalBases": 44,
-        "walks": 29,
-        "hitByPitch": 11,
-        "strikeouts": 28,
-        "intentionalWalks": 1,
-        "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 3,
-        "sacrificeHits": 1,
-        "stolenBases": 3,
-        "stolenBasesAttempts": 5,
-        "putouts": 19,
-        "assists": 0,
-        "errors": 7,
-        "plateAppearances": 177,
-        "caughtStealing": 2,
-        "pickedOff": 0
-      },
-      "pitchingStats": {
-        "rosterBioId": "9859",
-        "name": "Brennan Morgan",
-        "normalizedName": "brennan morgan",
-        "jersey": "21",
-        "profileUrl": "https://gozips.com/sports/baseball/roster/brennan-morgan/9859",
-        "imageUrl": "https://gozips.com/images/2026/1/13/21_Brennan_Morgan.jpg",
-        "gamesPlayed": 2,
-        "gamesStarted": 0,
-        "appearances": 2,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 20.25,
-        "whip": 2.25,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 1.3333333333333333,
-        "inningsPitchedDisplay": "1.1",
-        "hitsAllowed": 3,
-        "runsAllowed": 3,
-        "earnedRunsAllowed": 3,
-        "walksAllowed": 0,
-        "strikeouts": 1,
-        "doublesAllowed": 1,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 1,
-        "opponentsAtBats": 7,
-        "wildPitches": 0,
-        "hitBatters": 0,
-        "balks": 0,
-        "opponentsBattingAverage": 0.429,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "9859",
-        "name": "Brennan Morgan",
-        "normalizedName": "brennan morgan",
-        "jersey": "21",
-        "profileUrl": "https://gozips.com/sports/baseball/roster/brennan-morgan/9859",
-        "imageUrl": "https://gozips.com/images/2026/1/13/21_Brennan_Morgan.jpg",
-        "gamesPlayed": 34,
-        "gamesStarted": 34,
-        "putouts": 19,
-        "assists": 55,
-        "errors": 7,
-        "fieldingPercentage": 0.914,
-        "doublePlays": 3,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 81
-      },
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 21,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2873,28 +2342,28 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 25,
-          "Command": 100,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
         "summary": "Brennan Morgan looks like a INF/RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 20.25",
-          "WHIP 2.25",
-          "K/9 6.8"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "20.25"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "2.25"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "6.8"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
@@ -2902,11 +2371,11 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           },
           {
             "label": "HR/9",
-            "value": "6.75"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "1.3"
+            "value": "0.0"
           }
         ],
         "metaLine": "R-JR / R/R",
@@ -2914,13 +2383,13 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           "INF/RHP",
           "R-JR",
           "R/R",
-          "Two-Way"
+          "Pitcher"
         ],
-        "sourceSummary": "Akron Athletics roster + Akron cumulative stats"
+        "sourceSummary": "Akron Athletics roster"
       }
     },
     {
-      "id": "akron-9846",
+      "id": "akron-10272",
       "schoolSlug": "akron",
       "school": "Akron",
       "schoolLongName": "University of Akron",
@@ -2937,7 +2406,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
       "highSchool": "Olentangy Berlin",
       "previousSchool": "",
       "hometownHighSchool": "Galena, Ohio / Olentangy Berlin",
-      "profileUrl": "https://gozips.com/sports/baseball/roster/taylor-bednar/9846",
+      "profileUrl": "https://gozips.com/sports/baseball/roster/taylor-bednar/10272",
       "imageUrl": "https://gozips.com/images/2026/1/13/22_Taylor_Bednar.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -2945,69 +2414,15 @@ window.__BASEBALL_DATASETS__.akron2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "9846",
+      "rosterBioId": "10272",
       "sources": [
-        "Akron Athletics roster",
-        "Akron cumulative stats"
+        "Akron Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "9846",
-        "name": "Taylor Bednar",
-        "normalizedName": "taylor bednar",
-        "jersey": "22",
-        "profileUrl": "https://gozips.com/sports/baseball/roster/taylor-bednar/9846",
-        "imageUrl": "https://gozips.com/images/2026/1/13/22_Taylor_Bednar.jpg",
-        "gamesPlayed": 17,
-        "gamesStarted": 1,
-        "appearances": 17,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 9.78,
-        "whip": 2.48,
-        "wins": 2,
-        "losses": 3,
-        "saves": 2,
-        "shutouts": 0,
-        "inningsPitched": 23,
-        "inningsPitchedDisplay": "23.0",
-        "hitsAllowed": 33,
-        "runsAllowed": 32,
-        "earnedRunsAllowed": 25,
-        "walksAllowed": 24,
-        "strikeouts": 20,
-        "doublesAllowed": 4,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 3,
-        "opponentsAtBats": 100,
-        "wildPitches": 5,
-        "hitBatters": 4,
-        "balks": 0,
-        "opponentsBattingAverage": 0.33,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "9846",
-        "name": "Taylor Bednar",
-        "normalizedName": "taylor bednar",
-        "jersey": "22",
-        "profileUrl": "https://gozips.com/sports/baseball/roster/taylor-bednar/9846",
-        "imageUrl": "https://gozips.com/images/2026/1/13/22_Taylor_Bednar.jpg",
-        "gamesPlayed": 3,
-        "gamesStarted": 0,
-        "putouts": 1,
-        "assists": 2,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 4,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 3
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 7,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3015,40 +2430,40 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 34.78260869565217,
+          "Miss bats": 0,
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Taylor Bednar gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Taylor Bednar looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 9.78",
-          "WHIP 2.48",
-          "K/9 7.8"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "9.78"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "2.48"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "7.8"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "9.4"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.17"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "23.0"
+            "value": "0.0"
           }
         ],
         "metaLine": "SO / R/R",
@@ -3058,7 +2473,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           "R/R",
           "Pitcher"
         ],
-        "sourceSummary": "Akron Athletics roster + Akron cumulative stats"
+        "sourceSummary": "Akron Athletics roster"
       }
     },
     {
@@ -3207,13 +2622,13 @@ window.__BASEBALL_DATASETS__.akron2026 = {
       }
     },
     {
-      "id": "akron-9874",
+      "id": "akron-10275",
       "schoolSlug": "akron",
       "school": "Akron",
       "schoolLongName": "University of Akron",
       "name": "Prince DeBoskie",
       "normalizedName": "prince deboskie",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "OF",
       "positionLong": "",
@@ -3224,7 +2639,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
       "highSchool": "Hamilton HS | Central Arizona College | Scottsdale CC | Jackson State",
       "previousSchool": "",
       "hometownHighSchool": "Chandler, Ariz. / Hamilton HS | Central Arizona College | Scottsdale CC | Jackson State",
-      "profileUrl": "https://gozips.com/sports/baseball/roster/prince-deboskie/9874",
+      "profileUrl": "https://gozips.com/sports/baseball/roster/prince-deboskie/10275",
       "imageUrl": "https://gozips.com/images/2026/1/13/24_Prince_DeBoskie.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -3232,113 +2647,56 @@ window.__BASEBALL_DATASETS__.akron2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "9874",
+      "rosterBioId": "10275",
       "sources": [
-        "Akron Athletics roster",
-        "Akron cumulative stats"
+        "Akron Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "9874",
-        "name": "Prince DeBoskie",
-        "normalizedName": "prince deboskie",
-        "jersey": "24",
-        "profileUrl": "https://gozips.com/sports/baseball/roster/prince-deboskie/9874",
-        "imageUrl": "https://gozips.com/images/2026/1/13/24_Prince_DeBoskie.jpg",
-        "gamesPlayed": 34,
-        "gamesStarted": 25,
-        "battingAverage": 0.337,
-        "onBasePercentage": 0.409,
-        "sluggingPercentage": 0.515,
-        "ops": 0.924,
-        "atBats": 101,
-        "runs": 21,
-        "hits": 34,
-        "doubles": 7,
-        "triples": 1,
-        "homeRuns": 3,
-        "runsBattedIn": 16,
-        "totalBases": 52,
-        "walks": 8,
-        "hitByPitch": 5,
-        "strikeouts": 24,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 1,
-        "sacrificeHits": 1,
-        "stolenBases": 17,
-        "stolenBasesAttempts": 17,
-        "putouts": 42,
-        "assists": 0,
-        "errors": 1,
-        "plateAppearances": 133,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "9874",
-        "name": "Prince DeBoskie",
-        "normalizedName": "prince deboskie",
-        "jersey": "24",
-        "profileUrl": "https://gozips.com/sports/baseball/roster/prince-deboskie/9874",
-        "imageUrl": "https://gozips.com/images/2026/1/13/24_Prince_DeBoskie.jpg",
-        "gamesPlayed": 20,
-        "gamesStarted": 19,
-        "putouts": 42,
-        "assists": 0,
-        "errors": 1,
-        "fieldingPercentage": 0.977,
-        "doublePlays": 1,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 43
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 57,
+        "score": 0,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
         "components": {
-          "On-base": 71.66666666666664,
-          "Power": 51.31578947368421,
-          "Contact": 73.125,
-          "Discipline": 14.814814814814808,
-          "Speed": 56.666666666666664
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "summary": "Prince DeBoskie profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
+        "summary": "Prince DeBoskie gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .337",
-          "OBP .409",
-          "SLG .515"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".337"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".409"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".515"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "3"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "16"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "17"
+            "value": "0"
           }
         ],
         "metaLine": "R-JR / S/R",
@@ -3346,13 +2704,13 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           "OF",
           "R-JR",
           "S/R",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "Akron Athletics roster + Akron cumulative stats"
+        "sourceSummary": "Akron Athletics roster"
       }
     },
     {
-      "id": "akron-9879",
+      "id": "akron-10279",
       "schoolSlug": "akron",
       "school": "Akron",
       "schoolLongName": "University of Akron",
@@ -3369,7 +2727,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
       "highSchool": "Elizabeth Forward HS",
       "previousSchool": "",
       "hometownHighSchool": "Elizabeth, Pa. / Elizabeth Forward HS",
-      "profileUrl": "https://gozips.com/sports/baseball/roster/cy-herchelroath/9879",
+      "profileUrl": "https://gozips.com/sports/baseball/roster/cy-herchelroath/10279",
       "imageUrl": "https://gozips.com/images/2026/1/13/25_Cy_Herchelroath.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -3377,69 +2735,15 @@ window.__BASEBALL_DATASETS__.akron2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "9879",
+      "rosterBioId": "10279",
       "sources": [
-        "Akron Athletics roster",
-        "Akron cumulative stats"
+        "Akron Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "9879",
-        "name": "Cy Herchelroath",
-        "normalizedName": "cy herchelroath",
-        "jersey": "25",
-        "profileUrl": "https://gozips.com/sports/baseball/roster/cy-herchelroath/9879",
-        "imageUrl": "https://gozips.com/images/2026/1/13/25_Cy_Herchelroath.jpg",
-        "gamesPlayed": 7,
-        "gamesStarted": 5,
-        "appearances": 7,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 6.89,
-        "whip": 1.91,
-        "wins": 1,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 15.666666666666666,
-        "inningsPitchedDisplay": "15.2",
-        "hitsAllowed": 14,
-        "runsAllowed": 13,
-        "earnedRunsAllowed": 12,
-        "walksAllowed": 16,
-        "strikeouts": 14,
-        "doublesAllowed": 1,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 58,
-        "wildPitches": 1,
-        "hitBatters": 0,
-        "balks": 0,
-        "opponentsBattingAverage": 0.241,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "9879",
-        "name": "Cy Herchelroath",
-        "normalizedName": "cy herchelroath",
-        "jersey": "25",
-        "profileUrl": "https://gozips.com/sports/baseball/roster/cy-herchelroath/9879",
-        "imageUrl": "https://gozips.com/images/2026/1/13/25_Cy_Herchelroath.jpg",
-        "gamesPlayed": 6,
-        "gamesStarted": 5,
-        "putouts": 0,
-        "assists": 3,
-        "errors": 1,
-        "fieldingPercentage": 0.75,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 8,
-        "caughtStealingBy": 1,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 4
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 7,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3447,32 +2751,32 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 36.750483558994205,
+          "Miss bats": 0,
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Cy Herchelroath gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Cy Herchelroath looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 6.89",
-          "WHIP 1.91",
-          "K/9 8.0"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.89"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.91"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "8.0"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "9.2"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
@@ -3480,7 +2784,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           },
           {
             "label": "IP",
-            "value": "15.7"
+            "value": "0.0"
           }
         ],
         "metaLine": "FR / L/L",
@@ -3490,17 +2794,17 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           "L/L",
           "Pitcher"
         ],
-        "sourceSummary": "Akron Athletics roster + Akron cumulative stats"
+        "sourceSummary": "Akron Athletics roster"
       }
     },
     {
-      "id": "akron-9866",
+      "id": "akron-10288",
       "schoolSlug": "akron",
       "school": "Akron",
       "schoolLongName": "University of Akron",
       "name": "Mitchel Szymczak",
       "normalizedName": "mitchel szymczak",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "C",
       "positionLong": "",
@@ -3511,7 +2815,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
       "highSchool": "Strongsville HS | Lake Erie College",
       "previousSchool": "",
       "hometownHighSchool": "Strongsville, Ohio / Strongsville HS | Lake Erie College",
-      "profileUrl": "https://gozips.com/sports/baseball/roster/mitchel-szymczak/9866",
+      "profileUrl": "https://gozips.com/sports/baseball/roster/mitchel-szymczak/10288",
       "imageUrl": "https://gozips.com/images/2026/1/13/26_Mitchel_Szmczak.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -3519,113 +2823,56 @@ window.__BASEBALL_DATASETS__.akron2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "9866",
+      "rosterBioId": "10288",
       "sources": [
-        "Akron Athletics roster",
-        "Akron cumulative stats"
+        "Akron Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "9866",
-        "name": "Mitchel Szymczak",
-        "normalizedName": "mitchel szymczak",
-        "jersey": "26",
-        "profileUrl": "https://gozips.com/sports/baseball/roster/mitchel-szymczak/9866",
-        "imageUrl": "https://gozips.com/images/2026/1/13/26_Mitchel_Szmczak.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 26,
-        "battingAverage": 0.2,
-        "onBasePercentage": 0.317,
-        "sluggingPercentage": 0.318,
-        "ops": 0.635,
-        "atBats": 85,
-        "runs": 17,
-        "hits": 17,
-        "doubles": 4,
-        "triples": 0,
-        "homeRuns": 2,
-        "runsBattedIn": 10,
-        "totalBases": 27,
-        "walks": 9,
-        "hitByPitch": 6,
-        "strikeouts": 25,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 1,
-        "sacrificeHits": 0,
-        "stolenBases": 1,
-        "stolenBasesAttempts": 1,
-        "putouts": 169,
-        "assists": 0,
-        "errors": 2,
-        "plateAppearances": 102,
-        "caughtStealing": 0,
-        "pickedOff": 1
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "9866",
-        "name": "Mitchel Szymczak",
-        "normalizedName": "mitchel szymczak",
-        "jersey": "26",
-        "profileUrl": "https://gozips.com/sports/baseball/roster/mitchel-szymczak/9866",
-        "imageUrl": "https://gozips.com/images/2026/1/13/26_Mitchel_Szmczak.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 26,
-        "putouts": 169,
-        "assists": 16,
-        "errors": 2,
-        "fieldingPercentage": 0.989,
-        "doublePlays": 1,
-        "stolenBasesAgainst": 38,
-        "caughtStealingBy": 9,
-        "stolenBasesPercentage": null,
-        "passedBalls": 4,
-        "catchersInterference": 0,
-        "totalChances": 187
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 9,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 20.555555555555543,
+          "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 17.77777777777777,
-          "Speed": 3.3333333333333335
+          "Discipline": 0,
+          "Speed": 0
         },
         "summary": "Mitchel Szymczak gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .200",
-          "OBP .317",
-          "SLG .318"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".200"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".317"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".318"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "2"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "10"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "1"
+            "value": "0"
           }
         ],
         "metaLine": "R-JR / R/R",
@@ -3633,9 +2880,9 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           "C",
           "R-JR",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "Akron Athletics roster + Akron cumulative stats"
+        "sourceSummary": "Akron Athletics roster"
       }
     },
     {
@@ -4107,13 +3354,13 @@ window.__BASEBALL_DATASETS__.akron2026 = {
       }
     },
     {
-      "id": "akron-9870",
+      "id": "akron-10280",
       "schoolSlug": "akron",
       "school": "Akron",
       "schoolLongName": "University of Akron",
       "name": "Atticus Huffstutler",
       "normalizedName": "atticus huffstutler",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "C",
       "positionLong": "",
@@ -4124,7 +3371,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
       "highSchool": "Dixie M. Hollins HS | Michigan State",
       "previousSchool": "",
       "hometownHighSchool": "St. Pete Beach, Fla. / Dixie M. Hollins HS | Michigan State",
-      "profileUrl": "https://gozips.com/sports/baseball/roster/atticus-huffstutler/9870",
+      "profileUrl": "https://gozips.com/sports/baseball/roster/atticus-huffstutler/10280",
       "imageUrl": "https://gozips.com/images/2026/1/13/31_Atticus_Huffstutler.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -4132,109 +3379,52 @@ window.__BASEBALL_DATASETS__.akron2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "9870",
+      "rosterBioId": "10280",
       "sources": [
-        "Akron Athletics roster",
-        "Akron cumulative stats"
+        "Akron Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "9870",
-        "name": "Atticus Huffstutler",
-        "normalizedName": "atticus huffstutler",
-        "jersey": "31",
-        "profileUrl": "https://gozips.com/sports/baseball/roster/atticus-huffstutler/9870",
-        "imageUrl": "https://gozips.com/images/2026/1/13/31_Atticus_Huffstutler.jpg",
-        "gamesPlayed": 11,
-        "gamesStarted": 3,
-        "battingAverage": 0.25,
-        "onBasePercentage": 0.308,
-        "sluggingPercentage": 0.417,
-        "ops": 0.725,
-        "atBats": 24,
-        "runs": 2,
-        "hits": 6,
-        "doubles": 1,
-        "triples": 0,
-        "homeRuns": 1,
-        "runsBattedIn": 6,
-        "totalBases": 10,
-        "walks": 2,
-        "hitByPitch": 0,
-        "strikeouts": 3,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 27,
-        "assists": 0,
-        "errors": 1,
-        "plateAppearances": 26,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "9870",
-        "name": "Atticus Huffstutler",
-        "normalizedName": "atticus huffstutler",
-        "jersey": "31",
-        "profileUrl": "https://gozips.com/sports/baseball/roster/atticus-huffstutler/9870",
-        "imageUrl": "https://gozips.com/images/2026/1/13/31_Atticus_Huffstutler.jpg",
-        "gamesPlayed": 3,
-        "gamesStarted": 2,
-        "putouts": 27,
-        "assists": 2,
-        "errors": 1,
-        "fieldingPercentage": 0.967,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 8,
-        "caughtStealingBy": 1,
-        "stolenBasesPercentage": null,
-        "passedBalls": 3,
-        "catchersInterference": 1,
-        "totalChances": 30
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 22,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 15.55555555555554,
-          "Power": 25.52631578947368,
-          "Contact": 18.75,
-          "Discipline": 51.85185185185184,
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
           "Speed": 0
         },
         "summary": "Atticus Huffstutler gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .250",
-          "OBP .308",
-          "SLG .417"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".250"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".308"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".417"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "1"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "6"
+            "value": "0"
           },
           {
             "label": "SB",
@@ -4246,13 +3436,13 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           "C",
           "R-FR",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "Akron Athletics roster + Akron cumulative stats"
+        "sourceSummary": "Akron Athletics roster"
       }
     },
     {
-      "id": "akron-9862",
+      "id": "akron-10283",
       "schoolSlug": "akron",
       "school": "Akron",
       "schoolLongName": "University of Akron",
@@ -4269,7 +3459,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
       "highSchool": "Bonita Springs HS | Lake Erie College",
       "previousSchool": "",
       "hometownHighSchool": "Pittsburgh, Pa. / Bonita Springs HS | Lake Erie College",
-      "profileUrl": "https://gozips.com/sports/baseball/roster/floyd-mckenna/9862",
+      "profileUrl": "https://gozips.com/sports/baseball/roster/floyd-mckenna/10283",
       "imageUrl": "https://gozips.com/images/2026/1/13/32_Floyd_McKenna.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -4277,69 +3467,15 @@ window.__BASEBALL_DATASETS__.akron2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "9862",
+      "rosterBioId": "10283",
       "sources": [
-        "Akron Athletics roster",
-        "Akron cumulative stats"
+        "Akron Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "9862",
-        "name": "Floyd McKenna",
-        "normalizedName": "floyd mckenna",
-        "jersey": "32",
-        "profileUrl": "https://gozips.com/sports/baseball/roster/floyd-mckenna/9862",
-        "imageUrl": "https://gozips.com/images/2026/1/13/32_Floyd_McKenna.jpg",
-        "gamesPlayed": 22,
-        "gamesStarted": 0,
-        "appearances": 22,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 3.78,
-        "whip": 1.35,
-        "wins": 1,
-        "losses": 2,
-        "saves": 7,
-        "shutouts": 0,
-        "inningsPitched": 33.333333333333336,
-        "inningsPitchedDisplay": "33.1",
-        "hitsAllowed": 32,
-        "runsAllowed": 22,
-        "earnedRunsAllowed": 14,
-        "walksAllowed": 13,
-        "strikeouts": 33,
-        "doublesAllowed": 2,
-        "triplesAllowed": 2,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 130,
-        "wildPitches": 2,
-        "hitBatters": 5,
-        "balks": 0,
-        "opponentsBattingAverage": 0.246,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "9862",
-        "name": "Floyd McKenna",
-        "normalizedName": "floyd mckenna",
-        "jersey": "32",
-        "profileUrl": "https://gozips.com/sports/baseball/roster/floyd-mckenna/9862",
-        "imageUrl": "https://gozips.com/images/2026/1/13/32_Floyd_McKenna.jpg",
-        "gamesPlayed": 12,
-        "gamesStarted": 0,
-        "putouts": 2,
-        "assists": 8,
-        "errors": 4,
-        "fieldingPercentage": 0.714,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 7,
-        "caughtStealingBy": 2,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 14
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 14,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4347,40 +3483,40 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 44.63636363636363,
-          "Command": 30.769230769230777,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Floyd McKenna looks like a LHP option who limits runs.",
+        "summary": "Floyd McKenna looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 3.78",
-          "WHIP 1.35",
-          "K/9 8.9"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.78"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.35"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "8.9"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "3.5"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "0.54"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "33.3"
+            "value": "0.0"
           }
         ],
         "metaLine": "JR / L/L",
@@ -4390,11 +3526,11 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           "L/L",
           "Pitcher"
         ],
-        "sourceSummary": "Akron Athletics roster + Akron cumulative stats"
+        "sourceSummary": "Akron Athletics roster"
       }
     },
     {
-      "id": "akron-9872",
+      "id": "akron-10271",
       "schoolSlug": "akron",
       "school": "Akron",
       "schoolLongName": "University of Akron",
@@ -4411,7 +3547,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
       "highSchool": "Avon HS",
       "previousSchool": "",
       "hometownHighSchool": "Avon, Ind. / Avon HS",
-      "profileUrl": "https://gozips.com/sports/baseball/roster/carter-beck/9872",
+      "profileUrl": "https://gozips.com/sports/baseball/roster/carter-beck/10271",
       "imageUrl": "https://gozips.com/images/2026/1/13/34_Carter_Beck.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -4419,69 +3555,15 @@ window.__BASEBALL_DATASETS__.akron2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "9872",
+      "rosterBioId": "10271",
       "sources": [
-        "Akron Athletics roster",
-        "Akron cumulative stats"
+        "Akron Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "9872",
-        "name": "Carter Beck",
-        "normalizedName": "carter beck",
-        "jersey": "34",
-        "profileUrl": "https://gozips.com/sports/baseball/roster/carter-beck/9872",
-        "imageUrl": "https://gozips.com/images/2026/1/13/34_Carter_Beck.jpg",
-        "gamesPlayed": 9,
-        "gamesStarted": 7,
-        "appearances": 9,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 8.15,
-        "whip": 2.38,
-        "wins": 0,
-        "losses": 3,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 17.666666666666668,
-        "inningsPitchedDisplay": "17.2",
-        "hitsAllowed": 21,
-        "runsAllowed": 18,
-        "earnedRunsAllowed": 16,
-        "walksAllowed": 21,
-        "strikeouts": 18,
-        "doublesAllowed": 9,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 69,
-        "wildPitches": 3,
-        "hitBatters": 6,
-        "balks": 1,
-        "opponentsBattingAverage": 0.304,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "9872",
-        "name": "Carter Beck",
-        "normalizedName": "carter beck",
-        "jersey": "34",
-        "profileUrl": "https://gozips.com/sports/baseball/roster/carter-beck/9872",
-        "imageUrl": "https://gozips.com/images/2026/1/13/34_Carter_Beck.jpg",
-        "gamesPlayed": 3,
-        "gamesStarted": 3,
-        "putouts": 0,
-        "assists": 4,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 3,
-        "caughtStealingBy": 1,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 4
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 9,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4489,32 +3571,32 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 46.99828473413378,
+          "Miss bats": 0,
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Carter Beck looks like a LHP option who misses bats.",
+        "summary": "Carter Beck looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 8.15",
-          "WHIP 2.38",
-          "K/9 9.2"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "8.15"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "2.38"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "9.2"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "10.7"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
@@ -4522,7 +3604,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           },
           {
             "label": "IP",
-            "value": "17.7"
+            "value": "0.0"
           }
         ],
         "metaLine": "FR / L/L",
@@ -4532,7 +3614,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           "L/L",
           "Pitcher"
         ],
-        "sourceSummary": "Akron Athletics roster + Akron cumulative stats"
+        "sourceSummary": "Akron Athletics roster"
       }
     },
     {
@@ -4678,7 +3760,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
       }
     },
     {
-      "id": "akron-10143",
+      "id": "akron-10273",
       "schoolSlug": "akron",
       "school": "Akron",
       "schoolLongName": "University of Akron",
@@ -4695,7 +3777,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
       "highSchool": "Frontier CC/St. Petersburg CC",
       "previousSchool": "",
       "hometownHighSchool": "Oakville, Ontario / Frontier CC/St. Petersburg CC",
-      "profileUrl": "https://gozips.com/sports/baseball/roster/matt-brown/10143",
+      "profileUrl": "https://gozips.com/sports/baseball/roster/matt-brown/10273",
       "imageUrl": "https://gozips.com/images/2026/2/4/37_Matt_Brown.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -4703,7 +3785,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "10143",
+      "rosterBioId": "10273",
       "sources": [
         "Akron Athletics roster"
       ],
@@ -5066,55 +4148,55 @@ window.__BASEBALL_DATASETS__.akron2026 = {
     },
     "players": [
       {
-        "id": "akron-9854",
+        "id": "akron-10286",
         "name": "Parker Munday",
         "school": "Akron",
         "role": "Pitcher",
         "position": "LHP",
         "classYear": "R-SO",
         "handedness": "L/L",
-        "score": 17,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Parker Munday looks like a LHP option who limits runs and misses bats.",
+        "summary": "Parker Munday looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 3.09",
-          "WHIP 1.63",
-          "K/9 12.0"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.09"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.63"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "12.0"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "6.9"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "0.39"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "23.3"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 72.33766233766234,
-          "Command": 14.444444444444443,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
         "metaLine": "R-SO / L/L",
@@ -5125,82 +4207,80 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           "Pitcher"
         ],
         "leaderboards": [
-          "Akron Athletics roster",
-          "Akron cumulative stats"
+          "Akron Athletics roster"
         ],
-        "sourceSummary": "Akron Athletics roster + Akron cumulative stats",
+        "sourceSummary": "Akron Athletics roster",
         "schoolSlug": "akron",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://gozips.com/sports/baseball/roster/parker-munday/9854",
+        "profileUrl": "https://gozips.com/sports/baseball/roster/parker-munday/10286",
         "espnAthleteId": ""
       },
       {
-        "id": "akron-9852",
+        "id": "akron-10282",
         "name": "Austin Lafferty",
         "school": "Akron",
         "role": "Hitter",
         "position": "OF",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 42,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Austin Lafferty profiles as a OF piece who gets on base at a high clip.",
+        "summary": "Austin Lafferty gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .226",
-          "OBP .404",
-          "SLG .429"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".226"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".404"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".429"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "3"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "9"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "6"
+            "value": "0"
           }
         ],
         "components": {
-          "On-base": 68.88888888888889,
-          "Power": 28.68421052631579,
-          "Contact": 3.7500000000000036,
-          "Discipline": 70.37037037037037,
-          "Speed": 20
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
         "metaLine": "JR / R/R",
         "detailBadges": [
           "OF",
           "JR",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "Akron Athletics roster",
-          "Akron cumulative stats"
+          "Akron Athletics roster"
         ],
-        "sourceSummary": "Akron Athletics roster + Akron cumulative stats",
+        "sourceSummary": "Akron Athletics roster",
         "schoolSlug": "akron",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://gozips.com/sports/baseball/roster/austin-lafferty/9852",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gozips.com/sports/baseball/roster/austin-lafferty/10282",
         "espnAthleteId": ""
       },
       {
@@ -5273,36 +4353,36 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "akron-9863",
+        "id": "akron-10284",
         "name": "Gio Melchione",
         "school": "Akron",
         "role": "Hitter",
         "position": "C",
         "classYear": "R-SO",
         "handedness": "R/R",
-        "score": 1,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Gio Melchione gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .178",
-          "OBP .259",
-          "SLG .219"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".178"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".259"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".219"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -5310,35 +4390,34 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           },
           {
             "label": "RBI",
-            "value": "6"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "1"
+            "value": "0"
           }
         ],
         "components": {
           "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 3.4188034188034186,
-          "Speed": 3.3333333333333335
+          "Discipline": 0,
+          "Speed": 0
         },
         "metaLine": "R-SO / R/R",
         "detailBadges": [
           "C",
           "R-SO",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "Akron Athletics roster",
-          "Akron cumulative stats"
+          "Akron Athletics roster"
         ],
-        "sourceSummary": "Akron Athletics roster + Akron cumulative stats",
+        "sourceSummary": "Akron Athletics roster",
         "schoolSlug": "akron",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://gozips.com/sports/baseball/roster/gio-melchione/9863",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gozips.com/sports/baseball/roster/gio-melchione/10284",
         "espnAthleteId": ""
       },
       {
@@ -5618,54 +4697,54 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "akron-9848",
+        "id": "akron-10274",
         "name": "Nathan Currah",
         "school": "Akron",
         "role": "Pitcher",
         "position": "LHP",
         "classYear": "SO",
         "handedness": "L/L",
-        "score": 2,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Nathan Currah gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Nathan Currah looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 9.77",
-          "WHIP 2.04",
-          "K/9 5.2"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "9.77"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "2.04"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "5.2"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "9.8"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "3.45"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "15.7"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 10.638297872340429,
+          "Miss bats": 0,
           "Command": 0,
           "Damage suppression": 0
         },
@@ -5677,17 +4756,16 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           "Pitcher"
         ],
         "leaderboards": [
-          "Akron Athletics roster",
-          "Akron cumulative stats"
+          "Akron Athletics roster"
         ],
-        "sourceSummary": "Akron Athletics roster + Akron cumulative stats",
+        "sourceSummary": "Akron Athletics roster",
         "schoolSlug": "akron",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://gozips.com/sports/baseball/roster/nathan-currah/9848",
+        "profileUrl": "https://gozips.com/sports/baseball/roster/nathan-currah/10274",
         "espnAthleteId": ""
       },
       {
-        "id": "akron-9849",
+        "id": "akron-10276",
         "name": "Jack Fenton",
         "school": "Akron",
         "role": "Pitcher",
@@ -5751,11 +4829,11 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "sourceSummary": "Akron Athletics roster",
         "schoolSlug": "akron",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://gozips.com/sports/baseball/roster/jack-fenton/9849",
+        "profileUrl": "https://gozips.com/sports/baseball/roster/jack-fenton/10276",
         "espnAthleteId": ""
       },
       {
-        "id": "akron-9878",
+        "id": "akron-10290",
         "name": "Ben Winge",
         "school": "Akron",
         "role": "Hitter",
@@ -5819,7 +4897,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "sourceSummary": "Akron Athletics roster",
         "schoolSlug": "akron",
         "compositeRole": "Rostered",
-        "profileUrl": "https://gozips.com/sports/baseball/roster/ben-winge/9878",
+        "profileUrl": "https://gozips.com/sports/baseball/roster/ben-winge/10290",
         "espnAthleteId": ""
       },
       {
@@ -5961,36 +5039,36 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "akron-9869",
+        "id": "akron-10281",
         "name": "Ryan Jones",
         "school": "Akron",
         "role": "Hitter",
         "position": "C",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 46,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Ryan Jones profiles as a C piece who gets on base at a high clip and controls at-bats.",
+        "summary": "Ryan Jones gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .188",
-          "OBP .480",
-          "SLG .188"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".188"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".480"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".188"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -5998,7 +5076,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           },
           {
             "label": "RBI",
-            "value": "4"
+            "value": "0"
           },
           {
             "label": "SB",
@@ -6006,10 +5084,10 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           }
         ],
         "components": {
-          "On-base": 100,
+          "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 100,
+          "Discipline": 0,
           "Speed": 0
         },
         "metaLine": "SO / R/R",
@@ -6017,16 +5095,15 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           "C",
           "SO",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "Akron Athletics roster",
-          "Akron cumulative stats"
+          "Akron Athletics roster"
         ],
-        "sourceSummary": "Akron Athletics roster + Akron cumulative stats",
+        "sourceSummary": "Akron Athletics roster",
         "schoolSlug": "akron",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://gozips.com/sports/baseball/roster/ryan-jones/9869",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gozips.com/sports/baseball/roster/ryan-jones/10281",
         "espnAthleteId": ""
       },
       {
@@ -6099,55 +5176,55 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "akron-9857",
+        "id": "akron-10289",
         "name": "Landon Vandegrift",
         "school": "Akron",
         "role": "Pitcher",
         "position": "RHP",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 5,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Landon Vandegrift gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Landon Vandegrift looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 11.41",
-          "WHIP 1.94",
-          "K/9 5.8"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "11.41"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.94"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "5.8"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "4.2"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "2.33"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "38.7"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 16.53605015673982,
-          "Command": 7.777777777777777,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
         "metaLine": "SO / R/R",
@@ -6158,13 +5235,12 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           "Pitcher"
         ],
         "leaderboards": [
-          "Akron Athletics roster",
-          "Akron cumulative stats"
+          "Akron Athletics roster"
         ],
-        "sourceSummary": "Akron Athletics roster + Akron cumulative stats",
+        "sourceSummary": "Akron Athletics roster",
         "schoolSlug": "akron",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://gozips.com/sports/baseball/roster/landon-vandegrift/9857",
+        "profileUrl": "https://gozips.com/sports/baseball/roster/landon-vandegrift/10289",
         "espnAthleteId": ""
       },
       {
@@ -6237,55 +5313,55 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "akron-9867",
+        "id": "akron-10278",
         "name": "Samuel Guadamuz",
         "school": "Akron",
         "role": "Pitcher",
         "position": "RHP",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 12,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Samuel Guadamuz looks like a RHP option who misses bats.",
+        "summary": "Samuel Guadamuz looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 13.50",
-          "WHIP 2.40",
-          "K/9 9.0"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "13.50"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "2.40"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "9.0"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "4.5"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.80"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "10.0"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
-          "Command": 20,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
         "metaLine": "SR / R/R",
@@ -6296,64 +5372,63 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           "Pitcher"
         ],
         "leaderboards": [
-          "Akron Athletics roster",
-          "Akron cumulative stats"
+          "Akron Athletics roster"
         ],
-        "sourceSummary": "Akron Athletics roster + Akron cumulative stats",
+        "sourceSummary": "Akron Athletics roster",
         "schoolSlug": "akron",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://gozips.com/sports/baseball/roster/samuel-guadamuz/9867",
+        "profileUrl": "https://gozips.com/sports/baseball/roster/samuel-guadamuz/10278",
         "espnAthleteId": ""
       },
       {
-        "id": "akron-9875",
+        "id": "akron-10277",
         "name": "Garrett Groce",
         "school": "Akron",
         "role": "Pitcher",
         "position": "RHP",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 4,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Garrett Groce gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Garrett Groce looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 14.36",
-          "WHIP 2.94",
-          "K/9 6.3"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "14.36"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "2.94"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "6.3"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "12.6"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "2.30"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "15.7"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 21.08317214700193,
+          "Miss bats": 0,
           "Command": 0,
           "Damage suppression": 0
         },
@@ -6365,46 +5440,45 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           "Pitcher"
         ],
         "leaderboards": [
-          "Akron Athletics roster",
-          "Akron cumulative stats"
+          "Akron Athletics roster"
         ],
-        "sourceSummary": "Akron Athletics roster + Akron cumulative stats",
+        "sourceSummary": "Akron Athletics roster",
         "schoolSlug": "akron",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://gozips.com/sports/baseball/roster/garrett-groce/9875",
+        "profileUrl": "https://gozips.com/sports/baseball/roster/garrett-groce/10277",
         "espnAthleteId": ""
       },
       {
-        "id": "akron-9859",
+        "id": "akron-10285",
         "name": "Brennan Morgan",
         "school": "Akron",
         "role": "Pitcher",
         "position": "INF/RHP",
         "classYear": "R-JR",
         "handedness": "R/R",
-        "score": 21,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Brennan Morgan looks like a INF/RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 20.25",
-          "WHIP 2.25",
-          "K/9 6.8"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "20.25"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "2.25"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "6.8"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
@@ -6412,18 +5486,18 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           },
           {
             "label": "HR/9",
-            "value": "6.75"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "1.3"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 25,
-          "Command": 100,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
         "metaLine": "R-JR / R/R",
@@ -6431,67 +5505,66 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           "INF/RHP",
           "R-JR",
           "R/R",
-          "Two-Way"
+          "Pitcher"
         ],
         "leaderboards": [
-          "Akron Athletics roster",
-          "Akron cumulative stats"
+          "Akron Athletics roster"
         ],
-        "sourceSummary": "Akron Athletics roster + Akron cumulative stats",
+        "sourceSummary": "Akron Athletics roster",
         "schoolSlug": "akron",
-        "compositeRole": "Two-Way",
-        "profileUrl": "https://gozips.com/sports/baseball/roster/brennan-morgan/9859",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gozips.com/sports/baseball/roster/brennan-morgan/10285",
         "espnAthleteId": ""
       },
       {
-        "id": "akron-9846",
+        "id": "akron-10272",
         "name": "Taylor Bednar",
         "school": "Akron",
         "role": "Pitcher",
         "position": "RHP",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 7,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Taylor Bednar gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Taylor Bednar looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 9.78",
-          "WHIP 2.48",
-          "K/9 7.8"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "9.78"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "2.48"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "7.8"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "9.4"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.17"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "23.0"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 34.78260869565217,
+          "Miss bats": 0,
           "Command": 0,
           "Damage suppression": 0
         },
@@ -6503,13 +5576,12 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           "Pitcher"
         ],
         "leaderboards": [
-          "Akron Athletics roster",
-          "Akron cumulative stats"
+          "Akron Athletics roster"
         ],
-        "sourceSummary": "Akron Athletics roster + Akron cumulative stats",
+        "sourceSummary": "Akron Athletics roster",
         "schoolSlug": "akron",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://gozips.com/sports/baseball/roster/taylor-bednar/9846",
+        "profileUrl": "https://gozips.com/sports/baseball/roster/taylor-bednar/10272",
         "espnAthleteId": ""
       },
       {
@@ -6582,109 +5654,108 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "akron-9874",
+        "id": "akron-10275",
         "name": "Prince DeBoskie",
         "school": "Akron",
         "role": "Hitter",
         "position": "OF",
         "classYear": "R-JR",
         "handedness": "S/R",
-        "score": 57,
+        "score": 0,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
-        "summary": "Prince DeBoskie profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
+        "summary": "Prince DeBoskie gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .337",
-          "OBP .409",
-          "SLG .515"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".337"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".409"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".515"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "3"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "16"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "17"
+            "value": "0"
           }
         ],
         "components": {
-          "On-base": 71.66666666666664,
-          "Power": 51.31578947368421,
-          "Contact": 73.125,
-          "Discipline": 14.814814814814808,
-          "Speed": 56.666666666666664
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
         "metaLine": "R-JR / S/R",
         "detailBadges": [
           "OF",
           "R-JR",
           "S/R",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "Akron Athletics roster",
-          "Akron cumulative stats"
+          "Akron Athletics roster"
         ],
-        "sourceSummary": "Akron Athletics roster + Akron cumulative stats",
+        "sourceSummary": "Akron Athletics roster",
         "schoolSlug": "akron",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://gozips.com/sports/baseball/roster/prince-deboskie/9874",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gozips.com/sports/baseball/roster/prince-deboskie/10275",
         "espnAthleteId": ""
       },
       {
-        "id": "akron-9879",
+        "id": "akron-10279",
         "name": "Cy Herchelroath",
         "school": "Akron",
         "role": "Pitcher",
         "position": "LHP",
         "classYear": "FR",
         "handedness": "L/L",
-        "score": 7,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Cy Herchelroath gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Cy Herchelroath looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 6.89",
-          "WHIP 1.91",
-          "K/9 8.0"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.89"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.91"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "8.0"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "9.2"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
@@ -6692,13 +5763,13 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           },
           {
             "label": "IP",
-            "value": "15.7"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 36.750483558994205,
+          "Miss bats": 0,
           "Command": 0,
           "Damage suppression": 0
         },
@@ -6710,82 +5781,80 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           "Pitcher"
         ],
         "leaderboards": [
-          "Akron Athletics roster",
-          "Akron cumulative stats"
+          "Akron Athletics roster"
         ],
-        "sourceSummary": "Akron Athletics roster + Akron cumulative stats",
+        "sourceSummary": "Akron Athletics roster",
         "schoolSlug": "akron",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://gozips.com/sports/baseball/roster/cy-herchelroath/9879",
+        "profileUrl": "https://gozips.com/sports/baseball/roster/cy-herchelroath/10279",
         "espnAthleteId": ""
       },
       {
-        "id": "akron-9866",
+        "id": "akron-10288",
         "name": "Mitchel Szymczak",
         "school": "Akron",
         "role": "Hitter",
         "position": "C",
         "classYear": "R-JR",
         "handedness": "R/R",
-        "score": 9,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Mitchel Szymczak gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .200",
-          "OBP .317",
-          "SLG .318"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".200"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".317"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".318"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "2"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "10"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "1"
+            "value": "0"
           }
         ],
         "components": {
-          "On-base": 20.555555555555543,
+          "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 17.77777777777777,
-          "Speed": 3.3333333333333335
+          "Discipline": 0,
+          "Speed": 0
         },
         "metaLine": "R-JR / R/R",
         "detailBadges": [
           "C",
           "R-JR",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "Akron Athletics roster",
-          "Akron cumulative stats"
+          "Akron Athletics roster"
         ],
-        "sourceSummary": "Akron Athletics roster + Akron cumulative stats",
+        "sourceSummary": "Akron Athletics roster",
         "schoolSlug": "akron",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://gozips.com/sports/baseball/roster/mitchel-szymczak/9866",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gozips.com/sports/baseball/roster/mitchel-szymczak/10288",
         "espnAthleteId": ""
       },
       {
@@ -6996,44 +6065,44 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "akron-9870",
+        "id": "akron-10280",
         "name": "Atticus Huffstutler",
         "school": "Akron",
         "role": "Hitter",
         "position": "C",
         "classYear": "R-FR",
         "handedness": "R/R",
-        "score": 22,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Atticus Huffstutler gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .250",
-          "OBP .308",
-          "SLG .417"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".250"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".308"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".417"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "1"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "6"
+            "value": "0"
           },
           {
             "label": "SB",
@@ -7041,10 +6110,10 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           }
         ],
         "components": {
-          "On-base": 15.55555555555554,
-          "Power": 25.52631578947368,
-          "Contact": 18.75,
-          "Discipline": 51.85185185185184,
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
           "Speed": 0
         },
         "metaLine": "R-FR / R/R",
@@ -7052,68 +6121,67 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           "C",
           "R-FR",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "Akron Athletics roster",
-          "Akron cumulative stats"
+          "Akron Athletics roster"
         ],
-        "sourceSummary": "Akron Athletics roster + Akron cumulative stats",
+        "sourceSummary": "Akron Athletics roster",
         "schoolSlug": "akron",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://gozips.com/sports/baseball/roster/atticus-huffstutler/9870",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gozips.com/sports/baseball/roster/atticus-huffstutler/10280",
         "espnAthleteId": ""
       },
       {
-        "id": "akron-9862",
+        "id": "akron-10283",
         "name": "Floyd McKenna",
         "school": "Akron",
         "role": "Pitcher",
         "position": "LHP",
         "classYear": "JR",
         "handedness": "L/L",
-        "score": 14,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Floyd McKenna looks like a LHP option who limits runs.",
+        "summary": "Floyd McKenna looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 3.78",
-          "WHIP 1.35",
-          "K/9 8.9"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.78"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.35"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "8.9"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "3.5"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "0.54"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "33.3"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 44.63636363636363,
-          "Command": 30.769230769230777,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
         "metaLine": "JR / L/L",
@@ -7124,50 +6192,49 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           "Pitcher"
         ],
         "leaderboards": [
-          "Akron Athletics roster",
-          "Akron cumulative stats"
+          "Akron Athletics roster"
         ],
-        "sourceSummary": "Akron Athletics roster + Akron cumulative stats",
+        "sourceSummary": "Akron Athletics roster",
         "schoolSlug": "akron",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://gozips.com/sports/baseball/roster/floyd-mckenna/9862",
+        "profileUrl": "https://gozips.com/sports/baseball/roster/floyd-mckenna/10283",
         "espnAthleteId": ""
       },
       {
-        "id": "akron-9872",
+        "id": "akron-10271",
         "name": "Carter Beck",
         "school": "Akron",
         "role": "Pitcher",
         "position": "LHP",
         "classYear": "FR",
         "handedness": "L/L",
-        "score": 9,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Carter Beck looks like a LHP option who misses bats.",
+        "summary": "Carter Beck looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 8.15",
-          "WHIP 2.38",
-          "K/9 9.2"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "8.15"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "2.38"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "9.2"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "10.7"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
@@ -7175,13 +6242,13 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           },
           {
             "label": "IP",
-            "value": "17.7"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 46.99828473413378,
+          "Miss bats": 0,
           "Command": 0,
           "Damage suppression": 0
         },
@@ -7193,13 +6260,12 @@ window.__BASEBALL_DATASETS__.akron2026 = {
           "Pitcher"
         ],
         "leaderboards": [
-          "Akron Athletics roster",
-          "Akron cumulative stats"
+          "Akron Athletics roster"
         ],
-        "sourceSummary": "Akron Athletics roster + Akron cumulative stats",
+        "sourceSummary": "Akron Athletics roster",
         "schoolSlug": "akron",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://gozips.com/sports/baseball/roster/carter-beck/9872",
+        "profileUrl": "https://gozips.com/sports/baseball/roster/carter-beck/10271",
         "espnAthleteId": ""
       },
       {
@@ -7272,7 +6338,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "akron-10143",
+        "id": "akron-10273",
         "name": "Matt Brown",
         "school": "Akron",
         "role": "Pitcher",
@@ -7336,7 +6402,7 @@ window.__BASEBALL_DATASETS__.akron2026 = {
         "sourceSummary": "Akron Athletics roster",
         "schoolSlug": "akron",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://gozips.com/sports/baseball/roster/matt-brown/10143",
+        "profileUrl": "https://gozips.com/sports/baseball/roster/matt-brown/10273",
         "espnAthleteId": ""
       },
       {
