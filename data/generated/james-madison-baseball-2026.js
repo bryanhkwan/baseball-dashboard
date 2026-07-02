@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.james-madison2026 = {
-  "generatedAt": "2026-07-01T11:24:06.016Z",
+  "generatedAt": "2026-07-02T11:08:50.421Z",
   "season": 2026,
   "school": {
     "slug": "james-madison",
