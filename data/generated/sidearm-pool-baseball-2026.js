@@ -1,10 +1,10 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
-  "generatedAt": "2026-07-02T11:09:37.257Z",
+  "generatedAt": "2026-07-03T11:10:11.582Z",
   "season": 2026,
   "source": "Generated Sidearm baseball school-site pool",
   "note": "This generated free player pool combines verified public roster and cumulative stats pages from multiple Sidearm baseball programs. It is broader than Toledo alone, but still not a full every-school national directory yet.",
-  "schoolCount": 63,
+  "schoolCount": 64,
   "schools": [
     {
       "slug": "middle-tenn",
@@ -323,10 +323,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
       "name": "George Washington",
       "longName": "George Washington University",
       "record": "18-35, 9-21",
-      "totalPlayers": 33,
-      "hitters": 16,
+      "totalPlayers": 34,
+      "hitters": 17,
       "pitchers": 17,
-      "rosterPlayers": 33,
+      "rosterPlayers": 34,
       "playersWithAnyStats": 0,
       "statsUrl": "https://gwsports.com/sports/baseball/stats/2026",
       "rosterUrl": "https://gwsports.com/sports/baseball/roster"
@@ -401,11 +401,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
       "name": "Marshall",
       "longName": "Marshall University",
       "record": "23-32, 13-17",
-      "totalPlayers": 37,
-      "hitters": 18,
-      "pitchers": 19,
-      "rosterPlayers": 37,
-      "playersWithAnyStats": 32,
+      "totalPlayers": 19,
+      "hitters": 9,
+      "pitchers": 10,
+      "rosterPlayers": 19,
+      "playersWithAnyStats": 0,
       "statsUrl": "https://herdzone.com/sports/baseball/stats/2026",
       "rosterUrl": "https://herdzone.com/sports/baseball/roster"
     },
@@ -761,6 +761,19 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
       "rosterUrl": "https://troytrojans.com/sports/baseball/roster"
     },
     {
+      "slug": "tulane",
+      "name": "Tulane",
+      "longName": "Tulane University",
+      "record": "25-31, 10-17",
+      "totalPlayers": 16,
+      "hitters": 8,
+      "pitchers": 8,
+      "rosterPlayers": 16,
+      "playersWithAnyStats": 14,
+      "statsUrl": "https://tulanegreenwave.com/sports/baseball/stats/2026",
+      "rosterUrl": "https://tulanegreenwave.com/sports/baseball/roster"
+    },
+    {
       "slug": "uab",
       "name": "UAB",
       "longName": "UAB",
@@ -827,18 +840,18 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
     }
   ],
   "coverage": {
-    "totalPlayers": 2321,
+    "totalPlayers": 2320,
     "totalHitters": 1065,
-    "totalPitchers": 1256,
-    "schoolsCovered": 63
+    "totalPitchers": 1255,
+    "schoolsCovered": 64
   },
   "playerBoard": {
     "source": "Generated Sidearm baseball school-site pool",
     "note": "This free generated pool comes from verified public school-site roster and cumulative stats pages across multiple Sidearm baseball programs.",
-    "totalPlayers": 2321,
+    "totalPlayers": 2320,
     "roleCounts": {
       "Hitter": 1065,
-      "Pitcher": 1256
+      "Pitcher": 1255
     },
     "players": [
       {
@@ -64152,6 +64165,74 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "espnAthleteId": ""
       },
       {
+        "id": "george-washington-10495",
+        "name": "Miguel Morales",
+        "school": "George Washington",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "GR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Miguel Morales gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "GR / N/A",
+        "detailBadges": [
+          "INF",
+          "GR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "George Washington Athletics roster"
+        ],
+        "sourceSummary": "George Washington Athletics roster",
+        "schoolSlug": "george-washington",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gwsports.com/sports/baseball/roster/miguel-morales/10495",
+        "espnAthleteId": ""
+      },
+      {
         "id": "george-washington-10435",
         "name": "Camden Ogden",
         "school": "George Washington",
@@ -77796,320 +77877,44 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "marshall-10706",
+        "id": "marshall-11493",
         "name": "Tyler Kamerer",
         "school": "Marshall",
         "role": "Hitter",
         "position": "INF",
-        "classYear": "R-JR",
+        "classYear": "R-SR",
         "handedness": "R/R",
-        "score": 45,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Tyler Kamerer gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .319",
-          "OBP .379",
-          "SLG .448"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".319"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".379"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".448"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "2"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "30"
-          },
-          {
-            "label": "SB",
-            "value": "6"
-          }
-        ],
-        "components": {
-          "On-base": 54.99999999999999,
-          "Power": 33.684210526315795,
-          "Contact": 61.875,
-          "Discipline": 37.03703703703703,
-          "Speed": 20
-        },
-        "metaLine": "R-JR / R/R",
-        "detailBadges": [
-          "INF",
-          "R-JR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Marshall Athletics roster",
-          "Marshall cumulative stats"
-        ],
-        "sourceSummary": "Marshall Athletics roster + Marshall cumulative stats",
-        "schoolSlug": "marshall",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://herdzone.com/sports/baseball/roster/tyler-kamerer/10706",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "marshall-10983",
-        "name": "Evan Bottone",
-        "school": "Marshall",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "JR",
-        "handedness": "L/R",
-        "score": 80,
-        "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
-        },
-        "summary": "Evan Bottone profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .381",
-          "OBP .475",
-          "SLG .572"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".381"
-          },
-          {
-            "label": "OBP",
-            "value": ".475"
-          },
-          {
-            "label": "SLG",
-            "value": ".572"
-          },
-          {
-            "label": "HR",
-            "value": "8"
-          },
-          {
-            "label": "RBI",
-            "value": "41"
-          },
-          {
-            "label": "SB",
-            "value": "11"
-          }
-        ],
-        "components": {
-          "On-base": 100,
-          "Power": 66.3157894736842,
-          "Contact": 100,
-          "Discipline": 62.962962962962955,
-          "Speed": 36.666666666666664
-        },
-        "metaLine": "JR / L/R",
-        "detailBadges": [
-          "OF",
-          "JR",
-          "L/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Marshall Athletics roster",
-          "Marshall cumulative stats"
-        ],
-        "sourceSummary": "Marshall Athletics roster + Marshall cumulative stats",
-        "schoolSlug": "marshall",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://herdzone.com/sports/baseball/roster/evan-bottone/10983",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "marshall-10700",
-        "name": "Jackson Halter",
-        "school": "Marshall",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "GR",
-        "handedness": "L/R",
-        "score": 32,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jackson Halter gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .255",
-          "OBP .346",
-          "SLG .481"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".255"
-          },
-          {
-            "label": "OBP",
-            "value": ".346"
-          },
-          {
-            "label": "SLG",
-            "value": ".481"
-          },
-          {
-            "label": "HR",
-            "value": "11"
-          },
-          {
-            "label": "RBI",
-            "value": "52"
-          },
-          {
-            "label": "SB",
-            "value": "2"
-          }
-        ],
-        "components": {
-          "On-base": 36.666666666666636,
-          "Power": 42.368421052631575,
-          "Contact": 21.875000000000004,
-          "Discipline": 32.04134366925064,
-          "Speed": 6.666666666666667
-        },
-        "metaLine": "GR / L/R",
-        "detailBadges": [
-          "OF",
-          "GR",
-          "L/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Marshall Athletics roster",
-          "Marshall cumulative stats"
-        ],
-        "sourceSummary": "Marshall Athletics roster + Marshall cumulative stats",
-        "schoolSlug": "marshall",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://herdzone.com/sports/baseball/roster/jackson-halter/10700",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "marshall-10686",
-        "name": "Blaine Albright",
-        "school": "Marshall",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "R-SO",
-        "handedness": "L/L",
-        "score": 8,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Blaine Albright gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 7.92",
-          "WHIP 2.20",
-          "K/9 8.3"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "7.92"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.20"
-          },
-          {
-            "label": "K/9",
-            "value": "8.3"
-          },
-          {
-            "label": "BB/9",
-            "value": "9.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "25.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 38.90909090909091,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-SO / L/L",
-        "detailBadges": [
-          "LHP",
-          "R-SO",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Marshall Athletics roster",
-          "Marshall cumulative stats"
-        ],
-        "sourceSummary": "Marshall Athletics roster + Marshall cumulative stats",
-        "schoolSlug": "marshall",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://herdzone.com/sports/baseball/roster/blaine-albright/10686",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "marshall-10984",
-        "name": "Ty Householder",
-        "school": "Marshall",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "FR",
-        "handedness": "R/L",
-        "score": 90,
-        "fit": {
-          "label": "Priority",
-          "className": "fit-priority"
-        },
-        "summary": "Ty Householder profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
-        "summaryMetrics": [
-          "AVG 1.000",
-          "OBP 1.000",
-          "SLG 3.000"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "1.000"
-          },
-          {
-            "label": "OBP",
-            "value": "1.000"
-          },
-          {
-            "label": "SLG",
-            "value": "3.000"
-          },
-          {
-            "label": "HR",
-            "value": "1"
-          },
-          {
-            "label": "RBI",
-            "value": "1"
+            "value": "0"
           },
           {
             "label": "SB",
@@ -78117,68 +77922,67 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 100,
-          "Power": 100,
-          "Contact": 100,
-          "Discipline": 100,
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "FR / R/L",
+        "metaLine": "R-SR / R/R",
         "detailBadges": [
-          "OF",
-          "FR",
-          "R/L",
-          "Hitter"
+          "INF",
+          "R-SR",
+          "R/R",
+          "Rostered"
         ],
         "leaderboards": [
-          "Marshall Athletics roster",
-          "Marshall cumulative stats"
+          "Marshall Athletics roster"
         ],
-        "sourceSummary": "Marshall Athletics roster + Marshall cumulative stats",
+        "sourceSummary": "Marshall Athletics roster",
         "schoolSlug": "marshall",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://herdzone.com/sports/baseball/roster/ty-householder/10984",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://herdzone.com/sports/baseball/roster/tyler-kamerer/11493",
         "espnAthleteId": ""
       },
       {
-        "id": "marshall-10697",
+        "id": "marshall-11484",
         "name": "Jackson Golden",
         "school": "Marshall",
         "role": "Hitter",
         "position": "C",
-        "classYear": "SO",
+        "classYear": "JR",
         "handedness": "R/R",
-        "score": 20,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jackson Golden gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .259",
-          "OBP .331",
-          "SLG .358"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".259"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".331"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".358"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "2"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "21"
+            "value": "0"
           },
           {
             "label": "SB",
@@ -78186,733 +77990,314 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           }
         ],
         "components": {
-          "On-base": 28.33333333333333,
-          "Power": 9.999999999999995,
-          "Contact": 24.375000000000004,
-          "Discipline": 26.66666666666666,
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "SO / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "C",
-          "SO",
+          "JR",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "Marshall Athletics roster",
-          "Marshall cumulative stats"
+          "Marshall Athletics roster"
         ],
-        "sourceSummary": "Marshall Athletics roster + Marshall cumulative stats",
+        "sourceSummary": "Marshall Athletics roster",
         "schoolSlug": "marshall",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://herdzone.com/sports/baseball/roster/jackson-golden/10697",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://herdzone.com/sports/baseball/roster/jackson-golden/11484",
         "espnAthleteId": ""
       },
       {
-        "id": "marshall-10985",
-        "name": "Bryce Blevins",
-        "school": "Marshall",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "SR",
-        "handedness": "L/L",
-        "score": 17,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Bryce Blevins looks like a LHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA 4.97",
-          "WHIP 1.33",
-          "K/9 7.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.97"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.33"
-          },
-          {
-            "label": "K/9",
-            "value": "7.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "1.6"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.11"
-          },
-          {
-            "label": "IP",
-            "value": "105.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 30.649350649350644,
-          "Command": 70.52631578947368,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / L/L",
-        "detailBadges": [
-          "LHP",
-          "SR",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Marshall Athletics roster",
-          "Marshall cumulative stats"
-        ],
-        "sourceSummary": "Marshall Athletics roster + Marshall cumulative stats",
-        "schoolSlug": "marshall",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://herdzone.com/sports/baseball/roster/bryce-blevins/10985",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "marshall-10986",
+        "id": "marshall-11482",
         "name": "Landen Doll",
         "school": "Marshall",
         "role": "Pitcher",
         "position": "LHP",
-        "classYear": "FR",
+        "classYear": "SO",
         "handedness": "L/L",
-        "score": 17,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Landen Doll looks like a LHP option who misses bats.",
+        "summary": "Landen Doll looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 7.68",
-          "WHIP 1.47",
-          "K/9 10.7"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.68"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.47"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "10.7"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "4.2"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.40"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "38.7"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 60.97178683385581,
-          "Command": 31.111111111111107,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "FR / L/L",
+        "metaLine": "SO / L/L",
         "detailBadges": [
           "LHP",
-          "FR",
+          "SO",
           "L/L",
           "Pitcher"
         ],
         "leaderboards": [
-          "Marshall Athletics roster",
-          "Marshall cumulative stats"
+          "Marshall Athletics roster"
         ],
-        "sourceSummary": "Marshall Athletics roster + Marshall cumulative stats",
+        "sourceSummary": "Marshall Athletics roster",
         "schoolSlug": "marshall",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://herdzone.com/sports/baseball/roster/landen-doll/10986",
+        "profileUrl": "https://herdzone.com/sports/baseball/roster/landen-doll/11482",
         "espnAthleteId": ""
       },
       {
-        "id": "marshall-10707",
-        "name": "Charlie Krebs",
-        "school": "Marshall",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 10,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Charlie Krebs gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 6.08",
-          "WHIP 1.70",
-          "K/9 8.6"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "6.08"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.70"
-          },
-          {
-            "label": "K/9",
-            "value": "8.6"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.2"
-          },
-          {
-            "label": "HR/9",
-            "value": "2.25"
-          },
-          {
-            "label": "IP",
-            "value": "40.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 41.36363636363637,
-          "Command": 13.04347826086957,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Marshall Athletics roster",
-          "Marshall cumulative stats"
-        ],
-        "sourceSummary": "Marshall Athletics roster + Marshall cumulative stats",
-        "schoolSlug": "marshall",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://herdzone.com/sports/baseball/roster/charlie-krebs/10707",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "marshall-10709",
+        "id": "marshall-11496",
         "name": "A.J. McAninch",
         "school": "Marshall",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "SO",
+        "classYear": "JR",
         "handedness": "L/R",
-        "score": 10,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "A.J. McAninch gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "A.J. McAninch looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 8.59",
-          "WHIP 1.91",
-          "K/9 8.0"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "8.59"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.91"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "8.0"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "4.3"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "0.61"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "14.7"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 36.15702479338843,
-          "Command": 17.14285714285714,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SO / L/R",
+        "metaLine": "JR / L/R",
         "detailBadges": [
           "RHP",
-          "SO",
+          "JR",
           "L/R",
           "Pitcher"
         ],
         "leaderboards": [
-          "Marshall Athletics roster",
-          "Marshall cumulative stats"
+          "Marshall Athletics roster"
         ],
-        "sourceSummary": "Marshall Athletics roster + Marshall cumulative stats",
+        "sourceSummary": "Marshall Athletics roster",
         "schoolSlug": "marshall",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://herdzone.com/sports/baseball/roster/aj-mcaninch/10709",
+        "profileUrl": "https://herdzone.com/sports/baseball/roster/aj-mcaninch/11496",
         "espnAthleteId": ""
       },
       {
-        "id": "marshall-10996",
-        "name": "Drew Harlow",
-        "school": "Marshall",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "GR",
-        "handedness": "R/R",
-        "score": 11,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Drew Harlow gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 5.27",
-          "WHIP 1.51",
-          "K/9 8.1"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.27"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.51"
-          },
-          {
-            "label": "K/9",
-            "value": "8.1"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.7"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.12"
-          },
-          {
-            "label": "IP",
-            "value": "80.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 36.96718219539796,
-          "Command": 23.636363636363633,
-          "Damage suppression": 0
-        },
-        "metaLine": "GR / R/R",
-        "detailBadges": [
-          "RHP",
-          "GR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Marshall Athletics roster",
-          "Marshall cumulative stats"
-        ],
-        "sourceSummary": "Marshall Athletics roster + Marshall cumulative stats",
-        "schoolSlug": "marshall",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://herdzone.com/sports/baseball/roster/drew-harlow/10996",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "marshall-10703",
+        "id": "marshall-11488",
         "name": "Cooper Hinson",
         "school": "Marshall",
         "role": "Hitter",
         "position": "OF",
-        "classYear": "SO",
+        "classYear": "JR",
         "handedness": "L/R",
-        "score": 30,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Cooper Hinson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .295",
-          "OBP .350",
-          "SLG .420"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".295"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".350"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".420"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "2"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "37"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "1"
+            "value": "0"
           }
         ],
         "components": {
-          "On-base": 38.888888888888864,
-          "Power": 26.31578947368421,
-          "Contact": 46.874999999999986,
-          "Discipline": 16.816816816816814,
-          "Speed": 3.3333333333333335
-        },
-        "metaLine": "SO / L/R",
-        "detailBadges": [
-          "OF",
-          "SO",
-          "L/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Marshall Athletics roster",
-          "Marshall cumulative stats"
-        ],
-        "sourceSummary": "Marshall Athletics roster + Marshall cumulative stats",
-        "schoolSlug": "marshall",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://herdzone.com/sports/baseball/roster/cooper-hinson/10703",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "marshall-10987",
-        "name": "Cleary Simpson",
-        "school": "Marshall",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "GR",
-        "handedness": "L/R",
-        "score": 36,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Cleary Simpson profiles as a INF piece who controls at-bats.",
-        "summaryMetrics": [
-          "AVG .219",
-          "OBP .393",
-          "SLG .281"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".219"
-          },
-          {
-            "label": "OBP",
-            "value": ".393"
-          },
-          {
-            "label": "SLG",
-            "value": ".281"
-          },
-          {
-            "label": "HR",
-            "value": "1"
-          },
-          {
-            "label": "RBI",
-            "value": "19"
-          },
-          {
-            "label": "SB",
-            "value": "7"
-          }
-        ],
-        "components": {
-          "On-base": 62.77777777777778,
+          "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 100,
-          "Speed": 23.333333333333332
+          "Discipline": 0,
+          "Speed": 0
         },
-        "metaLine": "GR / L/R",
+        "metaLine": "JR / L/R",
         "detailBadges": [
-          "INF",
-          "GR",
+          "OF",
+          "JR",
           "L/R",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "Marshall Athletics roster",
-          "Marshall cumulative stats"
+          "Marshall Athletics roster"
         ],
-        "sourceSummary": "Marshall Athletics roster + Marshall cumulative stats",
+        "sourceSummary": "Marshall Athletics roster",
         "schoolSlug": "marshall",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://herdzone.com/sports/baseball/roster/cleary-simpson/10987",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://herdzone.com/sports/baseball/roster/cooper-hinson/11488",
         "espnAthleteId": ""
       },
       {
-        "id": "marshall-10988",
+        "id": "marshall-11499",
         "name": "Mason Onate",
         "school": "Marshall",
         "role": "Hitter",
         "position": "INF",
-        "classYear": "R-SO",
+        "classYear": "R-JR",
         "handedness": "L/R",
-        "score": 41,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Mason Onate gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .282",
-          "OBP .380",
-          "SLG .437"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".282"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".380"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".437"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "3"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "8"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "7"
+            "value": "0"
           }
         ],
         "components": {
-          "On-base": 55.55555555555555,
-          "Power": 30.789473684210527,
-          "Contact": 38.74999999999998,
-          "Discipline": 43.43434343434343,
-          "Speed": 23.333333333333332
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "metaLine": "R-SO / L/R",
+        "metaLine": "R-JR / L/R",
         "detailBadges": [
           "INF",
-          "R-SO",
+          "R-JR",
           "L/R",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "Marshall Athletics roster",
-          "Marshall cumulative stats"
+          "Marshall Athletics roster"
         ],
-        "sourceSummary": "Marshall Athletics roster + Marshall cumulative stats",
+        "sourceSummary": "Marshall Athletics roster",
         "schoolSlug": "marshall",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://herdzone.com/sports/baseball/roster/mason-onate/10988",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://herdzone.com/sports/baseball/roster/mason-onate/11499",
         "espnAthleteId": ""
       },
       {
-        "id": "marshall-10699",
+        "id": "marshall-11486",
         "name": "Davis Gunn",
         "school": "Marshall",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "R-FR",
-        "handedness": "R/R",
-        "score": 8,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Davis Gunn gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 5.14",
-          "WHIP 1.86",
-          "K/9 7.7"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.14"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.86"
-          },
-          {
-            "label": "K/9",
-            "value": "7.7"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.6"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.29"
-          },
-          {
-            "label": "IP",
-            "value": "21.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 33.76623376623377,
-          "Command": 7.692307692307695,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-FR / R/R",
-        "detailBadges": [
-          "RHP",
-          "R-FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Marshall Athletics roster",
-          "Marshall cumulative stats"
-        ],
-        "sourceSummary": "Marshall Athletics roster + Marshall cumulative stats",
-        "schoolSlug": "marshall",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://herdzone.com/sports/baseball/roster/davis-gunn/10699",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "marshall-10687",
-        "name": "Tim Baird",
-        "school": "Marshall",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "GR",
-        "handedness": "R/R",
-        "score": 25,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Tim Baird looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 4.97",
-          "WHIP 1.34",
-          "K/9 16.3"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.97"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.34"
-          },
-          {
-            "label": "K/9",
-            "value": "16.3"
-          },
-          {
-            "label": "BB/9",
-            "value": "6.4"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.71"
-          },
-          {
-            "label": "IP",
-            "value": "12.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 100,
-          "Command": 31.111111111111107,
-          "Damage suppression": 0
-        },
-        "metaLine": "GR / R/R",
-        "detailBadges": [
-          "RHP",
-          "GR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Marshall Athletics roster",
-          "Marshall cumulative stats"
-        ],
-        "sourceSummary": "Marshall Athletics roster + Marshall cumulative stats",
-        "schoolSlug": "marshall",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://herdzone.com/sports/baseball/roster/tim-baird/10687",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "marshall-10711",
-        "name": "Griffin Miller",
-        "school": "Marshall",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
+        "classYear": "R-SO",
         "handedness": "R/R",
         "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Griffin Miller looks like a RHP option who throws enough strikes.",
+        "summary": "Davis Gunn looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -78951,10 +78336,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "JR / R/R",
+        "metaLine": "R-SO / R/R",
         "detailBadges": [
           "RHP",
-          "JR",
+          "R-SO",
           "R/R",
           "Pitcher"
         ],
@@ -78964,247 +78349,40 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "sourceSummary": "Marshall Athletics roster",
         "schoolSlug": "marshall",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://herdzone.com/sports/baseball/roster/griffin-miller/10711",
+        "profileUrl": "https://herdzone.com/sports/baseball/roster/davis-gunn/11486",
         "espnAthleteId": ""
       },
       {
-        "id": "marshall-10698",
-        "name": "Wil Gubba",
-        "school": "Marshall",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "R-FR",
-        "handedness": "R/R",
-        "score": 23,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Wil Gubba gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .280",
-          "OBP .357",
-          "SLG .360"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".280"
-          },
-          {
-            "label": "OBP",
-            "value": ".357"
-          },
-          {
-            "label": "SLG",
-            "value": ".360"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "3"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 42.77777777777775,
-          "Power": 10.526315789473681,
-          "Contact": 37.500000000000014,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "R-FR / R/R",
-        "detailBadges": [
-          "C",
-          "R-FR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Marshall Athletics roster",
-          "Marshall cumulative stats"
-        ],
-        "sourceSummary": "Marshall Athletics roster + Marshall cumulative stats",
-        "schoolSlug": "marshall",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://herdzone.com/sports/baseball/roster/wil-gubba/10698",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "marshall-10716",
+        "id": "marshall-11503",
         "name": "Jack Smith",
         "school": "Marshall",
         "role": "Hitter",
         "position": "INF",
-        "classYear": "JR",
+        "classYear": "SR",
         "handedness": "R/R",
-        "score": 8,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jack Smith gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .250",
-          "OBP .289",
-          "SLG .321"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".250"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".289"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".321"
-          },
-          {
-            "label": "HR",
-            "value": "1"
-          },
-          {
-            "label": "RBI",
-            "value": "22"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
-        "components": {
-          "On-base": 4.999999999999974,
-          "Power": 0.26315789473684237,
-          "Contact": 18.75,
-          "Discipline": 18.18181818181818,
-          "Speed": 3.3333333333333335
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "INF",
-          "JR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Marshall Athletics roster",
-          "Marshall cumulative stats"
-        ],
-        "sourceSummary": "Marshall Athletics roster + Marshall cumulative stats",
-        "schoolSlug": "marshall",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://herdzone.com/sports/baseball/roster/jack-smith/10716",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "marshall-10702",
-        "name": "AJ Havrilla",
-        "school": "Marshall",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 55,
-        "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
-        },
-        "summary": "AJ Havrilla profiles as a INF piece who gets on base at a high clip and controls at-bats.",
-        "summaryMetrics": [
-          "AVG .266",
-          "OBP .446",
-          "SLG .402"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".266"
-          },
-          {
-            "label": "OBP",
-            "value": ".446"
-          },
-          {
-            "label": "SLG",
-            "value": ".402"
-          },
-          {
-            "label": "HR",
-            "value": "6"
-          },
-          {
-            "label": "RBI",
-            "value": "38"
-          },
-          {
-            "label": "SB",
-            "value": "3"
-          }
-        ],
-        "components": {
-          "On-base": 92.22222222222221,
-          "Power": 21.578947368421062,
-          "Contact": 28.750000000000007,
-          "Discipline": 100,
-          "Speed": 10
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "INF",
-          "JR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Marshall Athletics roster",
-          "Marshall cumulative stats"
-        ],
-        "sourceSummary": "Marshall Athletics roster + Marshall cumulative stats",
-        "schoolSlug": "marshall",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://herdzone.com/sports/baseball/roster/aj-havrilla/10702",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "marshall-10989",
-        "name": "Braylon Cordonnier",
-        "school": "Marshall",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "FR",
-        "handedness": "L/R",
-        "score": 2,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Braylon Cordonnier gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .083",
-          "OBP .154",
-          "SLG .083"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".083"
-          },
-          {
-            "label": "OBP",
-            "value": ".154"
-          },
-          {
-            "label": "SLG",
-            "value": ".083"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -79221,525 +78399,177 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         ],
         "components": {
           "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 14.814814814814808,
-          "Speed": 0
-        },
-        "metaLine": "FR / L/R",
-        "detailBadges": [
-          "INF",
-          "FR",
-          "L/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Marshall Athletics roster",
-          "Marshall cumulative stats"
-        ],
-        "sourceSummary": "Marshall Athletics roster + Marshall cumulative stats",
-        "schoolSlug": "marshall",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://herdzone.com/sports/baseball/roster/braylon-cordonnier/10989",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "marshall-10701",
-        "name": "Cam Harthan",
-        "school": "Marshall",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "SR",
-        "handedness": "L/L",
-        "score": 10,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Cam Harthan gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .236",
-          "OBP .276",
-          "SLG .309"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".236"
-          },
-          {
-            "label": "OBP",
-            "value": ".276"
-          },
-          {
-            "label": "SLG",
-            "value": ".309"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "6"
-          },
-          {
-            "label": "SB",
-            "value": "3"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 9.999999999999991,
-          "Discipline": 51.85185185185184,
-          "Speed": 10
-        },
-        "metaLine": "SR / L/L",
-        "detailBadges": [
-          "OF",
-          "SR",
-          "L/L",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Marshall Athletics roster",
-          "Marshall cumulative stats"
-        ],
-        "sourceSummary": "Marshall Athletics roster + Marshall cumulative stats",
-        "schoolSlug": "marshall",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://herdzone.com/sports/baseball/roster/cam-harthan/10701",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "marshall-10712",
-        "name": "Clint Moak",
-        "school": "Marshall",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 1,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Clint Moak gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 18.00",
-          "WHIP 3.00",
-          "K/9 4.5"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "18.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "3.00"
-          },
-          {
-            "label": "K/9",
-            "value": "4.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "9.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "9.00"
-          },
-          {
-            "label": "IP",
-            "value": "2.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 4.545454545454546,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Marshall Athletics roster",
-          "Marshall cumulative stats"
-        ],
-        "sourceSummary": "Marshall Athletics roster + Marshall cumulative stats",
-        "schoolSlug": "marshall",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://herdzone.com/sports/baseball/roster/clint-moak/10712",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "marshall-10708",
-        "name": "Patrick Mazur",
-        "school": "Marshall",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "SO",
-        "handedness": "R/L",
-        "score": 82,
-        "fit": {
-          "label": "Priority",
-          "className": "fit-priority"
-        },
-        "summary": "Patrick Mazur profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
-        "summaryMetrics": [
-          "AVG .600",
-          "OBP .667",
-          "SLG .600"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".600"
-          },
-          {
-            "label": "OBP",
-            "value": ".667"
-          },
-          {
-            "label": "SLG",
-            "value": ".600"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "3"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 100,
-          "Power": 73.6842105263158,
-          "Contact": 100,
-          "Discipline": 88.88888888888889,
-          "Speed": 0
-        },
-        "metaLine": "SO / R/L",
-        "detailBadges": [
-          "OF",
-          "SO",
-          "R/L",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Marshall Athletics roster",
-          "Marshall cumulative stats"
-        ],
-        "sourceSummary": "Marshall Athletics roster + Marshall cumulative stats",
-        "schoolSlug": "marshall",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://herdzone.com/sports/baseball/roster/patrick-mazur/10708",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "marshall-10690",
-        "name": "Ben Cohen",
-        "school": "Marshall",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "R-FR",
-        "handedness": "R/R",
-        "score": 32,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Ben Cohen profiles as a INF piece who gets on base at a high clip.",
-        "summaryMetrics": [
-          "AVG .000",
-          "OBP .500",
-          "SLG .000"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".000"
-          },
-          {
-            "label": "OBP",
-            "value": ".500"
-          },
-          {
-            "label": "SLG",
-            "value": ".000"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "2"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 100,
           "Power": 0,
           "Contact": 0,
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "R-FR / R/R",
+        "metaLine": "SR / R/R",
         "detailBadges": [
           "INF",
-          "R-FR",
+          "SR",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "Marshall Athletics roster",
-          "Marshall cumulative stats"
+          "Marshall Athletics roster"
         ],
-        "sourceSummary": "Marshall Athletics roster + Marshall cumulative stats",
+        "sourceSummary": "Marshall Athletics roster",
         "schoolSlug": "marshall",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://herdzone.com/sports/baseball/roster/ben-cohen/10690",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://herdzone.com/sports/baseball/roster/jack-smith/11503",
         "espnAthleteId": ""
       },
       {
-        "id": "marshall-10990",
-        "name": "Hunter Richardson",
+        "id": "marshall-11487",
+        "name": "AJ Havrilla",
         "school": "Marshall",
-        "role": "Pitcher",
-        "position": "LHP/1B",
-        "classYear": "FR",
-        "handedness": "R/L",
-        "score": 6,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Hunter Richardson gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 9.00",
-          "WHIP 2.14",
-          "K/9 7.1"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "9.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.14"
-          },
-          {
-            "label": "K/9",
-            "value": "7.1"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.8"
-          },
-          {
-            "label": "HR/9",
-            "value": "2.57"
-          },
-          {
-            "label": "IP",
-            "value": "14.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 27.92207792207792,
-          "Command": 4.444444444444442,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / R/L",
-        "detailBadges": [
-          "LHP/1B",
-          "FR",
-          "R/L",
-          "Two-Way"
-        ],
-        "leaderboards": [
-          "Marshall Athletics roster",
-          "Marshall cumulative stats"
-        ],
-        "sourceSummary": "Marshall Athletics roster + Marshall cumulative stats",
-        "schoolSlug": "marshall",
-        "compositeRole": "Two-Way",
-        "profileUrl": "https://herdzone.com/sports/baseball/roster/hunter-richardson/10990",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "marshall-10691",
-        "name": "Kenyon Collins",
-        "school": "Marshall",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 14,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Kenyon Collins looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 5.13",
-          "WHIP 1.44",
-          "K/9 9.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.13"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.44"
-          },
-          {
-            "label": "K/9",
-            "value": "9.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.8"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.88"
-          },
-          {
-            "label": "IP",
-            "value": "72.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
-          "Command": 27.999999999999996,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Marshall Athletics roster",
-          "Marshall cumulative stats"
-        ],
-        "sourceSummary": "Marshall Athletics roster + Marshall cumulative stats",
-        "schoolSlug": "marshall",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://herdzone.com/sports/baseball/roster/kenyon-collins/10691",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "marshall-10704",
-        "name": "Peyton Jackson",
-        "school": "Marshall",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 5,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Peyton Jackson gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 13.17",
-          "WHIP 2.34",
-          "K/9 6.6"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "13.17"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.34"
-          },
-          {
-            "label": "K/9",
-            "value": "6.6"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.9"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.98"
-          },
-          {
-            "label": "IP",
-            "value": "13.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 23.503325942350337,
-          "Command": 2.222222222222223,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Marshall Athletics roster",
-          "Marshall cumulative stats"
-        ],
-        "sourceSummary": "Marshall Athletics roster + Marshall cumulative stats",
-        "schoolSlug": "marshall",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://herdzone.com/sports/baseball/roster/peyton-jackson/10704",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "marshall-10705",
-        "name": "Rivers Johnson",
-        "school": "Marshall",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "R-FR",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "SR",
         "handedness": "R/R",
         "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Rivers Johnson looks like a RHP option who throws enough strikes.",
+        "summary": "AJ Havrilla gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "INF",
+          "SR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Marshall Athletics roster"
+        ],
+        "sourceSummary": "Marshall Athletics roster",
+        "schoolSlug": "marshall",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://herdzone.com/sports/baseball/roster/aj-havrilla/11487",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "marshall-11481",
+        "name": "Braylon Cordonnier",
+        "school": "Marshall",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "SO",
+        "handedness": "L/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Braylon Cordonnier gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "SO / L/R",
+        "detailBadges": [
+          "INF",
+          "SO",
+          "L/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Marshall Athletics roster"
+        ],
+        "sourceSummary": "Marshall Athletics roster",
+        "schoolSlug": "marshall",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://herdzone.com/sports/baseball/roster/braylon-cordonnier/11481",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "marshall-11497",
+        "name": "Clint Moak",
+        "school": "Marshall",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Clint Moak looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -79778,10 +78608,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "R-FR / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "RHP",
-          "R-FR",
+          "JR",
           "R/R",
           "Pitcher"
         ],
@@ -79791,92 +78621,91 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "sourceSummary": "Marshall Athletics roster",
         "schoolSlug": "marshall",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://herdzone.com/sports/baseball/roster/rivers-johnson/10705",
+        "profileUrl": "https://herdzone.com/sports/baseball/roster/clint-moak/11497",
         "espnAthleteId": ""
       },
       {
-        "id": "marshall-10713",
-        "name": "Ethan Murdoch",
+        "id": "marshall-11479",
+        "name": "Ben Cohen",
         "school": "Marshall",
         "role": "Hitter",
-        "position": "OF",
-        "classYear": "GR",
+        "position": "INF",
+        "classYear": "R-SO",
         "handedness": "R/R",
-        "score": 23,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Ethan Murdoch gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .222",
-          "OBP .327",
-          "SLG .444"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".222"
-          },
-          {
-            "label": "OBP",
-            "value": ".327"
-          },
-          {
-            "label": "SLG",
-            "value": ".444"
-          },
-          {
-            "label": "HR",
-            "value": "6"
-          },
-          {
-            "label": "RBI",
-            "value": "17"
-          },
-          {
-            "label": "SB",
-            "value": "2"
-          }
-        ],
-        "components": {
-          "On-base": 26.111111111111107,
-          "Power": 32.631578947368425,
-          "Contact": 1.250000000000001,
-          "Discipline": 35.55555555555555,
-          "Speed": 6.666666666666667
-        },
-        "metaLine": "GR / R/R",
-        "detailBadges": [
-          "OF",
-          "GR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Marshall Athletics roster",
-          "Marshall cumulative stats"
-        ],
-        "sourceSummary": "Marshall Athletics roster + Marshall cumulative stats",
-        "schoolSlug": "marshall",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://herdzone.com/sports/baseball/roster/ethan-murdoch/10713",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "marshall-10693",
-        "name": "Josh Ferguson",
-        "school": "Marshall",
-        "role": "Pitcher",
-        "position": "P/1B",
-        "classYear": "R-FR",
-        "handedness": "L/R",
         "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Josh Ferguson looks like a P/1B option who throws enough strikes.",
+        "summary": "Ben Cohen gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "R-SO / R/R",
+        "detailBadges": [
+          "INF",
+          "R-SO",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Marshall Athletics roster"
+        ],
+        "sourceSummary": "Marshall Athletics roster",
+        "schoolSlug": "marshall",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://herdzone.com/sports/baseball/roster/ben-cohen/11479",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "marshall-11480",
+        "name": "Kenyon Collins",
+        "school": "Marshall",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Kenyon Collins looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -79915,30 +78744,97 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "R-FR / L/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
-          "P/1B",
-          "R-FR",
-          "L/R",
+          "RHP",
+          "JR",
+          "R/R",
           "Pitcher"
         ],
         "leaderboards": [
-          "Marshall Athletics roster",
-          "Marshall cumulative stats"
+          "Marshall Athletics roster"
         ],
-        "sourceSummary": "Marshall Athletics roster + Marshall cumulative stats",
+        "sourceSummary": "Marshall Athletics roster",
         "schoolSlug": "marshall",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://herdzone.com/sports/baseball/roster/josh-ferguson/10693",
+        "profileUrl": "https://herdzone.com/sports/baseball/roster/kenyon-collins/11480",
         "espnAthleteId": ""
       },
       {
-        "id": "marshall-10991",
+        "id": "marshall-11490",
+        "name": "Peyton Jackson",
+        "school": "Marshall",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Peyton Jackson looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Marshall Athletics roster"
+        ],
+        "sourceSummary": "Marshall Athletics roster",
+        "schoolSlug": "marshall",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://herdzone.com/sports/baseball/roster/peyton-jackson/11490",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "marshall-11492",
         "name": "Grant Jolly",
         "school": "Marshall",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "FR",
+        "classYear": "SO",
         "handedness": "R/R",
         "score": 0,
         "fit": {
@@ -79984,10 +78880,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "FR / R/R",
+        "metaLine": "SO / R/R",
         "detailBadges": [
           "RHP",
-          "FR",
+          "SO",
           "R/R",
           "Pitcher"
         ],
@@ -79997,92 +78893,23 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "sourceSummary": "Marshall Athletics roster",
         "schoolSlug": "marshall",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://herdzone.com/sports/baseball/roster/grant-jolly/10991",
+        "profileUrl": "https://herdzone.com/sports/baseball/roster/grant-jolly/11492",
         "espnAthleteId": ""
       },
       {
-        "id": "marshall-10992",
+        "id": "marshall-11502",
         "name": "Oliver Service",
         "school": "Marshall",
         "role": "Hitter",
         "position": "C",
-        "classYear": "JR",
+        "classYear": "SR",
         "handedness": "R/R",
-        "score": 23,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Oliver Service gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .226",
-          "OBP .358",
-          "SLG .358"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".226"
-          },
-          {
-            "label": "OBP",
-            "value": ".358"
-          },
-          {
-            "label": "SLG",
-            "value": ".358"
-          },
-          {
-            "label": "HR",
-            "value": "2"
-          },
-          {
-            "label": "RBI",
-            "value": "16"
-          },
-          {
-            "label": "SB",
-            "value": "3"
-          }
-        ],
-        "components": {
-          "On-base": 43.333333333333314,
-          "Power": 9.999999999999995,
-          "Contact": 3.7500000000000036,
-          "Discipline": 35.24904214559387,
-          "Speed": 10
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "C",
-          "JR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Marshall Athletics roster",
-          "Marshall cumulative stats"
-        ],
-        "sourceSummary": "Marshall Athletics roster + Marshall cumulative stats",
-        "schoolSlug": "marshall",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://herdzone.com/sports/baseball/roster/oliver-service/10992",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "marshall-10993",
-        "name": "Carter Walters",
-        "school": "Marshall",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "FR",
-        "handedness": "L/L",
         "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Carter Walters gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Oliver Service gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG --",
           "OBP --",
@@ -80121,11 +78948,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "FR / L/L",
+        "metaLine": "SR / R/R",
         "detailBadges": [
-          "OF",
-          "FR",
-          "L/L",
+          "C",
+          "SR",
+          "R/R",
           "Rostered"
         ],
         "leaderboards": [
@@ -80134,150 +78961,12 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "sourceSummary": "Marshall Athletics roster",
         "schoolSlug": "marshall",
         "compositeRole": "Rostered",
-        "profileUrl": "https://herdzone.com/sports/baseball/roster/carter-walters/10993",
+        "profileUrl": "https://herdzone.com/sports/baseball/roster/oliver-service/11502",
         "espnAthleteId": ""
       },
       {
-        "id": "marshall-10715",
+        "id": "marshall-11500",
         "name": "Luke Proehl",
-        "school": "Marshall",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 22,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Luke Proehl looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 13.50",
-          "WHIP 2.70",
-          "K/9 13.5"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "13.50"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.70"
-          },
-          {
-            "label": "K/9",
-            "value": "13.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.4"
-          },
-          {
-            "label": "HR/9",
-            "value": "2.70"
-          },
-          {
-            "label": "IP",
-            "value": "6.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 86.36363636363636,
-          "Command": 30.00000000000001,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Marshall Athletics roster",
-          "Marshall cumulative stats"
-        ],
-        "sourceSummary": "Marshall Athletics roster + Marshall cumulative stats",
-        "schoolSlug": "marshall",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://herdzone.com/sports/baseball/roster/luke-proehl/10715",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "marshall-10994",
-        "name": "Alex Caudill",
-        "school": "Marshall",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 9,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Alex Caudill gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 6.75",
-          "WHIP 1.68",
-          "K/9 8.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "6.75"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.68"
-          },
-          {
-            "label": "K/9",
-            "value": "8.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "6.1"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.96"
-          },
-          {
-            "label": "IP",
-            "value": "28.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 39.61038961038961,
-          "Command": 7.368421052631584,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Marshall Athletics roster",
-          "Marshall cumulative stats"
-        ],
-        "sourceSummary": "Marshall Athletics roster + Marshall cumulative stats",
-        "schoolSlug": "marshall",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://herdzone.com/sports/baseball/roster/alex-caudill/10994",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "marshall-10689",
-        "name": "Brandon Brunette",
         "school": "Marshall",
         "role": "Pitcher",
         "position": "RHP",
@@ -80288,7 +78977,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Brandon Brunette looks like a RHP option who throws enough strikes.",
+        "summary": "Luke Proehl looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -80340,7 +79029,143 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "sourceSummary": "Marshall Athletics roster",
         "schoolSlug": "marshall",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://herdzone.com/sports/baseball/roster/brandon-brunette/10689",
+        "profileUrl": "https://herdzone.com/sports/baseball/roster/luke-proehl/11500",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "marshall-11478",
+        "name": "Alex Caudill",
+        "school": "Marshall",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Alex Caudill looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Marshall Athletics roster"
+        ],
+        "sourceSummary": "Marshall Athletics roster",
+        "schoolSlug": "marshall",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://herdzone.com/sports/baseball/roster/alex-caudill/11478",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "marshall-11477",
+        "name": "Brandon Brunette",
+        "school": "Marshall",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "GR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Brandon Brunette looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "GR / R/R",
+        "detailBadges": [
+          "RHP",
+          "GR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Marshall Athletics roster"
+        ],
+        "sourceSummary": "Marshall Athletics roster",
+        "schoolSlug": "marshall",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://herdzone.com/sports/baseball/roster/brandon-brunette/11477",
         "espnAthleteId": ""
       },
       {
@@ -147544,6 +146369,1108 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "schoolSlug": "troy",
         "compositeRole": "Pitcher",
         "profileUrl": "https://troytrojans.com/sports/baseball/roster/noah-thigpen/11923",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "tulane-17222",
+        "name": "A.J. Groeneveld",
+        "school": "Tulane",
+        "role": "Hitter",
+        "position": "INF/OF",
+        "classYear": "R-SO",
+        "handedness": "L/R",
+        "score": 48,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "A.J. Groeneveld profiles as a INF/OF piece who gets on base at a high clip and controls at-bats.",
+        "summaryMetrics": [
+          "AVG .222",
+          "OBP .447",
+          "SLG .370"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".222"
+          },
+          {
+            "label": "OBP",
+            "value": ".447"
+          },
+          {
+            "label": "SLG",
+            "value": ".370"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "5"
+          },
+          {
+            "label": "SB",
+            "value": "1"
+          }
+        ],
+        "components": {
+          "On-base": 92.77777777777777,
+          "Power": 13.157894736842104,
+          "Contact": 1.250000000000001,
+          "Discipline": 100,
+          "Speed": 3.3333333333333335
+        },
+        "metaLine": "R-SO / L/R",
+        "detailBadges": [
+          "INF/OF",
+          "R-SO",
+          "L/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Tulane Athletics roster",
+          "Tulane cumulative stats"
+        ],
+        "sourceSummary": "Tulane Athletics roster + Tulane cumulative stats",
+        "schoolSlug": "tulane",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://tulanegreenwave.com/sports/baseball/roster/aj-groeneveld/17222",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "tulane-17228",
+        "name": "Nolan Nawrocki",
+        "school": "Tulane",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "R-SR",
+        "handedness": "R/R",
+        "score": 12,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Nolan Nawrocki gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .203",
+          "OBP .300",
+          "SLG .390"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".203"
+          },
+          {
+            "label": "OBP",
+            "value": ".300"
+          },
+          {
+            "label": "SLG",
+            "value": ".390"
+          },
+          {
+            "label": "HR",
+            "value": "2"
+          },
+          {
+            "label": "RBI",
+            "value": "13"
+          },
+          {
+            "label": "SB",
+            "value": "5"
+          }
+        ],
+        "components": {
+          "On-base": 11.111111111111091,
+          "Power": 18.421052631578952,
+          "Contact": 0,
+          "Discipline": 11.111111111111107,
+          "Speed": 16.666666666666664
+        },
+        "metaLine": "R-SR / R/R",
+        "detailBadges": [
+          "INF",
+          "R-SR",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Tulane Athletics roster",
+          "Tulane cumulative stats"
+        ],
+        "sourceSummary": "Tulane Athletics roster + Tulane cumulative stats",
+        "schoolSlug": "tulane",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://tulanegreenwave.com/sports/baseball/roster/nolan-nawrocki/17228",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "tulane-17225",
+        "name": "Sam Larson",
+        "school": "Tulane",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "R/R",
+        "score": 19,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Sam Larson looks like a RHP option who limits runs and misses bats.",
+        "summaryMetrics": [
+          "ERA 3.95",
+          "WHIP 1.29",
+          "K/9 11.9"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "3.95"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.29"
+          },
+          {
+            "label": "K/9",
+            "value": "11.9"
+          },
+          {
+            "label": "BB/9",
+            "value": "5.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.44"
+          },
+          {
+            "label": "IP",
+            "value": "41.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 71.3968957871397,
+          "Command": 26.95652173913043,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Tulane Athletics roster",
+          "Tulane cumulative stats"
+        ],
+        "sourceSummary": "Tulane Athletics roster + Tulane cumulative stats",
+        "schoolSlug": "tulane",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://tulanegreenwave.com/sports/baseball/roster/sam-larson/17225",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "tulane-17230",
+        "name": "Caden Tarango",
+        "school": "Tulane",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "R/R",
+        "score": 12,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Caden Tarango looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 7.94",
+          "WHIP 1.94",
+          "K/9 9.5"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "7.94"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.94"
+          },
+          {
+            "label": "K/9",
+            "value": "9.5"
+          },
+          {
+            "label": "BB/9",
+            "value": "6.4"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.79"
+          },
+          {
+            "label": "IP",
+            "value": "11.3"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 50.26737967914438,
+          "Command": 10,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Tulane Athletics roster",
+          "Tulane cumulative stats"
+        ],
+        "sourceSummary": "Tulane Athletics roster + Tulane cumulative stats",
+        "schoolSlug": "tulane",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://tulanegreenwave.com/sports/baseball/roster/caden-tarango/17230",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "tulane-17219",
+        "name": "Julius Ejike-Charles",
+        "school": "Tulane",
+        "role": "Pitcher",
+        "position": "OF/LHP",
+        "classYear": "JR",
+        "handedness": "L/L",
+        "score": 12,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Julius Ejike-Charles looks like a OF/LHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 4.91",
+          "WHIP 2.09",
+          "K/9 10.6"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "4.91"
+          },
+          {
+            "label": "WHIP",
+            "value": "2.09"
+          },
+          {
+            "label": "K/9",
+            "value": "10.6"
+          },
+          {
+            "label": "BB/9",
+            "value": "12.3"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "11.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 60.33057851239669,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / L/L",
+        "detailBadges": [
+          "OF/LHP",
+          "JR",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Tulane Athletics roster",
+          "Tulane cumulative stats"
+        ],
+        "sourceSummary": "Tulane Athletics roster + Tulane cumulative stats",
+        "schoolSlug": "tulane",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://tulanegreenwave.com/sports/baseball/roster/julius-ejikecharles/17219",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "tulane-17215",
+        "name": "Bryson Ayala",
+        "school": "Tulane",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "SO",
+        "handedness": "R/R",
+        "score": 1,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Bryson Ayala gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .115",
+          "OBP .179",
+          "SLG .192"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".115"
+          },
+          {
+            "label": "OBP",
+            "value": ".179"
+          },
+          {
+            "label": "SLG",
+            "value": ".192"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "2"
+          },
+          {
+            "label": "SB",
+            "value": "1"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 5.555555555555554,
+          "Speed": 3.3333333333333335
+        },
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "INF",
+          "SO",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Tulane Athletics roster",
+          "Tulane cumulative stats"
+        ],
+        "sourceSummary": "Tulane Athletics roster + Tulane cumulative stats",
+        "schoolSlug": "tulane",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://tulanegreenwave.com/sports/baseball/roster/bryson-ayala/17215",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "tulane-17224",
+        "name": "Nate Johnson",
+        "school": "Tulane",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "JR",
+        "handedness": "S/R",
+        "score": 45,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Nate Johnson profiles as a INF piece who gets on base at a high clip.",
+        "summaryMetrics": [
+          "AVG .277",
+          "OBP .406",
+          "SLG .432"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".277"
+          },
+          {
+            "label": "OBP",
+            "value": ".406"
+          },
+          {
+            "label": "SLG",
+            "value": ".432"
+          },
+          {
+            "label": "HR",
+            "value": "4"
+          },
+          {
+            "label": "RBI",
+            "value": "30"
+          },
+          {
+            "label": "SB",
+            "value": "4"
+          }
+        ],
+        "components": {
+          "On-base": 70,
+          "Power": 29.47368421052632,
+          "Contact": 35.625000000000014,
+          "Discipline": 53.658536585365844,
+          "Speed": 13.333333333333334
+        },
+        "metaLine": "JR / S/R",
+        "detailBadges": [
+          "INF",
+          "JR",
+          "S/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Tulane Athletics roster",
+          "Tulane cumulative stats"
+        ],
+        "sourceSummary": "Tulane Athletics roster + Tulane cumulative stats",
+        "schoolSlug": "tulane",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://tulanegreenwave.com/sports/baseball/roster/nate-johnson/17224",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "tulane-17216",
+        "name": "Jack Brafa",
+        "school": "Tulane",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "R/R",
+        "score": 13,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jack Brafa looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA 5.11",
+          "WHIP 1.46",
+          "K/9 8.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "5.11"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.46"
+          },
+          {
+            "label": "K/9",
+            "value": "8.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "2.9"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.97"
+          },
+          {
+            "label": "IP",
+            "value": "37.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 36.6093366093366,
+          "Command": 35,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Tulane Athletics roster",
+          "Tulane cumulative stats"
+        ],
+        "sourceSummary": "Tulane Athletics roster + Tulane cumulative stats",
+        "schoolSlug": "tulane",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://tulanegreenwave.com/sports/baseball/roster/jack-brafa/17216",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "tulane-17223",
+        "name": "Jack Johnson",
+        "school": "Tulane",
+        "role": "Hitter",
+        "position": "UTL",
+        "classYear": "GR",
+        "handedness": "R/R",
+        "score": 25,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jack Johnson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .208",
+          "OBP .371",
+          "SLG .271"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".208"
+          },
+          {
+            "label": "OBP",
+            "value": ".371"
+          },
+          {
+            "label": "SLG",
+            "value": ".271"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "3"
+          },
+          {
+            "label": "SB",
+            "value": "2"
+          }
+        ],
+        "components": {
+          "On-base": 50.55555555555554,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 59.25925925925923,
+          "Speed": 6.666666666666667
+        },
+        "metaLine": "GR / R/R",
+        "detailBadges": [
+          "UTL",
+          "GR",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Tulane Athletics roster",
+          "Tulane cumulative stats"
+        ],
+        "sourceSummary": "Tulane Athletics roster + Tulane cumulative stats",
+        "schoolSlug": "tulane",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://tulanegreenwave.com/sports/baseball/roster/jack-johnson/17223",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "tulane-17229",
+        "name": "Beau Sampson",
+        "school": "Tulane",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "SR",
+        "handedness": "L/L",
+        "score": 23,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Beau Sampson looks like a LHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 8.24",
+          "WHIP 1.78",
+          "K/9 14.2"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "8.24"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.78"
+          },
+          {
+            "label": "K/9",
+            "value": "14.2"
+          },
+          {
+            "label": "BB/9",
+            "value": "5.9"
+          },
+          {
+            "label": "HR/9",
+            "value": "2.29"
+          },
+          {
+            "label": "IP",
+            "value": "19.7"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 92.6040061633282,
+          "Command": 27.692307692307693,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / L/L",
+        "detailBadges": [
+          "LHP",
+          "SR",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Tulane Athletics roster",
+          "Tulane cumulative stats"
+        ],
+        "sourceSummary": "Tulane Athletics roster + Tulane cumulative stats",
+        "schoolSlug": "tulane",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://tulanegreenwave.com/sports/baseball/roster/beau-sampson/17229",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "tulane-17218",
+        "name": "Michael Devenney",
+        "school": "Tulane",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 10,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Michael Devenney looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 7.27",
+          "WHIP 2.65",
+          "K/9 9.3"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "7.27"
+          },
+          {
+            "label": "WHIP",
+            "value": "2.65"
+          },
+          {
+            "label": "K/9",
+            "value": "9.3"
+          },
+          {
+            "label": "BB/9",
+            "value": "10.4"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.04"
+          },
+          {
+            "label": "IP",
+            "value": "8.7"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 48.60139860139861,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Tulane Athletics roster",
+          "Tulane cumulative stats"
+        ],
+        "sourceSummary": "Tulane Athletics roster + Tulane cumulative stats",
+        "schoolSlug": "tulane",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://tulanegreenwave.com/sports/baseball/roster/michael-devenney/17218",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "tulane-17217",
+        "name": "Evan Burg",
+        "school": "Tulane",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "SO",
+        "handedness": "R/R",
+        "score": 2,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Evan Burg gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .000",
+          "OBP .097",
+          "SLG .000"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".000"
+          },
+          {
+            "label": "OBP",
+            "value": ".097"
+          },
+          {
+            "label": "SLG",
+            "value": ".000"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "2"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 14.814814814814808,
+          "Speed": 0
+        },
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "OF",
+          "SO",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Tulane Athletics roster",
+          "Tulane cumulative stats"
+        ],
+        "sourceSummary": "Tulane Athletics roster + Tulane cumulative stats",
+        "schoolSlug": "tulane",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://tulanegreenwave.com/sports/baseball/roster/evan-burg/17217",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "tulane-17226",
+        "name": "Matthew Major",
+        "school": "Tulane",
+        "role": "Hitter",
+        "position": "OF/3B",
+        "classYear": "R-FR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Matthew Major gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "R-FR / R/R",
+        "detailBadges": [
+          "OF/3B",
+          "R-FR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Tulane Athletics roster"
+        ],
+        "sourceSummary": "Tulane Athletics roster",
+        "schoolSlug": "tulane",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://tulanegreenwave.com/sports/baseball/roster/matthew-major/17226",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "tulane-17220",
+        "name": "Johnny Elliott",
+        "school": "Tulane",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 11,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Johnny Elliott gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .240",
+          "OBP .310",
+          "SLG .347"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".240"
+          },
+          {
+            "label": "OBP",
+            "value": ".310"
+          },
+          {
+            "label": "SLG",
+            "value": ".347"
+          },
+          {
+            "label": "HR",
+            "value": "1"
+          },
+          {
+            "label": "RBI",
+            "value": "8"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 16.66666666666665,
+          "Power": 7.10526315789473,
+          "Contact": 12.499999999999993,
+          "Discipline": 8.641975308641975,
+          "Speed": 0
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "C",
+          "JR",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Tulane Athletics roster",
+          "Tulane cumulative stats"
+        ],
+        "sourceSummary": "Tulane Athletics roster + Tulane cumulative stats",
+        "schoolSlug": "tulane",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://tulanegreenwave.com/sports/baseball/roster/johnny-elliott/17220",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "tulane-17221",
+        "name": "Owen Geiss",
+        "school": "Tulane",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "R-JR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Owen Geiss looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "R-JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "R-JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Tulane Athletics roster"
+        ],
+        "sourceSummary": "Tulane Athletics roster",
+        "schoolSlug": "tulane",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://tulanegreenwave.com/sports/baseball/roster/owen-geiss/17221",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "tulane-17227",
+        "name": "LuisPablo Navarro",
+        "school": "Tulane",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "JR",
+        "handedness": "L/L",
+        "score": 11,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "LuisPablo Navarro looks like a LHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 4.33",
+          "WHIP 1.33",
+          "K/9 9.2"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "4.33"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.33"
+          },
+          {
+            "label": "K/9",
+            "value": "9.2"
+          },
+          {
+            "label": "BB/9",
+            "value": "6.1"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.27"
+          },
+          {
+            "label": "IP",
+            "value": "35.3"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 46.99828473413378,
+          "Command": 10,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / L/L",
+        "detailBadges": [
+          "LHP",
+          "JR",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Tulane Athletics roster",
+          "Tulane cumulative stats"
+        ],
+        "sourceSummary": "Tulane Athletics roster + Tulane cumulative stats",
+        "schoolSlug": "tulane",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://tulanegreenwave.com/sports/baseball/roster/luispablo-navarro/17227",
         "espnAthleteId": ""
       },
       {

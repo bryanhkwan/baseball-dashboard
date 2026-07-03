@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.george-washington2026 = {
-  "generatedAt": "2026-07-02T11:08:45.437Z",
+  "generatedAt": "2026-07-03T11:09:18.399Z",
   "season": 2026,
   "school": {
     "slug": "george-washington",
@@ -25,7 +25,7 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
     "ncaa": "NCAA school index"
   },
   "coverage": {
-    "rosterPlayers": 33,
+    "rosterPlayers": 34,
     "espnRosterPlayers": 0,
     "playersWithHittingStats": 0,
     "playersWithPitchingStats": 0,
@@ -2872,6 +2872,94 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
       }
     },
     {
+      "id": "george-washington-10495",
+      "schoolSlug": "george-washington",
+      "school": "George Washington",
+      "schoolLongName": "George Washington University",
+      "name": "Miguel Morales",
+      "normalizedName": "miguel morales",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "Infield",
+      "classYear": "GR",
+      "handedness": "N/A",
+      "jersey": "",
+      "hometown": "Arroyo, Puerto Rico",
+      "highSchool": "Escuela Superior Natividad Rodríguez González",
+      "previousSchool": "Texas Southern",
+      "hometownHighSchool": "Arroyo, Puerto Rico / Escuela Superior Natividad Rodríguez González",
+      "profileUrl": "https://gwsports.com/sports/baseball/roster/miguel-morales/10495",
+      "imageUrl": "https://gwsports.com/images/2022/11/18/mtt_logo_71_p9bRo.7055.gif",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10495",
+      "sources": [
+        "George Washington Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Miguel Morales gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "GR / N/A",
+        "detailBadges": [
+          "INF",
+          "GR",
+          "N/A",
+          "Rostered"
+        ],
+        "sourceSummary": "George Washington Athletics roster"
+      }
+    },
+    {
       "id": "george-washington-10435",
       "schoolSlug": "george-washington",
       "school": "George Washington",
@@ -3051,9 +3139,9 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
   "playerBoard": {
     "source": "George Washington Athletics roster + cumulative stats / ESPN roster",
     "note": "This George Washington-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but George Washington's public ESPN roster feed did not line up cleanly with the current school-site roster.",
-    "totalPlayers": 33,
+    "totalPlayers": 34,
     "roleCounts": {
-      "Hitter": 16,
+      "Hitter": 17,
       "Pitcher": 17
     },
     "players": [
@@ -5163,6 +5251,74 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "schoolSlug": "george-washington",
         "compositeRole": "Rostered",
         "profileUrl": "https://gwsports.com/sports/baseball/roster/aidan-mckeating/10434",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "george-washington-10495",
+        "name": "Miguel Morales",
+        "school": "George Washington",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "GR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Miguel Morales gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "GR / N/A",
+        "detailBadges": [
+          "INF",
+          "GR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "George Washington Athletics roster"
+        ],
+        "sourceSummary": "George Washington Athletics roster",
+        "schoolSlug": "george-washington",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gwsports.com/sports/baseball/roster/miguel-morales/10495",
         "espnAthleteId": ""
       },
       {
