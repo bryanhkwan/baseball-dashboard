@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.rice2026 = {
-  "generatedAt": "2026-07-03T11:09:47.184Z",
+  "generatedAt": "2026-07-04T10:54:52.668Z",
   "season": 2026,
   "school": {
     "slug": "rice",
@@ -25,16 +25,15 @@ window.__BASEBALL_DATASETS__.rice2026 = {
     "ncaa": "NCAA school index"
   },
   "coverage": {
-    "rosterPlayers": 27,
+    "rosterPlayers": 28,
     "espnRosterPlayers": 0,
-    "playersWithHittingStats": 9,
+    "playersWithHittingStats": 10,
     "playersWithPitchingStats": 13,
-    "playersWithFieldingStats": 22,
-    "mergedPlayersWithAnyStats": 22,
+    "playersWithFieldingStats": 23,
+    "mergedPlayersWithAnyStats": 23,
     "matchedEspnPlayers": 0,
     "unmatchedStatRows": {
       "hitting": [
-        "3",
         "2",
         "12",
         "24",
@@ -58,7 +57,6 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "31",
         "12",
         "28",
-        "3",
         "18",
         "2",
         "38"
@@ -290,6 +288,151 @@ window.__BASEBALL_DATASETS__.rice2026 = {
           "C/UT",
           "SO",
           "R-R",
+          "Hitter"
+        ],
+        "sourceSummary": "Rice Athletics roster + Rice cumulative stats"
+      }
+    },
+    {
+      "id": "rice-11221",
+      "schoolSlug": "rice",
+      "school": "Rice",
+      "schoolLongName": "Rice University",
+      "name": "JC Davis",
+      "normalizedName": "jc davis",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "",
+      "classYear": "SR",
+      "handedness": "N/A",
+      "jersey": "3",
+      "hometown": "Argyle, Texas",
+      "highSchool": "Argyle",
+      "previousSchool": "Weatherford College",
+      "hometownHighSchool": "Argyle, Texas / Argyle",
+      "profileUrl": "https://riceowls.com/sports/baseball/roster/jc-davis/11221",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11221",
+      "sources": [
+        "Rice Athletics roster",
+        "Rice cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "11221",
+        "name": "JC Davis",
+        "normalizedName": "jc davis",
+        "jersey": "3",
+        "profileUrl": "https://riceowls.com/sports/baseball/roster/jc-davis/11221",
+        "imageUrl": "",
+        "gamesPlayed": 52,
+        "gamesStarted": 49,
+        "battingAverage": 0.33,
+        "onBasePercentage": 0.382,
+        "sluggingPercentage": 0.468,
+        "ops": 0.85,
+        "atBats": 188,
+        "runs": 42,
+        "hits": 62,
+        "doubles": 11,
+        "triples": 0,
+        "homeRuns": 5,
+        "runsBattedIn": 38,
+        "totalBases": 88,
+        "walks": 16,
+        "hitByPitch": 1,
+        "strikeouts": 17,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 2,
+        "sacrificeFlies": 2,
+        "sacrificeHits": 5,
+        "stolenBases": 3,
+        "stolenBasesAttempts": 3,
+        "putouts": 83,
+        "assists": 0,
+        "errors": 5,
+        "plateAppearances": 215,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "11221",
+        "name": "JC Davis",
+        "normalizedName": "jc davis",
+        "jersey": "3",
+        "profileUrl": "https://riceowls.com/sports/baseball/roster/jc-davis/11221",
+        "imageUrl": "",
+        "gamesPlayed": 47,
+        "gamesStarted": 46,
+        "putouts": 83,
+        "assists": 123,
+        "errors": 5,
+        "fieldingPercentage": 0.976,
+        "doublePlays": 32,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 211
+      },
+      "evaluation": {
+        "score": 53,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 56.66666666666666,
+          "Power": 38.947368421052644,
+          "Contact": 68.75000000000001,
+          "Discipline": 82.35294117647058,
+          "Speed": 10
+        },
+        "summary": "JC Davis gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .330",
+          "OBP .382",
+          "SLG .468"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".330"
+          },
+          {
+            "label": "OBP",
+            "value": ".382"
+          },
+          {
+            "label": "SLG",
+            "value": ".468"
+          },
+          {
+            "label": "HR",
+            "value": "5"
+          },
+          {
+            "label": "RBI",
+            "value": "38"
+          },
+          {
+            "label": "SB",
+            "value": "3"
+          }
+        ],
+        "metaLine": "SR / N/A",
+        "detailBadges": [
+          "INF",
+          "SR",
+          "N/A",
           "Hitter"
         ],
         "sourceSummary": "Rice Athletics roster + Rice cumulative stats"
@@ -3745,9 +3888,9 @@ window.__BASEBALL_DATASETS__.rice2026 = {
   "playerBoard": {
     "source": "Rice Athletics roster + cumulative stats / ESPN roster",
     "note": "This Rice-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but Rice's public ESPN roster feed did not line up cleanly with the current school-site roster.",
-    "totalPlayers": 27,
+    "totalPlayers": 28,
     "roleCounts": {
-      "Hitter": 10,
+      "Hitter": 11,
       "Pitcher": 17
     },
     "players": [
@@ -3818,6 +3961,75 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "schoolSlug": "rice",
         "compositeRole": "Hitter",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/masa-chilcutt/11074",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "rice-11221",
+        "name": "JC Davis",
+        "school": "Rice",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "SR",
+        "handedness": "N/A",
+        "score": 53,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "JC Davis gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .330",
+          "OBP .382",
+          "SLG .468"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".330"
+          },
+          {
+            "label": "OBP",
+            "value": ".382"
+          },
+          {
+            "label": "SLG",
+            "value": ".468"
+          },
+          {
+            "label": "HR",
+            "value": "5"
+          },
+          {
+            "label": "RBI",
+            "value": "38"
+          },
+          {
+            "label": "SB",
+            "value": "3"
+          }
+        ],
+        "components": {
+          "On-base": 56.66666666666666,
+          "Power": 38.947368421052644,
+          "Contact": 68.75000000000001,
+          "Discipline": 82.35294117647058,
+          "Speed": 10
+        },
+        "metaLine": "SR / N/A",
+        "detailBadges": [
+          "INF",
+          "SR",
+          "N/A",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Rice Athletics roster",
+          "Rice cumulative stats"
+        ],
+        "sourceSummary": "Rice Athletics roster + Rice cumulative stats",
+        "schoolSlug": "rice",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://riceowls.com/sports/baseball/roster/jc-davis/11221",
         "espnAthleteId": ""
       },
       {

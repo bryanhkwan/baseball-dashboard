@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T11:10:28.930Z",
+  "generatedAt": "2026-07-04T10:55:33.815Z",
   "season": 2026,
   "source": "Generated Sidearm baseball roster pool",
   "note": "This compact roster-only pool captures public school-site baseball rosters so non-appearing players can still enter coverage before they log a reachable NCAA boxscore.",
@@ -303,7 +303,7 @@
       "slug": "rice",
       "name": "Rice",
       "longName": "Rice University",
-      "rosterPlayers": 27,
+      "rosterPlayers": 28,
       "rosterUrl": "https://riceowls.com/sports/baseball/roster"
     },
     {
@@ -458,9 +458,9 @@
     "schoolsRequested": 73,
     "schoolsLoaded": 64,
     "schoolsFailed": 9,
-    "totalPlayers": 2320,
+    "totalPlayers": 2321,
     "roleCounts": {
-      "Hitter": 1149,
+      "Hitter": 1150,
       "Pitcher": 1171
     },
     "failures": [
@@ -23849,6 +23849,20 @@
       "Johnson",
       "",
       "https://riceowls.com/sports/baseball/roster/masa-chilcutt/11074"
+    ],
+    [
+      "rice-11221",
+      "rice",
+      "JC Davis",
+      "Hitter",
+      "INF",
+      "SR",
+      "",
+      "3",
+      "Argyle, Texas",
+      "Argyle",
+      "Weatherford College",
+      "https://riceowls.com/sports/baseball/roster/jc-davis/11221"
     ],
     [
       "rice-11104",
