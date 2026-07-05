@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.rice2026 = {
-  "generatedAt": "2026-07-04T10:54:52.668Z",
+  "generatedAt": "2026-07-05T10:57:11.473Z",
   "season": 2026,
   "school": {
     "slug": "rice",
@@ -312,7 +312,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
       "previousSchool": "Weatherford College",
       "hometownHighSchool": "Argyle, Texas / Argyle",
       "profileUrl": "https://riceowls.com/sports/baseball/roster/jc-davis/11221",
-      "imageUrl": "",
+      "imageUrl": "https://riceowls.com/images/2025/9/1/3_DAVIS_JC.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -330,7 +330,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "normalizedName": "jc davis",
         "jersey": "3",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/jc-davis/11221",
-        "imageUrl": "",
+        "imageUrl": "https://riceowls.com/images/2025/9/1/3_DAVIS_JC.png",
         "gamesPlayed": 52,
         "gamesStarted": 49,
         "battingAverage": 0.33,
@@ -368,7 +368,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "normalizedName": "jc davis",
         "jersey": "3",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/jc-davis/11221",
-        "imageUrl": "",
+        "imageUrl": "https://riceowls.com/images/2025/9/1/3_DAVIS_JC.png",
         "gamesPlayed": 47,
         "gamesStarted": 46,
         "putouts": 83,
