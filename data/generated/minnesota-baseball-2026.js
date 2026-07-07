@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.minnesota2026 = {
-  "generatedAt": "2026-07-06T11:44:35.648Z",
+  "generatedAt": "2026-07-07T11:18:28.616Z",
   "season": 2026,
   "school": {
     "slug": "minnesota",
@@ -2884,7 +2884,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
       "role": "Hitter",
       "position": "OF",
       "positionLong": "OF",
-      "classYear": "JR",
+      "classYear": "SR",
       "handedness": "L/L",
       "jersey": "29",
       "hometown": "Stillwater, MN",
@@ -3008,10 +3008,10 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "JR / L/L",
+        "metaLine": "SR / L/L",
         "detailBadges": [
           "OF",
-          "JR",
+          "SR",
           "L/L",
           "Hitter"
         ],
@@ -6356,7 +6356,7 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
         "school": "Minnesota",
         "role": "Hitter",
         "position": "OF",
-        "classYear": "JR",
+        "classYear": "SR",
         "handedness": "L/L",
         "score": 16,
         "fit": {
@@ -6402,10 +6402,10 @@ window.__BASEBALL_DATASETS__.minnesota2026 = {
           "Discipline": 25.39682539682539,
           "Speed": 0
         },
-        "metaLine": "JR / L/L",
+        "metaLine": "SR / L/L",
         "detailBadges": [
           "OF",
-          "JR",
+          "SR",
           "L/L",
           "Hitter"
         ],
