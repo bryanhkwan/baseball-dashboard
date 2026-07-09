@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.east-carolina2026 = {
-  "generatedAt": "2026-07-08T10:55:56.046Z",
+  "generatedAt": "2026-07-09T11:17:24.429Z",
   "season": 2026,
   "school": {
     "slug": "east-carolina",
@@ -254,7 +254,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "role": "Hitter",
       "position": "INF",
       "positionLong": "Infield",
-      "classYear": "JR",
+      "classYear": "3Y",
       "handedness": "R/R",
       "jersey": "1",
       "hometown": "Caracas, Venezuela",
@@ -321,10 +321,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "JR / R/R",
+        "metaLine": "3Y / R/R",
         "detailBadges": [
           "INF",
-          "JR",
+          "3Y",
           "R/R",
           "Rostered"
         ],
@@ -342,7 +342,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "role": "Hitter",
       "position": "OF",
       "positionLong": "Outfield",
-      "classYear": "FR",
+      "classYear": "1Y",
       "handedness": "L/R",
       "jersey": "2",
       "hometown": "Raleigh",
@@ -409,10 +409,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "FR / L/R",
+        "metaLine": "1Y / L/R",
         "detailBadges": [
           "OF",
-          "FR",
+          "1Y",
           "L/R",
           "Rostered"
         ],
@@ -575,7 +575,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "role": "Hitter",
       "position": "INF",
       "positionLong": "Infield",
-      "classYear": "JR",
+      "classYear": "3Y",
       "handedness": "L/R",
       "jersey": "4",
       "hometown": "Asheville",
@@ -699,10 +699,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
             "value": "3"
           }
         ],
-        "metaLine": "JR / L/R",
+        "metaLine": "3Y / L/R",
         "detailBadges": [
           "INF",
-          "JR",
+          "3Y",
           "L/R",
           "Hitter"
         ],
@@ -720,7 +720,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "role": "Pitcher",
       "position": "LHP",
       "positionLong": "LHP",
-      "classYear": "SO",
+      "classYear": "2Y",
       "handedness": "L/L",
       "jersey": "5",
       "hometown": "Garden City, N.Y.",
@@ -787,10 +787,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "SO / L/L",
+        "metaLine": "2Y / L/L",
         "detailBadges": [
           "LHP",
-          "SO",
+          "2Y",
           "L/L",
           "Pitcher"
         ],
@@ -808,7 +808,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "role": "Pitcher",
       "position": "LHP",
       "positionLong": "LHP",
-      "classYear": "SR",
+      "classYear": "4Y",
       "handedness": "L/L",
       "jersey": "6",
       "hometown": "Leland",
@@ -875,10 +875,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "SR / L/L",
+        "metaLine": "4Y / L/L",
         "detailBadges": [
           "LHP",
-          "SR",
+          "4Y",
           "L/L",
           "Pitcher"
         ],
@@ -1038,7 +1038,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "role": "Hitter",
       "position": "UTL",
       "positionLong": "Utility",
-      "classYear": "SR",
+      "classYear": "4Y",
       "handedness": "R/R",
       "jersey": "8",
       "hometown": "Chesapeake, Va.",
@@ -1105,10 +1105,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "SR / R/R",
+        "metaLine": "4Y / R/R",
         "detailBadges": [
           "UTL",
-          "SR",
+          "4Y",
           "R/R",
           "Rostered"
         ],
@@ -1268,7 +1268,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "role": "Pitcher",
       "position": "INF/RHP",
       "positionLong": "Infield/RHP",
-      "classYear": "JR",
+      "classYear": "3Y",
       "handedness": "R/R",
       "jersey": "10",
       "hometown": "Biscoe",
@@ -1425,10 +1425,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
             "value": "2.7"
           }
         ],
-        "metaLine": "JR / R/R",
+        "metaLine": "3Y / R/R",
         "detailBadges": [
           "INF/RHP",
-          "JR",
+          "3Y",
           "R/R",
           "Two-Way"
         ],
@@ -1446,7 +1446,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "role": "Hitter",
       "position": "OF",
       "positionLong": "Outfield",
-      "classYear": "SO",
+      "classYear": "2Y",
       "handedness": "R/R",
       "jersey": "11",
       "hometown": "Haymarket, Va.",
@@ -1550,10 +1550,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
             "value": "1"
           }
         ],
-        "metaLine": "SO / R/R",
+        "metaLine": "2Y / R/R",
         "detailBadges": [
           "OF",
-          "SO",
+          "2Y",
           "R/R",
           "Hitter"
         ],
@@ -1571,7 +1571,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "role": "Hitter",
       "position": "OF",
       "positionLong": "Outfield",
-      "classYear": "FR",
+      "classYear": "1Y",
       "handedness": "R/R",
       "jersey": "12",
       "hometown": "Bristow, Va.",
@@ -1695,10 +1695,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
             "value": "11"
           }
         ],
-        "metaLine": "FR / R/R",
+        "metaLine": "1Y / R/R",
         "detailBadges": [
           "OF",
-          "FR",
+          "1Y",
           "R/R",
           "Hitter"
         ],
@@ -1716,7 +1716,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "role": "Hitter",
       "position": "C",
       "positionLong": "Catcher",
-      "classYear": "SO",
+      "classYear": "2Y",
       "handedness": "L/R",
       "jersey": "13",
       "hometown": "Longwood, Fla.",
@@ -1783,10 +1783,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "SO / L/R",
+        "metaLine": "2Y / L/R",
         "detailBadges": [
           "C",
-          "SO",
+          "2Y",
           "L/R",
           "Rostered"
         ],
@@ -1804,7 +1804,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "role": "Hitter",
       "position": "INF",
       "positionLong": "Infield",
-      "classYear": "JR",
+      "classYear": "3Y",
       "handedness": "L/R",
       "jersey": "14",
       "hometown": "Lake Worth, Fla.",
@@ -1871,10 +1871,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "JR / L/R",
+        "metaLine": "3Y / L/R",
         "detailBadges": [
           "INF",
-          "JR",
+          "3Y",
           "L/R",
           "Rostered"
         ],
@@ -1892,7 +1892,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "role": "Hitter",
       "position": "INF",
       "positionLong": "Infield",
-      "classYear": "SR",
+      "classYear": "4Y",
       "handedness": "R/R",
       "jersey": "16",
       "hometown": "Laurinburg",
@@ -1959,10 +1959,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "SR / R/R",
+        "metaLine": "4Y / R/R",
         "detailBadges": [
           "INF",
-          "SR",
+          "4Y",
           "R/R",
           "Rostered"
         ],
@@ -1980,7 +1980,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "role": "Pitcher",
       "position": "LHP",
       "positionLong": "",
-      "classYear": "JR",
+      "classYear": "3Y",
       "handedness": "L/L",
       "jersey": "18",
       "hometown": "Kernersville",
@@ -2101,10 +2101,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
             "value": "90.3"
           }
         ],
-        "metaLine": "JR / L/L",
+        "metaLine": "3Y / L/L",
         "detailBadges": [
           "LHP",
-          "JR",
+          "3Y",
           "L/L",
           "Pitcher"
         ],
@@ -2122,7 +2122,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
-      "classYear": "JR",
+      "classYear": "3Y",
       "handedness": "R/R",
       "jersey": "19",
       "hometown": "Cortlandt Manor, N.Y.",
@@ -2189,10 +2189,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "JR / R/R",
+        "metaLine": "3Y / R/R",
         "detailBadges": [
           "RHP",
-          "JR",
+          "3Y",
           "R/R",
           "Pitcher"
         ],
@@ -2210,7 +2210,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
-      "classYear": "SR",
+      "classYear": "4Y",
       "handedness": "R/R",
       "jersey": "20",
       "hometown": "East Hanover, N.J.",
@@ -2277,10 +2277,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "SR / R/R",
+        "metaLine": "4Y / R/R",
         "detailBadges": [
           "RHP",
-          "SR",
+          "4Y",
           "R/R",
           "Pitcher"
         ],
@@ -2298,7 +2298,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "role": "Hitter",
       "position": "INF",
       "positionLong": "Infield",
-      "classYear": "SO",
+      "classYear": "2Y",
       "handedness": "L/R",
       "jersey": "21",
       "hometown": "Virginia Beach, Va.",
@@ -2365,10 +2365,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "SO / L/R",
+        "metaLine": "2Y / L/R",
         "detailBadges": [
           "INF",
-          "SO",
+          "2Y",
           "L/R",
           "Rostered"
         ],
@@ -2386,7 +2386,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "role": "Hitter",
       "position": "C",
       "positionLong": "Catcher",
-      "classYear": "JR",
+      "classYear": "3Y",
       "handedness": "R/R",
       "jersey": "24",
       "hometown": "Atlanta, Ga.",
@@ -2510,10 +2510,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
             "value": "1"
           }
         ],
-        "metaLine": "JR / R/R",
+        "metaLine": "3Y / R/R",
         "detailBadges": [
           "C",
-          "JR",
+          "3Y",
           "R/R",
           "Hitter"
         ],
@@ -2531,7 +2531,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "role": "Hitter",
       "position": "INF",
       "positionLong": "Infield",
-      "classYear": "SO",
+      "classYear": "2Y",
       "handedness": "S/R",
       "jersey": "25",
       "hometown": "Hickory",
@@ -2598,10 +2598,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "SO / S/R",
+        "metaLine": "2Y / S/R",
         "detailBadges": [
           "INF",
-          "SO",
+          "2Y",
           "S/R",
           "Rostered"
         ],
@@ -2619,7 +2619,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "role": "Hitter",
       "position": "INF/OF",
       "positionLong": "Infield/Outfield",
-      "classYear": "SO",
+      "classYear": "2Y",
       "handedness": "R/R",
       "jersey": "26",
       "hometown": "Snow Hill",
@@ -2743,10 +2743,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
             "value": "12"
           }
         ],
-        "metaLine": "SO / R/R",
+        "metaLine": "2Y / R/R",
         "detailBadges": [
           "INF/OF",
-          "SO",
+          "2Y",
           "R/R",
           "Hitter"
         ],
@@ -2764,7 +2764,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "role": "Pitcher",
       "position": "LHP",
       "positionLong": "LHP",
-      "classYear": "SR",
+      "classYear": "4Y",
       "handedness": "L/L",
       "jersey": "27",
       "hometown": "Wake Forest",
@@ -2831,10 +2831,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "SR / L/L",
+        "metaLine": "4Y / L/L",
         "detailBadges": [
           "LHP",
-          "SR",
+          "4Y",
           "L/L",
           "Pitcher"
         ],
@@ -2852,7 +2852,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "role": "Hitter",
       "position": "C",
       "positionLong": "Catcher",
-      "classYear": "JR",
+      "classYear": "3Y",
       "handedness": "N/A",
       "jersey": "28",
       "hometown": "Corinth, Texas",
@@ -2919,10 +2919,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "JR / N/A",
+        "metaLine": "3Y / N/A",
         "detailBadges": [
           "C",
-          "JR",
+          "3Y",
           "N/A",
           "Rostered"
         ],
@@ -2940,7 +2940,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "role": "Hitter",
       "position": "OF",
       "positionLong": "Outfield",
-      "classYear": "FR",
+      "classYear": "1Y",
       "handedness": "R/R",
       "jersey": "29",
       "hometown": "Chesapeake, Va.",
@@ -3064,10 +3064,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "FR / R/R",
+        "metaLine": "1Y / R/R",
         "detailBadges": [
           "OF",
-          "FR",
+          "1Y",
           "R/R",
           "Hitter"
         ],
@@ -3085,7 +3085,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "role": "Hitter",
       "position": "OF",
       "positionLong": "Outfield",
-      "classYear": "JR",
+      "classYear": "3Y",
       "handedness": "R/R",
       "jersey": "32",
       "hometown": "Cincinnati, Ohio",
@@ -3189,10 +3189,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "JR / R/R",
+        "metaLine": "3Y / R/R",
         "detailBadges": [
           "OF",
-          "JR",
+          "3Y",
           "R/R",
           "Hitter"
         ],
@@ -3210,7 +3210,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
-      "classYear": "SR",
+      "classYear": "4Y",
       "handedness": "R/R",
       "jersey": "33",
       "hometown": "Lawndale",
@@ -3277,10 +3277,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "SR / R/R",
+        "metaLine": "4Y / R/R",
         "detailBadges": [
           "RHP",
-          "SR",
+          "4Y",
           "R/R",
           "Pitcher"
         ],
@@ -3298,7 +3298,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
-      "classYear": "FR",
+      "classYear": "1Y",
       "handedness": "R/R",
       "jersey": "34",
       "hometown": "Glen Burnie, Md.",
@@ -3365,10 +3365,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "FR / R/R",
+        "metaLine": "1Y / R/R",
         "detailBadges": [
           "RHP",
-          "FR",
+          "1Y",
           "R/R",
           "Pitcher"
         ],
@@ -3386,7 +3386,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
-      "classYear": "SR",
+      "classYear": "4Y",
       "handedness": "R/R",
       "jersey": "35",
       "hometown": "Castleton, N.Y.",
@@ -3507,10 +3507,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
             "value": "29.3"
           }
         ],
-        "metaLine": "SR / R/R",
+        "metaLine": "4Y / R/R",
         "detailBadges": [
           "RHP",
-          "SR",
+          "4Y",
           "R/R",
           "Pitcher"
         ],
@@ -3528,7 +3528,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
-      "classYear": "FR",
+      "classYear": "1Y",
       "handedness": "R/R",
       "jersey": "37",
       "hometown": "Bridgeville, Pa.",
@@ -3649,10 +3649,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
             "value": "39.0"
           }
         ],
-        "metaLine": "FR / R/R",
+        "metaLine": "1Y / R/R",
         "detailBadges": [
           "RHP",
-          "FR",
+          "1Y",
           "R/R",
           "Pitcher"
         ],
@@ -3670,7 +3670,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "role": "Pitcher",
       "position": "LHP",
       "positionLong": "",
-      "classYear": "JR",
+      "classYear": "3Y",
       "handedness": "R/R",
       "jersey": "43",
       "hometown": "Gallatin, Tenn.",
@@ -3791,10 +3791,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
             "value": "33.3"
           }
         ],
-        "metaLine": "JR / R/R",
+        "metaLine": "3Y / R/R",
         "detailBadges": [
           "LHP",
-          "JR",
+          "3Y",
           "R/R",
           "Pitcher"
         ],
@@ -3812,7 +3812,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
-      "classYear": "FR",
+      "classYear": "1Y",
       "handedness": "N/A",
       "jersey": "44",
       "hometown": "Allison Park, Pa.",
@@ -3933,10 +3933,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
             "value": "19.7"
           }
         ],
-        "metaLine": "FR / N/A",
+        "metaLine": "1Y / N/A",
         "detailBadges": [
           "RHP",
-          "FR",
+          "1Y",
           "N/A",
           "Pitcher"
         ],
@@ -3954,7 +3954,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "role": "Hitter",
       "position": "INF",
       "positionLong": "Infield",
-      "classYear": "FR",
+      "classYear": "1Y",
       "handedness": "R/R",
       "jersey": "47",
       "hometown": "Warrenton, Va.",
@@ -4021,10 +4021,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "FR / R/R",
+        "metaLine": "1Y / R/R",
         "detailBadges": [
           "INF",
-          "FR",
+          "1Y",
           "R/R",
           "Rostered"
         ],
@@ -4042,7 +4042,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "RHP",
-      "classYear": "SO",
+      "classYear": "2Y",
       "handedness": "R/R",
       "jersey": "48",
       "hometown": "Hickory",
@@ -4163,10 +4163,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
             "value": "41.3"
           }
         ],
-        "metaLine": "SO / R/R",
+        "metaLine": "2Y / R/R",
         "detailBadges": [
           "RHP",
-          "SO",
+          "2Y",
           "R/R",
           "Pitcher"
         ],
@@ -4184,7 +4184,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "role": "Pitcher",
       "position": "LHP",
       "positionLong": "",
-      "classYear": "FR",
+      "classYear": "1Y",
       "handedness": "R/L",
       "jersey": "50",
       "hometown": "Dayton, Ohio",
@@ -4305,10 +4305,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
             "value": "23.7"
           }
         ],
-        "metaLine": "FR / R/L",
+        "metaLine": "1Y / R/L",
         "detailBadges": [
           "LHP",
-          "FR",
+          "1Y",
           "R/L",
           "Pitcher"
         ],
@@ -4326,7 +4326,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "role": "Hitter",
       "position": "OF",
       "positionLong": "Outfield",
-      "classYear": "SR",
+      "classYear": "4Y",
       "handedness": "S/L",
       "jersey": "51",
       "hometown": "Atlanta, Ga.",
@@ -4393,10 +4393,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "SR / S/L",
+        "metaLine": "4Y / S/L",
         "detailBadges": [
           "OF",
-          "SR",
+          "4Y",
           "S/L",
           "Rostered"
         ],
@@ -4414,7 +4414,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
-      "classYear": "JR",
+      "classYear": "3Y",
       "handedness": "R/R",
       "jersey": "55",
       "hometown": "Waxhaw",
@@ -4515,10 +4515,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
             "value": "11.7"
           }
         ],
-        "metaLine": "JR / R/R",
+        "metaLine": "3Y / R/R",
         "detailBadges": [
           "RHP",
-          "JR",
+          "3Y",
           "R/R",
           "Pitcher"
         ],
@@ -4681,7 +4681,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "role": "Pitcher",
       "position": "INF/RHP",
       "positionLong": "",
-      "classYear": "FR",
+      "classYear": "1Y",
       "handedness": "R/R",
       "jersey": "77",
       "hometown": "Virginia Beach, Va.",
@@ -4748,10 +4748,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "FR / R/R",
+        "metaLine": "1Y / R/R",
         "detailBadges": [
           "INF/RHP",
-          "FR",
+          "1Y",
           "R/R",
           "Pitcher"
         ],
@@ -4930,7 +4930,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "school": "East Carolina",
         "role": "Hitter",
         "position": "INF",
-        "classYear": "JR",
+        "classYear": "3Y",
         "handedness": "R/R",
         "score": 0,
         "fit": {
@@ -4976,10 +4976,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "JR / R/R",
+        "metaLine": "3Y / R/R",
         "detailBadges": [
           "INF",
-          "JR",
+          "3Y",
           "R/R",
           "Rostered"
         ],
@@ -4998,7 +4998,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "school": "East Carolina",
         "role": "Hitter",
         "position": "OF",
-        "classYear": "FR",
+        "classYear": "1Y",
         "handedness": "L/R",
         "score": 0,
         "fit": {
@@ -5044,10 +5044,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "FR / L/R",
+        "metaLine": "1Y / L/R",
         "detailBadges": [
           "OF",
-          "FR",
+          "1Y",
           "L/R",
           "Rostered"
         ],
@@ -5135,7 +5135,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "school": "East Carolina",
         "role": "Hitter",
         "position": "INF",
-        "classYear": "JR",
+        "classYear": "3Y",
         "handedness": "L/R",
         "score": 6,
         "fit": {
@@ -5181,10 +5181,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Discipline": 11.111111111111107,
           "Speed": 10
         },
-        "metaLine": "JR / L/R",
+        "metaLine": "3Y / L/R",
         "detailBadges": [
           "INF",
-          "JR",
+          "3Y",
           "L/R",
           "Hitter"
         ],
@@ -5204,7 +5204,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "school": "East Carolina",
         "role": "Pitcher",
         "position": "LHP",
-        "classYear": "SO",
+        "classYear": "2Y",
         "handedness": "L/L",
         "score": 0,
         "fit": {
@@ -5250,10 +5250,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SO / L/L",
+        "metaLine": "2Y / L/L",
         "detailBadges": [
           "LHP",
-          "SO",
+          "2Y",
           "L/L",
           "Pitcher"
         ],
@@ -5272,7 +5272,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "school": "East Carolina",
         "role": "Pitcher",
         "position": "LHP",
-        "classYear": "SR",
+        "classYear": "4Y",
         "handedness": "L/L",
         "score": 0,
         "fit": {
@@ -5318,10 +5318,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SR / L/L",
+        "metaLine": "4Y / L/L",
         "detailBadges": [
           "LHP",
-          "SR",
+          "4Y",
           "L/L",
           "Pitcher"
         ],
@@ -5409,7 +5409,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "school": "East Carolina",
         "role": "Hitter",
         "position": "UTL",
-        "classYear": "SR",
+        "classYear": "4Y",
         "handedness": "R/R",
         "score": 0,
         "fit": {
@@ -5455,10 +5455,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "SR / R/R",
+        "metaLine": "4Y / R/R",
         "detailBadges": [
           "UTL",
-          "SR",
+          "4Y",
           "R/R",
           "Rostered"
         ],
@@ -5546,7 +5546,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "school": "East Carolina",
         "role": "Pitcher",
         "position": "INF/RHP",
-        "classYear": "JR",
+        "classYear": "3Y",
         "handedness": "R/R",
         "score": 16,
         "fit": {
@@ -5592,10 +5592,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Command": 100,
           "Damage suppression": 0
         },
-        "metaLine": "JR / R/R",
+        "metaLine": "3Y / R/R",
         "detailBadges": [
           "INF/RHP",
-          "JR",
+          "3Y",
           "R/R",
           "Two-Way"
         ],
@@ -5615,7 +5615,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "school": "East Carolina",
         "role": "Hitter",
         "position": "OF",
-        "classYear": "SO",
+        "classYear": "2Y",
         "handedness": "R/R",
         "score": 0,
         "fit": {
@@ -5661,10 +5661,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Discipline": 0,
           "Speed": 3.3333333333333335
         },
-        "metaLine": "SO / R/R",
+        "metaLine": "2Y / R/R",
         "detailBadges": [
           "OF",
-          "SO",
+          "2Y",
           "R/R",
           "Hitter"
         ],
@@ -5684,7 +5684,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "school": "East Carolina",
         "role": "Hitter",
         "position": "OF",
-        "classYear": "FR",
+        "classYear": "1Y",
         "handedness": "R/R",
         "score": 56,
         "fit": {
@@ -5730,10 +5730,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Discipline": 50.42735042735041,
           "Speed": 36.666666666666664
         },
-        "metaLine": "FR / R/R",
+        "metaLine": "1Y / R/R",
         "detailBadges": [
           "OF",
-          "FR",
+          "1Y",
           "R/R",
           "Hitter"
         ],
@@ -5753,7 +5753,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "school": "East Carolina",
         "role": "Hitter",
         "position": "C",
-        "classYear": "SO",
+        "classYear": "2Y",
         "handedness": "L/R",
         "score": 0,
         "fit": {
@@ -5799,10 +5799,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "SO / L/R",
+        "metaLine": "2Y / L/R",
         "detailBadges": [
           "C",
-          "SO",
+          "2Y",
           "L/R",
           "Rostered"
         ],
@@ -5821,7 +5821,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "school": "East Carolina",
         "role": "Hitter",
         "position": "INF",
-        "classYear": "JR",
+        "classYear": "3Y",
         "handedness": "L/R",
         "score": 0,
         "fit": {
@@ -5867,10 +5867,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "JR / L/R",
+        "metaLine": "3Y / L/R",
         "detailBadges": [
           "INF",
-          "JR",
+          "3Y",
           "L/R",
           "Rostered"
         ],
@@ -5889,7 +5889,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "school": "East Carolina",
         "role": "Hitter",
         "position": "INF",
-        "classYear": "SR",
+        "classYear": "4Y",
         "handedness": "R/R",
         "score": 0,
         "fit": {
@@ -5935,10 +5935,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "SR / R/R",
+        "metaLine": "4Y / R/R",
         "detailBadges": [
           "INF",
-          "SR",
+          "4Y",
           "R/R",
           "Rostered"
         ],
@@ -5957,7 +5957,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "school": "East Carolina",
         "role": "Pitcher",
         "position": "LHP",
-        "classYear": "JR",
+        "classYear": "3Y",
         "handedness": "L/L",
         "score": 28,
         "fit": {
@@ -6003,10 +6003,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Command": 73.57142857142858,
           "Damage suppression": 0
         },
-        "metaLine": "JR / L/L",
+        "metaLine": "3Y / L/L",
         "detailBadges": [
           "LHP",
-          "JR",
+          "3Y",
           "L/L",
           "Pitcher"
         ],
@@ -6026,7 +6026,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "school": "East Carolina",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "JR",
+        "classYear": "3Y",
         "handedness": "R/R",
         "score": 0,
         "fit": {
@@ -6072,10 +6072,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "JR / R/R",
+        "metaLine": "3Y / R/R",
         "detailBadges": [
           "RHP",
-          "JR",
+          "3Y",
           "R/R",
           "Pitcher"
         ],
@@ -6094,7 +6094,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "school": "East Carolina",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "SR",
+        "classYear": "4Y",
         "handedness": "R/R",
         "score": 0,
         "fit": {
@@ -6140,10 +6140,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SR / R/R",
+        "metaLine": "4Y / R/R",
         "detailBadges": [
           "RHP",
-          "SR",
+          "4Y",
           "R/R",
           "Pitcher"
         ],
@@ -6162,7 +6162,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "school": "East Carolina",
         "role": "Hitter",
         "position": "INF",
-        "classYear": "SO",
+        "classYear": "2Y",
         "handedness": "L/R",
         "score": 0,
         "fit": {
@@ -6208,10 +6208,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "SO / L/R",
+        "metaLine": "2Y / L/R",
         "detailBadges": [
           "INF",
-          "SO",
+          "2Y",
           "L/R",
           "Rostered"
         ],
@@ -6230,7 +6230,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "school": "East Carolina",
         "role": "Hitter",
         "position": "C",
-        "classYear": "JR",
+        "classYear": "3Y",
         "handedness": "R/R",
         "score": 33,
         "fit": {
@@ -6276,10 +6276,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Discipline": 34.83483483483483,
           "Speed": 3.3333333333333335
         },
-        "metaLine": "JR / R/R",
+        "metaLine": "3Y / R/R",
         "detailBadges": [
           "C",
-          "JR",
+          "3Y",
           "R/R",
           "Hitter"
         ],
@@ -6299,7 +6299,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "school": "East Carolina",
         "role": "Hitter",
         "position": "INF",
-        "classYear": "SO",
+        "classYear": "2Y",
         "handedness": "S/R",
         "score": 0,
         "fit": {
@@ -6345,10 +6345,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "SO / S/R",
+        "metaLine": "2Y / S/R",
         "detailBadges": [
           "INF",
-          "SO",
+          "2Y",
           "S/R",
           "Rostered"
         ],
@@ -6367,7 +6367,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "school": "East Carolina",
         "role": "Hitter",
         "position": "INF/OF",
-        "classYear": "SO",
+        "classYear": "2Y",
         "handedness": "R/R",
         "score": 77,
         "fit": {
@@ -6413,10 +6413,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Discipline": 100,
           "Speed": 40
         },
-        "metaLine": "SO / R/R",
+        "metaLine": "2Y / R/R",
         "detailBadges": [
           "INF/OF",
-          "SO",
+          "2Y",
           "R/R",
           "Hitter"
         ],
@@ -6436,7 +6436,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "school": "East Carolina",
         "role": "Pitcher",
         "position": "LHP",
-        "classYear": "SR",
+        "classYear": "4Y",
         "handedness": "L/L",
         "score": 0,
         "fit": {
@@ -6482,10 +6482,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SR / L/L",
+        "metaLine": "4Y / L/L",
         "detailBadges": [
           "LHP",
-          "SR",
+          "4Y",
           "L/L",
           "Pitcher"
         ],
@@ -6504,7 +6504,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "school": "East Carolina",
         "role": "Hitter",
         "position": "C",
-        "classYear": "JR",
+        "classYear": "3Y",
         "handedness": "N/A",
         "score": 0,
         "fit": {
@@ -6550,10 +6550,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "JR / N/A",
+        "metaLine": "3Y / N/A",
         "detailBadges": [
           "C",
-          "JR",
+          "3Y",
           "N/A",
           "Rostered"
         ],
@@ -6572,7 +6572,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "school": "East Carolina",
         "role": "Hitter",
         "position": "OF",
-        "classYear": "FR",
+        "classYear": "1Y",
         "handedness": "R/R",
         "score": 32,
         "fit": {
@@ -6618,10 +6618,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Discipline": 61.11111111111111,
           "Speed": 0
         },
-        "metaLine": "FR / R/R",
+        "metaLine": "1Y / R/R",
         "detailBadges": [
           "OF",
-          "FR",
+          "1Y",
           "R/R",
           "Hitter"
         ],
@@ -6641,7 +6641,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "school": "East Carolina",
         "role": "Hitter",
         "position": "OF",
-        "classYear": "JR",
+        "classYear": "3Y",
         "handedness": "R/R",
         "score": 5,
         "fit": {
@@ -6687,10 +6687,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Discipline": 25.39682539682539,
           "Speed": 0
         },
-        "metaLine": "JR / R/R",
+        "metaLine": "3Y / R/R",
         "detailBadges": [
           "OF",
-          "JR",
+          "3Y",
           "R/R",
           "Hitter"
         ],
@@ -6710,7 +6710,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "school": "East Carolina",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "SR",
+        "classYear": "4Y",
         "handedness": "R/R",
         "score": 0,
         "fit": {
@@ -6756,10 +6756,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SR / R/R",
+        "metaLine": "4Y / R/R",
         "detailBadges": [
           "RHP",
-          "SR",
+          "4Y",
           "R/R",
           "Pitcher"
         ],
@@ -6778,7 +6778,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "school": "East Carolina",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "FR",
+        "classYear": "1Y",
         "handedness": "R/R",
         "score": 0,
         "fit": {
@@ -6824,10 +6824,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "FR / R/R",
+        "metaLine": "1Y / R/R",
         "detailBadges": [
           "RHP",
-          "FR",
+          "1Y",
           "R/R",
           "Pitcher"
         ],
@@ -6846,7 +6846,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "school": "East Carolina",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "SR",
+        "classYear": "4Y",
         "handedness": "R/R",
         "score": 31,
         "fit": {
@@ -6892,10 +6892,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Command": 79.99999999999999,
           "Damage suppression": 0
         },
-        "metaLine": "SR / R/R",
+        "metaLine": "4Y / R/R",
         "detailBadges": [
           "RHP",
-          "SR",
+          "4Y",
           "R/R",
           "Pitcher"
         ],
@@ -6915,7 +6915,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "school": "East Carolina",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "FR",
+        "classYear": "1Y",
         "handedness": "R/R",
         "score": 3,
         "fit": {
@@ -6961,10 +6961,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "FR / R/R",
+        "metaLine": "1Y / R/R",
         "detailBadges": [
           "RHP",
-          "FR",
+          "1Y",
           "R/R",
           "Pitcher"
         ],
@@ -6984,7 +6984,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "school": "East Carolina",
         "role": "Pitcher",
         "position": "LHP",
-        "classYear": "JR",
+        "classYear": "3Y",
         "handedness": "R/R",
         "score": 10,
         "fit": {
@@ -7030,10 +7030,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Command": 7.5000000000000036,
           "Damage suppression": 0
         },
-        "metaLine": "JR / R/R",
+        "metaLine": "3Y / R/R",
         "detailBadges": [
           "LHP",
-          "JR",
+          "3Y",
           "R/R",
           "Pitcher"
         ],
@@ -7053,7 +7053,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "school": "East Carolina",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "FR",
+        "classYear": "1Y",
         "handedness": "N/A",
         "score": 13,
         "fit": {
@@ -7099,10 +7099,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Command": 27.500000000000004,
           "Damage suppression": 0
         },
-        "metaLine": "FR / N/A",
+        "metaLine": "1Y / N/A",
         "detailBadges": [
           "RHP",
-          "FR",
+          "1Y",
           "N/A",
           "Pitcher"
         ],
@@ -7122,7 +7122,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "school": "East Carolina",
         "role": "Hitter",
         "position": "INF",
-        "classYear": "FR",
+        "classYear": "1Y",
         "handedness": "R/R",
         "score": 0,
         "fit": {
@@ -7168,10 +7168,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "FR / R/R",
+        "metaLine": "1Y / R/R",
         "detailBadges": [
           "INF",
-          "FR",
+          "1Y",
           "R/R",
           "Rostered"
         ],
@@ -7190,7 +7190,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "school": "East Carolina",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "SO",
+        "classYear": "2Y",
         "handedness": "R/R",
         "score": 25,
         "fit": {
@@ -7236,10 +7236,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Command": 70,
           "Damage suppression": 0
         },
-        "metaLine": "SO / R/R",
+        "metaLine": "2Y / R/R",
         "detailBadges": [
           "RHP",
-          "SO",
+          "2Y",
           "R/R",
           "Pitcher"
         ],
@@ -7259,7 +7259,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "school": "East Carolina",
         "role": "Pitcher",
         "position": "LHP",
-        "classYear": "FR",
+        "classYear": "1Y",
         "handedness": "R/L",
         "score": 11,
         "fit": {
@@ -7305,10 +7305,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Command": 20,
           "Damage suppression": 0
         },
-        "metaLine": "FR / R/L",
+        "metaLine": "1Y / R/L",
         "detailBadges": [
           "LHP",
-          "FR",
+          "1Y",
           "R/L",
           "Pitcher"
         ],
@@ -7328,7 +7328,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "school": "East Carolina",
         "role": "Hitter",
         "position": "OF",
-        "classYear": "SR",
+        "classYear": "4Y",
         "handedness": "S/L",
         "score": 0,
         "fit": {
@@ -7374,10 +7374,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "SR / S/L",
+        "metaLine": "4Y / S/L",
         "detailBadges": [
           "OF",
-          "SR",
+          "4Y",
           "S/L",
           "Rostered"
         ],
@@ -7396,7 +7396,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "school": "East Carolina",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "JR",
+        "classYear": "3Y",
         "handedness": "R/R",
         "score": 21,
         "fit": {
@@ -7442,10 +7442,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Command": 100,
           "Damage suppression": 0
         },
-        "metaLine": "JR / R/R",
+        "metaLine": "3Y / R/R",
         "detailBadges": [
           "RHP",
-          "JR",
+          "3Y",
           "R/R",
           "Pitcher"
         ],
@@ -7534,7 +7534,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "school": "East Carolina",
         "role": "Pitcher",
         "position": "INF/RHP",
-        "classYear": "FR",
+        "classYear": "1Y",
         "handedness": "R/R",
         "score": 0,
         "fit": {
@@ -7580,10 +7580,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "FR / R/R",
+        "metaLine": "1Y / R/R",
         "detailBadges": [
           "INF/RHP",
-          "FR",
+          "1Y",
           "R/R",
           "Pitcher"
         ],

@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.tulane2026 = {
-  "generatedAt": "2026-07-06T11:45:04.266Z",
+  "generatedAt": "2026-07-09T11:18:02.234Z",
   "season": 2026,
   "school": {
     "slug": "tulane",
@@ -25,7 +25,7 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
     "ncaa": "NCAA school index"
   },
   "coverage": {
-    "rosterPlayers": 16,
+    "rosterPlayers": 15,
     "espnRosterPlayers": 0,
     "playersWithHittingStats": 8,
     "playersWithPitchingStats": 7,
@@ -1901,94 +1901,6 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
       }
     },
     {
-      "id": "tulane-17226",
-      "schoolSlug": "tulane",
-      "school": "Tulane",
-      "schoolLongName": "Tulane University",
-      "name": "Matthew Major",
-      "normalizedName": "matthew major",
-      "compositeRole": "Rostered",
-      "role": "Hitter",
-      "position": "OF/3B",
-      "positionLong": "",
-      "classYear": "R-FR",
-      "handedness": "R/R",
-      "jersey": "42",
-      "hometown": "Troy, OH",
-      "highSchool": "Pro5 Baseball Academy",
-      "previousSchool": "",
-      "hometownHighSchool": "Troy, OH / Pro5 Baseball Academy",
-      "profileUrl": "https://tulanegreenwave.com/sports/baseball/roster/matthew-major/17226",
-      "imageUrl": "https://tulanegreenwave.com/images/2025/8/26/Matthew_Major_HS_26.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "17226",
-      "sources": [
-        "Tulane Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "summary": "Matthew Major gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "R-FR / R/R",
-        "detailBadges": [
-          "OF/3B",
-          "R-FR",
-          "R/R",
-          "Rostered"
-        ],
-        "sourceSummary": "Tulane Athletics roster"
-      }
-    },
-    {
       "id": "tulane-17220",
       "schoolSlug": "tulane",
       "school": "Tulane",
@@ -2367,9 +2279,9 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
   "playerBoard": {
     "source": "Tulane Athletics roster + cumulative stats / ESPN roster",
     "note": "This Tulane-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but Tulane's public ESPN roster feed did not line up cleanly with the current school-site roster.",
-    "totalPlayers": 16,
+    "totalPlayers": 15,
     "roleCounts": {
-      "Hitter": 8,
+      "Hitter": 7,
       "Pitcher": 8
     },
     "players": [
@@ -3199,74 +3111,6 @@ window.__BASEBALL_DATASETS__.tulane2026 = {
         "schoolSlug": "tulane",
         "compositeRole": "Hitter",
         "profileUrl": "https://tulanegreenwave.com/sports/baseball/roster/evan-burg/17217",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "tulane-17226",
-        "name": "Matthew Major",
-        "school": "Tulane",
-        "role": "Hitter",
-        "position": "OF/3B",
-        "classYear": "R-FR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Matthew Major gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "R-FR / R/R",
-        "detailBadges": [
-          "OF/3B",
-          "R-FR",
-          "R/R",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Tulane Athletics roster"
-        ],
-        "sourceSummary": "Tulane Athletics roster",
-        "schoolSlug": "tulane",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://tulanegreenwave.com/sports/baseball/roster/matthew-major/17226",
         "espnAthleteId": ""
       },
       {
