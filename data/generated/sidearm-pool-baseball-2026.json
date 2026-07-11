@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T11:18:26.811Z",
+  "generatedAt": "2026-07-11T10:41:09.211Z",
   "season": 2026,
   "source": "Generated Sidearm baseball school-site pool",
   "note": "This generated free player pool combines verified public roster and cumulative stats pages from multiple Sidearm baseball programs. It is broader than Toledo alone, but still not a full every-school national directory yet.",
@@ -608,10 +608,10 @@
       "name": "Rice",
       "longName": "Rice University",
       "record": "35-24, 16-11",
-      "totalPlayers": 28,
-      "hitters": 11,
+      "totalPlayers": 27,
+      "hitters": 10,
       "pitchers": 17,
-      "rosterPlayers": 28,
+      "rosterPlayers": 27,
       "playersWithAnyStats": 23,
       "statsUrl": "https://riceowls.com/sports/baseball/stats/2026",
       "rosterUrl": "https://riceowls.com/sports/baseball/roster"
@@ -839,17 +839,17 @@
     }
   ],
   "coverage": {
-    "totalPlayers": 2320,
-    "totalHitters": 1065,
+    "totalPlayers": 2319,
+    "totalHitters": 1064,
     "totalPitchers": 1255,
     "schoolsCovered": 64
   },
   "playerBoard": {
     "source": "Generated Sidearm baseball school-site pool",
     "note": "This free generated pool comes from verified public school-site roster and cumulative stats pages across multiple Sidearm baseball programs.",
-    "totalPlayers": 2320,
+    "totalPlayers": 2319,
     "roleCounts": {
-      "Hitter": 1065,
+      "Hitter": 1064,
       "Pitcher": 1255
     },
     "players": [
@@ -115715,74 +115715,6 @@
         "schoolSlug": "rice",
         "compositeRole": "Hitter",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/landis-davila/11076",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "rice-11112",
-        "name": "LJ Layhew",
-        "school": "Rice",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "SO",
-        "handedness": "S-R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "LJ Layhew gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "SO / S-R",
-        "detailBadges": [
-          "C",
-          "SO",
-          "S-R",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Rice Athletics roster"
-        ],
-        "sourceSummary": "Rice Athletics roster",
-        "schoolSlug": "rice",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://riceowls.com/sports/baseball/roster/lj-layhew/11112",
         "espnAthleteId": ""
       },
       {

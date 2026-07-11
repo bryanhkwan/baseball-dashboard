@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.wake-forest2026 = {
-  "generatedAt": "2026-07-10T11:17:25.460Z",
+  "generatedAt": "2026-07-11T10:39:45.068Z",
   "season": 2026,
   "school": {
     "slug": "wake-forest",

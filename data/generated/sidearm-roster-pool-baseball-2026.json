@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T11:18:38.059Z",
+  "generatedAt": "2026-07-11T10:41:27.412Z",
   "season": 2026,
   "source": "Generated Sidearm baseball roster pool",
   "note": "This compact roster-only pool captures public school-site baseball rosters so non-appearing players can still enter coverage before they log a reachable NCAA boxscore.",
@@ -303,7 +303,7 @@
       "slug": "rice",
       "name": "Rice",
       "longName": "Rice University",
-      "rosterPlayers": 28,
+      "rosterPlayers": 27,
       "rosterUrl": "https://riceowls.com/sports/baseball/roster"
     },
     {
@@ -458,9 +458,9 @@
     "schoolsRequested": 73,
     "schoolsLoaded": 64,
     "schoolsFailed": 9,
-    "totalPlayers": 2320,
+    "totalPlayers": 2319,
     "roleCounts": {
-      "Hitter": 1149,
+      "Hitter": 1148,
       "Pitcher": 1171
     },
     "failures": [
@@ -23891,20 +23891,6 @@
       "Farragut",
       "Mississippi State",
       "https://riceowls.com/sports/baseball/roster/landis-davila/11076"
-    ],
-    [
-      "rice-11112",
-      "rice",
-      "LJ Layhew",
-      "Hitter",
-      "C",
-      "SO",
-      "S-R",
-      "6",
-      "Houston, Texas",
-      "Kinkaid",
-      "",
-      "https://riceowls.com/sports/baseball/roster/lj-layhew/11112"
     ],
     [
       "rice-11095",
