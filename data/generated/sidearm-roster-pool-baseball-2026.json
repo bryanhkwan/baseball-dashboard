@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T10:46:32.568Z",
+  "generatedAt": "2026-07-13T11:24:42.887Z",
   "season": 2026,
   "source": "Generated Sidearm baseball roster pool",
   "note": "This compact roster-only pool captures public school-site baseball rosters so non-appearing players can still enter coverage before they log a reachable NCAA boxscore.",
@@ -51,7 +51,7 @@
       "slug": "brown",
       "name": "Brown",
       "longName": "Brown University",
-      "rosterPlayers": 38,
+      "rosterPlayers": 37,
       "rosterUrl": "https://brownbears.com/sports/baseball/roster"
     },
     {
@@ -458,10 +458,10 @@
     "schoolsRequested": 73,
     "schoolsLoaded": 64,
     "schoolsFailed": 9,
-    "totalPlayers": 2319,
+    "totalPlayers": 2318,
     "roleCounts": {
       "Hitter": 1148,
-      "Pitcher": 1171
+      "Pitcher": 1170
     },
     "failures": [
       {
@@ -6349,20 +6349,6 @@
       "Flower Mound",
       "",
       "https://brownbears.com/sports/baseball/roster/brenden-kline/24039"
-    ],
-    [
-      "brown-24046",
-      "brown",
-      "Ryan Oshinskie",
-      "Pitcher",
-      "RHP",
-      "SR",
-      "R/R",
-      "23",
-      "Fairfield, Conn.",
-      "Fairfield Prep",
-      "",
-      "https://brownbears.com/sports/baseball/roster/ryan-oshinskie/24046"
     ],
     [
       "brown-24031",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T10:44:57.775Z",
+  "generatedAt": "2026-07-13T11:22:31.013Z",
   "season": 2026,
   "school": {
     "slug": "brown",
@@ -24,7 +24,7 @@
     "ncaa": "NCAA school index"
   },
   "coverage": {
-    "rosterPlayers": 38,
+    "rosterPlayers": 37,
     "espnRosterPlayers": 0,
     "playersWithHittingStats": 0,
     "playersWithPitchingStats": 0,
@@ -1158,94 +1158,6 @@
           "Damage suppression": 0
         },
         "summary": "Brenden Kline looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Brown Athletics roster"
-      }
-    },
-    {
-      "id": "brown-24046",
-      "schoolSlug": "brown",
-      "school": "Brown",
-      "schoolLongName": "Brown University",
-      "name": "Ryan Oshinskie",
-      "normalizedName": "ryan oshinskie",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "RHP",
-      "classYear": "SR",
-      "handedness": "R/R",
-      "jersey": "23",
-      "hometown": "Fairfield, Conn.",
-      "highSchool": "Fairfield Prep",
-      "previousSchool": "",
-      "hometownHighSchool": "Fairfield, Conn. / Fairfield Prep",
-      "profileUrl": "https://brownbears.com/sports/baseball/roster/ryan-oshinskie/24046",
-      "imageUrl": "https://brownbears.com/images/2026/2/10/Oshinskie-headshot-2026.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "24046",
-      "sources": [
-        "Brown Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Ryan Oshinskie looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -3491,10 +3403,10 @@
   "playerBoard": {
     "source": "Brown Athletics roster + cumulative stats / ESPN roster",
     "note": "This Brown-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but Brown's public ESPN roster feed did not line up cleanly with the current school-site roster.",
-    "totalPlayers": 38,
+    "totalPlayers": 37,
     "roleCounts": {
       "Hitter": 18,
-      "Pitcher": 20
+      "Pitcher": 19
     },
     "players": [
       {
@@ -4311,74 +4223,6 @@
         "schoolSlug": "brown",
         "compositeRole": "Pitcher",
         "profileUrl": "https://brownbears.com/sports/baseball/roster/brenden-kline/24039",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "brown-24046",
-        "name": "Ryan Oshinskie",
-        "school": "Brown",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Ryan Oshinskie looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster"
-        ],
-        "sourceSummary": "Brown Athletics roster",
-        "schoolSlug": "brown",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/ryan-oshinskie/24046",
         "espnAthleteId": ""
       },
       {
