@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.east-carolina2026 = {
-  "generatedAt": "2026-07-14T10:53:02.596Z",
+  "generatedAt": "2026-07-15T10:53:36.165Z",
   "season": 2026,
   "school": {
     "slug": "east-carolina",
@@ -28,9 +28,9 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
     "rosterPlayers": 41,
     "espnRosterPlayers": 0,
     "playersWithHittingStats": 10,
-    "playersWithPitchingStats": 11,
-    "playersWithFieldingStats": 17,
-    "mergedPlayersWithAnyStats": 20,
+    "playersWithPitchingStats": 9,
+    "playersWithFieldingStats": 15,
+    "mergedPlayersWithAnyStats": 18,
     "matchedEspnPlayers": 0,
     "unmatchedStatRows": {
       "hitting": [
@@ -46,6 +46,8 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       ],
       "pitching": [
         "33",
+        "18",
+        "35",
         "99",
         "27",
         "20",
@@ -60,12 +62,14 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "19",
         "27",
         "20",
+        "35",
         "13",
         "1",
         "51",
         "21",
         "8",
         "14",
+        "18",
         "99"
       ]
     }
@@ -1970,7 +1974,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       }
     },
     {
-      "id": "east-carolina-14537",
+      "id": "east-carolina-13914",
       "schoolSlug": "east-carolina",
       "school": "East Carolina",
       "schoolLongName": "East Carolina University",
@@ -1987,7 +1991,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "highSchool": "East Forsyth",
       "previousSchool": "",
       "hometownHighSchool": "Kernersville / East Forsyth",
-      "profileUrl": "https://ecupirates.com/sports/baseball/roster/ethan-norby/14537",
+      "profileUrl": "https://ecupirates.com/sports/baseball/roster/ethan-norby/13914",
       "imageUrl": "https://ecupirates.com/images/2025/12/2/Norby_Ethan_COAT_TIE_MUG_2025-1.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -1995,69 +1999,15 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "14537",
+      "rosterBioId": "13914",
       "sources": [
-        "East Carolina Athletics roster",
-        "East Carolina cumulative stats"
+        "East Carolina Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "14537",
-        "name": "Ethan Norby",
-        "normalizedName": "ethan norby",
-        "jersey": "18",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/ethan-norby/14537",
-        "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
-        "gamesPlayed": 18,
-        "gamesStarted": 14,
-        "appearances": 18,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 4.08,
-        "whip": 1.32,
-        "wins": 7,
-        "losses": 3,
-        "saves": 1,
-        "shutouts": 0,
-        "inningsPitched": 90.33333333333333,
-        "inningsPitchedDisplay": "90.1",
-        "hitsAllowed": 91,
-        "runsAllowed": 48,
-        "earnedRunsAllowed": 41,
-        "walksAllowed": 28,
-        "strikeouts": 131,
-        "doublesAllowed": 11,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 10,
-        "opponentsAtBats": 353,
-        "wildPitches": 3,
-        "hitBatters": 21,
-        "balks": 2,
-        "opponentsBattingAverage": 0.258,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "14537",
-        "name": "Ethan Norby",
-        "normalizedName": "ethan norby",
-        "jersey": "18",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/ethan-norby/14537",
-        "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
-        "gamesPlayed": 10,
-        "gamesStarted": 8,
-        "putouts": 0,
-        "assists": 10,
-        "errors": 1,
-        "fieldingPercentage": 0.909,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 2,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 11
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 28,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2065,40 +2015,40 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 82.2878228782288,
-          "Command": 73.57142857142858,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Ethan Norby looks like a LHP option who misses bats and throws enough strikes.",
+        "summary": "Ethan Norby looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 4.08",
-          "WHIP 1.32",
-          "K/9 13.1"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.08"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.32"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "13.1"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "2.8"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.00"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "90.3"
+            "value": "0.0"
           }
         ],
         "metaLine": "3RD YR / L/L",
@@ -2108,7 +2058,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "L/L",
           "Pitcher"
         ],
-        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats"
+        "sourceSummary": "East Carolina Athletics roster"
       }
     },
     {
@@ -3376,7 +3326,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       }
     },
     {
-      "id": "east-carolina-14546",
+      "id": "east-carolina-14138",
       "schoolSlug": "east-carolina",
       "school": "East Carolina",
       "schoolLongName": "East Carolina University",
@@ -3393,7 +3343,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "highSchool": "Maple Hill",
       "previousSchool": "West Virginia",
       "hometownHighSchool": "Castleton, N.Y. / Maple Hill",
-      "profileUrl": "https://ecupirates.com/sports/baseball/roster/gavin-van-kempen/14546",
+      "profileUrl": "https://ecupirates.com/sports/baseball/roster/gavin-van-kempen/14138",
       "imageUrl": "https://ecupirates.com/images/2025/12/2/Van_Kempen_Gavin_COAT_TIE_MUG_2025-1.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -3401,69 +3351,15 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "14546",
+      "rosterBioId": "14138",
       "sources": [
-        "East Carolina Athletics roster",
-        "East Carolina cumulative stats"
+        "East Carolina Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "14546",
-        "name": "Gavin Van Kempen",
-        "normalizedName": "gavin van kempen",
-        "jersey": "35",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/gavin-van-kempen/14546",
-        "imageUrl": "",
-        "gamesPlayed": 6,
-        "gamesStarted": 6,
-        "appearances": 6,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 1.84,
-        "whip": 0.85,
-        "wins": 1,
-        "losses": 1,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 29.333333333333332,
-        "inningsPitchedDisplay": "29.1",
-        "hitsAllowed": 16,
-        "runsAllowed": 8,
-        "earnedRunsAllowed": 6,
-        "walksAllowed": 9,
-        "strikeouts": 45,
-        "doublesAllowed": 2,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 102,
-        "wildPitches": 3,
-        "hitBatters": 3,
-        "balks": 0,
-        "opponentsBattingAverage": 0.157,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "14546",
-        "name": "Gavin Van Kempen",
-        "normalizedName": "gavin van kempen",
-        "jersey": "35",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/gavin-van-kempen/14546",
-        "imageUrl": "",
-        "gamesPlayed": 2,
-        "gamesStarted": 2,
-        "putouts": 2,
-        "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 2
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 31,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3471,40 +3367,40 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 89.15289256198346,
-          "Command": 79.99999999999999,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Gavin Van Kempen looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
+        "summary": "Gavin Van Kempen looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 1.84",
-          "WHIP 0.85",
-          "K/9 13.8"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "1.84"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "0.85"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "13.8"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "2.8"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "0.61"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "29.3"
+            "value": "0.0"
           }
         ],
         "metaLine": "4TH YR / R/R",
@@ -3514,7 +3410,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "R/R",
           "Pitcher"
         ],
-        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats"
+        "sourceSummary": "East Carolina Athletics roster"
       }
     },
     {
@@ -5952,55 +5848,55 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "east-carolina-14537",
+        "id": "east-carolina-13914",
         "name": "Ethan Norby",
         "school": "East Carolina",
         "role": "Pitcher",
         "position": "LHP",
         "classYear": "3RD YR",
         "handedness": "L/L",
-        "score": 28,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Ethan Norby looks like a LHP option who misses bats and throws enough strikes.",
+        "summary": "Ethan Norby looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 4.08",
-          "WHIP 1.32",
-          "K/9 13.1"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.08"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.32"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "13.1"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "2.8"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.00"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "90.3"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 82.2878228782288,
-          "Command": 73.57142857142858,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
         "metaLine": "3RD YR / L/L",
@@ -6011,13 +5907,12 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Pitcher"
         ],
         "leaderboards": [
-          "East Carolina Athletics roster",
-          "East Carolina cumulative stats"
+          "East Carolina Athletics roster"
         ],
-        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats",
+        "sourceSummary": "East Carolina Athletics roster",
         "schoolSlug": "east-carolina",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/ethan-norby/14537",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/ethan-norby/13914",
         "espnAthleteId": ""
       },
       {
@@ -6841,55 +6736,55 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "east-carolina-14546",
+        "id": "east-carolina-14138",
         "name": "Gavin Van Kempen",
         "school": "East Carolina",
         "role": "Pitcher",
         "position": "RHP",
         "classYear": "4TH YR",
         "handedness": "R/R",
-        "score": 31,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Gavin Van Kempen looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
+        "summary": "Gavin Van Kempen looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 1.84",
-          "WHIP 0.85",
-          "K/9 13.8"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "1.84"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "0.85"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "13.8"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "2.8"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "0.61"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "29.3"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 89.15289256198346,
-          "Command": 79.99999999999999,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
         "metaLine": "4TH YR / R/R",
@@ -6900,13 +6795,12 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Pitcher"
         ],
         "leaderboards": [
-          "East Carolina Athletics roster",
-          "East Carolina cumulative stats"
+          "East Carolina Athletics roster"
         ],
-        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats",
+        "sourceSummary": "East Carolina Athletics roster",
         "schoolSlug": "east-carolina",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/gavin-van-kempen/14546",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/gavin-van-kempen/14138",
         "espnAthleteId": ""
       },
       {
