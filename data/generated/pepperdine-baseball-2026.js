@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.pepperdine2026 = {
-  "generatedAt": "2026-07-15T10:53:57.698Z",
+  "generatedAt": "2026-07-16T10:55:17.272Z",
   "season": 2026,
   "school": {
     "slug": "pepperdine",
@@ -25,7 +25,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
     "ncaa": "NCAA school index"
   },
   "coverage": {
-    "rosterPlayers": 25,
+    "rosterPlayers": 23,
     "espnRosterPlayers": 0,
     "playersWithHittingStats": 0,
     "playersWithPitchingStats": 0,
@@ -37,6 +37,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "Daniel Patterson",
         "Trey Dunn",
         "Julian Nunez",
+        "Shawn Romero",
         "Max Aude",
         "Johnny Backus",
         "Cal Wipf"
@@ -47,6 +48,7 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "Jackson Pace",
         "Dylan Stewart",
         "Gabe Maya",
+        "Austin Plisinski",
         "Jake Guardiancic",
         "Johnny Backus"
       ],
@@ -54,11 +56,13 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "Trey Dunn",
         "Tommy Scavone",
         "Cal Wipf",
+        "Austin Plisinski",
         "Jackson Pace",
         "Dylan Stewart",
         "Gabe Maya",
         "Johnny Backus",
         "Jake Guardiancic",
+        "Shawn Romero",
         "Max Aude",
         "Julian Nunez",
         "Daniel Patterson",
@@ -944,94 +948,6 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
       }
     },
     {
-      "id": "pepperdine-5942",
-      "schoolSlug": "pepperdine",
-      "school": "Pepperdine",
-      "schoolLongName": "Pepperdine University",
-      "name": "Shawn Romero",
-      "normalizedName": "shawn romero",
-      "compositeRole": "Rostered",
-      "role": "Hitter",
-      "position": "C",
-      "positionLong": "Catcher",
-      "classYear": "SO",
-      "handedness": "HS",
-      "jersey": "16",
-      "hometown": "Orange, Calif.",
-      "highSchool": "Villa Park",
-      "previousSchool": "",
-      "hometownHighSchool": "Orange, Calif. / Villa Park",
-      "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/shawn-romero/5942",
-      "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/romero.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "5942",
-      "sources": [
-        "Pepperdine Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "summary": "Shawn Romero gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "SO / HS",
-        "detailBadges": [
-          "C",
-          "SO",
-          "HS",
-          "Rostered"
-        ],
-        "sourceSummary": "Pepperdine Athletics roster"
-      }
-    },
-    {
       "id": "pepperdine-5943",
       "schoolSlug": "pepperdine",
       "school": "Pepperdine",
@@ -1466,94 +1382,6 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
           "LHP",
           "GR",
           "N/A",
-          "Pitcher"
-        ],
-        "sourceSummary": "Pepperdine Athletics roster"
-      }
-    },
-    {
-      "id": "pepperdine-5967",
-      "schoolSlug": "pepperdine",
-      "school": "Pepperdine",
-      "schoolLongName": "Pepperdine University",
-      "name": "Austin Plisinski",
-      "normalizedName": "austin plisinski",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right-Handed Pitcher",
-      "classYear": "JR",
-      "handedness": "1V",
-      "jersey": "25",
-      "hometown": "Ladera Ranch, Calif.",
-      "highSchool": "San Juan Hills",
-      "previousSchool": "",
-      "hometownHighSchool": "Ladera Ranch, Calif. / San Juan Hills",
-      "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/austin-plisinski/5967",
-      "imageUrl": "https://pepperdinewaves.com/images/2026/2/2/plisinski.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "5967",
-      "sources": [
-        "Pepperdine Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Austin Plisinski looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "metaLine": "JR / 1V",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "1V",
           "Pitcher"
         ],
         "sourceSummary": "Pepperdine Athletics roster"
@@ -2355,10 +2183,10 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
   "playerBoard": {
     "source": "Pepperdine Athletics roster + cumulative stats / ESPN roster",
     "note": "This Pepperdine-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but Pepperdine's public ESPN roster feed did not line up cleanly with the current school-site roster.",
-    "totalPlayers": 25,
+    "totalPlayers": 23,
     "roleCounts": {
-      "Hitter": 12,
-      "Pitcher": 13
+      "Hitter": 11,
+      "Pitcher": 12
     },
     "players": [
       {
@@ -2974,74 +2802,6 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "pepperdine-5942",
-        "name": "Shawn Romero",
-        "school": "Pepperdine",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "SO",
-        "handedness": "HS",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Shawn Romero gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "SO / HS",
-        "detailBadges": [
-          "C",
-          "SO",
-          "HS",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Pepperdine Athletics roster"
-        ],
-        "sourceSummary": "Pepperdine Athletics roster",
-        "schoolSlug": "pepperdine",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/shawn-romero/5942",
-        "espnAthleteId": ""
-      },
-      {
         "id": "pepperdine-5943",
         "name": "Drew Van Court",
         "school": "Pepperdine",
@@ -3379,74 +3139,6 @@ window.__BASEBALL_DATASETS__.pepperdine2026 = {
         "schoolSlug": "pepperdine",
         "compositeRole": "Pitcher",
         "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/collin-valentine/5990",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "pepperdine-5967",
-        "name": "Austin Plisinski",
-        "school": "Pepperdine",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "1V",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Austin Plisinski looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / 1V",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "1V",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Pepperdine Athletics roster"
-        ],
-        "sourceSummary": "Pepperdine Athletics roster",
-        "schoolSlug": "pepperdine",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/austin-plisinski/5967",
         "espnAthleteId": ""
       },
       {
