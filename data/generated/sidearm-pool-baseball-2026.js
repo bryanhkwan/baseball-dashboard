@@ -1,10 +1,10 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
-  "generatedAt": "2026-07-16T10:55:46.486Z",
+  "generatedAt": "2026-07-17T10:53:47.652Z",
   "season": 2026,
   "source": "Generated Sidearm baseball school-site pool",
   "note": "This generated free player pool combines verified public roster and cumulative stats pages from multiple Sidearm baseball programs. It is broader than Toledo alone, but still not a full every-school national directory yet.",
-  "schoolCount": 62,
+  "schoolCount": 52,
   "schools": [
     {
       "slug": "middle-tenn",
@@ -18,19 +18,6 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
       "playersWithAnyStats": 33,
       "statsUrl": "https://goblueraiders.com/sports/baseball/stats/2026",
       "rosterUrl": "https://goblueraiders.com/sports/baseball/roster"
-    },
-    {
-      "slug": "sam-houston-st",
-      "name": "Sam Houston",
-      "longName": "Sam Houston State University",
-      "record": "25-33, 13-17",
-      "totalPlayers": 34,
-      "hitters": 15,
-      "pitchers": 19,
-      "rosterPlayers": 34,
-      "playersWithAnyStats": 33,
-      "statsUrl": "https://gobearkats.com/sports/baseball/stats/2026",
-      "rosterUrl": "https://gobearkats.com/sports/baseball/roster"
     },
     {
       "slug": "toledo",
@@ -57,19 +44,6 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
       "playersWithAnyStats": 33,
       "statsUrl": "https://godeacs.com/sports/baseball/stats/2026",
       "rosterUrl": "https://godeacs.com/sports/baseball/roster"
-    },
-    {
-      "slug": "abilene-christian",
-      "name": "Abilene Christian",
-      "longName": "Abilene Christian University",
-      "record": "26-31, 8-10",
-      "totalPlayers": 36,
-      "hitters": 16,
-      "pitchers": 20,
-      "rosterPlayers": 36,
-      "playersWithAnyStats": 34,
-      "statsUrl": "https://acusports.com/sports/baseball/stats/2026",
-      "rosterUrl": "https://acusports.com/sports/baseball/roster"
     },
     {
       "slug": "akron",
@@ -109,45 +83,6 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
       "playersWithAnyStats": 35,
       "statsUrl": "https://baylorbears.com/sports/baseball/stats/2026",
       "rosterUrl": "https://baylorbears.com/sports/baseball/roster"
-    },
-    {
-      "slug": "boston-college",
-      "name": "Boston College",
-      "longName": "Boston College",
-      "record": "37-23, 17-13",
-      "totalPlayers": 41,
-      "hitters": 18,
-      "pitchers": 23,
-      "rosterPlayers": 41,
-      "playersWithAnyStats": 37,
-      "statsUrl": "https://bceagles.com/sports/baseball/stats/2026",
-      "rosterUrl": "https://bceagles.com/sports/baseball/roster"
-    },
-    {
-      "slug": "bowling-green",
-      "name": "Bowling Green",
-      "longName": "Bowling Green State University",
-      "record": "19-35, 12-21",
-      "totalPlayers": 36,
-      "hitters": 18,
-      "pitchers": 18,
-      "rosterPlayers": 36,
-      "playersWithAnyStats": 30,
-      "statsUrl": "https://bgsufalcons.com/sports/baseball/stats/2026",
-      "rosterUrl": "https://bgsufalcons.com/sports/baseball/roster"
-    },
-    {
-      "slug": "brown",
-      "name": "Brown",
-      "longName": "Brown University",
-      "record": "23-20, 13-8",
-      "totalPlayers": 37,
-      "hitters": 18,
-      "pitchers": 19,
-      "rosterPlayers": 37,
-      "playersWithAnyStats": 0,
-      "statsUrl": "https://brownbears.com/sports/baseball/stats/2026",
-      "rosterUrl": "https://brownbears.com/sports/baseball/roster"
     },
     {
       "slug": "bucknell",
@@ -228,19 +163,6 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
       "rosterUrl": "https://gocreighton.com/sports/baseball/roster"
     },
     {
-      "slug": "dartmouth",
-      "name": "Dartmouth",
-      "longName": "Dartmouth College",
-      "record": "15-25, 7-14",
-      "totalPlayers": 33,
-      "hitters": 18,
-      "pitchers": 15,
-      "rosterPlayers": 33,
-      "playersWithAnyStats": 29,
-      "statsUrl": "https://dartmouthsports.com/sports/baseball/stats/2026",
-      "rosterUrl": "https://dartmouthsports.com/sports/baseball/roster"
-    },
-    {
       "slug": "davidson",
       "name": "Davidson",
       "longName": "Davidson College",
@@ -280,6 +202,19 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
       "rosterUrl": "https://goduke.com/sports/baseball/roster"
     },
     {
+      "slug": "east-carolina",
+      "name": "East Carolina",
+      "longName": "East Carolina University",
+      "record": "38-24-1, 17-10",
+      "totalPlayers": 41,
+      "hitters": 21,
+      "pitchers": 20,
+      "rosterPlayers": 41,
+      "playersWithAnyStats": 18,
+      "statsUrl": "https://ecupirates.com/sports/baseball/stats/2026",
+      "rosterUrl": "https://ecupirates.com/sports/baseball/roster"
+    },
+    {
       "slug": "florida",
       "name": "Florida",
       "longName": "University of Florida",
@@ -317,19 +252,6 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
       "playersWithAnyStats": 38,
       "statsUrl": "https://georgiadogs.com/sports/baseball/stats/2026",
       "rosterUrl": "https://georgiadogs.com/sports/baseball/roster"
-    },
-    {
-      "slug": "james-madison",
-      "name": "James Madison",
-      "longName": "James Madison University",
-      "record": "21-32, 11-19",
-      "totalPlayers": 37,
-      "hitters": 18,
-      "pitchers": 19,
-      "rosterPlayers": 37,
-      "playersWithAnyStats": 37,
-      "statsUrl": "https://jmusports.com/sports/baseball/stats/2026",
-      "rosterUrl": "https://jmusports.com/sports/baseball/roster"
     },
     {
       "slug": "kansas",
@@ -421,19 +343,6 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
       "playersWithAnyStats": 36,
       "statsUrl": "https://mercerbears.com/sports/baseball/stats/2026",
       "rosterUrl": "https://mercerbears.com/sports/baseball/roster"
-    },
-    {
-      "slug": "miami-oh",
-      "name": "Miami (OH)",
-      "longName": "Miami University (Ohio)",
-      "record": "38-17, 25-8",
-      "totalPlayers": 38,
-      "hitters": 18,
-      "pitchers": 20,
-      "rosterPlayers": 38,
-      "playersWithAnyStats": 35,
-      "statsUrl": "https://miamiredhawks.com/sports/baseball/stats/2026",
-      "rosterUrl": "https://miamiredhawks.com/sports/baseball/roster"
     },
     {
       "slug": "michigan",
@@ -531,10 +440,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
       "name": "Pepperdine",
       "longName": "Pepperdine University",
       "record": "21-33, 15-12",
-      "totalPlayers": 23,
-      "hitters": 11,
-      "pitchers": 12,
-      "rosterPlayers": 23,
+      "totalPlayers": 31,
+      "hitters": 15,
+      "pitchers": 16,
+      "rosterPlayers": 31,
       "playersWithAnyStats": 0,
       "statsUrl": "https://pepperdinewaves.com/sports/baseball/stats/2026",
       "rosterUrl": "https://pepperdinewaves.com/sports/baseball/roster"
@@ -603,32 +512,6 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
       "playersWithAnyStats": 37,
       "statsUrl": "https://richmondspiders.com/sports/baseball/stats/2026",
       "rosterUrl": "https://richmondspiders.com/sports/baseball/roster"
-    },
-    {
-      "slug": "rutgers",
-      "name": "Rutgers",
-      "longName": "Rutgers University",
-      "record": "26-30, 13-17",
-      "totalPlayers": 39,
-      "hitters": 18,
-      "pitchers": 21,
-      "rosterPlayers": 39,
-      "playersWithAnyStats": 31,
-      "statsUrl": "https://scarletknights.com/sports/baseball/stats/2026",
-      "rosterUrl": "https://scarletknights.com/sports/baseball/roster"
-    },
-    {
-      "slug": "sacred-heart",
-      "name": "Sacred Heart",
-      "longName": "Sacred Heart University",
-      "record": "17-32, 13-16",
-      "totalPlayers": 38,
-      "hitters": 18,
-      "pitchers": 20,
-      "rosterPlayers": 38,
-      "playersWithAnyStats": 33,
-      "statsUrl": "https://sacredheartpioneers.com/sports/baseball/stats/2026",
-      "rosterUrl": "https://sacredheartpioneers.com/sports/baseball/roster"
     },
     {
       "slug": "san-francisco",
@@ -748,19 +631,6 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
       "rosterUrl": "https://tulanegreenwave.com/sports/baseball/roster"
     },
     {
-      "slug": "uab",
-      "name": "UAB",
-      "longName": "UAB",
-      "record": "32-26, 15-12",
-      "totalPlayers": 35,
-      "hitters": 14,
-      "pitchers": 21,
-      "rosterPlayers": 35,
-      "playersWithAnyStats": 27,
-      "statsUrl": "https://uabsports.com/sports/baseball/stats/2026",
-      "rosterUrl": "https://uabsports.com/sports/baseball/roster"
-    },
-    {
       "slug": "utah",
       "name": "Utah",
       "longName": "University of Utah",
@@ -814,18 +684,18 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
     }
   ],
   "coverage": {
-    "totalPlayers": 2229,
-    "totalHitters": 1022,
-    "totalPitchers": 1207,
-    "schoolsCovered": 62
+    "totalPlayers": 1874,
+    "totalHitters": 858,
+    "totalPitchers": 1016,
+    "schoolsCovered": 52
   },
   "playerBoard": {
     "source": "Generated Sidearm baseball school-site pool",
     "note": "This free generated pool comes from verified public school-site roster and cumulative stats pages across multiple Sidearm baseball programs.",
-    "totalPlayers": 2229,
+    "totalPlayers": 1874,
     "roleCounts": {
-      "Hitter": 1022,
-      "Pitcher": 1207
+      "Hitter": 858,
+      "Pitcher": 1016
     },
     "players": [
       {
@@ -3511,2351 +3381,6 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "schoolSlug": "middle-tenn",
         "compositeRole": "Rostered",
         "profileUrl": "https://goblueraiders.com/sports/baseball/roster/alex-bedford/14815",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sam-houston-st-10316",
-        "name": "Blake Brown",
-        "school": "Sam Houston",
-        "role": "Hitter",
-        "position": "IF",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 10,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Blake Brown gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .106",
-          "OBP .283",
-          "SLG .106"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".106"
-          },
-          {
-            "label": "OBP",
-            "value": ".283"
-          },
-          {
-            "label": "SLG",
-            "value": ".106"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "8"
-          },
-          {
-            "label": "SB",
-            "value": "5"
-          }
-        ],
-        "components": {
-          "On-base": 1.6666666666666374,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 54.166666666666664,
-          "Speed": 16.666666666666664
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "IF",
-          "JR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Sam Houston Athletics roster",
-          "Sam Houston cumulative stats"
-        ],
-        "sourceSummary": "Sam Houston Athletics roster + Sam Houston cumulative stats",
-        "schoolSlug": "sam-houston-st",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://gobearkats.com/sports/baseball/roster/blake-brown/10316",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sam-houston-st-10330",
-        "name": "Addison Smith",
-        "school": "Sam Houston",
-        "role": "Hitter",
-        "position": "IF",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Addison Smith gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .167",
-          "OBP .211",
-          "SLG .194"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".167"
-          },
-          {
-            "label": "OBP",
-            "value": ".211"
-          },
-          {
-            "label": "SLG",
-            "value": ".194"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "4"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 3.3333333333333335
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "IF",
-          "JR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Sam Houston Athletics roster",
-          "Sam Houston cumulative stats"
-        ],
-        "sourceSummary": "Sam Houston Athletics roster + Sam Houston cumulative stats",
-        "schoolSlug": "sam-houston-st",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://gobearkats.com/sports/baseball/roster/addison-smith/10330",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sam-houston-st-10315",
-        "name": "Parker Blackman",
-        "school": "Sam Houston",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "SO",
-        "handedness": "L/L",
-        "score": 3,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Parker Blackman gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .154",
-          "OBP .233",
-          "SLG .231"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".154"
-          },
-          {
-            "label": "OBP",
-            "value": ".233"
-          },
-          {
-            "label": "SLG",
-            "value": ".231"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "4"
-          },
-          {
-            "label": "SB",
-            "value": "6"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 7.407407407407404,
-          "Speed": 20
-        },
-        "metaLine": "SO / L/L",
-        "detailBadges": [
-          "OF",
-          "SO",
-          "L/L",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Sam Houston Athletics roster",
-          "Sam Houston cumulative stats"
-        ],
-        "sourceSummary": "Sam Houston Athletics roster + Sam Houston cumulative stats",
-        "schoolSlug": "sam-houston-st",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://gobearkats.com/sports/baseball/roster/parker-blackman/10315",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sam-houston-st-10317",
-        "name": "Caleb Cotton",
-        "school": "Sam Houston",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "R-JR",
-        "handedness": "L/R",
-        "score": 41,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Caleb Cotton profiles as a OF piece who adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .288",
-          "OBP .374",
-          "SLG .393"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".288"
-          },
-          {
-            "label": "OBP",
-            "value": ".374"
-          },
-          {
-            "label": "SLG",
-            "value": ".393"
-          },
-          {
-            "label": "HR",
-            "value": "3"
-          },
-          {
-            "label": "RBI",
-            "value": "26"
-          },
-          {
-            "label": "SB",
-            "value": "20"
-          }
-        ],
-        "components": {
-          "On-base": 52.222222222222214,
-          "Power": 19.21052631578948,
-          "Contact": 42.499999999999986,
-          "Discipline": 35.55555555555555,
-          "Speed": 66.66666666666666
-        },
-        "metaLine": "R-JR / L/R",
-        "detailBadges": [
-          "OF",
-          "R-JR",
-          "L/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Sam Houston Athletics roster",
-          "Sam Houston cumulative stats"
-        ],
-        "sourceSummary": "Sam Houston Athletics roster + Sam Houston cumulative stats",
-        "schoolSlug": "sam-houston-st",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://gobearkats.com/sports/baseball/roster/caleb-cotton/10317",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sam-houston-st-10498",
-        "name": "Wes Baker",
-        "school": "Sam Houston",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "FR",
-        "handedness": "S/R",
-        "score": 52,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Wes Baker profiles as a C piece who gets on base at a high clip.",
-        "summaryMetrics": [
-          "AVG .261",
-          "OBP .420",
-          "SLG .486"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".261"
-          },
-          {
-            "label": "OBP",
-            "value": ".420"
-          },
-          {
-            "label": "SLG",
-            "value": ".486"
-          },
-          {
-            "label": "HR",
-            "value": "8"
-          },
-          {
-            "label": "RBI",
-            "value": "39"
-          },
-          {
-            "label": "SB",
-            "value": "3"
-          }
-        ],
-        "components": {
-          "On-base": 77.77777777777776,
-          "Power": 43.684210526315795,
-          "Contact": 25.625000000000004,
-          "Discipline": 73.38501291989662,
-          "Speed": 10
-        },
-        "metaLine": "FR / S/R",
-        "detailBadges": [
-          "C",
-          "FR",
-          "S/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Sam Houston Athletics roster",
-          "Sam Houston cumulative stats"
-        ],
-        "sourceSummary": "Sam Houston Athletics roster + Sam Houston cumulative stats",
-        "schoolSlug": "sam-houston-st",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://gobearkats.com/sports/baseball/roster/wes-baker/10498",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sam-houston-st-10320",
-        "name": "Ryan Franden",
-        "school": "Sam Houston",
-        "role": "Hitter",
-        "position": "IF",
-        "classYear": "R-JR",
-        "handedness": "L/R",
-        "score": 64,
-        "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
-        },
-        "summary": "Ryan Franden profiles as a IF piece who gets on base at a high clip and controls at-bats.",
-        "summaryMetrics": [
-          "AVG .311",
-          "OBP .415",
-          "SLG .533"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".311"
-          },
-          {
-            "label": "OBP",
-            "value": ".415"
-          },
-          {
-            "label": "SLG",
-            "value": ".533"
-          },
-          {
-            "label": "HR",
-            "value": "9"
-          },
-          {
-            "label": "RBI",
-            "value": "35"
-          },
-          {
-            "label": "SB",
-            "value": "4"
-          }
-        ],
-        "components": {
-          "On-base": 74.99999999999997,
-          "Power": 56.052631578947384,
-          "Contact": 56.875,
-          "Discipline": 100,
-          "Speed": 13.333333333333334
-        },
-        "metaLine": "R-JR / L/R",
-        "detailBadges": [
-          "IF",
-          "R-JR",
-          "L/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Sam Houston Athletics roster",
-          "Sam Houston cumulative stats"
-        ],
-        "sourceSummary": "Sam Houston Athletics roster + Sam Houston cumulative stats",
-        "schoolSlug": "sam-houston-st",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://gobearkats.com/sports/baseball/roster/ryan-franden/10320",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sam-houston-st-10326",
-        "name": "Jace Martinez",
-        "school": "Sam Houston",
-        "role": "Hitter",
-        "position": "IF",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 22,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jace Martinez profiles as a IF piece who adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .226",
-          "OBP .335",
-          "SLG .282"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".226"
-          },
-          {
-            "label": "OBP",
-            "value": ".335"
-          },
-          {
-            "label": "SLG",
-            "value": ".282"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "18"
-          },
-          {
-            "label": "SB",
-            "value": "20"
-          }
-        ],
-        "components": {
-          "On-base": 30.555555555555554,
-          "Power": 0,
-          "Contact": 3.7500000000000036,
-          "Discipline": 37.30158730158729,
-          "Speed": 66.66666666666666
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "IF",
-          "JR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Sam Houston Athletics roster",
-          "Sam Houston cumulative stats"
-        ],
-        "sourceSummary": "Sam Houston Athletics roster + Sam Houston cumulative stats",
-        "schoolSlug": "sam-houston-st",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://gobearkats.com/sports/baseball/roster/jace-martinez/10326",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sam-houston-st-10499",
-        "name": "Hunter Alvord",
-        "school": "Sam Houston",
-        "role": "Hitter",
-        "position": "IF",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 33,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Hunter Alvord profiles as a IF piece who adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .231",
-          "OBP .358",
-          "SLG .387"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".231"
-          },
-          {
-            "label": "OBP",
-            "value": ".358"
-          },
-          {
-            "label": "SLG",
-            "value": ".387"
-          },
-          {
-            "label": "HR",
-            "value": "8"
-          },
-          {
-            "label": "RBI",
-            "value": "33"
-          },
-          {
-            "label": "SB",
-            "value": "24"
-          }
-        ],
-        "components": {
-          "On-base": 43.333333333333314,
-          "Power": 17.631578947368425,
-          "Contact": 6.875000000000006,
-          "Discipline": 39.50617283950617,
-          "Speed": 80
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "IF",
-          "JR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Sam Houston Athletics roster",
-          "Sam Houston cumulative stats"
-        ],
-        "sourceSummary": "Sam Houston Athletics roster + Sam Houston cumulative stats",
-        "schoolSlug": "sam-houston-st",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://gobearkats.com/sports/baseball/roster/hunter-alvord/10499",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sam-houston-st-10318",
-        "name": "Easton Dean",
-        "school": "Sam Houston",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "SO",
-        "handedness": "L/R",
-        "score": 12,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Easton Dean gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .235",
-          "OBP .235",
-          "SLG .471"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".235"
-          },
-          {
-            "label": "OBP",
-            "value": ".235"
-          },
-          {
-            "label": "SLG",
-            "value": ".471"
-          },
-          {
-            "label": "HR",
-            "value": "1"
-          },
-          {
-            "label": "RBI",
-            "value": "4"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 39.73684210526315,
-          "Contact": 9.374999999999991,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "SO / L/R",
-        "detailBadges": [
-          "C",
-          "SO",
-          "L/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Sam Houston Athletics roster",
-          "Sam Houston cumulative stats"
-        ],
-        "sourceSummary": "Sam Houston Athletics roster + Sam Houston cumulative stats",
-        "schoolSlug": "sam-houston-st",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://gobearkats.com/sports/baseball/roster/easton-dean/10318",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sam-houston-st-10319",
-        "name": "Keegan Demmer",
-        "school": "Sam Houston",
-        "role": "Hitter",
-        "position": "UTL",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 14,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Keegan Demmer profiles as a UTL piece who controls at-bats.",
-        "summaryMetrics": [
-          "AVG .167",
-          "OBP .286",
-          "SLG .167"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".167"
-          },
-          {
-            "label": "OBP",
-            "value": ".286"
-          },
-          {
-            "label": "SLG",
-            "value": ".167"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 3.3333333333333055,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 88.88888888888889,
-          "Speed": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "UTL",
-          "SO",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Sam Houston Athletics roster",
-          "Sam Houston cumulative stats"
-        ],
-        "sourceSummary": "Sam Houston Athletics roster + Sam Houston cumulative stats",
-        "schoolSlug": "sam-houston-st",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://gobearkats.com/sports/baseball/roster/keegan-demmer/10319",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sam-houston-st-10325",
-        "name": "Ty Marthiljohni",
-        "school": "Sam Houston",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 4,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Ty Marthiljohni gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .216",
-          "OBP .293",
-          "SLG .270"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".216"
-          },
-          {
-            "label": "OBP",
-            "value": ".293"
-          },
-          {
-            "label": "SLG",
-            "value": ".270"
-          },
-          {
-            "label": "HR",
-            "value": "1"
-          },
-          {
-            "label": "RBI",
-            "value": "11"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 7.222222222222198,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 14.814814814814808,
-          "Speed": 0
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "C",
-          "SR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Sam Houston Athletics roster",
-          "Sam Houston cumulative stats"
-        ],
-        "sourceSummary": "Sam Houston Athletics roster + Sam Houston cumulative stats",
-        "schoolSlug": "sam-houston-st",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://gobearkats.com/sports/baseball/roster/ty-marthiljohni/10325",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sam-houston-st-10502",
-        "name": "Jeric Curtis",
-        "school": "Sam Houston",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 54,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jeric Curtis profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .311",
-          "OBP .412",
-          "SLG .451"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".311"
-          },
-          {
-            "label": "OBP",
-            "value": ".412"
-          },
-          {
-            "label": "SLG",
-            "value": ".451"
-          },
-          {
-            "label": "HR",
-            "value": "3"
-          },
-          {
-            "label": "RBI",
-            "value": "20"
-          },
-          {
-            "label": "SB",
-            "value": "27"
-          }
-        ],
-        "components": {
-          "On-base": 73.3333333333333,
-          "Power": 34.47368421052632,
-          "Contact": 56.875,
-          "Discipline": 16.993464052287578,
-          "Speed": 90
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "OF",
-          "SR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Sam Houston Athletics roster",
-          "Sam Houston cumulative stats"
-        ],
-        "sourceSummary": "Sam Houston Athletics roster + Sam Houston cumulative stats",
-        "schoolSlug": "sam-houston-st",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://gobearkats.com/sports/baseball/roster/jeric-curtis/10502",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sam-houston-st-10501",
-        "name": "Cade Corcoran",
-        "school": "Sam Houston",
-        "role": "Hitter",
-        "position": "IF",
-        "classYear": "FR",
-        "handedness": "L/R",
-        "score": 40,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Cade Corcoran gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .260",
-          "OBP .394",
-          "SLG .413"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".260"
-          },
-          {
-            "label": "OBP",
-            "value": ".394"
-          },
-          {
-            "label": "SLG",
-            "value": ".413"
-          },
-          {
-            "label": "HR",
-            "value": "7"
-          },
-          {
-            "label": "RBI",
-            "value": "36"
-          },
-          {
-            "label": "SB",
-            "value": "4"
-          }
-        ],
-        "components": {
-          "On-base": 63.33333333333333,
-          "Power": 24.47368421052631,
-          "Contact": 25.000000000000007,
-          "Discipline": 56.10200364298723,
-          "Speed": 13.333333333333334
-        },
-        "metaLine": "FR / L/R",
-        "detailBadges": [
-          "IF",
-          "FR",
-          "L/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Sam Houston Athletics roster",
-          "Sam Houston cumulative stats"
-        ],
-        "sourceSummary": "Sam Houston Athletics roster + Sam Houston cumulative stats",
-        "schoolSlug": "sam-houston-st",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://gobearkats.com/sports/baseball/roster/cade-corcoran/10501",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sam-houston-st-10504",
-        "name": "Kirby Orth",
-        "school": "Sam Houston",
-        "role": "Pitcher",
-        "position": "OF/LHP",
-        "classYear": "FR",
-        "handedness": "L/L",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Kirby Orth looks like a OF/LHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / L/L",
-        "detailBadges": [
-          "OF/LHP",
-          "FR",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Sam Houston Athletics roster",
-          "Sam Houston cumulative stats"
-        ],
-        "sourceSummary": "Sam Houston Athletics roster + Sam Houston cumulative stats",
-        "schoolSlug": "sam-houston-st",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gobearkats.com/sports/baseball/roster/kirby-orth/10504",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sam-houston-st-10324",
-        "name": "Cole Marthiljohni",
-        "school": "Sam Houston",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Cole Marthiljohni gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 19.29",
-          "WHIP 4.29",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "19.29"
-          },
-          {
-            "label": "WHIP",
-            "value": "4.29"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "11.6"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "2.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Sam Houston Athletics roster",
-          "Sam Houston cumulative stats"
-        ],
-        "sourceSummary": "Sam Houston Athletics roster + Sam Houston cumulative stats",
-        "schoolSlug": "sam-houston-st",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gobearkats.com/sports/baseball/roster/cole-marthiljohni/10324",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sam-houston-st-10500",
-        "name": "Sean Bazmore",
-        "school": "Sam Houston",
-        "role": "Hitter",
-        "position": "IF",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 24,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Sean Bazmore gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .216",
-          "OBP .361",
-          "SLG .276"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".216"
-          },
-          {
-            "label": "OBP",
-            "value": ".361"
-          },
-          {
-            "label": "SLG",
-            "value": ".276"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "11"
-          },
-          {
-            "label": "SB",
-            "value": "7"
-          }
-        ],
-        "components": {
-          "On-base": 44.99999999999998,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 49.46236559139784,
-          "Speed": 23.333333333333332
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "IF",
-          "JR",
-          "R/R",
-          "Two-Way"
-        ],
-        "leaderboards": [
-          "Sam Houston Athletics roster",
-          "Sam Houston cumulative stats"
-        ],
-        "sourceSummary": "Sam Houston Athletics roster + Sam Houston cumulative stats",
-        "schoolSlug": "sam-houston-st",
-        "compositeRole": "Two-Way",
-        "profileUrl": "https://gobearkats.com/sports/baseball/roster/sean-bazmore/10500",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sam-houston-st-10492",
-        "name": "Jakob Holzer",
-        "school": "Sam Houston",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "JR",
-        "handedness": "L/L",
-        "score": 14,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jakob Holzer looks like a LHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 8.42",
-          "WHIP 1.83",
-          "K/9 9.1"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "8.42"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.83"
-          },
-          {
-            "label": "K/9",
-            "value": "9.1"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.5"
-          },
-          {
-            "label": "HR/9",
-            "value": "2.10"
-          },
-          {
-            "label": "IP",
-            "value": "25.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 46.517119244391964,
-          "Command": 31.999999999999996,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / L/L",
-        "detailBadges": [
-          "LHP",
-          "JR",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Sam Houston Athletics roster",
-          "Sam Houston cumulative stats"
-        ],
-        "sourceSummary": "Sam Houston Athletics roster + Sam Houston cumulative stats",
-        "schoolSlug": "sam-houston-st",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gobearkats.com/sports/baseball/roster/jakob-holzer/10492",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sam-houston-st-10331",
-        "name": "Connor Zaruba",
-        "school": "Sam Houston",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "R-JR",
-        "handedness": "L/L",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Connor Zaruba gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 27.00",
-          "WHIP 6.00",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "27.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "6.00"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "54.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-JR / L/L",
-        "detailBadges": [
-          "LHP",
-          "R-JR",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Sam Houston Athletics roster",
-          "Sam Houston cumulative stats"
-        ],
-        "sourceSummary": "Sam Houston Athletics roster + Sam Houston cumulative stats",
-        "schoolSlug": "sam-houston-st",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gobearkats.com/sports/baseball/roster/connor-zaruba/10331",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sam-houston-st-10503",
-        "name": "Nathan Fink",
-        "school": "Sam Houston",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "R-JR",
-        "handedness": "R/R",
-        "score": 30,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Nathan Fink gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .252",
-          "OBP .353",
-          "SLG .473"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".252"
-          },
-          {
-            "label": "OBP",
-            "value": ".353"
-          },
-          {
-            "label": "SLG",
-            "value": ".473"
-          },
-          {
-            "label": "HR",
-            "value": "6"
-          },
-          {
-            "label": "RBI",
-            "value": "25"
-          },
-          {
-            "label": "SB",
-            "value": "3"
-          }
-        ],
-        "components": {
-          "On-base": 40.555555555555536,
-          "Power": 40.26315789473684,
-          "Contact": 20,
-          "Discipline": 14.058956916099765,
-          "Speed": 10
-        },
-        "metaLine": "R-JR / R/R",
-        "detailBadges": [
-          "OF",
-          "R-JR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Sam Houston Athletics roster",
-          "Sam Houston cumulative stats"
-        ],
-        "sourceSummary": "Sam Houston Athletics roster + Sam Houston cumulative stats",
-        "schoolSlug": "sam-houston-st",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://gobearkats.com/sports/baseball/roster/nathan-fink/10503",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sam-houston-st-10490",
-        "name": "Easton Ballard",
-        "school": "Sam Houston",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "R-JR",
-        "handedness": "L/L",
-        "score": 17,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Easton Ballard looks like a LHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 121.50",
-          "WHIP 13.50",
-          "K/9 13.5"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "121.50"
-          },
-          {
-            "label": "WHIP",
-            "value": "13.50"
-          },
-          {
-            "label": "K/9",
-            "value": "13.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "13.5"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 86.36363636363636,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-JR / L/L",
-        "detailBadges": [
-          "LHP",
-          "R-JR",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Sam Houston Athletics roster",
-          "Sam Houston cumulative stats"
-        ],
-        "sourceSummary": "Sam Houston Athletics roster + Sam Houston cumulative stats",
-        "schoolSlug": "sam-houston-st",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gobearkats.com/sports/baseball/roster/easton-ballard/10490",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sam-houston-st-10328",
-        "name": "Ryan Peterson",
-        "school": "Sam Houston",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 24,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Ryan Peterson looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
-        "summaryMetrics": [
-          "ERA 3.38",
-          "WHIP 1.14",
-          "K/9 10.7"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.38"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.14"
-          },
-          {
-            "label": "K/9",
-            "value": "10.7"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.4"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.43"
-          },
-          {
-            "label": "IP",
-            "value": "88.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 61.26033057851239,
-          "Command": 71.30434782608695,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Sam Houston Athletics roster",
-          "Sam Houston cumulative stats"
-        ],
-        "sourceSummary": "Sam Houston Athletics roster + Sam Houston cumulative stats",
-        "schoolSlug": "sam-houston-st",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gobearkats.com/sports/baseball/roster/ryan-peterson/10328",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sam-houston-st-10489",
-        "name": "Jonathan Anders",
-        "school": "Sam Houston",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "JR",
-        "handedness": "L/L",
-        "score": 5,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jonathan Anders looks like a LHP option who limits runs.",
-        "summaryMetrics": [
-          "ERA 3.12",
-          "WHIP 1.36",
-          "K/9 6.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.12"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.36"
-          },
-          {
-            "label": "K/9",
-            "value": "6.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.5"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.89"
-          },
-          {
-            "label": "IP",
-            "value": "40.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 18.407212622088647,
-          "Command": 7.000000000000002,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / L/L",
-        "detailBadges": [
-          "LHP",
-          "JR",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Sam Houston Athletics roster",
-          "Sam Houston cumulative stats"
-        ],
-        "sourceSummary": "Sam Houston Athletics roster + Sam Houston cumulative stats",
-        "schoolSlug": "sam-houston-st",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gobearkats.com/sports/baseball/roster/jonathan-anders/10489",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sam-houston-st-10487",
-        "name": "Zach Alarid",
-        "school": "Sam Houston",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 9,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Zach Alarid looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA 7.06",
-          "WHIP 1.43",
-          "K/9 6.2"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "7.06"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.43"
-          },
-          {
-            "label": "K/9",
-            "value": "6.2"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.5"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.66"
-          },
-          {
-            "label": "IP",
-            "value": "21.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 20.27972027972028,
-          "Command": 30,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Sam Houston Athletics roster",
-          "Sam Houston cumulative stats"
-        ],
-        "sourceSummary": "Sam Houston Athletics roster + Sam Houston cumulative stats",
-        "schoolSlug": "sam-houston-st",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gobearkats.com/sports/baseball/roster/zach-alarid/10487",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sam-houston-st-10321",
-        "name": "Tate Hickman",
-        "school": "Sam Houston",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 5,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Tate Hickman gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 5.92",
-          "WHIP 1.72",
-          "K/9 6.1"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.92"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.72"
-          },
-          {
-            "label": "K/9",
-            "value": "6.1"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.5"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.87"
-          },
-          {
-            "label": "IP",
-            "value": "51.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 19.06158357771261,
-          "Command": 6.923076923076921,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Sam Houston Athletics roster",
-          "Sam Houston cumulative stats"
-        ],
-        "sourceSummary": "Sam Houston Athletics roster + Sam Houston cumulative stats",
-        "schoolSlug": "sam-houston-st",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gobearkats.com/sports/baseball/roster/tate-hickman/10321",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sam-houston-st-10496",
-        "name": "Tyler Ryden",
-        "school": "Sam Houston",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 6,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Tyler Ryden gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 5.92",
-          "WHIP 1.68",
-          "K/9 6.8"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.92"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.68"
-          },
-          {
-            "label": "K/9",
-            "value": "6.8"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.1"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.05"
-          },
-          {
-            "label": "IP",
-            "value": "51.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 25.395894428152495,
-          "Command": 6.896551724137931,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Sam Houston Athletics roster",
-          "Sam Houston cumulative stats"
-        ],
-        "sourceSummary": "Sam Houston Athletics roster + Sam Houston cumulative stats",
-        "schoolSlug": "sam-houston-st",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gobearkats.com/sports/baseball/roster/tyler-ryden/10496",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sam-houston-st-10488",
-        "name": "Collin Aloisio",
-        "school": "Sam Houston",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 8,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Collin Aloisio gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 7.36",
-          "WHIP 1.56",
-          "K/9 6.7"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "7.36"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.56"
-          },
-          {
-            "label": "K/9",
-            "value": "6.7"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.3"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.34"
-          },
-          {
-            "label": "IP",
-            "value": "40.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 24.49286250939143,
-          "Command": 20,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Sam Houston Athletics roster",
-          "Sam Houston cumulative stats"
-        ],
-        "sourceSummary": "Sam Houston Athletics roster + Sam Houston cumulative stats",
-        "schoolSlug": "sam-houston-st",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gobearkats.com/sports/baseball/roster/collin-aloisio/10488",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sam-houston-st-10323",
-        "name": "Noah Kendrick",
-        "school": "Sam Houston",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 9,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Noah Kendrick looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA 12.18",
-          "WHIP 2.12",
-          "K/9 6.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "12.18"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.12"
-          },
-          {
-            "label": "K/9",
-            "value": "6.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.6"
-          },
-          {
-            "label": "HR/9",
-            "value": "4.24"
-          },
-          {
-            "label": "IP",
-            "value": "17.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 21.3903743315508,
-          "Command": 27.999999999999996,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Sam Houston Athletics roster",
-          "Sam Houston cumulative stats"
-        ],
-        "sourceSummary": "Sam Houston Athletics roster + Sam Houston cumulative stats",
-        "schoolSlug": "sam-houston-st",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gobearkats.com/sports/baseball/roster/noah-kendrick/10323",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sam-houston-st-10491",
-        "name": "Cooper Harris",
-        "school": "Sam Houston",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 4,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Cooper Harris gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 8.07",
-          "WHIP 1.79",
-          "K/9 6.2"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "8.07"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.79"
-          },
-          {
-            "label": "K/9",
-            "value": "6.2"
-          },
-          {
-            "label": "BB/9",
-            "value": "7.1"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.86"
-          },
-          {
-            "label": "IP",
-            "value": "29.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 20.06269592476489,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Sam Houston Athletics roster",
-          "Sam Houston cumulative stats"
-        ],
-        "sourceSummary": "Sam Houston Athletics roster + Sam Houston cumulative stats",
-        "schoolSlug": "sam-houston-st",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gobearkats.com/sports/baseball/roster/cooper-harris/10491",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sam-houston-st-10495",
-        "name": "Kade Neuenschwander",
-        "school": "Sam Houston",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 14,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Kade Neuenschwander looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 6.23",
-          "WHIP 2.00",
-          "K/9 10.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "6.23"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.00"
-          },
-          {
-            "label": "K/9",
-            "value": "10.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "6.2"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.38"
-          },
-          {
-            "label": "IP",
-            "value": "13.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 58.04195804195804,
-          "Command": 13.333333333333336,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Sam Houston Athletics roster",
-          "Sam Houston cumulative stats"
-        ],
-        "sourceSummary": "Sam Houston Athletics roster + Sam Houston cumulative stats",
-        "schoolSlug": "sam-houston-st",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gobearkats.com/sports/baseball/roster/kade-neuenschwander/10495",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sam-houston-st-10493",
-        "name": "Peyton Huff",
-        "school": "Sam Houston",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Peyton Huff looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Sam Houston Athletics roster"
-        ],
-        "sourceSummary": "Sam Houston Athletics roster",
-        "schoolSlug": "sam-houston-st",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gobearkats.com/sports/baseball/roster/peyton-huff/10493",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sam-houston-st-10494",
-        "name": "Mason Murphy",
-        "school": "Sam Houston",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 14,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Mason Murphy looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 8.02",
-          "WHIP 2.11",
-          "K/9 11.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "8.02"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.11"
-          },
-          {
-            "label": "K/9",
-            "value": "11.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "9.3"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.69"
-          },
-          {
-            "label": "IP",
-            "value": "21.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 67.1875,
-          "Command": 4.545454545454546,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Sam Houston Athletics roster",
-          "Sam Houston cumulative stats"
-        ],
-        "sourceSummary": "Sam Houston Athletics roster + Sam Houston cumulative stats",
-        "schoolSlug": "sam-houston-st",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gobearkats.com/sports/baseball/roster/mason-murphy/10494",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sam-houston-st-10497",
-        "name": "Gabe Winans",
-        "school": "Sam Houston",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 16,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Gabe Winans looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 7.02",
-          "WHIP 1.65",
-          "K/9 11.3"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "7.02"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.65"
-          },
-          {
-            "label": "K/9",
-            "value": "11.3"
-          },
-          {
-            "label": "BB/9",
-            "value": "6.5"
-          },
-          {
-            "label": "HR/9",
-            "value": "3.51"
-          },
-          {
-            "label": "IP",
-            "value": "33.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 66.72727272727272,
-          "Command": 15,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Sam Houston Athletics roster",
-          "Sam Houston cumulative stats"
-        ],
-        "sourceSummary": "Sam Houston Athletics roster + Sam Houston cumulative stats",
-        "schoolSlug": "sam-houston-st",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gobearkats.com/sports/baseball/roster/gabe-winans/10497",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sam-houston-st-10322",
-        "name": "Zak Johnson",
-        "school": "Sam Houston",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 12,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Zak Johnson gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 4.70",
-          "WHIP 1.63",
-          "K/9 8.8"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.70"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.63"
-          },
-          {
-            "label": "K/9",
-            "value": "8.8"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.1"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.47"
-          },
-          {
-            "label": "IP",
-            "value": "30.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 43.67588932806324,
-          "Command": 22.857142857142858,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Sam Houston Athletics roster",
-          "Sam Houston cumulative stats"
-        ],
-        "sourceSummary": "Sam Houston Athletics roster + Sam Houston cumulative stats",
-        "schoolSlug": "sam-houston-st",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gobearkats.com/sports/baseball/roster/zak-johnson/10322",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sam-houston-st-10327",
-        "name": "Connor Mondey",
-        "school": "Sam Houston",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 6,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Connor Mondey gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 5.76",
-          "WHIP 1.64",
-          "K/9 7.2"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.76"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.64"
-          },
-          {
-            "label": "K/9",
-            "value": "7.2"
-          },
-          {
-            "label": "BB/9",
-            "value": "6.1"
-          },
-          {
-            "label": "HR/9",
-            "value": "2.52"
-          },
-          {
-            "label": "IP",
-            "value": "25.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 29.090909090909093,
-          "Command": 3.529411764705883,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Sam Houston Athletics roster",
-          "Sam Houston cumulative stats"
-        ],
-        "sourceSummary": "Sam Houston Athletics roster + Sam Houston cumulative stats",
-        "schoolSlug": "sam-houston-st",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gobearkats.com/sports/baseball/roster/connor-mondey/10327",
         "espnAthleteId": ""
       },
       {
@@ -10682,2488 +8207,6 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "schoolSlug": "wake-forest",
         "compositeRole": "Pitcher",
         "profileUrl": "https://godeacs.com/sports/baseball/roster/ryan-bosch/9084",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "abilene-christian-11230",
-        "name": "JT Thompson",
-        "school": "Abilene Christian",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SR",
-        "handedness": "L/R",
-        "score": 59,
-        "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
-        },
-        "summary": "JT Thompson profiles as a INF piece who gets on base at a high clip.",
-        "summaryMetrics": [
-          "AVG .339",
-          "OBP .428",
-          "SLG .434"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".339"
-          },
-          {
-            "label": "OBP",
-            "value": ".428"
-          },
-          {
-            "label": "SLG",
-            "value": ".434"
-          },
-          {
-            "label": "HR",
-            "value": "1"
-          },
-          {
-            "label": "RBI",
-            "value": "30"
-          },
-          {
-            "label": "SB",
-            "value": "6"
-          }
-        ],
-        "components": {
-          "On-base": 82.22222222222221,
-          "Power": 30,
-          "Contact": 74.37500000000001,
-          "Discipline": 67.38351254480285,
-          "Speed": 20
-        },
-        "metaLine": "SR / L/R",
-        "detailBadges": [
-          "INF",
-          "SR",
-          "L/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Abilene Christian Athletics roster",
-          "Abilene Christian cumulative stats"
-        ],
-        "sourceSummary": "Abilene Christian Athletics roster + Abilene Christian cumulative stats",
-        "schoolSlug": "abilene-christian",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://acusports.com/sports/baseball/roster/jt-thompson/11230",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "abilene-christian-11227",
-        "name": "Zandt Payne",
-        "school": "Abilene Christian",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "GR",
-        "handedness": "S/R",
-        "score": 65,
-        "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
-        },
-        "summary": "Zandt Payne profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .302",
-          "OBP .446",
-          "SLG .486"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".302"
-          },
-          {
-            "label": "OBP",
-            "value": ".446"
-          },
-          {
-            "label": "SLG",
-            "value": ".486"
-          },
-          {
-            "label": "HR",
-            "value": "10"
-          },
-          {
-            "label": "RBI",
-            "value": "38"
-          },
-          {
-            "label": "SB",
-            "value": "9"
-          }
-        ],
-        "components": {
-          "On-base": 92.22222222222221,
-          "Power": 43.684210526315795,
-          "Contact": 51.24999999999999,
-          "Discipline": 84.05797101449275,
-          "Speed": 30
-        },
-        "metaLine": "GR / S/R",
-        "detailBadges": [
-          "INF",
-          "GR",
-          "S/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Abilene Christian Athletics roster",
-          "Abilene Christian cumulative stats"
-        ],
-        "sourceSummary": "Abilene Christian Athletics roster + Abilene Christian cumulative stats",
-        "schoolSlug": "abilene-christian",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://acusports.com/sports/baseball/roster/zandt-payne/11227",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "abilene-christian-11223",
-        "name": "Cade McGarrh",
-        "school": "Abilene Christian",
-        "role": "Pitcher",
-        "position": "INF/RHP",
-        "classYear": "SR",
-        "handedness": "L/R",
-        "score": 10,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Cade McGarrh gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 7.44",
-          "WHIP 1.63",
-          "K/9 8.5"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "7.44"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.63"
-          },
-          {
-            "label": "K/9",
-            "value": "8.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.4"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.73"
-          },
-          {
-            "label": "IP",
-            "value": "52.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 40.734265734265726,
-          "Command": 11.61290322580645,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / L/R",
-        "detailBadges": [
-          "INF/RHP",
-          "SR",
-          "L/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Abilene Christian Athletics roster",
-          "Abilene Christian cumulative stats"
-        ],
-        "sourceSummary": "Abilene Christian Athletics roster + Abilene Christian cumulative stats",
-        "schoolSlug": "abilene-christian",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://acusports.com/sports/baseball/roster/cade-mcgarrh/11223",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "abilene-christian-11219",
-        "name": "Caden Greanead",
-        "school": "Abilene Christian",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "GR",
-        "handedness": "R/R",
-        "score": 9,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Caden Greanead looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 9.90",
-          "WHIP 2.70",
-          "K/9 9.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "9.90"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.70"
-          },
-          {
-            "label": "K/9",
-            "value": "9.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "11.7"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.90"
-          },
-          {
-            "label": "IP",
-            "value": "10.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "GR / R/R",
-        "detailBadges": [
-          "RHP",
-          "GR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Abilene Christian Athletics roster",
-          "Abilene Christian cumulative stats"
-        ],
-        "sourceSummary": "Abilene Christian Athletics roster + Abilene Christian cumulative stats",
-        "schoolSlug": "abilene-christian",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://acusports.com/sports/baseball/roster/caden-greanead/11219",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "abilene-christian-11210",
-        "name": "Nick Arias",
-        "school": "Abilene Christian",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 53,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Nick Arias profiles as a INF piece who gets on base at a high clip.",
-        "summaryMetrics": [
-          "AVG .296",
-          "OBP .425",
-          "SLG .478"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".296"
-          },
-          {
-            "label": "OBP",
-            "value": ".425"
-          },
-          {
-            "label": "SLG",
-            "value": ".478"
-          },
-          {
-            "label": "HR",
-            "value": "7"
-          },
-          {
-            "label": "RBI",
-            "value": "42"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
-        "components": {
-          "On-base": 80.55555555555554,
-          "Power": 41.57894736842105,
-          "Contact": 47.499999999999986,
-          "Discipline": 56.20915032679738,
-          "Speed": 3.3333333333333335
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "INF",
-          "SR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Abilene Christian Athletics roster",
-          "Abilene Christian cumulative stats"
-        ],
-        "sourceSummary": "Abilene Christian Athletics roster + Abilene Christian cumulative stats",
-        "schoolSlug": "abilene-christian",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://acusports.com/sports/baseball/roster/nick-arias/11210",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "abilene-christian-11231",
-        "name": "Carson Wallace",
-        "school": "Abilene Christian",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "FR",
-        "handedness": "L/L",
-        "score": 11,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Carson Wallace looks like a LHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 7.02",
-          "WHIP 1.95",
-          "K/9 9.7"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "7.02"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.95"
-          },
-          {
-            "label": "K/9",
-            "value": "9.7"
-          },
-          {
-            "label": "BB/9",
-            "value": "8.9"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.62"
-          },
-          {
-            "label": "IP",
-            "value": "33.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 51.99999999999999,
-          "Command": 1.8181818181818168,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / L/L",
-        "detailBadges": [
-          "LHP",
-          "FR",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Abilene Christian Athletics roster",
-          "Abilene Christian cumulative stats"
-        ],
-        "sourceSummary": "Abilene Christian Athletics roster + Abilene Christian cumulative stats",
-        "schoolSlug": "abilene-christian",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://acusports.com/sports/baseball/roster/carson-wallace/11231",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "abilene-christian-11215",
-        "name": "Brady Coe",
-        "school": "Abilene Christian",
-        "role": "Pitcher",
-        "position": "INF/RHP",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 11,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Brady Coe gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 5.34",
-          "WHIP 1.43",
-          "K/9 8.8"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.34"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.43"
-          },
-          {
-            "label": "K/9",
-            "value": "8.8"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.7"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.63"
-          },
-          {
-            "label": "IP",
-            "value": "28.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 43.551797040169134,
-          "Command": 17.333333333333336,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "INF/RHP",
-          "SO",
-          "R/R",
-          "Two-Way"
-        ],
-        "leaderboards": [
-          "Abilene Christian Athletics roster",
-          "Abilene Christian cumulative stats"
-        ],
-        "sourceSummary": "Abilene Christian Athletics roster + Abilene Christian cumulative stats",
-        "schoolSlug": "abilene-christian",
-        "compositeRole": "Two-Way",
-        "profileUrl": "https://acusports.com/sports/baseball/roster/brady-coe/11215",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "abilene-christian-11229",
-        "name": "Grant Watkins",
-        "school": "Abilene Christian",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SR",
-        "handedness": "L/R",
-        "score": 42,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Grant Watkins profiles as a INF piece who brings real extra-base damage.",
-        "summaryMetrics": [
-          "AVG .250",
-          "OBP .361",
-          "SLG .617"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".250"
-          },
-          {
-            "label": "OBP",
-            "value": ".361"
-          },
-          {
-            "label": "SLG",
-            "value": ".617"
-          },
-          {
-            "label": "HR",
-            "value": "20"
-          },
-          {
-            "label": "RBI",
-            "value": "51"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
-        "components": {
-          "On-base": 44.99999999999998,
-          "Power": 78.15789473684211,
-          "Contact": 18.75,
-          "Discipline": 27.160493827160487,
-          "Speed": 3.3333333333333335
-        },
-        "metaLine": "SR / L/R",
-        "detailBadges": [
-          "INF",
-          "SR",
-          "L/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Abilene Christian Athletics roster",
-          "Abilene Christian cumulative stats"
-        ],
-        "sourceSummary": "Abilene Christian Athletics roster + Abilene Christian cumulative stats",
-        "schoolSlug": "abilene-christian",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://acusports.com/sports/baseball/roster/grant-watkins/11229",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "abilene-christian-11232",
-        "name": "Kash Wood",
-        "school": "Abilene Christian",
-        "role": "Hitter",
-        "position": "INF/OF",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Kash Wood gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "INF/OF",
-          "FR",
-          "R/R",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Abilene Christian Athletics roster"
-        ],
-        "sourceSummary": "Abilene Christian Athletics roster",
-        "schoolSlug": "abilene-christian",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://acusports.com/sports/baseball/roster/kash-wood/11232",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "abilene-christian-11218",
-        "name": "Brady Gray",
-        "school": "Abilene Christian",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "SO",
-        "handedness": "S/R",
-        "score": 27,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Brady Gray gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .250",
-          "OBP .366",
-          "SLG .408"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".250"
-          },
-          {
-            "label": "OBP",
-            "value": ".366"
-          },
-          {
-            "label": "SLG",
-            "value": ".408"
-          },
-          {
-            "label": "HR",
-            "value": "5"
-          },
-          {
-            "label": "RBI",
-            "value": "23"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 47.77777777777776,
-          "Power": 23.1578947368421,
-          "Contact": 18.75,
-          "Discipline": 15.513626834381547,
-          "Speed": 0
-        },
-        "metaLine": "SO / S/R",
-        "detailBadges": [
-          "C",
-          "SO",
-          "S/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Abilene Christian Athletics roster",
-          "Abilene Christian cumulative stats"
-        ],
-        "sourceSummary": "Abilene Christian Athletics roster + Abilene Christian cumulative stats",
-        "schoolSlug": "abilene-christian",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://acusports.com/sports/baseball/roster/brady-gray/11218",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "abilene-christian-11226",
-        "name": "Blaine Palmer",
-        "school": "Abilene Christian",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 17,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Blaine Palmer looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 9.22",
-          "WHIP 1.61",
-          "K/9 10.5"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "9.22"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.61"
-          },
-          {
-            "label": "K/9",
-            "value": "10.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.66"
-          },
-          {
-            "label": "IP",
-            "value": "13.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 59.42350332594235,
-          "Command": 33.333333333333336,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Abilene Christian Athletics roster",
-          "Abilene Christian cumulative stats"
-        ],
-        "sourceSummary": "Abilene Christian Athletics roster + Abilene Christian cumulative stats",
-        "schoolSlug": "abilene-christian",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://acusports.com/sports/baseball/roster/blaine-palmer/11226",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "abilene-christian-11220",
-        "name": "Sam Hardcastle",
-        "school": "Abilene Christian",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 8,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Sam Hardcastle gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .228",
-          "OBP .290",
-          "SLG .404"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".228"
-          },
-          {
-            "label": "OBP",
-            "value": ".290"
-          },
-          {
-            "label": "SLG",
-            "value": ".404"
-          },
-          {
-            "label": "HR",
-            "value": "3"
-          },
-          {
-            "label": "RBI",
-            "value": "7"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 5.55555555555553,
-          "Power": 22.105263157894743,
-          "Contact": 5.000000000000004,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "INF",
-          "SR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Abilene Christian Athletics roster",
-          "Abilene Christian cumulative stats"
-        ],
-        "sourceSummary": "Abilene Christian Athletics roster + Abilene Christian cumulative stats",
-        "schoolSlug": "abilene-christian",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://acusports.com/sports/baseball/roster/sam-hardcastle/11220",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "abilene-christian-11214",
-        "name": "Diego Cardenas",
-        "school": "Abilene Christian",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SR",
-        "handedness": "L/R",
-        "score": 66,
-        "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
-        },
-        "summary": "Diego Cardenas profiles as a INF piece who gets on base at a high clip and brings real extra-base damage.",
-        "summaryMetrics": [
-          "AVG .317",
-          "OBP .421",
-          "SLG .727"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".317"
-          },
-          {
-            "label": "OBP",
-            "value": ".421"
-          },
-          {
-            "label": "SLG",
-            "value": ".727"
-          },
-          {
-            "label": "HR",
-            "value": "25"
-          },
-          {
-            "label": "RBI",
-            "value": "69"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 78.33333333333331,
-          "Power": 100,
-          "Contact": 60.62499999999999,
-          "Discipline": 31.22362869198312,
-          "Speed": 0
-        },
-        "metaLine": "SR / L/R",
-        "detailBadges": [
-          "INF",
-          "SR",
-          "L/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Abilene Christian Athletics roster",
-          "Abilene Christian cumulative stats"
-        ],
-        "sourceSummary": "Abilene Christian Athletics roster + Abilene Christian cumulative stats",
-        "schoolSlug": "abilene-christian",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://acusports.com/sports/baseball/roster/diego-cardenas/11214",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "abilene-christian-11211",
-        "name": "Luke Baier",
-        "school": "Abilene Christian",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "SR",
-        "handedness": "L/R",
-        "score": 58,
-        "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
-        },
-        "summary": "Luke Baier profiles as a C piece who gets on base at a high clip and controls at-bats.",
-        "summaryMetrics": [
-          "AVG .333",
-          "OBP .500",
-          "SLG .333"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".333"
-          },
-          {
-            "label": "OBP",
-            "value": ".500"
-          },
-          {
-            "label": "SLG",
-            "value": ".333"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 100,
-          "Power": 3.421052631578951,
-          "Contact": 70.625,
-          "Discipline": 88.88888888888889,
-          "Speed": 0
-        },
-        "metaLine": "SR / L/R",
-        "detailBadges": [
-          "C",
-          "SR",
-          "L/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Abilene Christian Athletics roster",
-          "Abilene Christian cumulative stats"
-        ],
-        "sourceSummary": "Abilene Christian Athletics roster + Abilene Christian cumulative stats",
-        "schoolSlug": "abilene-christian",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://acusports.com/sports/baseball/roster/luke-baier/11211",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "abilene-christian-11233",
-        "name": "Baron Mannis",
-        "school": "Abilene Christian",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "FR",
-        "handedness": "L/L",
-        "score": 12,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Baron Mannis looks like a LHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 4.85",
-          "WHIP 1.55",
-          "K/9 9.9"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.85"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.55"
-          },
-          {
-            "label": "K/9",
-            "value": "9.9"
-          },
-          {
-            "label": "BB/9",
-            "value": "7.4"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.63"
-          },
-          {
-            "label": "IP",
-            "value": "42.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 53.76420454545454,
-          "Command": 6.857142857142855,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / L/L",
-        "detailBadges": [
-          "LHP",
-          "FR",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Abilene Christian Athletics roster",
-          "Abilene Christian cumulative stats"
-        ],
-        "sourceSummary": "Abilene Christian Athletics roster + Abilene Christian cumulative stats",
-        "schoolSlug": "abilene-christian",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://acusports.com/sports/baseball/roster/baron-mannis/11233",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "abilene-christian-11234",
-        "name": "Thomas Schnabel",
-        "school": "Abilene Christian",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Thomas Schnabel gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .000",
-          "OBP .000",
-          "SLG .000"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".000"
-          },
-          {
-            "label": "OBP",
-            "value": ".000"
-          },
-          {
-            "label": "SLG",
-            "value": ".000"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "OF",
-          "FR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Abilene Christian Athletics roster",
-          "Abilene Christian cumulative stats"
-        ],
-        "sourceSummary": "Abilene Christian Athletics roster + Abilene Christian cumulative stats",
-        "schoolSlug": "abilene-christian",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://acusports.com/sports/baseball/roster/thomas-schnabel/11234",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "abilene-christian-11216",
-        "name": "Noah Galvan",
-        "school": "Abilene Christian",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "GR",
-        "handedness": "R/R",
-        "score": 7,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Noah Galvan gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 6.35",
-          "WHIP 2.03",
-          "K/9 7.9"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "6.35"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.03"
-          },
-          {
-            "label": "K/9",
-            "value": "7.9"
-          },
-          {
-            "label": "BB/9",
-            "value": "8.7"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "11.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 35.828877005347586,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "GR / R/R",
-        "detailBadges": [
-          "RHP",
-          "GR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Abilene Christian Athletics roster",
-          "Abilene Christian cumulative stats"
-        ],
-        "sourceSummary": "Abilene Christian Athletics roster + Abilene Christian cumulative stats",
-        "schoolSlug": "abilene-christian",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://acusports.com/sports/baseball/roster/noah-galvan/11216",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "abilene-christian-11235",
-        "name": "Ryan Jones",
-        "school": "Abilene Christian",
-        "role": "Hitter",
-        "position": "INF/OF",
-        "classYear": "R-FR",
-        "handedness": "L/R",
-        "score": 48,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Ryan Jones profiles as a INF/OF piece who gets on base at a high clip.",
-        "summaryMetrics": [
-          "AVG .255",
-          "OBP .437",
-          "SLG .445"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".255"
-          },
-          {
-            "label": "OBP",
-            "value": ".437"
-          },
-          {
-            "label": "SLG",
-            "value": ".445"
-          },
-          {
-            "label": "HR",
-            "value": "4"
-          },
-          {
-            "label": "RBI",
-            "value": "19"
-          },
-          {
-            "label": "SB",
-            "value": "3"
-          }
-        ],
-        "components": {
-          "On-base": 87.22222222222221,
-          "Power": 32.89473684210527,
-          "Contact": 21.875000000000004,
-          "Discipline": 44.444444444444436,
-          "Speed": 10
-        },
-        "metaLine": "R-FR / L/R",
-        "detailBadges": [
-          "INF/OF",
-          "R-FR",
-          "L/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Abilene Christian Athletics roster",
-          "Abilene Christian cumulative stats"
-        ],
-        "sourceSummary": "Abilene Christian Athletics roster + Abilene Christian cumulative stats",
-        "schoolSlug": "abilene-christian",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://acusports.com/sports/baseball/roster/ryan-jones/11235",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "abilene-christian-11236",
-        "name": "Gavin Brzozowski",
-        "school": "Abilene Christian",
-        "role": "Pitcher",
-        "position": "OF/LHP",
-        "classYear": "GR",
-        "handedness": "L/L",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Gavin Brzozowski looks like a OF/LHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "GR / L/L",
-        "detailBadges": [
-          "OF/LHP",
-          "GR",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Abilene Christian Athletics roster",
-          "Abilene Christian cumulative stats"
-        ],
-        "sourceSummary": "Abilene Christian Athletics roster + Abilene Christian cumulative stats",
-        "schoolSlug": "abilene-christian",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://acusports.com/sports/baseball/roster/gavin-brzozowski/11236",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "abilene-christian-11217",
-        "name": "OJ Gonzalez",
-        "school": "Abilene Christian",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "R-SO",
-        "handedness": "R/R",
-        "score": 3,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "OJ Gonzalez gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 8.80",
-          "WHIP 2.02",
-          "K/9 5.3"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "8.80"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.02"
-          },
-          {
-            "label": "K/9",
-            "value": "5.3"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.7"
-          },
-          {
-            "label": "HR/9",
-            "value": "2.35"
-          },
-          {
-            "label": "IP",
-            "value": "15.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 11.660079051383399,
-          "Command": 2.5,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "R-SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Abilene Christian Athletics roster",
-          "Abilene Christian cumulative stats"
-        ],
-        "sourceSummary": "Abilene Christian Athletics roster + Abilene Christian cumulative stats",
-        "schoolSlug": "abilene-christian",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://acusports.com/sports/baseball/roster/oj-gonzalez/11217",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "abilene-christian-11237",
-        "name": "Brady Ladusau",
-        "school": "Abilene Christian",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 43,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Brady Ladusau profiles as a OF piece who gets on base at a high clip.",
-        "summaryMetrics": [
-          "AVG .292",
-          "OBP .402",
-          "SLG .433"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".292"
-          },
-          {
-            "label": "OBP",
-            "value": ".402"
-          },
-          {
-            "label": "SLG",
-            "value": ".433"
-          },
-          {
-            "label": "HR",
-            "value": "5"
-          },
-          {
-            "label": "RBI",
-            "value": "37"
-          },
-          {
-            "label": "SB",
-            "value": "4"
-          }
-        ],
-        "components": {
-          "On-base": 67.77777777777779,
-          "Power": 29.73684210526316,
-          "Contact": 44.999999999999986,
-          "Discipline": 29.629629629629623,
-          "Speed": 13.333333333333334
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "OF",
-          "FR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Abilene Christian Athletics roster",
-          "Abilene Christian cumulative stats"
-        ],
-        "sourceSummary": "Abilene Christian Athletics roster + Abilene Christian cumulative stats",
-        "schoolSlug": "abilene-christian",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://acusports.com/sports/baseball/roster/brady-ladusau/11237",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "abilene-christian-11238",
-        "name": "Chase Batten",
-        "school": "Abilene Christian",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "R-FR",
-        "handedness": "L/L",
-        "score": 11,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Chase Batten looks like a LHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 19.64",
-          "WHIP 3.82",
-          "K/9 9.8"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "19.64"
-          },
-          {
-            "label": "WHIP",
-            "value": "3.82"
-          },
-          {
-            "label": "K/9",
-            "value": "9.8"
-          },
-          {
-            "label": "BB/9",
-            "value": "19.6"
-          },
-          {
-            "label": "HR/9",
-            "value": "2.45"
-          },
-          {
-            "label": "IP",
-            "value": "3.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 52.892561983471076,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-FR / L/L",
-        "detailBadges": [
-          "LHP",
-          "R-FR",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Abilene Christian Athletics roster",
-          "Abilene Christian cumulative stats"
-        ],
-        "sourceSummary": "Abilene Christian Athletics roster + Abilene Christian cumulative stats",
-        "schoolSlug": "abilene-christian",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://acusports.com/sports/baseball/roster/chase-batten/11238",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "abilene-christian-11221",
-        "name": "David Jeon",
-        "school": "Abilene Christian",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 6,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "David Jeon gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 9.68",
-          "WHIP 2.09",
-          "K/9 7.1"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "9.68"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.09"
-          },
-          {
-            "label": "K/9",
-            "value": "7.1"
-          },
-          {
-            "label": "BB/9",
-            "value": "7.6"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.51"
-          },
-          {
-            "label": "IP",
-            "value": "17.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 28.473413379073754,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Abilene Christian Athletics roster",
-          "Abilene Christian cumulative stats"
-        ],
-        "sourceSummary": "Abilene Christian Athletics roster + Abilene Christian cumulative stats",
-        "schoolSlug": "abilene-christian",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://acusports.com/sports/baseball/roster/david-jeon/11221",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "abilene-christian-11239",
-        "name": "Aidan Coleman",
-        "school": "Abilene Christian",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 9,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Aidan Coleman looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA 5.84",
-          "WHIP 1.38",
-          "K/9 5.8"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.84"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.38"
-          },
-          {
-            "label": "K/9",
-            "value": "5.8"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.1"
-          },
-          {
-            "label": "HR/9",
-            "value": "2.22"
-          },
-          {
-            "label": "IP",
-            "value": "77.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 16.765053128689498,
-          "Command": 35.555555555555564,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Abilene Christian Athletics roster",
-          "Abilene Christian cumulative stats"
-        ],
-        "sourceSummary": "Abilene Christian Athletics roster + Abilene Christian cumulative stats",
-        "schoolSlug": "abilene-christian",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://acusports.com/sports/baseball/roster/aidan-coleman/11239",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "abilene-christian-11240",
-        "name": "Everett Swaim",
-        "school": "Abilene Christian",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Everett Swaim gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 20.77",
-          "WHIP 4.15",
-          "K/9 4.2"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "20.77"
-          },
-          {
-            "label": "WHIP",
-            "value": "4.15"
-          },
-          {
-            "label": "K/9",
-            "value": "4.2"
-          },
-          {
-            "label": "BB/9",
-            "value": "10.4"
-          },
-          {
-            "label": "HR/9",
-            "value": "2.08"
-          },
-          {
-            "label": "IP",
-            "value": "4.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 1.3986013986014016,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Abilene Christian Athletics roster",
-          "Abilene Christian cumulative stats"
-        ],
-        "sourceSummary": "Abilene Christian Athletics roster + Abilene Christian cumulative stats",
-        "schoolSlug": "abilene-christian",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://acusports.com/sports/baseball/roster/everett-swaim/11240",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "abilene-christian-11228",
-        "name": "Braden Regala",
-        "school": "Abilene Christian",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "SO",
-        "handedness": "S/L",
-        "score": 25,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Braden Regala gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .234",
-          "OBP .359",
-          "SLG .328"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".234"
-          },
-          {
-            "label": "OBP",
-            "value": ".359"
-          },
-          {
-            "label": "SLG",
-            "value": ".328"
-          },
-          {
-            "label": "HR",
-            "value": "1"
-          },
-          {
-            "label": "RBI",
-            "value": "9"
-          },
-          {
-            "label": "SB",
-            "value": "6"
-          }
-        ],
-        "components": {
-          "On-base": 43.888888888888864,
-          "Power": 2.105263157894739,
-          "Contact": 8.750000000000007,
-          "Discipline": 49.99999999999999,
-          "Speed": 20
-        },
-        "metaLine": "SO / S/L",
-        "detailBadges": [
-          "OF",
-          "SO",
-          "S/L",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Abilene Christian Athletics roster",
-          "Abilene Christian cumulative stats"
-        ],
-        "sourceSummary": "Abilene Christian Athletics roster + Abilene Christian cumulative stats",
-        "schoolSlug": "abilene-christian",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://acusports.com/sports/baseball/roster/braden-regala/11228",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "abilene-christian-11212",
-        "name": "Reese Borho",
-        "school": "Abilene Christian",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "JR",
-        "handedness": "L/L",
-        "score": 6,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Reese Borho gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .174",
-          "OBP .313",
-          "SLG .246"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".174"
-          },
-          {
-            "label": "OBP",
-            "value": ".313"
-          },
-          {
-            "label": "SLG",
-            "value": ".246"
-          },
-          {
-            "label": "HR",
-            "value": "1"
-          },
-          {
-            "label": "RBI",
-            "value": "5"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
-        "components": {
-          "On-base": 18.333333333333318,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 3.3333333333333335
-        },
-        "metaLine": "JR / L/L",
-        "detailBadges": [
-          "OF",
-          "JR",
-          "L/L",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Abilene Christian Athletics roster",
-          "Abilene Christian cumulative stats"
-        ],
-        "sourceSummary": "Abilene Christian Athletics roster + Abilene Christian cumulative stats",
-        "schoolSlug": "abilene-christian",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://acusports.com/sports/baseball/roster/reese-borho/11212",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "abilene-christian-11241",
-        "name": "Logan Young",
-        "school": "Abilene Christian",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 2,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Logan Young gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 10.91",
-          "WHIP 2.36",
-          "K/9 4.6"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "10.91"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.36"
-          },
-          {
-            "label": "K/9",
-            "value": "4.6"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.57"
-          },
-          {
-            "label": "IP",
-            "value": "15.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 5.415860735009675,
-          "Command": 2.857142857142856,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Abilene Christian Athletics roster",
-          "Abilene Christian cumulative stats"
-        ],
-        "sourceSummary": "Abilene Christian Athletics roster + Abilene Christian cumulative stats",
-        "schoolSlug": "abilene-christian",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://acusports.com/sports/baseball/roster/logan-young/11241",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "abilene-christian-11242",
-        "name": "Kanon Sundgren",
-        "school": "Abilene Christian",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 13,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Kanon Sundgren gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .267",
-          "OBP .315",
-          "SLG .337"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".267"
-          },
-          {
-            "label": "OBP",
-            "value": ".315"
-          },
-          {
-            "label": "SLG",
-            "value": ".337"
-          },
-          {
-            "label": "HR",
-            "value": "1"
-          },
-          {
-            "label": "RBI",
-            "value": "9"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 19.444444444444432,
-          "Power": 4.47368421052632,
-          "Contact": 29.375000000000007,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "C",
-          "SR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Abilene Christian Athletics roster",
-          "Abilene Christian cumulative stats"
-        ],
-        "sourceSummary": "Abilene Christian Athletics roster + Abilene Christian cumulative stats",
-        "schoolSlug": "abilene-christian",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://acusports.com/sports/baseball/roster/kanon-sundgren/11242",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "abilene-christian-11243",
-        "name": "Grayson McKelvey",
-        "school": "Abilene Christian",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 9,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Grayson McKelvey gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 12.27",
-          "WHIP 1.77",
-          "K/9 8.6"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "12.27"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.77"
-          },
-          {
-            "label": "K/9",
-            "value": "8.6"
-          },
-          {
-            "label": "BB/9",
-            "value": "7.4"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.23"
-          },
-          {
-            "label": "IP",
-            "value": "7.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 41.73553719008265,
-          "Command": 3.333333333333335,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Abilene Christian Athletics roster",
-          "Abilene Christian cumulative stats"
-        ],
-        "sourceSummary": "Abilene Christian Athletics roster + Abilene Christian cumulative stats",
-        "schoolSlug": "abilene-christian",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://acusports.com/sports/baseball/roster/grayson-mckelvey/11243",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "abilene-christian-11244",
-        "name": "Will Patterson",
-        "school": "Abilene Christian",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "JR",
-        "handedness": "L/L",
-        "score": 5,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Will Patterson gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 10.80",
-          "WHIP 2.76",
-          "K/9 6.5"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "10.80"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.76"
-          },
-          {
-            "label": "K/9",
-            "value": "6.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "9.7"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.08"
-          },
-          {
-            "label": "IP",
-            "value": "8.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 22.54545454545454,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / L/L",
-        "detailBadges": [
-          "LHP",
-          "JR",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Abilene Christian Athletics roster",
-          "Abilene Christian cumulative stats"
-        ],
-        "sourceSummary": "Abilene Christian Athletics roster + Abilene Christian cumulative stats",
-        "schoolSlug": "abilene-christian",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://acusports.com/sports/baseball/roster/will-patterson/11244",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "abilene-christian-11245",
-        "name": "Collin Adams",
-        "school": "Abilene Christian",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "JR",
-        "handedness": "L/L",
-        "score": 1,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Collin Adams gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 6.75",
-          "WHIP 2.25",
-          "K/9 4.6"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "6.75"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.25"
-          },
-          {
-            "label": "K/9",
-            "value": "4.6"
-          },
-          {
-            "label": "BB/9",
-            "value": "8.4"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.69"
-          },
-          {
-            "label": "IP",
-            "value": "21.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 5.823863636363636,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / L/L",
-        "detailBadges": [
-          "LHP",
-          "JR",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Abilene Christian Athletics roster",
-          "Abilene Christian cumulative stats"
-        ],
-        "sourceSummary": "Abilene Christian Athletics roster + Abilene Christian cumulative stats",
-        "schoolSlug": "abilene-christian",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://acusports.com/sports/baseball/roster/collin-adams/11245",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "abilene-christian-11225",
-        "name": "Matthew Millett",
-        "school": "Abilene Christian",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "R-FR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Matthew Millett looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-FR / R/R",
-        "detailBadges": [
-          "RHP",
-          "R-FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Abilene Christian Athletics roster"
-        ],
-        "sourceSummary": "Abilene Christian Athletics roster",
-        "schoolSlug": "abilene-christian",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://acusports.com/sports/baseball/roster/matthew-millett/11225",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "abilene-christian-11246",
-        "name": "Evan Whiteaker",
-        "school": "Abilene Christian",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 9,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Evan Whiteaker gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 7.16",
-          "WHIP 1.73",
-          "K/9 7.5"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "7.16"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.73"
-          },
-          {
-            "label": "K/9",
-            "value": "7.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.4"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.46"
-          },
-          {
-            "label": "IP",
-            "value": "55.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 31.653888280394305,
-          "Command": 14.074074074074074,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Abilene Christian Athletics roster",
-          "Abilene Christian cumulative stats"
-        ],
-        "sourceSummary": "Abilene Christian Athletics roster + Abilene Christian cumulative stats",
-        "schoolSlug": "abilene-christian",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://acusports.com/sports/baseball/roster/evan-whiteaker/11246",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "abilene-christian-11222",
-        "name": "Brett Lanman",
-        "school": "Abilene Christian",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "JR",
-        "handedness": "L/L",
-        "score": 15,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Brett Lanman looks like a LHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 5.35",
-          "WHIP 1.40",
-          "K/9 9.7"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.35"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.40"
-          },
-          {
-            "label": "K/9",
-            "value": "9.7"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.9"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.27"
-          },
-          {
-            "label": "IP",
-            "value": "70.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 51.62950257289879,
-          "Command": 29.03225806451613,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / L/L",
-        "detailBadges": [
-          "LHP",
-          "JR",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Abilene Christian Athletics roster",
-          "Abilene Christian cumulative stats"
-        ],
-        "sourceSummary": "Abilene Christian Athletics roster + Abilene Christian cumulative stats",
-        "schoolSlug": "abilene-christian",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://acusports.com/sports/baseball/roster/brett-lanman/11222",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "abilene-christian-11224",
-        "name": "Maddox Miesse",
-        "school": "Abilene Christian",
-        "role": "Hitter",
-        "position": "UTL",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 80,
-        "fit": {
-          "label": "Priority",
-          "className": "fit-priority"
-        },
-        "summary": "Maddox Miesse profiles as a UTL piece who gets on base at a high clip and brings real extra-base damage.",
-        "summaryMetrics": [
-          "AVG .358",
-          "OBP .496",
-          "SLG .621"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".358"
-          },
-          {
-            "label": "OBP",
-            "value": ".496"
-          },
-          {
-            "label": "SLG",
-            "value": ".621"
-          },
-          {
-            "label": "HR",
-            "value": "7"
-          },
-          {
-            "label": "RBI",
-            "value": "26"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
-        "components": {
-          "On-base": 100,
-          "Power": 79.21052631578948,
-          "Contact": 86.25,
-          "Discipline": 84.05797101449275,
-          "Speed": 3.3333333333333335
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "UTL",
-          "SR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Abilene Christian Athletics roster",
-          "Abilene Christian cumulative stats"
-        ],
-        "sourceSummary": "Abilene Christian Athletics roster + Abilene Christian cumulative stats",
-        "schoolSlug": "abilene-christian",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://acusports.com/sports/baseball/roster/maddox-miesse/11224",
         "espnAthleteId": ""
       },
       {
@@ -21071,7825 +16114,6 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "schoolSlug": "baylor",
         "compositeRole": "Pitcher",
         "profileUrl": "https://baylorbears.com/sports/baseball/roster/rj-ruais/15479",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26428",
-        "name": "Sean Martinez",
-        "school": "Boston College",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Sean Martinez gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .152",
-          "OBP .222",
-          "SLG .182"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".152"
-          },
-          {
-            "label": "OBP",
-            "value": ".222"
-          },
-          {
-            "label": "SLG",
-            "value": ".182"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "3"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "INF",
-          "SO",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/sean-martinez/26428",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26426",
-        "name": "Ty Mainolfi",
-        "school": "Boston College",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SO",
-        "handedness": "L/R",
-        "score": 61,
-        "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
-        },
-        "summary": "Ty Mainolfi profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .323",
-          "OBP .411",
-          "SLG .444"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".323"
-          },
-          {
-            "label": "OBP",
-            "value": ".411"
-          },
-          {
-            "label": "SLG",
-            "value": ".444"
-          },
-          {
-            "label": "HR",
-            "value": "2"
-          },
-          {
-            "label": "RBI",
-            "value": "51"
-          },
-          {
-            "label": "SB",
-            "value": "19"
-          }
-        ],
-        "components": {
-          "On-base": 72.77777777777776,
-          "Power": 32.631578947368425,
-          "Contact": 64.375,
-          "Discipline": 79.08496732026141,
-          "Speed": 63.33333333333333
-        },
-        "metaLine": "SO / L/R",
-        "detailBadges": [
-          "INF",
-          "SO",
-          "L/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/ty-mainolfi/26426",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26707",
-        "name": "Charlie Comella",
-        "school": "Boston College",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "SO",
-        "handedness": "L/L",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Charlie Comella gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .000",
-          "OBP .000",
-          "SLG .000"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".000"
-          },
-          {
-            "label": "OBP",
-            "value": ".000"
-          },
-          {
-            "label": "SLG",
-            "value": ".000"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "SO / L/L",
-        "detailBadges": [
-          "OF",
-          "SO",
-          "L/L",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/charlie-comella/26707",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26404",
-        "name": "John Mass",
-        "school": "Boston College",
-        "role": "Pitcher",
-        "position": "RHP/INF",
-        "classYear": "SO",
-        "handedness": "S/R",
-        "score": 33,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "John Mass looks like a RHP/INF option who limits runs and misses bats and keeps traffic under control.",
-        "summaryMetrics": [
-          "ERA 0.00",
-          "WHIP 0.75",
-          "K/9 16.9"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "0.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "0.75"
-          },
-          {
-            "label": "K/9",
-            "value": "16.9"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.4"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "2.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 100,
-          "Command": 80,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / S/R",
-        "detailBadges": [
-          "RHP/INF",
-          "SO",
-          "S/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/john-mass/26404",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26394",
-        "name": "Esteban Garcia",
-        "school": "Boston College",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "JR",
-        "handedness": "L/R",
-        "score": 6,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Esteban Garcia gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .167",
-          "OBP .275",
-          "SLG .190"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".167"
-          },
-          {
-            "label": "OBP",
-            "value": ".275"
-          },
-          {
-            "label": "SLG",
-            "value": ".190"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "7"
-          },
-          {
-            "label": "SB",
-            "value": "2"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 41.26984126984126,
-          "Speed": 6.666666666666667
-        },
-        "metaLine": "JR / L/R",
-        "detailBadges": [
-          "INF",
-          "JR",
-          "L/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/esteban-garcia/26394",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26392",
-        "name": "A.J. Colarusso",
-        "school": "Boston College",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "SR",
-        "handedness": "L/L",
-        "score": 15,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "A.J. Colarusso looks like a LHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA 4.45",
-          "WHIP 1.39",
-          "K/9 8.3"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.45"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.39"
-          },
-          {
-            "label": "K/9",
-            "value": "8.3"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.6"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.30"
-          },
-          {
-            "label": "IP",
-            "value": "83.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 39.539978094194964,
-          "Command": 44.16666666666668,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / L/L",
-        "detailBadges": [
-          "LHP",
-          "SR",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/aj-colarusso/26392",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26427",
-        "name": "Gabe Malaret",
-        "school": "Boston College",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "FR",
-        "handedness": "S/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Gabe Malaret gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "FR / S/R",
-        "detailBadges": [
-          "OF",
-          "FR",
-          "S/R",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster"
-        ],
-        "sourceSummary": "Boston College Athletics roster",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/gabe-malaret/26427",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26403",
-        "name": "Colin Larson",
-        "school": "Boston College",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "SO",
-        "handedness": "L/L",
-        "score": 40,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Colin Larson profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .225",
-          "OBP .412",
-          "SLG .338"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".225"
-          },
-          {
-            "label": "OBP",
-            "value": ".412"
-          },
-          {
-            "label": "SLG",
-            "value": ".338"
-          },
-          {
-            "label": "HR",
-            "value": "3"
-          },
-          {
-            "label": "RBI",
-            "value": "21"
-          },
-          {
-            "label": "SB",
-            "value": "21"
-          }
-        ],
-        "components": {
-          "On-base": 73.3333333333333,
-          "Power": 4.736842105263163,
-          "Contact": 3.1250000000000027,
-          "Discipline": 52.52525252525252,
-          "Speed": 70
-        },
-        "metaLine": "SO / L/L",
-        "detailBadges": [
-          "OF",
-          "SO",
-          "L/L",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/colin-larson/26403",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26400",
-        "name": "Gunnar Johnson",
-        "school": "Boston College",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "GR",
-        "handedness": "R/R",
-        "score": 25,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Gunnar Johnson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .250",
-          "OBP .354",
-          "SLG .379"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".250"
-          },
-          {
-            "label": "OBP",
-            "value": ".354"
-          },
-          {
-            "label": "SLG",
-            "value": ".379"
-          },
-          {
-            "label": "HR",
-            "value": "2"
-          },
-          {
-            "label": "RBI",
-            "value": "32"
-          },
-          {
-            "label": "SB",
-            "value": "3"
-          }
-        ],
-        "components": {
-          "On-base": 41.111111111111086,
-          "Power": 15.526315789473685,
-          "Contact": 18.75,
-          "Discipline": 25.39682539682539,
-          "Speed": 10
-        },
-        "metaLine": "GR / R/R",
-        "detailBadges": [
-          "C",
-          "GR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/gunnar-johnson/26400",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26393",
-        "name": "Owen DeShazo",
-        "school": "Boston College",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 1,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Owen DeShazo gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .175",
-          "OBP .239",
-          "SLG .300"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".175"
-          },
-          {
-            "label": "OBP",
-            "value": ".239"
-          },
-          {
-            "label": "SLG",
-            "value": ".300"
-          },
-          {
-            "label": "HR",
-            "value": "1"
-          },
-          {
-            "label": "RBI",
-            "value": "5"
-          },
-          {
-            "label": "SB",
-            "value": "2"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 6.666666666666667
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "OF",
-          "SR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/owen-deshazo/26393",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26421",
-        "name": "Luke Gallo",
-        "school": "Boston College",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 60,
-        "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
-        },
-        "summary": "Luke Gallo profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .325",
-          "OBP .434",
-          "SLG .429"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".325"
-          },
-          {
-            "label": "OBP",
-            "value": ".434"
-          },
-          {
-            "label": "SLG",
-            "value": ".429"
-          },
-          {
-            "label": "HR",
-            "value": "2"
-          },
-          {
-            "label": "RBI",
-            "value": "36"
-          },
-          {
-            "label": "SB",
-            "value": "9"
-          }
-        ],
-        "components": {
-          "On-base": 85.55555555555554,
-          "Power": 28.68421052631579,
-          "Contact": 65.625,
-          "Discipline": 74.39613526570045,
-          "Speed": 30
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "INF",
-          "FR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/luke-gallo/26421",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26407",
-        "name": "Jace Roossien",
-        "school": "Boston College",
-        "role": "Hitter",
-        "position": "C/OF",
-        "classYear": "SO",
-        "handedness": "S/R",
-        "score": 3,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jace Roossien gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .167",
-          "OBP .250",
-          "SLG .208"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".167"
-          },
-          {
-            "label": "OBP",
-            "value": ".250"
-          },
-          {
-            "label": "SLG",
-            "value": ".208"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "3"
-          },
-          {
-            "label": "SB",
-            "value": "2"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 14.814814814814808,
-          "Speed": 6.666666666666667
-        },
-        "metaLine": "SO / S/R",
-        "detailBadges": [
-          "C/OF",
-          "SO",
-          "S/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/jace-roossien/26407",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26410",
-        "name": "Julio Solier",
-        "school": "Boston College",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 71,
-        "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
-        },
-        "summary": "Julio Solier profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .354",
-          "OBP .434",
-          "SLG .498"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".354"
-          },
-          {
-            "label": "OBP",
-            "value": ".434"
-          },
-          {
-            "label": "SLG",
-            "value": ".498"
-          },
-          {
-            "label": "HR",
-            "value": "3"
-          },
-          {
-            "label": "RBI",
-            "value": "34"
-          },
-          {
-            "label": "SB",
-            "value": "28"
-          }
-        ],
-        "components": {
-          "On-base": 85.55555555555554,
-          "Power": 46.842105263157904,
-          "Contact": 83.74999999999999,
-          "Discipline": 51.85185185185184,
-          "Speed": 93.33333333333333
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "INF",
-          "SO",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/julio-solier/26410",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26409",
-        "name": "Gavin Soares",
-        "school": "Boston College",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 23,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Gavin Soares looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
-        "summaryMetrics": [
-          "ERA 2.96",
-          "WHIP 1.24",
-          "K/9 11.5"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "2.96"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.24"
-          },
-          {
-            "label": "K/9",
-            "value": "11.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.33"
-          },
-          {
-            "label": "IP",
-            "value": "27.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 68.40354767184036,
-          "Command": 57.777777777777786,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/gavin-soares/26409",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26416",
-        "name": "Kyle Wolff",
-        "school": "Boston College",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SR",
-        "handedness": "R/L",
-        "score": 28,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Kyle Wolff gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .232",
-          "OBP .331",
-          "SLG .491"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".232"
-          },
-          {
-            "label": "OBP",
-            "value": ".331"
-          },
-          {
-            "label": "SLG",
-            "value": ".491"
-          },
-          {
-            "label": "HR",
-            "value": "7"
-          },
-          {
-            "label": "RBI",
-            "value": "29"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 28.33333333333333,
-          "Power": 45,
-          "Contact": 7.500000000000007,
-          "Discipline": 40.579710144927525,
-          "Speed": 0
-        },
-        "metaLine": "SR / R/L",
-        "detailBadges": [
-          "INF",
-          "SR",
-          "R/L",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/kyle-wolff/26416",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26415",
-        "name": "Ben Williams",
-        "school": "Boston College",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 6,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Ben Williams gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .189",
-          "OBP .294",
-          "SLG .230"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".189"
-          },
-          {
-            "label": "OBP",
-            "value": ".294"
-          },
-          {
-            "label": "SLG",
-            "value": ".230"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "8"
-          },
-          {
-            "label": "SB",
-            "value": "7"
-          }
-        ],
-        "components": {
-          "On-base": 7.777777777777755,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 9.523809523809518,
-          "Speed": 23.333333333333332
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "OF",
-          "SO",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/ben-williams/26415",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26406",
-        "name": "Tyler Mudd",
-        "school": "Boston College",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "GR",
-        "handedness": "L/L",
-        "score": 8,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Tyler Mudd looks like a LHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA 4.72",
-          "WHIP 1.44",
-          "K/9 6.3"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.72"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.44"
-          },
-          {
-            "label": "K/9",
-            "value": "6.3"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.8"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.75"
-          },
-          {
-            "label": "IP",
-            "value": "66.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 21.318181818181817,
-          "Command": 24.761904761904763,
-          "Damage suppression": 0
-        },
-        "metaLine": "GR / L/L",
-        "detailBadges": [
-          "LHP",
-          "GR",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/tyler-mudd/26406",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26430",
-        "name": "Easton Masse",
-        "school": "Boston College",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Easton Masse gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .000",
-          "OBP .000",
-          "SLG .000"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".000"
-          },
-          {
-            "label": "OBP",
-            "value": ".000"
-          },
-          {
-            "label": "SLG",
-            "value": ".000"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "C",
-          "FR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/easton-masse/26430",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26405",
-        "name": "Brady Miller",
-        "school": "Boston College",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "SO",
-        "handedness": "R/L",
-        "score": 16,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Brady Miller looks like a LHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 6.07",
-          "WHIP 1.49",
-          "K/9 9.9"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "6.07"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.49"
-          },
-          {
-            "label": "K/9",
-            "value": "9.9"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.7"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.12"
-          },
-          {
-            "label": "IP",
-            "value": "56.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 53.68477676169984,
-          "Command": 33.91304347826087,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / R/L",
-        "detailBadges": [
-          "LHP",
-          "SO",
-          "R/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/brady-miller/26405",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26396",
-        "name": "Cesar Gonzalez",
-        "school": "Boston College",
-        "role": "Pitcher",
-        "position": "C/RHP",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 16,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Cesar Gonzalez looks like a C/RHP option who limits runs and misses bats.",
-        "summaryMetrics": [
-          "ERA 3.22",
-          "WHIP 1.32",
-          "K/9 9.9"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.22"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.32"
-          },
-          {
-            "label": "K/9",
-            "value": "9.9"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.7"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.74"
-          },
-          {
-            "label": "IP",
-            "value": "36.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 53.7114261884904,
-          "Command": 33.33333333333333,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "C/RHP",
-          "SO",
-          "R/R",
-          "Two-Way"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Two-Way",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/cesar-gonzalez/26396",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26424",
-        "name": "Chase Hartsell",
-        "school": "Boston College",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 13,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Chase Hartsell looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 5.74",
-          "WHIP 1.65",
-          "K/9 9.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.74"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.65"
-          },
-          {
-            "label": "K/9",
-            "value": "9.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.1"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.34"
-          },
-          {
-            "label": "IP",
-            "value": "26.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 49.54545454545454,
-          "Command": 17.33333333333333,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/chase-hartsell/26424",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26390",
-        "name": "Jacob Burnham",
-        "school": "Boston College",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "SO",
-        "handedness": "R/L",
-        "score": 10,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jacob Burnham gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 5.02",
-          "WHIP 1.65",
-          "K/9 8.1"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.02"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.65"
-          },
-          {
-            "label": "K/9",
-            "value": "8.1"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.5"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.96"
-          },
-          {
-            "label": "IP",
-            "value": "37.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 37.48994368463395,
-          "Command": 15.789473684210522,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / R/L",
-        "detailBadges": [
-          "LHP",
-          "SO",
-          "R/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/jacob-burnham/26390",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26420",
-        "name": "Zach Fronio",
-        "school": "Boston College",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "FR",
-        "handedness": "R/L",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Zach Fronio looks like a LHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / R/L",
-        "detailBadges": [
-          "LHP",
-          "FR",
-          "R/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster"
-        ],
-        "sourceSummary": "Boston College Athletics roster",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/zach-fronio/26420",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26431",
-        "name": "John D Mitchell",
-        "school": "Boston College",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "L/R",
-        "score": 13,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "John D Mitchell looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 7.17",
-          "WHIP 1.97",
-          "K/9 10.1"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "7.17"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.97"
-          },
-          {
-            "label": "K/9",
-            "value": "10.1"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.9"
-          },
-          {
-            "label": "HR/9",
-            "value": "2.11"
-          },
-          {
-            "label": "IP",
-            "value": "21.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 55.68181818181818,
-          "Command": 14.285714285714285,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / L/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "L/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/john-d-mitchell/26431",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26425",
-        "name": "Carter Hendrickson",
-        "school": "Boston College",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "GR",
-        "handedness": "R/L",
-        "score": 45,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Carter Hendrickson profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .235",
-          "OBP .410",
-          "SLG .382"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".235"
-          },
-          {
-            "label": "OBP",
-            "value": ".410"
-          },
-          {
-            "label": "SLG",
-            "value": ".382"
-          },
-          {
-            "label": "HR",
-            "value": "2"
-          },
-          {
-            "label": "RBI",
-            "value": "18"
-          },
-          {
-            "label": "SB",
-            "value": "12"
-          }
-        ],
-        "components": {
-          "On-base": 72.2222222222222,
-          "Power": 16.315789473684212,
-          "Contact": 9.374999999999991,
-          "Discipline": 83.04093567251459,
-          "Speed": 40
-        },
-        "metaLine": "GR / R/L",
-        "detailBadges": [
-          "OF",
-          "GR",
-          "R/L",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/carter-hendrickson/26425",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26397",
-        "name": "Sean Hard",
-        "school": "Boston College",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "GR",
-        "handedness": "R/R",
-        "score": 14,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Sean Hard looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 4.67",
-          "WHIP 1.70",
-          "K/9 10.7"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.67"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.70"
-          },
-          {
-            "label": "K/9",
-            "value": "10.7"
-          },
-          {
-            "label": "BB/9",
-            "value": "7.3"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.67"
-          },
-          {
-            "label": "IP",
-            "value": "27.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 60.606060606060595,
-          "Command": 9.090909090909092,
-          "Damage suppression": 0
-        },
-        "metaLine": "GR / R/R",
-        "detailBadges": [
-          "RHP",
-          "GR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/sean-hard/26397",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26417",
-        "name": "Logan Berenson",
-        "school": "Boston College",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Logan Berenson looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster"
-        ],
-        "sourceSummary": "Boston College Athletics roster",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/logan-berenson/26417",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26419",
-        "name": "Luke D'Ancona",
-        "school": "Boston College",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 13,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Luke D'Ancona looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 5.55",
-          "WHIP 1.44",
-          "K/9 9.2"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.55"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.44"
-          },
-          {
-            "label": "K/9",
-            "value": "9.2"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.4"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.37"
-          },
-          {
-            "label": "IP",
-            "value": "24.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 47.6961394769614,
-          "Command": 21.66666666666667,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/luke-dancona/26419",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26395",
-        "name": "Joe Gold",
-        "school": "Boston College",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Joe Gold looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster"
-        ],
-        "sourceSummary": "Boston College Athletics roster",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/joe-gold/26395",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26418",
-        "name": "Sean Budis",
-        "school": "Boston College",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "FR",
-        "handedness": "L/L",
-        "score": 9,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Sean Budis looks like a LHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 9.00",
-          "WHIP 3.00",
-          "K/9 9.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "9.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "3.00"
-          },
-          {
-            "label": "K/9",
-            "value": "9.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "18.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "1.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / L/L",
-        "detailBadges": [
-          "LHP",
-          "FR",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/sean-budis/26418",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26402",
-        "name": "John Kwiatkowski",
-        "school": "Boston College",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "SR",
-        "handedness": "L/L",
-        "score": 11,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "John Kwiatkowski gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 4.91",
-          "WHIP 1.64",
-          "K/9 7.7"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.91"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.64"
-          },
-          {
-            "label": "K/9",
-            "value": "7.7"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.5"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.70"
-          },
-          {
-            "label": "IP",
-            "value": "25.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 33.76623376623376,
-          "Command": 23.999999999999993,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / L/L",
-        "detailBadges": [
-          "LHP",
-          "SR",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/john-kwiatkowski/26402",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26413",
-        "name": "Jack Toomey",
-        "school": "Boston College",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 73,
-        "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
-        },
-        "summary": "Jack Toomey profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .316",
-          "OBP .445",
-          "SLG .552"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".316"
-          },
-          {
-            "label": "OBP",
-            "value": ".445"
-          },
-          {
-            "label": "SLG",
-            "value": ".552"
-          },
-          {
-            "label": "HR",
-            "value": "5"
-          },
-          {
-            "label": "RBI",
-            "value": "27"
-          },
-          {
-            "label": "SB",
-            "value": "18"
-          }
-        ],
-        "components": {
-          "On-base": 91.66666666666666,
-          "Power": 61.05263157894739,
-          "Contact": 60,
-          "Discipline": 80.75880758807587,
-          "Speed": 60
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "OF",
-          "SR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/jack-toomey/26413",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26422",
-        "name": "Aidan Gelbsman",
-        "school": "Boston College",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "SO",
-        "handedness": "L/L",
-        "score": 20,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Aidan Gelbsman looks like a LHP option who limits runs and misses bats.",
-        "summaryMetrics": [
-          "ERA 0.00",
-          "WHIP 1.50",
-          "K/9 13.5"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "0.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.50"
-          },
-          {
-            "label": "K/9",
-            "value": "13.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "6.8"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "1.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 86.36363636363636,
-          "Command": 20,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / L/L",
-        "detailBadges": [
-          "LHP",
-          "SO",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/aidan-gelbsman/26422",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26391",
-        "name": "Bobby Chicoine",
-        "school": "Boston College",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 3,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Bobby Chicoine gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 8.10",
-          "WHIP 2.10",
-          "K/9 5.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "8.10"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.10"
-          },
-          {
-            "label": "K/9",
-            "value": "5.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "8.1"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "3.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 12.727272727272723,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/bobby-chicoine/26391",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26414",
-        "name": "Nick Wang",
-        "school": "Boston College",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "GR",
-        "handedness": "R/R",
-        "score": 61,
-        "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
-        },
-        "summary": "Nick Wang profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .294",
-          "OBP .404",
-          "SLG .570"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".294"
-          },
-          {
-            "label": "OBP",
-            "value": ".404"
-          },
-          {
-            "label": "SLG",
-            "value": ".570"
-          },
-          {
-            "label": "HR",
-            "value": "16"
-          },
-          {
-            "label": "RBI",
-            "value": "62"
-          },
-          {
-            "label": "SB",
-            "value": "12"
-          }
-        ],
-        "components": {
-          "On-base": 68.88888888888889,
-          "Power": 65.78947368421052,
-          "Contact": 46.249999999999986,
-          "Discipline": 69.97635933806146,
-          "Speed": 40
-        },
-        "metaLine": "GR / R/R",
-        "detailBadges": [
-          "INF",
-          "GR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/nick-wang/26414",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26423",
-        "name": "Drew Grumbles",
-        "school": "Boston College",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 6,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Drew Grumbles looks like a RHP option who limits runs.",
-        "summaryMetrics": [
-          "ERA 3.98",
-          "WHIP 1.48",
-          "K/9 7.1"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.98"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.48"
-          },
-          {
-            "label": "K/9",
-            "value": "7.1"
-          },
-          {
-            "label": "BB/9",
-            "value": "6.2"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "20.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 28.01788375558868,
-          "Command": 2.8571428571428603,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/drew-grumbles/26423",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26401",
-        "name": "Kyle Kipp",
-        "school": "Boston College",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 9,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Kyle Kipp gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 5.08",
-          "WHIP 1.31",
-          "K/9 7.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.08"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.31"
-          },
-          {
-            "label": "K/9",
-            "value": "7.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.7"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.15"
-          },
-          {
-            "label": "IP",
-            "value": "39.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 30.76923076923077,
-          "Command": 20,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/kyle-kipp/26401",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26411",
-        "name": "Matthew Spada",
-        "school": "Boston College",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "SR",
-        "handedness": "L/L",
-        "score": 5,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Matthew Spada gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 6.75",
-          "WHIP 2.50",
-          "K/9 6.8"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "6.75"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.50"
-          },
-          {
-            "label": "K/9",
-            "value": "6.8"
-          },
-          {
-            "label": "BB/9",
-            "value": "13.5"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "4.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 25,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / L/L",
-        "detailBadges": [
-          "LHP",
-          "SR",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/matthew-spada/26411",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26408",
-        "name": "Peter Schaefer",
-        "school": "Boston College",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "GR",
-        "handedness": "L/R",
-        "score": 1,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Peter Schaefer gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 5.23",
-          "WHIP 1.84",
-          "K/9 4.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.23"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.84"
-          },
-          {
-            "label": "K/9",
-            "value": "4.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "12.2"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "10.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 3.2258064516129004,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "GR / L/R",
-        "detailBadges": [
-          "RHP",
-          "GR",
-          "L/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/peter-schaefer/26408",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26429",
-        "name": "Ethan Marzo",
-        "school": "Boston College",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Ethan Marzo looks like a RHP option who limits runs.",
-        "summaryMetrics": [
-          "ERA 0.00",
-          "WHIP 2.00",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "0.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.00"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "9.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "1.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/ethan-marzo/26429",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26412",
-        "name": "Danny Surowiec",
-        "school": "Boston College",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SO",
-        "handedness": "L/R",
-        "score": 23,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Danny Surowiec gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .227",
-          "OBP .370",
-          "SLG .318"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".227"
-          },
-          {
-            "label": "OBP",
-            "value": ".370"
-          },
-          {
-            "label": "SLG",
-            "value": ".318"
-          },
-          {
-            "label": "HR",
-            "value": "2"
-          },
-          {
-            "label": "RBI",
-            "value": "12"
-          },
-          {
-            "label": "SB",
-            "value": "4"
-          }
-        ],
-        "components": {
-          "On-base": 49.999999999999986,
-          "Power": 0,
-          "Contact": 4.3750000000000036,
-          "Discipline": 36.80555555555555,
-          "Speed": 13.333333333333334
-        },
-        "metaLine": "SO / L/R",
-        "detailBadges": [
-          "INF",
-          "SO",
-          "L/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/danny-surowiec/26412",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "bowling-green-19822",
-        "name": "Pauly Mancino",
-        "school": "Bowling Green",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 33,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Pauly Mancino profiles as a OF piece who adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .258",
-          "OBP .376",
-          "SLG .393"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".258"
-          },
-          {
-            "label": "OBP",
-            "value": ".376"
-          },
-          {
-            "label": "SLG",
-            "value": ".393"
-          },
-          {
-            "label": "HR",
-            "value": "3"
-          },
-          {
-            "label": "RBI",
-            "value": "17"
-          },
-          {
-            "label": "SB",
-            "value": "8"
-          }
-        ],
-        "components": {
-          "On-base": 53.33333333333332,
-          "Power": 19.21052631578948,
-          "Contact": 23.750000000000004,
-          "Discipline": 29.629629629629623,
-          "Speed": 26.666666666666668
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "OF",
-          "JR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Bowling Green Athletics roster",
-          "Bowling Green cumulative stats"
-        ],
-        "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
-        "schoolSlug": "bowling-green",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/pauly-mancino/19822",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "bowling-green-19263",
-        "name": "Chase Chopin",
-        "school": "Bowling Green",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "R-FR",
-        "handedness": "R/L",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Chase Chopin gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "R-FR / R/L",
-        "detailBadges": [
-          "OF",
-          "R-FR",
-          "R/L",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Bowling Green Athletics roster"
-        ],
-        "sourceSummary": "Bowling Green Athletics roster",
-        "schoolSlug": "bowling-green",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/chase-chopin/19263",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "bowling-green-19805",
-        "name": "Brayden Curlis",
-        "school": "Bowling Green",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 31,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Brayden Curlis gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .260",
-          "OBP .366",
-          "SLG .433"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".260"
-          },
-          {
-            "label": "OBP",
-            "value": ".366"
-          },
-          {
-            "label": "SLG",
-            "value": ".433"
-          },
-          {
-            "label": "HR",
-            "value": "3"
-          },
-          {
-            "label": "RBI",
-            "value": "17"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 47.77777777777776,
-          "Power": 29.73684210526316,
-          "Contact": 25.000000000000007,
-          "Discipline": 22.22222222222222,
-          "Speed": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "INF",
-          "SO",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Bowling Green Athletics roster",
-          "Bowling Green cumulative stats"
-        ],
-        "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
-        "schoolSlug": "bowling-green",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/brayden-curlis/19805",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "bowling-green-19817",
-        "name": "Micah Smith",
-        "school": "Bowling Green",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 12,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Micah Smith looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 8.53",
-          "WHIP 1.97",
-          "K/9 9.9"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "8.53"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.97"
-          },
-          {
-            "label": "K/9",
-            "value": "9.9"
-          },
-          {
-            "label": "BB/9",
-            "value": "7.8"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.71"
-          },
-          {
-            "label": "IP",
-            "value": "12.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 54.066985645933016,
-          "Command": 5.454545454545454,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Bowling Green Athletics roster",
-          "Bowling Green cumulative stats"
-        ],
-        "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
-        "schoolSlug": "bowling-green",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/micah-smith/19817",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "bowling-green-19818",
-        "name": "Carrson Sova",
-        "school": "Bowling Green",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 12,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Carrson Sova looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 7.68",
-          "WHIP 1.94",
-          "K/9 9.5"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "7.68"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.94"
-          },
-          {
-            "label": "K/9",
-            "value": "9.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.8"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.93"
-          },
-          {
-            "label": "IP",
-            "value": "38.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 50.39184952978057,
-          "Command": 12.799999999999997,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Bowling Green Athletics roster",
-          "Bowling Green cumulative stats"
-        ],
-        "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
-        "schoolSlug": "bowling-green",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/carrson-sova/19818",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "bowling-green-19819",
-        "name": "TJ Takats",
-        "school": "Bowling Green",
-        "role": "Hitter",
-        "position": "1B/OF",
-        "classYear": "JR",
-        "handedness": "L/L",
-        "score": 15,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "TJ Takats gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .228",
-          "OBP .311",
-          "SLG .370"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".228"
-          },
-          {
-            "label": "OBP",
-            "value": ".311"
-          },
-          {
-            "label": "SLG",
-            "value": ".370"
-          },
-          {
-            "label": "HR",
-            "value": "5"
-          },
-          {
-            "label": "RBI",
-            "value": "26"
-          },
-          {
-            "label": "SB",
-            "value": "6"
-          }
-        ],
-        "components": {
-          "On-base": 17.222222222222207,
-          "Power": 13.157894736842104,
-          "Contact": 5.000000000000004,
-          "Discipline": 23.361823361823355,
-          "Speed": 20
-        },
-        "metaLine": "JR / L/L",
-        "detailBadges": [
-          "1B/OF",
-          "JR",
-          "L/L",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Bowling Green Athletics roster",
-          "Bowling Green cumulative stats"
-        ],
-        "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
-        "schoolSlug": "bowling-green",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/tj-takats/19819",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "bowling-green-19807",
-        "name": "Nate Kress",
-        "school": "Bowling Green",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "R-SO",
-        "handedness": "R/R",
-        "score": 16,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Nate Kress looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA 5.08",
-          "WHIP 1.45",
-          "K/9 8.9"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.08"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.45"
-          },
-          {
-            "label": "K/9",
-            "value": "8.9"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.9"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "28.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 44.49197860962567,
-          "Command": 42.22222222222222,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "R-SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Bowling Green Athletics roster",
-          "Bowling Green cumulative stats"
-        ],
-        "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
-        "schoolSlug": "bowling-green",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/nate-kress/19807",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "bowling-green-19823",
-        "name": "John Hughes",
-        "school": "Bowling Green",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "John Hughes gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "OF",
-          "FR",
-          "R/R",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Bowling Green Athletics roster"
-        ],
-        "sourceSummary": "Bowling Green Athletics roster",
-        "schoolSlug": "bowling-green",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/john-hughes/19823",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "bowling-green-19815",
-        "name": "Ty Roder",
-        "school": "Bowling Green",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "R-SR",
-        "handedness": "R/R",
-        "score": 14,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Ty Roder gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 4.46",
-          "WHIP 1.57",
-          "K/9 8.9"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.46"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.57"
-          },
-          {
-            "label": "K/9",
-            "value": "8.9"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.3"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.17"
-          },
-          {
-            "label": "IP",
-            "value": "38.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 44.74308300395256,
-          "Command": 34.285714285714285,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-SR / R/R",
-        "detailBadges": [
-          "RHP",
-          "R-SR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Bowling Green Athletics roster",
-          "Bowling Green cumulative stats"
-        ],
-        "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
-        "schoolSlug": "bowling-green",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/ty-roder/19815",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "bowling-green-19824",
-        "name": "Jackson Miller",
-        "school": "Bowling Green",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "FR",
-        "handedness": "R/L",
-        "score": 14,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jackson Miller looks like a LHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 5.84",
-          "WHIP 1.59",
-          "K/9 9.7"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.84"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.59"
-          },
-          {
-            "label": "K/9",
-            "value": "9.7"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.6"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.41"
-          },
-          {
-            "label": "IP",
-            "value": "44.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 51.560379918588886,
-          "Command": 21.73913043478261,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / R/L",
-        "detailBadges": [
-          "LHP",
-          "FR",
-          "R/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Bowling Green Athletics roster",
-          "Bowling Green cumulative stats"
-        ],
-        "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
-        "schoolSlug": "bowling-green",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/jackson-miller/19824",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "bowling-green-19811",
-        "name": "Carson Lumley",
-        "school": "Bowling Green",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "R-SO",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Carson Lumley looks like a RHP option who throws enough strikes and keeps traffic under control.",
-        "summaryMetrics": [
-          "ERA 99.00",
-          "WHIP 0.00",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "99.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "0.00"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "R-SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Bowling Green Athletics roster",
-          "Bowling Green cumulative stats"
-        ],
-        "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
-        "schoolSlug": "bowling-green",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/carson-lumley/19811",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "bowling-green-19809",
-        "name": "Alex Laird",
-        "school": "Bowling Green",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "R-SO",
-        "handedness": "R/R",
-        "score": 21,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Alex Laird profiles as a INF piece who adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .172",
-          "OBP .333",
-          "SLG .190"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".172"
-          },
-          {
-            "label": "OBP",
-            "value": ".333"
-          },
-          {
-            "label": "SLG",
-            "value": ".190"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "4"
-          },
-          {
-            "label": "SB",
-            "value": "18"
-          }
-        ],
-        "components": {
-          "On-base": 29.44444444444444,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 40.579710144927525,
-          "Speed": 60
-        },
-        "metaLine": "R-SO / R/R",
-        "detailBadges": [
-          "INF",
-          "R-SO",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Bowling Green Athletics roster",
-          "Bowling Green cumulative stats"
-        ],
-        "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
-        "schoolSlug": "bowling-green",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/alex-laird/19809",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "bowling-green-19814",
-        "name": "Carter Mottice",
-        "school": "Bowling Green",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "SO",
-        "handedness": "L/L",
-        "score": 27,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Carter Mottice gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .243",
-          "OBP .354",
-          "SLG .338"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".243"
-          },
-          {
-            "label": "OBP",
-            "value": ".354"
-          },
-          {
-            "label": "SLG",
-            "value": ".338"
-          },
-          {
-            "label": "HR",
-            "value": "2"
-          },
-          {
-            "label": "RBI",
-            "value": "19"
-          },
-          {
-            "label": "SB",
-            "value": "7"
-          }
-        ],
-        "components": {
-          "On-base": 41.111111111111086,
-          "Power": 4.736842105263163,
-          "Contact": 14.374999999999996,
-          "Discipline": 54.700854700854684,
-          "Speed": 23.333333333333332
-        },
-        "metaLine": "SO / L/L",
-        "detailBadges": [
-          "OF",
-          "SO",
-          "L/L",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Bowling Green Athletics roster",
-          "Bowling Green cumulative stats"
-        ],
-        "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
-        "schoolSlug": "bowling-green",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/carter-mottice/19814",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "bowling-green-19825",
-        "name": "Griffin Scheiderer",
-        "school": "Bowling Green",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "FR",
-        "handedness": "L/R",
-        "score": 17,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Griffin Scheiderer gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .221",
-          "OBP .350",
-          "SLG .282"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".221"
-          },
-          {
-            "label": "OBP",
-            "value": ".350"
-          },
-          {
-            "label": "SLG",
-            "value": ".282"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "11"
-          },
-          {
-            "label": "SB",
-            "value": "3"
-          }
-        ],
-        "components": {
-          "On-base": 38.888888888888864,
-          "Power": 0,
-          "Contact": 0.6250000000000006,
-          "Discipline": 23.84823848238482,
-          "Speed": 10
-        },
-        "metaLine": "FR / L/R",
-        "detailBadges": [
-          "INF",
-          "FR",
-          "L/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Bowling Green Athletics roster",
-          "Bowling Green cumulative stats"
-        ],
-        "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
-        "schoolSlug": "bowling-green",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/griffin-scheiderer/19825",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "bowling-green-19813",
-        "name": "Perry Miller",
-        "school": "Bowling Green",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Perry Miller looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Bowling Green Athletics roster"
-        ],
-        "sourceSummary": "Bowling Green Athletics roster",
-        "schoolSlug": "bowling-green",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/perry-miller/19813",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "bowling-green-19800",
-        "name": "Kade Arn",
-        "school": "Bowling Green",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 20,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Kade Arn looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 8.55",
-          "WHIP 2.05",
-          "K/9 10.8"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "8.55"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.05"
-          },
-          {
-            "label": "K/9",
-            "value": "10.8"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.1"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.80"
-          },
-          {
-            "label": "IP",
-            "value": "20.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 61.81818181818183,
-          "Command": 48.57142857142858,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Bowling Green Athletics roster",
-          "Bowling Green cumulative stats"
-        ],
-        "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
-        "schoolSlug": "bowling-green",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/kade-arn/19800",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "bowling-green-19816",
-        "name": "Sam Seidel",
-        "school": "Bowling Green",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SR",
-        "handedness": "L/R",
-        "score": 36,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Sam Seidel profiles as a INF piece who adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .239",
-          "OBP .363",
-          "SLG .422"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".239"
-          },
-          {
-            "label": "OBP",
-            "value": ".363"
-          },
-          {
-            "label": "SLG",
-            "value": ".422"
-          },
-          {
-            "label": "HR",
-            "value": "7"
-          },
-          {
-            "label": "RBI",
-            "value": "27"
-          },
-          {
-            "label": "SB",
-            "value": "18"
-          }
-        ],
-        "components": {
-          "On-base": 46.11111111111109,
-          "Power": 26.842105263157894,
-          "Contact": 11.874999999999993,
-          "Discipline": 45.41062801932367,
-          "Speed": 60
-        },
-        "metaLine": "SR / L/R",
-        "detailBadges": [
-          "INF",
-          "SR",
-          "L/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Bowling Green Athletics roster",
-          "Bowling Green cumulative stats"
-        ],
-        "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
-        "schoolSlug": "bowling-green",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/sam-seidel/19816",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "bowling-green-19826",
-        "name": "Josh Mommers",
-        "school": "Bowling Green",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "FR",
-        "handedness": "L/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Josh Mommers gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "FR / L/R",
-        "detailBadges": [
-          "INF",
-          "FR",
-          "L/R",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Bowling Green Athletics roster"
-        ],
-        "sourceSummary": "Bowling Green Athletics roster",
-        "schoolSlug": "bowling-green",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/josh-mommers/19826",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "bowling-green-19827",
-        "name": "Vinny Salvione",
-        "school": "Bowling Green",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 12,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Vinny Salvione gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .250",
-          "OBP .287",
-          "SLG .407"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".250"
-          },
-          {
-            "label": "OBP",
-            "value": ".287"
-          },
-          {
-            "label": "SLG",
-            "value": ".407"
-          },
-          {
-            "label": "HR",
-            "value": "4"
-          },
-          {
-            "label": "RBI",
-            "value": "22"
-          },
-          {
-            "label": "SB",
-            "value": "3"
-          }
-        ],
-        "components": {
-          "On-base": 3.8888888888888618,
-          "Power": 22.894736842105257,
-          "Contact": 18.75,
-          "Discipline": 1.5873015873015843,
-          "Speed": 10
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "INF",
-          "JR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Bowling Green Athletics roster",
-          "Bowling Green cumulative stats"
-        ],
-        "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
-        "schoolSlug": "bowling-green",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/vinny-salvione/19827",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "bowling-green-19828",
-        "name": "Andrew Heffernan",
-        "school": "Bowling Green",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 12,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Andrew Heffernan looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA 5.97",
-          "WHIP 1.46",
-          "K/9 6.3"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.97"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.46"
-          },
-          {
-            "label": "K/9",
-            "value": "6.3"
-          },
-          {
-            "label": "BB/9",
-            "value": "1.8"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.19"
-          },
-          {
-            "label": "IP",
-            "value": "60.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 20.592667001506772,
-          "Command": 50,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Bowling Green Athletics roster",
-          "Bowling Green cumulative stats"
-        ],
-        "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
-        "schoolSlug": "bowling-green",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/andrew-heffernan/19828",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "bowling-green-19829",
-        "name": "Andrew DiLodovico",
-        "school": "Bowling Green",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 30,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Andrew DiLodovico gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .266",
-          "OBP .356",
-          "SLG .455"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".266"
-          },
-          {
-            "label": "OBP",
-            "value": ".356"
-          },
-          {
-            "label": "SLG",
-            "value": ".455"
-          },
-          {
-            "label": "HR",
-            "value": "7"
-          },
-          {
-            "label": "RBI",
-            "value": "21"
-          },
-          {
-            "label": "SB",
-            "value": "4"
-          }
-        ],
-        "components": {
-          "On-base": 42.2222222222222,
-          "Power": 35.52631578947369,
-          "Contact": 28.750000000000007,
-          "Discipline": 7.807807807807807,
-          "Speed": 13.333333333333334
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "C",
-          "FR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Bowling Green Athletics roster",
-          "Bowling Green cumulative stats"
-        ],
-        "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
-        "schoolSlug": "bowling-green",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/andrew-dilodovico/19829",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "bowling-green-19810",
-        "name": "Titus Lotz",
-        "school": "Bowling Green",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "R-SO",
-        "handedness": "L/L",
-        "score": 24,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Titus Lotz looks like a LHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 8.46",
-          "WHIP 2.06",
-          "K/9 15.3"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "8.46"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.06"
-          },
-          {
-            "label": "K/9",
-            "value": "15.3"
-          },
-          {
-            "label": "BB/9",
-            "value": "6.9"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.40"
-          },
-          {
-            "label": "IP",
-            "value": "22.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 100,
-          "Command": 24.705882352941178,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-SO / L/L",
-        "detailBadges": [
-          "LHP",
-          "R-SO",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Bowling Green Athletics roster",
-          "Bowling Green cumulative stats"
-        ],
-        "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
-        "schoolSlug": "bowling-green",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/titus-lotz/19810",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "bowling-green-19808",
-        "name": "Luke Krouse",
-        "school": "Bowling Green",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "SR",
-        "handedness": "L/L",
-        "score": 5,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Luke Krouse gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 7.01",
-          "WHIP 2.11",
-          "K/9 6.5"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "7.01"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.11"
-          },
-          {
-            "label": "K/9",
-            "value": "6.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.2"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.82"
-          },
-          {
-            "label": "IP",
-            "value": "34.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 22.639860139860144,
-          "Command": 5,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / L/L",
-        "detailBadges": [
-          "LHP",
-          "SR",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Bowling Green Athletics roster",
-          "Bowling Green cumulative stats"
-        ],
-        "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
-        "schoolSlug": "bowling-green",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/luke-krouse/19808",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "bowling-green-19830",
-        "name": "Chase Clatur",
-        "school": "Bowling Green",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 11,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Chase Clatur looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 10.13",
-          "WHIP 3.19",
-          "K/9 10.1"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "10.13"
-          },
-          {
-            "label": "WHIP",
-            "value": "3.19"
-          },
-          {
-            "label": "K/9",
-            "value": "10.1"
-          },
-          {
-            "label": "BB/9",
-            "value": "11.8"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.69"
-          },
-          {
-            "label": "IP",
-            "value": "5.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 55.68181818181818,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Bowling Green Athletics roster",
-          "Bowling Green cumulative stats"
-        ],
-        "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
-        "schoolSlug": "bowling-green",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/chase-clatur/19830",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "bowling-green-19831",
-        "name": "Lance Vickers",
-        "school": "Bowling Green",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 33,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Lance Vickers profiles as a C piece who adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .268",
-          "OBP .390",
-          "SLG .321"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".268"
-          },
-          {
-            "label": "OBP",
-            "value": ".390"
-          },
-          {
-            "label": "SLG",
-            "value": ".321"
-          },
-          {
-            "label": "HR",
-            "value": "1"
-          },
-          {
-            "label": "RBI",
-            "value": "13"
-          },
-          {
-            "label": "SB",
-            "value": "11"
-          }
-        ],
-        "components": {
-          "On-base": 61.11111111111111,
-          "Power": 0.26315789473684237,
-          "Contact": 30.00000000000001,
-          "Discipline": 31.54121863799283,
-          "Speed": 36.666666666666664
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "C",
-          "JR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Bowling Green Athletics roster",
-          "Bowling Green cumulative stats"
-        ],
-        "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
-        "schoolSlug": "bowling-green",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/lance-vickers/19831",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "bowling-green-19820",
-        "name": "Jacob Turner",
-        "school": "Bowling Green",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 14,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jacob Turner looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA 4.81",
-          "WHIP 1.48",
-          "K/9 7.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.81"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.48"
-          },
-          {
-            "label": "K/9",
-            "value": "7.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "1.8"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.85"
-          },
-          {
-            "label": "IP",
-            "value": "24.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 27.52179327521793,
-          "Command": 55.99999999999999,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Bowling Green Athletics roster",
-          "Bowling Green cumulative stats"
-        ],
-        "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
-        "schoolSlug": "bowling-green",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/jacob-turner/19820",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "bowling-green-19271",
-        "name": "Jaxon Brown",
-        "school": "Bowling Green",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "R-FR",
-        "handedness": "S/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jaxon Brown gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "R-FR / S/R",
-        "detailBadges": [
-          "C",
-          "R-FR",
-          "S/R",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Bowling Green Athletics roster"
-        ],
-        "sourceSummary": "Bowling Green Athletics roster",
-        "schoolSlug": "bowling-green",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/jaxon-brown/19271",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "bowling-green-19832",
-        "name": "Ethan Stade",
-        "school": "Bowling Green",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "R-SR",
-        "handedness": "L/L",
-        "score": 32,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Ethan Stade looks like a LHP option who misses bats and throws enough strikes and keeps traffic under control.",
-        "summaryMetrics": [
-          "ERA 4.36",
-          "WHIP 1.14",
-          "K/9 14.5"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.36"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.14"
-          },
-          {
-            "label": "K/9",
-            "value": "14.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.8"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.70"
-          },
-          {
-            "label": "IP",
-            "value": "64.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 95.3125,
-          "Command": 83,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-SR / L/L",
-        "detailBadges": [
-          "LHP",
-          "R-SR",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Bowling Green Athletics roster",
-          "Bowling Green cumulative stats"
-        ],
-        "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
-        "schoolSlug": "bowling-green",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/ethan-stade/19832",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "bowling-green-19833",
-        "name": "Joey Buchanan",
-        "school": "Bowling Green",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "FR",
-        "handedness": "L/L",
-        "score": 15,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Joey Buchanan looks like a LHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 14.25",
-          "WHIP 2.75",
-          "K/9 11.3"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "14.25"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.75"
-          },
-          {
-            "label": "K/9",
-            "value": "11.3"
-          },
-          {
-            "label": "BB/9",
-            "value": "7.5"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.75"
-          },
-          {
-            "label": "IP",
-            "value": "12.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 65.9090909090909,
-          "Command": 10,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / L/L",
-        "detailBadges": [
-          "LHP",
-          "FR",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Bowling Green Athletics roster",
-          "Bowling Green cumulative stats"
-        ],
-        "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
-        "schoolSlug": "bowling-green",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/joey-buchanan/19833",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "bowling-green-19806",
-        "name": "Zack Horky",
-        "school": "Bowling Green",
-        "role": "Hitter",
-        "position": "C/OF",
-        "classYear": "R-SR",
-        "handedness": "R/R",
-        "score": 20,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Zack Horky profiles as a C/OF piece who adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .252",
-          "OBP .311",
-          "SLG .436"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".252"
-          },
-          {
-            "label": "OBP",
-            "value": ".311"
-          },
-          {
-            "label": "SLG",
-            "value": ".436"
-          },
-          {
-            "label": "HR",
-            "value": "6"
-          },
-          {
-            "label": "RBI",
-            "value": "25"
-          },
-          {
-            "label": "SB",
-            "value": "10"
-          }
-        ],
-        "components": {
-          "On-base": 17.222222222222207,
-          "Power": 30.526315789473685,
-          "Contact": 20,
-          "Discipline": 0,
-          "Speed": 33.33333333333333
-        },
-        "metaLine": "R-SR / R/R",
-        "detailBadges": [
-          "C/OF",
-          "R-SR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Bowling Green Athletics roster",
-          "Bowling Green cumulative stats"
-        ],
-        "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
-        "schoolSlug": "bowling-green",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/zack-horky/19806",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "bowling-green-19834",
-        "name": "Joey Turner",
-        "school": "Bowling Green",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Joey Turner looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Bowling Green Athletics roster"
-        ],
-        "sourceSummary": "Bowling Green Athletics roster",
-        "schoolSlug": "bowling-green",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/joey-turner/19834",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "bowling-green-19835",
-        "name": "Ethan Papacek",
-        "school": "Bowling Green",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "R-JR",
-        "handedness": "R/R",
-        "score": 9,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Ethan Papacek gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 5.40",
-          "WHIP 1.54",
-          "K/9 7.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.40"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.54"
-          },
-          {
-            "label": "K/9",
-            "value": "7.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.34"
-          },
-          {
-            "label": "IP",
-            "value": "26.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 31.136363636363633,
-          "Command": 16.666666666666664,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "R-JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Bowling Green Athletics roster",
-          "Bowling Green cumulative stats"
-        ],
-        "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
-        "schoolSlug": "bowling-green",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/ethan-papacek/19835",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "bowling-green-19812",
-        "name": "Cooper McKenzie",
-        "school": "Bowling Green",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 6,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Cooper McKenzie gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .083",
-          "OBP .267",
-          "SLG .083"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".083"
-          },
-          {
-            "label": "OBP",
-            "value": ".267"
-          },
-          {
-            "label": "SLG",
-            "value": ".083"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "2"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 41.26984126984126,
-          "Speed": 3.3333333333333335
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "C",
-          "SR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Bowling Green Athletics roster",
-          "Bowling Green cumulative stats"
-        ],
-        "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
-        "schoolSlug": "bowling-green",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/cooper-mckenzie/19812",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "bowling-green-19802",
-        "name": "CJ Boudreaux",
-        "school": "Bowling Green",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 5,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "CJ Boudreaux gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 9.53",
-          "WHIP 1.76",
-          "K/9 6.8"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "9.53"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.76"
-          },
-          {
-            "label": "K/9",
-            "value": "6.8"
-          },
-          {
-            "label": "BB/9",
-            "value": "6.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.59"
-          },
-          {
-            "label": "IP",
-            "value": "22.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 25,
-          "Command": 2.6666666666666705,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Bowling Green Athletics roster",
-          "Bowling Green cumulative stats"
-        ],
-        "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
-        "schoolSlug": "bowling-green",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/cj-boudreaux/19802",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "bowling-green-19836",
-        "name": "Anthony Mitta",
-        "school": "Bowling Green",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "R-SR",
-        "handedness": "L/R",
-        "score": 38,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Anthony Mitta gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .298",
-          "OBP .370",
-          "SLG .429"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".298"
-          },
-          {
-            "label": "OBP",
-            "value": ".370"
-          },
-          {
-            "label": "SLG",
-            "value": ".429"
-          },
-          {
-            "label": "HR",
-            "value": "4"
-          },
-          {
-            "label": "RBI",
-            "value": "24"
-          },
-          {
-            "label": "SB",
-            "value": "6"
-          }
-        ],
-        "components": {
-          "On-base": 49.999999999999986,
-          "Power": 28.68421052631579,
-          "Contact": 48.749999999999986,
-          "Discipline": 24.691358024691354,
-          "Speed": 20
-        },
-        "metaLine": "R-SR / L/R",
-        "detailBadges": [
-          "INF",
-          "R-SR",
-          "L/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Bowling Green Athletics roster",
-          "Bowling Green cumulative stats"
-        ],
-        "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
-        "schoolSlug": "bowling-green",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/anthony-mitta/19836",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "bowling-green-19801",
-        "name": "Brady Birchmeier",
-        "school": "Bowling Green",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "R-JR",
-        "handedness": "R/R",
-        "score": 22,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Brady Birchmeier gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .257",
-          "OBP .350",
-          "SLG .371"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".257"
-          },
-          {
-            "label": "OBP",
-            "value": ".350"
-          },
-          {
-            "label": "SLG",
-            "value": ".371"
-          },
-          {
-            "label": "HR",
-            "value": "1"
-          },
-          {
-            "label": "RBI",
-            "value": "5"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
-        "components": {
-          "On-base": 38.888888888888864,
-          "Power": 13.421052631578947,
-          "Contact": 23.125000000000004,
-          "Discipline": 11.111111111111107,
-          "Speed": 3.3333333333333335
-        },
-        "metaLine": "R-JR / R/R",
-        "detailBadges": [
-          "INF",
-          "R-JR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Bowling Green Athletics roster",
-          "Bowling Green cumulative stats"
-        ],
-        "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
-        "schoolSlug": "bowling-green",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/brady-birchmeier/19801",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "brown-24041",
-        "name": "Matt Luigs",
-        "school": "Brown",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Matt Luigs gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "INF",
-          "SO",
-          "R/R",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster"
-        ],
-        "sourceSummary": "Brown Athletics roster",
-        "schoolSlug": "brown",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/matt-luigs/24041",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "brown-24037",
-        "name": "Andrew Hanlon",
-        "school": "Brown",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Andrew Hanlon gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "C",
-          "SR",
-          "R/R",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster"
-        ],
-        "sourceSummary": "Brown Athletics roster",
-        "schoolSlug": "brown",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/andrew-hanlon/24037",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "brown-24029",
-        "name": "Christian Butera",
-        "school": "Brown",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Christian Butera gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "INF",
-          "JR",
-          "R/R",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster"
-        ],
-        "sourceSummary": "Brown Athletics roster",
-        "schoolSlug": "brown",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/christian-butera/24029",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "brown-24027",
-        "name": "Alex Benevento",
-        "school": "Brown",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Alex Benevento gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "OF",
-          "JR",
-          "R/R",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster"
-        ],
-        "sourceSummary": "Brown Athletics roster",
-        "schoolSlug": "brown",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/alex-benevento/24027",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "brown-24040",
-        "name": "Cam LaGrassa",
-        "school": "Brown",
-        "role": "Hitter",
-        "position": "INF/OF",
-        "classYear": "JR",
-        "handedness": "L/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Cam LaGrassa gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "JR / L/R",
-        "detailBadges": [
-          "INF/OF",
-          "JR",
-          "L/R",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster"
-        ],
-        "sourceSummary": "Brown Athletics roster",
-        "schoolSlug": "brown",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/cam-lagrassa/24040",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "brown-24045",
-        "name": "Miles Newsome",
-        "school": "Brown",
-        "role": "Hitter",
-        "position": "INF/OF",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Miles Newsome gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "INF/OF",
-          "SR",
-          "R/R",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster"
-        ],
-        "sourceSummary": "Brown Athletics roster",
-        "schoolSlug": "brown",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/miles-newsome/24045",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "brown-24036",
-        "name": "Jack Edmunds",
-        "school": "Brown",
-        "role": "Hitter",
-        "position": "C/OF",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jack Edmunds gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "C/OF",
-          "JR",
-          "R/R",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster"
-        ],
-        "sourceSummary": "Brown Athletics roster",
-        "schoolSlug": "brown",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/jack-edmunds/24036",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "brown-24049",
-        "name": "Jake Plainte",
-        "school": "Brown",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "JR",
-        "handedness": "R/L",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jake Plainte looks like a LHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / R/L",
-        "detailBadges": [
-          "LHP",
-          "JR",
-          "R/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster"
-        ],
-        "sourceSummary": "Brown Athletics roster",
-        "schoolSlug": "brown",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/jake-plainte/24049",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "brown-24030",
-        "name": "Brandon Chang",
-        "school": "Brown",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Brandon Chang gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "C",
-          "SR",
-          "R/R",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster"
-        ],
-        "sourceSummary": "Brown Athletics roster",
-        "schoolSlug": "brown",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/brandon-chang/24030",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "brown-24035",
-        "name": "Brady Dever",
-        "school": "Brown",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "SR",
-        "handedness": "L/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Brady Dever gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "SR / L/R",
-        "detailBadges": [
-          "OF",
-          "SR",
-          "L/R",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster"
-        ],
-        "sourceSummary": "Brown Athletics roster",
-        "schoolSlug": "brown",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/brady-dever/24035",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "brown-24048",
-        "name": "Camren Piwnicki",
-        "school": "Brown",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Camren Piwnicki looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster"
-        ],
-        "sourceSummary": "Brown Athletics roster",
-        "schoolSlug": "brown",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/camren-piwnicki/24048",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "brown-24039",
-        "name": "Brenden Kline",
-        "school": "Brown",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Brenden Kline looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster"
-        ],
-        "sourceSummary": "Brown Athletics roster",
-        "schoolSlug": "brown",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/brenden-kline/24039",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "brown-24031",
-        "name": "Brendan Chanley",
-        "school": "Brown",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Brendan Chanley looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster"
-        ],
-        "sourceSummary": "Brown Athletics roster",
-        "schoolSlug": "brown",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/brendan-chanley/24031",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "brown-24028",
-        "name": "Porter Berryman",
-        "school": "Brown",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "SO",
-        "handedness": "L/L",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Porter Berryman looks like a LHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / L/L",
-        "detailBadges": [
-          "LHP",
-          "SO",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster"
-        ],
-        "sourceSummary": "Brown Athletics roster",
-        "schoolSlug": "brown",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/porter-berryman/24028",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "brown-24050",
-        "name": "Harssh Ramayanam Venkkat",
-        "school": "Brown",
-        "role": "Pitcher",
-        "position": "INF/RHP",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Harssh Ramayanam Venkkat looks like a INF/RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "INF/RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster"
-        ],
-        "sourceSummary": "Brown Athletics roster",
-        "schoolSlug": "brown",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/harssh-ramayanam-venkkat/24050",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "brown-24043",
-        "name": "Alex Mihailovich",
-        "school": "Brown",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SO",
-        "handedness": "L/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Alex Mihailovich gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "SO / L/R",
-        "detailBadges": [
-          "INF",
-          "SO",
-          "L/R",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster"
-        ],
-        "sourceSummary": "Brown Athletics roster",
-        "schoolSlug": "brown",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/alex-mihailovich/24043",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "brown-24054",
-        "name": "Bryan Yang",
-        "school": "Brown",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Bryan Yang looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster"
-        ],
-        "sourceSummary": "Brown Athletics roster",
-        "schoolSlug": "brown",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/bryan-yang/24054",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "brown-24038",
-        "name": "Ian Keusch",
-        "school": "Brown",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Ian Keusch looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster"
-        ],
-        "sourceSummary": "Brown Athletics roster",
-        "schoolSlug": "brown",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/ian-keusch/24038",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "brown-24042",
-        "name": "Cal McBurney",
-        "school": "Brown",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Cal McBurney looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster"
-        ],
-        "sourceSummary": "Brown Athletics roster",
-        "schoolSlug": "brown",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/cal-mcburney/24042",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "brown-24044",
-        "name": "Drew Nelson",
-        "school": "Brown",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Drew Nelson looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster"
-        ],
-        "sourceSummary": "Brown Athletics roster",
-        "schoolSlug": "brown",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/drew-nelson/24044",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "brown-24047",
-        "name": "Braxton Pearson",
-        "school": "Brown",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Braxton Pearson looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster"
-        ],
-        "sourceSummary": "Brown Athletics roster",
-        "schoolSlug": "brown",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/braxton-pearson/24047",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "brown-24053",
-        "name": "Matt Wilmarth",
-        "school": "Brown",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Matt Wilmarth looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster"
-        ],
-        "sourceSummary": "Brown Athletics roster",
-        "schoolSlug": "brown",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/matt-wilmarth/24053",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "brown-24051",
-        "name": "Luke Sidwell",
-        "school": "Brown",
-        "role": "Hitter",
-        "position": "INF/OF",
-        "classYear": "SR",
-        "handedness": "L/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Luke Sidwell gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "SR / L/R",
-        "detailBadges": [
-          "INF/OF",
-          "SR",
-          "L/R",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster"
-        ],
-        "sourceSummary": "Brown Athletics roster",
-        "schoolSlug": "brown",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/luke-sidwell/24051",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "brown-24052",
-        "name": "Luke Trout",
-        "school": "Brown",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Luke Trout looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster"
-        ],
-        "sourceSummary": "Brown Athletics roster",
-        "schoolSlug": "brown",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/luke-trout/24052",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "brown-24026",
-        "name": "Carter Barth",
-        "school": "Brown",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Carter Barth looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster"
-        ],
-        "sourceSummary": "Brown Athletics roster",
-        "schoolSlug": "brown",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/carter-barth/24026",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "brown-24055",
-        "name": "Joey Benoit",
-        "school": "Brown",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Joey Benoit gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "INF",
-          "FR",
-          "R/R",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster"
-        ],
-        "sourceSummary": "Brown Athletics roster",
-        "schoolSlug": "brown",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/joey-benoit/24055",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "brown-24033",
-        "name": "Logan Choquette",
-        "school": "Brown",
-        "role": "Hitter",
-        "position": "Team IMPACT",
-        "classYear": "N/A",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Logan Choquette gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "N/A / N/A",
-        "detailBadges": [
-          "Team IMPACT",
-          "N/A",
-          "N/A",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster"
-        ],
-        "sourceSummary": "Brown Athletics roster",
-        "schoolSlug": "brown",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/logan-choquette/24033",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "brown-24034",
-        "name": "Nolan Choquette",
-        "school": "Brown",
-        "role": "Hitter",
-        "position": "Team IMPACT",
-        "classYear": "N/A",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Nolan Choquette gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "N/A / N/A",
-        "detailBadges": [
-          "Team IMPACT",
-          "N/A",
-          "N/A",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster"
-        ],
-        "sourceSummary": "Brown Athletics roster",
-        "schoolSlug": "brown",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/nolan-choquette/24034",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "brown-24056",
-        "name": "Jake Chung",
-        "school": "Brown",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jake Chung looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster"
-        ],
-        "sourceSummary": "Brown Athletics roster",
-        "schoolSlug": "brown",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/jake-chung/24056",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "brown-24057",
-        "name": "Morrie Fried",
-        "school": "Brown",
-        "role": "Hitter",
-        "position": "INF/OF",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Morrie Fried gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "INF/OF",
-          "FR",
-          "R/R",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster"
-        ],
-        "sourceSummary": "Brown Athletics roster",
-        "schoolSlug": "brown",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/morrie-fried/24057",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "brown-24058",
-        "name": "Henry Gahagan",
-        "school": "Brown",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "FR",
-        "handedness": "S/L",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Henry Gahagan looks like a LHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / S/L",
-        "detailBadges": [
-          "LHP",
-          "FR",
-          "S/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster"
-        ],
-        "sourceSummary": "Brown Athletics roster",
-        "schoolSlug": "brown",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/henry-gahagan/24058",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "brown-24059",
-        "name": "Nate Kempton",
-        "school": "Brown",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Nate Kempton looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster"
-        ],
-        "sourceSummary": "Brown Athletics roster",
-        "schoolSlug": "brown",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/nate-kempton/24059",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "brown-24060",
-        "name": "Neil MacKinnon",
-        "school": "Brown",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Neil MacKinnon looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster"
-        ],
-        "sourceSummary": "Brown Athletics roster",
-        "schoolSlug": "brown",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/neil-mackinnon/24060",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "brown-24061",
-        "name": "Dane Purdy",
-        "school": "Brown",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Dane Purdy looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster"
-        ],
-        "sourceSummary": "Brown Athletics roster",
-        "schoolSlug": "brown",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/dane-purdy/24061",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "brown-24062",
-        "name": "Cooper Russell",
-        "school": "Brown",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Cooper Russell gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "INF",
-          "FR",
-          "R/R",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster"
-        ],
-        "sourceSummary": "Brown Athletics roster",
-        "schoolSlug": "brown",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/cooper-russell/24062",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "brown-24063",
-        "name": "Logan Studer",
-        "school": "Brown",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Logan Studer gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "C",
-          "FR",
-          "R/R",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster"
-        ],
-        "sourceSummary": "Brown Athletics roster",
-        "schoolSlug": "brown",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/logan-studer/24063",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "brown-24064",
-        "name": "Sean Walsh",
-        "school": "Brown",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "FR",
-        "handedness": "L/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Sean Walsh gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "FR / L/R",
-        "detailBadges": [
-          "INF",
-          "FR",
-          "L/R",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster"
-        ],
-        "sourceSummary": "Brown Athletics roster",
-        "schoolSlug": "brown",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/sean-walsh/24064",
         "espnAthleteId": ""
       },
       {
@@ -43769,2279 +30993,6 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "dartmouth-41218",
-        "name": "Alejandro Puig",
-        "school": "Dartmouth",
-        "role": "Hitter",
-        "position": "SS",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 26,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Alejandro Puig gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .248",
-          "OBP .347",
-          "SLG .318"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".248"
-          },
-          {
-            "label": "OBP",
-            "value": ".347"
-          },
-          {
-            "label": "SLG",
-            "value": ".318"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "12"
-          },
-          {
-            "label": "SB",
-            "value": "7"
-          }
-        ],
-        "components": {
-          "On-base": 37.22222222222219,
-          "Power": 0,
-          "Contact": 17.5,
-          "Discipline": 58.02469135802467,
-          "Speed": 23.333333333333332
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "SS",
-          "SO",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Dartmouth Athletics roster",
-          "Dartmouth cumulative stats"
-        ],
-        "sourceSummary": "Dartmouth Athletics roster + Dartmouth cumulative stats",
-        "schoolSlug": "dartmouth",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/alejandro-puig/41218",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "dartmouth-41228",
-        "name": "Austin Moran",
-        "school": "Dartmouth",
-        "role": "Hitter",
-        "position": "IF",
-        "classYear": "FY",
-        "handedness": "R/R",
-        "score": 11,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Austin Moran gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .159",
-          "OBP .316",
-          "SLG .182"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".159"
-          },
-          {
-            "label": "OBP",
-            "value": ".316"
-          },
-          {
-            "label": "SLG",
-            "value": ".182"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "2"
-          },
-          {
-            "label": "SB",
-            "value": "2"
-          }
-        ],
-        "components": {
-          "On-base": 19.999999999999986,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 29.629629629629623,
-          "Speed": 6.666666666666667
-        },
-        "metaLine": "FY / R/R",
-        "detailBadges": [
-          "IF",
-          "FY",
-          "R/R",
-          "Two-Way"
-        ],
-        "leaderboards": [
-          "Dartmouth Athletics roster",
-          "Dartmouth cumulative stats"
-        ],
-        "sourceSummary": "Dartmouth Athletics roster + Dartmouth cumulative stats",
-        "schoolSlug": "dartmouth",
-        "compositeRole": "Two-Way",
-        "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/austin-moran/41228",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "dartmouth-41204",
-        "name": "Nico Bañez",
-        "school": "Dartmouth",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "SR",
-        "handedness": "L/R",
-        "score": 45,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Nico Bañez profiles as a OF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .239",
-          "OBP .417",
-          "SLG .269"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".239"
-          },
-          {
-            "label": "OBP",
-            "value": ".417"
-          },
-          {
-            "label": "SLG",
-            "value": ".269"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "11"
-          },
-          {
-            "label": "SB",
-            "value": "15"
-          }
-        ],
-        "components": {
-          "On-base": 76.11111111111109,
-          "Power": 0,
-          "Contact": 11.874999999999993,
-          "Discipline": 100,
-          "Speed": 50
-        },
-        "metaLine": "SR / L/R",
-        "detailBadges": [
-          "OF",
-          "SR",
-          "L/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Dartmouth Athletics roster",
-          "Dartmouth cumulative stats"
-        ],
-        "sourceSummary": "Dartmouth Athletics roster + Dartmouth cumulative stats",
-        "schoolSlug": "dartmouth",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/nico-baez/41204",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "dartmouth-41224",
-        "name": "Milo Suarez",
-        "school": "Dartmouth",
-        "role": "Hitter",
-        "position": "IF",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 54,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Milo Suarez profiles as a IF piece who gets on base at a high clip and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .264",
-          "OBP .424",
-          "SLG .448"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".264"
-          },
-          {
-            "label": "OBP",
-            "value": ".424"
-          },
-          {
-            "label": "SLG",
-            "value": ".448"
-          },
-          {
-            "label": "HR",
-            "value": "4"
-          },
-          {
-            "label": "RBI",
-            "value": "20"
-          },
-          {
-            "label": "SB",
-            "value": "9"
-          }
-        ],
-        "components": {
-          "On-base": 79.99999999999999,
-          "Power": 33.684210526315795,
-          "Contact": 27.500000000000007,
-          "Discipline": 84.44444444444443,
-          "Speed": 30
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "IF",
-          "SR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Dartmouth Athletics roster",
-          "Dartmouth cumulative stats"
-        ],
-        "sourceSummary": "Dartmouth Athletics roster + Dartmouth cumulative stats",
-        "schoolSlug": "dartmouth",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/milo-suarez/41224",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "dartmouth-41221",
-        "name": "Camden Rush",
-        "school": "Dartmouth",
-        "role": "Hitter",
-        "position": "IF",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 3,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Camden Rush gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .163",
-          "OBP .265",
-          "SLG .163"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".163"
-          },
-          {
-            "label": "OBP",
-            "value": ".265"
-          },
-          {
-            "label": "SLG",
-            "value": ".163"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "5"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 18.18181818181818,
-          "Speed": 3.3333333333333335
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "IF",
-          "JR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Dartmouth Athletics roster",
-          "Dartmouth cumulative stats"
-        ],
-        "sourceSummary": "Dartmouth Athletics roster + Dartmouth cumulative stats",
-        "schoolSlug": "dartmouth",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/camden-rush/41221",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "dartmouth-41207",
-        "name": "A.J. DeMastrie",
-        "school": "Dartmouth",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "JR",
-        "handedness": "S/R",
-        "score": 22,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "A.J. DeMastrie gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .266",
-          "OBP .333",
-          "SLG .394"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".266"
-          },
-          {
-            "label": "OBP",
-            "value": ".333"
-          },
-          {
-            "label": "SLG",
-            "value": ".394"
-          },
-          {
-            "label": "HR",
-            "value": "2"
-          },
-          {
-            "label": "RBI",
-            "value": "14"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
-        "components": {
-          "On-base": 29.44444444444444,
-          "Power": 19.473684210526322,
-          "Contact": 28.750000000000007,
-          "Discipline": 11.594202898550723,
-          "Speed": 3.3333333333333335
-        },
-        "metaLine": "JR / S/R",
-        "detailBadges": [
-          "C",
-          "JR",
-          "S/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Dartmouth Athletics roster",
-          "Dartmouth cumulative stats"
-        ],
-        "sourceSummary": "Dartmouth Athletics roster + Dartmouth cumulative stats",
-        "schoolSlug": "dartmouth",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/aj-demastrie/41207",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "dartmouth-41223",
-        "name": "Tyler Sirchia",
-        "school": "Dartmouth",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "SO",
-        "handedness": "L/R",
-        "score": 37,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Tyler Sirchia gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .274",
-          "OBP .375",
-          "SLG .419"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".274"
-          },
-          {
-            "label": "OBP",
-            "value": ".375"
-          },
-          {
-            "label": "SLG",
-            "value": ".419"
-          },
-          {
-            "label": "HR",
-            "value": "2"
-          },
-          {
-            "label": "RBI",
-            "value": "11"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 52.77777777777777,
-          "Power": 26.052631578947366,
-          "Contact": 33.750000000000014,
-          "Discipline": 54.700854700854684,
-          "Speed": 0
-        },
-        "metaLine": "SO / L/R",
-        "detailBadges": [
-          "C",
-          "SO",
-          "L/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Dartmouth Athletics roster",
-          "Dartmouth cumulative stats"
-        ],
-        "sourceSummary": "Dartmouth Athletics roster + Dartmouth cumulative stats",
-        "schoolSlug": "dartmouth",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/tyler-sirchia/41223",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "dartmouth-41225",
-        "name": "Sam Andersen",
-        "school": "Dartmouth",
-        "role": "Hitter",
-        "position": "IF/OF",
-        "classYear": "FY",
-        "handedness": "R/R",
-        "score": 26,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Sam Andersen profiles as a IF/OF piece who adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .239",
-          "OBP .353",
-          "SLG .301"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".239"
-          },
-          {
-            "label": "OBP",
-            "value": ".353"
-          },
-          {
-            "label": "SLG",
-            "value": ".301"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "17"
-          },
-          {
-            "label": "SB",
-            "value": "10"
-          }
-        ],
-        "components": {
-          "On-base": 40.555555555555536,
-          "Power": 0,
-          "Contact": 11.874999999999993,
-          "Discipline": 53.53535353535352,
-          "Speed": 33.33333333333333
-        },
-        "metaLine": "FY / R/R",
-        "detailBadges": [
-          "IF/OF",
-          "FY",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Dartmouth Athletics roster",
-          "Dartmouth cumulative stats"
-        ],
-        "sourceSummary": "Dartmouth Athletics roster + Dartmouth cumulative stats",
-        "schoolSlug": "dartmouth",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/sam-andersen/41225",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "dartmouth-41227",
-        "name": "Jack Espiritu-Niswonger",
-        "school": "Dartmouth",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "FY",
-        "handedness": "R/R",
-        "score": 62,
-        "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
-        },
-        "summary": "Jack Espiritu-Niswonger profiles as a C piece who gets on base at a high clip.",
-        "summaryMetrics": [
-          "AVG .345",
-          "OBP .456",
-          "SLG .382"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".345"
-          },
-          {
-            "label": "OBP",
-            "value": ".456"
-          },
-          {
-            "label": "SLG",
-            "value": ".382"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "8"
-          },
-          {
-            "label": "SB",
-            "value": "6"
-          }
-        ],
-        "components": {
-          "On-base": 97.77777777777777,
-          "Power": 16.315789473684212,
-          "Contact": 78.12499999999997,
-          "Discipline": 74.99999999999999,
-          "Speed": 20
-        },
-        "metaLine": "FY / R/R",
-        "detailBadges": [
-          "C",
-          "FY",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Dartmouth Athletics roster",
-          "Dartmouth cumulative stats"
-        ],
-        "sourceSummary": "Dartmouth Athletics roster + Dartmouth cumulative stats",
-        "schoolSlug": "dartmouth",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/jack-espirituniswonger/41227",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "dartmouth-41208",
-        "name": "Stefan Di Corrado",
-        "school": "Dartmouth",
-        "role": "Hitter",
-        "position": "IF/OF",
-        "classYear": "SO",
-        "handedness": "L/R",
-        "score": 2,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Stefan Di Corrado gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .163",
-          "OBP .278",
-          "SLG .261"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".163"
-          },
-          {
-            "label": "OBP",
-            "value": ".278"
-          },
-          {
-            "label": "SLG",
-            "value": ".261"
-          },
-          {
-            "label": "HR",
-            "value": "1"
-          },
-          {
-            "label": "RBI",
-            "value": "13"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 14.814814814814808,
-          "Speed": 3.3333333333333335
-        },
-        "metaLine": "SO / L/R",
-        "detailBadges": [
-          "IF/OF",
-          "SO",
-          "L/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Dartmouth Athletics roster",
-          "Dartmouth cumulative stats"
-        ],
-        "sourceSummary": "Dartmouth Athletics roster + Dartmouth cumulative stats",
-        "schoolSlug": "dartmouth",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/stefan-di-corrado/41208",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "dartmouth-41214",
-        "name": "Bryce Loeger",
-        "school": "Dartmouth",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Bryce Loeger looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Dartmouth Athletics roster"
-        ],
-        "sourceSummary": "Dartmouth Athletics roster",
-        "schoolSlug": "dartmouth",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/bryce-loeger/41214",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "dartmouth-41213",
-        "name": "Nate Kugler",
-        "school": "Dartmouth",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 5,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Nate Kugler looks like a RHP option who limits runs.",
-        "summaryMetrics": [
-          "ERA 3.35",
-          "WHIP 1.29",
-          "K/9 5.7"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.35"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.29"
-          },
-          {
-            "label": "K/9",
-            "value": "5.7"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.4"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.59"
-          },
-          {
-            "label": "IP",
-            "value": "45.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 15.593895155938958,
-          "Command": 14.117647058823533,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Dartmouth Athletics roster",
-          "Dartmouth cumulative stats"
-        ],
-        "sourceSummary": "Dartmouth Athletics roster + Dartmouth cumulative stats",
-        "schoolSlug": "dartmouth",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/nate-kugler/41213",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "dartmouth-41217",
-        "name": "Aidan Plummer",
-        "school": "Dartmouth",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 1,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Aidan Plummer looks like a RHP option who limits runs.",
-        "summaryMetrics": [
-          "ERA 3.95",
-          "WHIP 1.90",
-          "K/9 4.6"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.95"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.90"
-          },
-          {
-            "label": "K/9",
-            "value": "4.6"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.6"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.66"
-          },
-          {
-            "label": "IP",
-            "value": "13.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 5.543237250554329,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Dartmouth Athletics roster",
-          "Dartmouth cumulative stats"
-        ],
-        "sourceSummary": "Dartmouth Athletics roster + Dartmouth cumulative stats",
-        "schoolSlug": "dartmouth",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/aidan-plummer/41217",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "dartmouth-41203",
-        "name": "Eddie Albert",
-        "school": "Dartmouth",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 20,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Eddie Albert looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
-        "summaryMetrics": [
-          "ERA 3.72",
-          "WHIP 1.03",
-          "K/9 10.2"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.72"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.03"
-          },
-          {
-            "label": "K/9",
-            "value": "10.2"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.8"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.93"
-          },
-          {
-            "label": "IP",
-            "value": "9.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 56.739811912225704,
-          "Command": 53.333333333333336,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Dartmouth Athletics roster",
-          "Dartmouth cumulative stats"
-        ],
-        "sourceSummary": "Dartmouth Athletics roster + Dartmouth cumulative stats",
-        "schoolSlug": "dartmouth",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/eddie-albert/41203",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "dartmouth-41230",
-        "name": "Mason Smith",
-        "school": "Dartmouth",
-        "role": "Hitter",
-        "position": "IF",
-        "classYear": "FY",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Mason Smith gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .143",
-          "OBP .250",
-          "SLG .143"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".143"
-          },
-          {
-            "label": "OBP",
-            "value": ".250"
-          },
-          {
-            "label": "SLG",
-            "value": ".143"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "2"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 3.3333333333333335
-        },
-        "metaLine": "FY / R/R",
-        "detailBadges": [
-          "IF",
-          "FY",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Dartmouth Athletics roster",
-          "Dartmouth cumulative stats"
-        ],
-        "sourceSummary": "Dartmouth Athletics roster + Dartmouth cumulative stats",
-        "schoolSlug": "dartmouth",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/mason-smith/41230",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "dartmouth-41231",
-        "name": "Gus Begert",
-        "school": "Dartmouth",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "FY",
-        "handedness": "R/R",
-        "score": 20,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Gus Begert gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .182",
-          "OBP .357",
-          "SLG .182"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".182"
-          },
-          {
-            "label": "OBP",
-            "value": ".357"
-          },
-          {
-            "label": "SLG",
-            "value": ".182"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "1"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 42.77777777777775,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 44.444444444444436,
-          "Speed": 0
-        },
-        "metaLine": "FY / R/R",
-        "detailBadges": [
-          "OF",
-          "FY",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Dartmouth Athletics roster",
-          "Dartmouth cumulative stats"
-        ],
-        "sourceSummary": "Dartmouth Athletics roster + Dartmouth cumulative stats",
-        "schoolSlug": "dartmouth",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/gus-begert/41231",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "dartmouth-41205",
-        "name": "Ethan Brown",
-        "school": "Dartmouth",
-        "role": "Hitter",
-        "position": "IF",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Ethan Brown gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "IF",
-          "JR",
-          "R/R",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Dartmouth Athletics roster"
-        ],
-        "sourceSummary": "Dartmouth Athletics roster",
-        "schoolSlug": "dartmouth",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/ethan-brown/41205",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "dartmouth-41232",
-        "name": "Henry Murray",
-        "school": "Dartmouth",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "FY",
-        "handedness": "S/R",
-        "score": 19,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Henry Murray gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .244",
-          "OBP .340",
-          "SLG .349"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".244"
-          },
-          {
-            "label": "OBP",
-            "value": ".340"
-          },
-          {
-            "label": "SLG",
-            "value": ".349"
-          },
-          {
-            "label": "HR",
-            "value": "1"
-          },
-          {
-            "label": "RBI",
-            "value": "12"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
-        "components": {
-          "On-base": 33.33333333333333,
-          "Power": 7.631578947368414,
-          "Contact": 14.999999999999996,
-          "Discipline": 26.388888888888886,
-          "Speed": 3.3333333333333335
-        },
-        "metaLine": "FY / S/R",
-        "detailBadges": [
-          "OF",
-          "FY",
-          "S/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Dartmouth Athletics roster",
-          "Dartmouth cumulative stats"
-        ],
-        "sourceSummary": "Dartmouth Athletics roster + Dartmouth cumulative stats",
-        "schoolSlug": "dartmouth",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/henry-murray/41232",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "dartmouth-41219",
-        "name": "Axel Riess",
-        "school": "Dartmouth",
-        "role": "Hitter",
-        "position": "CF",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 32,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Axel Riess gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .300",
-          "OBP .364",
-          "SLG .367"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".300"
-          },
-          {
-            "label": "OBP",
-            "value": ".364"
-          },
-          {
-            "label": "SLG",
-            "value": ".367"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "3"
-          },
-          {
-            "label": "SB",
-            "value": "5"
-          }
-        ],
-        "components": {
-          "On-base": 46.66666666666665,
-          "Power": 12.368421052631577,
-          "Contact": 49.999999999999986,
-          "Discipline": 25.39682539682539,
-          "Speed": 16.666666666666664
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "CF",
-          "SO",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Dartmouth Athletics roster",
-          "Dartmouth cumulative stats"
-        ],
-        "sourceSummary": "Dartmouth Athletics roster + Dartmouth cumulative stats",
-        "schoolSlug": "dartmouth",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/axel-riess/41219",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "dartmouth-41212",
-        "name": "Kyle Klaric-Schell",
-        "school": "Dartmouth",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 13,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Kyle Klaric-Schell looks like a RHP option who limits runs and throws enough strikes and keeps traffic under control.",
-        "summaryMetrics": [
-          "ERA 3.42",
-          "WHIP 1.18",
-          "K/9 7.9"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.42"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.18"
-          },
-          {
-            "label": "K/9",
-            "value": "7.9"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.7"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.03"
-          },
-          {
-            "label": "IP",
-            "value": "26.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 35.09781357882623,
-          "Command": 37.5,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Dartmouth Athletics roster",
-          "Dartmouth cumulative stats"
-        ],
-        "sourceSummary": "Dartmouth Athletics roster + Dartmouth cumulative stats",
-        "schoolSlug": "dartmouth",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/kyle-klaricschell/41212",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "dartmouth-41211",
-        "name": "Nate Isler",
-        "school": "Dartmouth",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 20,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Nate Isler looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 4.98",
-          "WHIP 1.43",
-          "K/9 11.1"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.98"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.43"
-          },
-          {
-            "label": "K/9",
-            "value": "11.1"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.5"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.14"
-          },
-          {
-            "label": "IP",
-            "value": "65.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 64.33566433566433,
-          "Command": 43.99999999999999,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Dartmouth Athletics roster",
-          "Dartmouth cumulative stats"
-        ],
-        "sourceSummary": "Dartmouth Athletics roster + Dartmouth cumulative stats",
-        "schoolSlug": "dartmouth",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/nate-isler/41211",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "dartmouth-41206",
-        "name": "Mac Burke",
-        "school": "Dartmouth",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 15,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Mac Burke looks like a RHP option who limits runs and throws enough strikes and keeps traffic under control.",
-        "summaryMetrics": [
-          "ERA 2.19",
-          "WHIP 0.95",
-          "K/9 8.3"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "2.19"
-          },
-          {
-            "label": "WHIP",
-            "value": "0.95"
-          },
-          {
-            "label": "K/9",
-            "value": "8.3"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.4"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.24"
-          },
-          {
-            "label": "IP",
-            "value": "37.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 38.82063882063882,
-          "Command": 48,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Dartmouth Athletics roster",
-          "Dartmouth cumulative stats"
-        ],
-        "sourceSummary": "Dartmouth Athletics roster + Dartmouth cumulative stats",
-        "schoolSlug": "dartmouth",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/mac-burke/41206",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "dartmouth-41216",
-        "name": "Chris Miller",
-        "school": "Dartmouth",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 12,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Chris Miller profiles as a OF piece who adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .211",
-          "OBP .306",
-          "SLG .274"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".211"
-          },
-          {
-            "label": "OBP",
-            "value": ".306"
-          },
-          {
-            "label": "SLG",
-            "value": ".274"
-          },
-          {
-            "label": "HR",
-            "value": "1"
-          },
-          {
-            "label": "RBI",
-            "value": "9"
-          },
-          {
-            "label": "SB",
-            "value": "8"
-          }
-        ],
-        "components": {
-          "On-base": 14.444444444444427,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 35.748792270531396,
-          "Speed": 26.666666666666668
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "OF",
-          "JR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Dartmouth Athletics roster",
-          "Dartmouth cumulative stats"
-        ],
-        "sourceSummary": "Dartmouth Athletics roster + Dartmouth cumulative stats",
-        "schoolSlug": "dartmouth",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/chris-miller/41216",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "dartmouth-41220",
-        "name": "Taer Rodriguez",
-        "school": "Dartmouth",
-        "role": "Hitter",
-        "position": "IF",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 5,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Taer Rodriguez gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .203",
-          "OBP .286",
-          "SLG .280"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".203"
-          },
-          {
-            "label": "OBP",
-            "value": ".286"
-          },
-          {
-            "label": "SLG",
-            "value": ".280"
-          },
-          {
-            "label": "HR",
-            "value": "2"
-          },
-          {
-            "label": "RBI",
-            "value": "15"
-          },
-          {
-            "label": "SB",
-            "value": "4"
-          }
-        ],
-        "components": {
-          "On-base": 3.3333333333333055,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 19.923371647509573,
-          "Speed": 13.333333333333334
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "IF",
-          "SR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Dartmouth Athletics roster",
-          "Dartmouth cumulative stats"
-        ],
-        "sourceSummary": "Dartmouth Athletics roster + Dartmouth cumulative stats",
-        "schoolSlug": "dartmouth",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/taer-rodriguez/41220",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "dartmouth-41229",
-        "name": "Izzy Parsky",
-        "school": "Dartmouth",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "FY",
-        "handedness": "R/R",
-        "score": 7,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Izzy Parsky gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 4.63",
-          "WHIP 1.89",
-          "K/9 7.7"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.63"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.89"
-          },
-          {
-            "label": "K/9",
-            "value": "7.7"
-          },
-          {
-            "label": "BB/9",
-            "value": "7.7"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.77"
-          },
-          {
-            "label": "IP",
-            "value": "11.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 33.76623376623377,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "FY / R/R",
-        "detailBadges": [
-          "RHP",
-          "FY",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Dartmouth Athletics roster",
-          "Dartmouth cumulative stats"
-        ],
-        "sourceSummary": "Dartmouth Athletics roster + Dartmouth cumulative stats",
-        "schoolSlug": "dartmouth",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/izzy-parsky/41229",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "dartmouth-41215",
-        "name": "Andrew Lombana",
-        "school": "Dartmouth",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "SO",
-        "handedness": "L/L",
-        "score": 4,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Andrew Lombana gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 4.21",
-          "WHIP 1.32",
-          "K/9 5.6"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.21"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.32"
-          },
-          {
-            "label": "K/9",
-            "value": "5.6"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.9"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.35"
-          },
-          {
-            "label": "IP",
-            "value": "25.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 14.63990554899646,
-          "Command": 9.090909090909097,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / L/L",
-        "detailBadges": [
-          "LHP",
-          "SO",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Dartmouth Athletics roster",
-          "Dartmouth cumulative stats"
-        ],
-        "sourceSummary": "Dartmouth Athletics roster + Dartmouth cumulative stats",
-        "schoolSlug": "dartmouth",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/andrew-lombana/41215",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "dartmouth-41222",
-        "name": "Trey Sejnoha",
-        "school": "Dartmouth",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 17,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Trey Sejnoha looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 4.34",
-          "WHIP 1.37",
-          "K/9 11.3"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.34"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.37"
-          },
-          {
-            "label": "K/9",
-            "value": "11.3"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.1"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "37.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 66.63961038961038,
-          "Command": 24.761904761904763,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Dartmouth Athletics roster",
-          "Dartmouth cumulative stats"
-        ],
-        "sourceSummary": "Dartmouth Athletics roster + Dartmouth cumulative stats",
-        "schoolSlug": "dartmouth",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/trey-sejnoha/41222",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "dartmouth-41209",
-        "name": "Marco Dumsky",
-        "school": "Dartmouth",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 10,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Marco Dumsky gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 5.80",
-          "WHIP 1.79",
-          "K/9 8.5"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.80"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.79"
-          },
-          {
-            "label": "K/9",
-            "value": "8.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.1"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.89"
-          },
-          {
-            "label": "IP",
-            "value": "40.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 40.72126220886551,
-          "Command": 13.043478260869565,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Dartmouth Athletics roster",
-          "Dartmouth cumulative stats"
-        ],
-        "sourceSummary": "Dartmouth Athletics roster + Dartmouth cumulative stats",
-        "schoolSlug": "dartmouth",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/marco-dumsky/41209",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "dartmouth-41210",
-        "name": "Joey Gizmunt",
-        "school": "Dartmouth",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "L/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Joey Gizmunt gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 81.00",
-          "WHIP 6.00",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "81.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "6.00"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "54.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / L/R",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "L/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Dartmouth Athletics roster",
-          "Dartmouth cumulative stats"
-        ],
-        "sourceSummary": "Dartmouth Athletics roster + Dartmouth cumulative stats",
-        "schoolSlug": "dartmouth",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/joey-gizmunt/41210",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "dartmouth-41234",
-        "name": "Zach Messina",
-        "school": "Dartmouth",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "FY",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Zach Messina looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "FY / N/A",
-        "detailBadges": [
-          "RHP",
-          "FY",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Dartmouth Athletics roster"
-        ],
-        "sourceSummary": "Dartmouth Athletics roster",
-        "schoolSlug": "dartmouth",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/zach-messina/41234",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "dartmouth-41226",
-        "name": "Nathan Matoush",
-        "school": "Dartmouth",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "FY",
-        "handedness": "L/L",
-        "score": 6,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Nathan Matoush gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 4.05",
-          "WHIP 1.46",
-          "K/9 6.8"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.05"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.46"
-          },
-          {
-            "label": "K/9",
-            "value": "6.8"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.7"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.34"
-          },
-          {
-            "label": "IP",
-            "value": "26.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 25,
-          "Command": 3.529411764705883,
-          "Damage suppression": 0
-        },
-        "metaLine": "FY / L/L",
-        "detailBadges": [
-          "LHP",
-          "FY",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Dartmouth Athletics roster",
-          "Dartmouth cumulative stats"
-        ],
-        "sourceSummary": "Dartmouth Athletics roster + Dartmouth cumulative stats",
-        "schoolSlug": "dartmouth",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/nathan-matoush/41226",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "dartmouth-41235",
-        "name": "Fraser Smith",
-        "school": "Dartmouth",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "FY",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Fraser Smith gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 36.00",
-          "WHIP 3.00",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "36.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "3.00"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "18.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "1.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "FY / N/A",
-        "detailBadges": [
-          "RHP",
-          "FY",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Dartmouth Athletics roster",
-          "Dartmouth cumulative stats"
-        ],
-        "sourceSummary": "Dartmouth Athletics roster + Dartmouth cumulative stats",
-        "schoolSlug": "dartmouth",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/fraser-smith/41235",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "dartmouth-41233",
-        "name": "Lincoln Hamid",
-        "school": "Dartmouth",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "FY",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Lincoln Hamid gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "FY / N/A",
-        "detailBadges": [
-          "C",
-          "FY",
-          "N/A",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Dartmouth Athletics roster"
-        ],
-        "sourceSummary": "Dartmouth Athletics roster",
-        "schoolSlug": "dartmouth",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://dartmouthsports.com/sports/baseball/roster/lincoln-hamid/41233",
-        "espnAthleteId": ""
-      },
-      {
         "id": "davidson-11601",
         "name": "Justin Higgins",
         "school": "Davidson",
@@ -54007,6 +38958,2812 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "espnAthleteId": ""
       },
       {
+        "id": "east-carolina-14127",
+        "name": "Jeff Sabater",
+        "school": "East Carolina",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "GR",
+        "handedness": "L/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jeff Sabater gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "GR / L/R",
+        "detailBadges": [
+          "OF",
+          "GR",
+          "L/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/jeff-sabater/14127",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14128",
+        "name": "Carlos Jacome",
+        "school": "East Carolina",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "3RD YR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Carlos Jacome gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "3RD YR / R/R",
+        "detailBadges": [
+          "INF",
+          "3RD YR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/carlos-jacome/14128",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14543",
+        "name": "Jack Strom",
+        "school": "East Carolina",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "1ST YR",
+        "handedness": "L/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jack Strom gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "1ST YR / L/R",
+        "detailBadges": [
+          "OF",
+          "1ST YR",
+          "L/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/jack-strom/14543",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14550",
+        "name": "Davin Whitaker",
+        "school": "East Carolina",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "R-SO",
+        "handedness": "L/R",
+        "score": 63,
+        "fit": {
+          "label": "Monitor",
+          "className": "fit-monitor"
+        },
+        "summary": "Davin Whitaker profiles as a OF piece who gets on base at a high clip and brings real extra-base damage.",
+        "summaryMetrics": [
+          "AVG .323",
+          "OBP .428",
+          "SLG .554"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".323"
+          },
+          {
+            "label": "OBP",
+            "value": ".428"
+          },
+          {
+            "label": "SLG",
+            "value": ".554"
+          },
+          {
+            "label": "HR",
+            "value": "10"
+          },
+          {
+            "label": "RBI",
+            "value": "45"
+          },
+          {
+            "label": "SB",
+            "value": "6"
+          }
+        ],
+        "components": {
+          "On-base": 82.22222222222221,
+          "Power": 61.57894736842107,
+          "Contact": 64.375,
+          "Discipline": 50.241545893719795,
+          "Speed": 20
+        },
+        "metaLine": "R-SO / L/R",
+        "detailBadges": [
+          "OF",
+          "R-SO",
+          "L/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster",
+          "East Carolina cumulative stats"
+        ],
+        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/davin-whitaker/14550",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14538",
+        "name": "Nick Parham",
+        "school": "East Carolina",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "3RD YR",
+        "handedness": "L/R",
+        "score": 6,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Nick Parham gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .205",
+          "OBP .300",
+          "SLG .318"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".205"
+          },
+          {
+            "label": "OBP",
+            "value": ".300"
+          },
+          {
+            "label": "SLG",
+            "value": ".318"
+          },
+          {
+            "label": "HR",
+            "value": "2"
+          },
+          {
+            "label": "RBI",
+            "value": "11"
+          },
+          {
+            "label": "SB",
+            "value": "3"
+          }
+        ],
+        "components": {
+          "On-base": 11.111111111111091,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 11.111111111111107,
+          "Speed": 10
+        },
+        "metaLine": "3RD YR / L/R",
+        "detailBadges": [
+          "INF",
+          "3RD YR",
+          "L/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster",
+          "East Carolina cumulative stats"
+        ],
+        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/nick-parham/14538",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14531",
+        "name": "Gabe Beschloss",
+        "school": "East Carolina",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "2ND YR",
+        "handedness": "L/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Gabe Beschloss looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "2ND YR / L/L",
+        "detailBadges": [
+          "LHP",
+          "2ND YR",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/gabe-beschloss/14531",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-13913",
+        "name": "Dawson Neal",
+        "school": "East Carolina",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "4TH YR",
+        "handedness": "L/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Dawson Neal looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "4TH YR / L/L",
+        "detailBadges": [
+          "LHP",
+          "4TH YR",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/dawson-neal/13913",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14544",
+        "name": "Ryan Towers",
+        "school": "East Carolina",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "R-JR",
+        "handedness": "L/L",
+        "score": 8,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Ryan Towers looks like a LHP option who limits runs.",
+        "summaryMetrics": [
+          "ERA 3.39",
+          "WHIP 1.27",
+          "K/9 6.9"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "3.39"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.27"
+          },
+          {
+            "label": "K/9",
+            "value": "6.9"
+          },
+          {
+            "label": "BB/9",
+            "value": "3.7"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.08"
+          },
+          {
+            "label": "IP",
+            "value": "58.3"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 26.753246753246746,
+          "Command": 17.499999999999996,
+          "Damage suppression": 0
+        },
+        "metaLine": "R-JR / L/L",
+        "detailBadges": [
+          "LHP",
+          "R-JR",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster",
+          "East Carolina cumulative stats"
+        ],
+        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/ryan-towers/14544",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-13900",
+        "name": "Alex Bouche",
+        "school": "East Carolina",
+        "role": "Hitter",
+        "position": "UTL",
+        "classYear": "4TH YR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Alex Bouche gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "4TH YR / R/R",
+        "detailBadges": [
+          "UTL",
+          "4TH YR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/alex-bouche/13900",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14527",
+        "name": "Brett Antolick",
+        "school": "East Carolina",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "R-SO",
+        "handedness": "R/R",
+        "score": 27,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Brett Antolick looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 7.91",
+          "WHIP 1.71",
+          "K/9 14.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "7.91"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.71"
+          },
+          {
+            "label": "K/9",
+            "value": "14.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "3.7"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.86"
+          },
+          {
+            "label": "IP",
+            "value": "19.3"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 90.59561128526646,
+          "Command": 55.00000000000001,
+          "Damage suppression": 0
+        },
+        "metaLine": "R-SO / R/R",
+        "detailBadges": [
+          "RHP",
+          "R-SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster",
+          "East Carolina cumulative stats"
+        ],
+        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/brett-antolick/14527",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14548",
+        "name": "Colby Wallace",
+        "school": "East Carolina",
+        "role": "Pitcher",
+        "position": "INF/RHP",
+        "classYear": "3RD YR",
+        "handedness": "R/R",
+        "score": 16,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Colby Wallace looks like a INF/RHP option who limits runs and throws enough strikes.",
+        "summaryMetrics": [
+          "ERA 0.00",
+          "WHIP 1.50",
+          "K/9 3.4"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "0.00"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.50"
+          },
+          {
+            "label": "K/9",
+            "value": "3.4"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "2.7"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 100,
+          "Damage suppression": 0
+        },
+        "metaLine": "3RD YR / R/R",
+        "detailBadges": [
+          "INF/RHP",
+          "3RD YR",
+          "R/R",
+          "Two-Way"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster",
+          "East Carolina cumulative stats"
+        ],
+        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Two-Way",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/colby-wallace/14548",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14541",
+        "name": "Alex Peltier",
+        "school": "East Carolina",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "2ND YR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Alex Peltier gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .000",
+          "OBP .000",
+          "SLG .000"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".000"
+          },
+          {
+            "label": "OBP",
+            "value": ".000"
+          },
+          {
+            "label": "SLG",
+            "value": ".000"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "1"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 3.3333333333333335
+        },
+        "metaLine": "2ND YR / R/R",
+        "detailBadges": [
+          "OF",
+          "2ND YR",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster",
+          "East Carolina cumulative stats"
+        ],
+        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/alex-peltier/14541",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14536",
+        "name": "Grady Lenahan",
+        "school": "East Carolina",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "1ST YR",
+        "handedness": "R/R",
+        "score": 56,
+        "fit": {
+          "label": "Monitor",
+          "className": "fit-monitor"
+        },
+        "summary": "Grady Lenahan profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
+        "summaryMetrics": [
+          "AVG .300",
+          "OBP .402",
+          "SLG .526"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".300"
+          },
+          {
+            "label": "OBP",
+            "value": ".402"
+          },
+          {
+            "label": "SLG",
+            "value": ".526"
+          },
+          {
+            "label": "HR",
+            "value": "9"
+          },
+          {
+            "label": "RBI",
+            "value": "48"
+          },
+          {
+            "label": "SB",
+            "value": "11"
+          }
+        ],
+        "components": {
+          "On-base": 67.77777777777779,
+          "Power": 54.21052631578949,
+          "Contact": 49.999999999999986,
+          "Discipline": 50.42735042735041,
+          "Speed": 36.666666666666664
+        },
+        "metaLine": "1ST YR / R/R",
+        "detailBadges": [
+          "OF",
+          "1ST YR",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster",
+          "East Carolina cumulative stats"
+        ],
+        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/grady-lenahan/14536",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-13909",
+        "name": "Michael Kalinich",
+        "school": "East Carolina",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "2ND YR",
+        "handedness": "L/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Michael Kalinich gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "2ND YR / L/R",
+        "detailBadges": [
+          "C",
+          "2ND YR",
+          "L/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/michael-kalinich/13909",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14131",
+        "name": "Matt Lashley",
+        "school": "East Carolina",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "3RD YR",
+        "handedness": "L/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Matt Lashley gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "3RD YR / L/R",
+        "detailBadges": [
+          "INF",
+          "3RD YR",
+          "L/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/matt-lashley/14131",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-13902",
+        "name": "Parker Byrd",
+        "school": "East Carolina",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "4TH YR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Parker Byrd gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "4TH YR / R/R",
+        "detailBadges": [
+          "INF",
+          "4TH YR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/parker-byrd/13902",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-13914",
+        "name": "Ethan Norby",
+        "school": "East Carolina",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "3RD YR",
+        "handedness": "L/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Ethan Norby looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "3RD YR / L/L",
+        "detailBadges": [
+          "LHP",
+          "3RD YR",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/ethan-norby/13914",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-13903",
+        "name": "Jackson DiLorenzo",
+        "school": "East Carolina",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "3RD YR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jackson DiLorenzo looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "3RD YR / R/R",
+        "detailBadges": [
+          "RHP",
+          "3RD YR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/jackson-dilorenzo/13903",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14132",
+        "name": "Frank Ciccone",
+        "school": "East Carolina",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "4TH YR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Frank Ciccone looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "4TH YR / R/R",
+        "detailBadges": [
+          "RHP",
+          "4TH YR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/frank-ciccone/14132",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-13906",
+        "name": "Austin Irby",
+        "school": "East Carolina",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "2ND YR",
+        "handedness": "L/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Austin Irby gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "2ND YR / L/R",
+        "detailBadges": [
+          "INF",
+          "2ND YR",
+          "L/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/austin-irby/13906",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14529",
+        "name": "Walker Barron",
+        "school": "East Carolina",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "3RD YR",
+        "handedness": "R/R",
+        "score": 33,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Walker Barron gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .281",
+          "OBP .358",
+          "SLG .416"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".281"
+          },
+          {
+            "label": "OBP",
+            "value": ".358"
+          },
+          {
+            "label": "SLG",
+            "value": ".416"
+          },
+          {
+            "label": "HR",
+            "value": "6"
+          },
+          {
+            "label": "RBI",
+            "value": "36"
+          },
+          {
+            "label": "SB",
+            "value": "1"
+          }
+        ],
+        "components": {
+          "On-base": 43.333333333333314,
+          "Power": 25.26315789473684,
+          "Contact": 38.125000000000014,
+          "Discipline": 34.83483483483483,
+          "Speed": 3.3333333333333335
+        },
+        "metaLine": "3RD YR / R/R",
+        "detailBadges": [
+          "C",
+          "3RD YR",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster",
+          "East Carolina cumulative stats"
+        ],
+        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/walker-barron/14529",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14545",
+        "name": "Braxton Tramel",
+        "school": "East Carolina",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "2ND YR",
+        "handedness": "S/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Braxton Tramel gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "2ND YR / S/R",
+        "detailBadges": [
+          "INF",
+          "2ND YR",
+          "S/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/braxton-tramel/14545",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14532",
+        "name": "Braden Burress",
+        "school": "East Carolina",
+        "role": "Hitter",
+        "position": "INF/OF",
+        "classYear": "2ND YR",
+        "handedness": "R/R",
+        "score": 77,
+        "fit": {
+          "label": "Pursue",
+          "className": "fit-pursue"
+        },
+        "summary": "Braden Burress profiles as a INF/OF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
+        "summaryMetrics": [
+          "AVG .361",
+          "OBP .460",
+          "SLG .482"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".361"
+          },
+          {
+            "label": "OBP",
+            "value": ".460"
+          },
+          {
+            "label": "SLG",
+            "value": ".482"
+          },
+          {
+            "label": "HR",
+            "value": "3"
+          },
+          {
+            "label": "RBI",
+            "value": "32"
+          },
+          {
+            "label": "SB",
+            "value": "12"
+          }
+        ],
+        "components": {
+          "On-base": 100,
+          "Power": 42.63157894736842,
+          "Contact": 88.12499999999999,
+          "Discipline": 100,
+          "Speed": 40
+        },
+        "metaLine": "2ND YR / R/R",
+        "detailBadges": [
+          "INF/OF",
+          "2ND YR",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster",
+          "East Carolina cumulative stats"
+        ],
+        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/braden-burress/14532",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-13912",
+        "name": "Nick Moran",
+        "school": "East Carolina",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "4TH YR",
+        "handedness": "L/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Nick Moran looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "4TH YR / L/L",
+        "detailBadges": [
+          "LHP",
+          "4TH YR",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/nick-moran/13912",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14133",
+        "name": "Blade Carver",
+        "school": "East Carolina",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "3RD YR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Blade Carver gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "3RD YR / N/A",
+        "detailBadges": [
+          "C",
+          "3RD YR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/blade-carver/14133",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14528",
+        "name": "Brayden Bachman",
+        "school": "East Carolina",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "1ST YR",
+        "handedness": "R/R",
+        "score": 32,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Brayden Bachman gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .250",
+          "OBP .340",
+          "SLG .455"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".250"
+          },
+          {
+            "label": "OBP",
+            "value": ".340"
+          },
+          {
+            "label": "SLG",
+            "value": ".455"
+          },
+          {
+            "label": "HR",
+            "value": "2"
+          },
+          {
+            "label": "RBI",
+            "value": "8"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 33.33333333333333,
+          "Power": 35.52631578947369,
+          "Contact": 18.75,
+          "Discipline": 61.11111111111111,
+          "Speed": 0
+        },
+        "metaLine": "1ST YR / R/R",
+        "detailBadges": [
+          "OF",
+          "1ST YR",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster",
+          "East Carolina cumulative stats"
+        ],
+        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/brayden-bachman/14528",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14547",
+        "name": "Jack Vogele",
+        "school": "East Carolina",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "3RD YR",
+        "handedness": "R/R",
+        "score": 5,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jack Vogele gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .171",
+          "OBP .286",
+          "SLG .220"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".171"
+          },
+          {
+            "label": "OBP",
+            "value": ".286"
+          },
+          {
+            "label": "SLG",
+            "value": ".220"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "6"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 3.3333333333333055,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 25.39682539682539,
+          "Speed": 0
+        },
+        "metaLine": "3RD YR / R/R",
+        "detailBadges": [
+          "OF",
+          "3RD YR",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster",
+          "East Carolina cumulative stats"
+        ],
+        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/jack-vogele/14547",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14136",
+        "name": "Joseph Webb",
+        "school": "East Carolina",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "4TH YR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Joseph Webb looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "4TH YR / R/R",
+        "detailBadges": [
+          "RHP",
+          "4TH YR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/joseph-webb/14136",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14137",
+        "name": "Nathan Wines",
+        "school": "East Carolina",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "1ST YR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Nathan Wines looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "1ST YR / R/R",
+        "detailBadges": [
+          "RHP",
+          "1ST YR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/nathan-wines/14137",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14138",
+        "name": "Gavin Van Kempen",
+        "school": "East Carolina",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "4TH YR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Gavin Van Kempen looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "4TH YR / R/R",
+        "detailBadges": [
+          "RHP",
+          "4TH YR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/gavin-van-kempen/14138",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14542",
+        "name": "Ethan Rose",
+        "school": "East Carolina",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "1ST YR",
+        "handedness": "R/R",
+        "score": 3,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Ethan Rose looks like a RHP option who limits runs.",
+        "summaryMetrics": [
+          "ERA 3.00",
+          "WHIP 1.64",
+          "K/9 5.5"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "3.00"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.64"
+          },
+          {
+            "label": "K/9",
+            "value": "5.5"
+          },
+          {
+            "label": "BB/9",
+            "value": "5.5"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "39.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 13.986013986013985,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "1ST YR / R/R",
+        "detailBadges": [
+          "RHP",
+          "1ST YR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster",
+          "East Carolina cumulative stats"
+        ],
+        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/ethan-rose/14542",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14540",
+        "name": "Luke Payne",
+        "school": "East Carolina",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "3RD YR",
+        "handedness": "R/R",
+        "score": 10,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Luke Payne gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 5.40",
+          "WHIP 1.62",
+          "K/9 8.9"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "5.40"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.62"
+          },
+          {
+            "label": "K/9",
+            "value": "8.9"
+          },
+          {
+            "label": "BB/9",
+            "value": "6.5"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.89"
+          },
+          {
+            "label": "IP",
+            "value": "33.3"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 44.63636363636363,
+          "Command": 7.5000000000000036,
+          "Damage suppression": 0
+        },
+        "metaLine": "3RD YR / R/R",
+        "detailBadges": [
+          "LHP",
+          "3RD YR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster",
+          "East Carolina cumulative stats"
+        ],
+        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/luke-payne/14540",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14549",
+        "name": "Colby Weber",
+        "school": "East Carolina",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "1ST YR",
+        "handedness": "N/A",
+        "score": 13,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Colby Weber gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 4.58",
+          "WHIP 1.37",
+          "K/9 8.7"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "4.58"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.37"
+          },
+          {
+            "label": "K/9",
+            "value": "8.7"
+          },
+          {
+            "label": "BB/9",
+            "value": "3.7"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.83"
+          },
+          {
+            "label": "IP",
+            "value": "19.7"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 42.681047765793515,
+          "Command": 27.500000000000004,
+          "Damage suppression": 0
+        },
+        "metaLine": "1ST YR / N/A",
+        "detailBadges": [
+          "RHP",
+          "1ST YR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster",
+          "East Carolina cumulative stats"
+        ],
+        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/colby-weber/14549",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14142",
+        "name": "Luke Craddock",
+        "school": "East Carolina",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "1ST YR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Luke Craddock gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "1ST YR / R/R",
+        "detailBadges": [
+          "INF",
+          "1ST YR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/luke-craddock/14142",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14535",
+        "name": "Sean Jenkins",
+        "school": "East Carolina",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "2ND YR",
+        "handedness": "R/R",
+        "score": 25,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Sean Jenkins looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
+        "summaryMetrics": [
+          "ERA 2.61",
+          "WHIP 1.14",
+          "K/9 11.8"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "2.61"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.14"
+          },
+          {
+            "label": "K/9",
+            "value": "11.8"
+          },
+          {
+            "label": "BB/9",
+            "value": "2.6"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.44"
+          },
+          {
+            "label": "IP",
+            "value": "41.3"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 70.52785923753665,
+          "Command": 70,
+          "Damage suppression": 0
+        },
+        "metaLine": "2ND YR / R/R",
+        "detailBadges": [
+          "RHP",
+          "2ND YR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster",
+          "East Carolina cumulative stats"
+        ],
+        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/sean-jenkins/14535",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14534",
+        "name": "Charlie Hoagland",
+        "school": "East Carolina",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "1ST YR",
+        "handedness": "R/L",
+        "score": 11,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Charlie Hoagland gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 5.32",
+          "WHIP 1.39",
+          "K/9 8.4"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "5.32"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.39"
+          },
+          {
+            "label": "K/9",
+            "value": "8.4"
+          },
+          {
+            "label": "BB/9",
+            "value": "4.2"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.76"
+          },
+          {
+            "label": "IP",
+            "value": "23.7"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 39.692701664532656,
+          "Command": 20,
+          "Damage suppression": 0
+        },
+        "metaLine": "1ST YR / R/L",
+        "detailBadges": [
+          "LHP",
+          "1ST YR",
+          "R/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster",
+          "East Carolina cumulative stats"
+        ],
+        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/charlie-hoagland/14534",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-13905",
+        "name": "Jack Herring",
+        "school": "East Carolina",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "4TH YR",
+        "handedness": "S/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jack Herring gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "4TH YR / S/L",
+        "detailBadges": [
+          "OF",
+          "4TH YR",
+          "S/L",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/jack-herring/13905",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14539",
+        "name": "Thomas Paxton",
+        "school": "East Carolina",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "3RD YR",
+        "handedness": "R/R",
+        "score": 21,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Thomas Paxton looks like a RHP option who limits runs and throws enough strikes and keeps traffic under control.",
+        "summaryMetrics": [
+          "ERA 2.31",
+          "WHIP 1.20",
+          "K/9 6.9"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "2.31"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.20"
+          },
+          {
+            "label": "K/9",
+            "value": "6.9"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.8"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "11.7"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 26.753246753246756,
+          "Command": 100,
+          "Damage suppression": 0
+        },
+        "metaLine": "3RD YR / R/R",
+        "detailBadges": [
+          "RHP",
+          "3RD YR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster",
+          "East Carolina cumulative stats"
+        ],
+        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/thomas-paxton/14539",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14533",
+        "name": "Chance Hall",
+        "school": "East Carolina",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "R-SO",
+        "handedness": "R/R",
+        "score": 23,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Chance Hall gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .333",
+          "OBP .333",
+          "SLG .333"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".333"
+          },
+          {
+            "label": "OBP",
+            "value": ".333"
+          },
+          {
+            "label": "SLG",
+            "value": ".333"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 29.44444444444444,
+          "Power": 3.421052631578951,
+          "Contact": 70.625,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "R-SO / R/R",
+        "detailBadges": [
+          "OF",
+          "R-SO",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster",
+          "East Carolina cumulative stats"
+        ],
+        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/chance-hall/14533",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14530",
+        "name": "Brett Beasley",
+        "school": "East Carolina",
+        "role": "Pitcher",
+        "position": "INF/RHP",
+        "classYear": "1ST YR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Brett Beasley looks like a INF/RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "1ST YR / R/R",
+        "detailBadges": [
+          "INF/RHP",
+          "1ST YR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/brett-beasley/14530",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14146",
+        "name": "Gavin Marley",
+        "school": "East Carolina",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "R-JR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Gavin Marley looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "R-JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "R-JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/gavin-marley/14146",
+        "espnAthleteId": ""
+      },
+      {
         "id": "florida-18088",
         "name": "Jaden Bastian",
         "school": "Florida",
@@ -61963,2559 +49720,6 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "schoolSlug": "georgia",
         "compositeRole": "Pitcher",
         "profileUrl": "https://georgiadogs.com/sports/baseball/roster/mason-kosowick/10348",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "james-madison-23791",
-        "name": "Reece Moody",
-        "school": "James Madison",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 61,
-        "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
-        },
-        "summary": "Reece Moody profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .321",
-          "OBP .406",
-          "SLG .437"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".321"
-          },
-          {
-            "label": "OBP",
-            "value": ".406"
-          },
-          {
-            "label": "SLG",
-            "value": ".437"
-          },
-          {
-            "label": "HR",
-            "value": "2"
-          },
-          {
-            "label": "RBI",
-            "value": "28"
-          },
-          {
-            "label": "SB",
-            "value": "35"
-          }
-        ],
-        "components": {
-          "On-base": 70,
-          "Power": 30.789473684210527,
-          "Contact": 63.125,
-          "Discipline": 63.247863247863236,
-          "Speed": 100
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "INF",
-          "SO",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "James Madison Athletics roster",
-          "James Madison cumulative stats"
-        ],
-        "sourceSummary": "James Madison Athletics roster + James Madison cumulative stats",
-        "schoolSlug": "james-madison",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://jmusports.com/sports/baseball/roster/reece-moody/23791",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "james-madison-23787",
-        "name": "Kyle Langley",
-        "school": "James Madison",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "JR",
-        "handedness": "L/L",
-        "score": 56,
-        "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
-        },
-        "summary": "Kyle Langley profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .320",
-          "OBP .409",
-          "SLG .452"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".320"
-          },
-          {
-            "label": "OBP",
-            "value": ".409"
-          },
-          {
-            "label": "SLG",
-            "value": ".452"
-          },
-          {
-            "label": "HR",
-            "value": "5"
-          },
-          {
-            "label": "RBI",
-            "value": "36"
-          },
-          {
-            "label": "SB",
-            "value": "14"
-          }
-        ],
-        "components": {
-          "On-base": 71.66666666666664,
-          "Power": 34.736842105263165,
-          "Contact": 62.5,
-          "Discipline": 54.93827160493826,
-          "Speed": 46.666666666666664
-        },
-        "metaLine": "JR / L/L",
-        "detailBadges": [
-          "OF",
-          "JR",
-          "L/L",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "James Madison Athletics roster",
-          "James Madison cumulative stats"
-        ],
-        "sourceSummary": "James Madison Athletics roster + James Madison cumulative stats",
-        "schoolSlug": "james-madison",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://jmusports.com/sports/baseball/roster/kyle-langley/23787",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "james-madison-23797",
-        "name": "Cameron Aycock",
-        "school": "James Madison",
-        "role": "Hitter",
-        "position": "UT",
-        "classYear": "FR",
-        "handedness": "L/R",
-        "score": 35,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Cameron Aycock profiles as a UT piece who adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .318",
-          "OBP .359",
-          "SLG .400"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".318"
-          },
-          {
-            "label": "OBP",
-            "value": ".359"
-          },
-          {
-            "label": "SLG",
-            "value": ".400"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "8"
-          },
-          {
-            "label": "SB",
-            "value": "14"
-          }
-        ],
-        "components": {
-          "On-base": 43.888888888888864,
-          "Power": 21.052631578947377,
-          "Contact": 61.25000000000001,
-          "Discipline": 0.7662835249042129,
-          "Speed": 46.666666666666664
-        },
-        "metaLine": "FR / L/R",
-        "detailBadges": [
-          "UT",
-          "FR",
-          "L/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "James Madison Athletics roster",
-          "James Madison cumulative stats"
-        ],
-        "sourceSummary": "James Madison Athletics roster + James Madison cumulative stats",
-        "schoolSlug": "james-madison",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://jmusports.com/sports/baseball/roster/cameron-aycock/23797",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "james-madison-23808",
-        "name": "Tyler Lutz",
-        "school": "James Madison",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "FR",
-        "handedness": "L/L",
-        "score": 11,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Tyler Lutz looks like a LHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA 4.93",
-          "WHIP 1.39",
-          "K/9 6.2"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.93"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.39"
-          },
-          {
-            "label": "K/9",
-            "value": "6.2"
-          },
-          {
-            "label": "BB/9",
-            "value": "1.9"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.96"
-          },
-          {
-            "label": "IP",
-            "value": "65.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 19.704660821412087,
-          "Command": 44.28571428571429,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / L/L",
-        "detailBadges": [
-          "LHP",
-          "FR",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "James Madison Athletics roster",
-          "James Madison cumulative stats"
-        ],
-        "sourceSummary": "James Madison Athletics roster + James Madison cumulative stats",
-        "schoolSlug": "james-madison",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://jmusports.com/sports/baseball/roster/tyler-lutz/23808",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "james-madison-23800",
-        "name": "Wyatt Campbell",
-        "school": "James Madison",
-        "role": "Hitter",
-        "position": "1B",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 24,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Wyatt Campbell gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .217",
-          "OBP .340",
-          "SLG .414"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".217"
-          },
-          {
-            "label": "OBP",
-            "value": ".340"
-          },
-          {
-            "label": "SLG",
-            "value": ".414"
-          },
-          {
-            "label": "HR",
-            "value": "8"
-          },
-          {
-            "label": "RBI",
-            "value": "26"
-          },
-          {
-            "label": "SB",
-            "value": "6"
-          }
-        ],
-        "components": {
-          "On-base": 33.33333333333333,
-          "Power": 24.736842105263154,
-          "Contact": 0,
-          "Discipline": 38.164251207729464,
-          "Speed": 20
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "1B",
-          "SR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "James Madison Athletics roster",
-          "James Madison cumulative stats"
-        ],
-        "sourceSummary": "James Madison Athletics roster + James Madison cumulative stats",
-        "schoolSlug": "james-madison",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://jmusports.com/sports/baseball/roster/wyatt-campbell/23800",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "james-madison-23793",
-        "name": "Griffin Polley",
-        "school": "James Madison",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 4,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Griffin Polley gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 9.00",
-          "WHIP 2.36",
-          "K/9 6.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "9.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.36"
-          },
-          {
-            "label": "K/9",
-            "value": "6.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "9.6"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.93"
-          },
-          {
-            "label": "IP",
-            "value": "14.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 22.07792207792208,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "James Madison Athletics roster",
-          "James Madison cumulative stats"
-        ],
-        "sourceSummary": "James Madison Athletics roster + James Madison cumulative stats",
-        "schoolSlug": "james-madison",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://jmusports.com/sports/baseball/roster/griffin-polley/23793",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "james-madison-23814",
-        "name": "Clay Thompson",
-        "school": "James Madison",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "R-SO",
-        "handedness": "R/R",
-        "score": 61,
-        "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
-        },
-        "summary": "Clay Thompson profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .335",
-          "OBP .401",
-          "SLG .521"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".335"
-          },
-          {
-            "label": "OBP",
-            "value": ".401"
-          },
-          {
-            "label": "SLG",
-            "value": ".521"
-          },
-          {
-            "label": "HR",
-            "value": "4"
-          },
-          {
-            "label": "RBI",
-            "value": "30"
-          },
-          {
-            "label": "SB",
-            "value": "26"
-          }
-        ],
-        "components": {
-          "On-base": 67.22222222222223,
-          "Power": 52.894736842105274,
-          "Contact": 71.87500000000001,
-          "Discipline": 29.36507936507936,
-          "Speed": 86.66666666666667
-        },
-        "metaLine": "R-SO / R/R",
-        "detailBadges": [
-          "OF",
-          "R-SO",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "James Madison Athletics roster",
-          "James Madison cumulative stats"
-        ],
-        "sourceSummary": "James Madison Athletics roster + James Madison cumulative stats",
-        "schoolSlug": "james-madison",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://jmusports.com/sports/baseball/roster/clay-thompson/23814",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "james-madison-23798",
-        "name": "Ben Barrow",
-        "school": "James Madison",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 7,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Ben Barrow gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .217",
-          "OBP .308",
-          "SLG .304"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".217"
-          },
-          {
-            "label": "OBP",
-            "value": ".308"
-          },
-          {
-            "label": "SLG",
-            "value": ".304"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "5"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
-        "components": {
-          "On-base": 15.55555555555554,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 14.814814814814808,
-          "Speed": 3.3333333333333335
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "C",
-          "JR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "James Madison Athletics roster",
-          "James Madison cumulative stats"
-        ],
-        "sourceSummary": "James Madison Athletics roster + James Madison cumulative stats",
-        "schoolSlug": "james-madison",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://jmusports.com/sports/baseball/roster/ben-barrow/23798",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "james-madison-23810",
-        "name": "Isaiah Nolan",
-        "school": "James Madison",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Isaiah Nolan gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .200",
-          "OBP .200",
-          "SLG .200"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".200"
-          },
-          {
-            "label": "OBP",
-            "value": ".200"
-          },
-          {
-            "label": "SLG",
-            "value": ".200"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "1"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "INF",
-          "FR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "James Madison Athletics roster",
-          "James Madison cumulative stats"
-        ],
-        "sourceSummary": "James Madison Athletics roster + James Madison cumulative stats",
-        "schoolSlug": "james-madison",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://jmusports.com/sports/baseball/roster/isaiah-nolan/23810",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "james-madison-23789",
-        "name": "Luke McGrath",
-        "school": "James Madison",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "R-SO",
-        "handedness": "R/R",
-        "score": 10,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Luke McGrath looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 5.79",
-          "WHIP 1.54",
-          "K/9 9.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.79"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.54"
-          },
-          {
-            "label": "K/9",
-            "value": "9.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "6.4"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.61"
-          },
-          {
-            "label": "IP",
-            "value": "28.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
-          "Command": 7.999999999999999,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "R-SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "James Madison Athletics roster",
-          "James Madison cumulative stats"
-        ],
-        "sourceSummary": "James Madison Athletics roster + James Madison cumulative stats",
-        "schoolSlug": "james-madison",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://jmusports.com/sports/baseball/roster/luke-mcgrath/23789",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "james-madison-23804",
-        "name": "Ryan Gocio",
-        "school": "James Madison",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "FR",
-        "handedness": "L/R",
-        "score": 51,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Ryan Gocio profiles as a C piece who gets on base at a high clip and controls at-bats.",
-        "summaryMetrics": [
-          "AVG .296",
-          "OBP .433",
-          "SLG .324"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".296"
-          },
-          {
-            "label": "OBP",
-            "value": ".433"
-          },
-          {
-            "label": "SLG",
-            "value": ".324"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "9"
-          },
-          {
-            "label": "SB",
-            "value": "3"
-          }
-        ],
-        "components": {
-          "On-base": 84.99999999999999,
-          "Power": 1.0526315789473695,
-          "Contact": 47.499999999999986,
-          "Discipline": 96.82539682539681,
-          "Speed": 10
-        },
-        "metaLine": "FR / L/R",
-        "detailBadges": [
-          "C",
-          "FR",
-          "L/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "James Madison Athletics roster",
-          "James Madison cumulative stats"
-        ],
-        "sourceSummary": "James Madison Athletics roster + James Madison cumulative stats",
-        "schoolSlug": "james-madison",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://jmusports.com/sports/baseball/roster/ryan-gocio/23804",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "james-madison-23786",
-        "name": "Max Kuhle",
-        "school": "James Madison",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "SR",
-        "handedness": "L/L",
-        "score": 6,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Max Kuhle gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 7.00",
-          "WHIP 1.67",
-          "K/9 6.3"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "7.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.67"
-          },
-          {
-            "label": "K/9",
-            "value": "6.3"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.3"
-          },
-          {
-            "label": "HR/9",
-            "value": "2.00"
-          },
-          {
-            "label": "IP",
-            "value": "27.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 21.21212121212121,
-          "Command": 9.230769230769234,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / L/L",
-        "detailBadges": [
-          "LHP",
-          "SR",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "James Madison Athletics roster",
-          "James Madison cumulative stats"
-        ],
-        "sourceSummary": "James Madison Athletics roster + James Madison cumulative stats",
-        "schoolSlug": "james-madison",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://jmusports.com/sports/baseball/roster/max-kuhle/23786",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "james-madison-23806",
-        "name": "Will Haacke",
-        "school": "James Madison",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 12,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Will Haacke gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .182",
-          "OBP .321",
-          "SLG .250"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".182"
-          },
-          {
-            "label": "OBP",
-            "value": ".321"
-          },
-          {
-            "label": "SLG",
-            "value": ".250"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "2"
-          },
-          {
-            "label": "SB",
-            "value": "4"
-          }
-        ],
-        "components": {
-          "On-base": 22.777777777777768,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 22.22222222222222,
-          "Speed": 13.333333333333334
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "OF",
-          "FR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "James Madison Athletics roster",
-          "James Madison cumulative stats"
-        ],
-        "sourceSummary": "James Madison Athletics roster + James Madison cumulative stats",
-        "schoolSlug": "james-madison",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://jmusports.com/sports/baseball/roster/will-haacke/23806",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "james-madison-23815",
-        "name": "Conner Worth",
-        "school": "James Madison",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Conner Worth gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .088",
-          "OBP .162",
-          "SLG .118"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".088"
-          },
-          {
-            "label": "OBP",
-            "value": ".162"
-          },
-          {
-            "label": "SLG",
-            "value": ".118"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "4"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 3.3333333333333335
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "INF",
-          "FR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "James Madison Athletics roster",
-          "James Madison cumulative stats"
-        ],
-        "sourceSummary": "James Madison Athletics roster + James Madison cumulative stats",
-        "schoolSlug": "james-madison",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://jmusports.com/sports/baseball/roster/conner-worth/23815",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "james-madison-23807",
-        "name": "Keegan Haesler",
-        "school": "James Madison",
-        "role": "Hitter",
-        "position": "UT",
-        "classYear": "FR",
-        "handedness": "L/L",
-        "score": 28,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Keegan Haesler gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .225",
-          "OBP .373",
-          "SLG .300"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".225"
-          },
-          {
-            "label": "OBP",
-            "value": ".373"
-          },
-          {
-            "label": "SLG",
-            "value": ".300"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "6"
-          },
-          {
-            "label": "SB",
-            "value": "5"
-          }
-        ],
-        "components": {
-          "On-base": 51.66666666666665,
-          "Power": 0,
-          "Contact": 3.1250000000000027,
-          "Discipline": 68.68686868686868,
-          "Speed": 16.666666666666664
-        },
-        "metaLine": "FR / L/L",
-        "detailBadges": [
-          "UT",
-          "FR",
-          "L/L",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "James Madison Athletics roster",
-          "James Madison cumulative stats"
-        ],
-        "sourceSummary": "James Madison Athletics roster + James Madison cumulative stats",
-        "schoolSlug": "james-madison",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://jmusports.com/sports/baseball/roster/keegan-haesler/23807",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "james-madison-23805",
-        "name": "Bryce Greene",
-        "school": "James Madison",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "GR",
-        "handedness": "R/R",
-        "score": 9,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Bryce Greene gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 7.30",
-          "WHIP 2.43",
-          "K/9 8.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "7.30"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.43"
-          },
-          {
-            "label": "K/9",
-            "value": "8.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.8"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "12.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 36.6093366093366,
-          "Command": 7.5,
-          "Damage suppression": 0
-        },
-        "metaLine": "GR / R/R",
-        "detailBadges": [
-          "RHP",
-          "GR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "James Madison Athletics roster",
-          "James Madison cumulative stats"
-        ],
-        "sourceSummary": "James Madison Athletics roster + James Madison cumulative stats",
-        "schoolSlug": "james-madison",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://jmusports.com/sports/baseball/roster/bryce-greene/23805",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "james-madison-23778",
-        "name": "Jack Anderson",
-        "school": "James Madison",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 6,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jack Anderson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .215",
-          "OBP .298",
-          "SLG .262"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".215"
-          },
-          {
-            "label": "OBP",
-            "value": ".298"
-          },
-          {
-            "label": "SLG",
-            "value": ".262"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "12"
-          },
-          {
-            "label": "SB",
-            "value": "7"
-          }
-        ],
-        "components": {
-          "On-base": 9.999999999999979,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0.7662835249042129,
-          "Speed": 23.333333333333332
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "INF",
-          "SO",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "James Madison Athletics roster",
-          "James Madison cumulative stats"
-        ],
-        "sourceSummary": "James Madison Athletics roster + James Madison cumulative stats",
-        "schoolSlug": "james-madison",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://jmusports.com/sports/baseball/roster/jack-anderson/23778",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "james-madison-23813",
-        "name": "Jonathan Strohecker",
-        "school": "James Madison",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 7,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jonathan Strohecker gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 13.50",
-          "WHIP 3.25",
-          "K/9 7.9"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "13.50"
-          },
-          {
-            "label": "WHIP",
-            "value": "3.25"
-          },
-          {
-            "label": "K/9",
-            "value": "7.9"
-          },
-          {
-            "label": "BB/9",
-            "value": "11.3"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.13"
-          },
-          {
-            "label": "IP",
-            "value": "8.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 35.22727272727273,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "James Madison Athletics roster",
-          "James Madison cumulative stats"
-        ],
-        "sourceSummary": "James Madison Athletics roster + James Madison cumulative stats",
-        "schoolSlug": "james-madison",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://jmusports.com/sports/baseball/roster/jonathan-strohecker/23813",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "james-madison-23782",
-        "name": "Maddux Fleck",
-        "school": "James Madison",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SR",
-        "handedness": "S/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Maddux Fleck gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .000",
-          "OBP .000",
-          "SLG .000"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".000"
-          },
-          {
-            "label": "OBP",
-            "value": ".000"
-          },
-          {
-            "label": "SLG",
-            "value": ".000"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "SR / S/R",
-        "detailBadges": [
-          "INF",
-          "SR",
-          "S/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "James Madison Athletics roster",
-          "James Madison cumulative stats"
-        ],
-        "sourceSummary": "James Madison Athletics roster + James Madison cumulative stats",
-        "schoolSlug": "james-madison",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://jmusports.com/sports/baseball/roster/maddux-fleck/23782",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "james-madison-23801",
-        "name": "Trey Campos",
-        "school": "James Madison",
-        "role": "Pitcher",
-        "position": "RHP/OF",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Trey Campos gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 11.81",
-          "WHIP 1.88",
-          "K/9 3.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "11.81"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.88"
-          },
-          {
-            "label": "K/9",
-            "value": "3.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "10.1"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.69"
-          },
-          {
-            "label": "IP",
-            "value": "5.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "RHP/OF",
-          "FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "James Madison Athletics roster",
-          "James Madison cumulative stats"
-        ],
-        "sourceSummary": "James Madison Athletics roster + James Madison cumulative stats",
-        "schoolSlug": "james-madison",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://jmusports.com/sports/baseball/roster/trey-campos/23801",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "james-madison-23783",
-        "name": "Jack Guerrero",
-        "school": "James Madison",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SR",
-        "handedness": "L/R",
-        "score": 21,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jack Guerrero gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .265",
-          "OBP .328",
-          "SLG .377"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".265"
-          },
-          {
-            "label": "OBP",
-            "value": ".328"
-          },
-          {
-            "label": "SLG",
-            "value": ".377"
-          },
-          {
-            "label": "HR",
-            "value": "2"
-          },
-          {
-            "label": "RBI",
-            "value": "24"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
-        "components": {
-          "On-base": 26.66666666666666,
-          "Power": 15,
-          "Contact": 28.125000000000007,
-          "Discipline": 24.37275985663082,
-          "Speed": 3.3333333333333335
-        },
-        "metaLine": "SR / L/R",
-        "detailBadges": [
-          "INF",
-          "SR",
-          "L/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "James Madison Athletics roster",
-          "James Madison cumulative stats"
-        ],
-        "sourceSummary": "James Madison Athletics roster + James Madison cumulative stats",
-        "schoolSlug": "james-madison",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://jmusports.com/sports/baseball/roster/jack-guerrero/23783",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "james-madison-23781",
-        "name": "Lane Duff",
-        "school": "James Madison",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "R-SO",
-        "handedness": "L/L",
-        "score": 3,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Lane Duff gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 13.50",
-          "WHIP 2.40",
-          "K/9 5.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "13.50"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.40"
-          },
-          {
-            "label": "K/9",
-            "value": "5.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "12.1"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "6.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 12.727272727272723,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-SO / L/L",
-        "detailBadges": [
-          "LHP",
-          "R-SO",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "James Madison Athletics roster",
-          "James Madison cumulative stats"
-        ],
-        "sourceSummary": "James Madison Athletics roster + James Madison cumulative stats",
-        "schoolSlug": "james-madison",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://jmusports.com/sports/baseball/roster/lane-duff/23781",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "james-madison-23796",
-        "name": "Jackson Tone",
-        "school": "James Madison",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "SR",
-        "handedness": "L/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jackson Tone gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .125",
-          "OBP .125",
-          "SLG .125"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".125"
-          },
-          {
-            "label": "OBP",
-            "value": ".125"
-          },
-          {
-            "label": "SLG",
-            "value": ".125"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "SR / L/R",
-        "detailBadges": [
-          "C",
-          "SR",
-          "L/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "James Madison Athletics roster",
-          "James Madison cumulative stats"
-        ],
-        "sourceSummary": "James Madison Athletics roster + James Madison cumulative stats",
-        "schoolSlug": "james-madison",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://jmusports.com/sports/baseball/roster/jackson-tone/23796",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "james-madison-23785",
-        "name": "Jaden Kinsler",
-        "school": "James Madison",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "SR",
-        "handedness": "L/L",
-        "score": 12,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jaden Kinsler gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 5.89",
-          "WHIP 1.33",
-          "K/9 8.3"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.89"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.33"
-          },
-          {
-            "label": "K/9",
-            "value": "8.3"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.5"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.62"
-          },
-          {
-            "label": "IP",
-            "value": "44.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 39.30280246069719,
-          "Command": 28.235294117647058,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / L/L",
-        "detailBadges": [
-          "LHP",
-          "SR",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "James Madison Athletics roster",
-          "James Madison cumulative stats"
-        ],
-        "sourceSummary": "James Madison Athletics roster + James Madison cumulative stats",
-        "schoolSlug": "james-madison",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://jmusports.com/sports/baseball/roster/jaden-kinsler/23785",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "james-madison-23779",
-        "name": "Alex Bingler",
-        "school": "James Madison",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "SO",
-        "handedness": "L/L",
-        "score": 21,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Alex Bingler looks like a LHP option who limits runs and misses bats.",
-        "summaryMetrics": [
-          "ERA 2.45",
-          "WHIP 2.73",
-          "K/9 17.2"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "2.45"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.73"
-          },
-          {
-            "label": "K/9",
-            "value": "17.2"
-          },
-          {
-            "label": "BB/9",
-            "value": "14.7"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "3.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 100,
-          "Command": 3.333333333333335,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / L/L",
-        "detailBadges": [
-          "LHP",
-          "SO",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "James Madison Athletics roster",
-          "James Madison cumulative stats"
-        ],
-        "sourceSummary": "James Madison Athletics roster + James Madison cumulative stats",
-        "schoolSlug": "james-madison",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://jmusports.com/sports/baseball/roster/alex-bingler/23779",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "james-madison-23809",
-        "name": "Blake McElyea",
-        "school": "James Madison",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "R-FR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Blake McElyea gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 81.00",
-          "WHIP 12.00",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "81.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "12.00"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "54.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-FR / R/R",
-        "detailBadges": [
-          "RHP",
-          "R-FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "James Madison Athletics roster",
-          "James Madison cumulative stats"
-        ],
-        "sourceSummary": "James Madison Athletics roster + James Madison cumulative stats",
-        "schoolSlug": "james-madison",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://jmusports.com/sports/baseball/roster/blake-mcelyea/23809",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "james-madison-23792",
-        "name": "Tyler Muscar",
-        "school": "James Madison",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "R-SR",
-        "handedness": "L/L",
-        "score": 8,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Tyler Muscar gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 9.71",
-          "WHIP 1.99",
-          "K/9 7.3"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "9.71"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.99"
-          },
-          {
-            "label": "K/9",
-            "value": "7.3"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.6"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.21"
-          },
-          {
-            "label": "IP",
-            "value": "29.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 29.826353421859043,
-          "Command": 12.000000000000002,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-SR / L/L",
-        "detailBadges": [
-          "LHP",
-          "R-SR",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "James Madison Athletics roster",
-          "James Madison cumulative stats"
-        ],
-        "sourceSummary": "James Madison Athletics roster + James Madison cumulative stats",
-        "schoolSlug": "james-madison",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://jmusports.com/sports/baseball/roster/tyler-muscar/23792",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "james-madison-24045",
-        "name": "Sam Pearne",
-        "school": "James Madison",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 15,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Sam Pearne looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 9.95",
-          "WHIP 3.00",
-          "K/9 11.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "9.95"
-          },
-          {
-            "label": "WHIP",
-            "value": "3.00"
-          },
-          {
-            "label": "K/9",
-            "value": "11.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "7.1"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.42"
-          },
-          {
-            "label": "IP",
-            "value": "6.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 66.98564593301435,
-          "Command": 11.999999999999996,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "James Madison Athletics roster",
-          "James Madison cumulative stats"
-        ],
-        "sourceSummary": "James Madison Athletics roster + James Madison cumulative stats",
-        "schoolSlug": "james-madison",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://jmusports.com/sports/baseball/roster/sam-pearne/24045",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "james-madison-23795",
-        "name": "Brode Susce",
-        "school": "James Madison",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 10,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Brode Susce gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 6.75",
-          "WHIP 1.75",
-          "K/9 8.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "6.75"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.75"
-          },
-          {
-            "label": "K/9",
-            "value": "8.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.6"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.13"
-          },
-          {
-            "label": "IP",
-            "value": "16.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 40.340909090909086,
-          "Command": 10,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "James Madison Athletics roster",
-          "James Madison cumulative stats"
-        ],
-        "sourceSummary": "James Madison Athletics roster + James Madison cumulative stats",
-        "schoolSlug": "james-madison",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://jmusports.com/sports/baseball/roster/brode-susce/23795",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "james-madison-23784",
-        "name": "Adam Horvath",
-        "school": "James Madison",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 3,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Adam Horvath gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 8.53",
-          "WHIP 2.00",
-          "K/9 5.7"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "8.53"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.00"
-          },
-          {
-            "label": "K/9",
-            "value": "5.7"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.7"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.47"
-          },
-          {
-            "label": "IP",
-            "value": "19.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 15.311004784688995,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "James Madison Athletics roster",
-          "James Madison cumulative stats"
-        ],
-        "sourceSummary": "James Madison Athletics roster + James Madison cumulative stats",
-        "schoolSlug": "james-madison",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://jmusports.com/sports/baseball/roster/adam-horvath/23784",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "james-madison-23794",
-        "name": "Ike Schmidly",
-        "school": "James Madison",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 36,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Ike Schmidly profiles as a OF piece who adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .269",
-          "OBP .345",
-          "SLG .497"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".269"
-          },
-          {
-            "label": "OBP",
-            "value": ".345"
-          },
-          {
-            "label": "SLG",
-            "value": ".497"
-          },
-          {
-            "label": "HR",
-            "value": "11"
-          },
-          {
-            "label": "RBI",
-            "value": "42"
-          },
-          {
-            "label": "SB",
-            "value": "13"
-          }
-        ],
-        "components": {
-          "On-base": 36.111111111111086,
-          "Power": 46.57894736842106,
-          "Contact": 30.625000000000007,
-          "Discipline": 16.66666666666666,
-          "Speed": 43.333333333333336
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "OF",
-          "JR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "James Madison Athletics roster",
-          "James Madison cumulative stats"
-        ],
-        "sourceSummary": "James Madison Athletics roster + James Madison cumulative stats",
-        "schoolSlug": "james-madison",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://jmusports.com/sports/baseball/roster/ike-schmidly/23794",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "james-madison-23788",
-        "name": "Griffin Madden",
-        "school": "James Madison",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 7,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Griffin Madden gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 8.89",
-          "WHIP 2.09",
-          "K/9 7.9"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "8.89"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.09"
-          },
-          {
-            "label": "K/9",
-            "value": "7.9"
-          },
-          {
-            "label": "BB/9",
-            "value": "8.9"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.71"
-          },
-          {
-            "label": "IP",
-            "value": "26.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 35.09781357882623,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "James Madison Athletics roster",
-          "James Madison cumulative stats"
-        ],
-        "sourceSummary": "James Madison Athletics roster + James Madison cumulative stats",
-        "schoolSlug": "james-madison",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://jmusports.com/sports/baseball/roster/griffin-madden/23788",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "james-madison-23799",
-        "name": "Patrick Bauer",
-        "school": "James Madison",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 9,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Patrick Bauer gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 5.83",
-          "WHIP 1.59",
-          "K/9 7.5"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.83"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.59"
-          },
-          {
-            "label": "K/9",
-            "value": "7.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.67"
-          },
-          {
-            "label": "IP",
-            "value": "54.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 31.818181818181817,
-          "Command": 17.5,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "James Madison Athletics roster",
-          "James Madison cumulative stats"
-        ],
-        "sourceSummary": "James Madison Athletics roster + James Madison cumulative stats",
-        "schoolSlug": "james-madison",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://jmusports.com/sports/baseball/roster/patrick-bauer/23799",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "james-madison-23780",
-        "name": "Jack Cannizzaro",
-        "school": "James Madison",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 41,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jack Cannizzaro profiles as a C piece who controls at-bats.",
-        "summaryMetrics": [
-          "AVG .222",
-          "OBP .386",
-          "SLG .426"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".222"
-          },
-          {
-            "label": "OBP",
-            "value": ".386"
-          },
-          {
-            "label": "SLG",
-            "value": ".426"
-          },
-          {
-            "label": "HR",
-            "value": "3"
-          },
-          {
-            "label": "RBI",
-            "value": "15"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
-        "components": {
-          "On-base": 58.88888888888888,
-          "Power": 27.89473684210526,
-          "Contact": 1.250000000000001,
-          "Discipline": 100,
-          "Speed": 3.3333333333333335
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "C",
-          "SR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "James Madison Athletics roster",
-          "James Madison cumulative stats"
-        ],
-        "sourceSummary": "James Madison Athletics roster + James Madison cumulative stats",
-        "schoolSlug": "james-madison",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://jmusports.com/sports/baseball/roster/jack-cannizzaro/23780",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "james-madison-23790",
-        "name": "Holden McKinney",
-        "school": "James Madison",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "R-SO",
-        "handedness": "R/R",
-        "score": 9,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Holden McKinney looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA 5.32",
-          "WHIP 1.40",
-          "K/9 6.1"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.32"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.40"
-          },
-          {
-            "label": "K/9",
-            "value": "6.1"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.4"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.59"
-          },
-          {
-            "label": "IP",
-            "value": "45.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 19.177173191771736,
-          "Command": 31.66666666666667,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "R-SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "James Madison Athletics roster",
-          "James Madison cumulative stats"
-        ],
-        "sourceSummary": "James Madison Athletics roster + James Madison cumulative stats",
-        "schoolSlug": "james-madison",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://jmusports.com/sports/baseball/roster/holden-mckinney/23790",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "james-madison-23812",
-        "name": "Luke Alexander",
-        "school": "James Madison",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 12,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Luke Alexander looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 7.11",
-          "WHIP 1.68",
-          "K/9 9.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "7.11"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.68"
-          },
-          {
-            "label": "K/9",
-            "value": "9.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.95"
-          },
-          {
-            "label": "IP",
-            "value": "38.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
-          "Command": 16.19047619047619,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "James Madison Athletics roster",
-          "James Madison cumulative stats"
-        ],
-        "sourceSummary": "James Madison Athletics roster + James Madison cumulative stats",
-        "schoolSlug": "james-madison",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://jmusports.com/sports/baseball/roster/luke-alexander/23812",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "james-madison-23811",
-        "name": "Josiah Seguin",
-        "school": "James Madison",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "JR",
-        "handedness": "S/R",
-        "score": 54,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Josiah Seguin profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .309",
-          "OBP .406",
-          "SLG .555"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".309"
-          },
-          {
-            "label": "OBP",
-            "value": ".406"
-          },
-          {
-            "label": "SLG",
-            "value": ".555"
-          },
-          {
-            "label": "HR",
-            "value": "7"
-          },
-          {
-            "label": "RBI",
-            "value": "25"
-          },
-          {
-            "label": "SB",
-            "value": "13"
-          }
-        ],
-        "components": {
-          "On-base": 70,
-          "Power": 61.84210526315791,
-          "Contact": 55.62499999999999,
-          "Discipline": 5.555555555555554,
-          "Speed": 43.333333333333336
-        },
-        "metaLine": "JR / S/R",
-        "detailBadges": [
-          "INF",
-          "JR",
-          "S/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "James Madison Athletics roster",
-          "James Madison cumulative stats"
-        ],
-        "sourceSummary": "James Madison Athletics roster + James Madison cumulative stats",
-        "schoolSlug": "james-madison",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://jmusports.com/sports/baseball/roster/josiah-seguin/23811",
         "espnAthleteId": ""
       },
       {
@@ -79615,2625 +64819,6 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "schoolSlug": "mercer",
         "compositeRole": "Hitter",
         "profileUrl": "https://mercerbears.com/sports/baseball/roster/chris-katz/12166",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "miami-oh-10866",
-        "name": "Taylor Echols",
-        "school": "Miami (OH)",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "N/A",
-        "score": 4,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Taylor Echols gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 4.05",
-          "WHIP 1.35",
-          "K/9 5.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.05"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.35"
-          },
-          {
-            "label": "K/9",
-            "value": "5.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "6.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 12.727272727272723,
-          "Command": 6.666666666666665,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Miami (OH) Athletics roster",
-          "Miami (OH) cumulative stats"
-        ],
-        "sourceSummary": "Miami (OH) Athletics roster + Miami (OH) cumulative stats",
-        "schoolSlug": "miami-oh",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/taylor-echols/10866",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "miami-oh-10886",
-        "name": "Diego Cruz",
-        "school": "Miami (OH)",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "FR",
-        "handedness": "N/A",
-        "score": 81,
-        "fit": {
-          "label": "Priority",
-          "className": "fit-priority"
-        },
-        "summary": "Diego Cruz profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .385",
-          "OBP .467",
-          "SLG .615"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".385"
-          },
-          {
-            "label": "OBP",
-            "value": ".467"
-          },
-          {
-            "label": "SLG",
-            "value": ".615"
-          },
-          {
-            "label": "HR",
-            "value": "7"
-          },
-          {
-            "label": "RBI",
-            "value": "47"
-          },
-          {
-            "label": "SB",
-            "value": "23"
-          }
-        ],
-        "components": {
-          "On-base": 100,
-          "Power": 77.63157894736842,
-          "Contact": 100,
-          "Discipline": 20.1058201058201,
-          "Speed": 76.66666666666667
-        },
-        "metaLine": "FR / N/A",
-        "detailBadges": [
-          "INF",
-          "FR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Miami (OH) Athletics roster",
-          "Miami (OH) cumulative stats"
-        ],
-        "sourceSummary": "Miami (OH) Athletics roster + Miami (OH) cumulative stats",
-        "schoolSlug": "miami-oh",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/diego-cruz/10886",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "miami-oh-10882",
-        "name": "Christopher Roa Calcano",
-        "school": "Miami (OH)",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SO",
-        "handedness": "N/A",
-        "score": 56,
-        "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
-        },
-        "summary": "Christopher Roa Calcano profiles as a INF piece who gets on base at a high clip.",
-        "summaryMetrics": [
-          "AVG .319",
-          "OBP .410",
-          "SLG .536"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".319"
-          },
-          {
-            "label": "OBP",
-            "value": ".410"
-          },
-          {
-            "label": "SLG",
-            "value": ".536"
-          },
-          {
-            "label": "HR",
-            "value": "2"
-          },
-          {
-            "label": "RBI",
-            "value": "11"
-          },
-          {
-            "label": "SB",
-            "value": "4"
-          }
-        ],
-        "components": {
-          "On-base": 72.2222222222222,
-          "Power": 56.842105263157904,
-          "Contact": 61.875,
-          "Discipline": 42.10526315789473,
-          "Speed": 13.333333333333334
-        },
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "INF",
-          "SO",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Miami (OH) Athletics roster",
-          "Miami (OH) cumulative stats"
-        ],
-        "sourceSummary": "Miami (OH) Athletics roster + Miami (OH) cumulative stats",
-        "schoolSlug": "miami-oh",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/christopher-roa-calcano/10882",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "miami-oh-10885",
-        "name": "Jake Vrlak",
-        "school": "Miami (OH)",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "R-SR",
-        "handedness": "N/A",
-        "score": 70,
-        "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
-        },
-        "summary": "Jake Vrlak profiles as a OF piece who gets on base at a high clip and brings real extra-base damage.",
-        "summaryMetrics": [
-          "AVG .333",
-          "OBP .455",
-          "SLG .778"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".333"
-          },
-          {
-            "label": "OBP",
-            "value": ".455"
-          },
-          {
-            "label": "SLG",
-            "value": ".778"
-          },
-          {
-            "label": "HR",
-            "value": "1"
-          },
-          {
-            "label": "RBI",
-            "value": "3"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 97.22222222222221,
-          "Power": 100,
-          "Contact": 70.625,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "R-SR / N/A",
-        "detailBadges": [
-          "OF",
-          "R-SR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Miami (OH) Athletics roster",
-          "Miami (OH) cumulative stats"
-        ],
-        "sourceSummary": "Miami (OH) Athletics roster + Miami (OH) cumulative stats",
-        "schoolSlug": "miami-oh",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/jake-vrlak/10885",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "miami-oh-10864",
-        "name": "Clayton Burke",
-        "school": "Miami (OH)",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "GR",
-        "handedness": "N/A",
-        "score": 16,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Clayton Burke looks like a RHP option who throws enough strikes and keeps traffic under control.",
-        "summaryMetrics": [
-          "ERA 4.07",
-          "WHIP 1.17",
-          "K/9 8.1"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.07"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.17"
-          },
-          {
-            "label": "K/9",
-            "value": "8.1"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.1"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.29"
-          },
-          {
-            "label": "IP",
-            "value": "84.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 37.662337662337656,
-          "Command": 55.99999999999999,
-          "Damage suppression": 0
-        },
-        "metaLine": "GR / N/A",
-        "detailBadges": [
-          "RHP",
-          "GR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Miami (OH) Athletics roster",
-          "Miami (OH) cumulative stats"
-        ],
-        "sourceSummary": "Miami (OH) Athletics roster + Miami (OH) cumulative stats",
-        "schoolSlug": "miami-oh",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/clayton-burke/10864",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "miami-oh-10887",
-        "name": "Ryder Kirtley",
-        "school": "Miami (OH)",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SO",
-        "handedness": "N/A",
-        "score": 1,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Ryder Kirtley gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .200",
-          "OBP .273",
-          "SLG .200"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".200"
-          },
-          {
-            "label": "OBP",
-            "value": ".273"
-          },
-          {
-            "label": "SLG",
-            "value": ".200"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "1"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 5.555555555555554,
-          "Speed": 0
-        },
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "INF",
-          "SO",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Miami (OH) Athletics roster",
-          "Miami (OH) cumulative stats"
-        ],
-        "sourceSummary": "Miami (OH) Athletics roster + Miami (OH) cumulative stats",
-        "schoolSlug": "miami-oh",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/ryder-kirtley/10887",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "miami-oh-10865",
-        "name": "Carson Byers",
-        "school": "Miami (OH)",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "SR",
-        "handedness": "N/A",
-        "score": 15,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Carson Byers looks like a LHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA 6.58",
-          "WHIP 1.48",
-          "K/9 8.5"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "6.58"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.48"
-          },
-          {
-            "label": "K/9",
-            "value": "8.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.6"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.37"
-          },
-          {
-            "label": "IP",
-            "value": "65.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 40.88601753576373,
-          "Command": 45.263157894736835,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "LHP",
-          "SR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Miami (OH) Athletics roster",
-          "Miami (OH) cumulative stats"
-        ],
-        "sourceSummary": "Miami (OH) Athletics roster + Miami (OH) cumulative stats",
-        "schoolSlug": "miami-oh",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/carson-byers/10865",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "miami-oh-10870",
-        "name": "Marc Iozzo",
-        "school": "Miami (OH)",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "R-FR",
-        "handedness": "N/A",
-        "score": 4,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Marc Iozzo gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 5.40",
-          "WHIP 1.35",
-          "K/9 5.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.40"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.35"
-          },
-          {
-            "label": "K/9",
-            "value": "5.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.4"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "13.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 12.727272727272723,
-          "Command": 11.999999999999996,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-FR / N/A",
-        "detailBadges": [
-          "RHP",
-          "R-FR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Miami (OH) Athletics roster",
-          "Miami (OH) cumulative stats"
-        ],
-        "sourceSummary": "Miami (OH) Athletics roster + Miami (OH) cumulative stats",
-        "schoolSlug": "miami-oh",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/marc-iozzo/10870",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "miami-oh-10877",
-        "name": "Drew Phillips",
-        "school": "Miami (OH)",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "SO",
-        "handedness": "N/A",
-        "score": 3,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Drew Phillips gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .000",
-          "OBP .167",
-          "SLG .000"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".000"
-          },
-          {
-            "label": "OBP",
-            "value": ".167"
-          },
-          {
-            "label": "SLG",
-            "value": ".000"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "2"
-          },
-          {
-            "label": "SB",
-            "value": "2"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 14.814814814814808,
-          "Speed": 6.666666666666667
-        },
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "OF",
-          "SO",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Miami (OH) Athletics roster",
-          "Miami (OH) cumulative stats"
-        ],
-        "sourceSummary": "Miami (OH) Athletics roster + Miami (OH) cumulative stats",
-        "schoolSlug": "miami-oh",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/drew-phillips/10877",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "miami-oh-10871",
-        "name": "Dominic Krupinski",
-        "school": "Miami (OH)",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SR",
-        "handedness": "N/A",
-        "score": 68,
-        "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
-        },
-        "summary": "Dominic Krupinski profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .292",
-          "OBP .472",
-          "SLG .514"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".292"
-          },
-          {
-            "label": "OBP",
-            "value": ".472"
-          },
-          {
-            "label": "SLG",
-            "value": ".514"
-          },
-          {
-            "label": "HR",
-            "value": "9"
-          },
-          {
-            "label": "RBI",
-            "value": "46"
-          },
-          {
-            "label": "SB",
-            "value": "9"
-          }
-        ],
-        "components": {
-          "On-base": 100,
-          "Power": 51.05263157894737,
-          "Contact": 44.999999999999986,
-          "Discipline": 84.25925925925924,
-          "Speed": 30
-        },
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "INF",
-          "SR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Miami (OH) Athletics roster",
-          "Miami (OH) cumulative stats"
-        ],
-        "sourceSummary": "Miami (OH) Athletics roster + Miami (OH) cumulative stats",
-        "schoolSlug": "miami-oh",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/dominic-krupinski/10871",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "miami-oh-10884",
-        "name": "Nick Vardavas",
-        "school": "Miami (OH)",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "SR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Nick Vardavas looks like a LHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "LHP",
-          "SR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Miami (OH) Athletics roster"
-        ],
-        "sourceSummary": "Miami (OH) Athletics roster",
-        "schoolSlug": "miami-oh",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/nick-vardavas/10884",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "miami-oh-10888",
-        "name": "Marcus Dierks",
-        "school": "Miami (OH)",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "JR",
-        "handedness": "N/A",
-        "score": 84,
-        "fit": {
-          "label": "Priority",
-          "className": "fit-priority"
-        },
-        "summary": "Marcus Dierks profiles as a OF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .389",
-          "OBP .534",
-          "SLG .473"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".389"
-          },
-          {
-            "label": "OBP",
-            "value": ".534"
-          },
-          {
-            "label": "SLG",
-            "value": ".473"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "32"
-          },
-          {
-            "label": "SB",
-            "value": "40"
-          }
-        ],
-        "components": {
-          "On-base": 100,
-          "Power": 40.26315789473684,
-          "Contact": 100,
-          "Discipline": 100,
-          "Speed": 100
-        },
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "OF",
-          "JR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Miami (OH) Athletics roster",
-          "Miami (OH) cumulative stats"
-        ],
-        "sourceSummary": "Miami (OH) Athletics roster + Miami (OH) cumulative stats",
-        "schoolSlug": "miami-oh",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/marcus-dierks/10888",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "miami-oh-10889",
-        "name": "Zac Sohosky",
-        "school": "Miami (OH)",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "SR",
-        "handedness": "N/A",
-        "score": 13,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Zac Sohosky gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 5.17",
-          "WHIP 1.52",
-          "K/9 8.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.17"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.52"
-          },
-          {
-            "label": "K/9",
-            "value": "8.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.4"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.03"
-          },
-          {
-            "label": "IP",
-            "value": "78.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 39.88394584139266,
-          "Command": 28.666666666666675,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "LHP",
-          "SR",
-          "N/A",
-          "Two-Way"
-        ],
-        "leaderboards": [
-          "Miami (OH) Athletics roster",
-          "Miami (OH) cumulative stats"
-        ],
-        "sourceSummary": "Miami (OH) Athletics roster + Miami (OH) cumulative stats",
-        "schoolSlug": "miami-oh",
-        "compositeRole": "Two-Way",
-        "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/zac-sohosky/10889",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "miami-oh-10880",
-        "name": "Carson Raether",
-        "school": "Miami (OH)",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "SO",
-        "handedness": "N/A",
-        "score": 67,
-        "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
-        },
-        "summary": "Carson Raether profiles as a C piece who gets on base at a high clip.",
-        "summaryMetrics": [
-          "AVG .293",
-          "OBP .463",
-          "SLG .533"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".293"
-          },
-          {
-            "label": "OBP",
-            "value": ".463"
-          },
-          {
-            "label": "SLG",
-            "value": ".533"
-          },
-          {
-            "label": "HR",
-            "value": "8"
-          },
-          {
-            "label": "RBI",
-            "value": "38"
-          },
-          {
-            "label": "SB",
-            "value": "6"
-          }
-        ],
-        "components": {
-          "On-base": 100,
-          "Power": 56.052631578947384,
-          "Contact": 45.624999999999986,
-          "Discipline": 69.84126984126982,
-          "Speed": 20
-        },
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "C",
-          "SO",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Miami (OH) Athletics roster",
-          "Miami (OH) cumulative stats"
-        ],
-        "sourceSummary": "Miami (OH) Athletics roster + Miami (OH) cumulative stats",
-        "schoolSlug": "miami-oh",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/carson-raether/10880",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "miami-oh-10879",
-        "name": "Keenan Proctor",
-        "school": "Miami (OH)",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "R-JR",
-        "handedness": "N/A",
-        "score": 34,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Keenan Proctor profiles as a OF piece who gets on base at a high clip.",
-        "summaryMetrics": [
-          "AVG .235",
-          "OBP .417",
-          "SLG .412"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".235"
-          },
-          {
-            "label": "OBP",
-            "value": ".417"
-          },
-          {
-            "label": "SLG",
-            "value": ".412"
-          },
-          {
-            "label": "HR",
-            "value": "1"
-          },
-          {
-            "label": "RBI",
-            "value": "8"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 76.11111111111109,
-          "Power": 24.21052631578947,
-          "Contact": 9.374999999999991,
-          "Discipline": 14.814814814814808,
-          "Speed": 0
-        },
-        "metaLine": "R-JR / N/A",
-        "detailBadges": [
-          "OF",
-          "R-JR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Miami (OH) Athletics roster",
-          "Miami (OH) cumulative stats"
-        ],
-        "sourceSummary": "Miami (OH) Athletics roster + Miami (OH) cumulative stats",
-        "schoolSlug": "miami-oh",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/keenan-proctor/10879",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "miami-oh-10861",
-        "name": "Evan Appelwick",
-        "school": "Miami (OH)",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "R-SR",
-        "handedness": "N/A",
-        "score": 72,
-        "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
-        },
-        "summary": "Evan Appelwick profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
-        "summaryMetrics": [
-          "AVG .293",
-          "OBP .468",
-          "SLG .558"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".293"
-          },
-          {
-            "label": "OBP",
-            "value": ".468"
-          },
-          {
-            "label": "SLG",
-            "value": ".558"
-          },
-          {
-            "label": "HR",
-            "value": "14"
-          },
-          {
-            "label": "RBI",
-            "value": "54"
-          },
-          {
-            "label": "SB",
-            "value": "4"
-          }
-        ],
-        "components": {
-          "On-base": 100,
-          "Power": 62.63157894736844,
-          "Contact": 45.624999999999986,
-          "Discipline": 100,
-          "Speed": 13.333333333333334
-        },
-        "metaLine": "R-SR / N/A",
-        "detailBadges": [
-          "INF",
-          "R-SR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Miami (OH) Athletics roster",
-          "Miami (OH) cumulative stats"
-        ],
-        "sourceSummary": "Miami (OH) Athletics roster + Miami (OH) cumulative stats",
-        "schoolSlug": "miami-oh",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/evan-appelwick/10861",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "miami-oh-10874",
-        "name": "Cole Pauley",
-        "school": "Miami (OH)",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "R-JR",
-        "handedness": "N/A",
-        "score": 5,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Cole Pauley gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 27.00",
-          "WHIP 3.75",
-          "K/9 6.8"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "27.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "3.75"
-          },
-          {
-            "label": "K/9",
-            "value": "6.8"
-          },
-          {
-            "label": "BB/9",
-            "value": "20.3"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "1.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 25,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-JR / N/A",
-        "detailBadges": [
-          "RHP",
-          "R-JR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Miami (OH) Athletics roster",
-          "Miami (OH) cumulative stats"
-        ],
-        "sourceSummary": "Miami (OH) Athletics roster + Miami (OH) cumulative stats",
-        "schoolSlug": "miami-oh",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/cole-pauley/10874",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "miami-oh-10908",
-        "name": "Jack Geiser",
-        "school": "Miami (OH)",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "N/A",
-        "score": 5,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jack Geiser looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA 7.62",
-          "WHIP 1.84",
-          "K/9 4.1"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "7.62"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.84"
-          },
-          {
-            "label": "K/9",
-            "value": "4.1"
-          },
-          {
-            "label": "BB/9",
-            "value": "1.6"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.91"
-          },
-          {
-            "label": "IP",
-            "value": "28.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 1.1764705882352982,
-          "Command": 32,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Miami (OH) Athletics roster",
-          "Miami (OH) cumulative stats"
-        ],
-        "sourceSummary": "Miami (OH) Athletics roster + Miami (OH) cumulative stats",
-        "schoolSlug": "miami-oh",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/jack-geiser/10908",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "miami-oh-10909",
-        "name": "Alex Koelling",
-        "school": "Miami (OH)",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "R-FR",
-        "handedness": "N/A",
-        "score": 44,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Alex Koelling profiles as a INF piece who gets on base at a high clip and controls at-bats.",
-        "summaryMetrics": [
-          "AVG .000",
-          "OBP 1.000",
-          "SLG .000"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".000"
-          },
-          {
-            "label": "OBP",
-            "value": "1.000"
-          },
-          {
-            "label": "SLG",
-            "value": ".000"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 100,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 88.88888888888889,
-          "Speed": 0
-        },
-        "metaLine": "R-FR / N/A",
-        "detailBadges": [
-          "INF",
-          "R-FR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Miami (OH) Athletics roster",
-          "Miami (OH) cumulative stats"
-        ],
-        "sourceSummary": "Miami (OH) Athletics roster + Miami (OH) cumulative stats",
-        "schoolSlug": "miami-oh",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/alex-koelling/10909",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "miami-oh-10867",
-        "name": "Landon Fulk",
-        "school": "Miami (OH)",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "N/A",
-        "score": 11,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Landon Fulk gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 14.54",
-          "WHIP 1.85",
-          "K/9 8.3"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "14.54"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.85"
-          },
-          {
-            "label": "K/9",
-            "value": "8.3"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.2"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "4.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 39.16083916083917,
-          "Command": 20,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Miami (OH) Athletics roster",
-          "Miami (OH) cumulative stats"
-        ],
-        "sourceSummary": "Miami (OH) Athletics roster + Miami (OH) cumulative stats",
-        "schoolSlug": "miami-oh",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/landon-fulk/10867",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "miami-oh-10868",
-        "name": "Ignacio Gonzalez",
-        "school": "Miami (OH)",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "R-FR",
-        "handedness": "N/A",
-        "score": 31,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Ignacio Gonzalez gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .256",
-          "OBP .361",
-          "SLG .438"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".256"
-          },
-          {
-            "label": "OBP",
-            "value": ".361"
-          },
-          {
-            "label": "SLG",
-            "value": ".438"
-          },
-          {
-            "label": "HR",
-            "value": "10"
-          },
-          {
-            "label": "RBI",
-            "value": "50"
-          },
-          {
-            "label": "SB",
-            "value": "2"
-          }
-        ],
-        "components": {
-          "On-base": 44.99999999999998,
-          "Power": 31.05263157894737,
-          "Contact": 22.500000000000004,
-          "Discipline": 26.086956521739125,
-          "Speed": 6.666666666666667
-        },
-        "metaLine": "R-FR / N/A",
-        "detailBadges": [
-          "INF",
-          "R-FR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Miami (OH) Athletics roster",
-          "Miami (OH) cumulative stats"
-        ],
-        "sourceSummary": "Miami (OH) Athletics roster + Miami (OH) cumulative stats",
-        "schoolSlug": "miami-oh",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/ignacio-gonzalez/10868",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "miami-oh-10878",
-        "name": "Connor Preisel",
-        "school": "Miami (OH)",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "SR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Connor Preisel gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 5.40",
-          "WHIP 2.40",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.40"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.40"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.4"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "1.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "LHP",
-          "SR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Miami (OH) Athletics roster",
-          "Miami (OH) cumulative stats"
-        ],
-        "sourceSummary": "Miami (OH) Athletics roster + Miami (OH) cumulative stats",
-        "schoolSlug": "miami-oh",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/connor-preisel/10878",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "miami-oh-10895",
-        "name": "Jake Tedesco",
-        "school": "Miami (OH)",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "SR",
-        "handedness": "N/A",
-        "score": 11,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jake Tedesco looks like a LHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 6.29",
-          "WHIP 1.81",
-          "K/9 9.6"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "6.29"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.81"
-          },
-          {
-            "label": "K/9",
-            "value": "9.6"
-          },
-          {
-            "label": "BB/9",
-            "value": "8.1"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.74"
-          },
-          {
-            "label": "IP",
-            "value": "24.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 51.05853051058531,
-          "Command": 3.6363636363636376,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "LHP",
-          "SR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Miami (OH) Athletics roster",
-          "Miami (OH) cumulative stats"
-        ],
-        "sourceSummary": "Miami (OH) Athletics roster + Miami (OH) cumulative stats",
-        "schoolSlug": "miami-oh",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/jake-tedesco/10895",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "miami-oh-10910",
-        "name": "Hayden Christiansen",
-        "school": "Miami (OH)",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "R-JR",
-        "handedness": "N/A",
-        "score": 4,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Hayden Christiansen gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .237",
-          "OBP .275",
-          "SLG .342"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".237"
-          },
-          {
-            "label": "OBP",
-            "value": ".275"
-          },
-          {
-            "label": "SLG",
-            "value": ".342"
-          },
-          {
-            "label": "HR",
-            "value": "1"
-          },
-          {
-            "label": "RBI",
-            "value": "8"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 5.789473684210533,
-          "Contact": 10.624999999999991,
-          "Discipline": 0,
-          "Speed": 3.3333333333333335
-        },
-        "metaLine": "R-JR / N/A",
-        "detailBadges": [
-          "OF",
-          "R-JR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Miami (OH) Athletics roster",
-          "Miami (OH) cumulative stats"
-        ],
-        "sourceSummary": "Miami (OH) Athletics roster + Miami (OH) cumulative stats",
-        "schoolSlug": "miami-oh",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/hayden-christiansen/10910",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "miami-oh-10869",
-        "name": "Tommy Harrison",
-        "school": "Miami (OH)",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "R-JR",
-        "handedness": "N/A",
-        "score": 91,
-        "fit": {
-          "label": "Priority",
-          "className": "fit-priority"
-        },
-        "summary": "Tommy Harrison profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats.",
-        "summaryMetrics": [
-          "AVG .386",
-          "OBP .507",
-          "SLG .698"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".386"
-          },
-          {
-            "label": "OBP",
-            "value": ".507"
-          },
-          {
-            "label": "SLG",
-            "value": ".698"
-          },
-          {
-            "label": "HR",
-            "value": "17"
-          },
-          {
-            "label": "RBI",
-            "value": "85"
-          },
-          {
-            "label": "SB",
-            "value": "4"
-          }
-        ],
-        "components": {
-          "On-base": 100,
-          "Power": 99.47368421052632,
-          "Contact": 100,
-          "Discipline": 100,
-          "Speed": 13.333333333333334
-        },
-        "metaLine": "R-JR / N/A",
-        "detailBadges": [
-          "OF",
-          "R-JR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Miami (OH) Athletics roster",
-          "Miami (OH) cumulative stats"
-        ],
-        "sourceSummary": "Miami (OH) Athletics roster + Miami (OH) cumulative stats",
-        "schoolSlug": "miami-oh",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/tommy-harrison/10869",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "miami-oh-10893",
-        "name": "Mason Breidenbach",
-        "school": "Miami (OH)",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "R-JR",
-        "handedness": "N/A",
-        "score": 36,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Mason Breidenbach profiles as a OF piece who controls at-bats.",
-        "summaryMetrics": [
-          "AVG .220",
-          "OBP .397",
-          "SLG .356"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".220"
-          },
-          {
-            "label": "OBP",
-            "value": ".397"
-          },
-          {
-            "label": "SLG",
-            "value": ".356"
-          },
-          {
-            "label": "HR",
-            "value": "1"
-          },
-          {
-            "label": "RBI",
-            "value": "14"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
-        "components": {
-          "On-base": 65,
-          "Power": 9.47368421052631,
-          "Contact": 0,
-          "Discipline": 88.88888888888889,
-          "Speed": 3.3333333333333335
-        },
-        "metaLine": "R-JR / N/A",
-        "detailBadges": [
-          "OF",
-          "R-JR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Miami (OH) Athletics roster",
-          "Miami (OH) cumulative stats"
-        ],
-        "sourceSummary": "Miami (OH) Athletics roster + Miami (OH) cumulative stats",
-        "schoolSlug": "miami-oh",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/mason-breidenbach/10893",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "miami-oh-10883",
-        "name": "Luke Ross",
-        "school": "Miami (OH)",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "SR",
-        "handedness": "N/A",
-        "score": 9,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Luke Ross looks like a LHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 9.00",
-          "WHIP 2.67",
-          "K/9 9.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "9.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.67"
-          },
-          {
-            "label": "K/9",
-            "value": "9.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "12.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "3.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "LHP",
-          "SR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Miami (OH) Athletics roster",
-          "Miami (OH) cumulative stats"
-        ],
-        "sourceSummary": "Miami (OH) Athletics roster + Miami (OH) cumulative stats",
-        "schoolSlug": "miami-oh",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/luke-ross/10883",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "miami-oh-10911",
-        "name": "Matthew Buffington",
-        "school": "Miami (OH)",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "GR",
-        "handedness": "N/A",
-        "score": 40,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Matthew Buffington profiles as a C piece who gets on base at a high clip.",
-        "summaryMetrics": [
-          "AVG .250",
-          "OBP .402",
-          "SLG .438"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".250"
-          },
-          {
-            "label": "OBP",
-            "value": ".402"
-          },
-          {
-            "label": "SLG",
-            "value": ".438"
-          },
-          {
-            "label": "HR",
-            "value": "3"
-          },
-          {
-            "label": "RBI",
-            "value": "14"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
-        "components": {
-          "On-base": 67.77777777777779,
-          "Power": 31.05263157894737,
-          "Contact": 18.75,
-          "Discipline": 45.67901234567901,
-          "Speed": 3.3333333333333335
-        },
-        "metaLine": "GR / N/A",
-        "detailBadges": [
-          "C",
-          "GR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Miami (OH) Athletics roster",
-          "Miami (OH) cumulative stats"
-        ],
-        "sourceSummary": "Miami (OH) Athletics roster + Miami (OH) cumulative stats",
-        "schoolSlug": "miami-oh",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/matthew-buffington/10911",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "miami-oh-10912",
-        "name": "Kyle Kesel",
-        "school": "Miami (OH)",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "R-SO",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Kyle Kesel looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-SO / N/A",
-        "detailBadges": [
-          "RHP",
-          "R-SO",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Miami (OH) Athletics roster"
-        ],
-        "sourceSummary": "Miami (OH) Athletics roster",
-        "schoolSlug": "miami-oh",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/kyle-kesel/10912",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "miami-oh-10862",
-        "name": "Troy Benko",
-        "school": "Miami (OH)",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "N/A",
-        "score": 7,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Troy Benko looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA 6.75",
-          "WHIP 1.56",
-          "K/9 5.3"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "6.75"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.56"
-          },
-          {
-            "label": "K/9",
-            "value": "5.3"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.1"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.24"
-          },
-          {
-            "label": "IP",
-            "value": "50.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 12.081339712918664,
-          "Command": 30,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Miami (OH) Athletics roster",
-          "Miami (OH) cumulative stats"
-        ],
-        "sourceSummary": "Miami (OH) Athletics roster + Miami (OH) cumulative stats",
-        "schoolSlug": "miami-oh",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/troy-benko/10862",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "miami-oh-10873",
-        "name": "Ryan Novak",
-        "school": "Miami (OH)",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "JR",
-        "handedness": "N/A",
-        "score": 59,
-        "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
-        },
-        "summary": "Ryan Novak profiles as a OF piece who gets on base at a high clip and controls at-bats.",
-        "summaryMetrics": [
-          "AVG .261",
-          "OBP .422",
-          "SLG .538"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".261"
-          },
-          {
-            "label": "OBP",
-            "value": ".422"
-          },
-          {
-            "label": "SLG",
-            "value": ".538"
-          },
-          {
-            "label": "HR",
-            "value": "13"
-          },
-          {
-            "label": "RBI",
-            "value": "59"
-          },
-          {
-            "label": "SB",
-            "value": "4"
-          }
-        ],
-        "components": {
-          "On-base": 78.88888888888886,
-          "Power": 57.36842105263159,
-          "Contact": 25.625000000000004,
-          "Discipline": 91.4141414141414,
-          "Speed": 13.333333333333334
-        },
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "OF",
-          "JR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Miami (OH) Athletics roster",
-          "Miami (OH) cumulative stats"
-        ],
-        "sourceSummary": "Miami (OH) Athletics roster + Miami (OH) cumulative stats",
-        "schoolSlug": "miami-oh",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/ryan-novak/10873",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "miami-oh-10913",
-        "name": "Charlie Denomme",
-        "school": "Miami (OH)",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Charlie Denomme looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Miami (OH) Athletics roster"
-        ],
-        "sourceSummary": "Miami (OH) Athletics roster",
-        "schoolSlug": "miami-oh",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/charlie-denomme/10913",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "miami-oh-10881",
-        "name": "Jamie Rasmussen",
-        "school": "Miami (OH)",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SO",
-        "handedness": "N/A",
-        "score": 19,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jamie Rasmussen gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .245",
-          "OBP .322",
-          "SLG .415"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".245"
-          },
-          {
-            "label": "OBP",
-            "value": ".322"
-          },
-          {
-            "label": "SLG",
-            "value": ".415"
-          },
-          {
-            "label": "HR",
-            "value": "2"
-          },
-          {
-            "label": "RBI",
-            "value": "11"
-          },
-          {
-            "label": "SB",
-            "value": "2"
-          }
-        ],
-        "components": {
-          "On-base": 23.333333333333325,
-          "Power": 24.999999999999996,
-          "Contact": 15.624999999999996,
-          "Discipline": 12.865497076023386,
-          "Speed": 6.666666666666667
-        },
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "INF",
-          "SO",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Miami (OH) Athletics roster",
-          "Miami (OH) cumulative stats"
-        ],
-        "sourceSummary": "Miami (OH) Athletics roster + Miami (OH) cumulative stats",
-        "schoolSlug": "miami-oh",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/jamie-rasmussen/10881",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "miami-oh-10892",
-        "name": "Cameron Novak",
-        "school": "Miami (OH)",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "FR",
-        "handedness": "N/A",
-        "score": 11,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Cameron Novak looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA 6.38",
-          "WHIP 1.42",
-          "K/9 7.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "6.38"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.42"
-          },
-          {
-            "label": "K/9",
-            "value": "7.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.9"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.49"
-          },
-          {
-            "label": "IP",
-            "value": "18.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 30.57851239669422,
-          "Command": 30,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / N/A",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Miami (OH) Athletics roster",
-          "Miami (OH) cumulative stats"
-        ],
-        "sourceSummary": "Miami (OH) Athletics roster + Miami (OH) cumulative stats",
-        "schoolSlug": "miami-oh",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/cameron-novak/10892",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "miami-oh-10863",
-        "name": "Austin Berggren",
-        "school": "Miami (OH)",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "N/A",
-        "score": 27,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Austin Berggren looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
-        "summaryMetrics": [
-          "ERA 3.65",
-          "WHIP 1.24",
-          "K/9 12.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.65"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.24"
-          },
-          {
-            "label": "K/9",
-            "value": "12.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.6"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.61"
-          },
-          {
-            "label": "IP",
-            "value": "44.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 76.21326042378674,
-          "Command": 73.84615384615385,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Miami (OH) Athletics roster",
-          "Miami (OH) cumulative stats"
-        ],
-        "sourceSummary": "Miami (OH) Athletics roster + Miami (OH) cumulative stats",
-        "schoolSlug": "miami-oh",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/austin-berggren/10863",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "miami-oh-10891",
-        "name": "Jared Eisiminger",
-        "school": "Miami (OH)",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "N/A",
-        "score": 9,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jared Eisiminger gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 8.31",
-          "WHIP 1.77",
-          "K/9 8.3"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "8.31"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.77"
-          },
-          {
-            "label": "K/9",
-            "value": "8.3"
-          },
-          {
-            "label": "BB/9",
-            "value": "6.2"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.69"
-          },
-          {
-            "label": "IP",
-            "value": "13.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 39.16083916083917,
-          "Command": 6.66666666666667,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Miami (OH) Athletics roster",
-          "Miami (OH) cumulative stats"
-        ],
-        "sourceSummary": "Miami (OH) Athletics roster + Miami (OH) cumulative stats",
-        "schoolSlug": "miami-oh",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/jared-eisiminger/10891",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "miami-oh-10876",
-        "name": "Kaden Pfeffer",
-        "school": "Miami (OH)",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "GR",
-        "handedness": "N/A",
-        "score": 8,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Kaden Pfeffer gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 6.30",
-          "WHIP 1.90",
-          "K/9 8.1"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "6.30"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.90"
-          },
-          {
-            "label": "K/9",
-            "value": "8.1"
-          },
-          {
-            "label": "BB/9",
-            "value": "7.2"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.90"
-          },
-          {
-            "label": "IP",
-            "value": "10.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 37.272727272727266,
-          "Command": 2.5,
-          "Damage suppression": 0
-        },
-        "metaLine": "GR / N/A",
-        "detailBadges": [
-          "LHP",
-          "GR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Miami (OH) Athletics roster",
-          "Miami (OH) cumulative stats"
-        ],
-        "sourceSummary": "Miami (OH) Athletics roster + Miami (OH) cumulative stats",
-        "schoolSlug": "miami-oh",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/kaden-pfeffer/10876",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "miami-oh-10890",
-        "name": "Alex Gay",
-        "school": "Miami (OH)",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "N/A",
-        "score": 13,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Alex Gay looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 5.76",
-          "WHIP 1.96",
-          "K/9 10.8"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.76"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.96"
-          },
-          {
-            "label": "K/9",
-            "value": "10.8"
-          },
-          {
-            "label": "BB/9",
-            "value": "8.3"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.08"
-          },
-          {
-            "label": "IP",
-            "value": "25.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 61.81818181818183,
-          "Command": 6.086956521739135,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Miami (OH) Athletics roster",
-          "Miami (OH) cumulative stats"
-        ],
-        "sourceSummary": "Miami (OH) Athletics roster + Miami (OH) cumulative stats",
-        "schoolSlug": "miami-oh",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://miamiredhawks.com/sports/baseball/roster/alex-gay/10890",
         "espnAthleteId": ""
       },
       {
@@ -100709,7 +83294,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "role": "Pitcher",
         "position": "OF/LHP",
         "classYear": "R-JR",
-        "handedness": "TR",
+        "handedness": "N/A",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -100754,11 +83339,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "R-JR / TR",
+        "metaLine": "R-JR / N/A",
         "detailBadges": [
           "OF/LHP",
           "R-JR",
-          "TR",
+          "N/A",
           "Pitcher"
         ],
         "leaderboards": [
@@ -100777,7 +83362,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "role": "Hitter",
         "position": "INF",
         "classYear": "SR",
-        "handedness": "TR",
+        "handedness": "N/A",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -100822,11 +83407,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "SR / TR",
+        "metaLine": "SR / N/A",
         "detailBadges": [
           "INF",
           "SR",
-          "TR",
+          "N/A",
           "Rostered"
         ],
         "leaderboards": [
@@ -100845,7 +83430,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "role": "Hitter",
         "position": "UTL",
         "classYear": "R-SR",
-        "handedness": "SQ",
+        "handedness": "N/A",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -100890,11 +83475,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "R-SR / SQ",
+        "metaLine": "R-SR / N/A",
         "detailBadges": [
           "UTL",
           "R-SR",
-          "SQ",
+          "N/A",
           "Rostered"
         ],
         "leaderboards": [
@@ -100913,7 +83498,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "role": "Hitter",
         "position": "OF",
         "classYear": "R-SR",
-        "handedness": "1V",
+        "handedness": "N/A",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -100958,11 +83543,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "R-SR / 1V",
+        "metaLine": "R-SR / N/A",
         "detailBadges": [
           "OF",
           "R-SR",
-          "1V",
+          "N/A",
           "Rostered"
         ],
         "leaderboards": [
@@ -100981,7 +83566,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "role": "Hitter",
         "position": "INF",
         "classYear": "R-SO",
-        "handedness": "1V",
+        "handedness": "N/A",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -101026,11 +83611,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "R-SO / 1V",
+        "metaLine": "R-SO / N/A",
         "detailBadges": [
           "INF",
           "R-SO",
-          "1V",
+          "N/A",
           "Rostered"
         ],
         "leaderboards": [
@@ -101049,7 +83634,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "role": "Hitter",
         "position": "1B/OF",
         "classYear": "SO",
-        "handedness": "HS",
+        "handedness": "N/A",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -101094,11 +83679,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "SO / HS",
+        "metaLine": "SO / N/A",
         "detailBadges": [
           "1B/OF",
           "SO",
-          "HS",
+          "N/A",
           "Rostered"
         ],
         "leaderboards": [
@@ -101117,7 +83702,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "role": "Hitter",
         "position": "C/OF",
         "classYear": "R-JR",
-        "handedness": "TR",
+        "handedness": "N/A",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -101162,11 +83747,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "R-JR / TR",
+        "metaLine": "R-JR / N/A",
         "detailBadges": [
           "C/OF",
           "R-JR",
-          "TR",
+          "N/A",
           "Rostered"
         ],
         "leaderboards": [
@@ -101185,7 +83770,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "role": "Hitter",
         "position": "C/OF",
         "classYear": "SO",
-        "handedness": "HS",
+        "handedness": "N/A",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -101230,11 +83815,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "SO / HS",
+        "metaLine": "SO / N/A",
         "detailBadges": [
           "C/OF",
           "SO",
-          "HS",
+          "N/A",
           "Rostered"
         ],
         "leaderboards": [
@@ -101253,7 +83838,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "role": "Hitter",
         "position": "INF",
         "classYear": "R-FR",
-        "handedness": "HS",
+        "handedness": "N/A",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -101298,11 +83883,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "R-FR / HS",
+        "metaLine": "R-FR / N/A",
         "detailBadges": [
           "INF",
           "R-FR",
-          "HS",
+          "N/A",
           "Rostered"
         ],
         "leaderboards": [
@@ -101321,7 +83906,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "role": "Pitcher",
         "position": "RHP",
         "classYear": "R-FR",
-        "handedness": "HS",
+        "handedness": "N/A",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -101366,11 +83951,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "R-FR / HS",
+        "metaLine": "R-FR / N/A",
         "detailBadges": [
           "RHP",
           "R-FR",
-          "HS",
+          "N/A",
           "Pitcher"
         ],
         "leaderboards": [
@@ -101389,7 +83974,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "role": "Pitcher",
         "position": "RHP",
         "classYear": "R-JR",
-        "handedness": "2V",
+        "handedness": "N/A",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -101434,11 +84019,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "R-JR / 2V",
+        "metaLine": "R-JR / N/A",
         "detailBadges": [
           "RHP",
           "R-JR",
-          "2V",
+          "N/A",
           "Pitcher"
         ],
         "leaderboards": [
@@ -101457,7 +84042,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "role": "Pitcher",
         "position": "INF/RHP",
         "classYear": "SO",
-        "handedness": "HS",
+        "handedness": "N/A",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -101502,11 +84087,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SO / HS",
+        "metaLine": "SO / N/A",
         "detailBadges": [
           "INF/RHP",
           "SO",
-          "HS",
+          "N/A",
           "Pitcher"
         ],
         "leaderboards": [
@@ -101525,7 +84110,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "role": "Pitcher",
         "position": "OF/LHP",
         "classYear": "SO",
-        "handedness": "HS",
+        "handedness": "N/A",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -101570,11 +84155,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SO / HS",
+        "metaLine": "SO / N/A",
         "detailBadges": [
           "OF/LHP",
           "SO",
-          "HS",
+          "N/A",
           "Pitcher"
         ],
         "leaderboards": [
@@ -101661,7 +84246,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "role": "Hitter",
         "position": "INF",
         "classYear": "R-FR",
-        "handedness": "HS",
+        "handedness": "N/A",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -101706,11 +84291,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "R-FR / HS",
+        "metaLine": "R-FR / N/A",
         "detailBadges": [
           "INF",
           "R-FR",
-          "HS",
+          "N/A",
           "Rostered"
         ],
         "leaderboards": [
@@ -101729,7 +84314,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "role": "Pitcher",
         "position": "RHP",
         "classYear": "R-JR",
-        "handedness": "2V",
+        "handedness": "N/A",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -101774,11 +84359,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "R-JR / 2V",
+        "metaLine": "R-JR / N/A",
         "detailBadges": [
           "RHP",
           "R-JR",
-          "2V",
+          "N/A",
           "Pitcher"
         ],
         "leaderboards": [
@@ -101797,7 +84382,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "role": "Hitter",
         "position": "INF",
         "classYear": "JR",
-        "handedness": "1V",
+        "handedness": "N/A",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -101842,11 +84427,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "JR / 1V",
+        "metaLine": "JR / N/A",
         "detailBadges": [
           "INF",
           "JR",
-          "1V",
+          "N/A",
           "Rostered"
         ],
         "leaderboards": [
@@ -101865,7 +84450,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "role": "Pitcher",
         "position": "RHP",
         "classYear": "SO",
-        "handedness": "HS",
+        "handedness": "N/A",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -101910,11 +84495,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SO / HS",
+        "metaLine": "SO / N/A",
         "detailBadges": [
           "RHP",
           "SO",
-          "HS",
+          "N/A",
           "Pitcher"
         ],
         "leaderboards": [
@@ -101933,7 +84518,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "role": "Pitcher",
         "position": "LHP",
         "classYear": "JR",
-        "handedness": "TR",
+        "handedness": "N/A",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -101978,11 +84563,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "JR / TR",
+        "metaLine": "JR / N/A",
         "detailBadges": [
           "LHP",
           "JR",
-          "TR",
+          "N/A",
           "Pitcher"
         ],
         "leaderboards": [
@@ -102001,7 +84586,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "role": "Pitcher",
         "position": "RHP",
         "classYear": "JR",
-        "handedness": "1V",
+        "handedness": "N/A",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -102046,11 +84631,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "JR / 1V",
+        "metaLine": "JR / N/A",
         "detailBadges": [
           "RHP",
           "JR",
-          "1V",
+          "N/A",
           "Pitcher"
         ],
         "leaderboards": [
@@ -102069,7 +84654,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "role": "Hitter",
         "position": "1B/OF",
         "classYear": "JR",
-        "handedness": "1V",
+        "handedness": "N/A",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -102114,11 +84699,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "JR / 1V",
+        "metaLine": "JR / N/A",
         "detailBadges": [
           "1B/OF",
           "JR",
-          "1V",
+          "N/A",
           "Rostered"
         ],
         "leaderboards": [
@@ -102137,7 +84722,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "role": "Pitcher",
         "position": "RHP",
         "classYear": "SO",
-        "handedness": "HS",
+        "handedness": "N/A",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -102182,11 +84767,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SO / HS",
+        "metaLine": "SO / N/A",
         "detailBadges": [
           "RHP",
           "SO",
-          "HS",
+          "N/A",
           "Pitcher"
         ],
         "leaderboards": [
@@ -102205,7 +84790,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "role": "Pitcher",
         "position": "RHP",
         "classYear": "SR",
-        "handedness": "2V",
+        "handedness": "N/A",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -102250,11 +84835,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SR / 2V",
+        "metaLine": "SR / N/A",
         "detailBadges": [
           "RHP",
           "SR",
-          "2V",
+          "N/A",
           "Pitcher"
         ],
         "leaderboards": [
@@ -102264,6 +84849,550 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "schoolSlug": "pepperdine",
         "compositeRole": "Pitcher",
         "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/kam-croghan/5927",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "pepperdine-6153",
+        "name": "Jameson Berigan",
+        "school": "Pepperdine",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "FR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jameson Berigan looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Pepperdine Athletics roster"
+        ],
+        "sourceSummary": "Pepperdine Athletics roster",
+        "schoolSlug": "pepperdine",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/jameson-berigan/6153",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "pepperdine-6154",
+        "name": "Wyatt Denton",
+        "school": "Pepperdine",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "FR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Wyatt Denton gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "C",
+          "FR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Pepperdine Athletics roster"
+        ],
+        "sourceSummary": "Pepperdine Athletics roster",
+        "schoolSlug": "pepperdine",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/wyatt-denton/6154",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "pepperdine-6155",
+        "name": "Zachary Durben",
+        "school": "Pepperdine",
+        "role": "Hitter",
+        "position": "INF/C",
+        "classYear": "FR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Zachary Durben gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "INF/C",
+          "FR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Pepperdine Athletics roster"
+        ],
+        "sourceSummary": "Pepperdine Athletics roster",
+        "schoolSlug": "pepperdine",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/zachary-durben/6155",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "pepperdine-6156",
+        "name": "Aidan Martinez",
+        "school": "Pepperdine",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "FR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Aidan Martinez gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "OF",
+          "FR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Pepperdine Athletics roster"
+        ],
+        "sourceSummary": "Pepperdine Athletics roster",
+        "schoolSlug": "pepperdine",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/aidan-martinez/6156",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "pepperdine-6157",
+        "name": "Eric Nelson",
+        "school": "Pepperdine",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "FR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Eric Nelson looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Pepperdine Athletics roster"
+        ],
+        "sourceSummary": "Pepperdine Athletics roster",
+        "schoolSlug": "pepperdine",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/eric-nelson/6157",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "pepperdine-6158",
+        "name": "Jonah Sidel",
+        "school": "Pepperdine",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "FR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jonah Sidel looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Pepperdine Athletics roster"
+        ],
+        "sourceSummary": "Pepperdine Athletics roster",
+        "schoolSlug": "pepperdine",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/jonah-sidel/6158",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "pepperdine-6159",
+        "name": "Tanner Wall",
+        "school": "Pepperdine",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "FR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Tanner Wall gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "INF",
+          "FR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Pepperdine Athletics roster"
+        ],
+        "sourceSummary": "Pepperdine Athletics roster",
+        "schoolSlug": "pepperdine",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/tanner-wall/6159",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "pepperdine-6160",
+        "name": "Ryan Wollschlager",
+        "school": "Pepperdine",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "FR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Ryan Wollschlager looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Pepperdine Athletics roster"
+        ],
+        "sourceSummary": "Pepperdine Athletics roster",
+        "schoolSlug": "pepperdine",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://pepperdinewaves.com/sports/baseball/roster/ryan-wollschlager/6160",
         "espnAthleteId": ""
       },
       {
@@ -113838,5306 +96967,6 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "schoolSlug": "richmond",
         "compositeRole": "Pitcher",
         "profileUrl": "https://richmondspiders.com/sports/baseball/roster/dom-ruggiero/8058",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "rutgers-15945",
-        "name": "Matthew Cruz",
-        "school": "Rutgers",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "N/A",
-        "score": 6,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Matthew Cruz gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 8.22",
-          "WHIP 2.15",
-          "K/9 7.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "8.22"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.15"
-          },
-          {
-            "label": "K/9",
-            "value": "7.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "8.8"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.76"
-          },
-          {
-            "label": "IP",
-            "value": "15.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 27.667984189723317,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Rutgers Athletics roster",
-          "Rutgers cumulative stats"
-        ],
-        "sourceSummary": "Rutgers Athletics roster + Rutgers cumulative stats",
-        "schoolSlug": "rutgers",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://scarletknights.com/sports/baseball/roster/matthew-cruz/15945",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "rutgers-15991",
-        "name": "Jordan Saviñon",
-        "school": "Rutgers",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "SR",
-        "handedness": "N/A",
-        "score": 11,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jordan Saviñon looks like a LHP option who limits runs and misses bats.",
-        "summaryMetrics": [
-          "ERA 3.66",
-          "WHIP 1.63",
-          "K/9 9.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.66"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.63"
-          },
-          {
-            "label": "K/9",
-            "value": "9.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.9"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.41"
-          },
-          {
-            "label": "IP",
-            "value": "32.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
-          "Command": 10.476190476190474,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "LHP",
-          "SR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Rutgers Athletics roster",
-          "Rutgers cumulative stats"
-        ],
-        "sourceSummary": "Rutgers Athletics roster + Rutgers cumulative stats",
-        "schoolSlug": "rutgers",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://scarletknights.com/sports/baseball/roster/jordan-savion/15991",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "rutgers-15956",
-        "name": "Charlie Meglio",
-        "school": "Rutgers",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "JR",
-        "handedness": "N/A",
-        "score": 36,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Charlie Meglio gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .249",
-          "OBP .362",
-          "SLG .463"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".249"
-          },
-          {
-            "label": "OBP",
-            "value": ".362"
-          },
-          {
-            "label": "SLG",
-            "value": ".463"
-          },
-          {
-            "label": "HR",
-            "value": "10"
-          },
-          {
-            "label": "RBI",
-            "value": "37"
-          },
-          {
-            "label": "SB",
-            "value": "4"
-          }
-        ],
-        "components": {
-          "On-base": 45.555555555555536,
-          "Power": 37.63157894736843,
-          "Contact": 18.125,
-          "Discipline": 52.65700483091786,
-          "Speed": 13.333333333333334
-        },
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "INF",
-          "JR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Rutgers Athletics roster",
-          "Rutgers cumulative stats"
-        ],
-        "sourceSummary": "Rutgers Athletics roster + Rutgers cumulative stats",
-        "schoolSlug": "rutgers",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://scarletknights.com/sports/baseball/roster/charlie-meglio/15956",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "rutgers-15957",
-        "name": "Trey Wells",
-        "school": "Rutgers",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "SR",
-        "handedness": "N/A",
-        "score": 37,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Trey Wells profiles as a C piece who adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .297",
-          "OBP .356",
-          "SLG .459"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".297"
-          },
-          {
-            "label": "OBP",
-            "value": ".356"
-          },
-          {
-            "label": "SLG",
-            "value": ".459"
-          },
-          {
-            "label": "HR",
-            "value": "6"
-          },
-          {
-            "label": "RBI",
-            "value": "35"
-          },
-          {
-            "label": "SB",
-            "value": "8"
-          }
-        ],
-        "components": {
-          "On-base": 42.2222222222222,
-          "Power": 36.57894736842106,
-          "Contact": 48.12499999999999,
-          "Discipline": 19.75308641975308,
-          "Speed": 26.666666666666668
-        },
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "C",
-          "SR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Rutgers Athletics roster",
-          "Rutgers cumulative stats"
-        ],
-        "sourceSummary": "Rutgers Athletics roster + Rutgers cumulative stats",
-        "schoolSlug": "rutgers",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://scarletknights.com/sports/baseball/roster/trey-wells/15957",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "rutgers-15958",
-        "name": "Chase Krewson",
-        "school": "Rutgers",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "JR",
-        "handedness": "N/A",
-        "score": 39,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Chase Krewson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .264",
-          "OBP .368",
-          "SLG .452"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".264"
-          },
-          {
-            "label": "OBP",
-            "value": ".368"
-          },
-          {
-            "label": "SLG",
-            "value": ".452"
-          },
-          {
-            "label": "HR",
-            "value": "9"
-          },
-          {
-            "label": "RBI",
-            "value": "30"
-          },
-          {
-            "label": "SB",
-            "value": "7"
-          }
-        ],
-        "components": {
-          "On-base": 48.88888888888887,
-          "Power": 34.736842105263165,
-          "Contact": 27.500000000000007,
-          "Discipline": 51.85185185185184,
-          "Speed": 23.333333333333332
-        },
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "OF",
-          "JR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Rutgers Athletics roster",
-          "Rutgers cumulative stats"
-        ],
-        "sourceSummary": "Rutgers Athletics roster + Rutgers cumulative stats",
-        "schoolSlug": "rutgers",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://scarletknights.com/sports/baseball/roster/chase-krewson/15958",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "rutgers-15954",
-        "name": "Pablo Santos",
-        "school": "Rutgers",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Pablo Santos looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Rutgers Athletics roster"
-        ],
-        "sourceSummary": "Rutgers Athletics roster",
-        "schoolSlug": "rutgers",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://scarletknights.com/sports/baseball/roster/pablo-santos/15954",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "rutgers-15959",
-        "name": "Ryan Jaros",
-        "school": "Rutgers",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "JR",
-        "handedness": "N/A",
-        "score": 36,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Ryan Jaros gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .292",
-          "OBP .356",
-          "SLG .492"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".292"
-          },
-          {
-            "label": "OBP",
-            "value": ".356"
-          },
-          {
-            "label": "SLG",
-            "value": ".492"
-          },
-          {
-            "label": "HR",
-            "value": "9"
-          },
-          {
-            "label": "RBI",
-            "value": "35"
-          },
-          {
-            "label": "SB",
-            "value": "5"
-          }
-        ],
-        "components": {
-          "On-base": 42.2222222222222,
-          "Power": 45.26315789473684,
-          "Contact": 44.999999999999986,
-          "Discipline": 10.185185185185185,
-          "Speed": 16.666666666666664
-        },
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "INF",
-          "JR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Rutgers Athletics roster",
-          "Rutgers cumulative stats"
-        ],
-        "sourceSummary": "Rutgers Athletics roster + Rutgers cumulative stats",
-        "schoolSlug": "rutgers",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://scarletknights.com/sports/baseball/roster/ryan-jaros/15959",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "rutgers-15960",
-        "name": "Henry Radbill",
-        "school": "Rutgers",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "FR",
-        "handedness": "N/A",
-        "score": 7,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Henry Radbill gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 8.14",
-          "WHIP 2.55",
-          "K/9 7.8"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "8.14"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.55"
-          },
-          {
-            "label": "K/9",
-            "value": "7.8"
-          },
-          {
-            "label": "BB/9",
-            "value": "7.8"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.37"
-          },
-          {
-            "label": "IP",
-            "value": "24.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 34.24657534246576,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / N/A",
-        "detailBadges": [
-          "LHP",
-          "FR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Rutgers Athletics roster",
-          "Rutgers cumulative stats"
-        ],
-        "sourceSummary": "Rutgers Athletics roster + Rutgers cumulative stats",
-        "schoolSlug": "rutgers",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://scarletknights.com/sports/baseball/roster/henry-radbill/15960",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "rutgers-15961",
-        "name": "Joey Erace",
-        "school": "Rutgers",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "FR",
-        "handedness": "N/A",
-        "score": 3,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Joey Erace gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .188",
-          "OBP .263",
-          "SLG .261"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".188"
-          },
-          {
-            "label": "OBP",
-            "value": ".263"
-          },
-          {
-            "label": "SLG",
-            "value": ".261"
-          },
-          {
-            "label": "HR",
-            "value": "1"
-          },
-          {
-            "label": "RBI",
-            "value": "7"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 22.22222222222222,
-          "Speed": 0
-        },
-        "metaLine": "FR / N/A",
-        "detailBadges": [
-          "INF",
-          "FR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Rutgers Athletics roster",
-          "Rutgers cumulative stats"
-        ],
-        "sourceSummary": "Rutgers Athletics roster + Rutgers cumulative stats",
-        "schoolSlug": "rutgers",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://scarletknights.com/sports/baseball/roster/joey-erace/15961",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "rutgers-15952",
-        "name": "Nolan Peel",
-        "school": "Rutgers",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Nolan Peel looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Rutgers Athletics roster"
-        ],
-        "sourceSummary": "Rutgers Athletics roster",
-        "schoolSlug": "rutgers",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://scarletknights.com/sports/baseball/roster/nolan-peel/15952",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "rutgers-15943",
-        "name": "Yomar Carreras",
-        "school": "Rutgers",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SO",
-        "handedness": "N/A",
-        "score": 20,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Yomar Carreras gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .280",
-          "OBP .316",
-          "SLG .390"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".280"
-          },
-          {
-            "label": "OBP",
-            "value": ".316"
-          },
-          {
-            "label": "SLG",
-            "value": ".390"
-          },
-          {
-            "label": "HR",
-            "value": "4"
-          },
-          {
-            "label": "RBI",
-            "value": "41"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
-        "components": {
-          "On-base": 19.999999999999986,
-          "Power": 18.421052631578952,
-          "Contact": 37.500000000000014,
-          "Discipline": 14.814814814814808,
-          "Speed": 3.3333333333333335
-        },
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "INF",
-          "SO",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Rutgers Athletics roster",
-          "Rutgers cumulative stats"
-        ],
-        "sourceSummary": "Rutgers Athletics roster + Rutgers cumulative stats",
-        "schoolSlug": "rutgers",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://scarletknights.com/sports/baseball/roster/yomar-carreras/15943",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "rutgers-15962",
-        "name": "Julius Rosado",
-        "school": "Rutgers",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "FR",
-        "handedness": "N/A",
-        "score": 11,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Julius Rosado gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .167",
-          "OBP .309",
-          "SLG .238"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".167"
-          },
-          {
-            "label": "OBP",
-            "value": ".309"
-          },
-          {
-            "label": "SLG",
-            "value": ".238"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "12"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 16.111111111111097,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 43.13725490196078,
-          "Speed": 0
-        },
-        "metaLine": "FR / N/A",
-        "detailBadges": [
-          "INF",
-          "FR",
-          "N/A",
-          "Two-Way"
-        ],
-        "leaderboards": [
-          "Rutgers Athletics roster",
-          "Rutgers cumulative stats"
-        ],
-        "sourceSummary": "Rutgers Athletics roster + Rutgers cumulative stats",
-        "schoolSlug": "rutgers",
-        "compositeRole": "Two-Way",
-        "profileUrl": "https://scarletknights.com/sports/baseball/roster/julius-rosado/15962",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "rutgers-15946",
-        "name": "Luke Fithian",
-        "school": "Rutgers",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Luke Fithian looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Rutgers Athletics roster"
-        ],
-        "sourceSummary": "Rutgers Athletics roster",
-        "schoolSlug": "rutgers",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://scarletknights.com/sports/baseball/roster/luke-fithian/15946",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "rutgers-15948",
-        "name": "Tyler Kane",
-        "school": "Rutgers",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "R-JR",
-        "handedness": "N/A",
-        "score": 5,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Tyler Kane gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 8.78",
-          "WHIP 1.58",
-          "K/9 6.8"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "8.78"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.58"
-          },
-          {
-            "label": "K/9",
-            "value": "6.8"
-          },
-          {
-            "label": "BB/9",
-            "value": "7.4"
-          },
-          {
-            "label": "HR/9",
-            "value": "2.70"
-          },
-          {
-            "label": "IP",
-            "value": "13.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 25,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-JR / N/A",
-        "detailBadges": [
-          "RHP",
-          "R-JR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Rutgers Athletics roster",
-          "Rutgers cumulative stats"
-        ],
-        "sourceSummary": "Rutgers Athletics roster + Rutgers cumulative stats",
-        "schoolSlug": "rutgers",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://scarletknights.com/sports/baseball/roster/tyler-kane/15948",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "rutgers-15964",
-        "name": "Dallin Harrison",
-        "school": "Rutgers",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "N/A",
-        "score": 10,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Dallin Harrison gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 10.26",
-          "WHIP 2.16",
-          "K/9 7.8"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "10.26"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.16"
-          },
-          {
-            "label": "K/9",
-            "value": "7.8"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.2"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.56"
-          },
-          {
-            "label": "IP",
-            "value": "40.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 34.63561232156273,
-          "Command": 16.842105263157894,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Rutgers Athletics roster",
-          "Rutgers cumulative stats"
-        ],
-        "sourceSummary": "Rutgers Athletics roster + Rutgers cumulative stats",
-        "schoolSlug": "rutgers",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://scarletknights.com/sports/baseball/roster/dallin-harrison/15964",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "rutgers-15965",
-        "name": "Tyler Wiltsey",
-        "school": "Rutgers",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "FR",
-        "handedness": "N/A",
-        "score": 1,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Tyler Wiltsey gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .210",
-          "OBP .258",
-          "SLG .290"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".210"
-          },
-          {
-            "label": "OBP",
-            "value": ".258"
-          },
-          {
-            "label": "SLG",
-            "value": ".290"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "4"
-          },
-          {
-            "label": "SB",
-            "value": "4"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 13.333333333333334
-        },
-        "metaLine": "FR / N/A",
-        "detailBadges": [
-          "OF",
-          "FR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Rutgers Athletics roster",
-          "Rutgers cumulative stats"
-        ],
-        "sourceSummary": "Rutgers Athletics roster + Rutgers cumulative stats",
-        "schoolSlug": "rutgers",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://scarletknights.com/sports/baseball/roster/tyler-wiltsey/15965",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "rutgers-15950",
-        "name": "Zack Konstantinovsky",
-        "school": "Rutgers",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "R-SO",
-        "handedness": "N/A",
-        "score": 21,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Zack Konstantinovsky looks like a RHP option who misses bats and throws enough strikes.",
-        "summaryMetrics": [
-          "ERA 5.48",
-          "WHIP 1.43",
-          "K/9 10.6"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.48"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.43"
-          },
-          {
-            "label": "K/9",
-            "value": "10.6"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.7"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.27"
-          },
-          {
-            "label": "IP",
-            "value": "70.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 59.73413379073755,
-          "Command": 59.04761904761904,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-SO / N/A",
-        "detailBadges": [
-          "RHP",
-          "R-SO",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Rutgers Athletics roster",
-          "Rutgers cumulative stats"
-        ],
-        "sourceSummary": "Rutgers Athletics roster + Rutgers cumulative stats",
-        "schoolSlug": "rutgers",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://scarletknights.com/sports/baseball/roster/zack-konstantinovsky/15950",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "rutgers-15966",
-        "name": "Vincent Borghese",
-        "school": "Rutgers",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "N/A",
-        "score": 13,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Vincent Borghese looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 4.21",
-          "WHIP 1.48",
-          "K/9 9.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.21"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.48"
-          },
-          {
-            "label": "K/9",
-            "value": "9.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.9"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.16"
-          },
-          {
-            "label": "IP",
-            "value": "62.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
-          "Command": 25.925925925925924,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Rutgers Athletics roster",
-          "Rutgers cumulative stats"
-        ],
-        "sourceSummary": "Rutgers Athletics roster + Rutgers cumulative stats",
-        "schoolSlug": "rutgers",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://scarletknights.com/sports/baseball/roster/vincent-borghese/15966",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "rutgers-15953",
-        "name": "Andrew Rondini",
-        "school": "Rutgers",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "N/A",
-        "score": 9,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Andrew Rondini looks like a RHP option who limits runs and keeps traffic under control.",
-        "summaryMetrics": [
-          "ERA 2.16",
-          "WHIP 1.08",
-          "K/9 7.2"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "2.16"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.08"
-          },
-          {
-            "label": "K/9",
-            "value": "7.2"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.6"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.72"
-          },
-          {
-            "label": "IP",
-            "value": "25.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 29.090909090909093,
-          "Command": 20,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Rutgers Athletics roster",
-          "Rutgers cumulative stats"
-        ],
-        "sourceSummary": "Rutgers Athletics roster + Rutgers cumulative stats",
-        "schoolSlug": "rutgers",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://scarletknights.com/sports/baseball/roster/andrew-rondini/15953",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "rutgers-15967",
-        "name": "Jason Masick",
-        "school": "Rutgers",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "N/A",
-        "score": 10,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jason Masick gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 5.14",
-          "WHIP 1.57",
-          "K/9 8.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.14"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.57"
-          },
-          {
-            "label": "K/9",
-            "value": "8.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.8"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.29"
-          },
-          {
-            "label": "IP",
-            "value": "28.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 39.61038961038961,
-          "Command": 14.666666666666671,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Rutgers Athletics roster",
-          "Rutgers cumulative stats"
-        ],
-        "sourceSummary": "Rutgers Athletics roster + Rutgers cumulative stats",
-        "schoolSlug": "rutgers",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://scarletknights.com/sports/baseball/roster/jason-masick/15967",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "rutgers-15942",
-        "name": "Peyton Bonds",
-        "school": "Rutgers",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "JR",
-        "handedness": "N/A",
-        "score": 70,
-        "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
-        },
-        "summary": "Peyton Bonds profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .352",
-          "OBP .436",
-          "SLG .535"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".352"
-          },
-          {
-            "label": "OBP",
-            "value": ".436"
-          },
-          {
-            "label": "SLG",
-            "value": ".535"
-          },
-          {
-            "label": "HR",
-            "value": "6"
-          },
-          {
-            "label": "RBI",
-            "value": "29"
-          },
-          {
-            "label": "SB",
-            "value": "13"
-          }
-        ],
-        "components": {
-          "On-base": 86.66666666666666,
-          "Power": 56.57894736842106,
-          "Contact": 82.49999999999999,
-          "Discipline": 62.43386243386243,
-          "Speed": 43.333333333333336
-        },
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "OF",
-          "JR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Rutgers Athletics roster",
-          "Rutgers cumulative stats"
-        ],
-        "sourceSummary": "Rutgers Athletics roster + Rutgers cumulative stats",
-        "schoolSlug": "rutgers",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://scarletknights.com/sports/baseball/roster/peyton-bonds/15942",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "rutgers-15968",
-        "name": "Gabriel Rivera",
-        "school": "Rutgers",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "FR",
-        "handedness": "N/A",
-        "score": 48,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Gabriel Rivera profiles as a INF piece who gets on base at a high clip.",
-        "summaryMetrics": [
-          "AVG .310",
-          "OBP .419",
-          "SLG .448"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".310"
-          },
-          {
-            "label": "OBP",
-            "value": ".419"
-          },
-          {
-            "label": "SLG",
-            "value": ".448"
-          },
-          {
-            "label": "HR",
-            "value": "2"
-          },
-          {
-            "label": "RBI",
-            "value": "10"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 77.2222222222222,
-          "Power": 33.684210526315795,
-          "Contact": 56.25,
-          "Discipline": 30.409356725146193,
-          "Speed": 0
-        },
-        "metaLine": "FR / N/A",
-        "detailBadges": [
-          "INF",
-          "FR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Rutgers Athletics roster",
-          "Rutgers cumulative stats"
-        ],
-        "sourceSummary": "Rutgers Athletics roster + Rutgers cumulative stats",
-        "schoolSlug": "rutgers",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://scarletknights.com/sports/baseball/roster/gabriel-rivera/15968",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "rutgers-15944",
-        "name": "Matt Chatelle",
-        "school": "Rutgers",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "SR",
-        "handedness": "N/A",
-        "score": 38,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Matt Chatelle gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .302",
-          "OBP .395",
-          "SLG .365"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".302"
-          },
-          {
-            "label": "OBP",
-            "value": ".395"
-          },
-          {
-            "label": "SLG",
-            "value": ".365"
-          },
-          {
-            "label": "HR",
-            "value": "2"
-          },
-          {
-            "label": "RBI",
-            "value": "30"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 63.888888888888886,
-          "Power": 11.842105263157892,
-          "Contact": 51.24999999999999,
-          "Discipline": 34.56790123456789,
-          "Speed": 0
-        },
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "C",
-          "SR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Rutgers Athletics roster",
-          "Rutgers cumulative stats"
-        ],
-        "sourceSummary": "Rutgers Athletics roster + Rutgers cumulative stats",
-        "schoolSlug": "rutgers",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://scarletknights.com/sports/baseball/roster/matt-chatelle/15944",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "rutgers-15969",
-        "name": "Luke Foulds",
-        "school": "Rutgers",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "FR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Luke Foulds looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / N/A",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Rutgers Athletics roster"
-        ],
-        "sourceSummary": "Rutgers Athletics roster",
-        "schoolSlug": "rutgers",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://scarletknights.com/sports/baseball/roster/luke-foulds/15969",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "rutgers-15970",
-        "name": "Quinten Perilli",
-        "school": "Rutgers",
-        "role": "Hitter",
-        "position": "INF/OF",
-        "classYear": "SR",
-        "handedness": "N/A",
-        "score": 26,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Quinten Perilli gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .203",
-          "OBP .382",
-          "SLG .319"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".203"
-          },
-          {
-            "label": "OBP",
-            "value": ".382"
-          },
-          {
-            "label": "SLG",
-            "value": ".319"
-          },
-          {
-            "label": "HR",
-            "value": "1"
-          },
-          {
-            "label": "RBI",
-            "value": "12"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 56.66666666666666,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 55.555555555555536,
-          "Speed": 0
-        },
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "INF/OF",
-          "SR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Rutgers Athletics roster",
-          "Rutgers cumulative stats"
-        ],
-        "sourceSummary": "Rutgers Athletics roster + Rutgers cumulative stats",
-        "schoolSlug": "rutgers",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://scarletknights.com/sports/baseball/roster/quinten-perilli/15970",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "rutgers-15971",
-        "name": "Ayden Ellis",
-        "school": "Rutgers",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "FR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Ayden Ellis gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "FR / N/A",
-        "detailBadges": [
-          "C",
-          "FR",
-          "N/A",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Rutgers Athletics roster"
-        ],
-        "sourceSummary": "Rutgers Athletics roster",
-        "schoolSlug": "rutgers",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://scarletknights.com/sports/baseball/roster/ayden-ellis/15971",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "rutgers-15941",
-        "name": "Charles Batista",
-        "school": "Rutgers",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Charles Batista looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Rutgers Athletics roster"
-        ],
-        "sourceSummary": "Rutgers Athletics roster",
-        "schoolSlug": "rutgers",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://scarletknights.com/sports/baseball/roster/charles-batista/15941",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "rutgers-15955",
-        "name": "Jack Sweeney",
-        "school": "Rutgers",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "SO",
-        "handedness": "N/A",
-        "score": 28,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jack Sweeney gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .255",
-          "OBP .336",
-          "SLG .510"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".255"
-          },
-          {
-            "label": "OBP",
-            "value": ".336"
-          },
-          {
-            "label": "SLG",
-            "value": ".510"
-          },
-          {
-            "label": "HR",
-            "value": "7"
-          },
-          {
-            "label": "RBI",
-            "value": "15"
-          },
-          {
-            "label": "SB",
-            "value": "2"
-          }
-        ],
-        "components": {
-          "On-base": 31.11111111111111,
-          "Power": 50.000000000000014,
-          "Contact": 21.875000000000004,
-          "Discipline": 2.469135802469133,
-          "Speed": 6.666666666666667
-        },
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "OF",
-          "SO",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Rutgers Athletics roster",
-          "Rutgers cumulative stats"
-        ],
-        "sourceSummary": "Rutgers Athletics roster + Rutgers cumulative stats",
-        "schoolSlug": "rutgers",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://scarletknights.com/sports/baseball/roster/jack-sweeney/15955",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "rutgers-15972",
-        "name": "Tristan Salinas",
-        "school": "Rutgers",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "R-SO",
-        "handedness": "N/A",
-        "score": 35,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Tristan Salinas gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .278",
-          "OBP .364",
-          "SLG .459"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".278"
-          },
-          {
-            "label": "OBP",
-            "value": ".364"
-          },
-          {
-            "label": "SLG",
-            "value": ".459"
-          },
-          {
-            "label": "HR",
-            "value": "5"
-          },
-          {
-            "label": "RBI",
-            "value": "17"
-          },
-          {
-            "label": "SB",
-            "value": "3"
-          }
-        ],
-        "components": {
-          "On-base": 46.66666666666665,
-          "Power": 36.57894736842106,
-          "Contact": 36.250000000000014,
-          "Discipline": 20.98765432098765,
-          "Speed": 10
-        },
-        "metaLine": "R-SO / N/A",
-        "detailBadges": [
-          "INF",
-          "R-SO",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Rutgers Athletics roster",
-          "Rutgers cumulative stats"
-        ],
-        "sourceSummary": "Rutgers Athletics roster + Rutgers cumulative stats",
-        "schoolSlug": "rutgers",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://scarletknights.com/sports/baseball/roster/tristan-salinas/15972",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "rutgers-15951",
-        "name": "Joe Mazza",
-        "school": "Rutgers",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "GR",
-        "handedness": "N/A",
-        "score": 21,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Joe Mazza looks like a LHP option who limits runs and misses bats and throws enough strikes.",
-        "summaryMetrics": [
-          "ERA 3.10",
-          "WHIP 1.48",
-          "K/9 10.6"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.10"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.48"
-          },
-          {
-            "label": "K/9",
-            "value": "10.6"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.9"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "40.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 60.2086438152012,
-          "Command": 53.846153846153854,
-          "Damage suppression": 0
-        },
-        "metaLine": "GR / N/A",
-        "detailBadges": [
-          "LHP",
-          "GR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Rutgers Athletics roster",
-          "Rutgers cumulative stats"
-        ],
-        "sourceSummary": "Rutgers Athletics roster + Rutgers cumulative stats",
-        "schoolSlug": "rutgers",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://scarletknights.com/sports/baseball/roster/joe-mazza/15951",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "rutgers-15973",
-        "name": "Jacob Pedersen",
-        "school": "Rutgers",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "R-SR",
-        "handedness": "N/A",
-        "score": 14,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jacob Pedersen looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA 4.63",
-          "WHIP 1.41",
-          "K/9 8.1"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.63"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.41"
-          },
-          {
-            "label": "K/9",
-            "value": "8.1"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.7"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.93"
-          },
-          {
-            "label": "IP",
-            "value": "23.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 37.272727272727266,
-          "Command": 39.99999999999999,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-SR / N/A",
-        "detailBadges": [
-          "RHP",
-          "R-SR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Rutgers Athletics roster",
-          "Rutgers cumulative stats"
-        ],
-        "sourceSummary": "Rutgers Athletics roster + Rutgers cumulative stats",
-        "schoolSlug": "rutgers",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://scarletknights.com/sports/baseball/roster/jacob-pedersen/15973",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "rutgers-15947",
-        "name": "Zach Gleason",
-        "school": "Rutgers",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "GR",
-        "handedness": "N/A",
-        "score": 11,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Zach Gleason looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 5.59",
-          "WHIP 1.69",
-          "K/9 9.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.59"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.69"
-          },
-          {
-            "label": "K/9",
-            "value": "9.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.3"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.93"
-          },
-          {
-            "label": "IP",
-            "value": "29.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
-          "Command": 14.117647058823533,
-          "Damage suppression": 0
-        },
-        "metaLine": "GR / N/A",
-        "detailBadges": [
-          "RHP",
-          "GR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Rutgers Athletics roster",
-          "Rutgers cumulative stats"
-        ],
-        "sourceSummary": "Rutgers Athletics roster + Rutgers cumulative stats",
-        "schoolSlug": "rutgers",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://scarletknights.com/sports/baseball/roster/zach-gleason/15947",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "rutgers-15974",
-        "name": "Jager Nailor",
-        "school": "Rutgers",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "FR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jager Nailor gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "FR / N/A",
-        "detailBadges": [
-          "INF",
-          "FR",
-          "N/A",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Rutgers Athletics roster"
-        ],
-        "sourceSummary": "Rutgers Athletics roster",
-        "schoolSlug": "rutgers",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://scarletknights.com/sports/baseball/roster/jager-nailor/15974",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "rutgers-15975",
-        "name": "Justin MacCormack",
-        "school": "Rutgers",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "FR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Justin MacCormack looks like a LHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / N/A",
-        "detailBadges": [
-          "LHP",
-          "FR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Rutgers Athletics roster"
-        ],
-        "sourceSummary": "Rutgers Athletics roster",
-        "schoolSlug": "rutgers",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://scarletknights.com/sports/baseball/roster/justin-maccormack/15975",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "rutgers-15976",
-        "name": "Finn Haines",
-        "school": "Rutgers",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "FR",
-        "handedness": "N/A",
-        "score": 8,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Finn Haines gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 5.73",
-          "WHIP 1.82",
-          "K/9 8.2"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.73"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.82"
-          },
-          {
-            "label": "K/9",
-            "value": "8.2"
-          },
-          {
-            "label": "BB/9",
-            "value": "8.2"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.82"
-          },
-          {
-            "label": "IP",
-            "value": "11.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 38.01652892561984,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / N/A",
-        "detailBadges": [
-          "LHP",
-          "FR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Rutgers Athletics roster",
-          "Rutgers cumulative stats"
-        ],
-        "sourceSummary": "Rutgers Athletics roster + Rutgers cumulative stats",
-        "schoolSlug": "rutgers",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://scarletknights.com/sports/baseball/roster/finn-haines/15976",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "rutgers-15977",
-        "name": "Chris Sand",
-        "school": "Rutgers",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "FR",
-        "handedness": "N/A",
-        "score": 3,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Chris Sand looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA 6.58",
-          "WHIP 1.54",
-          "K/9 4.5"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "6.58"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.54"
-          },
-          {
-            "label": "K/9",
-            "value": "4.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.9"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.59"
-          },
-          {
-            "label": "IP",
-            "value": "39.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 4.889228418640182,
-          "Command": 10.769230769230766,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / N/A",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Rutgers Athletics roster",
-          "Rutgers cumulative stats"
-        ],
-        "sourceSummary": "Rutgers Athletics roster + Rutgers cumulative stats",
-        "schoolSlug": "rutgers",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://scarletknights.com/sports/baseball/roster/chris-sand/15977",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "rutgers-15949",
-        "name": "Jack Kirchner",
-        "school": "Rutgers",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "R-SO",
-        "handedness": "N/A",
-        "score": 8,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jack Kirchner gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 7.66",
-          "WHIP 1.70",
-          "K/9 7.7"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "7.66"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.70"
-          },
-          {
-            "label": "K/9",
-            "value": "7.7"
-          },
-          {
-            "label": "BB/9",
-            "value": "6.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.61"
-          },
-          {
-            "label": "IP",
-            "value": "22.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 33.242876526458616,
-          "Command": 5.333333333333332,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-SO / N/A",
-        "detailBadges": [
-          "RHP",
-          "R-SO",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Rutgers Athletics roster",
-          "Rutgers cumulative stats"
-        ],
-        "sourceSummary": "Rutgers Athletics roster + Rutgers cumulative stats",
-        "schoolSlug": "rutgers",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://scarletknights.com/sports/baseball/roster/jack-kirchner/15949",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "rutgers-15978",
-        "name": "Kevin Novobilsky",
-        "school": "Rutgers",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "GR",
-        "handedness": "N/A",
-        "score": 23,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Kevin Novobilsky gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .333",
-          "OBP .333",
-          "SLG .333"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".333"
-          },
-          {
-            "label": "OBP",
-            "value": ".333"
-          },
-          {
-            "label": "SLG",
-            "value": ".333"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 29.44444444444444,
-          "Power": 3.421052631578951,
-          "Contact": 70.625,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "GR / N/A",
-        "detailBadges": [
-          "INF",
-          "GR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Rutgers Athletics roster",
-          "Rutgers cumulative stats"
-        ],
-        "sourceSummary": "Rutgers Athletics roster + Rutgers cumulative stats",
-        "schoolSlug": "rutgers",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://scarletknights.com/sports/baseball/roster/kevin-novobilsky/15978",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "rutgers-15979",
-        "name": "Tommy Kendrick",
-        "school": "Rutgers",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "SR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Tommy Kendrick gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .000",
-          "OBP .000",
-          "SLG .000"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".000"
-          },
-          {
-            "label": "OBP",
-            "value": ".000"
-          },
-          {
-            "label": "SLG",
-            "value": ".000"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "OF",
-          "SR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Rutgers Athletics roster",
-          "Rutgers cumulative stats"
-        ],
-        "sourceSummary": "Rutgers Athletics roster + Rutgers cumulative stats",
-        "schoolSlug": "rutgers",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://scarletknights.com/sports/baseball/roster/tommy-kendrick/15979",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sacred-heart-17601",
-        "name": "Drew Martin",
-        "school": "Sacred Heart",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "JR",
-        "handedness": "N/A",
-        "score": 14,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Drew Martin gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .000",
-          "OBP .303",
-          "SLG .000"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".000"
-          },
-          {
-            "label": "OBP",
-            "value": ".303"
-          },
-          {
-            "label": "SLG",
-            "value": ".000"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "3"
-          },
-          {
-            "label": "SB",
-            "value": "2"
-          }
-        ],
-        "components": {
-          "On-base": 12.77777777777776,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 68.68686868686868,
-          "Speed": 6.666666666666667
-        },
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "OF",
-          "JR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Sacred Heart Athletics roster",
-          "Sacred Heart cumulative stats"
-        ],
-        "sourceSummary": "Sacred Heart Athletics roster + Sacred Heart cumulative stats",
-        "schoolSlug": "sacred-heart",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/drew-martin/17601",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sacred-heart-17609",
-        "name": "Chuck Tallman",
-        "school": "Sacred Heart",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "JR",
-        "handedness": "N/A",
-        "score": 34,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Chuck Tallman profiles as a INF piece who gets on base at a high clip.",
-        "summaryMetrics": [
-          "AVG .224",
-          "OBP .416",
-          "SLG .293"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".224"
-          },
-          {
-            "label": "OBP",
-            "value": ".416"
-          },
-          {
-            "label": "SLG",
-            "value": ".293"
-          },
-          {
-            "label": "HR",
-            "value": "1"
-          },
-          {
-            "label": "RBI",
-            "value": "4"
-          },
-          {
-            "label": "SB",
-            "value": "3"
-          }
-        ],
-        "components": {
-          "On-base": 75.55555555555553,
-          "Power": 0,
-          "Contact": 2.500000000000002,
-          "Discipline": 57.77777777777777,
-          "Speed": 10
-        },
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "INF",
-          "JR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Sacred Heart Athletics roster",
-          "Sacred Heart cumulative stats"
-        ],
-        "sourceSummary": "Sacred Heart Athletics roster + Sacred Heart cumulative stats",
-        "schoolSlug": "sacred-heart",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/chuck-tallman/17609",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sacred-heart-17599",
-        "name": "Jack Kidwell",
-        "school": "Sacred Heart",
-        "role": "Hitter",
-        "position": "INF/OF",
-        "classYear": "SO",
-        "handedness": "N/A",
-        "score": 7,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jack Kidwell gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .136",
-          "OBP .296",
-          "SLG .182"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".136"
-          },
-          {
-            "label": "OBP",
-            "value": ".296"
-          },
-          {
-            "label": "SLG",
-            "value": ".182"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "1"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
-        "components": {
-          "On-base": 8.888888888888866,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 27.160493827160487,
-          "Speed": 3.3333333333333335
-        },
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "INF/OF",
-          "SO",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Sacred Heart Athletics roster",
-          "Sacred Heart cumulative stats"
-        ],
-        "sourceSummary": "Sacred Heart Athletics roster + Sacred Heart cumulative stats",
-        "schoolSlug": "sacred-heart",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/jack-kidwell/17599",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sacred-heart-17604",
-        "name": "CJ Nolan",
-        "school": "Sacred Heart",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SO",
-        "handedness": "N/A",
-        "score": 42,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "CJ Nolan profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .242",
-          "OBP .413",
-          "SLG .407"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".242"
-          },
-          {
-            "label": "OBP",
-            "value": ".413"
-          },
-          {
-            "label": "SLG",
-            "value": ".407"
-          },
-          {
-            "label": "HR",
-            "value": "3"
-          },
-          {
-            "label": "RBI",
-            "value": "22"
-          },
-          {
-            "label": "SB",
-            "value": "9"
-          }
-        ],
-        "components": {
-          "On-base": 73.88888888888886,
-          "Power": 22.894736842105257,
-          "Contact": 13.749999999999996,
-          "Discipline": 47.736625514403286,
-          "Speed": 30
-        },
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "INF",
-          "SO",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Sacred Heart Athletics roster",
-          "Sacred Heart cumulative stats"
-        ],
-        "sourceSummary": "Sacred Heart Athletics roster + Sacred Heart cumulative stats",
-        "schoolSlug": "sacred-heart",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/cj-nolan/17604",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sacred-heart-17605",
-        "name": "Ryan Parker",
-        "school": "Sacred Heart",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "GR",
-        "handedness": "N/A",
-        "score": 4,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Ryan Parker gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 5.60",
-          "WHIP 1.64",
-          "K/9 5.8"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.60"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.64"
-          },
-          {
-            "label": "K/9",
-            "value": "5.8"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.3"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.90"
-          },
-          {
-            "label": "IP",
-            "value": "80.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 16.59751037344399,
-          "Command": 7.368421052631584,
-          "Damage suppression": 0
-        },
-        "metaLine": "GR / N/A",
-        "detailBadges": [
-          "RHP",
-          "GR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Sacred Heart Athletics roster",
-          "Sacred Heart cumulative stats"
-        ],
-        "sourceSummary": "Sacred Heart Athletics roster + Sacred Heart cumulative stats",
-        "schoolSlug": "sacred-heart",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/ryan-parker/17605",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sacred-heart-17593",
-        "name": "Gavin Donohue",
-        "school": "Sacred Heart",
-        "role": "Hitter",
-        "position": "UTIL",
-        "classYear": "JR",
-        "handedness": "N/A",
-        "score": 55,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Gavin Donohue profiles as a UTIL piece who gets on base at a high clip and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .298",
-          "OBP .411",
-          "SLG .534"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".298"
-          },
-          {
-            "label": "OBP",
-            "value": ".411"
-          },
-          {
-            "label": "SLG",
-            "value": ".534"
-          },
-          {
-            "label": "HR",
-            "value": "7"
-          },
-          {
-            "label": "RBI",
-            "value": "32"
-          },
-          {
-            "label": "SB",
-            "value": "12"
-          }
-        ],
-        "components": {
-          "On-base": 72.77777777777776,
-          "Power": 56.31578947368422,
-          "Contact": 48.749999999999986,
-          "Discipline": 28.282828282828277,
-          "Speed": 40
-        },
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "UTIL",
-          "JR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Sacred Heart Athletics roster",
-          "Sacred Heart cumulative stats"
-        ],
-        "sourceSummary": "Sacred Heart Athletics roster + Sacred Heart cumulative stats",
-        "schoolSlug": "sacred-heart",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/gavin-donohue/17593",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sacred-heart-17595",
-        "name": "JW Fitzgerald",
-        "school": "Sacred Heart",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "SR",
-        "handedness": "N/A",
-        "score": 46,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "JW Fitzgerald profiles as a OF piece who adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .310",
-          "OBP .388",
-          "SLG .380"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".310"
-          },
-          {
-            "label": "OBP",
-            "value": ".388"
-          },
-          {
-            "label": "SLG",
-            "value": ".380"
-          },
-          {
-            "label": "HR",
-            "value": "1"
-          },
-          {
-            "label": "RBI",
-            "value": "11"
-          },
-          {
-            "label": "SB",
-            "value": "18"
-          }
-        ],
-        "components": {
-          "On-base": 60,
-          "Power": 15.789473684210527,
-          "Contact": 56.25,
-          "Discipline": 49.2063492063492,
-          "Speed": 60
-        },
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "OF",
-          "SR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Sacred Heart Athletics roster",
-          "Sacred Heart cumulative stats"
-        ],
-        "sourceSummary": "Sacred Heart Athletics roster + Sacred Heart cumulative stats",
-        "schoolSlug": "sacred-heart",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/jw-fitzgerald/17595",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sacred-heart-17592",
-        "name": "Nathan Bowes",
-        "school": "Sacred Heart",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "SO",
-        "handedness": "N/A",
-        "score": 18,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Nathan Bowes gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .200",
-          "OBP .353",
-          "SLG .218"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".200"
-          },
-          {
-            "label": "OBP",
-            "value": ".353"
-          },
-          {
-            "label": "SLG",
-            "value": ".218"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "8"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
-        "components": {
-          "On-base": 40.555555555555536,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 30.065359477124176,
-          "Speed": 3.3333333333333335
-        },
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "C",
-          "SO",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Sacred Heart Athletics roster",
-          "Sacred Heart cumulative stats"
-        ],
-        "sourceSummary": "Sacred Heart Athletics roster + Sacred Heart cumulative stats",
-        "schoolSlug": "sacred-heart",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/nathan-bowes/17592",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sacred-heart-17594",
-        "name": "Ronan Donohue",
-        "school": "Sacred Heart",
-        "role": "Hitter",
-        "position": "UTIL",
-        "classYear": "JR",
-        "handedness": "N/A",
-        "score": 66,
-        "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
-        },
-        "summary": "Ronan Donohue profiles as a UTIL piece who gets on base at a high clip and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .312",
-          "OBP .450",
-          "SLG .468"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".312"
-          },
-          {
-            "label": "OBP",
-            "value": ".450"
-          },
-          {
-            "label": "SLG",
-            "value": ".468"
-          },
-          {
-            "label": "HR",
-            "value": "5"
-          },
-          {
-            "label": "RBI",
-            "value": "32"
-          },
-          {
-            "label": "SB",
-            "value": "16"
-          }
-        ],
-        "components": {
-          "On-base": 94.44444444444444,
-          "Power": 38.947368421052644,
-          "Contact": 57.49999999999999,
-          "Discipline": 67.72486772486772,
-          "Speed": 53.333333333333336
-        },
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "UTIL",
-          "JR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Sacred Heart Athletics roster",
-          "Sacred Heart cumulative stats"
-        ],
-        "sourceSummary": "Sacred Heart Athletics roster + Sacred Heart cumulative stats",
-        "schoolSlug": "sacred-heart",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/ronan-donohue/17594",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sacred-heart-17603",
-        "name": "Steak Newman",
-        "school": "Sacred Heart",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "JR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Steak Newman gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "C",
-          "JR",
-          "N/A",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Sacred Heart Athletics roster"
-        ],
-        "sourceSummary": "Sacred Heart Athletics roster",
-        "schoolSlug": "sacred-heart",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/steak-newman/17603",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sacred-heart-17612",
-        "name": "Anakin Underhill",
-        "school": "Sacred Heart",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "FY",
-        "handedness": "N/A",
-        "score": 4,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Anakin Underhill gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 14.29",
-          "WHIP 2.47",
-          "K/9 6.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "14.29"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.47"
-          },
-          {
-            "label": "K/9",
-            "value": "6.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "9.5"
-          },
-          {
-            "label": "HR/9",
-            "value": "3.18"
-          },
-          {
-            "label": "IP",
-            "value": "11.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 21.3903743315508,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "FY / N/A",
-        "detailBadges": [
-          "RHP",
-          "FY",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Sacred Heart Athletics roster",
-          "Sacred Heart cumulative stats"
-        ],
-        "sourceSummary": "Sacred Heart Athletics roster + Sacred Heart cumulative stats",
-        "schoolSlug": "sacred-heart",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/anakin-underhill/17612",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sacred-heart-17607",
-        "name": "Daniel Rice III",
-        "school": "Sacred Heart",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "JR",
-        "handedness": "N/A",
-        "score": 34,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Daniel Rice III gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .300",
-          "OBP .378",
-          "SLG .400"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".300"
-          },
-          {
-            "label": "OBP",
-            "value": ".378"
-          },
-          {
-            "label": "SLG",
-            "value": ".400"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "7"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 54.44444444444443,
-          "Power": 21.052631578947377,
-          "Contact": 49.999999999999986,
-          "Discipline": 18.18181818181818,
-          "Speed": 0
-        },
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "INF",
-          "JR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Sacred Heart Athletics roster",
-          "Sacred Heart cumulative stats"
-        ],
-        "sourceSummary": "Sacred Heart Athletics roster + Sacred Heart cumulative stats",
-        "schoolSlug": "sacred-heart",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/daniel-rice-iii/17607",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sacred-heart-17613",
-        "name": "Ryan Rey",
-        "school": "Sacred Heart",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "FY",
-        "handedness": "N/A",
-        "score": 21,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Ryan Rey gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .286",
-          "OBP .348",
-          "SLG .310"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".286"
-          },
-          {
-            "label": "OBP",
-            "value": ".348"
-          },
-          {
-            "label": "SLG",
-            "value": ".310"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "9"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 37.77777777777775,
-          "Power": 0,
-          "Contact": 41.24999999999998,
-          "Discipline": 11.111111111111107,
-          "Speed": 0
-        },
-        "metaLine": "FY / N/A",
-        "detailBadges": [
-          "INF",
-          "FY",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Sacred Heart Athletics roster",
-          "Sacred Heart cumulative stats"
-        ],
-        "sourceSummary": "Sacred Heart Athletics roster + Sacred Heart cumulative stats",
-        "schoolSlug": "sacred-heart",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/ryan-rey/17613",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sacred-heart-17614",
-        "name": "Hector Alejandro",
-        "school": "Sacred Heart",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "GR",
-        "handedness": "N/A",
-        "score": 3,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Hector Alejandro gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 7.09",
-          "WHIP 1.95",
-          "K/9 5.7"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "7.09"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.95"
-          },
-          {
-            "label": "K/9",
-            "value": "5.7"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.7"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.01"
-          },
-          {
-            "label": "IP",
-            "value": "26.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 15.795454545454543,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "GR / N/A",
-        "detailBadges": [
-          "RHP",
-          "GR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Sacred Heart Athletics roster",
-          "Sacred Heart cumulative stats"
-        ],
-        "sourceSummary": "Sacred Heart Athletics roster + Sacred Heart cumulative stats",
-        "schoolSlug": "sacred-heart",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/hector-alejandro/17614",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sacred-heart-17615",
-        "name": "George Katsaros",
-        "school": "Sacred Heart",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "FY",
-        "handedness": "N/A",
-        "score": 3,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "George Katsaros gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 9.39",
-          "WHIP 2.22",
-          "K/9 5.9"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "9.39"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.22"
-          },
-          {
-            "label": "K/9",
-            "value": "5.9"
-          },
-          {
-            "label": "BB/9",
-            "value": "7.6"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.76"
-          },
-          {
-            "label": "IP",
-            "value": "15.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 16.996047430830032,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "FY / N/A",
-        "detailBadges": [
-          "RHP",
-          "FY",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Sacred Heart Athletics roster",
-          "Sacred Heart cumulative stats"
-        ],
-        "sourceSummary": "Sacred Heart Athletics roster + Sacred Heart cumulative stats",
-        "schoolSlug": "sacred-heart",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/george-katsaros/17615",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sacred-heart-17600",
-        "name": "Peter Link",
-        "school": "Sacred Heart",
-        "role": "Hitter",
-        "position": "1B/OF",
-        "classYear": "JR",
-        "handedness": "N/A",
-        "score": 62,
-        "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
-        },
-        "summary": "Peter Link profiles as a 1B/OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .308",
-          "OBP .422",
-          "SLG .581"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".308"
-          },
-          {
-            "label": "OBP",
-            "value": ".422"
-          },
-          {
-            "label": "SLG",
-            "value": ".581"
-          },
-          {
-            "label": "HR",
-            "value": "12"
-          },
-          {
-            "label": "RBI",
-            "value": "41"
-          },
-          {
-            "label": "SB",
-            "value": "12"
-          }
-        ],
-        "components": {
-          "On-base": 78.88888888888886,
-          "Power": 68.6842105263158,
-          "Contact": 54.99999999999999,
-          "Discipline": 32.285115303983225,
-          "Speed": 40
-        },
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "1B/OF",
-          "JR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Sacred Heart Athletics roster",
-          "Sacred Heart cumulative stats"
-        ],
-        "sourceSummary": "Sacred Heart Athletics roster + Sacred Heart cumulative stats",
-        "schoolSlug": "sacred-heart",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/peter-link/17600",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sacred-heart-17602",
-        "name": "Bryan Matuschat",
-        "school": "Sacred Heart",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "N/A",
-        "score": 4,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Bryan Matuschat looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA 6.61",
-          "WHIP 1.67",
-          "K/9 4.6"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "6.61"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.67"
-          },
-          {
-            "label": "K/9",
-            "value": "4.6"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.2"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.79"
-          },
-          {
-            "label": "IP",
-            "value": "80.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 5.394190871369299,
-          "Command": 21.000000000000004,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Sacred Heart Athletics roster",
-          "Sacred Heart cumulative stats"
-        ],
-        "sourceSummary": "Sacred Heart Athletics roster + Sacred Heart cumulative stats",
-        "schoolSlug": "sacred-heart",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/bryan-matuschat/17602",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sacred-heart-17616",
-        "name": "Jack Birtwell",
-        "school": "Sacred Heart",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jack Birtwell looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Sacred Heart Athletics roster"
-        ],
-        "sourceSummary": "Sacred Heart Athletics roster",
-        "schoolSlug": "sacred-heart",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/jack-birtwell/17616",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sacred-heart-17617",
-        "name": "Graham Willerer",
-        "school": "Sacred Heart",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "FY",
-        "handedness": "N/A",
-        "score": 2,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Graham Willerer gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 11.95",
-          "WHIP 2.46",
-          "K/9 4.9"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "11.95"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.46"
-          },
-          {
-            "label": "K/9",
-            "value": "4.9"
-          },
-          {
-            "label": "BB/9",
-            "value": "9.7"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.89"
-          },
-          {
-            "label": "IP",
-            "value": "20.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 7.898658718330847,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "FY / N/A",
-        "detailBadges": [
-          "RHP",
-          "FY",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Sacred Heart Athletics roster",
-          "Sacred Heart cumulative stats"
-        ],
-        "sourceSummary": "Sacred Heart Athletics roster + Sacred Heart cumulative stats",
-        "schoolSlug": "sacred-heart",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/graham-willerer/17617",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sacred-heart-17618",
-        "name": "Jacob Schmutz",
-        "school": "Sacred Heart",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "FY",
-        "handedness": "N/A",
-        "score": 21,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jacob Schmutz gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .240",
-          "OBP .330",
-          "SLG .307"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".240"
-          },
-          {
-            "label": "OBP",
-            "value": ".330"
-          },
-          {
-            "label": "SLG",
-            "value": ".307"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "13"
-          },
-          {
-            "label": "SB",
-            "value": "3"
-          }
-        ],
-        "components": {
-          "On-base": 27.777777777777775,
-          "Power": 0,
-          "Contact": 12.499999999999993,
-          "Discipline": 63.247863247863236,
-          "Speed": 10
-        },
-        "metaLine": "FY / N/A",
-        "detailBadges": [
-          "OF",
-          "FY",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Sacred Heart Athletics roster",
-          "Sacred Heart cumulative stats"
-        ],
-        "sourceSummary": "Sacred Heart Athletics roster + Sacred Heart cumulative stats",
-        "schoolSlug": "sacred-heart",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/jacob-schmutz/17618",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sacred-heart-17619",
-        "name": "Kyle Cincinnati",
-        "school": "Sacred Heart",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "GR",
-        "handedness": "N/A",
-        "score": 24,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Kyle Cincinnati gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .214",
-          "OBP .361",
-          "SLG .296"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".214"
-          },
-          {
-            "label": "OBP",
-            "value": ".361"
-          },
-          {
-            "label": "SLG",
-            "value": ".296"
-          },
-          {
-            "label": "HR",
-            "value": "2"
-          },
-          {
-            "label": "RBI",
-            "value": "15"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
-        "components": {
-          "On-base": 44.99999999999998,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 67.52136752136751,
-          "Speed": 3.3333333333333335
-        },
-        "metaLine": "GR / N/A",
-        "detailBadges": [
-          "C",
-          "GR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Sacred Heart Athletics roster",
-          "Sacred Heart cumulative stats"
-        ],
-        "sourceSummary": "Sacred Heart Athletics roster + Sacred Heart cumulative stats",
-        "schoolSlug": "sacred-heart",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/kyle-cincinnati/17619",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sacred-heart-17620",
-        "name": "Chris Wilson",
-        "school": "Sacred Heart",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "FY",
-        "handedness": "N/A",
-        "score": 23,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Chris Wilson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .172",
-          "OBP .351",
-          "SLG .172"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".172"
-          },
-          {
-            "label": "OBP",
-            "value": ".351"
-          },
-          {
-            "label": "SLG",
-            "value": ".172"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "3"
-          },
-          {
-            "label": "SB",
-            "value": "4"
-          }
-        ],
-        "components": {
-          "On-base": 39.44444444444442,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 66.66666666666666,
-          "Speed": 13.333333333333334
-        },
-        "metaLine": "FY / N/A",
-        "detailBadges": [
-          "OF",
-          "FY",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Sacred Heart Athletics roster",
-          "Sacred Heart cumulative stats"
-        ],
-        "sourceSummary": "Sacred Heart Athletics roster + Sacred Heart cumulative stats",
-        "schoolSlug": "sacred-heart",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/chris-wilson/17620",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sacred-heart-17621",
-        "name": "Mike Lorenzetti",
-        "school": "Sacred Heart",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Mike Lorenzetti looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Sacred Heart Athletics roster"
-        ],
-        "sourceSummary": "Sacred Heart Athletics roster",
-        "schoolSlug": "sacred-heart",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/mike-lorenzetti/17621",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sacred-heart-17606",
-        "name": "Jon Peterson",
-        "school": "Sacred Heart",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "GR",
-        "handedness": "N/A",
-        "score": 3,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jon Peterson gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 16.39",
-          "WHIP 2.89",
-          "K/9 5.8"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "16.39"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.89"
-          },
-          {
-            "label": "K/9",
-            "value": "5.8"
-          },
-          {
-            "label": "BB/9",
-            "value": "14.5"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.93"
-          },
-          {
-            "label": "IP",
-            "value": "9.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 16.233766233766232,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "GR / N/A",
-        "detailBadges": [
-          "LHP",
-          "GR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Sacred Heart Athletics roster",
-          "Sacred Heart cumulative stats"
-        ],
-        "sourceSummary": "Sacred Heart Athletics roster + Sacred Heart cumulative stats",
-        "schoolSlug": "sacred-heart",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/jon-peterson/17606",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sacred-heart-17622",
-        "name": "Will Rudolph",
-        "school": "Sacred Heart",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "FY",
-        "handedness": "N/A",
-        "score": 18,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Will Rudolph gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .250",
-          "OBP .335",
-          "SLG .327"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".250"
-          },
-          {
-            "label": "OBP",
-            "value": ".335"
-          },
-          {
-            "label": "SLG",
-            "value": ".327"
-          },
-          {
-            "label": "HR",
-            "value": "2"
-          },
-          {
-            "label": "RBI",
-            "value": "21"
-          },
-          {
-            "label": "SB",
-            "value": "2"
-          }
-        ],
-        "components": {
-          "On-base": 30.555555555555554,
-          "Power": 1.8421052631578967,
-          "Contact": 18.75,
-          "Discipline": 26.210826210826205,
-          "Speed": 6.666666666666667
-        },
-        "metaLine": "FY / N/A",
-        "detailBadges": [
-          "OF",
-          "FY",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Sacred Heart Athletics roster",
-          "Sacred Heart cumulative stats"
-        ],
-        "sourceSummary": "Sacred Heart Athletics roster + Sacred Heart cumulative stats",
-        "schoolSlug": "sacred-heart",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/will-rudolph/17622",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sacred-heart-17608",
-        "name": "PJ Rogan",
-        "school": "Sacred Heart",
-        "role": "Pitcher",
-        "position": "LHP/RHP",
-        "classYear": "JR",
-        "handedness": "N/A",
-        "score": 3,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "PJ Rogan gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 6.21",
-          "WHIP 1.86",
-          "K/9 5.6"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "6.21"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.86"
-          },
-          {
-            "label": "K/9",
-            "value": "5.6"
-          },
-          {
-            "label": "BB/9",
-            "value": "6.5"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.62"
-          },
-          {
-            "label": "IP",
-            "value": "29.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 14.420062695924765,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "LHP/RHP",
-          "JR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Sacred Heart Athletics roster",
-          "Sacred Heart cumulative stats"
-        ],
-        "sourceSummary": "Sacred Heart Athletics roster + Sacred Heart cumulative stats",
-        "schoolSlug": "sacred-heart",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/pj-rogan/17608",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sacred-heart-17611",
-        "name": "Dave Yorke",
-        "school": "Sacred Heart",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SO",
-        "handedness": "N/A",
-        "score": 28,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Dave Yorke gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .227",
-          "OBP .358",
-          "SLG .439"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".227"
-          },
-          {
-            "label": "OBP",
-            "value": ".358"
-          },
-          {
-            "label": "SLG",
-            "value": ".439"
-          },
-          {
-            "label": "HR",
-            "value": "3"
-          },
-          {
-            "label": "RBI",
-            "value": "13"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
-        "components": {
-          "On-base": 43.333333333333314,
-          "Power": 31.315789473684212,
-          "Contact": 4.3750000000000036,
-          "Discipline": 35.55555555555555,
-          "Speed": 3.3333333333333335
-        },
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "INF",
-          "SO",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Sacred Heart Athletics roster",
-          "Sacred Heart cumulative stats"
-        ],
-        "sourceSummary": "Sacred Heart Athletics roster + Sacred Heart cumulative stats",
-        "schoolSlug": "sacred-heart",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/dave-yorke/17611",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sacred-heart-17623",
-        "name": "Jase Schueller",
-        "school": "Sacred Heart",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "GR",
-        "handedness": "N/A",
-        "score": 5,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jase Schueller gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 6.09",
-          "WHIP 1.76",
-          "K/9 6.6"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "6.09"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.76"
-          },
-          {
-            "label": "K/9",
-            "value": "6.6"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.8"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.06"
-          },
-          {
-            "label": "IP",
-            "value": "34.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 23.796791443850264,
-          "Command": 2.727272727272725,
-          "Damage suppression": 0
-        },
-        "metaLine": "GR / N/A",
-        "detailBadges": [
-          "RHP",
-          "GR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Sacred Heart Athletics roster",
-          "Sacred Heart cumulative stats"
-        ],
-        "sourceSummary": "Sacred Heart Athletics roster + Sacred Heart cumulative stats",
-        "schoolSlug": "sacred-heart",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/jase-schueller/17623",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sacred-heart-17596",
-        "name": "Jake Friel",
-        "school": "Sacred Heart",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "SO",
-        "handedness": "N/A",
-        "score": 10,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jake Friel looks like a LHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 7.41",
-          "WHIP 1.59",
-          "K/9 9.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "7.41"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.59"
-          },
-          {
-            "label": "K/9",
-            "value": "9.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "6.4"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "17.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
-          "Command": 8.333333333333334,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "LHP",
-          "SO",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Sacred Heart Athletics roster",
-          "Sacred Heart cumulative stats"
-        ],
-        "sourceSummary": "Sacred Heart Athletics roster + Sacred Heart cumulative stats",
-        "schoolSlug": "sacred-heart",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/jake-friel/17596",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sacred-heart-17598",
-        "name": "Mitch Hawkins",
-        "school": "Sacred Heart",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Mitch Hawkins gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 8.39",
-          "WHIP 1.89",
-          "K/9 3.9"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "8.39"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.89"
-          },
-          {
-            "label": "K/9",
-            "value": "3.9"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.2"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.05"
-          },
-          {
-            "label": "IP",
-            "value": "34.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Sacred Heart Athletics roster",
-          "Sacred Heart cumulative stats"
-        ],
-        "sourceSummary": "Sacred Heart Athletics roster + Sacred Heart cumulative stats",
-        "schoolSlug": "sacred-heart",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/mitch-hawkins/17598",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sacred-heart-17624",
-        "name": "Aiden Emrich",
-        "school": "Sacred Heart",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "FY",
-        "handedness": "N/A",
-        "score": 1,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Aiden Emrich gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 10.32",
-          "WHIP 2.29",
-          "K/9 4.8"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "10.32"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.29"
-          },
-          {
-            "label": "K/9",
-            "value": "4.8"
-          },
-          {
-            "label": "BB/9",
-            "value": "12.7"
-          },
-          {
-            "label": "HR/9",
-            "value": "2.38"
-          },
-          {
-            "label": "IP",
-            "value": "11.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 6.951871657754011,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "FY / N/A",
-        "detailBadges": [
-          "RHP",
-          "FY",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Sacred Heart Athletics roster",
-          "Sacred Heart cumulative stats"
-        ],
-        "sourceSummary": "Sacred Heart Athletics roster + Sacred Heart cumulative stats",
-        "schoolSlug": "sacred-heart",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/aiden-emrich/17624",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sacred-heart-17625",
-        "name": "Will Cook",
-        "school": "Sacred Heart",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SR",
-        "handedness": "N/A",
-        "score": 8,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Will Cook gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .162",
-          "OBP .299",
-          "SLG .297"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".162"
-          },
-          {
-            "label": "OBP",
-            "value": ".299"
-          },
-          {
-            "label": "SLG",
-            "value": ".297"
-          },
-          {
-            "label": "HR",
-            "value": "3"
-          },
-          {
-            "label": "RBI",
-            "value": "25"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
-        "components": {
-          "On-base": 10.555555555555534,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 32.24400871459694,
-          "Speed": 3.3333333333333335
-        },
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "INF",
-          "SR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Sacred Heart Athletics roster",
-          "Sacred Heart cumulative stats"
-        ],
-        "sourceSummary": "Sacred Heart Athletics roster + Sacred Heart cumulative stats",
-        "schoolSlug": "sacred-heart",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/will-cook/17625",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sacred-heart-17626",
-        "name": "James Aselta",
-        "school": "Sacred Heart",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "James Aselta gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 9.00",
-          "WHIP 2.33",
-          "K/9 3.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "9.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.33"
-          },
-          {
-            "label": "K/9",
-            "value": "3.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "6.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "3.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Sacred Heart Athletics roster",
-          "Sacred Heart cumulative stats"
-        ],
-        "sourceSummary": "Sacred Heart Athletics roster + Sacred Heart cumulative stats",
-        "schoolSlug": "sacred-heart",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/james-aselta/17626",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sacred-heart-17610",
-        "name": "Christian Trantino",
-        "school": "Sacred Heart",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "SO",
-        "handedness": "N/A",
-        "score": 5,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Christian Trantino gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 10.06",
-          "WHIP 2.24",
-          "K/9 6.9"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "10.06"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.24"
-          },
-          {
-            "label": "K/9",
-            "value": "6.9"
-          },
-          {
-            "label": "BB/9",
-            "value": "10.1"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.59"
-          },
-          {
-            "label": "IP",
-            "value": "17.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 26.203208556149736,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "LHP",
-          "SO",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Sacred Heart Athletics roster",
-          "Sacred Heart cumulative stats"
-        ],
-        "sourceSummary": "Sacred Heart Athletics roster + Sacred Heart cumulative stats",
-        "schoolSlug": "sacred-heart",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/christian-trantino/17610",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sacred-heart-17627",
-        "name": "Will Saxenmeyer",
-        "school": "Sacred Heart",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "N/A",
-        "score": 6,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Will Saxenmeyer gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 22.30",
-          "WHIP 3.78",
-          "K/9 7.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "22.30"
-          },
-          {
-            "label": "WHIP",
-            "value": "3.78"
-          },
-          {
-            "label": "K/9",
-            "value": "7.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "22.3"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.17"
-          },
-          {
-            "label": "IP",
-            "value": "7.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 27.667984189723317,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Sacred Heart Athletics roster",
-          "Sacred Heart cumulative stats"
-        ],
-        "sourceSummary": "Sacred Heart Athletics roster + Sacred Heart cumulative stats",
-        "schoolSlug": "sacred-heart",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/will-saxenmeyer/17627",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sacred-heart-17628",
-        "name": "Paul Gehan",
-        "school": "Sacred Heart",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "FY",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Paul Gehan looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "FY / N/A",
-        "detailBadges": [
-          "RHP",
-          "FY",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Sacred Heart Athletics roster"
-        ],
-        "sourceSummary": "Sacred Heart Athletics roster",
-        "schoolSlug": "sacred-heart",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/paul-gehan/17628",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sacred-heart-17629",
-        "name": "Andrew Sager",
-        "school": "Sacred Heart",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "FY",
-        "handedness": "N/A",
-        "score": 6,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Andrew Sager gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 4.76",
-          "WHIP 1.50",
-          "K/9 7.1"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.76"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.50"
-          },
-          {
-            "label": "K/9",
-            "value": "7.1"
-          },
-          {
-            "label": "BB/9",
-            "value": "8.7"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "11.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 28.609625668449194,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "FY / N/A",
-        "detailBadges": [
-          "RHP",
-          "FY",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Sacred Heart Athletics roster",
-          "Sacred Heart cumulative stats"
-        ],
-        "sourceSummary": "Sacred Heart Athletics roster + Sacred Heart cumulative stats",
-        "schoolSlug": "sacred-heart",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/andrew-sager/17629",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "sacred-heart-17597",
-        "name": "Aidan Gray",
-        "school": "Sacred Heart",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Aidan Gray looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Sacred Heart Athletics roster"
-        ],
-        "sourceSummary": "Sacred Heart Athletics roster",
-        "schoolSlug": "sacred-heart",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://sacredheartpioneers.com/sports/baseball/roster/aidan-gray/17597",
         "espnAthleteId": ""
       },
       {
@@ -141186,2413 +119015,6 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "schoolSlug": "tulane",
         "compositeRole": "Pitcher",
         "profileUrl": "https://tulanegreenwave.com/sports/baseball/roster/luispablo-navarro/17227",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "uab-11498",
-        "name": "Kevin Hall Jr.",
-        "school": "UAB",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "JR",
-        "handedness": "N/A",
-        "score": 55,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Kevin Hall Jr. profiles as a OF piece who controls at-bats and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .277",
-          "OBP .388",
-          "SLG .441"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".277"
-          },
-          {
-            "label": "OBP",
-            "value": ".388"
-          },
-          {
-            "label": "SLG",
-            "value": ".441"
-          },
-          {
-            "label": "HR",
-            "value": "9"
-          },
-          {
-            "label": "RBI",
-            "value": "43"
-          },
-          {
-            "label": "SB",
-            "value": "21"
-          }
-        ],
-        "components": {
-          "On-base": 60,
-          "Power": 31.8421052631579,
-          "Contact": 35.625000000000014,
-          "Discipline": 97.77777777777777,
-          "Speed": 70
-        },
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "OF",
-          "JR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "UAB Athletics roster",
-          "UAB cumulative stats"
-        ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats",
-        "schoolSlug": "uab",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/kevin-hall-jr/11498",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "uab-11522",
-        "name": "Mason Steele",
-        "school": "UAB",
-        "role": "Pitcher",
-        "position": "OF/RHP",
-        "classYear": "JR",
-        "handedness": "N/A",
-        "score": 13,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Mason Steele looks like a OF/RHP option who keeps traffic under control.",
-        "summaryMetrics": [
-          "ERA 4.66",
-          "WHIP 1.15",
-          "K/9 8.1"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.66"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.15"
-          },
-          {
-            "label": "K/9",
-            "value": "8.1"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.1"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.31"
-          },
-          {
-            "label": "IP",
-            "value": "75.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 37.48994368463395,
-          "Command": 32.3076923076923,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "OF/RHP",
-          "JR",
-          "N/A",
-          "Two-Way"
-        ],
-        "leaderboards": [
-          "UAB Athletics roster",
-          "UAB cumulative stats"
-        ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats",
-        "schoolSlug": "uab",
-        "compositeRole": "Two-Way",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/mason-steele/11522",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "uab-11523",
-        "name": "Drew Thompson",
-        "school": "UAB",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Drew Thompson looks like a RHP option who limits runs and throws enough strikes and keeps traffic under control.",
-        "summaryMetrics": [
-          "ERA 0.00",
-          "WHIP 0.00",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "0.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "0.00"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "UAB Athletics roster",
-          "UAB cumulative stats"
-        ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats",
-        "schoolSlug": "uab",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/drew-thompson/11523",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "uab-11512",
-        "name": "Jake Merrick",
-        "school": "UAB",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SO",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jake Merrick gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .000",
-          "OBP .000",
-          "SLG .000"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".000"
-          },
-          {
-            "label": "OBP",
-            "value": ".000"
-          },
-          {
-            "label": "SLG",
-            "value": ".000"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "INF",
-          "SO",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "UAB Athletics roster",
-          "UAB cumulative stats"
-        ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats",
-        "schoolSlug": "uab",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/jake-merrick/11512",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "uab-11524",
-        "name": "Isaac Warrick",
-        "school": "UAB",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "R-JR",
-        "handedness": "N/A",
-        "score": 11,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Isaac Warrick gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 4.29",
-          "WHIP 1.48",
-          "K/9 8.6"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.29"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.48"
-          },
-          {
-            "label": "K/9",
-            "value": "8.6"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.7"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.71"
-          },
-          {
-            "label": "IP",
-            "value": "21.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 41.55844155844156,
-          "Command": 16.363636363636363,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-JR / N/A",
-        "detailBadges": [
-          "LHP",
-          "R-JR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "UAB Athletics roster",
-          "UAB cumulative stats"
-        ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats",
-        "schoolSlug": "uab",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/isaac-warrick/11524",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "uab-11514",
-        "name": "Ryan Olson",
-        "school": "UAB",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Ryan Olson looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "UAB Athletics roster"
-        ],
-        "sourceSummary": "UAB Athletics roster",
-        "schoolSlug": "uab",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/ryan-olson/11514",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "uab-11511",
-        "name": "Patrick McGlon",
-        "school": "UAB",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "R-JR",
-        "handedness": "N/A",
-        "score": 11,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Patrick McGlon gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .250",
-          "OBP .286",
-          "SLG .417"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".250"
-          },
-          {
-            "label": "OBP",
-            "value": ".286"
-          },
-          {
-            "label": "SLG",
-            "value": ".417"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "3"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 3.3333333333333055,
-          "Power": 25.52631578947368,
-          "Contact": 18.75,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "R-JR / N/A",
-        "detailBadges": [
-          "INF",
-          "R-JR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "UAB Athletics roster",
-          "UAB cumulative stats"
-        ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats",
-        "schoolSlug": "uab",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/patrick-mcglon/11511",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "uab-11491",
-        "name": "Alex Cheeseman",
-        "school": "UAB",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "JR",
-        "handedness": "N/A",
-        "score": 28,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Alex Cheeseman profiles as a INF piece who gets on base at a high clip.",
-        "summaryMetrics": [
-          "AVG .190",
-          "OBP .414",
-          "SLG .238"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".190"
-          },
-          {
-            "label": "OBP",
-            "value": ".414"
-          },
-          {
-            "label": "SLG",
-            "value": ".238"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "3"
-          },
-          {
-            "label": "SB",
-            "value": "5"
-          }
-        ],
-        "components": {
-          "On-base": 74.44444444444443,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 19.44444444444444,
-          "Speed": 16.666666666666664
-        },
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "INF",
-          "JR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "UAB Athletics roster",
-          "UAB cumulative stats"
-        ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats",
-        "schoolSlug": "uab",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/alex-cheeseman/11491",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "uab-11495",
-        "name": "Jacob Francis",
-        "school": "UAB",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "FR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jacob Francis looks like a LHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / N/A",
-        "detailBadges": [
-          "LHP",
-          "FR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "UAB Athletics roster"
-        ],
-        "sourceSummary": "UAB Athletics roster",
-        "schoolSlug": "uab",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/jacob-francis/11495",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "uab-11501",
-        "name": "Wesley Helms",
-        "school": "UAB",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "R-SR",
-        "handedness": "N/A",
-        "score": 59,
-        "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
-        },
-        "summary": "Wesley Helms profiles as a INF piece who gets on base at a high clip and controls at-bats.",
-        "summaryMetrics": [
-          "AVG .327",
-          "OBP .407",
-          "SLG .447"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".327"
-          },
-          {
-            "label": "OBP",
-            "value": ".407"
-          },
-          {
-            "label": "SLG",
-            "value": ".447"
-          },
-          {
-            "label": "HR",
-            "value": "6"
-          },
-          {
-            "label": "RBI",
-            "value": "41"
-          },
-          {
-            "label": "SB",
-            "value": "5"
-          }
-        ],
-        "components": {
-          "On-base": 70.55555555555553,
-          "Power": 33.42105263157895,
-          "Contact": 66.875,
-          "Discipline": 100,
-          "Speed": 16.666666666666664
-        },
-        "metaLine": "R-SR / N/A",
-        "detailBadges": [
-          "INF",
-          "R-SR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "UAB Athletics roster",
-          "UAB cumulative stats"
-        ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats",
-        "schoolSlug": "uab",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/wesley-helms/11501",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "uab-11508",
-        "name": "Konner Keplinger",
-        "school": "UAB",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "R-SO",
-        "handedness": "N/A",
-        "score": 4,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Konner Keplinger gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 8.65",
-          "WHIP 2.01",
-          "K/9 5.8"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "8.65"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.01"
-          },
-          {
-            "label": "K/9",
-            "value": "5.8"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "2.88"
-          },
-          {
-            "label": "IP",
-            "value": "34.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 16.063548102383045,
-          "Command": 3.1578947368421018,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-SO / N/A",
-        "detailBadges": [
-          "LHP",
-          "R-SO",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "UAB Athletics roster",
-          "UAB cumulative stats"
-        ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats",
-        "schoolSlug": "uab",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/konner-keplinger/11508",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "uab-11499",
-        "name": "John Paul Head",
-        "school": "UAB",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "SO",
-        "handedness": "N/A",
-        "score": 85,
-        "fit": {
-          "label": "Priority",
-          "className": "fit-priority"
-        },
-        "summary": "John Paul Head profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .329",
-          "OBP .457",
-          "SLG .710"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".329"
-          },
-          {
-            "label": "OBP",
-            "value": ".457"
-          },
-          {
-            "label": "SLG",
-            "value": ".710"
-          },
-          {
-            "label": "HR",
-            "value": "22"
-          },
-          {
-            "label": "RBI",
-            "value": "56"
-          },
-          {
-            "label": "SB",
-            "value": "11"
-          }
-        ],
-        "components": {
-          "On-base": 98.33333333333333,
-          "Power": 100,
-          "Contact": 68.125,
-          "Discipline": 81.64251207729467,
-          "Speed": 36.666666666666664
-        },
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "OF",
-          "SO",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "UAB Athletics roster",
-          "UAB cumulative stats"
-        ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats",
-        "schoolSlug": "uab",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/john-paul-head/11499",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "uab-11493",
-        "name": "Drake Douglas",
-        "school": "UAB",
-        "role": "Pitcher",
-        "position": "OF/RHP",
-        "classYear": "JR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Drake Douglas looks like a OF/RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "OF/RHP",
-          "JR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "UAB Athletics roster"
-        ],
-        "sourceSummary": "UAB Athletics roster",
-        "schoolSlug": "uab",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/drake-douglas/11493",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "uab-11494",
-        "name": "Alex Dupuy",
-        "school": "UAB",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "JR",
-        "handedness": "N/A",
-        "score": 41,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Alex Dupuy profiles as a INF piece who adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .272",
-          "OBP .383",
-          "SLG .465"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".272"
-          },
-          {
-            "label": "OBP",
-            "value": ".383"
-          },
-          {
-            "label": "SLG",
-            "value": ".465"
-          },
-          {
-            "label": "HR",
-            "value": "10"
-          },
-          {
-            "label": "RBI",
-            "value": "41"
-          },
-          {
-            "label": "SB",
-            "value": "10"
-          }
-        ],
-        "components": {
-          "On-base": 57.22222222222222,
-          "Power": 38.15789473684211,
-          "Contact": 32.500000000000014,
-          "Discipline": 22.6120857699805,
-          "Speed": 33.33333333333333
-        },
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "INF",
-          "JR",
-          "N/A",
-          "Two-Way"
-        ],
-        "leaderboards": [
-          "UAB Athletics roster",
-          "UAB cumulative stats"
-        ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats",
-        "schoolSlug": "uab",
-        "compositeRole": "Two-Way",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/alex-dupuy/11494",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "uab-11521",
-        "name": "Braxton Shelton",
-        "school": "UAB",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "N/A",
-        "score": 3,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Braxton Shelton gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 11.81",
-          "WHIP 2.56",
-          "K/9 5.3"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "11.81"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.56"
-          },
-          {
-            "label": "K/9",
-            "value": "5.3"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.5"
-          },
-          {
-            "label": "HR/9",
-            "value": "3.38"
-          },
-          {
-            "label": "IP",
-            "value": "32.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 12.215909090909092,
-          "Command": 3.75,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "UAB Athletics roster",
-          "UAB cumulative stats"
-        ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats",
-        "schoolSlug": "uab",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/braxton-shelton/11521",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "uab-11506",
-        "name": "Hunter Hyatt",
-        "school": "UAB",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "R-SO",
-        "handedness": "N/A",
-        "score": 1,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Hunter Hyatt gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 11.12",
-          "WHIP 2.65",
-          "K/9 4.8"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "11.12"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.65"
-          },
-          {
-            "label": "K/9",
-            "value": "4.8"
-          },
-          {
-            "label": "BB/9",
-            "value": "14.3"
-          },
-          {
-            "label": "HR/9",
-            "value": "3.18"
-          },
-          {
-            "label": "IP",
-            "value": "5.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 6.951871657754011,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-SO / N/A",
-        "detailBadges": [
-          "LHP",
-          "R-SO",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "UAB Athletics roster",
-          "UAB cumulative stats"
-        ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats",
-        "schoolSlug": "uab",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/hunter-hyatt/11506",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "uab-11518",
-        "name": "Baylor Roberts",
-        "school": "UAB",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "FR",
-        "handedness": "N/A",
-        "score": 10,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Baylor Roberts profiles as a INF piece who adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .226",
-          "OBP .294",
-          "SLG .347"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".226"
-          },
-          {
-            "label": "OBP",
-            "value": ".294"
-          },
-          {
-            "label": "SLG",
-            "value": ".347"
-          },
-          {
-            "label": "HR",
-            "value": "4"
-          },
-          {
-            "label": "RBI",
-            "value": "31"
-          },
-          {
-            "label": "SB",
-            "value": "11"
-          }
-        ],
-        "components": {
-          "On-base": 7.777777777777755,
-          "Power": 7.10526315789473,
-          "Contact": 3.7500000000000036,
-          "Discipline": 7.127882599580711,
-          "Speed": 36.666666666666664
-        },
-        "metaLine": "FR / N/A",
-        "detailBadges": [
-          "INF",
-          "FR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "UAB Athletics roster",
-          "UAB cumulative stats"
-        ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats",
-        "schoolSlug": "uab",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/baylor-roberts/11518",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "uab-11510",
-        "name": "Bradley Loftin",
-        "school": "UAB",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "R-JR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Bradley Loftin looks like a LHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-JR / N/A",
-        "detailBadges": [
-          "LHP",
-          "R-JR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "UAB Athletics roster"
-        ],
-        "sourceSummary": "UAB Athletics roster",
-        "schoolSlug": "uab",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/bradley-loftin/11510",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "uab-11505",
-        "name": "Andrew Hunt",
-        "school": "UAB",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "R-JR",
-        "handedness": "N/A",
-        "score": 72,
-        "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
-        },
-        "summary": "Andrew Hunt profiles as a OF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .320",
-          "OBP .453",
-          "SLG .500"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".320"
-          },
-          {
-            "label": "OBP",
-            "value": ".453"
-          },
-          {
-            "label": "SLG",
-            "value": ".500"
-          },
-          {
-            "label": "HR",
-            "value": "7"
-          },
-          {
-            "label": "RBI",
-            "value": "46"
-          },
-          {
-            "label": "SB",
-            "value": "11"
-          }
-        ],
-        "components": {
-          "On-base": 96.1111111111111,
-          "Power": 47.36842105263158,
-          "Contact": 62.5,
-          "Discipline": 100,
-          "Speed": 36.666666666666664
-        },
-        "metaLine": "R-JR / N/A",
-        "detailBadges": [
-          "OF",
-          "R-JR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "UAB Athletics roster",
-          "UAB cumulative stats"
-        ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats",
-        "schoolSlug": "uab",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/andrew-hunt/11505",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "uab-11515",
-        "name": "Austin Pierzynski",
-        "school": "UAB",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "FR",
-        "handedness": "N/A",
-        "score": 29,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Austin Pierzynski gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .240",
-          "OBP .340",
-          "SLG .448"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".240"
-          },
-          {
-            "label": "OBP",
-            "value": ".340"
-          },
-          {
-            "label": "SLG",
-            "value": ".448"
-          },
-          {
-            "label": "HR",
-            "value": "7"
-          },
-          {
-            "label": "RBI",
-            "value": "18"
-          },
-          {
-            "label": "SB",
-            "value": "3"
-          }
-        ],
-        "components": {
-          "On-base": 33.33333333333333,
-          "Power": 33.684210526315795,
-          "Contact": 12.499999999999993,
-          "Discipline": 45.41062801932367,
-          "Speed": 10
-        },
-        "metaLine": "FR / N/A",
-        "detailBadges": [
-          "C",
-          "FR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "UAB Athletics roster",
-          "UAB cumulative stats"
-        ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats",
-        "schoolSlug": "uab",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/austin-pierzynski/11515",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "uab-11502",
-        "name": "Justin Hicks",
-        "school": "UAB",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "N/A",
-        "score": 10,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Justin Hicks looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA 8.51",
-          "WHIP 1.78",
-          "K/9 7.1"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "8.51"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.78"
-          },
-          {
-            "label": "K/9",
-            "value": "7.1"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.9"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.46"
-          },
-          {
-            "label": "IP",
-            "value": "37.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 27.764127764127768,
-          "Command": 28.33333333333334,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "UAB Athletics roster",
-          "UAB cumulative stats"
-        ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats",
-        "schoolSlug": "uab",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/justin-hicks/11502",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "uab-11520",
-        "name": "Carter Samuelson",
-        "school": "UAB",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "FR",
-        "handedness": "N/A",
-        "score": 3,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Carter Samuelson gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 7.05",
-          "WHIP 1.88",
-          "K/9 5.5"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "7.05"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.88"
-          },
-          {
-            "label": "K/9",
-            "value": "5.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.8"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.20"
-          },
-          {
-            "label": "IP",
-            "value": "60.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 14.09090909090909,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / N/A",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "UAB Athletics roster",
-          "UAB cumulative stats"
-        ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats",
-        "schoolSlug": "uab",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/carter-samuelson/11520",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "uab-11513",
-        "name": "Riley Miller",
-        "school": "UAB",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "R-FR",
-        "handedness": "N/A",
-        "score": 5,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Riley Miller gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 6.09",
-          "WHIP 1.67",
-          "K/9 6.1"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "6.09"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.67"
-          },
-          {
-            "label": "K/9",
-            "value": "6.1"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.5"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.42"
-          },
-          {
-            "label": "IP",
-            "value": "44.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 19.00205058099795,
-          "Command": 7.272727272727275,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-FR / N/A",
-        "detailBadges": [
-          "RHP",
-          "R-FR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "UAB Athletics roster",
-          "UAB cumulative stats"
-        ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats",
-        "schoolSlug": "uab",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/riley-miller/11513",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "uab-11525",
-        "name": "Brady Waugh",
-        "school": "UAB",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "JR",
-        "handedness": "N/A",
-        "score": 66,
-        "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
-        },
-        "summary": "Brady Waugh profiles as a INF piece who gets on base at a high clip and controls at-bats.",
-        "summaryMetrics": [
-          "AVG .322",
-          "OBP .431",
-          "SLG .490"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".322"
-          },
-          {
-            "label": "OBP",
-            "value": ".431"
-          },
-          {
-            "label": "SLG",
-            "value": ".490"
-          },
-          {
-            "label": "HR",
-            "value": "7"
-          },
-          {
-            "label": "RBI",
-            "value": "49"
-          },
-          {
-            "label": "SB",
-            "value": "7"
-          }
-        ],
-        "components": {
-          "On-base": 83.88888888888889,
-          "Power": 44.73684210526316,
-          "Contact": 63.75000000000001,
-          "Discipline": 100,
-          "Speed": 23.333333333333332
-        },
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "INF",
-          "JR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "UAB Athletics roster",
-          "UAB cumulative stats"
-        ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats",
-        "schoolSlug": "uab",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/brady-waugh/11525",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "uab-11507",
-        "name": "Chase Ingram",
-        "school": "UAB",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "N/A",
-        "score": 11,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Chase Ingram looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA 6.37",
-          "WHIP 1.51",
-          "K/9 6.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "6.37"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.51"
-          },
-          {
-            "label": "K/9",
-            "value": "6.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "2.17"
-          },
-          {
-            "label": "IP",
-            "value": "70.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 21.52658662092624,
-          "Command": 42.49999999999999,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "UAB Athletics roster",
-          "UAB cumulative stats"
-        ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats",
-        "schoolSlug": "uab",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/chase-ingram/11507",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "uab-11497",
-        "name": "Tyler Haines",
-        "school": "UAB",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "GR",
-        "handedness": "N/A",
-        "score": 7,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Tyler Haines gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 15.12",
-          "WHIP 2.88",
-          "K/9 7.6"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "15.12"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.88"
-          },
-          {
-            "label": "K/9",
-            "value": "7.6"
-          },
-          {
-            "label": "BB/9",
-            "value": "6.5"
-          },
-          {
-            "label": "HR/9",
-            "value": "3.24"
-          },
-          {
-            "label": "IP",
-            "value": "8.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 32.36363636363636,
-          "Command": 3.333333333333335,
-          "Damage suppression": 0
-        },
-        "metaLine": "GR / N/A",
-        "detailBadges": [
-          "RHP",
-          "GR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "UAB Athletics roster",
-          "UAB cumulative stats"
-        ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats",
-        "schoolSlug": "uab",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/tyler-haines/11497",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "uab-11517",
-        "name": "Max Price",
-        "school": "UAB",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "R-JR",
-        "handedness": "N/A",
-        "score": 44,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Max Price gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .263",
-          "OBP .395",
-          "SLG .526"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".263"
-          },
-          {
-            "label": "OBP",
-            "value": ".395"
-          },
-          {
-            "label": "SLG",
-            "value": ".526"
-          },
-          {
-            "label": "HR",
-            "value": "6"
-          },
-          {
-            "label": "RBI",
-            "value": "24"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
-        "components": {
-          "On-base": 63.888888888888886,
-          "Power": 54.21052631578949,
-          "Contact": 26.875000000000004,
-          "Discipline": 27.58620689655172,
-          "Speed": 3.3333333333333335
-        },
-        "metaLine": "R-JR / N/A",
-        "detailBadges": [
-          "C",
-          "R-JR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "UAB Athletics roster",
-          "UAB cumulative stats"
-        ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats",
-        "schoolSlug": "uab",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/max-price/11517",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "uab-11503",
-        "name": "Josh Holley",
-        "school": "UAB",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Josh Holley looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "UAB Athletics roster"
-        ],
-        "sourceSummary": "UAB Athletics roster",
-        "schoolSlug": "uab",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/josh-holley/11503",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "uab-11516",
-        "name": "Andrew Prejean",
-        "school": "UAB",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Andrew Prejean looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "UAB Athletics roster"
-        ],
-        "sourceSummary": "UAB Athletics roster",
-        "schoolSlug": "uab",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/andrew-prejean/11516",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "uab-11500",
-        "name": "Christian Helmers",
-        "school": "UAB",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "FR",
-        "handedness": "N/A",
-        "score": 9,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Christian Helmers gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 10.98",
-          "WHIP 2.18",
-          "K/9 8.6"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "10.98"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.18"
-          },
-          {
-            "label": "K/9",
-            "value": "8.6"
-          },
-          {
-            "label": "BB/9",
-            "value": "6.5"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.78"
-          },
-          {
-            "label": "IP",
-            "value": "30.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 41.858141858141856,
-          "Command": 6.363636363636363,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / N/A",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "UAB Athletics roster",
-          "UAB cumulative stats"
-        ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats",
-        "schoolSlug": "uab",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/christian-helmers/11500",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "uab-11492",
-        "name": "Brendan Conner",
-        "school": "UAB",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "N/A",
-        "score": 4,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Brendan Conner gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 4.35",
-          "WHIP 1.45",
-          "K/9 5.8"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.35"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.45"
-          },
-          {
-            "label": "K/9",
-            "value": "5.8"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.3"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.75"
-          },
-          {
-            "label": "IP",
-            "value": "60.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 16.818181818181817,
-          "Command": 6.896551724137931,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "UAB Athletics roster",
-          "UAB cumulative stats"
-        ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats",
-        "schoolSlug": "uab",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/brendan-conner/11492",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "uab-11496",
-        "name": "Jay Fuller",
-        "school": "UAB",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "FR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jay Fuller gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "FR / N/A",
-        "detailBadges": [
-          "OF",
-          "FR",
-          "N/A",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "UAB Athletics roster"
-        ],
-        "sourceSummary": "UAB Athletics roster",
-        "schoolSlug": "uab",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/jay-fuller/11496",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "uab-11504",
-        "name": "Brooks House",
-        "school": "UAB",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "R-SO",
-        "handedness": "N/A",
-        "score": 2,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Brooks House gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 13.50",
-          "WHIP 2.53",
-          "K/9 5.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "13.50"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.53"
-          },
-          {
-            "label": "K/9",
-            "value": "5.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "12.1"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.42"
-          },
-          {
-            "label": "IP",
-            "value": "12.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 8.851674641148326,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-SO / N/A",
-        "detailBadges": [
-          "RHP",
-          "R-SO",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "UAB Athletics roster",
-          "UAB cumulative stats"
-        ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats",
-        "schoolSlug": "uab",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/brooks-house/11504",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "uab-11490",
-        "name": "Landon Beaver",
-        "school": "UAB",
-        "role": "Hitter",
-        "position": "OF/1B",
-        "classYear": "SO",
-        "handedness": "N/A",
-        "score": 69,
-        "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
-        },
-        "summary": "Landon Beaver profiles as a OF/1B piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .310",
-          "OBP .445",
-          "SLG .484"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".310"
-          },
-          {
-            "label": "OBP",
-            "value": ".445"
-          },
-          {
-            "label": "SLG",
-            "value": ".484"
-          },
-          {
-            "label": "HR",
-            "value": "7"
-          },
-          {
-            "label": "RBI",
-            "value": "35"
-          },
-          {
-            "label": "SB",
-            "value": "13"
-          }
-        ],
-        "components": {
-          "On-base": 91.66666666666666,
-          "Power": 43.15789473684211,
-          "Contact": 56.25,
-          "Discipline": 96.82539682539681,
-          "Speed": 43.333333333333336
-        },
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "OF/1B",
-          "SO",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "UAB Athletics roster",
-          "UAB cumulative stats"
-        ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats",
-        "schoolSlug": "uab",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/landon-beaver/11490",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "uab-11509",
-        "name": "Caden Kok",
-        "school": "UAB",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Caden Kok looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "UAB Athletics roster"
-        ],
-        "sourceSummary": "UAB Athletics roster",
-        "schoolSlug": "uab",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/caden-kok/11509",
         "espnAthleteId": ""
       },
       {
