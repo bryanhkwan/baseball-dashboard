@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.george-washington2026 = {
-  "generatedAt": "2026-07-20T11:15:20.011Z",
+  "generatedAt": "2026-07-21T10:56:00.161Z",
   "season": 2026,
   "school": {
     "slug": "george-washington",
@@ -25,7 +25,7 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
     "ncaa": "NCAA school index"
   },
   "coverage": {
-    "rosterPlayers": 34,
+    "rosterPlayers": 35,
     "espnRosterPlayers": 0,
     "playersWithHittingStats": 0,
     "playersWithPitchingStats": 0,
@@ -3134,15 +3134,103 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         ],
         "sourceSummary": "George Washington Athletics roster"
       }
+    },
+    {
+      "id": "george-washington-10629",
+      "schoolSlug": "george-washington",
+      "school": "George Washington",
+      "schoolLongName": "George Washington University",
+      "name": "Matt Zapotek",
+      "normalizedName": "matt zapotek",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "JR",
+      "handedness": "N/A",
+      "jersey": "",
+      "hometown": "Cypress, TX",
+      "highSchool": "Houston Christian",
+      "previousSchool": "Rice",
+      "hometownHighSchool": "Cypress, TX / Houston Christian",
+      "profileUrl": "https://gwsports.com/sports/baseball/roster/matt-zapotek/10629",
+      "imageUrl": "https://gwsports.com/images/2022/11/18/mtt_logo_71_p9bRo.7055.gif",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10629",
+      "sources": [
+        "George Washington Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Matt Zapotek looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "George Washington Athletics roster"
+      }
     }
   ],
   "playerBoard": {
     "source": "George Washington Athletics roster + cumulative stats / ESPN roster",
     "note": "This George Washington-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but George Washington's public ESPN roster feed did not line up cleanly with the current school-site roster.",
-    "totalPlayers": 34,
+    "totalPlayers": 35,
     "roleCounts": {
       "Hitter": 17,
-      "Pitcher": 17
+      "Pitcher": 18
     },
     "players": [
       {
@@ -5455,6 +5543,74 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "schoolSlug": "george-washington",
         "compositeRole": "Rostered",
         "profileUrl": "https://gwsports.com/sports/baseball/roster/vince-porcaro/10436",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "george-washington-10629",
+        "name": "Matt Zapotek",
+        "school": "George Washington",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Matt Zapotek looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "George Washington Athletics roster"
+        ],
+        "sourceSummary": "George Washington Athletics roster",
+        "schoolSlug": "george-washington",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gwsports.com/sports/baseball/roster/matt-zapotek/10629",
         "espnAthleteId": ""
       }
     ]

@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-20T11:16:20.369Z",
+  "generatedAt": "2026-07-21T10:56:52.249Z",
   "season": 2026,
   "source": "Generated Sidearm baseball roster pool",
   "note": "This compact roster-only pool captures public school-site baseball rosters so non-appearing players can still enter coverage before they log a reachable NCAA boxscore.",
-  "schoolCount": 48,
+  "schoolCount": 47,
   "schools": [
     {
       "slug": "akron",
@@ -107,7 +107,7 @@
       "slug": "george-washington",
       "name": "George Washington",
       "longName": "George Washington University",
-      "rosterPlayers": 34,
+      "rosterPlayers": 35,
       "rosterUrl": "https://gwsports.com/sports/baseball/roster"
     },
     {
@@ -116,13 +116,6 @@
       "longName": "University of Georgia",
       "rosterPlayers": 41,
       "rosterUrl": "https://georgiadogs.com/sports/baseball/roster"
-    },
-    {
-      "slug": "kansas",
-      "name": "Kansas",
-      "longName": "University of Kansas",
-      "rosterPlayers": 35,
-      "rosterUrl": "https://kuathletics.com/sports/baseball/roster"
     },
     {
       "slug": "lehigh",
@@ -344,12 +337,12 @@
   ],
   "coverage": {
     "schoolsRequested": 73,
-    "schoolsLoaded": 48,
-    "schoolsFailed": 25,
-    "totalPlayers": 1767,
+    "schoolsLoaded": 47,
+    "schoolsFailed": 26,
+    "totalPlayers": 1733,
     "roleCounts": {
-      "Hitter": 876,
-      "Pitcher": 891
+      "Hitter": 861,
+      "Pitcher": 872
     },
     "failures": [
       {
@@ -416,6 +409,11 @@
         "schoolSlug": "james-madison",
         "schoolName": "James Madison",
         "message": "The page does not expose a __NUXT_DATA__ payload."
+      },
+      {
+        "schoolSlug": "kansas",
+        "schoolName": "Kansas",
+        "message": "No roster players were found on Kansas's public roster page."
       },
       {
         "schoolSlug": "liberty",
@@ -9343,6 +9341,20 @@
       "https://gwsports.com/sports/baseball/roster/vince-porcaro/10436"
     ],
     [
+      "george-washington-10629",
+      "george-washington",
+      "Matt Zapotek",
+      "Pitcher",
+      "RHP",
+      "JR",
+      "",
+      "",
+      "Cypress, TX",
+      "Houston Christian",
+      "Rice",
+      "https://gwsports.com/sports/baseball/roster/matt-zapotek/10629"
+    ],
+    [
       "georgia-10323",
       "georgia",
       "Ryan Wynn",
@@ -9915,496 +9927,6 @@
       "",
       "University of Texas Rio Grande Valley",
       "https://georgiadogs.com/sports/baseball/roster/mason-kosowick/10348"
-    ],
-    [
-      "kansas-17035",
-      "kansas",
-      "Tyson LeBlanc",
-      "Hitter",
-      "INF/OF",
-      "JR",
-      "R/R",
-      "2",
-      "Maurice, La.",
-      "North Vermillion HS",
-      "LSU Eunice",
-      "https://kuathletics.com/sports/baseball/roster/tyson-leblanc/17035"
-    ],
-    [
-      "kansas-17036",
-      "kansas",
-      "Landen Lozier",
-      "Hitter",
-      "INF/OF",
-      "R-SO",
-      "L/R",
-      "3",
-      "Green Bay, Wisc.",
-      "Notre Dame de la Baie Academy",
-      "Michigan State/Minnesota",
-      "https://kuathletics.com/sports/baseball/roster/landen-lozier/17036"
-    ],
-    [
-      "kansas-17031",
-      "kansas",
-      "Max Soliz Jr.",
-      "Hitter",
-      "C/1B",
-      "SR",
-      "R/R",
-      "4",
-      "Houston, Texas",
-      "Bob Jones HS",
-      "Arkansas/Chattahoochee Valley CC",
-      "https://kuathletics.com/sports/baseball/roster/max-soliz-jr/17031"
-    ],
-    [
-      "kansas-17037",
-      "kansas",
-      "Tyson Owens",
-      "Hitter",
-      "OF/C",
-      "SO",
-      "L/R",
-      "5",
-      "Las Vegas, Nev.",
-      "Bonanza HS",
-      "Cochise College",
-      "https://kuathletics.com/sports/baseball/roster/tyson-owens/17037"
-    ],
-    [
-      "kansas-17039",
-      "kansas",
-      "Dylan Schlotterback",
-      "Hitter",
-      "INF",
-      "JR",
-      "R/R",
-      "7",
-      "Lakeway, Texas",
-      "Lake Travis HS",
-      "Paris JC",
-      "https://kuathletics.com/sports/baseball/roster/dylan-schlotterback/17039"
-    ],
-    [
-      "kansas-17040",
-      "kansas",
-      "Gavyn Schlotterback",
-      "Hitter",
-      "C/RHP",
-      "SO",
-      "R/R",
-      "8",
-      "Lakeway, Texas",
-      "Lake Travis HS",
-      "Paris JC",
-      "https://kuathletics.com/sports/baseball/roster/gavyn-schlotterback/17040"
-    ],
-    [
-      "kansas-17041",
-      "kansas",
-      "Cade Baldridge",
-      "Hitter",
-      "INF/OF",
-      "JR",
-      "S/R",
-      "9",
-      "Roff, Okla.",
-      "Roff HS",
-      "Cowley County CC",
-      "https://kuathletics.com/sports/baseball/roster/cade-baldridge/17041"
-    ],
-    [
-      "kansas-17042",
-      "kansas",
-      "Savion Flowers",
-      "Hitter",
-      "OF",
-      "SO",
-      "L/R",
-      "10",
-      "Chicago, Ill.",
-      "Kenwood Academy HS",
-      "Cisco College",
-      "https://kuathletics.com/sports/baseball/roster/savion-flowers/17042"
-    ],
-    [
-      "kansas-17043",
-      "kansas",
-      "Daniel Lopez",
-      "Pitcher",
-      "RHP",
-      "SO",
-      "R/R",
-      "11",
-      "El Paso, Texas",
-      "Socorro HS",
-      "Odessa College",
-      "https://kuathletics.com/sports/baseball/roster/daniel-lopez/17043"
-    ],
-    [
-      "kansas-17032",
-      "kansas",
-      "Dominic Voegele",
-      "Pitcher",
-      "RHP",
-      "JR",
-      "R/R",
-      "12",
-      "Columbia, Ill.",
-      "Columbia HS",
-      "",
-      "https://kuathletics.com/sports/baseball/roster/dominic-voegele/17032"
-    ],
-    [
-      "kansas-17045",
-      "kansas",
-      "Toby Scheidt",
-      "Pitcher",
-      "RHP",
-      "SR",
-      "R/R",
-      "15",
-      "Columbia, Mo.",
-      "Rock Bridge HS",
-      "Bryant",
-      "https://kuathletics.com/sports/baseball/roster/toby-scheidt/17045"
-    ],
-    [
-      "kansas-17046",
-      "kansas",
-      "Josh Dykhoff",
-      "Hitter",
-      "1B/RHP",
-      "SR",
-      "L/R",
-      "16",
-      "Bluffton, Minn.",
-      "Wadena-Deer Creek HS",
-      "Minnesota Crookston",
-      "https://kuathletics.com/sports/baseball/roster/josh-dykhoff/17046"
-    ],
-    [
-      "kansas-17047",
-      "kansas",
-      "Carter Fink",
-      "Pitcher",
-      "RHP",
-      "GR",
-      "R/R",
-      "17",
-      "Macon, Ga.",
-      "Tattnall Square Academy",
-      "Snead State CC/Cleveland State CC/East Tennessee State",
-      "https://kuathletics.com/sports/baseball/roster/carter-fink/17047"
-    ],
-    [
-      "kansas-17027",
-      "kansas",
-      "Kannon Carr",
-      "Pitcher",
-      "RHP",
-      "SR",
-      "R/R",
-      "18",
-      "Poplar Bluff, Mo.",
-      "Poplar Bluff HS",
-      "Jefferson College",
-      "https://kuathletics.com/sports/baseball/roster/kannon-carr/17027"
-    ],
-    [
-      "kansas-17048",
-      "kansas",
-      "Augusto Mungarrieta",
-      "Hitter",
-      "C",
-      "JR",
-      "R/R",
-      "21",
-      "Carabobo, Venezuela",
-      "U.E. Colegio Libertador",
-      "Rochester Community and Technical College/Northwest Florida State College",
-      "https://kuathletics.com/sports/baseball/roster/augusto-mungarrieta/17048"
-    ],
-    [
-      "kansas-17029",
-      "kansas",
-      "Dariel Osoria",
-      "Hitter",
-      "INF",
-      "SR",
-      "R/R",
-      "23",
-      "Bronx, N.Y.",
-      "Metropolitan Soundview HS",
-      "Western Oklahoma State College",
-      "https://kuathletics.com/sports/baseball/roster/dariel-osoria/17029"
-    ],
-    [
-      "kansas-17049",
-      "kansas",
-      "Riane Ritter",
-      "Pitcher",
-      "RHP",
-      "SO",
-      "R/R",
-      "25",
-      "Rogers, Minn.",
-      "Rogers HS",
-      "St. Thomas",
-      "https://kuathletics.com/sports/baseball/roster/riane-ritter/17049"
-    ],
-    [
-      "kansas-17025",
-      "kansas",
-      "Brady Ballinger",
-      "Hitter",
-      "INF/OF",
-      "JR",
-      "L/L",
-      "26",
-      "Las Vegas, Nev.",
-      "Green Valley HS",
-      "College of Southern Nevada",
-      "https://kuathletics.com/sports/baseball/roster/brady-ballinger/17025"
-    ],
-    [
-      "kansas-17028",
-      "kansas",
-      "Blake O'Brien",
-      "Pitcher",
-      "RHP",
-      "R-FR",
-      "R/R",
-      "28",
-      "Overland Park, Kan.",
-      "Saint Thomas Aquinas HS",
-      "",
-      "https://kuathletics.com/sports/baseball/roster/blake-obrien/17028"
-    ],
-    [
-      "kansas-17050",
-      "kansas",
-      "Boede Rahe",
-      "Pitcher",
-      "RHP",
-      "R-JR",
-      "R/R",
-      "29",
-      "Marion, Iowa",
-      "Marion HS",
-      "Kirkwood CC",
-      "https://kuathletics.com/sports/baseball/roster/boede-rahe/17050"
-    ],
-    [
-      "kansas-17051",
-      "kansas",
-      "Abel Ney",
-      "Hitter",
-      "C",
-      "FR",
-      "R/R",
-      "30",
-      "Lawrence, Kan.",
-      "Veritas Christian School",
-      "",
-      "https://kuathletics.com/sports/baseball/roster/abel-ney/17051"
-    ],
-    [
-      "kansas-17052",
-      "kansas",
-      "Jordan Bach",
-      "Hitter",
-      "OF/C",
-      "GR",
-      "L/R",
-      "31",
-      "Ladner, British Columbia",
-      "Delta Secondary School",
-      "Saint Xavier University/Northeast Oklahoma A&M/SIU-Carbondale",
-      "https://kuathletics.com/sports/baseball/roster/jordan-bach/17052"
-    ],
-    [
-      "kansas-17053",
-      "kansas",
-      "Sawyer Cooney",
-      "Pitcher",
-      "RHP",
-      "FR",
-      "R/R",
-      "32",
-      "Bloomfield Hills, Mich.",
-      "Bloomfield Hills HS",
-      "",
-      "https://kuathletics.com/sports/baseball/roster/sawyer-cooney/17053"
-    ],
-    [
-      "kansas-17054",
-      "kansas",
-      "Ty Thomson",
-      "Pitcher",
-      "LHP",
-      "JR",
-      "L/L",
-      "33",
-      "Council Bluffs, Iowa",
-      "Lewis Central HS",
-      "Iowa Lakes CC/Des Moines Area CC",
-      "https://kuathletics.com/sports/baseball/roster/ty-thomson/17054"
-    ],
-    [
-      "kansas-17055",
-      "kansas",
-      "Mathis Nayral",
-      "Pitcher",
-      "RHP",
-      "JR",
-      "R/R",
-      "34",
-      "Montpellier, France",
-      "Lycée Bellevue",
-      "Cochise College",
-      "https://kuathletics.com/sports/baseball/roster/mathis-nayral/17055"
-    ],
-    [
-      "kansas-17056",
-      "kansas",
-      "Caleb Deer",
-      "Pitcher",
-      "LHP",
-      "JR",
-      "L/L",
-      "35",
-      "Overland Park, Kan.",
-      "Olathe East HS",
-      "Kansas City Kansas CC",
-      "https://kuathletics.com/sports/baseball/roster/caleb-deer/17056"
-    ],
-    [
-      "kansas-17026",
-      "kansas",
-      "Maddox Burkitt",
-      "Pitcher",
-      "RHP",
-      "R-JR",
-      "R/R",
-      "39",
-      "Lawrence, Kan.",
-      "Lawrence Free State HS",
-      "Johnson County CC",
-      "https://kuathletics.com/sports/baseball/roster/maddox-burkitt/17026"
-    ],
-    [
-      "kansas-17058",
-      "kansas",
-      "Aiden Cline",
-      "Pitcher",
-      "RHP",
-      "SO",
-      "L/R",
-      "40",
-      "Kerrville, Texas",
-      "Tivy HS",
-      "Midland College",
-      "https://kuathletics.com/sports/baseball/roster/aiden-cline/17058"
-    ],
-    [
-      "kansas-17808",
-      "kansas",
-      "Luke Larson",
-      "Hitter",
-      "C",
-      "FR",
-      "R/R",
-      "41",
-      "Lakeville, Minn.",
-      "Lakeville North HS",
-      "",
-      "https://kuathletics.com/sports/baseball/roster/luke-larson/17808"
-    ],
-    [
-      "kansas-17059",
-      "kansas",
-      "Mason Cook",
-      "Pitcher",
-      "RHP",
-      "SO",
-      "R/R",
-      "43",
-      "Keller, Texas",
-      "Keller HS",
-      "McLennan CC",
-      "https://kuathletics.com/sports/baseball/roster/mason-cook/17059"
-    ],
-    [
-      "kansas-17024",
-      "kansas",
-      "Jeremy Allen",
-      "Pitcher",
-      "RHP",
-      "R-FR",
-      "R/R",
-      "44",
-      "Arlington Heights, Ill.",
-      "John Hersey HS",
-      "",
-      "https://kuathletics.com/sports/baseball/roster/jeremy-allen/17024"
-    ],
-    [
-      "kansas-17033",
-      "kansas",
-      "Manning West",
-      "Pitcher",
-      "RHP",
-      "R-JR",
-      "R/R",
-      "45",
-      "Winder, Ga.",
-      "Apalachee HS",
-      "Oklahoma State/Walters State CC",
-      "https://kuathletics.com/sports/baseball/roster/manning-west/17033"
-    ],
-    [
-      "kansas-17060",
-      "kansas",
-      "Emerson McKnight",
-      "Pitcher",
-      "LHP",
-      "FR",
-      "R/L",
-      "46",
-      "Flower Mound, Texas",
-      "Marcus HS",
-      "",
-      "https://kuathletics.com/sports/baseball/roster/emerson-mcknight/17060"
-    ],
-    [
-      "kansas-17061",
-      "kansas",
-      "Madden Seidl",
-      "Pitcher",
-      "RHP",
-      "FR",
-      "R/R",
-      "47",
-      "Emporia, Kan.",
-      "Emporia HS",
-      "",
-      "https://kuathletics.com/sports/baseball/roster/madden-seidl/17061"
-    ],
-    [
-      "kansas-17062",
-      "kansas",
-      "Dane Ebel",
-      "Pitcher",
-      "RHP",
-      "JR",
-      "L/R",
-      "48",
-      "VanWert, Ohio",
-      "Lincolnview HS",
-      "Lincoln Trail College",
-      "https://kuathletics.com/sports/baseball/roster/dane-ebel/17062"
     ],
     [
       "lehigh-20480",
@@ -17449,7 +16971,7 @@
       "https://pittsburghpanthers.com/sports/baseball/roster/jackson-cooke/14773"
     ],
     [
-      "princeton-24881",
+      "princeton-25551",
       "princeton",
       "Isaac Lamson",
       "Hitter",
@@ -17460,10 +16982,10 @@
       "Stow, Mass.",
       "Phillips Academy Andover",
       "",
-      "https://goprincetontigers.com/sports/baseball/roster/isaac-lamson/24881"
+      "https://goprincetontigers.com/sports/baseball/roster/isaac-lamson/25551"
     ],
     [
-      "princeton-24869",
+      "princeton-25539",
       "princeton",
       "James Beasley",
       "Pitcher",
@@ -17474,7 +16996,7 @@
       "Herndon, Va.",
       "Herndon",
       "",
-      "https://goprincetontigers.com/sports/baseball/roster/james-beasley/24869"
+      "https://goprincetontigers.com/sports/baseball/roster/james-beasley/25539"
     ],
     [
       "princeton-24880",
@@ -17491,7 +17013,7 @@
       "https://goprincetontigers.com/sports/baseball/roster/jake-koonin/24880"
     ],
     [
-      "princeton-24889",
+      "princeton-25561",
       "princeton",
       "Joseph Zorc",
       "Hitter",
@@ -17502,10 +17024,10 @@
       "Sterling, Va.",
       "Gonzaga College HS",
       "",
-      "https://goprincetontigers.com/sports/baseball/roster/joseph-zorc/24889"
+      "https://goprincetontigers.com/sports/baseball/roster/joseph-zorc/25561"
     ],
     [
-      "princeton-24873",
+      "princeton-25545",
       "princeton",
       "Bryce Gayan",
       "Hitter",
@@ -17516,7 +17038,7 @@
       "Seattle, Wash.",
       "Lakeside School",
       "",
-      "https://goprincetontigers.com/sports/baseball/roster/bryce-gayan/24873"
+      "https://goprincetontigers.com/sports/baseball/roster/bryce-gayan/25545"
     ],
     [
       "princeton-24878",
@@ -17533,7 +17055,7 @@
       "https://goprincetontigers.com/sports/baseball/roster/justin-kim/24878"
     ],
     [
-      "princeton-24875",
+      "princeton-25547",
       "princeton",
       "Tommy Googins",
       "Hitter",
@@ -17544,10 +17066,10 @@
       "Cincinnati, Ohio",
       "Saint Xavier",
       "",
-      "https://goprincetontigers.com/sports/baseball/roster/tommy-googins/24875"
+      "https://goprincetontigers.com/sports/baseball/roster/tommy-googins/25547"
     ],
     [
-      "princeton-24887",
+      "princeton-25559",
       "princeton",
       "Charlie Wolf",
       "Pitcher",
@@ -17558,10 +17080,10 @@
       "Chicago, Ill.",
       "St. Ignatius College Prep",
       "",
-      "https://goprincetontigers.com/sports/baseball/roster/charlie-wolf/24887"
+      "https://goprincetontigers.com/sports/baseball/roster/charlie-wolf/25559"
     ],
     [
-      "princeton-24891",
+      "princeton-25541",
       "princeton",
       "Christian Clarke",
       "Hitter",
@@ -17572,10 +17094,10 @@
       "Wesley Chapel, Fla.",
       "Carrollwood Day School",
       "",
-      "https://goprincetontigers.com/sports/baseball/roster/christian-clarke/24891"
+      "https://goprincetontigers.com/sports/baseball/roster/christian-clarke/25541"
     ],
     [
-      "princeton-24894",
+      "princeton-25548",
       "princeton",
       "Brady Kaufman",
       "Pitcher",
@@ -17586,10 +17108,10 @@
       "Dresden, Ohio",
       "Tri-Valley",
       "",
-      "https://goprincetontigers.com/sports/baseball/roster/brady-kaufman/24894"
+      "https://goprincetontigers.com/sports/baseball/roster/brady-kaufman/25548"
     ],
     [
-      "princeton-24888",
+      "princeton-25560",
       "princeton",
       "Dylan Zdunek",
       "Hitter",
@@ -17600,7 +17122,7 @@
       "San Gabriel, Calif.",
       "Maranatha",
       "",
-      "https://goprincetontigers.com/sports/baseball/roster/dylan-zdunek/24888"
+      "https://goprincetontigers.com/sports/baseball/roster/dylan-zdunek/25560"
     ],
     [
       "princeton-24885",
@@ -17617,7 +17139,7 @@
       "https://goprincetontigers.com/sports/baseball/roster/will-sword/24885"
     ],
     [
-      "princeton-24893",
+      "princeton-25543",
       "princeton",
       "Bennett Crerar",
       "Hitter",
@@ -17628,10 +17150,10 @@
       "Cheshire, Conn.",
       "Cheshire",
       "",
-      "https://goprincetontigers.com/sports/baseball/roster/bennett-crerar/24893"
+      "https://goprincetontigers.com/sports/baseball/roster/bennett-crerar/25543"
     ],
     [
-      "princeton-24874",
+      "princeton-25546",
       "princeton",
       "Kasey Gilman",
       "Pitcher",
@@ -17642,10 +17164,10 @@
       "Staten Island, N.Y.",
       "Monsignor Farrell",
       "",
-      "https://goprincetontigers.com/sports/baseball/roster/kasey-gilman/24874"
+      "https://goprincetontigers.com/sports/baseball/roster/kasey-gilman/25546"
     ],
     [
-      "princeton-24890",
+      "princeton-25540",
       "princeton",
       "Tomas Cernius",
       "Hitter",
@@ -17656,10 +17178,10 @@
       "Yorba Linda, Calif.",
       "Servite",
       "",
-      "https://goprincetontigers.com/sports/baseball/roster/tomas-cernius/24890"
+      "https://goprincetontigers.com/sports/baseball/roster/tomas-cernius/25540"
     ],
     [
-      "princeton-24886",
+      "princeton-25558",
       "princeton",
       "Grant Werdesheim",
       "Hitter",
@@ -17670,10 +17192,10 @@
       "Studio City, Calif.",
       "Sierra Canyon",
       "",
-      "https://goprincetontigers.com/sports/baseball/roster/grant-werdesheim/24886"
+      "https://goprincetontigers.com/sports/baseball/roster/grant-werdesheim/25558"
     ],
     [
-      "princeton-24884",
+      "princeton-25557",
       "princeton",
       "Nick Shenefelt",
       "Hitter",
@@ -17684,10 +17206,10 @@
       "Birmingham, Mich.",
       "Seaholm",
       "",
-      "https://goprincetontigers.com/sports/baseball/roster/nick-shenefelt/24884"
+      "https://goprincetontigers.com/sports/baseball/roster/nick-shenefelt/25557"
     ],
     [
-      "princeton-24868",
+      "princeton-25538",
       "princeton",
       "Jackson Baldrate",
       "Pitcher",
@@ -17698,10 +17220,10 @@
       "McLean, Va.",
       "Gonzaga College",
       "",
-      "https://goprincetontigers.com/sports/baseball/roster/jackson-baldrate/24868"
+      "https://goprincetontigers.com/sports/baseball/roster/jackson-baldrate/25538"
     ],
     [
-      "princeton-24882",
+      "princeton-25553",
       "princeton",
       "Jay Mentink",
       "Hitter",
@@ -17712,10 +17234,10 @@
       "Lake Tapps, Wash.",
       "Sumner",
       "",
-      "https://goprincetontigers.com/sports/baseball/roster/jay-mentink/24882"
+      "https://goprincetontigers.com/sports/baseball/roster/jay-mentink/25553"
     ],
     [
-      "princeton-24879",
+      "princeton-25550",
       "princeton",
       "Liam Kinneen",
       "Pitcher",
@@ -17726,10 +17248,10 @@
       "Lexington, Mass.",
       "Boston College HS",
       "",
-      "https://goprincetontigers.com/sports/baseball/roster/liam-kinneen/24879"
+      "https://goprincetontigers.com/sports/baseball/roster/liam-kinneen/25550"
     ],
     [
-      "princeton-24883",
+      "princeton-25556",
       "princeton",
       "Will Robbins",
       "Hitter",
@@ -17740,10 +17262,10 @@
       "Hillsborough, Calif.",
       "Burlingame",
       "",
-      "https://goprincetontigers.com/sports/baseball/roster/will-robbins/24883"
+      "https://goprincetontigers.com/sports/baseball/roster/will-robbins/25556"
     ],
     [
-      "princeton-24892",
+      "princeton-25542",
       "princeton",
       "Parker Codington",
       "Pitcher",
@@ -17754,10 +17276,10 @@
       "Virginia Beach, Va.",
       "Norfolk Academy",
       "",
-      "https://goprincetontigers.com/sports/baseball/roster/parker-codington/24892"
+      "https://goprincetontigers.com/sports/baseball/roster/parker-codington/25542"
     ],
     [
-      "princeton-24895",
+      "princeton-25552",
       "princeton",
       "Vince Menard",
       "Pitcher",
@@ -17768,7 +17290,7 @@
       "Newport Beach, Calif.",
       "Corona Del Mar",
       "",
-      "https://goprincetontigers.com/sports/baseball/roster/vince-menard/24895"
+      "https://goprincetontigers.com/sports/baseball/roster/vince-menard/25552"
     ],
     [
       "princeton-24876",
@@ -17785,7 +17307,7 @@
       "https://goprincetontigers.com/sports/baseball/roster/ethan-hsu/24876"
     ],
     [
-      "princeton-24871",
+      "princeton-25544",
       "princeton",
       "Elliott Eaton",
       "Pitcher",
@@ -17796,10 +17318,10 @@
       "Washington, D.C.",
       "St. Albans",
       "",
-      "https://goprincetontigers.com/sports/baseball/roster/elliott-eaton/24871"
+      "https://goprincetontigers.com/sports/baseball/roster/elliott-eaton/25544"
     ],
     [
-      "princeton-24877",
+      "princeton-25549",
       "princeton",
       "Jake Kernodle",
       "Hitter",
@@ -17810,10 +17332,10 @@
       "Charlotte, N.C.",
       "Charlotte Catholic",
       "",
-      "https://goprincetontigers.com/sports/baseball/roster/jake-kernodle/24877"
+      "https://goprincetontigers.com/sports/baseball/roster/jake-kernodle/25549"
     ],
     [
-      "princeton-24896",
+      "princeton-25554",
       "princeton",
       "Joe Montembeau",
       "Hitter",
@@ -17824,10 +17346,10 @@
       "Brookhaven, Ga.",
       "Marist",
       "",
-      "https://goprincetontigers.com/sports/baseball/roster/joe-montembeau/24896"
+      "https://goprincetontigers.com/sports/baseball/roster/joe-montembeau/25554"
     ],
     [
-      "princeton-24897",
+      "princeton-25555",
       "princeton",
       "Ryan Penney",
       "Pitcher",
@@ -17838,7 +17360,7 @@
       "Scottsdale, Ariz.",
       "Chapparal",
       "",
-      "https://goprincetontigers.com/sports/baseball/roster/ryan-penney/24897"
+      "https://goprincetontigers.com/sports/baseball/roster/ryan-penney/25555"
     ],
     [
       "quinnipiac-15079",
