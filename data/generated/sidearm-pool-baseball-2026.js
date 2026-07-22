@@ -1,10 +1,10 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
-  "generatedAt": "2026-07-21T10:56:42.697Z",
+  "generatedAt": "2026-07-22T10:57:31.866Z",
   "season": 2026,
   "source": "Generated Sidearm baseball school-site pool",
   "note": "This generated free player pool combines verified public roster and cumulative stats pages from multiple Sidearm baseball programs. It is broader than Toledo alone, but still not a full every-school national directory yet.",
-  "schoolCount": 47,
+  "schoolCount": 48,
   "schools": [
     {
       "slug": "toledo",
@@ -239,6 +239,19 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
       "playersWithAnyStats": 38,
       "statsUrl": "https://georgiadogs.com/sports/baseball/stats/2026",
       "rosterUrl": "https://georgiadogs.com/sports/baseball/roster"
+    },
+    {
+      "slug": "kansas",
+      "name": "Kansas",
+      "longName": "University of Kansas",
+      "record": "45-18, 22-8",
+      "totalPlayers": 35,
+      "hitters": 13,
+      "pitchers": 22,
+      "rosterPlayers": 35,
+      "playersWithAnyStats": 29,
+      "statsUrl": "https://kuathletics.com/sports/baseball/stats/2026",
+      "rosterUrl": "https://kuathletics.com/sports/baseball/roster"
     },
     {
       "slug": "lehigh",
@@ -619,18 +632,18 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
     }
   ],
   "coverage": {
-    "totalPlayers": 1733,
-    "totalHitters": 796,
-    "totalPitchers": 937,
-    "schoolsCovered": 47
+    "totalPlayers": 1768,
+    "totalHitters": 809,
+    "totalPitchers": 959,
+    "schoolsCovered": 48
   },
   "playerBoard": {
     "source": "Generated Sidearm baseball school-site pool",
     "note": "This free generated pool comes from verified public school-site roster and cumulative stats pages across multiple Sidearm baseball programs.",
-    "totalPlayers": 1733,
+    "totalPlayers": 1768,
     "roleCounts": {
-      "Hitter": 796,
-      "Pitcher": 937
+      "Hitter": 809,
+      "Pitcher": 959
     },
     "players": [
       {
@@ -47038,6 +47051,2415 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "schoolSlug": "georgia",
         "compositeRole": "Pitcher",
         "profileUrl": "https://georgiadogs.com/sports/baseball/roster/mason-kosowick/10348",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "kansas-17035",
+        "name": "Tyson LeBlanc",
+        "school": "Kansas",
+        "role": "Hitter",
+        "position": "INF/OF",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 78,
+        "fit": {
+          "label": "Pursue",
+          "className": "fit-pursue"
+        },
+        "summary": "Tyson LeBlanc profiles as a INF/OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
+        "summaryMetrics": [
+          "AVG .341",
+          "OBP .425",
+          "SLG .706"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".341"
+          },
+          {
+            "label": "OBP",
+            "value": ".425"
+          },
+          {
+            "label": "SLG",
+            "value": ".706"
+          },
+          {
+            "label": "HR",
+            "value": "25"
+          },
+          {
+            "label": "RBI",
+            "value": "69"
+          },
+          {
+            "label": "SB",
+            "value": "11"
+          }
+        ],
+        "components": {
+          "On-base": 80.55555555555554,
+          "Power": 100,
+          "Contact": 75.62500000000001,
+          "Discipline": 62.22222222222222,
+          "Speed": 36.666666666666664
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "INF/OF",
+          "JR",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Kansas Athletics roster",
+          "Kansas cumulative stats"
+        ],
+        "sourceSummary": "Kansas Athletics roster + Kansas cumulative stats",
+        "schoolSlug": "kansas",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://kuathletics.com/sports/baseball/roster/tyson-leblanc/17035",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "kansas-17036",
+        "name": "Landen Lozier",
+        "school": "Kansas",
+        "role": "Hitter",
+        "position": "INF/OF",
+        "classYear": "R-SO",
+        "handedness": "L/R",
+        "score": 24,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Landen Lozier gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .200",
+          "OBP .375",
+          "SLG .200"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".200"
+          },
+          {
+            "label": "OBP",
+            "value": ".375"
+          },
+          {
+            "label": "SLG",
+            "value": ".200"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "1"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 52.77777777777777,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 51.85185185185184,
+          "Speed": 0
+        },
+        "metaLine": "R-SO / L/R",
+        "detailBadges": [
+          "INF/OF",
+          "R-SO",
+          "L/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Kansas Athletics roster",
+          "Kansas cumulative stats"
+        ],
+        "sourceSummary": "Kansas Athletics roster + Kansas cumulative stats",
+        "schoolSlug": "kansas",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://kuathletics.com/sports/baseball/roster/landen-lozier/17036",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "kansas-17031",
+        "name": "Max Soliz Jr.",
+        "school": "Kansas",
+        "role": "Hitter",
+        "position": "C/1B",
+        "classYear": "SR",
+        "handedness": "R/R",
+        "score": 14,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Max Soliz Jr. gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .200",
+          "OBP .309",
+          "SLG .381"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".200"
+          },
+          {
+            "label": "OBP",
+            "value": ".309"
+          },
+          {
+            "label": "SLG",
+            "value": ".381"
+          },
+          {
+            "label": "HR",
+            "value": "5"
+          },
+          {
+            "label": "RBI",
+            "value": "20"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 16.111111111111097,
+          "Power": 16.05263157894737,
+          "Contact": 0,
+          "Discipline": 30.065359477124176,
+          "Speed": 0
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "C/1B",
+          "SR",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Kansas Athletics roster",
+          "Kansas cumulative stats"
+        ],
+        "sourceSummary": "Kansas Athletics roster + Kansas cumulative stats",
+        "schoolSlug": "kansas",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://kuathletics.com/sports/baseball/roster/max-soliz-jr/17031",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "kansas-17037",
+        "name": "Tyson Owens",
+        "school": "Kansas",
+        "role": "Hitter",
+        "position": "OF/C",
+        "classYear": "SO",
+        "handedness": "L/R",
+        "score": 52,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Tyson Owens profiles as a OF/C piece who gets on base at a high clip.",
+        "summaryMetrics": [
+          "AVG .272",
+          "OBP .405",
+          "SLG .539"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".272"
+          },
+          {
+            "label": "OBP",
+            "value": ".405"
+          },
+          {
+            "label": "SLG",
+            "value": ".539"
+          },
+          {
+            "label": "HR",
+            "value": "14"
+          },
+          {
+            "label": "RBI",
+            "value": "42"
+          },
+          {
+            "label": "SB",
+            "value": "6"
+          }
+        ],
+        "components": {
+          "On-base": 69.44444444444444,
+          "Power": 57.63157894736843,
+          "Contact": 32.500000000000014,
+          "Discipline": 49.90253411306042,
+          "Speed": 20
+        },
+        "metaLine": "SO / L/R",
+        "detailBadges": [
+          "OF/C",
+          "SO",
+          "L/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Kansas Athletics roster",
+          "Kansas cumulative stats"
+        ],
+        "sourceSummary": "Kansas Athletics roster + Kansas cumulative stats",
+        "schoolSlug": "kansas",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://kuathletics.com/sports/baseball/roster/tyson-owens/17037",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "kansas-17039",
+        "name": "Dylan Schlotterback",
+        "school": "Kansas",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 35,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Dylan Schlotterback gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .269",
+          "OBP .374",
+          "SLG .389"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".269"
+          },
+          {
+            "label": "OBP",
+            "value": ".374"
+          },
+          {
+            "label": "SLG",
+            "value": ".389"
+          },
+          {
+            "label": "HR",
+            "value": "3"
+          },
+          {
+            "label": "RBI",
+            "value": "31"
+          },
+          {
+            "label": "SB",
+            "value": "2"
+          }
+        ],
+        "components": {
+          "On-base": 52.222222222222214,
+          "Power": 18.15789473684211,
+          "Contact": 30.625000000000007,
+          "Discipline": 53.42789598108746,
+          "Speed": 6.666666666666667
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "INF",
+          "JR",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Kansas Athletics roster",
+          "Kansas cumulative stats"
+        ],
+        "sourceSummary": "Kansas Athletics roster + Kansas cumulative stats",
+        "schoolSlug": "kansas",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://kuathletics.com/sports/baseball/roster/dylan-schlotterback/17039",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "kansas-17040",
+        "name": "Gavyn Schlotterback",
+        "school": "Kansas",
+        "role": "Pitcher",
+        "position": "C/RHP",
+        "classYear": "SO",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Gavyn Schlotterback looks like a C/RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "C/RHP",
+          "SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Kansas Athletics roster"
+        ],
+        "sourceSummary": "Kansas Athletics roster",
+        "schoolSlug": "kansas",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://kuathletics.com/sports/baseball/roster/gavyn-schlotterback/17040",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "kansas-17041",
+        "name": "Cade Baldridge",
+        "school": "Kansas",
+        "role": "Hitter",
+        "position": "INF/OF",
+        "classYear": "JR",
+        "handedness": "S/R",
+        "score": 49,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Cade Baldridge profiles as a INF/OF piece who gets on base at a high clip.",
+        "summaryMetrics": [
+          "AVG .320",
+          "OBP .408",
+          "SLG .458"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".320"
+          },
+          {
+            "label": "OBP",
+            "value": ".408"
+          },
+          {
+            "label": "SLG",
+            "value": ".458"
+          },
+          {
+            "label": "HR",
+            "value": "7"
+          },
+          {
+            "label": "RBI",
+            "value": "43"
+          },
+          {
+            "label": "SB",
+            "value": "6"
+          }
+        ],
+        "components": {
+          "On-base": 71.11111111111109,
+          "Power": 36.31578947368422,
+          "Contact": 62.5,
+          "Discipline": 28.282828282828277,
+          "Speed": 20
+        },
+        "metaLine": "JR / S/R",
+        "detailBadges": [
+          "INF/OF",
+          "JR",
+          "S/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Kansas Athletics roster",
+          "Kansas cumulative stats"
+        ],
+        "sourceSummary": "Kansas Athletics roster + Kansas cumulative stats",
+        "schoolSlug": "kansas",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://kuathletics.com/sports/baseball/roster/cade-baldridge/17041",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "kansas-17042",
+        "name": "Savion Flowers",
+        "school": "Kansas",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "SO",
+        "handedness": "L/R",
+        "score": 15,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Savion Flowers gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .240",
+          "OBP .321",
+          "SLG .360"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".240"
+          },
+          {
+            "label": "OBP",
+            "value": ".321"
+          },
+          {
+            "label": "SLG",
+            "value": ".360"
+          },
+          {
+            "label": "HR",
+            "value": "1"
+          },
+          {
+            "label": "RBI",
+            "value": "5"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 22.777777777777768,
+          "Power": 10.526315789473681,
+          "Contact": 12.499999999999993,
+          "Discipline": 19.44444444444444,
+          "Speed": 0
+        },
+        "metaLine": "SO / L/R",
+        "detailBadges": [
+          "OF",
+          "SO",
+          "L/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Kansas Athletics roster",
+          "Kansas cumulative stats"
+        ],
+        "sourceSummary": "Kansas Athletics roster + Kansas cumulative stats",
+        "schoolSlug": "kansas",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://kuathletics.com/sports/baseball/roster/savion-flowers/17042",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "kansas-17043",
+        "name": "Daniel Lopez",
+        "school": "Kansas",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SO",
+        "handedness": "R/R",
+        "score": 14,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Daniel Lopez looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 7.59",
+          "WHIP 1.78",
+          "K/9 11.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "7.59"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.78"
+          },
+          {
+            "label": "K/9",
+            "value": "11.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "7.6"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.84"
+          },
+          {
+            "label": "IP",
+            "value": "10.7"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 63.35227272727273,
+          "Command": 8.888888888888888,
+          "Damage suppression": 0
+        },
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "RHP",
+          "SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Kansas Athletics roster",
+          "Kansas cumulative stats"
+        ],
+        "sourceSummary": "Kansas Athletics roster + Kansas cumulative stats",
+        "schoolSlug": "kansas",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://kuathletics.com/sports/baseball/roster/daniel-lopez/17043",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "kansas-17032",
+        "name": "Dominic Voegele",
+        "school": "Kansas",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 21,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Dominic Voegele looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 5.85",
+          "WHIP 1.40",
+          "K/9 11.1"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "5.85"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.40"
+          },
+          {
+            "label": "K/9",
+            "value": "11.1"
+          },
+          {
+            "label": "BB/9",
+            "value": "3.2"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.48"
+          },
+          {
+            "label": "IP",
+            "value": "97.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 64.85473289597,
+          "Command": 48.57142857142856,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Kansas Athletics roster",
+          "Kansas cumulative stats"
+        ],
+        "sourceSummary": "Kansas Athletics roster + Kansas cumulative stats",
+        "schoolSlug": "kansas",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://kuathletics.com/sports/baseball/roster/dominic-voegele/17032",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "kansas-17045",
+        "name": "Toby Scheidt",
+        "school": "Kansas",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "R/R",
+        "score": 17,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Toby Scheidt looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 5.63",
+          "WHIP 1.49",
+          "K/9 10.3"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "5.63"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.49"
+          },
+          {
+            "label": "K/9",
+            "value": "10.3"
+          },
+          {
+            "label": "BB/9",
+            "value": "3.8"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.70"
+          },
+          {
+            "label": "IP",
+            "value": "38.3"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 57.54940711462449,
+          "Command": 35,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Kansas Athletics roster",
+          "Kansas cumulative stats"
+        ],
+        "sourceSummary": "Kansas Athletics roster + Kansas cumulative stats",
+        "schoolSlug": "kansas",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://kuathletics.com/sports/baseball/roster/toby-scheidt/17045",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "kansas-17046",
+        "name": "Josh Dykhoff",
+        "school": "Kansas",
+        "role": "Pitcher",
+        "position": "1B/RHP",
+        "classYear": "SR",
+        "handedness": "L/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Josh Dykhoff looks like a 1B/RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA 27.00",
+          "WHIP 4.50",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "27.00"
+          },
+          {
+            "label": "WHIP",
+            "value": "4.50"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.7"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / L/R",
+        "detailBadges": [
+          "1B/RHP",
+          "SR",
+          "L/R",
+          "Two-Way"
+        ],
+        "leaderboards": [
+          "Kansas Athletics roster",
+          "Kansas cumulative stats"
+        ],
+        "sourceSummary": "Kansas Athletics roster + Kansas cumulative stats",
+        "schoolSlug": "kansas",
+        "compositeRole": "Two-Way",
+        "profileUrl": "https://kuathletics.com/sports/baseball/roster/josh-dykhoff/17046",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "kansas-17047",
+        "name": "Carter Fink",
+        "school": "Kansas",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "GR",
+        "handedness": "R/R",
+        "score": 7,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Carter Fink gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 5.06",
+          "WHIP 1.27",
+          "K/9 6.8"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "5.06"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.27"
+          },
+          {
+            "label": "K/9",
+            "value": "6.8"
+          },
+          {
+            "label": "BB/9",
+            "value": "4.2"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.84"
+          },
+          {
+            "label": "IP",
+            "value": "21.3"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 25,
+          "Command": 12.000000000000002,
+          "Damage suppression": 0
+        },
+        "metaLine": "GR / R/R",
+        "detailBadges": [
+          "RHP",
+          "GR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Kansas Athletics roster",
+          "Kansas cumulative stats"
+        ],
+        "sourceSummary": "Kansas Athletics roster + Kansas cumulative stats",
+        "schoolSlug": "kansas",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://kuathletics.com/sports/baseball/roster/carter-fink/17047",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "kansas-17027",
+        "name": "Kannon Carr",
+        "school": "Kansas",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "R/R",
+        "score": 12,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Kannon Carr gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 4.60",
+          "WHIP 1.44",
+          "K/9 8.6"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "4.60"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.44"
+          },
+          {
+            "label": "K/9",
+            "value": "8.6"
+          },
+          {
+            "label": "BB/9",
+            "value": "4.2"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.00"
+          },
+          {
+            "label": "IP",
+            "value": "45.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 41.81818181818181,
+          "Command": 20.95238095238095,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Kansas Athletics roster",
+          "Kansas cumulative stats"
+        ],
+        "sourceSummary": "Kansas Athletics roster + Kansas cumulative stats",
+        "schoolSlug": "kansas",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://kuathletics.com/sports/baseball/roster/kannon-carr/17027",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "kansas-17048",
+        "name": "Augusto Mungarrieta",
+        "school": "Kansas",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 47,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Augusto Mungarrieta profiles as a C piece who brings real extra-base damage.",
+        "summaryMetrics": [
+          "AVG .292",
+          "OBP .386",
+          "SLG .584"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".292"
+          },
+          {
+            "label": "OBP",
+            "value": ".386"
+          },
+          {
+            "label": "SLG",
+            "value": ".584"
+          },
+          {
+            "label": "HR",
+            "value": "17"
+          },
+          {
+            "label": "RBI",
+            "value": "50"
+          },
+          {
+            "label": "SB",
+            "value": "1"
+          }
+        ],
+        "components": {
+          "On-base": 58.88888888888888,
+          "Power": 69.47368421052632,
+          "Contact": 44.999999999999986,
+          "Discipline": 11.594202898550723,
+          "Speed": 3.3333333333333335
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "C",
+          "JR",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Kansas Athletics roster",
+          "Kansas cumulative stats"
+        ],
+        "sourceSummary": "Kansas Athletics roster + Kansas cumulative stats",
+        "schoolSlug": "kansas",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://kuathletics.com/sports/baseball/roster/augusto-mungarrieta/17048",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "kansas-17029",
+        "name": "Dariel Osoria",
+        "school": "Kansas",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "SR",
+        "handedness": "R/R",
+        "score": 37,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Dariel Osoria gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .233",
+          "OBP .365",
+          "SLG .436"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".233"
+          },
+          {
+            "label": "OBP",
+            "value": ".365"
+          },
+          {
+            "label": "SLG",
+            "value": ".436"
+          },
+          {
+            "label": "HR",
+            "value": "9"
+          },
+          {
+            "label": "RBI",
+            "value": "42"
+          },
+          {
+            "label": "SB",
+            "value": "4"
+          }
+        ],
+        "components": {
+          "On-base": 47.22222222222221,
+          "Power": 30.526315789473685,
+          "Contact": 8.125000000000007,
+          "Discipline": 78.30687830687829,
+          "Speed": 13.333333333333334
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "INF",
+          "SR",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Kansas Athletics roster",
+          "Kansas cumulative stats"
+        ],
+        "sourceSummary": "Kansas Athletics roster + Kansas cumulative stats",
+        "schoolSlug": "kansas",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://kuathletics.com/sports/baseball/roster/dariel-osoria/17029",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "kansas-17049",
+        "name": "Riane Ritter",
+        "school": "Kansas",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SO",
+        "handedness": "R/R",
+        "score": 19,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Riane Ritter looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 5.58",
+          "WHIP 1.35",
+          "K/9 10.9"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "5.58"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.35"
+          },
+          {
+            "label": "K/9",
+            "value": "10.9"
+          },
+          {
+            "label": "BB/9",
+            "value": "3.5"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.03"
+          },
+          {
+            "label": "IP",
+            "value": "61.3"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 62.35177865612648,
+          "Command": 41.66666666666667,
+          "Damage suppression": 0
+        },
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "RHP",
+          "SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Kansas Athletics roster",
+          "Kansas cumulative stats"
+        ],
+        "sourceSummary": "Kansas Athletics roster + Kansas cumulative stats",
+        "schoolSlug": "kansas",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://kuathletics.com/sports/baseball/roster/riane-ritter/17049",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "kansas-17025",
+        "name": "Brady Ballinger",
+        "school": "Kansas",
+        "role": "Hitter",
+        "position": "INF/OF",
+        "classYear": "JR",
+        "handedness": "L/L",
+        "score": 50,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Brady Ballinger profiles as a INF/OF piece who gets on base at a high clip.",
+        "summaryMetrics": [
+          "AVG .283",
+          "OBP .401",
+          "SLG .466"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".283"
+          },
+          {
+            "label": "OBP",
+            "value": ".401"
+          },
+          {
+            "label": "SLG",
+            "value": ".466"
+          },
+          {
+            "label": "HR",
+            "value": "7"
+          },
+          {
+            "label": "RBI",
+            "value": "45"
+          },
+          {
+            "label": "SB",
+            "value": "1"
+          }
+        ],
+        "components": {
+          "On-base": 67.22222222222223,
+          "Power": 38.42105263157896,
+          "Contact": 39.374999999999986,
+          "Discipline": 77.77777777777776,
+          "Speed": 3.3333333333333335
+        },
+        "metaLine": "JR / L/L",
+        "detailBadges": [
+          "INF/OF",
+          "JR",
+          "L/L",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Kansas Athletics roster",
+          "Kansas cumulative stats"
+        ],
+        "sourceSummary": "Kansas Athletics roster + Kansas cumulative stats",
+        "schoolSlug": "kansas",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://kuathletics.com/sports/baseball/roster/brady-ballinger/17025",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "kansas-17028",
+        "name": "Blake O'Brien",
+        "school": "Kansas",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "R-FR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Blake O'Brien looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "R-FR / R/R",
+        "detailBadges": [
+          "RHP",
+          "R-FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Kansas Athletics roster"
+        ],
+        "sourceSummary": "Kansas Athletics roster",
+        "schoolSlug": "kansas",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://kuathletics.com/sports/baseball/roster/blake-obrien/17028",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "kansas-17050",
+        "name": "Boede Rahe",
+        "school": "Kansas",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "R-JR",
+        "handedness": "R/R",
+        "score": 24,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Boede Rahe looks like a RHP option who misses bats and keeps traffic under control.",
+        "summaryMetrics": [
+          "ERA 4.27",
+          "WHIP 1.19",
+          "K/9 12.2"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "4.27"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.19"
+          },
+          {
+            "label": "K/9",
+            "value": "12.2"
+          },
+          {
+            "label": "BB/9",
+            "value": "3.2"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.53"
+          },
+          {
+            "label": "IP",
+            "value": "59.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 74.57627118644066,
+          "Command": 56.19047619047619,
+          "Damage suppression": 0
+        },
+        "metaLine": "R-JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "R-JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Kansas Athletics roster",
+          "Kansas cumulative stats"
+        ],
+        "sourceSummary": "Kansas Athletics roster + Kansas cumulative stats",
+        "schoolSlug": "kansas",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://kuathletics.com/sports/baseball/roster/boede-rahe/17050",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "kansas-17051",
+        "name": "Abel Ney",
+        "school": "Kansas",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Abel Ney gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "C",
+          "FR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Kansas Athletics roster"
+        ],
+        "sourceSummary": "Kansas Athletics roster",
+        "schoolSlug": "kansas",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://kuathletics.com/sports/baseball/roster/abel-ney/17051",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "kansas-17052",
+        "name": "Jordan Bach",
+        "school": "Kansas",
+        "role": "Hitter",
+        "position": "OF/C",
+        "classYear": "GR",
+        "handedness": "L/R",
+        "score": 56,
+        "fit": {
+          "label": "Monitor",
+          "className": "fit-monitor"
+        },
+        "summary": "Jordan Bach profiles as a OF/C piece who gets on base at a high clip.",
+        "summaryMetrics": [
+          "AVG .289",
+          "OBP .423",
+          "SLG .462"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".289"
+          },
+          {
+            "label": "OBP",
+            "value": ".423"
+          },
+          {
+            "label": "SLG",
+            "value": ".462"
+          },
+          {
+            "label": "HR",
+            "value": "8"
+          },
+          {
+            "label": "RBI",
+            "value": "46"
+          },
+          {
+            "label": "SB",
+            "value": "6"
+          }
+        ],
+        "components": {
+          "On-base": 79.44444444444443,
+          "Power": 37.36842105263159,
+          "Contact": 43.124999999999986,
+          "Discipline": 75.92592592592592,
+          "Speed": 20
+        },
+        "metaLine": "GR / L/R",
+        "detailBadges": [
+          "OF/C",
+          "GR",
+          "L/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Kansas Athletics roster",
+          "Kansas cumulative stats"
+        ],
+        "sourceSummary": "Kansas Athletics roster + Kansas cumulative stats",
+        "schoolSlug": "kansas",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://kuathletics.com/sports/baseball/roster/jordan-bach/17052",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "kansas-17053",
+        "name": "Sawyer Cooney",
+        "school": "Kansas",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Sawyer Cooney looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Kansas Athletics roster"
+        ],
+        "sourceSummary": "Kansas Athletics roster",
+        "schoolSlug": "kansas",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://kuathletics.com/sports/baseball/roster/sawyer-cooney/17053",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "kansas-17054",
+        "name": "Ty Thomson",
+        "school": "Kansas",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "JR",
+        "handedness": "L/L",
+        "score": 14,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Ty Thomson looks like a LHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 6.00",
+          "WHIP 2.00",
+          "K/9 10.5"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "6.00"
+          },
+          {
+            "label": "WHIP",
+            "value": "2.00"
+          },
+          {
+            "label": "K/9",
+            "value": "10.5"
+          },
+          {
+            "label": "BB/9",
+            "value": "6.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.50"
+          },
+          {
+            "label": "IP",
+            "value": "6.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 59.09090909090909,
+          "Command": 15,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / L/L",
+        "detailBadges": [
+          "LHP",
+          "JR",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Kansas Athletics roster",
+          "Kansas cumulative stats"
+        ],
+        "sourceSummary": "Kansas Athletics roster + Kansas cumulative stats",
+        "schoolSlug": "kansas",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://kuathletics.com/sports/baseball/roster/ty-thomson/17054",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "kansas-17055",
+        "name": "Mathis Nayral",
+        "school": "Kansas",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 14,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Mathis Nayral looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 4.96",
+          "WHIP 1.43",
+          "K/9 9.3"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "4.96"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.43"
+          },
+          {
+            "label": "K/9",
+            "value": "9.3"
+          },
+          {
+            "label": "BB/9",
+            "value": "3.7"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.43"
+          },
+          {
+            "label": "IP",
+            "value": "69.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 47.826086956521735,
+          "Command": 30.71428571428571,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Kansas Athletics roster",
+          "Kansas cumulative stats"
+        ],
+        "sourceSummary": "Kansas Athletics roster + Kansas cumulative stats",
+        "schoolSlug": "kansas",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://kuathletics.com/sports/baseball/roster/mathis-nayral/17055",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "kansas-17056",
+        "name": "Caleb Deer",
+        "school": "Kansas",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "JR",
+        "handedness": "L/L",
+        "score": 10,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Caleb Deer looks like a LHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 12.10",
+          "WHIP 2.38",
+          "K/9 9.3"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "12.10"
+          },
+          {
+            "label": "WHIP",
+            "value": "2.38"
+          },
+          {
+            "label": "K/9",
+            "value": "9.3"
+          },
+          {
+            "label": "BB/9",
+            "value": "7.4"
+          },
+          {
+            "label": "HR/9",
+            "value": "2.79"
+          },
+          {
+            "label": "IP",
+            "value": "9.7"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 48.27586206896553,
+          "Command": 5,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / L/L",
+        "detailBadges": [
+          "LHP",
+          "JR",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Kansas Athletics roster",
+          "Kansas cumulative stats"
+        ],
+        "sourceSummary": "Kansas Athletics roster + Kansas cumulative stats",
+        "schoolSlug": "kansas",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://kuathletics.com/sports/baseball/roster/caleb-deer/17056",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "kansas-17026",
+        "name": "Maddox Burkitt",
+        "school": "Kansas",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "R-JR",
+        "handedness": "R/R",
+        "score": 26,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Maddox Burkitt looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 6.75",
+          "WHIP 3.75",
+          "K/9 20.3"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "6.75"
+          },
+          {
+            "label": "WHIP",
+            "value": "3.75"
+          },
+          {
+            "label": "K/9",
+            "value": "20.3"
+          },
+          {
+            "label": "BB/9",
+            "value": "6.8"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "1.3"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 100,
+          "Command": 40,
+          "Damage suppression": 0
+        },
+        "metaLine": "R-JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "R-JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Kansas Athletics roster",
+          "Kansas cumulative stats"
+        ],
+        "sourceSummary": "Kansas Athletics roster + Kansas cumulative stats",
+        "schoolSlug": "kansas",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://kuathletics.com/sports/baseball/roster/maddox-burkitt/17026",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "kansas-17058",
+        "name": "Aiden Cline",
+        "school": "Kansas",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SO",
+        "handedness": "L/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Aiden Cline looks like a RHP option who limits runs.",
+        "summaryMetrics": [
+          "ERA 0.00",
+          "WHIP 6.00",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "0.00"
+          },
+          {
+            "label": "WHIP",
+            "value": "6.00"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "54.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.3"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SO / L/R",
+        "detailBadges": [
+          "RHP",
+          "SO",
+          "L/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Kansas Athletics roster",
+          "Kansas cumulative stats"
+        ],
+        "sourceSummary": "Kansas Athletics roster + Kansas cumulative stats",
+        "schoolSlug": "kansas",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://kuathletics.com/sports/baseball/roster/aiden-cline/17058",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "kansas-17808",
+        "name": "Luke Larson",
+        "school": "Kansas",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Luke Larson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "C",
+          "FR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Kansas Athletics roster"
+        ],
+        "sourceSummary": "Kansas Athletics roster",
+        "schoolSlug": "kansas",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://kuathletics.com/sports/baseball/roster/luke-larson/17808",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "kansas-17059",
+        "name": "Mason Cook",
+        "school": "Kansas",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SO",
+        "handedness": "R/R",
+        "score": 13,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Mason Cook gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 4.81",
+          "WHIP 1.31",
+          "K/9 8.8"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "4.81"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.31"
+          },
+          {
+            "label": "K/9",
+            "value": "8.8"
+          },
+          {
+            "label": "BB/9",
+            "value": "3.6"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.20"
+          },
+          {
+            "label": "IP",
+            "value": "67.3"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 43.834383438343835,
+          "Command": 28.888888888888886,
+          "Damage suppression": 0
+        },
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "RHP",
+          "SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Kansas Athletics roster",
+          "Kansas cumulative stats"
+        ],
+        "sourceSummary": "Kansas Athletics roster + Kansas cumulative stats",
+        "schoolSlug": "kansas",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://kuathletics.com/sports/baseball/roster/mason-cook/17059",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "kansas-17024",
+        "name": "Jeremy Allen",
+        "school": "Kansas",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "R-FR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jeremy Allen looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA 20.25",
+          "WHIP 2.25",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "20.25"
+          },
+          {
+            "label": "WHIP",
+            "value": "2.25"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "13.50"
+          },
+          {
+            "label": "IP",
+            "value": "1.3"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "R-FR / R/R",
+        "detailBadges": [
+          "RHP",
+          "R-FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Kansas Athletics roster",
+          "Kansas cumulative stats"
+        ],
+        "sourceSummary": "Kansas Athletics roster + Kansas cumulative stats",
+        "schoolSlug": "kansas",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://kuathletics.com/sports/baseball/roster/jeremy-allen/17024",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "kansas-17033",
+        "name": "Manning West",
+        "school": "Kansas",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "R-JR",
+        "handedness": "R/R",
+        "score": 12,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Manning West looks like a RHP option who limits runs and misses bats.",
+        "summaryMetrics": [
+          "ERA 3.89",
+          "WHIP 1.50",
+          "K/9 9.3"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "3.89"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.50"
+          },
+          {
+            "label": "K/9",
+            "value": "9.3"
+          },
+          {
+            "label": "BB/9",
+            "value": "6.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.52"
+          },
+          {
+            "label": "IP",
+            "value": "34.7"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 48.60139860139861,
+          "Command": 11.304347826086953,
+          "Damage suppression": 0
+        },
+        "metaLine": "R-JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "R-JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Kansas Athletics roster",
+          "Kansas cumulative stats"
+        ],
+        "sourceSummary": "Kansas Athletics roster + Kansas cumulative stats",
+        "schoolSlug": "kansas",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://kuathletics.com/sports/baseball/roster/manning-west/17033",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "kansas-17060",
+        "name": "Emerson McKnight",
+        "school": "Kansas",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "FR",
+        "handedness": "R/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Emerson McKnight gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 13.50",
+          "WHIP 2.10",
+          "K/9 2.7"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "13.50"
+          },
+          {
+            "label": "WHIP",
+            "value": "2.10"
+          },
+          {
+            "label": "K/9",
+            "value": "2.7"
+          },
+          {
+            "label": "BB/9",
+            "value": "10.8"
+          },
+          {
+            "label": "HR/9",
+            "value": "2.70"
+          },
+          {
+            "label": "IP",
+            "value": "3.3"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / R/L",
+        "detailBadges": [
+          "LHP",
+          "FR",
+          "R/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Kansas Athletics roster",
+          "Kansas cumulative stats"
+        ],
+        "sourceSummary": "Kansas Athletics roster + Kansas cumulative stats",
+        "schoolSlug": "kansas",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://kuathletics.com/sports/baseball/roster/emerson-mcknight/17060",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "kansas-17061",
+        "name": "Madden Seidl",
+        "school": "Kansas",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 11,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Madden Seidl gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 6.11",
+          "WHIP 1.82",
+          "K/9 8.4"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "6.11"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.82"
+          },
+          {
+            "label": "K/9",
+            "value": "8.4"
+          },
+          {
+            "label": "BB/9",
+            "value": "4.5"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.96"
+          },
+          {
+            "label": "IP",
+            "value": "28.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 39.61038961038961,
+          "Command": 17.142857142857142,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Kansas Athletics roster",
+          "Kansas cumulative stats"
+        ],
+        "sourceSummary": "Kansas Athletics roster + Kansas cumulative stats",
+        "schoolSlug": "kansas",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://kuathletics.com/sports/baseball/roster/madden-seidl/17061",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "kansas-17062",
+        "name": "Dane Ebel",
+        "school": "Kansas",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "L/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Dane Ebel looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / L/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "L/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Kansas Athletics roster"
+        ],
+        "sourceSummary": "Kansas Athletics roster",
+        "schoolSlug": "kansas",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://kuathletics.com/sports/baseball/roster/dane-ebel/17062",
         "espnAthleteId": ""
       },
       {
