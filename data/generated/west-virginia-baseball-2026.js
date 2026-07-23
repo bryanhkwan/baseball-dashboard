@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.west-virginia2026 = {
-  "generatedAt": "2026-07-22T10:57:30.698Z",
+  "generatedAt": "2026-07-23T10:57:14.234Z",
   "season": 2026,
   "school": {
     "slug": "west-virginia",
@@ -2083,7 +2083,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
       "position": "INF",
       "positionLong": "Infielder",
       "classYear": "FR",
-      "handedness": "B/R",
+      "handedness": "R/R",
       "jersey": "14",
       "hometown": "Morgantown, W.Va.",
       "highSchool": "Morgantown",
@@ -2206,11 +2206,11 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "FR / B/R",
+        "metaLine": "FR / R/R",
         "detailBadges": [
           "INF",
           "FR",
-          "B/R",
+          "R/R",
           "Hitter"
         ],
         "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats"
@@ -6896,7 +6896,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "role": "Hitter",
         "position": "INF",
         "classYear": "FR",
-        "handedness": "B/R",
+        "handedness": "R/R",
         "score": 7,
         "fit": {
           "label": "Depth",
@@ -6941,11 +6941,11 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
           "Discipline": 22.22222222222222,
           "Speed": 0
         },
-        "metaLine": "FR / B/R",
+        "metaLine": "FR / R/R",
         "detailBadges": [
           "INF",
           "FR",
-          "B/R",
+          "R/R",
           "Hitter"
         ],
         "leaderboards": [

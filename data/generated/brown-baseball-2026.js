@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.brown2026 = {
-  "generatedAt": "2026-07-16T10:54:48.658Z",
+  "generatedAt": "2026-07-23T10:56:08.960Z",
   "season": 2026,
   "school": {
     "slug": "brown",
@@ -144,6 +144,94 @@ window.__BASEBALL_DATASETS__.brown2026 = {
     }
   },
   "players": [
+    {
+      "id": "brown-24062",
+      "schoolSlug": "brown",
+      "school": "Brown",
+      "schoolLongName": "Brown University",
+      "name": "Cooper Russell",
+      "normalizedName": "cooper russell",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "INF",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "1",
+      "hometown": "Lakewood, Ohio",
+      "highSchool": "Lakewood",
+      "previousSchool": "",
+      "hometownHighSchool": "Lakewood, Ohio / Lakewood",
+      "profileUrl": "https://brownbears.com/sports/baseball/roster/cooper-russell/24062",
+      "imageUrl": "https://brownbears.com/images/2022/6/28/no_headshot.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "24062",
+      "sources": [
+        "Brown Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Cooper Russell gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "INF",
+          "FR",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Brown Athletics roster"
+      }
+    },
     {
       "id": "brown-24041",
       "schoolSlug": "brown",
@@ -761,6 +849,270 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       }
     },
     {
+      "id": "brown-24063",
+      "schoolSlug": "brown",
+      "school": "Brown",
+      "schoolLongName": "Brown University",
+      "name": "Logan Studer",
+      "normalizedName": "logan studer",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "C",
+      "positionLong": "C",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "9",
+      "hometown": "St. Louis, Mo.",
+      "highSchool": "St. Louis University H.S.",
+      "previousSchool": "",
+      "hometownHighSchool": "St. Louis, Mo. / St. Louis University H.S.",
+      "profileUrl": "https://brownbears.com/sports/baseball/roster/logan-studer/24063",
+      "imageUrl": "https://brownbears.com/images/2022/6/28/no_headshot.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "24063",
+      "sources": [
+        "Brown Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Logan Studer gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "C",
+          "FR",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Brown Athletics roster"
+      }
+    },
+    {
+      "id": "brown-24055",
+      "schoolSlug": "brown",
+      "school": "Brown",
+      "schoolLongName": "Brown University",
+      "name": "Joey Benoit",
+      "normalizedName": "joey benoit",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "INF",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "10",
+      "hometown": "East Taunton, Mass.",
+      "highSchool": "Taunton",
+      "previousSchool": "",
+      "hometownHighSchool": "East Taunton, Mass. / Taunton",
+      "profileUrl": "https://brownbears.com/sports/baseball/roster/joey-benoit/24055",
+      "imageUrl": "https://brownbears.com/images/2022/6/28/no_headshot.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "24055",
+      "sources": [
+        "Brown Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Joey Benoit gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "INF",
+          "FR",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Brown Athletics roster"
+      }
+    },
+    {
+      "id": "brown-24058",
+      "schoolSlug": "brown",
+      "school": "Brown",
+      "schoolLongName": "Brown University",
+      "name": "Henry Gahagan",
+      "normalizedName": "henry gahagan",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "LHP",
+      "classYear": "FR",
+      "handedness": "S/L",
+      "jersey": "11",
+      "hometown": "Highland Park, Texas",
+      "highSchool": "Highland Park",
+      "previousSchool": "",
+      "hometownHighSchool": "Highland Park, Texas / Highland Park",
+      "profileUrl": "https://brownbears.com/sports/baseball/roster/henry-gahagan/24058",
+      "imageUrl": "https://brownbears.com/images/2022/6/28/no_headshot.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "24058",
+      "sources": [
+        "Brown Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Henry Gahagan looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FR / S/L",
+        "detailBadges": [
+          "LHP",
+          "FR",
+          "S/L",
+          "Pitcher"
+        ],
+        "sourceSummary": "Brown Athletics roster"
+      }
+    },
+    {
       "id": "brown-24049",
       "schoolSlug": "brown",
       "school": "Brown",
@@ -1025,6 +1377,182 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       }
     },
     {
+      "id": "brown-24057",
+      "schoolSlug": "brown",
+      "school": "Brown",
+      "schoolLongName": "Brown University",
+      "name": "Morrie Fried",
+      "normalizedName": "morrie fried",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF/OF",
+      "positionLong": "INF/OF",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "18",
+      "hometown": "Pittsfield, Mass.",
+      "highSchool": "Pittsfield",
+      "previousSchool": "",
+      "hometownHighSchool": "Pittsfield, Mass. / Pittsfield",
+      "profileUrl": "https://brownbears.com/sports/baseball/roster/morrie-fried/24057",
+      "imageUrl": "https://brownbears.com/images/2022/6/28/no_headshot.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "24057",
+      "sources": [
+        "Brown Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Morrie Fried gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "INF/OF",
+          "FR",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Brown Athletics roster"
+      }
+    },
+    {
+      "id": "brown-24056",
+      "schoolSlug": "brown",
+      "school": "Brown",
+      "schoolLongName": "Brown University",
+      "name": "Jake Chung",
+      "normalizedName": "jake chung",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "RHP",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "19",
+      "hometown": "San Marino, Calif.",
+      "highSchool": "Harvard-Westlake",
+      "previousSchool": "",
+      "hometownHighSchool": "San Marino, Calif. / Harvard-Westlake",
+      "profileUrl": "https://brownbears.com/sports/baseball/roster/jake-chung/24056",
+      "imageUrl": "https://brownbears.com/images/2022/6/28/no_headshot.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "24056",
+      "sources": [
+        "Brown Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Jake Chung looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Brown Athletics roster"
+      }
+    },
+    {
       "id": "brown-24048",
       "schoolSlug": "brown",
       "school": "Brown",
@@ -1196,6 +1724,94 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           "SR",
           "R/R",
           "Pitcher"
+        ],
+        "sourceSummary": "Brown Athletics roster"
+      }
+    },
+    {
+      "id": "brown-24064",
+      "schoolSlug": "brown",
+      "school": "Brown",
+      "schoolLongName": "Brown University",
+      "name": "Sean Walsh",
+      "normalizedName": "sean walsh",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "INF",
+      "classYear": "FR",
+      "handedness": "L/R",
+      "jersey": "23",
+      "hometown": "Atlanta, Ga.",
+      "highSchool": "Marist H.S.",
+      "previousSchool": "",
+      "hometownHighSchool": "Atlanta, Ga. / Marist H.S.",
+      "profileUrl": "https://brownbears.com/sports/baseball/roster/sean-walsh/24064",
+      "imageUrl": "https://brownbears.com/images/2022/6/28/no_headshot.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "24064",
+      "sources": [
+        "Brown Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Sean Walsh gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "FR / L/R",
+        "detailBadges": [
+          "INF",
+          "FR",
+          "L/R",
+          "Rostered"
         ],
         "sourceSummary": "Brown Athletics roster"
       }
@@ -1553,6 +2169,182 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       }
     },
     {
+      "id": "brown-24588",
+      "schoolSlug": "brown",
+      "school": "Brown",
+      "schoolLongName": "Brown University",
+      "name": "D.C. Brown",
+      "normalizedName": "d c brown",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "LHP",
+      "classYear": "JR",
+      "handedness": "L/L",
+      "jersey": "28",
+      "hometown": "Plymouth, Mass.",
+      "highSchool": "Plymouth North",
+      "previousSchool": "Rice",
+      "hometownHighSchool": "Plymouth, Mass. / Plymouth North",
+      "profileUrl": "https://brownbears.com/sports/baseball/roster/dc-brown/24588",
+      "imageUrl": "https://brownbears.com/images/2022/6/28/no_headshot.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "24588",
+      "sources": [
+        "Brown Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "D.C. Brown looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "JR / L/L",
+        "detailBadges": [
+          "LHP",
+          "JR",
+          "L/L",
+          "Pitcher"
+        ],
+        "sourceSummary": "Brown Athletics roster"
+      }
+    },
+    {
+      "id": "brown-24060",
+      "schoolSlug": "brown",
+      "school": "Brown",
+      "schoolLongName": "Brown University",
+      "name": "Neil MacKinnon",
+      "normalizedName": "neil mackinnon",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "RHP",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "29",
+      "hometown": "Duxbury, Mass.",
+      "highSchool": "Thayer Academy",
+      "previousSchool": "",
+      "hometownHighSchool": "Duxbury, Mass. / Thayer Academy",
+      "profileUrl": "https://brownbears.com/sports/baseball/roster/neil-mackinnon/24060",
+      "imageUrl": "https://brownbears.com/images/2022/6/28/no_headshot.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "24060",
+      "sources": [
+        "Brown Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Neil MacKinnon looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Brown Athletics roster"
+      }
+    },
+    {
       "id": "brown-24054",
       "schoolSlug": "brown",
       "school": "Brown",
@@ -1905,94 +2697,6 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       }
     },
     {
-      "id": "brown-24047",
-      "schoolSlug": "brown",
-      "school": "Brown",
-      "schoolLongName": "Brown University",
-      "name": "Braxton Pearson",
-      "normalizedName": "braxton pearson",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "RHP",
-      "classYear": "JR",
-      "handedness": "R/R",
-      "jersey": "36",
-      "hometown": "Warwick, R.I.",
-      "highSchool": "Bishop Hendricken",
-      "previousSchool": "",
-      "hometownHighSchool": "Warwick, R.I. / Bishop Hendricken",
-      "profileUrl": "https://brownbears.com/sports/baseball/roster/braxton-pearson/24047",
-      "imageUrl": "https://brownbears.com/images/2026/2/10/Pearson-headshot-2026.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "24047",
-      "sources": [
-        "Brown Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Braxton Pearson looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Brown Athletics roster"
-      }
-    },
-    {
       "id": "brown-24053",
       "schoolSlug": "brown",
       "school": "Brown",
@@ -2074,6 +2778,94 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "detailBadges": [
           "RHP",
           "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Brown Athletics roster"
+      }
+    },
+    {
+      "id": "brown-24059",
+      "schoolSlug": "brown",
+      "school": "Brown",
+      "schoolLongName": "Brown University",
+      "name": "Nate Kempton",
+      "normalizedName": "nate kempton",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "RHP",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "39",
+      "hometown": "Cheshire, Conn.",
+      "highSchool": "Choate Rosemary Hall",
+      "previousSchool": "",
+      "hometownHighSchool": "Cheshire, Conn. / Choate Rosemary Hall",
+      "profileUrl": "https://brownbears.com/sports/baseball/roster/nate-kempton/24059",
+      "imageUrl": "https://brownbears.com/images/2022/6/28/no_headshot.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "24059",
+      "sources": [
+        "Brown Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Nate Kempton looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "RHP",
+          "FR",
           "R/R",
           "Pitcher"
         ],
@@ -2345,24 +3137,24 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       }
     },
     {
-      "id": "brown-24055",
+      "id": "brown-24061",
       "schoolSlug": "brown",
       "school": "Brown",
       "schoolLongName": "Brown University",
-      "name": "Joey Benoit",
-      "normalizedName": "joey benoit",
-      "compositeRole": "Rostered",
-      "role": "Hitter",
-      "position": "INF",
-      "positionLong": "INF",
+      "name": "Dane Purdy",
+      "normalizedName": "dane purdy",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "RHP",
       "classYear": "FR",
       "handedness": "R/R",
-      "jersey": "",
-      "hometown": "East Taunton, Mass.",
-      "highSchool": "Taunton",
+      "jersey": "44",
+      "hometown": "Cary, N.C.",
+      "highSchool": "Apex",
       "previousSchool": "",
-      "hometownHighSchool": "East Taunton, Mass. / Taunton",
-      "profileUrl": "https://brownbears.com/sports/baseball/roster/joey-benoit/24055",
+      "hometownHighSchool": "Cary, N.C. / Apex",
+      "profileUrl": "https://brownbears.com/sports/baseball/roster/dane-purdy/24061",
       "imageUrl": "https://brownbears.com/images/2022/6/28/no_headshot.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -2370,7 +3162,7 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "24055",
+      "rosterBioId": "24061",
       "sources": [
         "Brown Athletics roster"
       ],
@@ -2384,50 +3176,50 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
         },
-        "summary": "Joey Benoit gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Dane Purdy looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
-            "label": "AVG",
+            "label": "ERA",
             "value": "--"
           },
           {
-            "label": "OBP",
+            "label": "WHIP",
             "value": "--"
           },
           {
-            "label": "SLG",
-            "value": "--"
+            "label": "K/9",
+            "value": "0.0"
           },
           {
-            "label": "HR",
-            "value": "0"
+            "label": "BB/9",
+            "value": "0.0"
           },
           {
-            "label": "RBI",
-            "value": "0"
+            "label": "HR/9",
+            "value": "0.00"
           },
           {
-            "label": "SB",
-            "value": "0"
+            "label": "IP",
+            "value": "0.0"
           }
         ],
         "metaLine": "FR / R/R",
         "detailBadges": [
-          "INF",
+          "RHP",
           "FR",
           "R/R",
-          "Rostered"
+          "Pitcher"
         ],
         "sourceSummary": "Brown Athletics roster"
       }
@@ -2607,580 +3399,29 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         ],
         "sourceSummary": "Brown Athletics roster"
       }
+    }
+  ],
+  "playerBoard": {
+    "source": "Brown Athletics roster + cumulative stats / ESPN roster",
+    "note": "This Brown-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but Brown's public ESPN roster feed did not line up cleanly with the current school-site roster.",
+    "totalPlayers": 37,
+    "roleCounts": {
+      "Hitter": 18,
+      "Pitcher": 19
     },
-    {
-      "id": "brown-24056",
-      "schoolSlug": "brown",
-      "school": "Brown",
-      "schoolLongName": "Brown University",
-      "name": "Jake Chung",
-      "normalizedName": "jake chung",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "RHP",
-      "classYear": "FR",
-      "handedness": "R/R",
-      "jersey": "",
-      "hometown": "San Marino, Calif.",
-      "highSchool": "Harvard-Westlake",
-      "previousSchool": "",
-      "hometownHighSchool": "San Marino, Calif. / Harvard-Westlake",
-      "profileUrl": "https://brownbears.com/sports/baseball/roster/jake-chung/24056",
-      "imageUrl": "https://brownbears.com/images/2022/6/28/no_headshot.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "24056",
-      "sources": [
-        "Brown Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
+    "players": [
+      {
+        "id": "brown-24062",
+        "name": "Cooper Russell",
+        "school": "Brown",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "FR",
+        "handedness": "R/R",
         "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Jake Chung looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Brown Athletics roster"
-      }
-    },
-    {
-      "id": "brown-24057",
-      "schoolSlug": "brown",
-      "school": "Brown",
-      "schoolLongName": "Brown University",
-      "name": "Morrie Fried",
-      "normalizedName": "morrie fried",
-      "compositeRole": "Rostered",
-      "role": "Hitter",
-      "position": "INF/OF",
-      "positionLong": "INF/OF",
-      "classYear": "FR",
-      "handedness": "R/R",
-      "jersey": "",
-      "hometown": "Pittsfield, Mass.",
-      "highSchool": "Pittsfield",
-      "previousSchool": "",
-      "hometownHighSchool": "Pittsfield, Mass. / Pittsfield",
-      "profileUrl": "https://brownbears.com/sports/baseball/roster/morrie-fried/24057",
-      "imageUrl": "https://brownbears.com/images/2022/6/28/no_headshot.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "24057",
-      "sources": [
-        "Brown Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "summary": "Morrie Fried gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "INF/OF",
-          "FR",
-          "R/R",
-          "Rostered"
-        ],
-        "sourceSummary": "Brown Athletics roster"
-      }
-    },
-    {
-      "id": "brown-24058",
-      "schoolSlug": "brown",
-      "school": "Brown",
-      "schoolLongName": "Brown University",
-      "name": "Henry Gahagan",
-      "normalizedName": "henry gahagan",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "LHP",
-      "classYear": "FR",
-      "handedness": "S/L",
-      "jersey": "",
-      "hometown": "Highland Park, Texas",
-      "highSchool": "Highland Park",
-      "previousSchool": "",
-      "hometownHighSchool": "Highland Park, Texas / Highland Park",
-      "profileUrl": "https://brownbears.com/sports/baseball/roster/henry-gahagan/24058",
-      "imageUrl": "https://brownbears.com/images/2022/6/28/no_headshot.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "24058",
-      "sources": [
-        "Brown Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Henry Gahagan looks like a LHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "metaLine": "FR / S/L",
-        "detailBadges": [
-          "LHP",
-          "FR",
-          "S/L",
-          "Pitcher"
-        ],
-        "sourceSummary": "Brown Athletics roster"
-      }
-    },
-    {
-      "id": "brown-24059",
-      "schoolSlug": "brown",
-      "school": "Brown",
-      "schoolLongName": "Brown University",
-      "name": "Nate Kempton",
-      "normalizedName": "nate kempton",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "RHP",
-      "classYear": "FR",
-      "handedness": "R/R",
-      "jersey": "",
-      "hometown": "Cheshire, Conn.",
-      "highSchool": "Choate Rosemary Hall",
-      "previousSchool": "",
-      "hometownHighSchool": "Cheshire, Conn. / Choate Rosemary Hall",
-      "profileUrl": "https://brownbears.com/sports/baseball/roster/nate-kempton/24059",
-      "imageUrl": "https://brownbears.com/images/2022/6/28/no_headshot.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "24059",
-      "sources": [
-        "Brown Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Nate Kempton looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Brown Athletics roster"
-      }
-    },
-    {
-      "id": "brown-24060",
-      "schoolSlug": "brown",
-      "school": "Brown",
-      "schoolLongName": "Brown University",
-      "name": "Neil MacKinnon",
-      "normalizedName": "neil mackinnon",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "RHP",
-      "classYear": "FR",
-      "handedness": "R/R",
-      "jersey": "",
-      "hometown": "Duxbury, Mass.",
-      "highSchool": "Thayer Academy",
-      "previousSchool": "",
-      "hometownHighSchool": "Duxbury, Mass. / Thayer Academy",
-      "profileUrl": "https://brownbears.com/sports/baseball/roster/neil-mackinnon/24060",
-      "imageUrl": "https://brownbears.com/images/2022/6/28/no_headshot.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "24060",
-      "sources": [
-        "Brown Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Neil MacKinnon looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Brown Athletics roster"
-      }
-    },
-    {
-      "id": "brown-24061",
-      "schoolSlug": "brown",
-      "school": "Brown",
-      "schoolLongName": "Brown University",
-      "name": "Dane Purdy",
-      "normalizedName": "dane purdy",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "RHP",
-      "classYear": "FR",
-      "handedness": "R/R",
-      "jersey": "",
-      "hometown": "Cary, N.C.",
-      "highSchool": "Apex",
-      "previousSchool": "",
-      "hometownHighSchool": "Cary, N.C. / Apex",
-      "profileUrl": "https://brownbears.com/sports/baseball/roster/dane-purdy/24061",
-      "imageUrl": "https://brownbears.com/images/2022/6/28/no_headshot.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "24061",
-      "sources": [
-        "Brown Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Dane Purdy looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Brown Athletics roster"
-      }
-    },
-    {
-      "id": "brown-24062",
-      "schoolSlug": "brown",
-      "school": "Brown",
-      "schoolLongName": "Brown University",
-      "name": "Cooper Russell",
-      "normalizedName": "cooper russell",
-      "compositeRole": "Rostered",
-      "role": "Hitter",
-      "position": "INF",
-      "positionLong": "INF",
-      "classYear": "FR",
-      "handedness": "R/R",
-      "jersey": "",
-      "hometown": "Lakewood, Ohio",
-      "highSchool": "Lakewood",
-      "previousSchool": "",
-      "hometownHighSchool": "Lakewood, Ohio / Lakewood",
-      "profileUrl": "https://brownbears.com/sports/baseball/roster/cooper-russell/24062",
-      "imageUrl": "https://brownbears.com/images/2022/6/28/no_headshot.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "24062",
-      "sources": [
-        "Brown Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
         },
         "summary": "Cooper Russell gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
@@ -3214,55 +3455,6 @@ window.__BASEBALL_DATASETS__.brown2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "INF",
-          "FR",
-          "R/R",
-          "Rostered"
-        ],
-        "sourceSummary": "Brown Athletics roster"
-      }
-    },
-    {
-      "id": "brown-24063",
-      "schoolSlug": "brown",
-      "school": "Brown",
-      "schoolLongName": "Brown University",
-      "name": "Logan Studer",
-      "normalizedName": "logan studer",
-      "compositeRole": "Rostered",
-      "role": "Hitter",
-      "position": "C",
-      "positionLong": "C",
-      "classYear": "FR",
-      "handedness": "R/R",
-      "jersey": "",
-      "hometown": "St. Louis, Mo.",
-      "highSchool": "St. Louis University H.S.",
-      "previousSchool": "",
-      "hometownHighSchool": "St. Louis, Mo. / St. Louis University H.S.",
-      "profileUrl": "https://brownbears.com/sports/baseball/roster/logan-studer/24063",
-      "imageUrl": "https://brownbears.com/images/2022/6/28/no_headshot.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "24063",
-      "sources": [
-        "Brown Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
         "components": {
           "On-base": 0,
           "Power": 0,
@@ -3270,146 +3462,22 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "summary": "Logan Studer gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
         "metaLine": "FR / R/R",
         "detailBadges": [
-          "C",
+          "INF",
           "FR",
           "R/R",
           "Rostered"
         ],
-        "sourceSummary": "Brown Athletics roster"
-      }
-    },
-    {
-      "id": "brown-24064",
-      "schoolSlug": "brown",
-      "school": "Brown",
-      "schoolLongName": "Brown University",
-      "name": "Sean Walsh",
-      "normalizedName": "sean walsh",
-      "compositeRole": "Rostered",
-      "role": "Hitter",
-      "position": "INF",
-      "positionLong": "INF",
-      "classYear": "FR",
-      "handedness": "L/R",
-      "jersey": "",
-      "hometown": "Atlanta, Ga.",
-      "highSchool": "Marist H.S.",
-      "previousSchool": "",
-      "hometownHighSchool": "Atlanta, Ga. / Marist H.S.",
-      "profileUrl": "https://brownbears.com/sports/baseball/roster/sean-walsh/24064",
-      "imageUrl": "https://brownbears.com/images/2022/6/28/no_headshot.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "24064",
-      "sources": [
-        "Brown Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "summary": "Sean Walsh gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
+        "leaderboards": [
+          "Brown Athletics roster"
         ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "FR / L/R",
-        "detailBadges": [
-          "INF",
-          "FR",
-          "L/R",
-          "Rostered"
-        ],
-        "sourceSummary": "Brown Athletics roster"
-      }
-    }
-  ],
-  "playerBoard": {
-    "source": "Brown Athletics roster + cumulative stats / ESPN roster",
-    "note": "This Brown-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but Brown's public ESPN roster feed did not line up cleanly with the current school-site roster.",
-    "totalPlayers": 37,
-    "roleCounts": {
-      "Hitter": 18,
-      "Pitcher": 19
-    },
-    "players": [
+        "sourceSummary": "Brown Athletics roster",
+        "schoolSlug": "brown",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://brownbears.com/sports/baseball/roster/cooper-russell/24062",
+        "espnAthleteId": ""
+      },
       {
         "id": "brown-24041",
         "name": "Matt Luigs",
@@ -3887,6 +3955,210 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "espnAthleteId": ""
       },
       {
+        "id": "brown-24063",
+        "name": "Logan Studer",
+        "school": "Brown",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Logan Studer gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "C",
+          "FR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Brown Athletics roster"
+        ],
+        "sourceSummary": "Brown Athletics roster",
+        "schoolSlug": "brown",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://brownbears.com/sports/baseball/roster/logan-studer/24063",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "brown-24055",
+        "name": "Joey Benoit",
+        "school": "Brown",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Joey Benoit gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "INF",
+          "FR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Brown Athletics roster"
+        ],
+        "sourceSummary": "Brown Athletics roster",
+        "schoolSlug": "brown",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://brownbears.com/sports/baseball/roster/joey-benoit/24055",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "brown-24058",
+        "name": "Henry Gahagan",
+        "school": "Brown",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "FR",
+        "handedness": "S/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Henry Gahagan looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / S/L",
+        "detailBadges": [
+          "LHP",
+          "FR",
+          "S/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Brown Athletics roster"
+        ],
+        "sourceSummary": "Brown Athletics roster",
+        "schoolSlug": "brown",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://brownbears.com/sports/baseball/roster/henry-gahagan/24058",
+        "espnAthleteId": ""
+      },
+      {
         "id": "brown-24049",
         "name": "Jake Plainte",
         "school": "Brown",
@@ -4091,6 +4363,142 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "espnAthleteId": ""
       },
       {
+        "id": "brown-24057",
+        "name": "Morrie Fried",
+        "school": "Brown",
+        "role": "Hitter",
+        "position": "INF/OF",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Morrie Fried gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "INF/OF",
+          "FR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Brown Athletics roster"
+        ],
+        "sourceSummary": "Brown Athletics roster",
+        "schoolSlug": "brown",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://brownbears.com/sports/baseball/roster/morrie-fried/24057",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "brown-24056",
+        "name": "Jake Chung",
+        "school": "Brown",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jake Chung looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Brown Athletics roster"
+        ],
+        "sourceSummary": "Brown Athletics roster",
+        "schoolSlug": "brown",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://brownbears.com/sports/baseball/roster/jake-chung/24056",
+        "espnAthleteId": ""
+      },
+      {
         "id": "brown-24048",
         "name": "Camren Piwnicki",
         "school": "Brown",
@@ -4224,6 +4632,74 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "schoolSlug": "brown",
         "compositeRole": "Pitcher",
         "profileUrl": "https://brownbears.com/sports/baseball/roster/brenden-kline/24039",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "brown-24064",
+        "name": "Sean Walsh",
+        "school": "Brown",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "FR",
+        "handedness": "L/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Sean Walsh gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / L/R",
+        "detailBadges": [
+          "INF",
+          "FR",
+          "L/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Brown Athletics roster"
+        ],
+        "sourceSummary": "Brown Athletics roster",
+        "schoolSlug": "brown",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://brownbears.com/sports/baseball/roster/sean-walsh/24064",
         "espnAthleteId": ""
       },
       {
@@ -4499,6 +4975,142 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "espnAthleteId": ""
       },
       {
+        "id": "brown-24588",
+        "name": "D.C. Brown",
+        "school": "Brown",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "JR",
+        "handedness": "L/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "D.C. Brown looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / L/L",
+        "detailBadges": [
+          "LHP",
+          "JR",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Brown Athletics roster"
+        ],
+        "sourceSummary": "Brown Athletics roster",
+        "schoolSlug": "brown",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://brownbears.com/sports/baseball/roster/dc-brown/24588",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "brown-24060",
+        "name": "Neil MacKinnon",
+        "school": "Brown",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Neil MacKinnon looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Brown Athletics roster"
+        ],
+        "sourceSummary": "Brown Athletics roster",
+        "schoolSlug": "brown",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://brownbears.com/sports/baseball/roster/neil-mackinnon/24060",
+        "espnAthleteId": ""
+      },
+      {
         "id": "brown-24054",
         "name": "Bryan Yang",
         "school": "Brown",
@@ -4771,74 +5383,6 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "brown-24047",
-        "name": "Braxton Pearson",
-        "school": "Brown",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Braxton Pearson looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster"
-        ],
-        "sourceSummary": "Brown Athletics roster",
-        "schoolSlug": "brown",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/braxton-pearson/24047",
-        "espnAthleteId": ""
-      },
-      {
         "id": "brown-24053",
         "name": "Matt Wilmarth",
         "school": "Brown",
@@ -4904,6 +5448,74 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "schoolSlug": "brown",
         "compositeRole": "Pitcher",
         "profileUrl": "https://brownbears.com/sports/baseball/roster/matt-wilmarth/24053",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "brown-24059",
+        "name": "Nate Kempton",
+        "school": "Brown",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Nate Kempton looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Brown Athletics roster"
+        ],
+        "sourceSummary": "Brown Athletics roster",
+        "schoolSlug": "brown",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://brownbears.com/sports/baseball/roster/nate-kempton/24059",
         "espnAthleteId": ""
       },
       {
@@ -5111,11 +5723,11 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "brown-24055",
-        "name": "Joey Benoit",
+        "id": "brown-24061",
+        "name": "Dane Purdy",
         "school": "Brown",
-        "role": "Hitter",
-        "position": "INF",
+        "role": "Pitcher",
+        "position": "RHP",
         "classYear": "FR",
         "handedness": "R/R",
         "score": 0,
@@ -5123,59 +5735,59 @@ window.__BASEBALL_DATASETS__.brown2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Joey Benoit gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Dane Purdy looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
-            "label": "AVG",
+            "label": "ERA",
             "value": "--"
           },
           {
-            "label": "OBP",
+            "label": "WHIP",
             "value": "--"
           },
           {
-            "label": "SLG",
-            "value": "--"
+            "label": "K/9",
+            "value": "0.0"
           },
           {
-            "label": "HR",
-            "value": "0"
+            "label": "BB/9",
+            "value": "0.0"
           },
           {
-            "label": "RBI",
-            "value": "0"
+            "label": "HR/9",
+            "value": "0.00"
           },
           {
-            "label": "SB",
-            "value": "0"
+            "label": "IP",
+            "value": "0.0"
           }
         ],
         "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
         },
         "metaLine": "FR / R/R",
         "detailBadges": [
-          "INF",
+          "RHP",
           "FR",
           "R/R",
-          "Rostered"
+          "Pitcher"
         ],
         "leaderboards": [
           "Brown Athletics roster"
         ],
         "sourceSummary": "Brown Athletics roster",
         "schoolSlug": "brown",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/joey-benoit/24055",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://brownbears.com/sports/baseball/roster/dane-purdy/24061",
         "espnAthleteId": ""
       },
       {
@@ -5312,618 +5924,6 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "schoolSlug": "brown",
         "compositeRole": "Rostered",
         "profileUrl": "https://brownbears.com/sports/baseball/roster/nolan-choquette/24034",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "brown-24056",
-        "name": "Jake Chung",
-        "school": "Brown",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jake Chung looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster"
-        ],
-        "sourceSummary": "Brown Athletics roster",
-        "schoolSlug": "brown",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/jake-chung/24056",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "brown-24057",
-        "name": "Morrie Fried",
-        "school": "Brown",
-        "role": "Hitter",
-        "position": "INF/OF",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Morrie Fried gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "INF/OF",
-          "FR",
-          "R/R",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster"
-        ],
-        "sourceSummary": "Brown Athletics roster",
-        "schoolSlug": "brown",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/morrie-fried/24057",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "brown-24058",
-        "name": "Henry Gahagan",
-        "school": "Brown",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "FR",
-        "handedness": "S/L",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Henry Gahagan looks like a LHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / S/L",
-        "detailBadges": [
-          "LHP",
-          "FR",
-          "S/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster"
-        ],
-        "sourceSummary": "Brown Athletics roster",
-        "schoolSlug": "brown",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/henry-gahagan/24058",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "brown-24059",
-        "name": "Nate Kempton",
-        "school": "Brown",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Nate Kempton looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster"
-        ],
-        "sourceSummary": "Brown Athletics roster",
-        "schoolSlug": "brown",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/nate-kempton/24059",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "brown-24060",
-        "name": "Neil MacKinnon",
-        "school": "Brown",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Neil MacKinnon looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster"
-        ],
-        "sourceSummary": "Brown Athletics roster",
-        "schoolSlug": "brown",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/neil-mackinnon/24060",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "brown-24061",
-        "name": "Dane Purdy",
-        "school": "Brown",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Dane Purdy looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster"
-        ],
-        "sourceSummary": "Brown Athletics roster",
-        "schoolSlug": "brown",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/dane-purdy/24061",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "brown-24062",
-        "name": "Cooper Russell",
-        "school": "Brown",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Cooper Russell gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "INF",
-          "FR",
-          "R/R",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster"
-        ],
-        "sourceSummary": "Brown Athletics roster",
-        "schoolSlug": "brown",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/cooper-russell/24062",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "brown-24063",
-        "name": "Logan Studer",
-        "school": "Brown",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Logan Studer gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "C",
-          "FR",
-          "R/R",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster"
-        ],
-        "sourceSummary": "Brown Athletics roster",
-        "schoolSlug": "brown",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/logan-studer/24063",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "brown-24064",
-        "name": "Sean Walsh",
-        "school": "Brown",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "FR",
-        "handedness": "L/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Sean Walsh gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "FR / L/R",
-        "detailBadges": [
-          "INF",
-          "FR",
-          "L/R",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster"
-        ],
-        "sourceSummary": "Brown Athletics roster",
-        "schoolSlug": "brown",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/sean-walsh/24064",
         "espnAthleteId": ""
       }
     ]
