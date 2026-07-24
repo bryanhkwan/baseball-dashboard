@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.west-virginia2026 = {
-  "generatedAt": "2026-07-23T10:57:14.234Z",
+  "generatedAt": "2026-07-24T10:56:31.717Z",
   "season": 2026,
   "school": {
     "slug": "west-virginia",
