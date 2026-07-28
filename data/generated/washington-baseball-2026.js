@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.washington2026 = {
-  "generatedAt": "2026-07-27T11:24:35.753Z",
+  "generatedAt": "2026-07-28T11:02:48.741Z",
   "season": 2026,
   "school": {
     "slug": "washington",
@@ -279,7 +279,7 @@ window.__BASEBALL_DATASETS__.washington2026 = {
       "role": "Hitter",
       "position": "C",
       "positionLong": "Catcher",
-      "classYear": "R-JR",
+      "classYear": "4TH",
       "handedness": "R/R",
       "jersey": "2",
       "hometown": "Poulsbo, Wash.",
@@ -403,10 +403,10 @@ window.__BASEBALL_DATASETS__.washington2026 = {
             "value": "3"
           }
         ],
-        "metaLine": "R-JR / R/R",
+        "metaLine": "4TH / R/R",
         "detailBadges": [
           "C",
-          "R-JR",
+          "4TH",
           "R/R",
           "Hitter"
         ],
@@ -3709,7 +3709,7 @@ window.__BASEBALL_DATASETS__.washington2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Right-Handed Pitcher",
-      "classYear": "R-SR",
+      "classYear": "2ND",
       "handedness": "L/R",
       "jersey": "35",
       "hometown": "Newcastle, Wash.",
@@ -3810,10 +3810,10 @@ window.__BASEBALL_DATASETS__.washington2026 = {
             "value": "4.0"
           }
         ],
-        "metaLine": "R-SR / L/R",
+        "metaLine": "2ND / L/R",
         "detailBadges": [
           "RHP",
-          "R-SR",
+          "2ND",
           "L/R",
           "Pitcher"
         ],
@@ -4183,7 +4183,7 @@ window.__BASEBALL_DATASETS__.washington2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Right-Handed Pitcher",
-      "classYear": "R-SO",
+      "classYear": "3RD",
       "handedness": "R/R",
       "jersey": "45",
       "hometown": "Poulsbo, Wash.",
@@ -4304,10 +4304,10 @@ window.__BASEBALL_DATASETS__.washington2026 = {
             "value": "27.3"
           }
         ],
-        "metaLine": "R-SO / R/R",
+        "metaLine": "3RD / R/R",
         "detailBadges": [
           "RHP",
-          "R-SO",
+          "3RD",
           "R/R",
           "Pitcher"
         ],
@@ -4612,7 +4612,7 @@ window.__BASEBALL_DATASETS__.washington2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Right-Handed Pitcher",
-      "classYear": "R-SR",
+      "classYear": "2ND",
       "handedness": "R/R",
       "jersey": "55",
       "hometown": "Kalama, Wash.",
@@ -4733,10 +4733,10 @@ window.__BASEBALL_DATASETS__.washington2026 = {
             "value": "48.3"
           }
         ],
-        "metaLine": "R-SR / R/R",
+        "metaLine": "2ND / R/R",
         "detailBadges": [
           "RHP",
-          "R-SR",
+          "2ND",
           "R/R",
           "Pitcher"
         ],
@@ -4916,7 +4916,7 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "school": "Washington",
         "role": "Hitter",
         "position": "C",
-        "classYear": "R-JR",
+        "classYear": "4TH",
         "handedness": "R/R",
         "score": 54,
         "fit": {
@@ -4962,10 +4962,10 @@ window.__BASEBALL_DATASETS__.washington2026 = {
           "Discipline": 6.666666666666665,
           "Speed": 10
         },
-        "metaLine": "R-JR / R/R",
+        "metaLine": "4TH / R/R",
         "detailBadges": [
           "C",
-          "R-JR",
+          "4TH",
           "R/R",
           "Hitter"
         ],
@@ -6638,7 +6638,7 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "school": "Washington",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "R-SR",
+        "classYear": "2ND",
         "handedness": "L/R",
         "score": 5,
         "fit": {
@@ -6684,10 +6684,10 @@ window.__BASEBALL_DATASETS__.washington2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "R-SR / L/R",
+        "metaLine": "2ND / L/R",
         "detailBadges": [
           "RHP",
-          "R-SR",
+          "2ND",
           "L/R",
           "Pitcher"
         ],
@@ -6913,7 +6913,7 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "school": "Washington",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "R-SO",
+        "classYear": "3RD",
         "handedness": "R/R",
         "score": 10,
         "fit": {
@@ -6959,10 +6959,10 @@ window.__BASEBALL_DATASETS__.washington2026 = {
           "Command": 16.923076923076923,
           "Damage suppression": 0
         },
-        "metaLine": "R-SO / R/R",
+        "metaLine": "3RD / R/R",
         "detailBadges": [
           "RHP",
-          "R-SO",
+          "3RD",
           "R/R",
           "Pitcher"
         ],
@@ -7120,7 +7120,7 @@ window.__BASEBALL_DATASETS__.washington2026 = {
         "school": "Washington",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "R-SR",
+        "classYear": "2ND",
         "handedness": "R/R",
         "score": 11,
         "fit": {
@@ -7166,10 +7166,10 @@ window.__BASEBALL_DATASETS__.washington2026 = {
           "Command": 23.999999999999993,
           "Damage suppression": 0
         },
-        "metaLine": "R-SR / R/R",
+        "metaLine": "2ND / R/R",
         "detailBadges": [
           "RHP",
-          "R-SR",
+          "2ND",
           "R/R",
           "Pitcher"
         ],

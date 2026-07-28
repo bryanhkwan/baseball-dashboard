@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T11:23:50.400Z",
+  "generatedAt": "2026-07-28T11:01:53.701Z",
   "season": 2026,
   "school": {
     "slug": "delaware",
@@ -24,7 +24,7 @@
     "ncaa": "NCAA school index"
   },
   "coverage": {
-    "rosterPlayers": 31,
+    "rosterPlayers": 37,
     "espnRosterPlayers": 0,
     "playersWithHittingStats": 0,
     "playersWithPitchingStats": 0,
@@ -2005,6 +2005,94 @@
       }
     },
     {
+      "id": "delaware-32808",
+      "schoolSlug": "delaware",
+      "school": "Delaware",
+      "schoolLongName": "University of Delaware",
+      "name": "Thomas Cano-Piszel",
+      "normalizedName": "thomas cano piszel",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF/OF",
+      "positionLong": "Infield/ Outfield",
+      "classYear": "FR",
+      "handedness": "N/A",
+      "jersey": "",
+      "hometown": "Buckingham, Pa.",
+      "highSchool": "Central Bucks East",
+      "previousSchool": "",
+      "hometownHighSchool": "Buckingham, Pa. / Central Bucks East",
+      "profileUrl": "https://bluehens.com/sports/baseball/roster/thomas-canopiszel/32808",
+      "imageUrl": "https://bluehens.com/images/2018/8/23/200x200_8_AthleticsPrimary.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "32808",
+      "sources": [
+        "Delaware Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Thomas Cano-Piszel gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "INF/OF",
+          "FR",
+          "N/A",
+          "Rostered"
+        ],
+        "sourceSummary": "Delaware Athletics roster"
+      }
+    },
+    {
       "id": "delaware-32194",
       "schoolSlug": "delaware",
       "school": "Delaware",
@@ -2093,6 +2181,270 @@
       }
     },
     {
+      "id": "delaware-32809",
+      "schoolSlug": "delaware",
+      "school": "Delaware",
+      "schoolLongName": "University of Delaware",
+      "name": "Collin Gibbs",
+      "normalizedName": "collin gibbs",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "Infield",
+      "classYear": "SO",
+      "handedness": "N/A",
+      "jersey": "",
+      "hometown": "Olney, Md.",
+      "highSchool": "St. Johns",
+      "previousSchool": "",
+      "hometownHighSchool": "Olney, Md. / St. Johns",
+      "profileUrl": "https://bluehens.com/sports/baseball/roster/collin-gibbs/32809",
+      "imageUrl": "https://bluehens.com/images/2018/8/23/200x200_8_AthleticsPrimary.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "32809",
+      "sources": [
+        "Delaware Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Collin Gibbs gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "SO / N/A",
+        "detailBadges": [
+          "INF",
+          "SO",
+          "N/A",
+          "Rostered"
+        ],
+        "sourceSummary": "Delaware Athletics roster"
+      }
+    },
+    {
+      "id": "delaware-32812",
+      "schoolSlug": "delaware",
+      "school": "Delaware",
+      "schoolLongName": "University of Delaware",
+      "name": "Bryce Hendricks",
+      "normalizedName": "bryce hendricks",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right Handed Pitcher",
+      "classYear": "SR",
+      "handedness": "N/A",
+      "jersey": "",
+      "hometown": "Laurel, Del.",
+      "highSchool": "Delmar",
+      "previousSchool": "",
+      "hometownHighSchool": "Laurel, Del. / Delmar",
+      "profileUrl": "https://bluehens.com/sports/baseball/roster/bryce-hendricks/32812",
+      "imageUrl": "https://bluehens.com/images/2018/8/23/200x200_8_AthleticsPrimary.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "32812",
+      "sources": [
+        "Delaware Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Bryce Hendricks looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "SR / N/A",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "Delaware Athletics roster"
+      }
+    },
+    {
+      "id": "delaware-32811",
+      "schoolSlug": "delaware",
+      "school": "Delaware",
+      "schoolLongName": "University of Delaware",
+      "name": "Timmy Hitchcock",
+      "normalizedName": "timmy hitchcock",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "Infield",
+      "classYear": "FR",
+      "handedness": "N/A",
+      "jersey": "",
+      "hometown": "Gerogetown, Del.",
+      "highSchool": "Cape Henlopen",
+      "previousSchool": "",
+      "hometownHighSchool": "Gerogetown, Del. / Cape Henlopen",
+      "profileUrl": "https://bluehens.com/sports/baseball/roster/timmy-hitchcock/32811",
+      "imageUrl": "https://bluehens.com/images/2018/8/23/200x200_8_AthleticsPrimary.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "32811",
+      "sources": [
+        "Delaware Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Timmy Hitchcock gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "INF",
+          "FR",
+          "N/A",
+          "Rostered"
+        ],
+        "sourceSummary": "Delaware Athletics roster"
+      }
+    },
+    {
       "id": "delaware-32195",
       "schoolSlug": "delaware",
       "school": "Delaware",
@@ -2111,7 +2463,7 @@
       "previousSchool": "",
       "hometownHighSchool": "Palmyra, Pa. / Palmyra",
       "profileUrl": "https://bluehens.com/sports/baseball/roster/logan-kriner/32195",
-      "imageUrl": "",
+      "imageUrl": "https://bluehens.com/images/2018/8/23/200x200_8_AthleticsPrimary.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -2181,6 +2533,94 @@
       }
     },
     {
+      "id": "delaware-32810",
+      "schoolSlug": "delaware",
+      "school": "Delaware",
+      "schoolLongName": "University of Delaware",
+      "name": "Jason Lashley",
+      "normalizedName": "jason lashley",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "Infield",
+      "classYear": "SR",
+      "handedness": "N/A",
+      "jersey": "",
+      "hometown": "Lake Worth, Fla.",
+      "highSchool": "Park Vista (Indian River CC)",
+      "previousSchool": "",
+      "hometownHighSchool": "Lake Worth, Fla. / Park Vista (Indian River CC)",
+      "profileUrl": "https://bluehens.com/sports/baseball/roster/jason-lashley/32810",
+      "imageUrl": "https://bluehens.com/images/2018/8/23/200x200_8_AthleticsPrimary.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "32810",
+      "sources": [
+        "Delaware Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Jason Lashley gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "SR / N/A",
+        "detailBadges": [
+          "INF",
+          "SR",
+          "N/A",
+          "Rostered"
+        ],
+        "sourceSummary": "Delaware Athletics roster"
+      }
+    },
+    {
       "id": "delaware-32532",
       "schoolSlug": "delaware",
       "school": "Delaware",
@@ -2191,7 +2631,7 @@
       "role": "Hitter",
       "position": "C",
       "positionLong": "Catcher",
-      "classYear": "FR",
+      "classYear": "SR",
       "handedness": "N/A",
       "jersey": "",
       "hometown": "Chicago, Ill.",
@@ -2258,9 +2698,97 @@
             "value": "0"
           }
         ],
-        "metaLine": "FR / N/A",
+        "metaLine": "SR / N/A",
         "detailBadges": [
           "C",
+          "SR",
+          "N/A",
+          "Rostered"
+        ],
+        "sourceSummary": "Delaware Athletics roster"
+      }
+    },
+    {
+      "id": "delaware-32813",
+      "schoolSlug": "delaware",
+      "school": "Delaware",
+      "schoolLongName": "University of Delaware",
+      "name": "Jimmy Mantuano",
+      "normalizedName": "jimmy mantuano",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "Outfield",
+      "classYear": "FR",
+      "handedness": "N/A",
+      "jersey": "",
+      "hometown": "Marlton, N.J.",
+      "highSchool": "St. Joseph Academy",
+      "previousSchool": "",
+      "hometownHighSchool": "Marlton, N.J. / St. Joseph Academy",
+      "profileUrl": "https://bluehens.com/sports/baseball/roster/jimmy-mantuano/32813",
+      "imageUrl": "https://bluehens.com/images/2018/8/23/200x200_8_AthleticsPrimary.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "32813",
+      "sources": [
+        "Delaware Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Jimmy Mantuano gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "OF",
           "FR",
           "N/A",
           "Rostered"
@@ -2888,10 +3416,10 @@
   "playerBoard": {
     "source": "Delaware Athletics roster + cumulative stats / ESPN roster",
     "note": "This Delaware-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but Delaware's public ESPN roster feed did not line up cleanly with the current school-site roster.",
-    "totalPlayers": 31,
+    "totalPlayers": 37,
     "roleCounts": {
-      "Hitter": 10,
-      "Pitcher": 21
+      "Hitter": 15,
+      "Pitcher": 22
     },
     "players": [
       {
@@ -4323,6 +4851,74 @@
         "espnAthleteId": ""
       },
       {
+        "id": "delaware-32808",
+        "name": "Thomas Cano-Piszel",
+        "school": "Delaware",
+        "role": "Hitter",
+        "position": "INF/OF",
+        "classYear": "FR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Thomas Cano-Piszel gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "INF/OF",
+          "FR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Delaware Athletics roster"
+        ],
+        "sourceSummary": "Delaware Athletics roster",
+        "schoolSlug": "delaware",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://bluehens.com/sports/baseball/roster/thomas-canopiszel/32808",
+        "espnAthleteId": ""
+      },
+      {
         "id": "delaware-32194",
         "name": "Tim Dougherty",
         "school": "Delaware",
@@ -4388,6 +4984,210 @@
         "schoolSlug": "delaware",
         "compositeRole": "Pitcher",
         "profileUrl": "https://bluehens.com/sports/baseball/roster/tim-dougherty/32194",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "delaware-32809",
+        "name": "Collin Gibbs",
+        "school": "Delaware",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "SO",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Collin Gibbs gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "SO / N/A",
+        "detailBadges": [
+          "INF",
+          "SO",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Delaware Athletics roster"
+        ],
+        "sourceSummary": "Delaware Athletics roster",
+        "schoolSlug": "delaware",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://bluehens.com/sports/baseball/roster/collin-gibbs/32809",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "delaware-32812",
+        "name": "Bryce Hendricks",
+        "school": "Delaware",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Bryce Hendricks looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / N/A",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Delaware Athletics roster"
+        ],
+        "sourceSummary": "Delaware Athletics roster",
+        "schoolSlug": "delaware",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://bluehens.com/sports/baseball/roster/bryce-hendricks/32812",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "delaware-32811",
+        "name": "Timmy Hitchcock",
+        "school": "Delaware",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "FR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Timmy Hitchcock gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "INF",
+          "FR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Delaware Athletics roster"
+        ],
+        "sourceSummary": "Delaware Athletics roster",
+        "schoolSlug": "delaware",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://bluehens.com/sports/baseball/roster/timmy-hitchcock/32811",
         "espnAthleteId": ""
       },
       {
@@ -4459,12 +5259,80 @@
         "espnAthleteId": ""
       },
       {
+        "id": "delaware-32810",
+        "name": "Jason Lashley",
+        "school": "Delaware",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "SR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jason Lashley gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "SR / N/A",
+        "detailBadges": [
+          "INF",
+          "SR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Delaware Athletics roster"
+        ],
+        "sourceSummary": "Delaware Athletics roster",
+        "schoolSlug": "delaware",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://bluehens.com/sports/baseball/roster/jason-lashley/32810",
+        "espnAthleteId": ""
+      },
+      {
         "id": "delaware-32532",
         "name": "Colin Leslie",
         "school": "Delaware",
         "role": "Hitter",
         "position": "C",
-        "classYear": "FR",
+        "classYear": "SR",
         "handedness": "N/A",
         "score": 0,
         "fit": {
@@ -4510,10 +5378,10 @@
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "FR / N/A",
+        "metaLine": "SR / N/A",
         "detailBadges": [
           "C",
-          "FR",
+          "SR",
           "N/A",
           "Rostered"
         ],
@@ -4524,6 +5392,74 @@
         "schoolSlug": "delaware",
         "compositeRole": "Rostered",
         "profileUrl": "https://bluehens.com/sports/baseball/roster/colin-leslie/32532",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "delaware-32813",
+        "name": "Jimmy Mantuano",
+        "school": "Delaware",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "FR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jimmy Mantuano gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "OF",
+          "FR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Delaware Athletics roster"
+        ],
+        "sourceSummary": "Delaware Athletics roster",
+        "schoolSlug": "delaware",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://bluehens.com/sports/baseball/roster/jimmy-mantuano/32813",
         "espnAthleteId": ""
       },
       {

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T11:24:48.410Z",
+  "generatedAt": "2026-07-28T11:03:07.955Z",
   "season": 2026,
   "source": "Generated Sidearm baseball roster pool",
   "note": "This compact roster-only pool captures public school-site baseball rosters so non-appearing players can still enter coverage before they log a reachable NCAA boxscore.",
@@ -79,7 +79,7 @@
       "slug": "delaware",
       "name": "Delaware",
       "longName": "University of Delaware",
-      "rosterPlayers": 31,
+      "rosterPlayers": 37,
       "rosterUrl": "https://bluehens.com/sports/baseball/roster"
     },
     {
@@ -353,10 +353,10 @@
     "schoolsRequested": 73,
     "schoolsLoaded": 49,
     "schoolsFailed": 24,
-    "totalPlayers": 1807,
+    "totalPlayers": 1813,
     "roleCounts": {
-      "Hitter": 895,
-      "Pitcher": 912
+      "Hitter": 900,
+      "Pitcher": 913
     },
     "failures": [
       {
@@ -6965,6 +6965,20 @@
       "https://bluehens.com/sports/baseball/roster/nate-bott/32193"
     ],
     [
+      "delaware-32808",
+      "delaware",
+      "Thomas Cano-Piszel",
+      "Hitter",
+      "INF/OF",
+      "FR",
+      "",
+      "",
+      "Buckingham, Pa.",
+      "Central Bucks East",
+      "",
+      "https://bluehens.com/sports/baseball/roster/thomas-canopiszel/32808"
+    ],
+    [
       "delaware-32194",
       "delaware",
       "Tim Dougherty",
@@ -6977,6 +6991,48 @@
       "Shawnee",
       "",
       "https://bluehens.com/sports/baseball/roster/tim-dougherty/32194"
+    ],
+    [
+      "delaware-32809",
+      "delaware",
+      "Collin Gibbs",
+      "Hitter",
+      "INF",
+      "SO",
+      "",
+      "",
+      "Olney, Md.",
+      "St. Johns",
+      "",
+      "https://bluehens.com/sports/baseball/roster/collin-gibbs/32809"
+    ],
+    [
+      "delaware-32812",
+      "delaware",
+      "Bryce Hendricks",
+      "Pitcher",
+      "RHP",
+      "SR",
+      "",
+      "",
+      "Laurel, Del.",
+      "Delmar",
+      "",
+      "https://bluehens.com/sports/baseball/roster/bryce-hendricks/32812"
+    ],
+    [
+      "delaware-32811",
+      "delaware",
+      "Timmy Hitchcock",
+      "Hitter",
+      "INF",
+      "FR",
+      "",
+      "",
+      "Gerogetown, Del.",
+      "Cape Henlopen",
+      "",
+      "https://bluehens.com/sports/baseball/roster/timmy-hitchcock/32811"
     ],
     [
       "delaware-32195",
@@ -6993,18 +7049,46 @@
       "https://bluehens.com/sports/baseball/roster/logan-kriner/32195"
     ],
     [
+      "delaware-32810",
+      "delaware",
+      "Jason Lashley",
+      "Hitter",
+      "INF",
+      "SR",
+      "",
+      "",
+      "Lake Worth, Fla.",
+      "Park Vista (Indian River CC)",
+      "",
+      "https://bluehens.com/sports/baseball/roster/jason-lashley/32810"
+    ],
+    [
       "delaware-32532",
       "delaware",
       "Colin Leslie",
       "Hitter",
       "C",
-      "FR",
+      "SR",
       "",
       "",
       "Chicago, Ill.",
       "Chicago Lab School",
       "",
       "https://bluehens.com/sports/baseball/roster/colin-leslie/32532"
+    ],
+    [
+      "delaware-32813",
+      "delaware",
+      "Jimmy Mantuano",
+      "Hitter",
+      "OF",
+      "FR",
+      "",
+      "",
+      "Marlton, N.J.",
+      "St. Joseph Academy",
+      "",
+      "https://bluehens.com/sports/baseball/roster/jimmy-mantuano/32813"
     ],
     [
       "delaware-32530",
@@ -24120,7 +24204,7 @@
       "Colton Bower",
       "Hitter",
       "C",
-      "R-JR",
+      "4TH",
       "R/R",
       "2",
       "Poulsbo, Wash.",
@@ -24470,7 +24554,7 @@
       "Peysen Sweeney",
       "Pitcher",
       "RHP",
-      "R-SR",
+      "2ND",
       "L/R",
       "35",
       "Newcastle, Wash.",
@@ -24526,7 +24610,7 @@
       "Jaxson Gore",
       "Pitcher",
       "RHP",
-      "R-SO",
+      "3RD",
       "R/R",
       "45",
       "Poulsbo, Wash.",
@@ -24568,7 +24652,7 @@
       "Tommy Brandenburg",
       "Pitcher",
       "RHP",
-      "R-SR",
+      "2ND",
       "R/R",
       "55",
       "Kalama, Wash.",

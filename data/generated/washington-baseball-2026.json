@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T11:24:35.753Z",
+  "generatedAt": "2026-07-28T11:02:48.741Z",
   "season": 2026,
   "school": {
     "slug": "washington",
@@ -278,7 +278,7 @@
       "role": "Hitter",
       "position": "C",
       "positionLong": "Catcher",
-      "classYear": "R-JR",
+      "classYear": "4TH",
       "handedness": "R/R",
       "jersey": "2",
       "hometown": "Poulsbo, Wash.",
@@ -402,10 +402,10 @@
             "value": "3"
           }
         ],
-        "metaLine": "R-JR / R/R",
+        "metaLine": "4TH / R/R",
         "detailBadges": [
           "C",
-          "R-JR",
+          "4TH",
           "R/R",
           "Hitter"
         ],
@@ -3708,7 +3708,7 @@
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Right-Handed Pitcher",
-      "classYear": "R-SR",
+      "classYear": "2ND",
       "handedness": "L/R",
       "jersey": "35",
       "hometown": "Newcastle, Wash.",
@@ -3809,10 +3809,10 @@
             "value": "4.0"
           }
         ],
-        "metaLine": "R-SR / L/R",
+        "metaLine": "2ND / L/R",
         "detailBadges": [
           "RHP",
-          "R-SR",
+          "2ND",
           "L/R",
           "Pitcher"
         ],
@@ -4182,7 +4182,7 @@
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Right-Handed Pitcher",
-      "classYear": "R-SO",
+      "classYear": "3RD",
       "handedness": "R/R",
       "jersey": "45",
       "hometown": "Poulsbo, Wash.",
@@ -4303,10 +4303,10 @@
             "value": "27.3"
           }
         ],
-        "metaLine": "R-SO / R/R",
+        "metaLine": "3RD / R/R",
         "detailBadges": [
           "RHP",
-          "R-SO",
+          "3RD",
           "R/R",
           "Pitcher"
         ],
@@ -4611,7 +4611,7 @@
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Right-Handed Pitcher",
-      "classYear": "R-SR",
+      "classYear": "2ND",
       "handedness": "R/R",
       "jersey": "55",
       "hometown": "Kalama, Wash.",
@@ -4732,10 +4732,10 @@
             "value": "48.3"
           }
         ],
-        "metaLine": "R-SR / R/R",
+        "metaLine": "2ND / R/R",
         "detailBadges": [
           "RHP",
-          "R-SR",
+          "2ND",
           "R/R",
           "Pitcher"
         ],
@@ -4915,7 +4915,7 @@
         "school": "Washington",
         "role": "Hitter",
         "position": "C",
-        "classYear": "R-JR",
+        "classYear": "4TH",
         "handedness": "R/R",
         "score": 54,
         "fit": {
@@ -4961,10 +4961,10 @@
           "Discipline": 6.666666666666665,
           "Speed": 10
         },
-        "metaLine": "R-JR / R/R",
+        "metaLine": "4TH / R/R",
         "detailBadges": [
           "C",
-          "R-JR",
+          "4TH",
           "R/R",
           "Hitter"
         ],
@@ -6637,7 +6637,7 @@
         "school": "Washington",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "R-SR",
+        "classYear": "2ND",
         "handedness": "L/R",
         "score": 5,
         "fit": {
@@ -6683,10 +6683,10 @@
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "R-SR / L/R",
+        "metaLine": "2ND / L/R",
         "detailBadges": [
           "RHP",
-          "R-SR",
+          "2ND",
           "L/R",
           "Pitcher"
         ],
@@ -6912,7 +6912,7 @@
         "school": "Washington",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "R-SO",
+        "classYear": "3RD",
         "handedness": "R/R",
         "score": 10,
         "fit": {
@@ -6958,10 +6958,10 @@
           "Command": 16.923076923076923,
           "Damage suppression": 0
         },
-        "metaLine": "R-SO / R/R",
+        "metaLine": "3RD / R/R",
         "detailBadges": [
           "RHP",
-          "R-SO",
+          "3RD",
           "R/R",
           "Pitcher"
         ],
@@ -7119,7 +7119,7 @@
         "school": "Washington",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "R-SR",
+        "classYear": "2ND",
         "handedness": "R/R",
         "score": 11,
         "fit": {
@@ -7165,10 +7165,10 @@
           "Command": 23.999999999999993,
           "Damage suppression": 0
         },
-        "metaLine": "R-SR / R/R",
+        "metaLine": "2ND / R/R",
         "detailBadges": [
           "RHP",
-          "R-SR",
+          "2ND",
           "R/R",
           "Pitcher"
         ],

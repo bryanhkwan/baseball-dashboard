@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.southern-california2026 = {
-  "generatedAt": "2026-07-27T11:24:23.124Z",
+  "generatedAt": "2026-07-28T11:02:34.510Z",
   "season": 2026,
   "school": {
     "slug": "southern-california",
