@@ -1,10 +1,10 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
-  "generatedAt": "2026-07-28T11:02:50.994Z",
+  "generatedAt": "2026-07-29T11:07:06.411Z",
   "season": 2026,
   "source": "Generated Sidearm baseball school-site pool",
   "note": "This generated free player pool combines verified public roster and cumulative stats pages from multiple Sidearm baseball programs. It is broader than Toledo alone, but still not a full every-school national directory yet.",
-  "schoolCount": 48,
+  "schoolCount": 49,
   "schools": [
     {
       "slug": "toledo",
@@ -189,6 +189,19 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
       "rosterUrl": "https://goduke.com/sports/baseball/roster"
     },
     {
+      "slug": "east-carolina",
+      "name": "East Carolina",
+      "longName": "East Carolina University",
+      "record": "38-24-1, 17-10",
+      "totalPlayers": 41,
+      "hitters": 21,
+      "pitchers": 20,
+      "rosterPlayers": 41,
+      "playersWithAnyStats": 18,
+      "statsUrl": "https://ecupirates.com/sports/baseball/stats/2026",
+      "rosterUrl": "https://ecupirates.com/sports/baseball/roster"
+    },
+    {
       "slug": "florida",
       "name": "Florida",
       "longName": "University of Florida",
@@ -219,11 +232,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
       "name": "Georgia",
       "longName": "University of Georgia",
       "record": "53-14, 23-7",
-      "totalPlayers": 41,
-      "hitters": 16,
-      "pitchers": 25,
-      "rosterPlayers": 41,
-      "playersWithAnyStats": 38,
+      "totalPlayers": 33,
+      "hitters": 13,
+      "pitchers": 20,
+      "rosterPlayers": 33,
+      "playersWithAnyStats": 30,
       "statsUrl": "https://georgiadogs.com/sports/baseball/stats/2026",
       "rosterUrl": "https://georgiadogs.com/sports/baseball/roster"
     },
@@ -232,10 +245,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
       "name": "Grand Canyon",
       "longName": "Grand Canyon University",
       "record": "21-30, 11-13",
-      "totalPlayers": 39,
-      "hitters": 19,
+      "totalPlayers": 40,
+      "hitters": 20,
       "pitchers": 20,
-      "rosterPlayers": 39,
+      "rosterPlayers": 40,
       "playersWithAnyStats": 0,
       "statsUrl": "https://gculopes.com/sports/baseball/stats/2026",
       "rosterUrl": "https://gculopes.com/sports/baseball/roster"
@@ -632,18 +645,18 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
     }
   ],
   "coverage": {
-    "totalPlayers": 1772,
-    "totalHitters": 812,
-    "totalPitchers": 960,
-    "schoolsCovered": 48
+    "totalPlayers": 1806,
+    "totalHitters": 831,
+    "totalPitchers": 975,
+    "schoolsCovered": 49
   },
   "playerBoard": {
     "source": "Generated Sidearm baseball school-site pool",
     "note": "This free generated pool comes from verified public school-site roster and cumulative stats pages across multiple Sidearm baseball programs.",
-    "totalPlayers": 1772,
+    "totalPlayers": 1806,
     "roleCounts": {
-      "Hitter": 812,
-      "Pitcher": 960
+      "Hitter": 831,
+      "Pitcher": 975
     },
     "players": [
       {
@@ -36629,6 +36642,2812 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "espnAthleteId": ""
       },
       {
+        "id": "east-carolina-14127",
+        "name": "Jeff Sabater",
+        "school": "East Carolina",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "GR",
+        "handedness": "L/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jeff Sabater gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "GR / L/R",
+        "detailBadges": [
+          "OF",
+          "GR",
+          "L/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/jeff-sabater/14127",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14128",
+        "name": "Carlos Jacome",
+        "school": "East Carolina",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "3RD YR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Carlos Jacome gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "3RD YR / R/R",
+        "detailBadges": [
+          "INF",
+          "3RD YR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/carlos-jacome/14128",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14543",
+        "name": "Jack Strom",
+        "school": "East Carolina",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "1ST YR",
+        "handedness": "L/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jack Strom gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "1ST YR / L/R",
+        "detailBadges": [
+          "OF",
+          "1ST YR",
+          "L/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/jack-strom/14543",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14550",
+        "name": "Davin Whitaker",
+        "school": "East Carolina",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "R-SO",
+        "handedness": "L/R",
+        "score": 63,
+        "fit": {
+          "label": "Monitor",
+          "className": "fit-monitor"
+        },
+        "summary": "Davin Whitaker profiles as a OF piece who gets on base at a high clip and brings real extra-base damage.",
+        "summaryMetrics": [
+          "AVG .323",
+          "OBP .428",
+          "SLG .554"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".323"
+          },
+          {
+            "label": "OBP",
+            "value": ".428"
+          },
+          {
+            "label": "SLG",
+            "value": ".554"
+          },
+          {
+            "label": "HR",
+            "value": "10"
+          },
+          {
+            "label": "RBI",
+            "value": "45"
+          },
+          {
+            "label": "SB",
+            "value": "6"
+          }
+        ],
+        "components": {
+          "On-base": 82.22222222222221,
+          "Power": 61.57894736842107,
+          "Contact": 64.375,
+          "Discipline": 50.241545893719795,
+          "Speed": 20
+        },
+        "metaLine": "R-SO / L/R",
+        "detailBadges": [
+          "OF",
+          "R-SO",
+          "L/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster",
+          "East Carolina cumulative stats"
+        ],
+        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/davin-whitaker/14550",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14538",
+        "name": "Nick Parham",
+        "school": "East Carolina",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "3RD YR",
+        "handedness": "L/R",
+        "score": 6,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Nick Parham gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .205",
+          "OBP .300",
+          "SLG .318"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".205"
+          },
+          {
+            "label": "OBP",
+            "value": ".300"
+          },
+          {
+            "label": "SLG",
+            "value": ".318"
+          },
+          {
+            "label": "HR",
+            "value": "2"
+          },
+          {
+            "label": "RBI",
+            "value": "11"
+          },
+          {
+            "label": "SB",
+            "value": "3"
+          }
+        ],
+        "components": {
+          "On-base": 11.111111111111091,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 11.111111111111107,
+          "Speed": 10
+        },
+        "metaLine": "3RD YR / L/R",
+        "detailBadges": [
+          "INF",
+          "3RD YR",
+          "L/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster",
+          "East Carolina cumulative stats"
+        ],
+        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/nick-parham/14538",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14531",
+        "name": "Gabe Beschloss",
+        "school": "East Carolina",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "2ND YR",
+        "handedness": "L/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Gabe Beschloss looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "2ND YR / L/L",
+        "detailBadges": [
+          "LHP",
+          "2ND YR",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/gabe-beschloss/14531",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-13913",
+        "name": "Dawson Neal",
+        "school": "East Carolina",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "4TH YR",
+        "handedness": "L/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Dawson Neal looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "4TH YR / L/L",
+        "detailBadges": [
+          "LHP",
+          "4TH YR",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/dawson-neal/13913",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14544",
+        "name": "Ryan Towers",
+        "school": "East Carolina",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "R-JR",
+        "handedness": "L/L",
+        "score": 8,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Ryan Towers looks like a LHP option who limits runs.",
+        "summaryMetrics": [
+          "ERA 3.39",
+          "WHIP 1.27",
+          "K/9 6.9"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "3.39"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.27"
+          },
+          {
+            "label": "K/9",
+            "value": "6.9"
+          },
+          {
+            "label": "BB/9",
+            "value": "3.7"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.08"
+          },
+          {
+            "label": "IP",
+            "value": "58.3"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 26.753246753246746,
+          "Command": 17.499999999999996,
+          "Damage suppression": 0
+        },
+        "metaLine": "R-JR / L/L",
+        "detailBadges": [
+          "LHP",
+          "R-JR",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster",
+          "East Carolina cumulative stats"
+        ],
+        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/ryan-towers/14544",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-13900",
+        "name": "Alex Bouche",
+        "school": "East Carolina",
+        "role": "Hitter",
+        "position": "UTL",
+        "classYear": "4TH YR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Alex Bouche gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "4TH YR / R/R",
+        "detailBadges": [
+          "UTL",
+          "4TH YR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/alex-bouche/13900",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14527",
+        "name": "Brett Antolick",
+        "school": "East Carolina",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "R-SO",
+        "handedness": "R/R",
+        "score": 27,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Brett Antolick looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 7.91",
+          "WHIP 1.71",
+          "K/9 14.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "7.91"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.71"
+          },
+          {
+            "label": "K/9",
+            "value": "14.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "3.7"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.86"
+          },
+          {
+            "label": "IP",
+            "value": "19.3"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 90.59561128526646,
+          "Command": 55.00000000000001,
+          "Damage suppression": 0
+        },
+        "metaLine": "R-SO / R/R",
+        "detailBadges": [
+          "RHP",
+          "R-SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster",
+          "East Carolina cumulative stats"
+        ],
+        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/brett-antolick/14527",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14548",
+        "name": "Colby Wallace",
+        "school": "East Carolina",
+        "role": "Pitcher",
+        "position": "INF/RHP",
+        "classYear": "3RD YR",
+        "handedness": "R/R",
+        "score": 16,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Colby Wallace looks like a INF/RHP option who limits runs and throws enough strikes.",
+        "summaryMetrics": [
+          "ERA 0.00",
+          "WHIP 1.50",
+          "K/9 3.4"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "0.00"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.50"
+          },
+          {
+            "label": "K/9",
+            "value": "3.4"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "2.7"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 100,
+          "Damage suppression": 0
+        },
+        "metaLine": "3RD YR / R/R",
+        "detailBadges": [
+          "INF/RHP",
+          "3RD YR",
+          "R/R",
+          "Two-Way"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster",
+          "East Carolina cumulative stats"
+        ],
+        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Two-Way",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/colby-wallace/14548",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14541",
+        "name": "Alex Peltier",
+        "school": "East Carolina",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "2ND YR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Alex Peltier gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .000",
+          "OBP .000",
+          "SLG .000"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".000"
+          },
+          {
+            "label": "OBP",
+            "value": ".000"
+          },
+          {
+            "label": "SLG",
+            "value": ".000"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "1"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 3.3333333333333335
+        },
+        "metaLine": "2ND YR / R/R",
+        "detailBadges": [
+          "OF",
+          "2ND YR",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster",
+          "East Carolina cumulative stats"
+        ],
+        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/alex-peltier/14541",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14536",
+        "name": "Grady Lenahan",
+        "school": "East Carolina",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "1ST YR",
+        "handedness": "R/R",
+        "score": 56,
+        "fit": {
+          "label": "Monitor",
+          "className": "fit-monitor"
+        },
+        "summary": "Grady Lenahan profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
+        "summaryMetrics": [
+          "AVG .300",
+          "OBP .402",
+          "SLG .526"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".300"
+          },
+          {
+            "label": "OBP",
+            "value": ".402"
+          },
+          {
+            "label": "SLG",
+            "value": ".526"
+          },
+          {
+            "label": "HR",
+            "value": "9"
+          },
+          {
+            "label": "RBI",
+            "value": "48"
+          },
+          {
+            "label": "SB",
+            "value": "11"
+          }
+        ],
+        "components": {
+          "On-base": 67.77777777777779,
+          "Power": 54.21052631578949,
+          "Contact": 49.999999999999986,
+          "Discipline": 50.42735042735041,
+          "Speed": 36.666666666666664
+        },
+        "metaLine": "1ST YR / R/R",
+        "detailBadges": [
+          "OF",
+          "1ST YR",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster",
+          "East Carolina cumulative stats"
+        ],
+        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/grady-lenahan/14536",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-13909",
+        "name": "Michael Kalinich",
+        "school": "East Carolina",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "2ND YR",
+        "handedness": "L/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Michael Kalinich gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "2ND YR / L/R",
+        "detailBadges": [
+          "C",
+          "2ND YR",
+          "L/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/michael-kalinich/13909",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14131",
+        "name": "Matt Lashley",
+        "school": "East Carolina",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "3RD YR",
+        "handedness": "L/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Matt Lashley gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "3RD YR / L/R",
+        "detailBadges": [
+          "INF",
+          "3RD YR",
+          "L/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/matt-lashley/14131",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-13902",
+        "name": "Parker Byrd",
+        "school": "East Carolina",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "4TH YR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Parker Byrd gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "4TH YR / R/R",
+        "detailBadges": [
+          "INF",
+          "4TH YR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/parker-byrd/13902",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-13914",
+        "name": "Ethan Norby",
+        "school": "East Carolina",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "3RD YR",
+        "handedness": "L/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Ethan Norby looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "3RD YR / L/L",
+        "detailBadges": [
+          "LHP",
+          "3RD YR",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/ethan-norby/13914",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-13903",
+        "name": "Jackson DiLorenzo",
+        "school": "East Carolina",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "3RD YR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jackson DiLorenzo looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "3RD YR / R/R",
+        "detailBadges": [
+          "RHP",
+          "3RD YR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/jackson-dilorenzo/13903",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14132",
+        "name": "Frank Ciccone",
+        "school": "East Carolina",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "4TH YR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Frank Ciccone looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "4TH YR / R/R",
+        "detailBadges": [
+          "RHP",
+          "4TH YR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/frank-ciccone/14132",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-13906",
+        "name": "Austin Irby",
+        "school": "East Carolina",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "2ND YR",
+        "handedness": "L/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Austin Irby gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "2ND YR / L/R",
+        "detailBadges": [
+          "INF",
+          "2ND YR",
+          "L/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/austin-irby/13906",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14529",
+        "name": "Walker Barron",
+        "school": "East Carolina",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "3RD YR",
+        "handedness": "R/R",
+        "score": 33,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Walker Barron gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .281",
+          "OBP .358",
+          "SLG .416"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".281"
+          },
+          {
+            "label": "OBP",
+            "value": ".358"
+          },
+          {
+            "label": "SLG",
+            "value": ".416"
+          },
+          {
+            "label": "HR",
+            "value": "6"
+          },
+          {
+            "label": "RBI",
+            "value": "36"
+          },
+          {
+            "label": "SB",
+            "value": "1"
+          }
+        ],
+        "components": {
+          "On-base": 43.333333333333314,
+          "Power": 25.26315789473684,
+          "Contact": 38.125000000000014,
+          "Discipline": 34.83483483483483,
+          "Speed": 3.3333333333333335
+        },
+        "metaLine": "3RD YR / R/R",
+        "detailBadges": [
+          "C",
+          "3RD YR",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster",
+          "East Carolina cumulative stats"
+        ],
+        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/walker-barron/14529",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14545",
+        "name": "Braxton Tramel",
+        "school": "East Carolina",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "2ND YR",
+        "handedness": "S/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Braxton Tramel gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "2ND YR / S/R",
+        "detailBadges": [
+          "INF",
+          "2ND YR",
+          "S/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/braxton-tramel/14545",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14532",
+        "name": "Braden Burress",
+        "school": "East Carolina",
+        "role": "Hitter",
+        "position": "INF/OF",
+        "classYear": "2ND YR",
+        "handedness": "R/R",
+        "score": 77,
+        "fit": {
+          "label": "Pursue",
+          "className": "fit-pursue"
+        },
+        "summary": "Braden Burress profiles as a INF/OF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
+        "summaryMetrics": [
+          "AVG .361",
+          "OBP .460",
+          "SLG .482"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".361"
+          },
+          {
+            "label": "OBP",
+            "value": ".460"
+          },
+          {
+            "label": "SLG",
+            "value": ".482"
+          },
+          {
+            "label": "HR",
+            "value": "3"
+          },
+          {
+            "label": "RBI",
+            "value": "32"
+          },
+          {
+            "label": "SB",
+            "value": "12"
+          }
+        ],
+        "components": {
+          "On-base": 100,
+          "Power": 42.63157894736842,
+          "Contact": 88.12499999999999,
+          "Discipline": 100,
+          "Speed": 40
+        },
+        "metaLine": "2ND YR / R/R",
+        "detailBadges": [
+          "INF/OF",
+          "2ND YR",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster",
+          "East Carolina cumulative stats"
+        ],
+        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/braden-burress/14532",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-13912",
+        "name": "Nick Moran",
+        "school": "East Carolina",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "4TH YR",
+        "handedness": "L/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Nick Moran looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "4TH YR / L/L",
+        "detailBadges": [
+          "LHP",
+          "4TH YR",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/nick-moran/13912",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14133",
+        "name": "Blade Carver",
+        "school": "East Carolina",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "3RD YR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Blade Carver gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "3RD YR / N/A",
+        "detailBadges": [
+          "C",
+          "3RD YR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/blade-carver/14133",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14528",
+        "name": "Brayden Bachman",
+        "school": "East Carolina",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "1ST YR",
+        "handedness": "R/R",
+        "score": 32,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Brayden Bachman gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .250",
+          "OBP .340",
+          "SLG .455"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".250"
+          },
+          {
+            "label": "OBP",
+            "value": ".340"
+          },
+          {
+            "label": "SLG",
+            "value": ".455"
+          },
+          {
+            "label": "HR",
+            "value": "2"
+          },
+          {
+            "label": "RBI",
+            "value": "8"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 33.33333333333333,
+          "Power": 35.52631578947369,
+          "Contact": 18.75,
+          "Discipline": 61.11111111111111,
+          "Speed": 0
+        },
+        "metaLine": "1ST YR / R/R",
+        "detailBadges": [
+          "OF",
+          "1ST YR",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster",
+          "East Carolina cumulative stats"
+        ],
+        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/brayden-bachman/14528",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14547",
+        "name": "Jack Vogele",
+        "school": "East Carolina",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "3RD YR",
+        "handedness": "R/R",
+        "score": 5,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jack Vogele gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .171",
+          "OBP .286",
+          "SLG .220"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".171"
+          },
+          {
+            "label": "OBP",
+            "value": ".286"
+          },
+          {
+            "label": "SLG",
+            "value": ".220"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "6"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 3.3333333333333055,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 25.39682539682539,
+          "Speed": 0
+        },
+        "metaLine": "3RD YR / R/R",
+        "detailBadges": [
+          "OF",
+          "3RD YR",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster",
+          "East Carolina cumulative stats"
+        ],
+        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/jack-vogele/14547",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14136",
+        "name": "Joseph Webb",
+        "school": "East Carolina",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "4TH YR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Joseph Webb looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "4TH YR / R/R",
+        "detailBadges": [
+          "RHP",
+          "4TH YR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/joseph-webb/14136",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14137",
+        "name": "Nathan Wines",
+        "school": "East Carolina",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "1ST YR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Nathan Wines looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "1ST YR / R/R",
+        "detailBadges": [
+          "RHP",
+          "1ST YR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/nathan-wines/14137",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14138",
+        "name": "Gavin Van Kempen",
+        "school": "East Carolina",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "4TH YR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Gavin Van Kempen looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "4TH YR / R/R",
+        "detailBadges": [
+          "RHP",
+          "4TH YR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/gavin-van-kempen/14138",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14542",
+        "name": "Ethan Rose",
+        "school": "East Carolina",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "1ST YR",
+        "handedness": "R/R",
+        "score": 3,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Ethan Rose looks like a RHP option who limits runs.",
+        "summaryMetrics": [
+          "ERA 3.00",
+          "WHIP 1.64",
+          "K/9 5.5"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "3.00"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.64"
+          },
+          {
+            "label": "K/9",
+            "value": "5.5"
+          },
+          {
+            "label": "BB/9",
+            "value": "5.5"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "39.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 13.986013986013985,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "1ST YR / R/R",
+        "detailBadges": [
+          "RHP",
+          "1ST YR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster",
+          "East Carolina cumulative stats"
+        ],
+        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/ethan-rose/14542",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14540",
+        "name": "Luke Payne",
+        "school": "East Carolina",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "3RD YR",
+        "handedness": "R/R",
+        "score": 10,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Luke Payne gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 5.40",
+          "WHIP 1.62",
+          "K/9 8.9"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "5.40"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.62"
+          },
+          {
+            "label": "K/9",
+            "value": "8.9"
+          },
+          {
+            "label": "BB/9",
+            "value": "6.5"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.89"
+          },
+          {
+            "label": "IP",
+            "value": "33.3"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 44.63636363636363,
+          "Command": 7.5000000000000036,
+          "Damage suppression": 0
+        },
+        "metaLine": "3RD YR / R/R",
+        "detailBadges": [
+          "LHP",
+          "3RD YR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster",
+          "East Carolina cumulative stats"
+        ],
+        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/luke-payne/14540",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14549",
+        "name": "Colby Weber",
+        "school": "East Carolina",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "1ST YR",
+        "handedness": "N/A",
+        "score": 13,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Colby Weber gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 4.58",
+          "WHIP 1.37",
+          "K/9 8.7"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "4.58"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.37"
+          },
+          {
+            "label": "K/9",
+            "value": "8.7"
+          },
+          {
+            "label": "BB/9",
+            "value": "3.7"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.83"
+          },
+          {
+            "label": "IP",
+            "value": "19.7"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 42.681047765793515,
+          "Command": 27.500000000000004,
+          "Damage suppression": 0
+        },
+        "metaLine": "1ST YR / N/A",
+        "detailBadges": [
+          "RHP",
+          "1ST YR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster",
+          "East Carolina cumulative stats"
+        ],
+        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/colby-weber/14549",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14142",
+        "name": "Luke Craddock",
+        "school": "East Carolina",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "1ST YR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Luke Craddock gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "1ST YR / R/R",
+        "detailBadges": [
+          "INF",
+          "1ST YR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/luke-craddock/14142",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14535",
+        "name": "Sean Jenkins",
+        "school": "East Carolina",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "2ND YR",
+        "handedness": "R/R",
+        "score": 25,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Sean Jenkins looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
+        "summaryMetrics": [
+          "ERA 2.61",
+          "WHIP 1.14",
+          "K/9 11.8"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "2.61"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.14"
+          },
+          {
+            "label": "K/9",
+            "value": "11.8"
+          },
+          {
+            "label": "BB/9",
+            "value": "2.6"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.44"
+          },
+          {
+            "label": "IP",
+            "value": "41.3"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 70.52785923753665,
+          "Command": 70,
+          "Damage suppression": 0
+        },
+        "metaLine": "2ND YR / R/R",
+        "detailBadges": [
+          "RHP",
+          "2ND YR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster",
+          "East Carolina cumulative stats"
+        ],
+        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/sean-jenkins/14535",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14534",
+        "name": "Charlie Hoagland",
+        "school": "East Carolina",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "1ST YR",
+        "handedness": "R/L",
+        "score": 11,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Charlie Hoagland gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 5.32",
+          "WHIP 1.39",
+          "K/9 8.4"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "5.32"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.39"
+          },
+          {
+            "label": "K/9",
+            "value": "8.4"
+          },
+          {
+            "label": "BB/9",
+            "value": "4.2"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.76"
+          },
+          {
+            "label": "IP",
+            "value": "23.7"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 39.692701664532656,
+          "Command": 20,
+          "Damage suppression": 0
+        },
+        "metaLine": "1ST YR / R/L",
+        "detailBadges": [
+          "LHP",
+          "1ST YR",
+          "R/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster",
+          "East Carolina cumulative stats"
+        ],
+        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/charlie-hoagland/14534",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-13905",
+        "name": "Jack Herring",
+        "school": "East Carolina",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "4TH YR",
+        "handedness": "S/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jack Herring gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "4TH YR / S/L",
+        "detailBadges": [
+          "OF",
+          "4TH YR",
+          "S/L",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/jack-herring/13905",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14539",
+        "name": "Thomas Paxton",
+        "school": "East Carolina",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "3RD YR",
+        "handedness": "R/R",
+        "score": 21,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Thomas Paxton looks like a RHP option who limits runs and throws enough strikes and keeps traffic under control.",
+        "summaryMetrics": [
+          "ERA 2.31",
+          "WHIP 1.20",
+          "K/9 6.9"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "2.31"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.20"
+          },
+          {
+            "label": "K/9",
+            "value": "6.9"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.8"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "11.7"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 26.753246753246756,
+          "Command": 100,
+          "Damage suppression": 0
+        },
+        "metaLine": "3RD YR / R/R",
+        "detailBadges": [
+          "RHP",
+          "3RD YR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster",
+          "East Carolina cumulative stats"
+        ],
+        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/thomas-paxton/14539",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14533",
+        "name": "Chance Hall",
+        "school": "East Carolina",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "R-SO",
+        "handedness": "R/R",
+        "score": 23,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Chance Hall gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .333",
+          "OBP .333",
+          "SLG .333"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".333"
+          },
+          {
+            "label": "OBP",
+            "value": ".333"
+          },
+          {
+            "label": "SLG",
+            "value": ".333"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 29.44444444444444,
+          "Power": 3.421052631578951,
+          "Contact": 70.625,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "R-SO / R/R",
+        "detailBadges": [
+          "OF",
+          "R-SO",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster",
+          "East Carolina cumulative stats"
+        ],
+        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/chance-hall/14533",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14530",
+        "name": "Brett Beasley",
+        "school": "East Carolina",
+        "role": "Pitcher",
+        "position": "INF/RHP",
+        "classYear": "1ST YR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Brett Beasley looks like a INF/RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "1ST YR / R/R",
+        "detailBadges": [
+          "INF/RHP",
+          "1ST YR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/brett-beasley/14530",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14146",
+        "name": "Gavin Marley",
+        "school": "East Carolina",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "R-JR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Gavin Marley looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "R-JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "R-JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/gavin-marley/14146",
+        "espnAthleteId": ""
+      },
+      {
         "id": "florida-18088",
         "name": "Jaden Bastian",
         "school": "Florida",
@@ -42244,75 +45063,6 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "georgia-8947",
-        "name": "Jordan Stephens",
-        "school": "Georgia",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 10,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jordan Stephens gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 7.85",
-          "WHIP 1.80",
-          "K/9 8.8"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "7.85"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.80"
-          },
-          {
-            "label": "K/9",
-            "value": "8.8"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.9"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.98"
-          },
-          {
-            "label": "IP",
-            "value": "18.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 43.96694214876034,
-          "Command": 10,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Georgia Athletics roster",
-          "Georgia cumulative stats"
-        ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats",
-        "schoolSlug": "georgia",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/jordan-stephens/8947",
-        "espnAthleteId": ""
-      },
-      {
         "id": "georgia-10325",
         "name": "Jack Arcamone",
         "school": "Georgia",
@@ -42727,75 +45477,6 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "georgia-10330",
-        "name": "Scott Newman",
-        "school": "Georgia",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "R-JR",
-        "handedness": "R/L",
-        "score": 32,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Scott Newman profiles as a OF piece who controls at-bats.",
-        "summaryMetrics": [
-          "AVG .133",
-          "OBP .381",
-          "SLG .133"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".133"
-          },
-          {
-            "label": "OBP",
-            "value": ".381"
-          },
-          {
-            "label": "SLG",
-            "value": ".133"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "2"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 56.1111111111111,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 100,
-          "Speed": 0
-        },
-        "metaLine": "R-JR / R/L",
-        "detailBadges": [
-          "OF",
-          "R-JR",
-          "R/L",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Georgia Athletics roster",
-          "Georgia cumulative stats"
-        ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats",
-        "schoolSlug": "georgia",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/scott-newman/10330",
-        "espnAthleteId": ""
-      },
-      {
         "id": "georgia-10331",
         "name": "Kenny Ishikawa",
         "school": "Georgia",
@@ -42862,75 +45543,6 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "schoolSlug": "georgia",
         "compositeRole": "Two-Way",
         "profileUrl": "https://georgiadogs.com/sports/baseball/roster/kenny-ishikawa/10331",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "georgia-10332",
-        "name": "Ty Peeples",
-        "school": "Georgia",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "FR",
-        "handedness": "L/R",
-        "score": 60,
-        "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
-        },
-        "summary": "Ty Peeples profiles as a OF piece who gets on base at a high clip and controls at-bats.",
-        "summaryMetrics": [
-          "AVG .294",
-          "OBP .520",
-          "SLG .412"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".294"
-          },
-          {
-            "label": "OBP",
-            "value": ".520"
-          },
-          {
-            "label": "SLG",
-            "value": ".412"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "3"
-          },
-          {
-            "label": "SB",
-            "value": "3"
-          }
-        ],
-        "components": {
-          "On-base": 100,
-          "Power": 24.21052631578947,
-          "Contact": 46.249999999999986,
-          "Discipline": 88.88888888888889,
-          "Speed": 10
-        },
-        "metaLine": "FR / L/R",
-        "detailBadges": [
-          "OF",
-          "FR",
-          "L/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Georgia Athletics roster",
-          "Georgia cumulative stats"
-        ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats",
-        "schoolSlug": "georgia",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/ty-peeples/10332",
         "espnAthleteId": ""
       },
       {
@@ -43069,75 +45681,6 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "schoolSlug": "georgia",
         "compositeRole": "Pitcher",
         "profileUrl": "https://georgiadogs.com/sports/baseball/roster/teddy-brennan/10333",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "georgia-8953",
-        "name": "TL Saxon",
-        "school": "Georgia",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "R-JR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "TL Saxon gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .000",
-          "OBP .000",
-          "SLG .000"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".000"
-          },
-          {
-            "label": "OBP",
-            "value": ".000"
-          },
-          {
-            "label": "SLG",
-            "value": ".000"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "R-JR / R/R",
-        "detailBadges": [
-          "INF",
-          "R-JR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Georgia Athletics roster",
-          "Georgia cumulative stats"
-        ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats",
-        "schoolSlug": "georgia",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/tl-saxon/8953",
         "espnAthleteId": ""
       },
       {
@@ -43482,75 +46025,6 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "schoolSlug": "georgia",
         "compositeRole": "Pitcher",
         "profileUrl": "https://georgiadogs.com/sports/baseball/roster/cole-johnson/10338",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "georgia-10339",
-        "name": "Dylan Wood",
-        "school": "Georgia",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 17,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Dylan Wood looks like a RHP option who limits runs and misses bats.",
-        "summaryMetrics": [
-          "ERA 3.86",
-          "WHIP 2.79",
-          "K/9 13.5"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.86"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.79"
-          },
-          {
-            "label": "K/9",
-            "value": "13.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "17.4"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "4.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 86.36363636363636,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Georgia Athletics roster",
-          "Georgia cumulative stats"
-        ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats",
-        "schoolSlug": "georgia",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/dylan-wood/10339",
         "espnAthleteId": ""
       },
       {
@@ -44106,75 +46580,6 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "georgia-8915",
-        "name": "Luke Wiltrakis",
-        "school": "Georgia",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "R-SO",
-        "handedness": "R/R",
-        "score": 4,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Luke Wiltrakis gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 12.00",
-          "WHIP 2.33",
-          "K/9 6.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "12.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.33"
-          },
-          {
-            "label": "K/9",
-            "value": "6.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "21.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "3.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 18.181818181818183,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "R-SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Georgia Athletics roster",
-          "Georgia cumulative stats"
-        ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats",
-        "schoolSlug": "georgia",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/luke-wiltrakis/8915",
-        "espnAthleteId": ""
-      },
-      {
         "id": "georgia-10346",
         "name": "Cole Koniarsky",
         "school": "Georgia",
@@ -44241,75 +46646,6 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "schoolSlug": "georgia",
         "compositeRole": "Hitter",
         "profileUrl": "https://georgiadogs.com/sports/baseball/roster/cole-koniarsky/10346",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "georgia-8967",
-        "name": "Bradley Stewart",
-        "school": "Georgia",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "R-SO",
-        "handedness": "L/L",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Bradley Stewart looks like a LHP option who limits runs and throws enough strikes and keeps traffic under control.",
-        "summaryMetrics": [
-          "ERA 0.00",
-          "WHIP 0.00",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "0.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "0.00"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-SO / L/L",
-        "detailBadges": [
-          "LHP",
-          "R-SO",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Georgia Athletics roster",
-          "Georgia cumulative stats"
-        ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats",
-        "schoolSlug": "georgia",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/bradley-stewart/8967",
         "espnAthleteId": ""
       },
       {
@@ -44518,75 +46854,6 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "georgia-8970",
-        "name": "Lucas Morici",
-        "school": "Georgia",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Lucas Morici gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 9.00",
-          "WHIP 2.00",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "9.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.00"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "18.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "1.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Georgia Athletics roster",
-          "Georgia cumulative stats"
-        ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats",
-        "schoolSlug": "georgia",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/lucas-morici/8970",
-        "espnAthleteId": ""
-      },
-      {
         "id": "georgia-10348",
         "name": "Mason Kosowick",
         "school": "Georgia",
@@ -44653,6 +46920,414 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "schoolSlug": "georgia",
         "compositeRole": "Pitcher",
         "profileUrl": "https://georgiadogs.com/sports/baseball/roster/mason-kosowick/10348",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "grand-canyon-14833",
+        "name": "Camden Bates",
+        "school": "Grand Canyon",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "SR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Camden Bates gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "SR / N/A",
+        "detailBadges": [
+          "INF",
+          "SR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Grand Canyon Athletics roster"
+        ],
+        "sourceSummary": "Grand Canyon Athletics roster",
+        "schoolSlug": "grand-canyon",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gculopes.com/sports/baseball/roster/camden-bates/14833",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "grand-canyon-14829",
+        "name": "JT Guerrero",
+        "school": "Grand Canyon",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "JT Guerrero looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / N/A",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Grand Canyon Athletics roster"
+        ],
+        "sourceSummary": "Grand Canyon Athletics roster",
+        "schoolSlug": "grand-canyon",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gculopes.com/sports/baseball/roster/jt-guerrero/14829",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "grand-canyon-14831",
+        "name": "Austin Owens",
+        "school": "Grand Canyon",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "SO",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Austin Owens gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "SO / N/A",
+        "detailBadges": [
+          "INF",
+          "SO",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Grand Canyon Athletics roster"
+        ],
+        "sourceSummary": "Grand Canyon Athletics roster",
+        "schoolSlug": "grand-canyon",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gculopes.com/sports/baseball/roster/austin-owens/14831",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "grand-canyon-14951",
+        "name": "Austin Matranga",
+        "school": "Grand Canyon",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "SR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Austin Matranga gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "SR / N/A",
+        "detailBadges": [
+          "INF",
+          "SR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Grand Canyon Athletics roster"
+        ],
+        "sourceSummary": "Grand Canyon Athletics roster",
+        "schoolSlug": "grand-canyon",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gculopes.com/sports/baseball/roster/austin-matranga/14951",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "grand-canyon-14293",
+        "name": "Aspen Alexander",
+        "school": "Grand Canyon",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "R-FR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Aspen Alexander gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "R-FR / N/A",
+        "detailBadges": [
+          "INF",
+          "R-FR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Grand Canyon Athletics roster"
+        ],
+        "sourceSummary": "Grand Canyon Athletics roster",
+        "schoolSlug": "grand-canyon",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gculopes.com/sports/baseball/roster/aspen-alexander/14293",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "grand-canyon-14851",
+        "name": "Kolt Myers",
+        "school": "Grand Canyon",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "SO",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Kolt Myers gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "INF",
+          "SO",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Grand Canyon Athletics roster"
+        ],
+        "sourceSummary": "Grand Canyon Athletics roster",
+        "schoolSlug": "grand-canyon",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gculopes.com/sports/baseball/roster/kolt-myers/14851",
         "espnAthleteId": ""
       },
       {
@@ -44860,74 +47535,6 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "grand-canyon-14825",
-        "name": "Carson Ohland",
-        "school": "Grand Canyon",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "SR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Carson Ohland gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "OF",
-          "SR",
-          "N/A",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Grand Canyon Athletics roster"
-        ],
-        "sourceSummary": "Grand Canyon Athletics roster",
-        "schoolSlug": "grand-canyon",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://gculopes.com/sports/baseball/roster/carson-ohland/14825",
-        "espnAthleteId": ""
-      },
-      {
         "id": "grand-canyon-14826",
         "name": "Billy Gregory",
         "school": "Grand Canyon",
@@ -44993,1230 +47600,6 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "schoolSlug": "grand-canyon",
         "compositeRole": "Pitcher",
         "profileUrl": "https://gculopes.com/sports/baseball/roster/billy-gregory/14826",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "grand-canyon-14827",
-        "name": "Griffin Cameron",
-        "school": "Grand Canyon",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "SR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Griffin Cameron gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "OF",
-          "SR",
-          "N/A",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Grand Canyon Athletics roster"
-        ],
-        "sourceSummary": "Grand Canyon Athletics roster",
-        "schoolSlug": "grand-canyon",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://gculopes.com/sports/baseball/roster/griffin-cameron/14827",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "grand-canyon-14828",
-        "name": "Brock Toney",
-        "school": "Grand Canyon",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "R-SR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Brock Toney looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-SR / N/A",
-        "detailBadges": [
-          "RHP",
-          "R-SR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Grand Canyon Athletics roster"
-        ],
-        "sourceSummary": "Grand Canyon Athletics roster",
-        "schoolSlug": "grand-canyon",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gculopes.com/sports/baseball/roster/brock-toney/14828",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "grand-canyon-14829",
-        "name": "JT Guerrero",
-        "school": "Grand Canyon",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "JT Guerrero looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Grand Canyon Athletics roster"
-        ],
-        "sourceSummary": "Grand Canyon Athletics roster",
-        "schoolSlug": "grand-canyon",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gculopes.com/sports/baseball/roster/jt-guerrero/14829",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "grand-canyon-14293",
-        "name": "Aspen Alexander",
-        "school": "Grand Canyon",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "R-FR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Aspen Alexander gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "R-FR / N/A",
-        "detailBadges": [
-          "INF",
-          "R-FR",
-          "N/A",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Grand Canyon Athletics roster"
-        ],
-        "sourceSummary": "Grand Canyon Athletics roster",
-        "schoolSlug": "grand-canyon",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://gculopes.com/sports/baseball/roster/aspen-alexander/14293",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "grand-canyon-14831",
-        "name": "Austin Owens",
-        "school": "Grand Canyon",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SO",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Austin Owens gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "INF",
-          "SO",
-          "N/A",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Grand Canyon Athletics roster"
-        ],
-        "sourceSummary": "Grand Canyon Athletics roster",
-        "schoolSlug": "grand-canyon",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://gculopes.com/sports/baseball/roster/austin-owens/14831",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "grand-canyon-14298",
-        "name": "JT Lewis",
-        "school": "Grand Canyon",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "R-FR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "JT Lewis looks like a LHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-FR / N/A",
-        "detailBadges": [
-          "LHP",
-          "R-FR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Grand Canyon Athletics roster"
-        ],
-        "sourceSummary": "Grand Canyon Athletics roster",
-        "schoolSlug": "grand-canyon",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gculopes.com/sports/baseball/roster/jt-lewis/14298",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "grand-canyon-14833",
-        "name": "Camden Bates",
-        "school": "Grand Canyon",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Camden Bates gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "INF",
-          "SR",
-          "N/A",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Grand Canyon Athletics roster"
-        ],
-        "sourceSummary": "Grand Canyon Athletics roster",
-        "schoolSlug": "grand-canyon",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://gculopes.com/sports/baseball/roster/camden-bates/14833",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "grand-canyon-14834",
-        "name": "Tanner Johns",
-        "school": "Grand Canyon",
-        "role": "Hitter",
-        "position": "OF/1B",
-        "classYear": "SO",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Tanner Johns gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "OF/1B",
-          "SO",
-          "N/A",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Grand Canyon Athletics roster"
-        ],
-        "sourceSummary": "Grand Canyon Athletics roster",
-        "schoolSlug": "grand-canyon",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://gculopes.com/sports/baseball/roster/tanner-johns/14834",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "grand-canyon-14835",
-        "name": "Andrew Cohen",
-        "school": "Grand Canyon",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Andrew Cohen looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Grand Canyon Athletics roster"
-        ],
-        "sourceSummary": "Grand Canyon Athletics roster",
-        "schoolSlug": "grand-canyon",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gculopes.com/sports/baseball/roster/andrew-cohen/14835",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "grand-canyon-14855",
-        "name": "Freddy Beruvides Jr.",
-        "school": "Grand Canyon",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "SR",
-        "handedness": "L/L",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Freddy Beruvides Jr. looks like a LHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / L/L",
-        "detailBadges": [
-          "LHP",
-          "SR",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Grand Canyon Athletics roster"
-        ],
-        "sourceSummary": "Grand Canyon Athletics roster",
-        "schoolSlug": "grand-canyon",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gculopes.com/sports/baseball/roster/freddy-beruvides-jr/14855",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "grand-canyon-14857",
-        "name": "Chris Daniels",
-        "school": "Grand Canyon",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Chris Daniels gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "INF",
-          "SO",
-          "R/R",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Grand Canyon Athletics roster"
-        ],
-        "sourceSummary": "Grand Canyon Athletics roster",
-        "schoolSlug": "grand-canyon",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://gculopes.com/sports/baseball/roster/chris-daniels/14857",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "grand-canyon-14860",
-        "name": "Dillon DeSpain",
-        "school": "Grand Canyon",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Dillon DeSpain looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Grand Canyon Athletics roster"
-        ],
-        "sourceSummary": "Grand Canyon Athletics roster",
-        "schoolSlug": "grand-canyon",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gculopes.com/sports/baseball/roster/dillon-despain/14860",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "grand-canyon-14842",
-        "name": "Dawson Downs",
-        "school": "Grand Canyon",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SO",
-        "handedness": "L/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Dawson Downs gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "SO / L/R",
-        "detailBadges": [
-          "INF",
-          "SO",
-          "L/R",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Grand Canyon Athletics roster"
-        ],
-        "sourceSummary": "Grand Canyon Athletics roster",
-        "schoolSlug": "grand-canyon",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://gculopes.com/sports/baseball/roster/dawson-downs/14842",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "grand-canyon-14859",
-        "name": "LJ Drummond",
-        "school": "Grand Canyon",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "SO",
-        "handedness": "B/L",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "LJ Drummond looks like a LHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / B/L",
-        "detailBadges": [
-          "LHP",
-          "SO",
-          "B/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Grand Canyon Athletics roster"
-        ],
-        "sourceSummary": "Grand Canyon Athletics roster",
-        "schoolSlug": "grand-canyon",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gculopes.com/sports/baseball/roster/lj-drummond/14859",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "grand-canyon-14853",
-        "name": "Jake Echols",
-        "school": "Grand Canyon",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jake Echols looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Grand Canyon Athletics roster"
-        ],
-        "sourceSummary": "Grand Canyon Athletics roster",
-        "schoolSlug": "grand-canyon",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gculopes.com/sports/baseball/roster/jake-echols/14853",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "grand-canyon-14841",
-        "name": "Brady Francisco",
-        "school": "Grand Canyon",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Brady Francisco gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "C",
-          "JR",
-          "R/R",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Grand Canyon Athletics roster"
-        ],
-        "sourceSummary": "Grand Canyon Athletics roster",
-        "schoolSlug": "grand-canyon",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://gculopes.com/sports/baseball/roster/brady-francisco/14841",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "grand-canyon-14844",
-        "name": "Ryan Geraghty",
-        "school": "Grand Canyon",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Ryan Geraghty looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Grand Canyon Athletics roster"
-        ],
-        "sourceSummary": "Grand Canyon Athletics roster",
-        "schoolSlug": "grand-canyon",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gculopes.com/sports/baseball/roster/ryan-geraghty/14844",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "grand-canyon-14858",
-        "name": "Mason Goodson",
-        "school": "Grand Canyon",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Mason Goodson looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Grand Canyon Athletics roster"
-        ],
-        "sourceSummary": "Grand Canyon Athletics roster",
-        "schoolSlug": "grand-canyon",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gculopes.com/sports/baseball/roster/mason-goodson/14858",
         "espnAthleteId": ""
       },
       {
@@ -46288,155 +47671,19 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "grand-canyon-14845",
-        "name": "Andrew Ildefonso",
-        "school": "Grand Canyon",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Andrew Ildefonso gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "OF",
-          "JR",
-          "R/R",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Grand Canyon Athletics roster"
-        ],
-        "sourceSummary": "Grand Canyon Athletics roster",
-        "schoolSlug": "grand-canyon",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://gculopes.com/sports/baseball/roster/andrew-ildefonso/14845",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "grand-canyon-14846",
-        "name": "Samuel Jenkins",
-        "school": "Grand Canyon",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Samuel Jenkins gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "OF",
-          "SO",
-          "R/R",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Grand Canyon Athletics roster"
-        ],
-        "sourceSummary": "Grand Canyon Athletics roster",
-        "schoolSlug": "grand-canyon",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://gculopes.com/sports/baseball/roster/samuel-jenkins/14846",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "grand-canyon-14848",
-        "name": "Jake Kulikowski",
+        "id": "grand-canyon-14827",
+        "name": "Griffin Cameron",
         "school": "Grand Canyon",
         "role": "Hitter",
         "position": "OF",
         "classYear": "SR",
-        "handedness": "L/L",
+        "handedness": "N/A",
         "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Jake Kulikowski gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Griffin Cameron gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG --",
           "OBP --",
@@ -46475,11 +47722,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "SR / L/L",
+        "metaLine": "SR / N/A",
         "detailBadges": [
           "OF",
           "SR",
-          "L/L",
+          "N/A",
           "Rostered"
         ],
         "leaderboards": [
@@ -46488,23 +47735,91 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "sourceSummary": "Grand Canyon Athletics roster",
         "schoolSlug": "grand-canyon",
         "compositeRole": "Rostered",
-        "profileUrl": "https://gculopes.com/sports/baseball/roster/jake-kulikowski/14848",
+        "profileUrl": "https://gculopes.com/sports/baseball/roster/griffin-cameron/14827",
         "espnAthleteId": ""
       },
       {
-        "id": "grand-canyon-14854",
-        "name": "Oisin Lee",
+        "id": "grand-canyon-14825",
+        "name": "Carson Ohland",
         "school": "Grand Canyon",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "R/R",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "SR",
+        "handedness": "N/A",
         "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Oisin Lee looks like a RHP option who throws enough strikes.",
+        "summary": "Carson Ohland gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "SR / N/A",
+        "detailBadges": [
+          "OF",
+          "SR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Grand Canyon Athletics roster"
+        ],
+        "sourceSummary": "Grand Canyon Athletics roster",
+        "schoolSlug": "grand-canyon",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gculopes.com/sports/baseball/roster/carson-ohland/14825",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "grand-canyon-14847",
+        "name": "Mason Russell",
+        "school": "Grand Canyon",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "SO",
+        "handedness": "B/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Mason Russell looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -46543,224 +47858,20 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "JR / R/R",
+        "metaLine": "SO / B/L",
         "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Grand Canyon Athletics roster"
-        ],
-        "sourceSummary": "Grand Canyon Athletics roster",
-        "schoolSlug": "grand-canyon",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gculopes.com/sports/baseball/roster/oisin-lee/14854",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "grand-canyon-14849",
-        "name": "Ky McGary",
-        "school": "Grand Canyon",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Ky McGary gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "OF",
-          "JR",
-          "R/R",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Grand Canyon Athletics roster"
-        ],
-        "sourceSummary": "Grand Canyon Athletics roster",
-        "schoolSlug": "grand-canyon",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://gculopes.com/sports/baseball/roster/ky-mcgary/14849",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "grand-canyon-14840",
-        "name": "Justin Morales",
-        "school": "Grand Canyon",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Justin Morales looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Grand Canyon Athletics roster"
-        ],
-        "sourceSummary": "Grand Canyon Athletics roster",
-        "schoolSlug": "grand-canyon",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gculopes.com/sports/baseball/roster/justin-morales/14840",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "grand-canyon-14851",
-        "name": "Kolt Myers",
-        "school": "Grand Canyon",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Kolt Myers gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "INF",
+          "LHP",
           "SO",
-          "R/R",
-          "Rostered"
+          "B/L",
+          "Pitcher"
         ],
         "leaderboards": [
           "Grand Canyon Athletics roster"
         ],
         "sourceSummary": "Grand Canyon Athletics roster",
         "schoolSlug": "grand-canyon",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://gculopes.com/sports/baseball/roster/kolt-myers/14851",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gculopes.com/sports/baseball/roster/mason-russell/14847",
         "espnAthleteId": ""
       },
       {
@@ -46832,6 +47943,210 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "espnAthleteId": ""
       },
       {
+        "id": "grand-canyon-14828",
+        "name": "Brock Toney",
+        "school": "Grand Canyon",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "R-SR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Brock Toney looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "R-SR / N/A",
+        "detailBadges": [
+          "RHP",
+          "R-SR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Grand Canyon Athletics roster"
+        ],
+        "sourceSummary": "Grand Canyon Athletics roster",
+        "schoolSlug": "grand-canyon",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gculopes.com/sports/baseball/roster/brock-toney/14828",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "grand-canyon-14844",
+        "name": "Ryan Geraghty",
+        "school": "Grand Canyon",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Ryan Geraghty looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Grand Canyon Athletics roster"
+        ],
+        "sourceSummary": "Grand Canyon Athletics roster",
+        "schoolSlug": "grand-canyon",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gculopes.com/sports/baseball/roster/ryan-geraghty/14844",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "grand-canyon-14857",
+        "name": "Chris Daniels",
+        "school": "Grand Canyon",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "SO",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Chris Daniels gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "INF",
+          "SO",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Grand Canyon Athletics roster"
+        ],
+        "sourceSummary": "Grand Canyon Athletics roster",
+        "schoolSlug": "grand-canyon",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gculopes.com/sports/baseball/roster/chris-daniels/14857",
+        "espnAthleteId": ""
+      },
+      {
         "id": "grand-canyon-14838",
         "name": "Michael Revell",
         "school": "Grand Canyon",
@@ -46900,87 +48215,19 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "grand-canyon-14843",
-        "name": "Sam Richardson",
-        "school": "Grand Canyon",
-        "role": "Hitter",
-        "position": "1B/OF",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Sam Richardson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "1B/OF",
-          "SO",
-          "R/R",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Grand Canyon Athletics roster"
-        ],
-        "sourceSummary": "Grand Canyon Athletics roster",
-        "schoolSlug": "grand-canyon",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://gculopes.com/sports/baseball/roster/sam-richardson/14843",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "grand-canyon-14847",
-        "name": "Mason Russell",
+        "id": "grand-canyon-14835",
+        "name": "Andrew Cohen",
         "school": "Grand Canyon",
         "role": "Pitcher",
-        "position": "LHP",
+        "position": "RHP",
         "classYear": "SO",
-        "handedness": "B/L",
+        "handedness": "N/A",
         "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Mason Russell looks like a LHP option who throws enough strikes.",
+        "summary": "Andrew Cohen looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -47019,11 +48266,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SO / B/L",
+        "metaLine": "SO / N/A",
         "detailBadges": [
-          "LHP",
+          "RHP",
           "SO",
-          "B/L",
+          "N/A",
           "Pitcher"
         ],
         "leaderboards": [
@@ -47032,7 +48279,75 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "sourceSummary": "Grand Canyon Athletics roster",
         "schoolSlug": "grand-canyon",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://gculopes.com/sports/baseball/roster/mason-russell/14847",
+        "profileUrl": "https://gculopes.com/sports/baseball/roster/andrew-cohen/14835",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "grand-canyon-14834",
+        "name": "Tanner Johns",
+        "school": "Grand Canyon",
+        "role": "Hitter",
+        "position": "OF/1B",
+        "classYear": "SO",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Tanner Johns gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "SO / N/A",
+        "detailBadges": [
+          "OF/1B",
+          "SO",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Grand Canyon Athletics roster"
+        ],
+        "sourceSummary": "Grand Canyon Athletics roster",
+        "schoolSlug": "grand-canyon",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gculopes.com/sports/baseball/roster/tanner-johns/14834",
         "espnAthleteId": ""
       },
       {
@@ -47172,6 +48487,482 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "espnAthleteId": ""
       },
       {
+        "id": "grand-canyon-14846",
+        "name": "Samuel Jenkins",
+        "school": "Grand Canyon",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "SO",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Samuel Jenkins gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "OF",
+          "SO",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Grand Canyon Athletics roster"
+        ],
+        "sourceSummary": "Grand Canyon Athletics roster",
+        "schoolSlug": "grand-canyon",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gculopes.com/sports/baseball/roster/samuel-jenkins/14846",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "grand-canyon-14855",
+        "name": "Freddy Beruvides Jr.",
+        "school": "Grand Canyon",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "SR",
+        "handedness": "L/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Freddy Beruvides Jr. looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / L/L",
+        "detailBadges": [
+          "LHP",
+          "SR",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Grand Canyon Athletics roster"
+        ],
+        "sourceSummary": "Grand Canyon Athletics roster",
+        "schoolSlug": "grand-canyon",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gculopes.com/sports/baseball/roster/freddy-beruvides-jr/14855",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "grand-canyon-14843",
+        "name": "Sam Richardson",
+        "school": "Grand Canyon",
+        "role": "Hitter",
+        "position": "1B/OF",
+        "classYear": "SO",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Sam Richardson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "1B/OF",
+          "SO",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Grand Canyon Athletics roster"
+        ],
+        "sourceSummary": "Grand Canyon Athletics roster",
+        "schoolSlug": "grand-canyon",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gculopes.com/sports/baseball/roster/sam-richardson/14843",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "grand-canyon-14845",
+        "name": "Andrew Ildefonso",
+        "school": "Grand Canyon",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Andrew Ildefonso gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "OF",
+          "JR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Grand Canyon Athletics roster"
+        ],
+        "sourceSummary": "Grand Canyon Athletics roster",
+        "schoolSlug": "grand-canyon",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gculopes.com/sports/baseball/roster/andrew-ildefonso/14845",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "grand-canyon-14854",
+        "name": "Oisin Lee",
+        "school": "Grand Canyon",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Oisin Lee looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Grand Canyon Athletics roster"
+        ],
+        "sourceSummary": "Grand Canyon Athletics roster",
+        "schoolSlug": "grand-canyon",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gculopes.com/sports/baseball/roster/oisin-lee/14854",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "grand-canyon-14858",
+        "name": "Mason Goodson",
+        "school": "Grand Canyon",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Mason Goodson looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Grand Canyon Athletics roster"
+        ],
+        "sourceSummary": "Grand Canyon Athletics roster",
+        "schoolSlug": "grand-canyon",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gculopes.com/sports/baseball/roster/mason-goodson/14858",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "grand-canyon-14842",
+        "name": "Dawson Downs",
+        "school": "Grand Canyon",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "SO",
+        "handedness": "L/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Dawson Downs gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "SO / L/R",
+        "detailBadges": [
+          "INF",
+          "SO",
+          "L/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Grand Canyon Athletics roster"
+        ],
+        "sourceSummary": "Grand Canyon Athletics roster",
+        "schoolSlug": "grand-canyon",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gculopes.com/sports/baseball/roster/dawson-downs/14842",
+        "espnAthleteId": ""
+      },
+      {
         "id": "grand-canyon-14837",
         "name": "Reece Van Devander",
         "school": "Grand Canyon",
@@ -47240,6 +49031,414 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "espnAthleteId": ""
       },
       {
+        "id": "grand-canyon-14841",
+        "name": "Brady Francisco",
+        "school": "Grand Canyon",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Brady Francisco gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "C",
+          "JR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Grand Canyon Athletics roster"
+        ],
+        "sourceSummary": "Grand Canyon Athletics roster",
+        "schoolSlug": "grand-canyon",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gculopes.com/sports/baseball/roster/brady-francisco/14841",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "grand-canyon-14859",
+        "name": "LJ Drummond",
+        "school": "Grand Canyon",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "SO",
+        "handedness": "B/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "LJ Drummond looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SO / B/L",
+        "detailBadges": [
+          "LHP",
+          "SO",
+          "B/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Grand Canyon Athletics roster"
+        ],
+        "sourceSummary": "Grand Canyon Athletics roster",
+        "schoolSlug": "grand-canyon",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gculopes.com/sports/baseball/roster/lj-drummond/14859",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "grand-canyon-14298",
+        "name": "JT Lewis",
+        "school": "Grand Canyon",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "R-FR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "JT Lewis looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "R-FR / N/A",
+        "detailBadges": [
+          "LHP",
+          "R-FR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Grand Canyon Athletics roster"
+        ],
+        "sourceSummary": "Grand Canyon Athletics roster",
+        "schoolSlug": "grand-canyon",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gculopes.com/sports/baseball/roster/jt-lewis/14298",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "grand-canyon-14840",
+        "name": "Justin Morales",
+        "school": "Grand Canyon",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Justin Morales looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Grand Canyon Athletics roster"
+        ],
+        "sourceSummary": "Grand Canyon Athletics roster",
+        "schoolSlug": "grand-canyon",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gculopes.com/sports/baseball/roster/justin-morales/14840",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "grand-canyon-14849",
+        "name": "Ky McGary",
+        "school": "Grand Canyon",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Ky McGary gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "OF",
+          "JR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Grand Canyon Athletics roster"
+        ],
+        "sourceSummary": "Grand Canyon Athletics roster",
+        "schoolSlug": "grand-canyon",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gculopes.com/sports/baseball/roster/ky-mcgary/14849",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "grand-canyon-14848",
+        "name": "Jake Kulikowski",
+        "school": "Grand Canyon",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "SR",
+        "handedness": "L/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jake Kulikowski gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "SR / L/L",
+        "detailBadges": [
+          "OF",
+          "SR",
+          "L/L",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Grand Canyon Athletics roster"
+        ],
+        "sourceSummary": "Grand Canyon Athletics roster",
+        "schoolSlug": "grand-canyon",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gculopes.com/sports/baseball/roster/jake-kulikowski/14848",
+        "espnAthleteId": ""
+      },
+      {
         "id": "grand-canyon-14839",
         "name": "Henry Vedder",
         "school": "Grand Canyon",
@@ -47305,6 +49504,142 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "schoolSlug": "grand-canyon",
         "compositeRole": "Pitcher",
         "profileUrl": "https://gculopes.com/sports/baseball/roster/henry-vedder/14839",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "grand-canyon-14853",
+        "name": "Jake Echols",
+        "school": "Grand Canyon",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jake Echols looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Grand Canyon Athletics roster"
+        ],
+        "sourceSummary": "Grand Canyon Athletics roster",
+        "schoolSlug": "grand-canyon",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gculopes.com/sports/baseball/roster/jake-echols/14853",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "grand-canyon-14860",
+        "name": "Dillon DeSpain",
+        "school": "Grand Canyon",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Dillon DeSpain looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Grand Canyon Athletics roster"
+        ],
+        "sourceSummary": "Grand Canyon Athletics roster",
+        "schoolSlug": "grand-canyon",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gculopes.com/sports/baseball/roster/dillon-despain/14860",
         "espnAthleteId": ""
       },
       {
