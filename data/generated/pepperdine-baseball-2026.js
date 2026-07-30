@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.pepperdine2026 = {
-  "generatedAt": "2026-07-29T11:06:35.247Z",
+  "generatedAt": "2026-07-30T10:56:59.096Z",
   "season": 2026,
   "school": {
     "slug": "pepperdine",

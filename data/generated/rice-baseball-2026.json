@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T11:06:41.937Z",
+  "generatedAt": "2026-07-30T10:57:04.740Z",
   "season": 2026,
   "school": {
     "slug": "rice",
@@ -24,12 +24,12 @@
     "ncaa": "NCAA school index"
   },
   "coverage": {
-    "rosterPlayers": 27,
+    "rosterPlayers": 28,
     "espnRosterPlayers": 0,
-    "playersWithHittingStats": 10,
+    "playersWithHittingStats": 11,
     "playersWithPitchingStats": 13,
-    "playersWithFieldingStats": 23,
-    "mergedPlayersWithAnyStats": 23,
+    "playersWithFieldingStats": 24,
+    "mergedPlayersWithAnyStats": 24,
     "matchedEspnPlayers": 0,
     "unmatchedStatRows": {
       "hitting": [
@@ -39,7 +39,6 @@
         "27",
         "18",
         "9",
-        "28",
         "13"
       ],
       "pitching": [
@@ -55,7 +54,6 @@
         "13",
         "31",
         "12",
-        "28",
         "18",
         "2",
         "38"
@@ -2251,6 +2249,151 @@
       }
     },
     {
+      "id": "rice-11372",
+      "schoolSlug": "rice",
+      "school": "Rice",
+      "schoolLongName": "Rice University",
+      "name": "Landon West",
+      "normalizedName": "landon west",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "C/1B",
+      "positionLong": "",
+      "classYear": "SR",
+      "handedness": "N/A",
+      "jersey": "28",
+      "hometown": "Katy, Texas",
+      "highSchool": "Tompkins",
+      "previousSchool": "",
+      "hometownHighSchool": "Katy, Texas / Tompkins",
+      "profileUrl": "https://riceowls.com/sports/baseball/roster/landon-west/11372",
+      "imageUrl": "https://riceowls.com/images/2023/9/23/BSB_WEST_LANDON_28_20230906_RICE_ATHLETIC_HEADSHOTS_MLB_0833.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11372",
+      "sources": [
+        "Rice Athletics roster",
+        "Rice cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "11372",
+        "name": "Landon West",
+        "normalizedName": "landon west",
+        "jersey": "28",
+        "profileUrl": "https://riceowls.com/sports/baseball/roster/landon-west/11372",
+        "imageUrl": "https://riceowls.com/images/2023/9/23/BSB_WEST_LANDON_28_20230906_RICE_ATHLETIC_HEADSHOTS_MLB_0833.jpg",
+        "gamesPlayed": 28,
+        "gamesStarted": 7,
+        "battingAverage": 0.143,
+        "onBasePercentage": 0.265,
+        "sluggingPercentage": 0.19,
+        "ops": 0.455,
+        "atBats": 42,
+        "runs": 4,
+        "hits": 6,
+        "doubles": 0,
+        "triples": 1,
+        "homeRuns": 0,
+        "runsBattedIn": 3,
+        "totalBases": 8,
+        "walks": 6,
+        "hitByPitch": 1,
+        "strikeouts": 15,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 0,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 0,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 0,
+        "putouts": 51,
+        "assists": 0,
+        "errors": 1,
+        "plateAppearances": 49,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "11372",
+        "name": "Landon West",
+        "normalizedName": "landon west",
+        "jersey": "28",
+        "profileUrl": "https://riceowls.com/sports/baseball/roster/landon-west/11372",
+        "imageUrl": "https://riceowls.com/images/2023/9/23/BSB_WEST_LANDON_28_20230906_RICE_ATHLETIC_HEADSHOTS_MLB_0833.jpg",
+        "gamesPlayed": 17,
+        "gamesStarted": 5,
+        "putouts": 51,
+        "assists": 7,
+        "errors": 1,
+        "fieldingPercentage": 0.983,
+        "doublePlays": 2,
+        "stolenBasesAgainst": 8,
+        "caughtStealingBy": 2,
+        "stolenBasesPercentage": null,
+        "passedBalls": 1,
+        "catchersInterference": 0,
+        "totalChances": 59
+      },
+      "evaluation": {
+        "score": 3,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 22.22222222222222,
+          "Speed": 0
+        },
+        "summary": "Landon West gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .143",
+          "OBP .265",
+          "SLG .190"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".143"
+          },
+          {
+            "label": "OBP",
+            "value": ".265"
+          },
+          {
+            "label": "SLG",
+            "value": ".190"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "3"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "SR / N/A",
+        "detailBadges": [
+          "C/1B",
+          "SR",
+          "N/A",
+          "Hitter"
+        ],
+        "sourceSummary": "Rice Athletics roster + Rice cumulative stats"
+      }
+    },
+    {
       "id": "rice-11121",
       "schoolSlug": "rice",
       "school": "Rice",
@@ -3799,9 +3942,9 @@
   "playerBoard": {
     "source": "Rice Athletics roster + cumulative stats / ESPN roster",
     "note": "This Rice-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but Rice's public ESPN roster feed did not line up cleanly with the current school-site roster.",
-    "totalPlayers": 27,
+    "totalPlayers": 28,
     "roleCounts": {
-      "Hitter": 10,
+      "Hitter": 11,
       "Pitcher": 17
     },
     "players": [
@@ -4837,6 +4980,75 @@
         "schoolSlug": "rice",
         "compositeRole": "Pitcher",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/ethan-atchley/11068",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "rice-11372",
+        "name": "Landon West",
+        "school": "Rice",
+        "role": "Hitter",
+        "position": "C/1B",
+        "classYear": "SR",
+        "handedness": "N/A",
+        "score": 3,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Landon West gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .143",
+          "OBP .265",
+          "SLG .190"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".143"
+          },
+          {
+            "label": "OBP",
+            "value": ".265"
+          },
+          {
+            "label": "SLG",
+            "value": ".190"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "3"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 22.22222222222222,
+          "Speed": 0
+        },
+        "metaLine": "SR / N/A",
+        "detailBadges": [
+          "C/1B",
+          "SR",
+          "N/A",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Rice Athletics roster",
+          "Rice cumulative stats"
+        ],
+        "sourceSummary": "Rice Athletics roster + Rice cumulative stats",
+        "schoolSlug": "rice",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://riceowls.com/sports/baseball/roster/landon-west/11372",
         "espnAthleteId": ""
       },
       {
