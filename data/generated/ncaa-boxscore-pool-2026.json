@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-08-03T11:25:30.327Z",
+  "generatedAt": "2026-08-04T11:07:49.204Z",
   "season": 2026,
   "source": "NCAA D1 baseball scoreboards and boxscores",
   "note": "This compact pool was built from chunked NCAA boxscore backfill windows so failed dates can be retried incrementally instead of restarting the full season walk.",
   "coverage": {
     "startDate": "2026-02-01",
-    "endDate": "2026-08-03",
-    "daysRequested": 184,
-    "scoreboardDaysLoaded": 184,
+    "endDate": "2026-08-04",
+    "daysRequested": 185,
+    "scoreboardDaysLoaded": 185,
     "scoreboardFailures": [],
     "uniqueGamesDiscovered": 7771,
     "boxscoresLoaded": 7627,
@@ -977,12 +977,12 @@
       },
       {
         "startDate": "2026-08-02",
-        "endDate": "2026-08-03",
+        "endDate": "2026-08-04",
         "schoolsCovered": 0,
         "playersCovered": 0,
         "boxscoresLoaded": 0,
-        "scoreboardDaysLoaded": 2,
-        "file": "2026-08-02_to_2026-08-03.json"
+        "scoreboardDaysLoaded": 3,
+        "file": "2026-08-02_to_2026-08-04.json"
       }
     ]
   },
