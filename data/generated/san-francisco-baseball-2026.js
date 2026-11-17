@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.san-francisco2026 = {
-  "generatedAt": "2026-07-30T10:57:10.648Z",
+  "generatedAt": "2026-11-17T10:19:00.262Z",
   "season": 2026,
   "school": {
     "slug": "san-francisco",
@@ -25,17 +25,56 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
     "ncaa": "NCAA school index"
   },
   "coverage": {
-    "rosterPlayers": 41,
+    "rosterPlayers": 20,
     "espnRosterPlayers": 0,
-    "playersWithHittingStats": 19,
-    "playersWithPitchingStats": 21,
-    "playersWithFieldingStats": 35,
-    "mergedPlayersWithAnyStats": 39,
+    "playersWithHittingStats": 13,
+    "playersWithPitchingStats": 8,
+    "playersWithFieldingStats": 20,
+    "mergedPlayersWithAnyStats": 20,
     "matchedEspnPlayers": 0,
     "unmatchedStatRows": {
-      "hitting": [],
-      "pitching": [],
-      "fielding": []
+      "hitting": [
+        "83",
+        "12",
+        "25",
+        "11",
+        "22",
+        "7",
+        "4"
+      ],
+      "pitching": [
+        "40",
+        "20",
+        "18",
+        "35",
+        "9",
+        "13",
+        "27",
+        "17",
+        "36",
+        "52",
+        "14",
+        "23",
+        "31"
+      ],
+      "fielding": [
+        "20",
+        "22",
+        "13",
+        "17",
+        "25",
+        "83",
+        "7",
+        "11",
+        "12",
+        "27",
+        "40",
+        "35",
+        "9",
+        "18",
+        "14",
+        "52"
+      ]
     }
   },
   "teamSummary": {
@@ -124,7 +163,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
   },
   "players": [
     {
-      "id": "san-francisco-6359",
+      "id": "san-francisco-6533",
       "schoolSlug": "san-francisco",
       "school": "San Francisco",
       "schoolLongName": "University of San Francisco",
@@ -134,14 +173,14 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       "role": "Hitter",
       "position": "OF",
       "positionLong": "",
-      "classYear": "JR",
+      "classYear": "SR",
       "handedness": "N/A",
       "jersey": "1",
       "hometown": "Richmond, Calif.",
       "highSchool": "",
       "previousSchool": "Alabama State",
       "hometownHighSchool": "Richmond, Calif.",
-      "profileUrl": "https://usfdons.com/sports/baseball/roster/isaiah-landry/6359",
+      "profileUrl": "https://usfdons.com/sports/baseball/roster/isaiah-landry/6533",
       "imageUrl": "https://usfdons.com/images/2026/2/5/1_Isaiah_Landry_yXoNK.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -149,17 +188,17 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "6359",
+      "rosterBioId": "6533",
       "sources": [
         "San Francisco Athletics roster",
         "San Francisco cumulative stats"
       ],
       "hittingStats": {
-        "rosterBioId": "6359",
+        "rosterBioId": "6533",
         "name": "Isaiah Landry",
         "normalizedName": "isaiah landry",
         "jersey": "1",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/isaiah-landry/6359",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/isaiah-landry/6533",
         "imageUrl": "https://usfdons.com/images/2026/2/5/1_Isaiah_Landry_yXoNK.png",
         "gamesPlayed": 39,
         "gamesStarted": 38,
@@ -193,11 +232,11 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       },
       "pitchingStats": null,
       "fieldingStats": {
-        "rosterBioId": "6359",
+        "rosterBioId": "6533",
         "name": "Isaiah Landry",
         "normalizedName": "isaiah landry",
         "jersey": "1",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/isaiah-landry/6359",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/isaiah-landry/6533",
         "imageUrl": "https://usfdons.com/images/2026/2/5/1_Isaiah_Landry_yXoNK.png",
         "gamesPlayed": 31,
         "gamesStarted": 31,
@@ -258,10 +297,10 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
             "value": "4"
           }
         ],
-        "metaLine": "JR / N/A",
+        "metaLine": "SR / N/A",
         "detailBadges": [
           "OF",
-          "JR",
+          "SR",
           "N/A",
           "Hitter"
         ],
@@ -269,7 +308,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       }
     },
     {
-      "id": "san-francisco-6254",
+      "id": "san-francisco-6552",
       "schoolSlug": "san-francisco",
       "school": "San Francisco",
       "schoolLongName": "University of San Francisco",
@@ -279,14 +318,14 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       "role": "Hitter",
       "position": "OF",
       "positionLong": "",
-      "classYear": "JR",
+      "classYear": "SR",
       "handedness": "N/A",
       "jersey": "2",
       "hometown": "Agoura Hills, Calif.",
       "highSchool": "Agoura HS",
       "previousSchool": "",
       "hometownHighSchool": "Agoura Hills, Calif. / Agoura HS",
-      "profileUrl": "https://usfdons.com/sports/baseball/roster/myles-kallinger/6254",
+      "profileUrl": "https://usfdons.com/sports/baseball/roster/myles-kallinger/6552",
       "imageUrl": "https://usfdons.com/images/2026/2/5/2_Myles_Kallinger_bXGon.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -294,17 +333,17 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "6254",
+      "rosterBioId": "6552",
       "sources": [
         "San Francisco Athletics roster",
         "San Francisco cumulative stats"
       ],
       "hittingStats": {
-        "rosterBioId": "6254",
+        "rosterBioId": "6552",
         "name": "Myles Kallinger",
         "normalizedName": "myles kallinger",
         "jersey": "2",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/myles-kallinger/6254",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/myles-kallinger/6552",
         "imageUrl": "https://usfdons.com/images/2026/2/5/2_Myles_Kallinger_bXGon.png",
         "gamesPlayed": 30,
         "gamesStarted": 16,
@@ -338,11 +377,11 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       },
       "pitchingStats": null,
       "fieldingStats": {
-        "rosterBioId": "6254",
+        "rosterBioId": "6552",
         "name": "Myles Kallinger",
         "normalizedName": "myles kallinger",
         "jersey": "2",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/myles-kallinger/6254",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/myles-kallinger/6552",
         "imageUrl": "https://usfdons.com/images/2026/2/5/2_Myles_Kallinger_bXGon.png",
         "gamesPlayed": 14,
         "gamesStarted": 13,
@@ -403,10 +442,10 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
             "value": "6"
           }
         ],
-        "metaLine": "JR / N/A",
+        "metaLine": "SR / N/A",
         "detailBadges": [
           "OF",
-          "JR",
+          "SR",
           "N/A",
           "Hitter"
         ],
@@ -414,7 +453,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       }
     },
     {
-      "id": "san-francisco-6360",
+      "id": "san-francisco-6556",
       "schoolSlug": "san-francisco",
       "school": "San Francisco",
       "schoolLongName": "University of San Francisco",
@@ -424,14 +463,14 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       "role": "Hitter",
       "position": "INF",
       "positionLong": "",
-      "classYear": "FR",
+      "classYear": "SO",
       "handedness": "N/A",
       "jersey": "3",
       "hometown": "Simi Valley, Calif.",
       "highSchool": "Royal HS",
       "previousSchool": "",
       "hometownHighSchool": "Simi Valley, Calif. / Royal HS",
-      "profileUrl": "https://usfdons.com/sports/baseball/roster/zach-nagy/6360",
+      "profileUrl": "https://usfdons.com/sports/baseball/roster/zach-nagy/6556",
       "imageUrl": "https://usfdons.com/images/2026/2/5/3_Zach_Nagy_vBkEp.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -439,17 +478,17 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "6360",
+      "rosterBioId": "6556",
       "sources": [
         "San Francisco Athletics roster",
         "San Francisco cumulative stats"
       ],
       "hittingStats": {
-        "rosterBioId": "6360",
+        "rosterBioId": "6556",
         "name": "Zach Nagy",
         "normalizedName": "zach nagy",
         "jersey": "3",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/zach-nagy/6360",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/zach-nagy/6556",
         "imageUrl": "https://usfdons.com/images/2026/2/5/3_Zach_Nagy_vBkEp.png",
         "gamesPlayed": 19,
         "gamesStarted": 13,
@@ -483,11 +522,11 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       },
       "pitchingStats": null,
       "fieldingStats": {
-        "rosterBioId": "6360",
+        "rosterBioId": "6556",
         "name": "Zach Nagy",
         "normalizedName": "zach nagy",
         "jersey": "3",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/zach-nagy/6360",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/zach-nagy/6556",
         "imageUrl": "https://usfdons.com/images/2026/2/5/3_Zach_Nagy_vBkEp.png",
         "gamesPlayed": 17,
         "gamesStarted": 13,
@@ -548,10 +587,10 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
             "value": "1"
           }
         ],
-        "metaLine": "FR / N/A",
+        "metaLine": "SO / N/A",
         "detailBadges": [
           "INF",
-          "FR",
+          "SO",
           "N/A",
           "Hitter"
         ],
@@ -559,132 +598,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       }
     },
     {
-      "id": "san-francisco-6245",
-      "schoolSlug": "san-francisco",
-      "school": "San Francisco",
-      "schoolLongName": "University of San Francisco",
-      "name": "Matteo Bellisimo",
-      "normalizedName": "matteo bellisimo",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "INF",
-      "positionLong": "",
-      "classYear": "SR",
-      "handedness": "N/A",
-      "jersey": "4",
-      "hometown": "Mill Valley, Calif.",
-      "highSchool": "",
-      "previousSchool": "College of Marin",
-      "hometownHighSchool": "Mill Valley, Calif.",
-      "profileUrl": "https://usfdons.com/sports/baseball/roster/matteo-bellisimo/6245",
-      "imageUrl": "https://usfdons.com/images/2026/2/5/4_Matteo_Bellisimo_eI95J.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "6245",
-      "sources": [
-        "San Francisco Athletics roster",
-        "San Francisco cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "6245",
-        "name": "Matteo Bellisimo",
-        "normalizedName": "matteo bellisimo",
-        "jersey": "4",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/matteo-bellisimo/6245",
-        "imageUrl": "https://usfdons.com/images/2026/2/5/4_Matteo_Bellisimo_eI95J.png",
-        "gamesPlayed": 11,
-        "gamesStarted": 2,
-        "battingAverage": 0.176,
-        "onBasePercentage": 0.222,
-        "sluggingPercentage": 0.235,
-        "ops": 0.457,
-        "atBats": 17,
-        "runs": 1,
-        "hits": 3,
-        "doubles": 1,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 3,
-        "totalBases": 4,
-        "walks": 1,
-        "hitByPitch": 0,
-        "strikeouts": 6,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 0,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 18,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "summary": "Matteo Bellisimo gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .176",
-          "OBP .222",
-          "SLG .235"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".176"
-          },
-          {
-            "label": "OBP",
-            "value": ".222"
-          },
-          {
-            "label": "SLG",
-            "value": ".235"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "3"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "INF",
-          "SR",
-          "N/A",
-          "Hitter"
-        ],
-        "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats"
-      }
-    },
-    {
-      "id": "san-francisco-6249",
+      "id": "san-francisco-6546",
       "schoolSlug": "san-francisco",
       "school": "San Francisco",
       "schoolLongName": "University of San Francisco",
@@ -694,14 +608,14 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       "role": "Hitter",
       "position": "OF",
       "positionLong": "",
-      "classYear": "SO",
+      "classYear": "JR",
       "handedness": "N/A",
       "jersey": "5",
       "hometown": "Englewood, Colo.",
       "highSchool": "Cherry Creek HS",
       "previousSchool": "",
       "hometownHighSchool": "Englewood, Colo. / Cherry Creek HS",
-      "profileUrl": "https://usfdons.com/sports/baseball/roster/eddison-esquivel/6249",
+      "profileUrl": "https://usfdons.com/sports/baseball/roster/eddison-esquivel/6546",
       "imageUrl": "https://usfdons.com/images/2026/2/5/5_Eddison_Esquivel_FF2Yu.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -709,17 +623,17 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "6249",
+      "rosterBioId": "6546",
       "sources": [
         "San Francisco Athletics roster",
         "San Francisco cumulative stats"
       ],
       "hittingStats": {
-        "rosterBioId": "6249",
+        "rosterBioId": "6546",
         "name": "Eddison Esquivel",
         "normalizedName": "eddison esquivel",
         "jersey": "5",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/eddison-esquivel/6249",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/eddison-esquivel/6546",
         "imageUrl": "https://usfdons.com/images/2026/2/5/5_Eddison_Esquivel_FF2Yu.png",
         "gamesPlayed": 58,
         "gamesStarted": 58,
@@ -753,11 +667,11 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       },
       "pitchingStats": null,
       "fieldingStats": {
-        "rosterBioId": "6249",
+        "rosterBioId": "6546",
         "name": "Eddison Esquivel",
         "normalizedName": "eddison esquivel",
         "jersey": "5",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/eddison-esquivel/6249",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/eddison-esquivel/6546",
         "imageUrl": "https://usfdons.com/images/2026/2/5/5_Eddison_Esquivel_FF2Yu.png",
         "gamesPlayed": 43,
         "gamesStarted": 43,
@@ -818,10 +732,10 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
             "value": "3"
           }
         ],
-        "metaLine": "SO / N/A",
+        "metaLine": "JR / N/A",
         "detailBadges": [
           "OF",
-          "SO",
+          "JR",
           "N/A",
           "Hitter"
         ],
@@ -829,7 +743,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       }
     },
     {
-      "id": "san-francisco-6361",
+      "id": "san-francisco-6554",
       "schoolSlug": "san-francisco",
       "school": "San Francisco",
       "schoolLongName": "University of San Francisco",
@@ -839,14 +753,14 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       "role": "Hitter",
       "position": "INF",
       "positionLong": "",
-      "classYear": "R-JR",
+      "classYear": "R-SR",
       "handedness": "N/A",
       "jersey": "6",
       "hometown": "Roseville, Calif.",
       "highSchool": "",
       "previousSchool": "Santa Clara/San Jose State",
       "hometownHighSchool": "Roseville, Calif.",
-      "profileUrl": "https://usfdons.com/sports/baseball/roster/jared-lewis/6361",
+      "profileUrl": "https://usfdons.com/sports/baseball/roster/jared-lewis/6554",
       "imageUrl": "https://usfdons.com/images/2026/2/5/6_Jared_rhKDi.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -854,17 +768,17 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "6361",
+      "rosterBioId": "6554",
       "sources": [
         "San Francisco Athletics roster",
         "San Francisco cumulative stats"
       ],
       "hittingStats": {
-        "rosterBioId": "6361",
+        "rosterBioId": "6554",
         "name": "Jared Lewis",
         "normalizedName": "jared lewis",
         "jersey": "6",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/jared-lewis/6361",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/jared-lewis/6554",
         "imageUrl": "https://usfdons.com/images/2026/2/5/6_Jared_rhKDi.png",
         "gamesPlayed": 47,
         "gamesStarted": 44,
@@ -898,11 +812,11 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       },
       "pitchingStats": null,
       "fieldingStats": {
-        "rosterBioId": "6361",
+        "rosterBioId": "6554",
         "name": "Jared Lewis",
         "normalizedName": "jared lewis",
         "jersey": "6",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/jared-lewis/6361",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/jared-lewis/6554",
         "imageUrl": "https://usfdons.com/images/2026/2/5/6_Jared_rhKDi.png",
         "gamesPlayed": 43,
         "gamesStarted": 42,
@@ -963,10 +877,10 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
             "value": "3"
           }
         ],
-        "metaLine": "R-JR / N/A",
+        "metaLine": "R-SR / N/A",
         "detailBadges": [
           "INF",
-          "R-JR",
+          "R-SR",
           "N/A",
           "Hitter"
         ],
@@ -974,152 +888,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       }
     },
     {
-      "id": "san-francisco-6255",
-      "schoolSlug": "san-francisco",
-      "school": "San Francisco",
-      "schoolLongName": "University of San Francisco",
-      "name": "Jordan Lewis",
-      "normalizedName": "jordan lewis",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "OF",
-      "positionLong": "",
-      "classYear": "SR",
-      "handedness": "N/A",
-      "jersey": "7",
-      "hometown": "Roseville, Calif.",
-      "highSchool": "",
-      "previousSchool": "Santa Clara",
-      "hometownHighSchool": "Roseville, Calif.",
-      "profileUrl": "https://usfdons.com/sports/baseball/roster/jordan-lewis/6255",
-      "imageUrl": "https://usfdons.com/images/2026/2/5/7_Jordan_KEjwV.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "6255",
-      "sources": [
-        "San Francisco Athletics roster",
-        "San Francisco cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "6255",
-        "name": "Jordan Lewis",
-        "normalizedName": "jordan lewis",
-        "jersey": "7",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/jordan-lewis/6255",
-        "imageUrl": "https://usfdons.com/images/2026/2/5/7_Jordan_KEjwV.png",
-        "gamesPlayed": 22,
-        "gamesStarted": 14,
-        "battingAverage": 0.176,
-        "onBasePercentage": 0.333,
-        "sluggingPercentage": 0.255,
-        "ops": 0.588,
-        "atBats": 51,
-        "runs": 6,
-        "hits": 9,
-        "doubles": 1,
-        "triples": 0,
-        "homeRuns": 1,
-        "runsBattedIn": 5,
-        "totalBases": 13,
-        "walks": 10,
-        "hitByPitch": 2,
-        "strikeouts": 19,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 1,
-        "stolenBases": 2,
-        "stolenBasesAttempts": 3,
-        "putouts": 32,
-        "assists": 0,
-        "errors": 1,
-        "plateAppearances": 68,
-        "caughtStealing": 1,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "6255",
-        "name": "Jordan Lewis",
-        "normalizedName": "jordan lewis",
-        "jersey": "7",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/jordan-lewis/6255",
-        "imageUrl": "https://usfdons.com/images/2026/2/5/7_Jordan_KEjwV.png",
-        "gamesPlayed": 14,
-        "gamesStarted": 13,
-        "putouts": 32,
-        "assists": 2,
-        "errors": 1,
-        "fieldingPercentage": 0.971,
-        "doublePlays": 1,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 35
-      },
-      "evaluation": {
-        "score": 15,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 29.44444444444444,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 36.25730994152046,
-          "Speed": 6.666666666666667
-        },
-        "summary": "Jordan Lewis gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .176",
-          "OBP .333",
-          "SLG .255"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".176"
-          },
-          {
-            "label": "OBP",
-            "value": ".333"
-          },
-          {
-            "label": "SLG",
-            "value": ".255"
-          },
-          {
-            "label": "HR",
-            "value": "1"
-          },
-          {
-            "label": "RBI",
-            "value": "5"
-          },
-          {
-            "label": "SB",
-            "value": "2"
-          }
-        ],
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "OF",
-          "SR",
-          "N/A",
-          "Hitter"
-        ],
-        "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats"
-      }
-    },
-    {
-      "id": "san-francisco-6256",
+      "id": "san-francisco-6537",
       "schoolSlug": "san-francisco",
       "school": "San Francisco",
       "schoolLongName": "University of San Francisco",
@@ -1129,14 +898,14 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
-      "classYear": "JR",
+      "classYear": "SR",
       "handedness": "N/A",
       "jersey": "8",
       "hometown": "Austin, Texas",
       "highSchool": "Westlake HS",
       "previousSchool": "",
       "hometownHighSchool": "Austin, Texas / Westlake HS",
-      "profileUrl": "https://usfdons.com/sports/baseball/roster/magnus-nelson/6256",
+      "profileUrl": "https://usfdons.com/sports/baseball/roster/magnus-nelson/6537",
       "imageUrl": "https://usfdons.com/images/2026/2/5/8_Magnus_Nelson_L0YsU.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -1144,18 +913,18 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "6256",
+      "rosterBioId": "6537",
       "sources": [
         "San Francisco Athletics roster",
         "San Francisco cumulative stats"
       ],
       "hittingStats": null,
       "pitchingStats": {
-        "rosterBioId": "6256",
+        "rosterBioId": "6537",
         "name": "Magnus Nelson",
         "normalizedName": "magnus nelson",
         "jersey": "8",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/magnus-nelson/6256",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/magnus-nelson/6537",
         "imageUrl": "https://usfdons.com/images/2026/2/5/8_Magnus_Nelson_L0YsU.png",
         "gamesPlayed": 3,
         "gamesStarted": 0,
@@ -1185,11 +954,11 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "walksHits": 0
       },
       "fieldingStats": {
-        "rosterBioId": "6256",
+        "rosterBioId": "6537",
         "name": "Magnus Nelson",
         "normalizedName": "magnus nelson",
         "jersey": "8",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/magnus-nelson/6256",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/magnus-nelson/6537",
         "imageUrl": "https://usfdons.com/images/2026/2/5/8_Magnus_Nelson_L0YsU.png",
         "gamesPlayed": 1,
         "gamesStarted": 0,
@@ -1250,583 +1019,9 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
             "value": "2.3"
           }
         ],
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "N/A",
-          "Pitcher"
-        ],
-        "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats"
-      }
-    },
-    {
-      "id": "san-francisco-6258",
-      "schoolSlug": "san-francisco",
-      "school": "San Francisco",
-      "schoolLongName": "University of San Francisco",
-      "name": "Quentin Pohorski",
-      "normalizedName": "quentin pohorski",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "GR",
-      "handedness": "N/A",
-      "jersey": "9",
-      "hometown": "San Jose, Calif.",
-      "highSchool": "",
-      "previousSchool": "West Valley",
-      "hometownHighSchool": "San Jose, Calif.",
-      "profileUrl": "https://usfdons.com/sports/baseball/roster/quentin-pohorski/6258",
-      "imageUrl": "https://usfdons.com/images/2026/2/5/9_Quentin_Pohorski_mpIa5.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "6258",
-      "sources": [
-        "San Francisco Athletics roster",
-        "San Francisco cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "6258",
-        "name": "Quentin Pohorski",
-        "normalizedName": "quentin pohorski",
-        "jersey": "9",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/quentin-pohorski/6258",
-        "imageUrl": "https://usfdons.com/images/2026/2/5/9_Quentin_Pohorski_mpIa5.png",
-        "gamesPlayed": 16,
-        "gamesStarted": 2,
-        "appearances": 16,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 3.42,
-        "whip": 1.14,
-        "wins": 1,
-        "losses": 1,
-        "saves": 8,
-        "shutouts": 0,
-        "inningsPitched": 47.333333333333336,
-        "inningsPitchedDisplay": "47.1",
-        "hitsAllowed": 30,
-        "runsAllowed": 19,
-        "earnedRunsAllowed": 18,
-        "walksAllowed": 24,
-        "strikeouts": 51,
-        "doublesAllowed": 8,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 4,
-        "opponentsAtBats": 164,
-        "wildPitches": 2,
-        "hitBatters": 3,
-        "balks": 0,
-        "opponentsBattingAverage": 0.183,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "6258",
-        "name": "Quentin Pohorski",
-        "normalizedName": "quentin pohorski",
-        "jersey": "9",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/quentin-pohorski/6258",
-        "imageUrl": "https://usfdons.com/images/2026/2/5/9_Quentin_Pohorski_mpIa5.png",
-        "gamesPlayed": 10,
-        "gamesStarted": 1,
-        "putouts": 4,
-        "assists": 5,
-        "errors": 2,
-        "fieldingPercentage": 0.818,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 1,
-        "caughtStealingBy": 2,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 11
-      },
-      "evaluation": {
-        "score": 14,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 51.79257362355953,
-          "Command": 22.499999999999993,
-          "Damage suppression": 0
-        },
-        "summary": "Quentin Pohorski looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
-        "summaryMetrics": [
-          "ERA 3.42",
-          "WHIP 1.14",
-          "K/9 9.7"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.42"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.14"
-          },
-          {
-            "label": "K/9",
-            "value": "9.7"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.6"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.76"
-          },
-          {
-            "label": "IP",
-            "value": "47.3"
-          }
-        ],
-        "metaLine": "GR / N/A",
-        "detailBadges": [
-          "RHP",
-          "GR",
-          "N/A",
-          "Pitcher"
-        ],
-        "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats"
-      }
-    },
-    {
-      "id": "san-francisco-6251",
-      "schoolSlug": "san-francisco",
-      "school": "San Francisco",
-      "schoolLongName": "University of San Francisco",
-      "name": "Tyler Harries",
-      "normalizedName": "tyler harries",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "INF",
-      "positionLong": "",
-      "classYear": "SR",
-      "handedness": "N/A",
-      "jersey": "11",
-      "hometown": "Federal Way, Wash.",
-      "highSchool": "",
-      "previousSchool": "Centralia College",
-      "hometownHighSchool": "Federal Way, Wash.",
-      "profileUrl": "https://usfdons.com/sports/baseball/roster/tyler-harries/6251",
-      "imageUrl": "https://usfdons.com/images/2026/2/5/11_Tyler_Harries_dZhTS.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "6251",
-      "sources": [
-        "San Francisco Athletics roster",
-        "San Francisco cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "6251",
-        "name": "Tyler Harries",
-        "normalizedName": "tyler harries",
-        "jersey": "11",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/tyler-harries/6251",
-        "imageUrl": "https://usfdons.com/images/2026/2/5/11_Tyler_Harries_dZhTS.png",
-        "gamesPlayed": 41,
-        "gamesStarted": 41,
-        "battingAverage": 0.229,
-        "onBasePercentage": 0.339,
-        "sluggingPercentage": 0.307,
-        "ops": 0.646,
-        "atBats": 153,
-        "runs": 17,
-        "hits": 35,
-        "doubles": 9,
-        "triples": 0,
-        "homeRuns": 1,
-        "runsBattedIn": 25,
-        "totalBases": 47,
-        "walks": 22,
-        "hitByPitch": 5,
-        "strikeouts": 37,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 2,
-        "sacrificeFlies": 3,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 25,
-        "assists": 0,
-        "errors": 4,
-        "plateAppearances": 183,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "6251",
-        "name": "Tyler Harries",
-        "normalizedName": "tyler harries",
-        "jersey": "11",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/tyler-harries/6251",
-        "imageUrl": "https://usfdons.com/images/2026/2/5/11_Tyler_Harries_dZhTS.png",
-        "gamesPlayed": 36,
-        "gamesStarted": 36,
-        "putouts": 25,
-        "assists": 92,
-        "errors": 4,
-        "fieldingPercentage": 0.967,
-        "doublePlays": 8,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 121
-      },
-      "evaluation": {
-        "score": 18,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 32.77777777777778,
-          "Power": 0,
-          "Contact": 5.625000000000005,
-          "Discipline": 43.843843843843835,
-          "Speed": 0
-        },
-        "summary": "Tyler Harries gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .229",
-          "OBP .339",
-          "SLG .307"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".229"
-          },
-          {
-            "label": "OBP",
-            "value": ".339"
-          },
-          {
-            "label": "SLG",
-            "value": ".307"
-          },
-          {
-            "label": "HR",
-            "value": "1"
-          },
-          {
-            "label": "RBI",
-            "value": "25"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
         "metaLine": "SR / N/A",
         "detailBadges": [
-          "INF",
-          "SR",
-          "N/A",
-          "Hitter"
-        ],
-        "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats"
-      }
-    },
-    {
-      "id": "san-francisco-6260",
-      "schoolSlug": "san-francisco",
-      "school": "San Francisco",
-      "schoolLongName": "University of San Francisco",
-      "name": "TJ Rogers",
-      "normalizedName": "tj rogers",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "INF",
-      "positionLong": "",
-      "classYear": "GR",
-      "handedness": "N/A",
-      "jersey": "12",
-      "hometown": "Sparks, Nev.",
-      "highSchool": "",
-      "previousSchool": "Austin Peay",
-      "hometownHighSchool": "Sparks, Nev.",
-      "profileUrl": "https://usfdons.com/sports/baseball/roster/tj-rogers/6260",
-      "imageUrl": "https://usfdons.com/images/2026/2/5/12_TJ_Rogers_Ehh8e.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "6260",
-      "sources": [
-        "San Francisco Athletics roster",
-        "San Francisco cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "6260",
-        "name": "TJ Rogers",
-        "normalizedName": "tj rogers",
-        "jersey": "12",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/tj-rogers/6260",
-        "imageUrl": "https://usfdons.com/images/2026/2/5/12_TJ_Rogers_Ehh8e.png",
-        "gamesPlayed": 54,
-        "gamesStarted": 54,
-        "battingAverage": 0.251,
-        "onBasePercentage": 0.39,
-        "sluggingPercentage": 0.498,
-        "ops": 0.888,
-        "atBats": 203,
-        "runs": 38,
-        "hits": 51,
-        "doubles": 12,
-        "triples": 1,
-        "homeRuns": 12,
-        "runsBattedIn": 33,
-        "totalBases": 101,
-        "walks": 38,
-        "hitByPitch": 8,
-        "strikeouts": 73,
-        "intentionalWalks": 1,
-        "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 8,
-        "stolenBasesAttempts": 8,
-        "putouts": 90,
-        "assists": 0,
-        "errors": 12,
-        "plateAppearances": 257,
-        "caughtStealing": 0,
-        "pickedOff": 2
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "6260",
-        "name": "TJ Rogers",
-        "normalizedName": "tj rogers",
-        "jersey": "12",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/tj-rogers/6260",
-        "imageUrl": "https://usfdons.com/images/2026/2/5/12_TJ_Rogers_Ehh8e.png",
-        "gamesPlayed": 54,
-        "gamesStarted": 54,
-        "putouts": 90,
-        "assists": 178,
-        "errors": 12,
-        "fieldingPercentage": 0.957,
-        "doublePlays": 31,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 280
-      },
-      "evaluation": {
-        "score": 43,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 61.11111111111111,
-          "Power": 46.842105263157904,
-          "Contact": 19.375,
-          "Discipline": 35.61643835616437,
-          "Speed": 26.666666666666668
-        },
-        "summary": "TJ Rogers profiles as a INF piece who adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .251",
-          "OBP .390",
-          "SLG .498"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".251"
-          },
-          {
-            "label": "OBP",
-            "value": ".390"
-          },
-          {
-            "label": "SLG",
-            "value": ".498"
-          },
-          {
-            "label": "HR",
-            "value": "12"
-          },
-          {
-            "label": "RBI",
-            "value": "33"
-          },
-          {
-            "label": "SB",
-            "value": "8"
-          }
-        ],
-        "metaLine": "GR / N/A",
-        "detailBadges": [
-          "INF",
-          "GR",
-          "N/A",
-          "Hitter"
-        ],
-        "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats"
-      }
-    },
-    {
-      "id": "san-francisco-6253",
-      "schoolSlug": "san-francisco",
-      "school": "San Francisco",
-      "schoolLongName": "University of San Francisco",
-      "name": "Hunter Holzemer",
-      "normalizedName": "hunter holzemer",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "",
-      "classYear": "SR",
-      "handedness": "N/A",
-      "jersey": "13",
-      "hometown": "Highlands Ranch, Colo.",
-      "highSchool": "Thunder Ridge HS",
-      "previousSchool": "",
-      "hometownHighSchool": "Highlands Ranch, Colo. / Thunder Ridge HS",
-      "profileUrl": "https://usfdons.com/sports/baseball/roster/hunter-holzemer/6253",
-      "imageUrl": "https://usfdons.com/images/2026/2/5/13_Hunter_Holzemer_BLYIm.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "6253",
-      "sources": [
-        "San Francisco Athletics roster",
-        "San Francisco cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "6253",
-        "name": "Hunter Holzemer",
-        "normalizedName": "hunter holzemer",
-        "jersey": "13",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/hunter-holzemer/6253",
-        "imageUrl": "https://usfdons.com/images/2026/2/5/13_Hunter_Holzemer_BLYIm.png",
-        "gamesPlayed": 23,
-        "gamesStarted": 0,
-        "appearances": 23,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 3.99,
-        "whip": 1.57,
-        "wins": 6,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 29.333333333333332,
-        "inningsPitchedDisplay": "29.1",
-        "hitsAllowed": 35,
-        "runsAllowed": 18,
-        "earnedRunsAllowed": 13,
-        "walksAllowed": 11,
-        "strikeouts": 23,
-        "doublesAllowed": 9,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 3,
-        "opponentsAtBats": 120,
-        "wildPitches": 1,
-        "hitBatters": 4,
-        "balks": 2,
-        "opponentsBattingAverage": 0.292,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "6253",
-        "name": "Hunter Holzemer",
-        "normalizedName": "hunter holzemer",
-        "jersey": "13",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/hunter-holzemer/6253",
-        "imageUrl": "https://usfdons.com/images/2026/2/5/13_Hunter_Holzemer_BLYIm.png",
-        "gamesPlayed": 7,
-        "gamesStarted": 0,
-        "putouts": 0,
-        "assists": 5,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 2,
-        "caughtStealingBy": 1,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 5
-      },
-      "evaluation": {
-        "score": 9,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 27.78925619834711,
-          "Command": 21.818181818181827,
-          "Damage suppression": 0
-        },
-        "summary": "Hunter Holzemer looks like a LHP option who limits runs.",
-        "summaryMetrics": [
-          "ERA 3.99",
-          "WHIP 1.57",
-          "K/9 7.1"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.99"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.57"
-          },
-          {
-            "label": "K/9",
-            "value": "7.1"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.4"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.92"
-          },
-          {
-            "label": "IP",
-            "value": "29.3"
-          }
-        ],
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "LHP",
+          "RHP",
           "SR",
           "N/A",
           "Pitcher"
@@ -1835,149 +1030,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       }
     },
     {
-      "id": "san-francisco-6362",
-      "schoolSlug": "san-francisco",
-      "school": "San Francisco",
-      "schoolLongName": "University of San Francisco",
-      "name": "Braden Wellen",
-      "normalizedName": "braden wellen",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "JR",
-      "handedness": "N/A",
-      "jersey": "14",
-      "hometown": "Aliso Viejo, Calif.",
-      "highSchool": "",
-      "previousSchool": "Golden West College",
-      "hometownHighSchool": "Aliso Viejo, Calif.",
-      "profileUrl": "https://usfdons.com/sports/baseball/roster/braden-wellen/6362",
-      "imageUrl": "https://usfdons.com/images/2026/2/5/14_Brady_Wellen_Lft0t.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "6362",
-      "sources": [
-        "San Francisco Athletics roster",
-        "San Francisco cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "6362",
-        "name": "Braden Wellen",
-        "normalizedName": "braden wellen",
-        "jersey": "14",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/braden-wellen/6362",
-        "imageUrl": "https://usfdons.com/images/2026/2/5/14_Brady_Wellen_Lft0t.png",
-        "gamesPlayed": 9,
-        "gamesStarted": 0,
-        "appearances": 9,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 12.54,
-        "whip": 2.46,
-        "wins": 0,
-        "losses": 1,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 9.333333333333334,
-        "inningsPitchedDisplay": "9.1",
-        "hitsAllowed": 12,
-        "runsAllowed": 13,
-        "earnedRunsAllowed": 13,
-        "walksAllowed": 11,
-        "strikeouts": 11,
-        "doublesAllowed": 3,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 39,
-        "wildPitches": 1,
-        "hitBatters": 0,
-        "balks": 1,
-        "opponentsBattingAverage": 0.308,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "6362",
-        "name": "Braden Wellen",
-        "normalizedName": "braden wellen",
-        "jersey": "14",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/braden-wellen/6362",
-        "imageUrl": "https://usfdons.com/images/2026/2/5/14_Brady_Wellen_Lft0t.png",
-        "gamesPlayed": 3,
-        "gamesStarted": 0,
-        "putouts": 0,
-        "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 0,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 3,
-        "caughtStealingBy": 1,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 0
-      },
-      "evaluation": {
-        "score": 12,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 60.06493506493506,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Braden Wellen looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 12.54",
-          "WHIP 2.46",
-          "K/9 10.6"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "12.54"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.46"
-          },
-          {
-            "label": "K/9",
-            "value": "10.6"
-          },
-          {
-            "label": "BB/9",
-            "value": "10.6"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.93"
-          },
-          {
-            "label": "IP",
-            "value": "9.3"
-          }
-        ],
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "N/A",
-          "Pitcher"
-        ],
-        "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats"
-      }
-    },
-    {
-      "id": "san-francisco-6363",
+      "id": "san-francisco-6562",
       "schoolSlug": "san-francisco",
       "school": "San Francisco",
       "schoolLongName": "University of San Francisco",
@@ -1987,14 +1040,14 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       "role": "Pitcher",
       "position": "LHP",
       "positionLong": "",
-      "classYear": "SO",
+      "classYear": "JR",
       "handedness": "N/A",
       "jersey": "15",
       "hometown": "Los Altos, Calif.",
       "highSchool": "",
       "previousSchool": "UC Santa Barbara",
       "hometownHighSchool": "Los Altos, Calif.",
-      "profileUrl": "https://usfdons.com/sports/baseball/roster/paul-wheeler/6363",
+      "profileUrl": "https://usfdons.com/sports/baseball/roster/paul-wheeler/6562",
       "imageUrl": "https://usfdons.com/images/2026/2/5/15_Paul_Wheeler_7fYQQ.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -2002,18 +1055,18 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "6363",
+      "rosterBioId": "6562",
       "sources": [
         "San Francisco Athletics roster",
         "San Francisco cumulative stats"
       ],
       "hittingStats": null,
       "pitchingStats": {
-        "rosterBioId": "6363",
+        "rosterBioId": "6562",
         "name": "Paul Wheeler",
         "normalizedName": "paul wheeler",
         "jersey": "15",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/paul-wheeler/6363",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/paul-wheeler/6562",
         "imageUrl": "https://usfdons.com/images/2026/2/5/15_Paul_Wheeler_7fYQQ.png",
         "gamesPlayed": 12,
         "gamesStarted": 0,
@@ -2043,11 +1096,11 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "walksHits": 0
       },
       "fieldingStats": {
-        "rosterBioId": "6363",
+        "rosterBioId": "6562",
         "name": "Paul Wheeler",
         "normalizedName": "paul wheeler",
         "jersey": "15",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/paul-wheeler/6363",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/paul-wheeler/6562",
         "imageUrl": "https://usfdons.com/images/2026/2/5/15_Paul_Wheeler_7fYQQ.png",
         "gamesPlayed": 6,
         "gamesStarted": 0,
@@ -2108,10 +1161,10 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
             "value": "13.0"
           }
         ],
-        "metaLine": "SO / N/A",
+        "metaLine": "JR / N/A",
         "detailBadges": [
           "LHP",
-          "SO",
+          "JR",
           "N/A",
           "Pitcher"
         ],
@@ -2119,7 +1172,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       }
     },
     {
-      "id": "san-francisco-6364",
+      "id": "san-francisco-6560",
       "schoolSlug": "san-francisco",
       "school": "San Francisco",
       "schoolLongName": "University of San Francisco",
@@ -2129,14 +1182,14 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
-      "classYear": "JR",
+      "classYear": "SR",
       "handedness": "N/A",
       "jersey": "16",
       "hometown": "Newark, Calif.",
       "highSchool": "",
       "previousSchool": "West Valley",
       "hometownHighSchool": "Newark, Calif.",
-      "profileUrl": "https://usfdons.com/sports/baseball/roster/adrian-valdez/6364",
+      "profileUrl": "https://usfdons.com/sports/baseball/roster/adrian-valdez/6560",
       "imageUrl": "https://usfdons.com/images/2026/2/5/16_Adrian_Valdez_Dc5HA.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -2144,18 +1197,18 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "6364",
+      "rosterBioId": "6560",
       "sources": [
         "San Francisco Athletics roster",
         "San Francisco cumulative stats"
       ],
       "hittingStats": null,
       "pitchingStats": {
-        "rosterBioId": "6364",
+        "rosterBioId": "6560",
         "name": "Adrian Valdez",
         "normalizedName": "adrian valdez",
         "jersey": "16",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/adrian-valdez/6364",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/adrian-valdez/6560",
         "imageUrl": "https://usfdons.com/images/2026/2/5/16_Adrian_Valdez_Dc5HA.png",
         "gamesPlayed": 16,
         "gamesStarted": 16,
@@ -2185,11 +1238,11 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "walksHits": 0
       },
       "fieldingStats": {
-        "rosterBioId": "6364",
+        "rosterBioId": "6560",
         "name": "Adrian Valdez",
         "normalizedName": "adrian valdez",
         "jersey": "16",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/adrian-valdez/6364",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/adrian-valdez/6560",
         "imageUrl": "https://usfdons.com/images/2026/2/5/16_Adrian_Valdez_Dc5HA.png",
         "gamesPlayed": 13,
         "gamesStarted": 13,
@@ -2250,10 +1303,10 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
             "value": "58.3"
           }
         ],
-        "metaLine": "JR / N/A",
+        "metaLine": "SR / N/A",
         "detailBadges": [
           "RHP",
-          "JR",
+          "SR",
           "N/A",
           "Pitcher"
         ],
@@ -2261,433 +1314,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       }
     },
     {
-      "id": "san-francisco-6365",
-      "schoolSlug": "san-francisco",
-      "school": "San Francisco",
-      "schoolLongName": "University of San Francisco",
-      "name": "Thomas Gonzales",
-      "normalizedName": "thomas gonzales",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "FR",
-      "handedness": "N/A",
-      "jersey": "17",
-      "hometown": "Laguna Beach, Calif.",
-      "highSchool": "Laguna Beach HS",
-      "previousSchool": "",
-      "hometownHighSchool": "Laguna Beach, Calif. / Laguna Beach HS",
-      "profileUrl": "https://usfdons.com/sports/baseball/roster/thomas-gonzales/6365",
-      "imageUrl": "https://usfdons.com/images/2026/2/5/17_Thomas_Gonzales_7jvJI.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "6365",
-      "sources": [
-        "San Francisco Athletics roster",
-        "San Francisco cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "6365",
-        "name": "Thomas Gonzales",
-        "normalizedName": "thomas gonzales",
-        "jersey": "17",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/thomas-gonzales/6365",
-        "imageUrl": "https://usfdons.com/images/2026/2/5/17_Thomas_Gonzales_7jvJI.png",
-        "gamesPlayed": 13,
-        "gamesStarted": 2,
-        "appearances": 13,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 9.33,
-        "whip": 2.13,
-        "wins": 1,
-        "losses": 3,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 18.333333333333332,
-        "inningsPitchedDisplay": "18.1",
-        "hitsAllowed": 23,
-        "runsAllowed": 20,
-        "earnedRunsAllowed": 19,
-        "walksAllowed": 16,
-        "strikeouts": 14,
-        "doublesAllowed": 6,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 72,
-        "wildPitches": 1,
-        "hitBatters": 3,
-        "balks": 1,
-        "opponentsBattingAverage": 0.319,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "6365",
-        "name": "Thomas Gonzales",
-        "normalizedName": "thomas gonzales",
-        "jersey": "17",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/thomas-gonzales/6365",
-        "imageUrl": "https://usfdons.com/images/2026/2/5/17_Thomas_Gonzales_7jvJI.png",
-        "gamesPlayed": 6,
-        "gamesStarted": 2,
-        "putouts": 0,
-        "assists": 1,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 4,
-        "caughtStealingBy": 1,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 1
-      },
-      "evaluation": {
-        "score": 5,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 26.115702479338847,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Thomas Gonzales gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 9.33",
-          "WHIP 2.13",
-          "K/9 6.9"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "9.33"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.13"
-          },
-          {
-            "label": "K/9",
-            "value": "6.9"
-          },
-          {
-            "label": "BB/9",
-            "value": "7.9"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.98"
-          },
-          {
-            "label": "IP",
-            "value": "18.3"
-          }
-        ],
-        "metaLine": "FR / N/A",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "N/A",
-          "Pitcher"
-        ],
-        "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats"
-      }
-    },
-    {
-      "id": "san-francisco-6366",
-      "schoolSlug": "san-francisco",
-      "school": "San Francisco",
-      "schoolLongName": "University of San Francisco",
-      "name": "Nick Bacura",
-      "normalizedName": "nick bacura",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "GR",
-      "handedness": "N/A",
-      "jersey": "18",
-      "hometown": "Manhattan Beach, Calif.",
-      "highSchool": "",
-      "previousSchool": "Santa Clara/San Francisco State",
-      "hometownHighSchool": "Manhattan Beach, Calif.",
-      "profileUrl": "https://usfdons.com/sports/baseball/roster/nick-bacura/6366",
-      "imageUrl": "https://usfdons.com/images/2026/2/5/18_Nick_Bacura_XK5lf.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "6366",
-      "sources": [
-        "San Francisco Athletics roster",
-        "San Francisco cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "6366",
-        "name": "Nick Bacura",
-        "normalizedName": "nick bacura",
-        "jersey": "18",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/nick-bacura/6366",
-        "imageUrl": "https://usfdons.com/images/2026/2/5/18_Nick_Bacura_XK5lf.png",
-        "gamesPlayed": 21,
-        "gamesStarted": 0,
-        "appearances": 21,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 2.52,
-        "whip": 1.44,
-        "wins": 1,
-        "losses": 1,
-        "saves": 9,
-        "shutouts": 0,
-        "inningsPitched": 25,
-        "inningsPitchedDisplay": "25.0",
-        "hitsAllowed": 18,
-        "runsAllowed": 10,
-        "earnedRunsAllowed": 7,
-        "walksAllowed": 18,
-        "strikeouts": 24,
-        "doublesAllowed": 5,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 1,
-        "opponentsAtBats": 89,
-        "wildPitches": 3,
-        "hitBatters": 3,
-        "balks": 0,
-        "opponentsBattingAverage": 0.202,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "6366",
-        "name": "Nick Bacura",
-        "normalizedName": "nick bacura",
-        "jersey": "18",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/nick-bacura/6366",
-        "imageUrl": "https://usfdons.com/images/2026/2/5/18_Nick_Bacura_XK5lf.png",
-        "gamesPlayed": 4,
-        "gamesStarted": 0,
-        "putouts": 0,
-        "assists": 2,
-        "errors": 1,
-        "fieldingPercentage": 0.667,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 1,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 3
-      },
-      "evaluation": {
-        "score": 10,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 42.18181818181819,
-          "Command": 6.666666666666665,
-          "Damage suppression": 0
-        },
-        "summary": "Nick Bacura looks like a RHP option who limits runs.",
-        "summaryMetrics": [
-          "ERA 2.52",
-          "WHIP 1.44",
-          "K/9 8.6"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "2.52"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.44"
-          },
-          {
-            "label": "K/9",
-            "value": "8.6"
-          },
-          {
-            "label": "BB/9",
-            "value": "6.5"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.36"
-          },
-          {
-            "label": "IP",
-            "value": "25.0"
-          }
-        ],
-        "metaLine": "GR / N/A",
-        "detailBadges": [
-          "RHP",
-          "GR",
-          "N/A",
-          "Pitcher"
-        ],
-        "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats"
-      }
-    },
-    {
-      "id": "san-francisco-6367",
-      "schoolSlug": "san-francisco",
-      "school": "San Francisco",
-      "schoolLongName": "University of San Francisco",
-      "name": "Gauge Lockhart",
-      "normalizedName": "gauge lockhart",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "GR",
-      "handedness": "N/A",
-      "jersey": "20",
-      "hometown": "Delta, Colo.",
-      "highSchool": "",
-      "previousSchool": "Brown",
-      "hometownHighSchool": "Delta, Colo.",
-      "profileUrl": "https://usfdons.com/sports/baseball/roster/gauge-lockhart/6367",
-      "imageUrl": "https://usfdons.com/images/2026/2/5/20_Gauge_Lockhart_dz8WM.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "6367",
-      "sources": [
-        "San Francisco Athletics roster",
-        "San Francisco cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "6367",
-        "name": "Gauge Lockhart",
-        "normalizedName": "gauge lockhart",
-        "jersey": "20",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/gauge-lockhart/6367",
-        "imageUrl": "https://usfdons.com/images/2026/2/5/20_Gauge_Lockhart_dz8WM.png",
-        "gamesPlayed": 16,
-        "gamesStarted": 15,
-        "appearances": 16,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 4.99,
-        "whip": 1.35,
-        "wins": 4,
-        "losses": 3,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 70.33333333333333,
-        "inningsPitchedDisplay": "70.1",
-        "hitsAllowed": 58,
-        "runsAllowed": 42,
-        "earnedRunsAllowed": 39,
-        "walksAllowed": 37,
-        "strikeouts": 51,
-        "doublesAllowed": 14,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 5,
-        "opponentsAtBats": 254,
-        "wildPitches": 2,
-        "hitBatters": 12,
-        "balks": 1,
-        "opponentsBattingAverage": 0.228,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "6367",
-        "name": "Gauge Lockhart",
-        "normalizedName": "gauge lockhart",
-        "jersey": "20",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/gauge-lockhart/6367",
-        "imageUrl": "https://usfdons.com/images/2026/2/5/20_Gauge_Lockhart_dz8WM.png",
-        "gamesPlayed": 13,
-        "gamesStarted": 13,
-        "putouts": 8,
-        "assists": 7,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 5,
-        "caughtStealingBy": 7,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 15
-      },
-      "evaluation": {
-        "score": 6,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 22.964239551917284,
-          "Command": 7.567567567567571,
-          "Damage suppression": 0
-        },
-        "summary": "Gauge Lockhart gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 4.99",
-          "WHIP 1.35",
-          "K/9 6.5"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.99"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.35"
-          },
-          {
-            "label": "K/9",
-            "value": "6.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.7"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.64"
-          },
-          {
-            "label": "IP",
-            "value": "70.3"
-          }
-        ],
-        "metaLine": "GR / N/A",
-        "detailBadges": [
-          "RHP",
-          "GR",
-          "N/A",
-          "Pitcher"
-        ],
-        "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats"
-      }
-    },
-    {
-      "id": "san-francisco-6368",
+      "id": "san-francisco-6541",
       "schoolSlug": "san-francisco",
       "school": "San Francisco",
       "schoolLongName": "University of San Francisco",
@@ -2697,14 +1324,14 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       "role": "Hitter",
       "position": "INF",
       "positionLong": "",
-      "classYear": "FR",
+      "classYear": "SO",
       "handedness": "N/A",
       "jersey": "21",
       "hometown": "Pleasant Hill, Calif.",
       "highSchool": "College Park HS",
       "previousSchool": "",
       "hometownHighSchool": "Pleasant Hill, Calif. / College Park HS",
-      "profileUrl": "https://usfdons.com/sports/baseball/roster/tino-vasell/6368",
+      "profileUrl": "https://usfdons.com/sports/baseball/roster/tino-vasell/6541",
       "imageUrl": "https://usfdons.com/images/2026/2/5/21_Tino_Vasell_fQyv5.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -2712,17 +1339,17 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "6368",
+      "rosterBioId": "6541",
       "sources": [
         "San Francisco Athletics roster",
         "San Francisco cumulative stats"
       ],
       "hittingStats": {
-        "rosterBioId": "6368",
+        "rosterBioId": "6541",
         "name": "Tino Vasell",
         "normalizedName": "tino vasell",
         "jersey": "21",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/tino-vasell/6368",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/tino-vasell/6541",
         "imageUrl": "https://usfdons.com/images/2026/2/5/21_Tino_Vasell_fQyv5.png",
         "gamesPlayed": 26,
         "gamesStarted": 20,
@@ -2756,11 +1383,11 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       },
       "pitchingStats": null,
       "fieldingStats": {
-        "rosterBioId": "6368",
+        "rosterBioId": "6541",
         "name": "Tino Vasell",
         "normalizedName": "tino vasell",
         "jersey": "21",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/tino-vasell/6368",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/tino-vasell/6541",
         "imageUrl": "https://usfdons.com/images/2026/2/5/21_Tino_Vasell_fQyv5.png",
         "gamesPlayed": 21,
         "gamesStarted": 19,
@@ -2821,509 +1448,9 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
             "value": "4"
           }
         ],
-        "metaLine": "FR / N/A",
-        "detailBadges": [
-          "INF",
-          "FR",
-          "N/A",
-          "Hitter"
-        ],
-        "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats"
-      }
-    },
-    {
-      "id": "san-francisco-6261",
-      "schoolSlug": "san-francisco",
-      "school": "San Francisco",
-      "schoolLongName": "University of San Francisco",
-      "name": "Nick Walsh",
-      "normalizedName": "nick walsh",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "INF",
-      "positionLong": "",
-      "classYear": "SR",
-      "handedness": "N/A",
-      "jersey": "22",
-      "hometown": "Pleasanton, Calif.",
-      "highSchool": "",
-      "previousSchool": "Chabot",
-      "hometownHighSchool": "Pleasanton, Calif.",
-      "profileUrl": "https://usfdons.com/sports/baseball/roster/nick-walsh/6261",
-      "imageUrl": "https://usfdons.com/images/2026/2/5/22_Nick_2tsAT.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "6261",
-      "sources": [
-        "San Francisco Athletics roster",
-        "San Francisco cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "6261",
-        "name": "Nick Walsh",
-        "normalizedName": "nick walsh",
-        "jersey": "22",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/nick-walsh/6261",
-        "imageUrl": "https://usfdons.com/images/2026/2/5/22_Nick_2tsAT.png",
-        "gamesPlayed": 12,
-        "gamesStarted": 1,
-        "battingAverage": 0.2,
-        "onBasePercentage": 0.333,
-        "sluggingPercentage": 0.3,
-        "ops": 0.633,
-        "atBats": 10,
-        "runs": 3,
-        "hits": 2,
-        "doubles": 1,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 0,
-        "totalBases": 3,
-        "walks": 0,
-        "hitByPitch": 2,
-        "strikeouts": 3,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 4,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 12,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "6261",
-        "name": "Nick Walsh",
-        "normalizedName": "nick walsh",
-        "jersey": "22",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/nick-walsh/6261",
-        "imageUrl": "https://usfdons.com/images/2026/2/5/22_Nick_2tsAT.png",
-        "gamesPlayed": 5,
-        "gamesStarted": 1,
-        "putouts": 4,
-        "assists": 6,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 2,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 10
-      },
-      "evaluation": {
-        "score": 9,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 29.44444444444444,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "summary": "Nick Walsh gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .200",
-          "OBP .333",
-          "SLG .300"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".200"
-          },
-          {
-            "label": "OBP",
-            "value": ".333"
-          },
-          {
-            "label": "SLG",
-            "value": ".300"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "INF",
-          "SR",
-          "N/A",
-          "Hitter"
-        ],
-        "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats"
-      }
-    },
-    {
-      "id": "san-francisco-6247",
-      "schoolSlug": "san-francisco",
-      "school": "San Francisco",
-      "schoolLongName": "University of San Francisco",
-      "name": "AC Cabrera",
-      "normalizedName": "ac cabrera",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "SR",
-      "handedness": "N/A",
-      "jersey": "23",
-      "hometown": "Morgan Hill, Calif.",
-      "highSchool": "Archbishop Mitty HS",
-      "previousSchool": "",
-      "hometownHighSchool": "Morgan Hill, Calif. / Archbishop Mitty HS",
-      "profileUrl": "https://usfdons.com/sports/baseball/roster/ac-cabrera/6247",
-      "imageUrl": "https://usfdons.com/images/2026/2/5/23_AC_Cabrera_20hHb.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "6247",
-      "sources": [
-        "San Francisco Athletics roster",
-        "San Francisco cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "6247",
-        "name": "AC Cabrera",
-        "normalizedName": "ac cabrera",
-        "jersey": "23",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/ac-cabrera/6247",
-        "imageUrl": "https://usfdons.com/images/2026/2/5/23_AC_Cabrera_20hHb.png",
-        "gamesPlayed": 2,
-        "gamesStarted": 0,
-        "appearances": 2,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 22.5,
-        "whip": 4,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 2,
-        "inningsPitchedDisplay": "2.0",
-        "hitsAllowed": 7,
-        "runsAllowed": 5,
-        "earnedRunsAllowed": 5,
-        "walksAllowed": 1,
-        "strikeouts": 1,
-        "doublesAllowed": 4,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 12,
-        "wildPitches": 4,
-        "hitBatters": 2,
-        "balks": 0,
-        "opponentsBattingAverage": 0.583,
-        "walksHits": 0
-      },
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 1,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 4.545454545454546,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "AC Cabrera gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 22.50",
-          "WHIP 4.00",
-          "K/9 4.5"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "22.50"
-          },
-          {
-            "label": "WHIP",
-            "value": "4.00"
-          },
-          {
-            "label": "K/9",
-            "value": "4.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.5"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "2.0"
-          }
-        ],
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "N/A",
-          "Pitcher"
-        ],
-        "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats"
-      }
-    },
-    {
-      "id": "san-francisco-6369",
-      "schoolSlug": "san-francisco",
-      "school": "San Francisco",
-      "schoolLongName": "University of San Francisco",
-      "name": "Garrett Johnston",
-      "normalizedName": "garrett johnston",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "JR",
-      "handedness": "N/A",
-      "jersey": "24",
-      "hometown": "Trabuco Canyon, Calif.",
-      "highSchool": "",
-      "previousSchool": "Orange Coast College",
-      "hometownHighSchool": "Trabuco Canyon, Calif.",
-      "profileUrl": "https://usfdons.com/sports/baseball/roster/garrett-johnston/6369",
-      "imageUrl": "https://usfdons.com/images/2026/2/5/24_Garrett_Johnston_VubDs.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "6369",
-      "sources": [
-        "San Francisco Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Garrett Johnston looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "N/A",
-          "Pitcher"
-        ],
-        "sourceSummary": "San Francisco Athletics roster"
-      }
-    },
-    {
-      "id": "san-francisco-6246",
-      "schoolSlug": "san-francisco",
-      "school": "San Francisco",
-      "schoolLongName": "University of San Francisco",
-      "name": "Brendan Burke",
-      "normalizedName": "brendan burke",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "C",
-      "positionLong": "",
-      "classYear": "SO",
-      "handedness": "N/A",
-      "jersey": "25",
-      "hometown": "Phoenix, Ariz.",
-      "highSchool": "Desert Vista HS",
-      "previousSchool": "",
-      "hometownHighSchool": "Phoenix, Ariz. / Desert Vista HS",
-      "profileUrl": "https://usfdons.com/sports/baseball/roster/brendan-burke/6246",
-      "imageUrl": "https://usfdons.com/images/2026/2/5/25_Brendan_OvqgX.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "6246",
-      "sources": [
-        "San Francisco Athletics roster",
-        "San Francisco cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "6246",
-        "name": "Brendan Burke",
-        "normalizedName": "brendan burke",
-        "jersey": "25",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/brendan-burke/6246",
-        "imageUrl": "https://usfdons.com/images/2026/2/5/25_Brendan_OvqgX.png",
-        "gamesPlayed": 34,
-        "gamesStarted": 28,
-        "battingAverage": 0.231,
-        "onBasePercentage": 0.311,
-        "sluggingPercentage": 0.333,
-        "ops": 0.644,
-        "atBats": 108,
-        "runs": 8,
-        "hits": 25,
-        "doubles": 5,
-        "triples": 0,
-        "homeRuns": 2,
-        "runsBattedIn": 13,
-        "totalBases": 36,
-        "walks": 11,
-        "hitByPitch": 2,
-        "strikeouts": 50,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 4,
-        "sacrificeFlies": 1,
-        "sacrificeHits": 0,
-        "stolenBases": 1,
-        "stolenBasesAttempts": 1,
-        "putouts": 187,
-        "assists": 0,
-        "errors": 3,
-        "plateAppearances": 123,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "6246",
-        "name": "Brendan Burke",
-        "normalizedName": "brendan burke",
-        "jersey": "25",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/brendan-burke/6246",
-        "imageUrl": "https://usfdons.com/images/2026/2/5/25_Brendan_OvqgX.png",
-        "gamesPlayed": 30,
-        "gamesStarted": 25,
-        "putouts": 187,
-        "assists": 23,
-        "errors": 3,
-        "fieldingPercentage": 0.986,
-        "doublePlays": 6,
-        "stolenBasesAgainst": 17,
-        "caughtStealingBy": 10,
-        "stolenBasesPercentage": null,
-        "passedBalls": 1,
-        "catchersInterference": 0,
-        "totalChances": 213
-      },
-      "evaluation": {
-        "score": 8,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 17.222222222222207,
-          "Power": 3.421052631578951,
-          "Contact": 6.875000000000006,
-          "Discipline": 2.222222222222221,
-          "Speed": 3.3333333333333335
-        },
-        "summary": "Brendan Burke gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .231",
-          "OBP .311",
-          "SLG .333"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".231"
-          },
-          {
-            "label": "OBP",
-            "value": ".311"
-          },
-          {
-            "label": "SLG",
-            "value": ".333"
-          },
-          {
-            "label": "HR",
-            "value": "2"
-          },
-          {
-            "label": "RBI",
-            "value": "13"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
         "metaLine": "SO / N/A",
         "detailBadges": [
-          "C",
+          "INF",
           "SO",
           "N/A",
           "Hitter"
@@ -3332,7 +1459,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       }
     },
     {
-      "id": "san-francisco-6370",
+      "id": "san-francisco-6507",
       "schoolSlug": "san-francisco",
       "school": "San Francisco",
       "schoolLongName": "University of San Francisco",
@@ -3342,14 +1469,14 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       "role": "Hitter",
       "position": "OF",
       "positionLong": "",
-      "classYear": "FR",
+      "classYear": "SO",
       "handedness": "N/A",
       "jersey": "26",
       "hometown": "Phoenix, Ariz.",
       "highSchool": "Desert Vista HS",
       "previousSchool": "",
       "hometownHighSchool": "Phoenix, Ariz. / Desert Vista HS",
-      "profileUrl": "https://usfdons.com/sports/baseball/roster/jayden-garrison/6370",
+      "profileUrl": "https://usfdons.com/sports/baseball/roster/jayden-garrison/6507",
       "imageUrl": "https://usfdons.com/images/2026/2/5/26_Jayden_Garrison_OAUv1.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -3357,17 +1484,17 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "6370",
+      "rosterBioId": "6507",
       "sources": [
         "San Francisco Athletics roster",
         "San Francisco cumulative stats"
       ],
       "hittingStats": {
-        "rosterBioId": "6370",
+        "rosterBioId": "6507",
         "name": "Jayden Garrison",
         "normalizedName": "jayden garrison",
         "jersey": "26",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/jayden-garrison/6370",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/jayden-garrison/6507",
         "imageUrl": "https://usfdons.com/images/2026/2/5/26_Jayden_Garrison_OAUv1.png",
         "gamesPlayed": 50,
         "gamesStarted": 50,
@@ -3401,11 +1528,11 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       },
       "pitchingStats": null,
       "fieldingStats": {
-        "rosterBioId": "6370",
+        "rosterBioId": "6507",
         "name": "Jayden Garrison",
         "normalizedName": "jayden garrison",
         "jersey": "26",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/jayden-garrison/6370",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/jayden-garrison/6507",
         "imageUrl": "https://usfdons.com/images/2026/2/5/26_Jayden_Garrison_OAUv1.png",
         "gamesPlayed": 48,
         "gamesStarted": 48,
@@ -3466,10 +1593,10 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
             "value": "5"
           }
         ],
-        "metaLine": "FR / N/A",
+        "metaLine": "SO / N/A",
         "detailBadges": [
           "OF",
-          "FR",
+          "SO",
           "N/A",
           "Hitter"
         ],
@@ -3477,149 +1604,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       }
     },
     {
-      "id": "san-francisco-6243",
-      "schoolSlug": "san-francisco",
-      "school": "San Francisco",
-      "schoolLongName": "University of San Francisco",
-      "name": "Cal Amborn",
-      "normalizedName": "cal amborn",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "R-JR",
-      "handedness": "N/A",
-      "jersey": "27",
-      "hometown": "Larkspur, Calif.",
-      "highSchool": "Archie Williams HS",
-      "previousSchool": "",
-      "hometownHighSchool": "Larkspur, Calif. / Archie Williams HS",
-      "profileUrl": "https://usfdons.com/sports/baseball/roster/cal-amborn/6243",
-      "imageUrl": "https://usfdons.com/images/2026/2/5/27_Cal_Amborn_zN4sA.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "6243",
-      "sources": [
-        "San Francisco Athletics roster",
-        "San Francisco cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "6243",
-        "name": "Cal Amborn",
-        "normalizedName": "cal amborn",
-        "jersey": "27",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/cal-amborn/6243",
-        "imageUrl": "https://usfdons.com/images/2026/2/5/27_Cal_Amborn_zN4sA.png",
-        "gamesPlayed": 18,
-        "gamesStarted": 0,
-        "appearances": 18,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 6.49,
-        "whip": 1.67,
-        "wins": 0,
-        "losses": 1,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 26.333333333333332,
-        "inningsPitchedDisplay": "26.1",
-        "hitsAllowed": 34,
-        "runsAllowed": 21,
-        "earnedRunsAllowed": 19,
-        "walksAllowed": 10,
-        "strikeouts": 14,
-        "doublesAllowed": 7,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 5,
-        "opponentsAtBats": 104,
-        "wildPitches": 3,
-        "hitBatters": 1,
-        "balks": 0,
-        "opponentsBattingAverage": 0.327,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "6243",
-        "name": "Cal Amborn",
-        "normalizedName": "cal amborn",
-        "jersey": "27",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/cal-amborn/6243",
-        "imageUrl": "https://usfdons.com/images/2026/2/5/27_Cal_Amborn_zN4sA.png",
-        "gamesPlayed": 8,
-        "gamesStarted": 0,
-        "putouts": 3,
-        "assists": 5,
-        "errors": 1,
-        "fieldingPercentage": 0.889,
-        "doublePlays": 1,
-        "stolenBasesAgainst": 1,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 9
-      },
-      "evaluation": {
-        "score": 3,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 7.134637514384355,
-          "Command": 8.000000000000004,
-          "Damage suppression": 0
-        },
-        "summary": "Cal Amborn gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 6.49",
-          "WHIP 1.67",
-          "K/9 4.8"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "6.49"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.67"
-          },
-          {
-            "label": "K/9",
-            "value": "4.8"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.4"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.71"
-          },
-          {
-            "label": "IP",
-            "value": "26.3"
-          }
-        ],
-        "metaLine": "R-JR / N/A",
-        "detailBadges": [
-          "RHP",
-          "R-JR",
-          "N/A",
-          "Pitcher"
-        ],
-        "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats"
-      }
-    },
-    {
-      "id": "san-francisco-6371",
+      "id": "san-francisco-6503",
       "schoolSlug": "san-francisco",
       "school": "San Francisco",
       "schoolLongName": "University of San Francisco",
@@ -3629,14 +1614,14 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
-      "classYear": "FR",
+      "classYear": "SO",
       "handedness": "N/A",
       "jersey": "28",
       "hometown": "Saint George, Utah",
       "highSchool": "Dixie HS",
       "previousSchool": "",
       "hometownHighSchool": "Saint George, Utah / Dixie HS",
-      "profileUrl": "https://usfdons.com/sports/baseball/roster/jake-andreas/6371",
+      "profileUrl": "https://usfdons.com/sports/baseball/roster/jake-andreas/6503",
       "imageUrl": "https://usfdons.com/images/2026/2/5/28_Jake_Andreas_9mc6M.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -3644,18 +1629,18 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "6371",
+      "rosterBioId": "6503",
       "sources": [
         "San Francisco Athletics roster",
         "San Francisco cumulative stats"
       ],
       "hittingStats": null,
       "pitchingStats": {
-        "rosterBioId": "6371",
+        "rosterBioId": "6503",
         "name": "Jake Andreas",
         "normalizedName": "jake andreas",
         "jersey": "28",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/jake-andreas/6371",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/jake-andreas/6503",
         "imageUrl": "https://usfdons.com/images/2026/2/5/28_Jake_Andreas_9mc6M.png",
         "gamesPlayed": 16,
         "gamesStarted": 2,
@@ -3685,11 +1670,11 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "walksHits": 0
       },
       "fieldingStats": {
-        "rosterBioId": "6371",
+        "rosterBioId": "6503",
         "name": "Jake Andreas",
         "normalizedName": "jake andreas",
         "jersey": "28",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/jake-andreas/6371",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/jake-andreas/6503",
         "imageUrl": "https://usfdons.com/images/2026/2/5/28_Jake_Andreas_9mc6M.png",
         "gamesPlayed": 2,
         "gamesStarted": 1,
@@ -3750,10 +1735,10 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
             "value": "23.0"
           }
         ],
-        "metaLine": "FR / N/A",
+        "metaLine": "SO / N/A",
         "detailBadges": [
           "RHP",
-          "FR",
+          "SO",
           "N/A",
           "Pitcher"
         ],
@@ -3761,7 +1746,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       }
     },
     {
-      "id": "san-francisco-6372",
+      "id": "san-francisco-6525",
       "schoolSlug": "san-francisco",
       "school": "San Francisco",
       "schoolLongName": "University of San Francisco",
@@ -3771,14 +1756,14 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       "role": "Hitter",
       "position": "OF",
       "positionLong": "",
-      "classYear": "JR",
+      "classYear": "SR",
       "handedness": "N/A",
       "jersey": "29",
       "hometown": "Petaluma, Calif.",
       "highSchool": "",
       "previousSchool": "College of Marin",
       "hometownHighSchool": "Petaluma, Calif.",
-      "profileUrl": "https://usfdons.com/sports/baseball/roster/wyatt-davis/6372",
+      "profileUrl": "https://usfdons.com/sports/baseball/roster/wyatt-davis/6525",
       "imageUrl": "https://usfdons.com/images/2026/2/5/29_Wyatt_GO8vs.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -3786,17 +1771,17 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "6372",
+      "rosterBioId": "6525",
       "sources": [
         "San Francisco Athletics roster",
         "San Francisco cumulative stats"
       ],
       "hittingStats": {
-        "rosterBioId": "6372",
+        "rosterBioId": "6525",
         "name": "Wyatt Davis",
         "normalizedName": "wyatt davis",
         "jersey": "29",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/wyatt-davis/6372",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/wyatt-davis/6525",
         "imageUrl": "https://usfdons.com/images/2026/2/5/29_Wyatt_GO8vs.png",
         "gamesPlayed": 22,
         "gamesStarted": 17,
@@ -3830,11 +1815,11 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       },
       "pitchingStats": null,
       "fieldingStats": {
-        "rosterBioId": "6372",
+        "rosterBioId": "6525",
         "name": "Wyatt Davis",
         "normalizedName": "wyatt davis",
         "jersey": "29",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/wyatt-davis/6372",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/wyatt-davis/6525",
         "imageUrl": "https://usfdons.com/images/2026/2/5/29_Wyatt_GO8vs.png",
         "gamesPlayed": 6,
         "gamesStarted": 6,
@@ -3895,10 +1880,10 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
             "value": "1"
           }
         ],
-        "metaLine": "JR / N/A",
+        "metaLine": "SR / N/A",
         "detailBadges": [
           "OF",
-          "JR",
+          "SR",
           "N/A",
           "Hitter"
         ],
@@ -3906,129 +1891,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       }
     },
     {
-      "id": "san-francisco-6373",
-      "schoolSlug": "san-francisco",
-      "school": "San Francisco",
-      "schoolLongName": "University of San Francisco",
-      "name": "Jackson Thielen",
-      "normalizedName": "jackson thielen",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "",
-      "classYear": "GR",
-      "handedness": "N/A",
-      "jersey": "31",
-      "hometown": "Eden Prairie, Minn.",
-      "highSchool": "",
-      "previousSchool": "Gustavus Adolphus",
-      "hometownHighSchool": "Eden Prairie, Minn.",
-      "profileUrl": "https://usfdons.com/sports/baseball/roster/jackson-thielen/6373",
-      "imageUrl": "https://usfdons.com/images/2026/2/5/31_Jackson_Thielen_ujLcq.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "6373",
-      "sources": [
-        "San Francisco Athletics roster",
-        "San Francisco cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "6373",
-        "name": "Jackson Thielen",
-        "normalizedName": "jackson thielen",
-        "jersey": "31",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/jackson-thielen/6373",
-        "imageUrl": "https://usfdons.com/images/2026/2/5/31_Jackson_Thielen_ujLcq.png",
-        "gamesPlayed": 1,
-        "gamesStarted": 0,
-        "appearances": 1,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 99,
-        "whip": 0,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 0,
-        "inningsPitchedDisplay": "0.0",
-        "hitsAllowed": 0,
-        "runsAllowed": 3,
-        "earnedRunsAllowed": 3,
-        "walksAllowed": 3,
-        "strikeouts": 0,
-        "doublesAllowed": 0,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 0,
-        "wildPitches": 0,
-        "hitBatters": 0,
-        "balks": 0,
-        "opponentsBattingAverage": 0,
-        "walksHits": 0
-      },
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Jackson Thielen looks like a LHP option who throws enough strikes and keeps traffic under control.",
-        "summaryMetrics": [
-          "ERA 99.00",
-          "WHIP 0.00",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "99.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "0.00"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "metaLine": "GR / N/A",
-        "detailBadges": [
-          "LHP",
-          "GR",
-          "N/A",
-          "Pitcher"
-        ],
-        "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats"
-      }
-    },
-    {
-      "id": "san-francisco-6374",
+      "id": "san-francisco-6544",
       "schoolSlug": "san-francisco",
       "school": "San Francisco",
       "schoolLongName": "University of San Francisco",
@@ -4038,14 +1901,14 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       "role": "Pitcher",
       "position": "INF/RHP",
       "positionLong": "",
-      "classYear": "FR",
+      "classYear": "SO",
       "handedness": "N/A",
       "jersey": "32",
       "hometown": "Yucaipa, Calif.",
       "highSchool": "Yucaipa HS",
       "previousSchool": "",
       "hometownHighSchool": "Yucaipa, Calif. / Yucaipa HS",
-      "profileUrl": "https://usfdons.com/sports/baseball/roster/trevor-busby/6374",
+      "profileUrl": "https://usfdons.com/sports/baseball/roster/trevor-busby/6544",
       "imageUrl": "https://usfdons.com/images/2026/2/5/32_Trevor_N58dz.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -4053,17 +1916,17 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "6374",
+      "rosterBioId": "6544",
       "sources": [
         "San Francisco Athletics roster",
         "San Francisco cumulative stats"
       ],
       "hittingStats": {
-        "rosterBioId": "6374",
+        "rosterBioId": "6544",
         "name": "Trevor Busby",
         "normalizedName": "trevor busby",
         "jersey": "32",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/trevor-busby/6374",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/trevor-busby/6544",
         "imageUrl": "https://usfdons.com/images/2026/2/5/32_Trevor_N58dz.png",
         "gamesPlayed": 5,
         "gamesStarted": 3,
@@ -4096,11 +1959,11 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "pickedOff": 0
       },
       "pitchingStats": {
-        "rosterBioId": "6374",
+        "rosterBioId": "6544",
         "name": "Trevor Busby",
         "normalizedName": "trevor busby",
         "jersey": "32",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/trevor-busby/6374",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/trevor-busby/6544",
         "imageUrl": "https://usfdons.com/images/2026/2/5/32_Trevor_N58dz.png",
         "gamesPlayed": 6,
         "gamesStarted": 2,
@@ -4130,11 +1993,11 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "walksHits": 0
       },
       "fieldingStats": {
-        "rosterBioId": "6374",
+        "rosterBioId": "6544",
         "name": "Trevor Busby",
         "normalizedName": "trevor busby",
         "jersey": "32",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/trevor-busby/6374",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/trevor-busby/6544",
         "imageUrl": "https://usfdons.com/images/2026/2/5/32_Trevor_N58dz.png",
         "gamesPlayed": 2,
         "gamesStarted": 0,
@@ -4195,10 +2058,10 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
             "value": "5.7"
           }
         ],
-        "metaLine": "FR / N/A",
+        "metaLine": "SO / N/A",
         "detailBadges": [
           "INF/RHP",
-          "FR",
+          "SO",
           "N/A",
           "Two-Way"
         ],
@@ -4206,7 +2069,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       }
     },
     {
-      "id": "san-francisco-6375",
+      "id": "san-francisco-6511",
       "schoolSlug": "san-francisco",
       "school": "San Francisco",
       "schoolLongName": "University of San Francisco",
@@ -4216,14 +2079,14 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       "role": "Hitter",
       "position": "INF",
       "positionLong": "",
-      "classYear": "FR",
+      "classYear": "SO",
       "handedness": "N/A",
       "jersey": "33",
       "hometown": "Honolulu, Hawaii",
       "highSchool": "Punahou HS",
       "previousSchool": "",
       "hometownHighSchool": "Honolulu, Hawaii / Punahou HS",
-      "profileUrl": "https://usfdons.com/sports/baseball/roster/jake-hiromoto/6375",
+      "profileUrl": "https://usfdons.com/sports/baseball/roster/jake-hiromoto/6511",
       "imageUrl": "https://usfdons.com/images/2026/2/5/33_Jake_Hiromoto_8I4ja.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -4231,17 +2094,17 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "6375",
+      "rosterBioId": "6511",
       "sources": [
         "San Francisco Athletics roster",
         "San Francisco cumulative stats"
       ],
       "hittingStats": {
-        "rosterBioId": "6375",
+        "rosterBioId": "6511",
         "name": "Jake Hiromoto",
         "normalizedName": "jake hiromoto",
         "jersey": "33",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/jake-hiromoto/6375",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/jake-hiromoto/6511",
         "imageUrl": "https://usfdons.com/images/2026/2/5/33_Jake_Hiromoto_8I4ja.png",
         "gamesPlayed": 6,
         "gamesStarted": 1,
@@ -4275,11 +2138,11 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       },
       "pitchingStats": null,
       "fieldingStats": {
-        "rosterBioId": "6375",
+        "rosterBioId": "6511",
         "name": "Jake Hiromoto",
         "normalizedName": "jake hiromoto",
         "jersey": "33",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/jake-hiromoto/6375",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/jake-hiromoto/6511",
         "imageUrl": "https://usfdons.com/images/2026/2/5/33_Jake_Hiromoto_8I4ja.png",
         "gamesPlayed": 3,
         "gamesStarted": 1,
@@ -4340,10 +2203,10 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "FR / N/A",
+        "metaLine": "SO / N/A",
         "detailBadges": [
           "INF",
-          "FR",
+          "SO",
           "N/A",
           "Hitter"
         ],
@@ -4351,7 +2214,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       }
     },
     {
-      "id": "san-francisco-6376",
+      "id": "san-francisco-6548",
       "schoolSlug": "san-francisco",
       "school": "San Francisco",
       "schoolLongName": "University of San Francisco",
@@ -4361,14 +2224,14 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
-      "classYear": "JR",
+      "classYear": "SR",
       "handedness": "N/A",
       "jersey": "34",
       "hometown": "San Leandro, Calif.",
       "highSchool": "",
       "previousSchool": "Laney JC",
       "hometownHighSchool": "San Leandro, Calif.",
-      "profileUrl": "https://usfdons.com/sports/baseball/roster/alex-gomez/6376",
+      "profileUrl": "https://usfdons.com/sports/baseball/roster/alex-gomez/6548",
       "imageUrl": "https://usfdons.com/images/2026/2/5/34_Alex_WSWlo.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -4376,18 +2239,18 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "6376",
+      "rosterBioId": "6548",
       "sources": [
         "San Francisco Athletics roster",
         "San Francisco cumulative stats"
       ],
       "hittingStats": null,
       "pitchingStats": {
-        "rosterBioId": "6376",
+        "rosterBioId": "6548",
         "name": "Alex Gomez",
         "normalizedName": "alex gomez",
         "jersey": "34",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/alex-gomez/6376",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/alex-gomez/6548",
         "imageUrl": "https://usfdons.com/images/2026/2/5/34_Alex_WSWlo.png",
         "gamesPlayed": 11,
         "gamesStarted": 0,
@@ -4417,11 +2280,11 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "walksHits": 0
       },
       "fieldingStats": {
-        "rosterBioId": "6376",
+        "rosterBioId": "6548",
         "name": "Alex Gomez",
         "normalizedName": "alex gomez",
         "jersey": "34",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/alex-gomez/6376",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/alex-gomez/6548",
         "imageUrl": "https://usfdons.com/images/2026/2/5/34_Alex_WSWlo.png",
         "gamesPlayed": 1,
         "gamesStarted": 0,
@@ -4482,10 +2345,10 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
             "value": "12.3"
           }
         ],
-        "metaLine": "JR / N/A",
+        "metaLine": "SR / N/A",
         "detailBadges": [
           "RHP",
-          "JR",
+          "SR",
           "N/A",
           "Pitcher"
         ],
@@ -4493,271 +2356,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       }
     },
     {
-      "id": "san-francisco-6262",
-      "schoolSlug": "san-francisco",
-      "school": "San Francisco",
-      "schoolLongName": "University of San Francisco",
-      "name": "Kai Yovanovich",
-      "normalizedName": "kai yovanovich",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "GR",
-      "handedness": "N/A",
-      "jersey": "35",
-      "hometown": "Richmond, Calif.",
-      "highSchool": "",
-      "previousSchool": "Laney JC",
-      "hometownHighSchool": "Richmond, Calif.",
-      "profileUrl": "https://usfdons.com/sports/baseball/roster/kai-yovanovich/6262",
-      "imageUrl": "https://usfdons.com/images/2026/2/5/35_Kai_Yovanovich_G6Kr6.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "6262",
-      "sources": [
-        "San Francisco Athletics roster",
-        "San Francisco cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "6262",
-        "name": "Kai Yovanovich",
-        "normalizedName": "kai yovanovich",
-        "jersey": "35",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/kai-yovanovich/6262",
-        "imageUrl": "https://usfdons.com/images/2026/2/5/35_Kai_Yovanovich_G6Kr6.png",
-        "gamesPlayed": 20,
-        "gamesStarted": 0,
-        "appearances": 20,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 3.31,
-        "whip": 1.07,
-        "wins": 4,
-        "losses": 1,
-        "saves": 1,
-        "shutouts": 0,
-        "inningsPitched": 32.666666666666664,
-        "inningsPitchedDisplay": "32.2",
-        "hitsAllowed": 18,
-        "runsAllowed": 12,
-        "earnedRunsAllowed": 12,
-        "walksAllowed": 17,
-        "strikeouts": 34,
-        "doublesAllowed": 2,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 3,
-        "opponentsAtBats": 108,
-        "wildPitches": 1,
-        "hitBatters": 2,
-        "balks": 0,
-        "opponentsBattingAverage": 0.167,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "6262",
-        "name": "Kai Yovanovich",
-        "normalizedName": "kai yovanovich",
-        "jersey": "35",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/kai-yovanovich/6262",
-        "imageUrl": "https://usfdons.com/images/2026/2/5/35_Kai_Yovanovich_G6Kr6.png",
-        "gamesPlayed": 6,
-        "gamesStarted": 0,
-        "putouts": 4,
-        "assists": 2,
-        "errors": 1,
-        "fieldingPercentage": 0.857,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 7
-      },
-      "evaluation": {
-        "score": 13,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 48.79406307977737,
-          "Command": 20,
-          "Damage suppression": 0
-        },
-        "summary": "Kai Yovanovich looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
-        "summaryMetrics": [
-          "ERA 3.31",
-          "WHIP 1.07",
-          "K/9 9.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.31"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.07"
-          },
-          {
-            "label": "K/9",
-            "value": "9.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.7"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.83"
-          },
-          {
-            "label": "IP",
-            "value": "32.7"
-          }
-        ],
-        "metaLine": "GR / N/A",
-        "detailBadges": [
-          "RHP",
-          "GR",
-          "N/A",
-          "Pitcher"
-        ],
-        "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats"
-      }
-    },
-    {
-      "id": "san-francisco-6377",
-      "schoolSlug": "san-francisco",
-      "school": "San Francisco",
-      "schoolLongName": "University of San Francisco",
-      "name": "Chris Byhre",
-      "normalizedName": "chris byhre",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "GR",
-      "handedness": "N/A",
-      "jersey": "36",
-      "hometown": "Waukesha, Wis.",
-      "highSchool": "",
-      "previousSchool": "Omaha/Madison College/Eastern Kentucky",
-      "hometownHighSchool": "Waukesha, Wis.",
-      "profileUrl": "https://usfdons.com/sports/baseball/roster/chris-byhre/6377",
-      "imageUrl": "https://usfdons.com/images/2026/2/5/36_Chris_6weQy.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "6377",
-      "sources": [
-        "San Francisco Athletics roster",
-        "San Francisco cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "6377",
-        "name": "Chris Byhre",
-        "normalizedName": "chris byhre",
-        "jersey": "36",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/chris-byhre/6377",
-        "imageUrl": "https://usfdons.com/images/2026/2/5/36_Chris_6weQy.png",
-        "gamesPlayed": 12,
-        "gamesStarted": 1,
-        "appearances": 12,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 10.2,
-        "whip": 2.13,
-        "wins": 1,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 15,
-        "inningsPitchedDisplay": "15.0",
-        "hitsAllowed": 27,
-        "runsAllowed": 18,
-        "earnedRunsAllowed": 17,
-        "walksAllowed": 5,
-        "strikeouts": 12,
-        "doublesAllowed": 6,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 69,
-        "wildPitches": 1,
-        "hitBatters": 5,
-        "balks": 2,
-        "opponentsBattingAverage": 0.391,
-        "walksHits": 0
-      },
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 10,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 29.090909090909093,
-          "Command": 27.999999999999996,
-          "Damage suppression": 0
-        },
-        "summary": "Chris Byhre looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA 10.20",
-          "WHIP 2.13",
-          "K/9 7.2"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "10.20"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.13"
-          },
-          {
-            "label": "K/9",
-            "value": "7.2"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "15.0"
-          }
-        ],
-        "metaLine": "GR / N/A",
-        "detailBadges": [
-          "RHP",
-          "GR",
-          "N/A",
-          "Pitcher"
-        ],
-        "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats"
-      }
-    },
-    {
-      "id": "san-francisco-6378",
+      "id": "san-francisco-6515",
       "schoolSlug": "san-francisco",
       "school": "San Francisco",
       "schoolLongName": "University of San Francisco",
@@ -4767,14 +2366,14 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       "role": "Hitter",
       "position": "C",
       "positionLong": "",
-      "classYear": "FR",
+      "classYear": "SO",
       "handedness": "N/A",
       "jersey": "37",
       "hometown": "Murrieta, Calif.",
       "highSchool": "Vista Murrieta HS",
       "previousSchool": "",
       "hometownHighSchool": "Murrieta, Calif. / Vista Murrieta HS",
-      "profileUrl": "https://usfdons.com/sports/baseball/roster/brady-luyben/6378",
+      "profileUrl": "https://usfdons.com/sports/baseball/roster/brady-luyben/6515",
       "imageUrl": "https://usfdons.com/images/2026/2/5/37_Brady_Luyben_u9emy.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -4782,17 +2381,17 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "6378",
+      "rosterBioId": "6515",
       "sources": [
         "San Francisco Athletics roster",
         "San Francisco cumulative stats"
       ],
       "hittingStats": {
-        "rosterBioId": "6378",
+        "rosterBioId": "6515",
         "name": "Brady Luyben",
         "normalizedName": "brady luyben",
         "jersey": "37",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/brady-luyben/6378",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/brady-luyben/6515",
         "imageUrl": "https://usfdons.com/images/2026/2/5/37_Brady_Luyben_u9emy.png",
         "gamesPlayed": 5,
         "gamesStarted": 2,
@@ -4826,11 +2425,11 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       },
       "pitchingStats": null,
       "fieldingStats": {
-        "rosterBioId": "6378",
+        "rosterBioId": "6515",
         "name": "Brady Luyben",
         "normalizedName": "brady luyben",
         "jersey": "37",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/brady-luyben/6378",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/brady-luyben/6515",
         "imageUrl": "https://usfdons.com/images/2026/2/5/37_Brady_Luyben_u9emy.png",
         "gamesPlayed": 4,
         "gamesStarted": 2,
@@ -4891,10 +2490,10 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "FR / N/A",
+        "metaLine": "SO / N/A",
         "detailBadges": [
           "C",
-          "FR",
+          "SO",
           "N/A",
           "Hitter"
         ],
@@ -4902,7 +2501,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       }
     },
     {
-      "id": "san-francisco-6379",
+      "id": "san-francisco-6519",
       "schoolSlug": "san-francisco",
       "school": "San Francisco",
       "schoolLongName": "University of San Francisco",
@@ -4912,14 +2511,14 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
-      "classYear": "JR",
+      "classYear": "SR",
       "handedness": "N/A",
       "jersey": "38",
       "hometown": "Pinole, Calif.",
       "highSchool": "",
       "previousSchool": "College of San Mateo",
       "hometownHighSchool": "Pinole, Calif.",
-      "profileUrl": "https://usfdons.com/sports/baseball/roster/gino-rossi/6379",
+      "profileUrl": "https://usfdons.com/sports/baseball/roster/gino-rossi/6519",
       "imageUrl": "https://usfdons.com/images/2026/2/5/38_Gino_G7Oe1.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -4927,18 +2526,18 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "6379",
+      "rosterBioId": "6519",
       "sources": [
         "San Francisco Athletics roster",
         "San Francisco cumulative stats"
       ],
       "hittingStats": null,
       "pitchingStats": {
-        "rosterBioId": "6379",
+        "rosterBioId": "6519",
         "name": "Gino Rossi",
         "normalizedName": "gino rossi",
         "jersey": "38",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/gino-rossi/6379",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/gino-rossi/6519",
         "imageUrl": "https://usfdons.com/images/2026/2/5/38_Gino_G7Oe1.png",
         "gamesPlayed": 12,
         "gamesStarted": 0,
@@ -4968,11 +2567,11 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "walksHits": 0
       },
       "fieldingStats": {
-        "rosterBioId": "6379",
+        "rosterBioId": "6519",
         "name": "Gino Rossi",
         "normalizedName": "gino rossi",
         "jersey": "38",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/gino-rossi/6379",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/gino-rossi/6519",
         "imageUrl": "https://usfdons.com/images/2026/2/5/38_Gino_G7Oe1.png",
         "gamesPlayed": 2,
         "gamesStarted": 0,
@@ -5033,10 +2632,10 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
             "value": "14.0"
           }
         ],
-        "metaLine": "JR / N/A",
+        "metaLine": "SR / N/A",
         "detailBadges": [
           "RHP",
-          "JR",
+          "SR",
           "N/A",
           "Pitcher"
         ],
@@ -5044,7 +2643,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       }
     },
     {
-      "id": "san-francisco-6380",
+      "id": "san-francisco-6529",
       "schoolSlug": "san-francisco",
       "school": "San Francisco",
       "schoolLongName": "University of San Francisco",
@@ -5054,14 +2653,14 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
-      "classYear": "FR",
+      "classYear": "SO",
       "handedness": "N/A",
       "jersey": "39",
       "hometown": "Salinas, Calif.",
       "highSchool": "Palma HS",
       "previousSchool": "",
       "hometownHighSchool": "Salinas, Calif. / Palma HS",
-      "profileUrl": "https://usfdons.com/sports/baseball/roster/alan-gonzalez/6380",
+      "profileUrl": "https://usfdons.com/sports/baseball/roster/alan-gonzalez/6529",
       "imageUrl": "https://usfdons.com/images/2026/2/5/39_Alan_Gonzalez_8As9X.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -5069,18 +2668,18 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "6380",
+      "rosterBioId": "6529",
       "sources": [
         "San Francisco Athletics roster",
         "San Francisco cumulative stats"
       ],
       "hittingStats": null,
       "pitchingStats": {
-        "rosterBioId": "6380",
+        "rosterBioId": "6529",
         "name": "Alan Gonzalez",
         "normalizedName": "alan gonzalez",
         "jersey": "39",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/alan-gonzalez/6380",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/alan-gonzalez/6529",
         "imageUrl": "https://usfdons.com/images/2026/2/5/39_Alan_Gonzalez_8As9X.png",
         "gamesPlayed": 19,
         "gamesStarted": 4,
@@ -5110,11 +2709,11 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "walksHits": 0
       },
       "fieldingStats": {
-        "rosterBioId": "6380",
+        "rosterBioId": "6529",
         "name": "Alan Gonzalez",
         "normalizedName": "alan gonzalez",
         "jersey": "39",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/alan-gonzalez/6380",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/alan-gonzalez/6529",
         "imageUrl": "https://usfdons.com/images/2026/2/5/39_Alan_Gonzalez_8As9X.png",
         "gamesPlayed": 4,
         "gamesStarted": 1,
@@ -5175,10 +2774,10 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
             "value": "21.0"
           }
         ],
-        "metaLine": "FR / N/A",
+        "metaLine": "SO / N/A",
         "detailBadges": [
           "RHP",
-          "FR",
+          "SO",
           "N/A",
           "Pitcher"
         ],
@@ -5186,166 +2785,24 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       }
     },
     {
-      "id": "san-francisco-6244",
-      "schoolSlug": "san-francisco",
-      "school": "San Francisco",
-      "schoolLongName": "University of San Francisco",
-      "name": "Gabriel Barrett",
-      "normalizedName": "gabriel barrett",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "SR",
-      "handedness": "N/A",
-      "jersey": "40",
-      "hometown": "Mountain View, Calif.",
-      "highSchool": "Mountain View HS",
-      "previousSchool": "",
-      "hometownHighSchool": "Mountain View, Calif. / Mountain View HS",
-      "profileUrl": "https://usfdons.com/sports/baseball/roster/gabriel-barrett/6244",
-      "imageUrl": "https://usfdons.com/images/2026/2/5/40_Gabriel_Barrett_PTbwV.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "6244",
-      "sources": [
-        "San Francisco Athletics roster",
-        "San Francisco cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "6244",
-        "name": "Gabriel Barrett",
-        "normalizedName": "gabriel barrett",
-        "jersey": "40",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/gabriel-barrett/6244",
-        "imageUrl": "https://usfdons.com/images/2026/2/5/40_Gabriel_Barrett_PTbwV.png",
-        "gamesPlayed": 17,
-        "gamesStarted": 14,
-        "appearances": 17,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 4.27,
-        "whip": 1.44,
-        "wins": 4,
-        "losses": 5,
-        "saves": 1,
-        "shutouts": 0,
-        "inningsPitched": 78,
-        "inningsPitchedDisplay": "78.0",
-        "hitsAllowed": 94,
-        "runsAllowed": 43,
-        "earnedRunsAllowed": 37,
-        "walksAllowed": 18,
-        "strikeouts": 71,
-        "doublesAllowed": 20,
-        "triplesAllowed": 3,
-        "homeRunsAllowed": 3,
-        "opponentsAtBats": 317,
-        "wildPitches": 2,
-        "hitBatters": 9,
-        "balks": 1,
-        "opponentsBattingAverage": 0.297,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "6244",
-        "name": "Gabriel Barrett",
-        "normalizedName": "gabriel barrett",
-        "jersey": "40",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/gabriel-barrett/6244",
-        "imageUrl": "https://usfdons.com/images/2026/2/5/40_Gabriel_Barrett_PTbwV.png",
-        "gamesPlayed": 11,
-        "gamesStarted": 10,
-        "putouts": 7,
-        "assists": 8,
-        "errors": 2,
-        "fieldingPercentage": 0.882,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 3,
-        "caughtStealingBy": 2,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 17
-      },
-      "evaluation": {
-        "score": 17,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 38.111888111888106,
-          "Command": 58.88888888888888,
-          "Damage suppression": 0
-        },
-        "summary": "Gabriel Barrett looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA 4.27",
-          "WHIP 1.44",
-          "K/9 8.2"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.27"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.44"
-          },
-          {
-            "label": "K/9",
-            "value": "8.2"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.1"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.35"
-          },
-          {
-            "label": "IP",
-            "value": "78.0"
-          }
-        ],
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "N/A",
-          "Pitcher"
-        ],
-        "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats"
-      }
-    },
-    {
-      "id": "san-francisco-5917",
+      "id": "san-francisco-6558",
       "schoolSlug": "san-francisco",
       "school": "San Francisco",
       "schoolLongName": "University of San Francisco",
       "name": "Jackson Nystrom",
       "normalizedName": "jackson nystrom",
-      "compositeRole": "Rostered",
+      "compositeRole": "Hitter",
       "role": "Hitter",
       "position": "OF",
       "positionLong": "",
-      "classYear": "R-SO",
+      "classYear": "R-JR",
       "handedness": "N/A",
       "jersey": "48",
       "hometown": "Livermore, Calif.",
       "highSchool": "",
       "previousSchool": "Ohlone",
       "hometownHighSchool": "Livermore, Calif.",
-      "profileUrl": "https://usfdons.com/sports/baseball/roster/jackson-nystrom/5917",
+      "profileUrl": "https://usfdons.com/sports/baseball/roster/jackson-nystrom/6558",
       "imageUrl": "https://usfdons.com/images/2026/2/5/48_Jackson_Nystrom_fTxzr.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -5353,70 +2810,127 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "5917",
+      "rosterBioId": "6558",
       "sources": [
-        "San Francisco Athletics roster"
+        "San Francisco Athletics roster",
+        "San Francisco cumulative stats"
       ],
-      "hittingStats": null,
+      "hittingStats": {
+        "rosterBioId": "6558",
+        "name": "Jackson Nystrom",
+        "normalizedName": "jackson nystrom",
+        "jersey": "48",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/jackson-nystrom/6558",
+        "imageUrl": "https://usfdons.com/images/2026/2/5/48_Jackson_Nystrom_fTxzr.png",
+        "gamesPlayed": 41,
+        "gamesStarted": 37,
+        "battingAverage": 0.326,
+        "onBasePercentage": 0.414,
+        "sluggingPercentage": 0.508,
+        "ops": 0.922,
+        "atBats": 132,
+        "runs": 28,
+        "hits": 43,
+        "doubles": 6,
+        "triples": 0,
+        "homeRuns": 6,
+        "runsBattedIn": 33,
+        "totalBases": 67,
+        "walks": 9,
+        "hitByPitch": 11,
+        "strikeouts": 29,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 2,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 0,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 0,
+        "putouts": 8,
+        "assists": 0,
+        "errors": 0,
+        "plateAppearances": 160,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
       "pitchingStats": null,
-      "fieldingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "6558",
+        "name": "Jackson Nystrom",
+        "normalizedName": "jackson nystrom",
+        "jersey": "48",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/jackson-nystrom/6558",
+        "imageUrl": "https://usfdons.com/images/2026/2/5/48_Jackson_Nystrom_fTxzr.png",
+        "gamesPlayed": 5,
+        "gamesStarted": 4,
+        "putouts": 8,
+        "assists": 1,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 9
+      },
       "evaluation": {
-        "score": 0,
+        "score": 50,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
+          "On-base": 74.44444444444443,
+          "Power": 49.47368421052632,
+          "Contact": 66.25000000000001,
+          "Discipline": 12.260536398467432,
           "Speed": 0
         },
-        "summary": "Jackson Nystrom gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Jackson Nystrom profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
+          "AVG .326",
+          "OBP .414",
+          "SLG .508"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": "--"
+            "value": ".326"
           },
           {
             "label": "OBP",
-            "value": "--"
+            "value": ".414"
           },
           {
             "label": "SLG",
-            "value": "--"
+            "value": ".508"
           },
           {
             "label": "HR",
-            "value": "0"
+            "value": "6"
           },
           {
             "label": "RBI",
-            "value": "0"
+            "value": "33"
           },
           {
             "label": "SB",
             "value": "0"
           }
         ],
-        "metaLine": "R-SO / N/A",
+        "metaLine": "R-JR / N/A",
         "detailBadges": [
           "OF",
-          "R-SO",
+          "R-JR",
           "N/A",
-          "Rostered"
+          "Hitter"
         ],
-        "sourceSummary": "San Francisco Athletics roster"
+        "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats"
       }
     },
     {
-      "id": "san-francisco-6250",
+      "id": "san-francisco-6550",
       "schoolSlug": "san-francisco",
       "school": "San Francisco",
       "schoolLongName": "University of San Francisco",
@@ -5426,14 +2940,14 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       "role": "Hitter",
       "position": "C",
       "positionLong": "",
-      "classYear": "JR",
+      "classYear": "SR",
       "handedness": "N/A",
       "jersey": "50",
       "hometown": "Pleasanton, Calif.",
       "highSchool": "Foothill HS",
       "previousSchool": "",
       "hometownHighSchool": "Pleasanton, Calif. / Foothill HS",
-      "profileUrl": "https://usfdons.com/sports/baseball/roster/trevor-harmon/6250",
+      "profileUrl": "https://usfdons.com/sports/baseball/roster/trevor-harmon/6550",
       "imageUrl": "https://usfdons.com/images/2026/2/5/50_Trevor_Harmon_lEBee.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -5441,17 +2955,17 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "6250",
+      "rosterBioId": "6550",
       "sources": [
         "San Francisco Athletics roster",
         "San Francisco cumulative stats"
       ],
       "hittingStats": {
-        "rosterBioId": "6250",
+        "rosterBioId": "6550",
         "name": "Trevor Harmon",
         "normalizedName": "trevor harmon",
         "jersey": "50",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/trevor-harmon/6250",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/trevor-harmon/6550",
         "imageUrl": "https://usfdons.com/images/2026/2/5/50_Trevor_Harmon_lEBee.png",
         "gamesPlayed": 47,
         "gamesStarted": 44,
@@ -5485,11 +2999,11 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
       },
       "pitchingStats": null,
       "fieldingStats": {
-        "rosterBioId": "6250",
+        "rosterBioId": "6550",
         "name": "Trevor Harmon",
         "normalizedName": "trevor harmon",
         "jersey": "50",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/trevor-harmon/6250",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/trevor-harmon/6550",
         "imageUrl": "https://usfdons.com/images/2026/2/5/50_Trevor_Harmon_lEBee.png",
         "gamesPlayed": 44,
         "gamesStarted": 43,
@@ -5550,296 +3064,9 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "C",
-          "JR",
-          "N/A",
-          "Hitter"
-        ],
-        "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats"
-      }
-    },
-    {
-      "id": "san-francisco-6252",
-      "schoolSlug": "san-francisco",
-      "school": "San Francisco",
-      "schoolLongName": "University of San Francisco",
-      "name": "Wesley Harwell",
-      "normalizedName": "wesley harwell",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "SO",
-      "handedness": "N/A",
-      "jersey": "52",
-      "hometown": "Mountain View, Calif.",
-      "highSchool": "Mountain View HS",
-      "previousSchool": "",
-      "hometownHighSchool": "Mountain View, Calif. / Mountain View HS",
-      "profileUrl": "https://usfdons.com/sports/baseball/roster/wesley-harwell/6252",
-      "imageUrl": "https://usfdons.com/images/2026/2/5/52_Wesley_Harwell_G2vce.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "6252",
-      "sources": [
-        "San Francisco Athletics roster",
-        "San Francisco cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "6252",
-        "name": "Wesley Harwell",
-        "normalizedName": "wesley harwell",
-        "jersey": "52",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/wesley-harwell/6252",
-        "imageUrl": "https://usfdons.com/images/2026/2/5/52_Wesley_Harwell_G2vce.png",
-        "gamesPlayed": 5,
-        "gamesStarted": 0,
-        "appearances": 5,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 11.57,
-        "whip": 2.57,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 4.666666666666667,
-        "inningsPitchedDisplay": "4.2",
-        "hitsAllowed": 8,
-        "runsAllowed": 6,
-        "earnedRunsAllowed": 6,
-        "walksAllowed": 4,
-        "strikeouts": 1,
-        "doublesAllowed": 0,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 1,
-        "opponentsAtBats": 18,
-        "wildPitches": 0,
-        "hitBatters": 1,
-        "balks": 0,
-        "opponentsBattingAverage": 0.444,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "6252",
-        "name": "Wesley Harwell",
-        "normalizedName": "wesley harwell",
-        "jersey": "52",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/wesley-harwell/6252",
-        "imageUrl": "https://usfdons.com/images/2026/2/5/52_Wesley_Harwell_G2vce.png",
-        "gamesPlayed": 1,
-        "gamesStarted": 0,
-        "putouts": 0,
-        "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 0,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 1,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 0
-      },
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Wesley Harwell gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 11.57",
-          "WHIP 2.57",
-          "K/9 1.9"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "11.57"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.57"
-          },
-          {
-            "label": "K/9",
-            "value": "1.9"
-          },
-          {
-            "label": "BB/9",
-            "value": "7.7"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.93"
-          },
-          {
-            "label": "IP",
-            "value": "4.7"
-          }
-        ],
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "N/A",
-          "Pitcher"
-        ],
-        "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats"
-      }
-    },
-    {
-      "id": "san-francisco-6259",
-      "schoolSlug": "san-francisco",
-      "school": "San Francisco",
-      "schoolLongName": "University of San Francisco",
-      "name": "Zack Ramppen",
-      "normalizedName": "zack ramppen",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "C/INF",
-      "positionLong": "",
-      "classYear": "SR",
-      "handedness": "N/A",
-      "jersey": "83",
-      "hometown": "New Canaan, Conn.",
-      "highSchool": "",
-      "previousSchool": "West Virginia",
-      "hometownHighSchool": "New Canaan, Conn.",
-      "profileUrl": "https://usfdons.com/sports/baseball/roster/zack-ramppen/6259",
-      "imageUrl": "https://usfdons.com/images/2026/2/5/83_Zack_Ramppen_ASq0h.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "6259",
-      "sources": [
-        "San Francisco Athletics roster",
-        "San Francisco cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "6259",
-        "name": "Zack Ramppen",
-        "normalizedName": "zack ramppen",
-        "jersey": "83",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/zack-ramppen/6259",
-        "imageUrl": "https://usfdons.com/images/2026/2/5/83_Zack_Ramppen_ASq0h.png",
-        "gamesPlayed": 45,
-        "gamesStarted": 39,
-        "battingAverage": 0.321,
-        "onBasePercentage": 0.382,
-        "sluggingPercentage": 0.421,
-        "ops": 0.803,
-        "atBats": 140,
-        "runs": 21,
-        "hits": 45,
-        "doubles": 9,
-        "triples": 1,
-        "homeRuns": 1,
-        "runsBattedIn": 14,
-        "totalBases": 59,
-        "walks": 8,
-        "hitByPitch": 7,
-        "strikeouts": 21,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 7,
-        "sacrificeFlies": 2,
-        "sacrificeHits": 2,
-        "stolenBases": 1,
-        "stolenBasesAttempts": 1,
-        "putouts": 277,
-        "assists": 0,
-        "errors": 6,
-        "plateAppearances": 160,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "6259",
-        "name": "Zack Ramppen",
-        "normalizedName": "zack ramppen",
-        "jersey": "83",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/zack-ramppen/6259",
-        "imageUrl": "https://usfdons.com/images/2026/2/5/83_Zack_Ramppen_ASq0h.png",
-        "gamesPlayed": 45,
-        "gamesStarted": 39,
-        "putouts": 277,
-        "assists": 32,
-        "errors": 6,
-        "fieldingPercentage": 0.981,
-        "doublePlays": 3,
-        "stolenBasesAgainst": 23,
-        "caughtStealingBy": 16,
-        "stolenBasesPercentage": null,
-        "passedBalls": 2,
-        "catchersInterference": 0,
-        "totalChances": 315
-      },
-      "evaluation": {
-        "score": 40,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 56.66666666666666,
-          "Power": 26.57894736842105,
-          "Contact": 63.125,
-          "Discipline": 20.1058201058201,
-          "Speed": 3.3333333333333335
-        },
-        "summary": "Zack Ramppen gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .321",
-          "OBP .382",
-          "SLG .421"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".321"
-          },
-          {
-            "label": "OBP",
-            "value": ".382"
-          },
-          {
-            "label": "SLG",
-            "value": ".421"
-          },
-          {
-            "label": "HR",
-            "value": "1"
-          },
-          {
-            "label": "RBI",
-            "value": "14"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
         "metaLine": "SR / N/A",
         "detailBadges": [
-          "C/INF",
+          "C",
           "SR",
           "N/A",
           "Hitter"
@@ -5851,19 +3078,19 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
   "playerBoard": {
     "source": "San Francisco Athletics roster + cumulative stats / ESPN roster",
     "note": "This San Francisco-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but San Francisco's public ESPN roster feed did not line up cleanly with the current school-site roster.",
-    "totalPlayers": 41,
+    "totalPlayers": 20,
     "roleCounts": {
-      "Hitter": 19,
-      "Pitcher": 22
+      "Hitter": 12,
+      "Pitcher": 8
     },
     "players": [
       {
-        "id": "san-francisco-6359",
+        "id": "san-francisco-6533",
         "name": "Isaiah Landry",
         "school": "San Francisco",
         "role": "Hitter",
         "position": "OF",
-        "classYear": "JR",
+        "classYear": "SR",
         "handedness": "N/A",
         "score": 35,
         "fit": {
@@ -5909,10 +3136,10 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
           "Discipline": 25.39682539682539,
           "Speed": 13.333333333333334
         },
-        "metaLine": "JR / N/A",
+        "metaLine": "SR / N/A",
         "detailBadges": [
           "OF",
-          "JR",
+          "SR",
           "N/A",
           "Hitter"
         ],
@@ -5923,16 +3150,16 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats",
         "schoolSlug": "san-francisco",
         "compositeRole": "Hitter",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/isaiah-landry/6359",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/isaiah-landry/6533",
         "espnAthleteId": ""
       },
       {
-        "id": "san-francisco-6254",
+        "id": "san-francisco-6552",
         "name": "Myles Kallinger",
         "school": "San Francisco",
         "role": "Hitter",
         "position": "OF",
-        "classYear": "JR",
+        "classYear": "SR",
         "handedness": "N/A",
         "score": 28,
         "fit": {
@@ -5978,10 +3205,10 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
           "Discipline": 23.529411764705877,
           "Speed": 20
         },
-        "metaLine": "JR / N/A",
+        "metaLine": "SR / N/A",
         "detailBadges": [
           "OF",
-          "JR",
+          "SR",
           "N/A",
           "Hitter"
         ],
@@ -5992,16 +3219,16 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats",
         "schoolSlug": "san-francisco",
         "compositeRole": "Hitter",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/myles-kallinger/6254",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/myles-kallinger/6552",
         "espnAthleteId": ""
       },
       {
-        "id": "san-francisco-6360",
+        "id": "san-francisco-6556",
         "name": "Zach Nagy",
         "school": "San Francisco",
         "role": "Hitter",
         "position": "INF",
-        "classYear": "FR",
+        "classYear": "SO",
         "handedness": "N/A",
         "score": 2,
         "fit": {
@@ -6047,10 +3274,10 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
           "Discipline": 14.814814814814808,
           "Speed": 3.3333333333333335
         },
-        "metaLine": "FR / N/A",
+        "metaLine": "SO / N/A",
         "detailBadges": [
           "INF",
-          "FR",
+          "SO",
           "N/A",
           "Hitter"
         ],
@@ -6061,85 +3288,16 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats",
         "schoolSlug": "san-francisco",
         "compositeRole": "Hitter",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/zach-nagy/6360",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/zach-nagy/6556",
         "espnAthleteId": ""
       },
       {
-        "id": "san-francisco-6245",
-        "name": "Matteo Bellisimo",
-        "school": "San Francisco",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Matteo Bellisimo gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .176",
-          "OBP .222",
-          "SLG .235"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".176"
-          },
-          {
-            "label": "OBP",
-            "value": ".222"
-          },
-          {
-            "label": "SLG",
-            "value": ".235"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "3"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "INF",
-          "SR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "San Francisco Athletics roster",
-          "San Francisco cumulative stats"
-        ],
-        "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats",
-        "schoolSlug": "san-francisco",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/matteo-bellisimo/6245",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "san-francisco-6249",
+        "id": "san-francisco-6546",
         "name": "Eddison Esquivel",
         "school": "San Francisco",
         "role": "Hitter",
         "position": "OF",
-        "classYear": "SO",
+        "classYear": "JR",
         "handedness": "N/A",
         "score": 31,
         "fit": {
@@ -6185,10 +3343,10 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
           "Discipline": 42.424242424242415,
           "Speed": 10
         },
-        "metaLine": "SO / N/A",
+        "metaLine": "JR / N/A",
         "detailBadges": [
           "OF",
-          "SO",
+          "JR",
           "N/A",
           "Hitter"
         ],
@@ -6199,16 +3357,16 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats",
         "schoolSlug": "san-francisco",
         "compositeRole": "Hitter",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/eddison-esquivel/6249",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/eddison-esquivel/6546",
         "espnAthleteId": ""
       },
       {
-        "id": "san-francisco-6361",
+        "id": "san-francisco-6554",
         "name": "Jared Lewis",
         "school": "San Francisco",
         "role": "Hitter",
         "position": "INF",
-        "classYear": "R-JR",
+        "classYear": "R-SR",
         "handedness": "N/A",
         "score": 27,
         "fit": {
@@ -6254,10 +3412,10 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
           "Discipline": 27.160493827160487,
           "Speed": 10
         },
-        "metaLine": "R-JR / N/A",
+        "metaLine": "R-SR / N/A",
         "detailBadges": [
           "INF",
-          "R-JR",
+          "R-SR",
           "N/A",
           "Hitter"
         ],
@@ -6268,85 +3426,16 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats",
         "schoolSlug": "san-francisco",
         "compositeRole": "Hitter",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/jared-lewis/6361",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/jared-lewis/6554",
         "espnAthleteId": ""
       },
       {
-        "id": "san-francisco-6255",
-        "name": "Jordan Lewis",
-        "school": "San Francisco",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "SR",
-        "handedness": "N/A",
-        "score": 15,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jordan Lewis gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .176",
-          "OBP .333",
-          "SLG .255"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".176"
-          },
-          {
-            "label": "OBP",
-            "value": ".333"
-          },
-          {
-            "label": "SLG",
-            "value": ".255"
-          },
-          {
-            "label": "HR",
-            "value": "1"
-          },
-          {
-            "label": "RBI",
-            "value": "5"
-          },
-          {
-            "label": "SB",
-            "value": "2"
-          }
-        ],
-        "components": {
-          "On-base": 29.44444444444444,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 36.25730994152046,
-          "Speed": 6.666666666666667
-        },
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "OF",
-          "SR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "San Francisco Athletics roster",
-          "San Francisco cumulative stats"
-        ],
-        "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats",
-        "schoolSlug": "san-francisco",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/jordan-lewis/6255",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "san-francisco-6256",
+        "id": "san-francisco-6537",
         "name": "Magnus Nelson",
         "school": "San Francisco",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "JR",
+        "classYear": "SR",
         "handedness": "N/A",
         "score": 7,
         "fit": {
@@ -6392,285 +3481,9 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "San Francisco Athletics roster",
-          "San Francisco cumulative stats"
-        ],
-        "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats",
-        "schoolSlug": "san-francisco",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/magnus-nelson/6256",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "san-francisco-6258",
-        "name": "Quentin Pohorski",
-        "school": "San Francisco",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "GR",
-        "handedness": "N/A",
-        "score": 14,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Quentin Pohorski looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
-        "summaryMetrics": [
-          "ERA 3.42",
-          "WHIP 1.14",
-          "K/9 9.7"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.42"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.14"
-          },
-          {
-            "label": "K/9",
-            "value": "9.7"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.6"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.76"
-          },
-          {
-            "label": "IP",
-            "value": "47.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 51.79257362355953,
-          "Command": 22.499999999999993,
-          "Damage suppression": 0
-        },
-        "metaLine": "GR / N/A",
-        "detailBadges": [
-          "RHP",
-          "GR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "San Francisco Athletics roster",
-          "San Francisco cumulative stats"
-        ],
-        "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats",
-        "schoolSlug": "san-francisco",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/quentin-pohorski/6258",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "san-francisco-6251",
-        "name": "Tyler Harries",
-        "school": "San Francisco",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SR",
-        "handedness": "N/A",
-        "score": 18,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Tyler Harries gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .229",
-          "OBP .339",
-          "SLG .307"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".229"
-          },
-          {
-            "label": "OBP",
-            "value": ".339"
-          },
-          {
-            "label": "SLG",
-            "value": ".307"
-          },
-          {
-            "label": "HR",
-            "value": "1"
-          },
-          {
-            "label": "RBI",
-            "value": "25"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 32.77777777777778,
-          "Power": 0,
-          "Contact": 5.625000000000005,
-          "Discipline": 43.843843843843835,
-          "Speed": 0
-        },
         "metaLine": "SR / N/A",
         "detailBadges": [
-          "INF",
-          "SR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "San Francisco Athletics roster",
-          "San Francisco cumulative stats"
-        ],
-        "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats",
-        "schoolSlug": "san-francisco",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/tyler-harries/6251",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "san-francisco-6260",
-        "name": "TJ Rogers",
-        "school": "San Francisco",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "GR",
-        "handedness": "N/A",
-        "score": 43,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "TJ Rogers profiles as a INF piece who adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .251",
-          "OBP .390",
-          "SLG .498"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".251"
-          },
-          {
-            "label": "OBP",
-            "value": ".390"
-          },
-          {
-            "label": "SLG",
-            "value": ".498"
-          },
-          {
-            "label": "HR",
-            "value": "12"
-          },
-          {
-            "label": "RBI",
-            "value": "33"
-          },
-          {
-            "label": "SB",
-            "value": "8"
-          }
-        ],
-        "components": {
-          "On-base": 61.11111111111111,
-          "Power": 46.842105263157904,
-          "Contact": 19.375,
-          "Discipline": 35.61643835616437,
-          "Speed": 26.666666666666668
-        },
-        "metaLine": "GR / N/A",
-        "detailBadges": [
-          "INF",
-          "GR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "San Francisco Athletics roster",
-          "San Francisco cumulative stats"
-        ],
-        "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats",
-        "schoolSlug": "san-francisco",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/tj-rogers/6260",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "san-francisco-6253",
-        "name": "Hunter Holzemer",
-        "school": "San Francisco",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "SR",
-        "handedness": "N/A",
-        "score": 9,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Hunter Holzemer looks like a LHP option who limits runs.",
-        "summaryMetrics": [
-          "ERA 3.99",
-          "WHIP 1.57",
-          "K/9 7.1"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.99"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.57"
-          },
-          {
-            "label": "K/9",
-            "value": "7.1"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.4"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.92"
-          },
-          {
-            "label": "IP",
-            "value": "29.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 27.78925619834711,
-          "Command": 21.818181818181827,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "LHP",
+          "RHP",
           "SR",
           "N/A",
           "Pitcher"
@@ -6682,85 +3495,16 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats",
         "schoolSlug": "san-francisco",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/hunter-holzemer/6253",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/magnus-nelson/6537",
         "espnAthleteId": ""
       },
       {
-        "id": "san-francisco-6362",
-        "name": "Braden Wellen",
-        "school": "San Francisco",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "N/A",
-        "score": 12,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Braden Wellen looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 12.54",
-          "WHIP 2.46",
-          "K/9 10.6"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "12.54"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.46"
-          },
-          {
-            "label": "K/9",
-            "value": "10.6"
-          },
-          {
-            "label": "BB/9",
-            "value": "10.6"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.93"
-          },
-          {
-            "label": "IP",
-            "value": "9.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 60.06493506493506,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "San Francisco Athletics roster",
-          "San Francisco cumulative stats"
-        ],
-        "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats",
-        "schoolSlug": "san-francisco",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/braden-wellen/6362",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "san-francisco-6363",
+        "id": "san-francisco-6562",
         "name": "Paul Wheeler",
         "school": "San Francisco",
         "role": "Pitcher",
         "position": "LHP",
-        "classYear": "SO",
+        "classYear": "JR",
         "handedness": "N/A",
         "score": 9,
         "fit": {
@@ -6806,10 +3550,10 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SO / N/A",
+        "metaLine": "JR / N/A",
         "detailBadges": [
           "LHP",
-          "SO",
+          "JR",
           "N/A",
           "Pitcher"
         ],
@@ -6820,16 +3564,16 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats",
         "schoolSlug": "san-francisco",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/paul-wheeler/6363",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/paul-wheeler/6562",
         "espnAthleteId": ""
       },
       {
-        "id": "san-francisco-6364",
+        "id": "san-francisco-6560",
         "name": "Adrian Valdez",
         "school": "San Francisco",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "JR",
+        "classYear": "SR",
         "handedness": "N/A",
         "score": 5,
         "fit": {
@@ -6875,10 +3619,10 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
           "Command": 17.64705882352941,
           "Damage suppression": 0
         },
-        "metaLine": "JR / N/A",
+        "metaLine": "SR / N/A",
         "detailBadges": [
           "RHP",
-          "JR",
+          "SR",
           "N/A",
           "Pitcher"
         ],
@@ -6889,223 +3633,16 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats",
         "schoolSlug": "san-francisco",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/adrian-valdez/6364",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/adrian-valdez/6560",
         "espnAthleteId": ""
       },
       {
-        "id": "san-francisco-6365",
-        "name": "Thomas Gonzales",
-        "school": "San Francisco",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "FR",
-        "handedness": "N/A",
-        "score": 5,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Thomas Gonzales gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 9.33",
-          "WHIP 2.13",
-          "K/9 6.9"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "9.33"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.13"
-          },
-          {
-            "label": "K/9",
-            "value": "6.9"
-          },
-          {
-            "label": "BB/9",
-            "value": "7.9"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.98"
-          },
-          {
-            "label": "IP",
-            "value": "18.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 26.115702479338847,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / N/A",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "San Francisco Athletics roster",
-          "San Francisco cumulative stats"
-        ],
-        "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats",
-        "schoolSlug": "san-francisco",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/thomas-gonzales/6365",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "san-francisco-6366",
-        "name": "Nick Bacura",
-        "school": "San Francisco",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "GR",
-        "handedness": "N/A",
-        "score": 10,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Nick Bacura looks like a RHP option who limits runs.",
-        "summaryMetrics": [
-          "ERA 2.52",
-          "WHIP 1.44",
-          "K/9 8.6"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "2.52"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.44"
-          },
-          {
-            "label": "K/9",
-            "value": "8.6"
-          },
-          {
-            "label": "BB/9",
-            "value": "6.5"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.36"
-          },
-          {
-            "label": "IP",
-            "value": "25.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 42.18181818181819,
-          "Command": 6.666666666666665,
-          "Damage suppression": 0
-        },
-        "metaLine": "GR / N/A",
-        "detailBadges": [
-          "RHP",
-          "GR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "San Francisco Athletics roster",
-          "San Francisco cumulative stats"
-        ],
-        "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats",
-        "schoolSlug": "san-francisco",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/nick-bacura/6366",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "san-francisco-6367",
-        "name": "Gauge Lockhart",
-        "school": "San Francisco",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "GR",
-        "handedness": "N/A",
-        "score": 6,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Gauge Lockhart gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 4.99",
-          "WHIP 1.35",
-          "K/9 6.5"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.99"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.35"
-          },
-          {
-            "label": "K/9",
-            "value": "6.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.7"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.64"
-          },
-          {
-            "label": "IP",
-            "value": "70.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 22.964239551917284,
-          "Command": 7.567567567567571,
-          "Damage suppression": 0
-        },
-        "metaLine": "GR / N/A",
-        "detailBadges": [
-          "RHP",
-          "GR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "San Francisco Athletics roster",
-          "San Francisco cumulative stats"
-        ],
-        "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats",
-        "schoolSlug": "san-francisco",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/gauge-lockhart/6367",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "san-francisco-6368",
+        "id": "san-francisco-6541",
         "name": "Tino Vasell",
         "school": "San Francisco",
         "role": "Hitter",
         "position": "INF",
-        "classYear": "FR",
+        "classYear": "SO",
         "handedness": "N/A",
         "score": 38,
         "fit": {
@@ -7151,284 +3688,9 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
           "Discipline": 48.88888888888888,
           "Speed": 13.333333333333334
         },
-        "metaLine": "FR / N/A",
-        "detailBadges": [
-          "INF",
-          "FR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "San Francisco Athletics roster",
-          "San Francisco cumulative stats"
-        ],
-        "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats",
-        "schoolSlug": "san-francisco",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/tino-vasell/6368",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "san-francisco-6261",
-        "name": "Nick Walsh",
-        "school": "San Francisco",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SR",
-        "handedness": "N/A",
-        "score": 9,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Nick Walsh gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .200",
-          "OBP .333",
-          "SLG .300"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".200"
-          },
-          {
-            "label": "OBP",
-            "value": ".333"
-          },
-          {
-            "label": "SLG",
-            "value": ".300"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 29.44444444444444,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "INF",
-          "SR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "San Francisco Athletics roster",
-          "San Francisco cumulative stats"
-        ],
-        "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats",
-        "schoolSlug": "san-francisco",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/nick-walsh/6261",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "san-francisco-6247",
-        "name": "AC Cabrera",
-        "school": "San Francisco",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "N/A",
-        "score": 1,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "AC Cabrera gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 22.50",
-          "WHIP 4.00",
-          "K/9 4.5"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "22.50"
-          },
-          {
-            "label": "WHIP",
-            "value": "4.00"
-          },
-          {
-            "label": "K/9",
-            "value": "4.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.5"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "2.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 4.545454545454546,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "San Francisco Athletics roster",
-          "San Francisco cumulative stats"
-        ],
-        "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats",
-        "schoolSlug": "san-francisco",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/ac-cabrera/6247",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "san-francisco-6369",
-        "name": "Garrett Johnston",
-        "school": "San Francisco",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Garrett Johnston looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "San Francisco Athletics roster"
-        ],
-        "sourceSummary": "San Francisco Athletics roster",
-        "schoolSlug": "san-francisco",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/garrett-johnston/6369",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "san-francisco-6246",
-        "name": "Brendan Burke",
-        "school": "San Francisco",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "SO",
-        "handedness": "N/A",
-        "score": 8,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Brendan Burke gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .231",
-          "OBP .311",
-          "SLG .333"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".231"
-          },
-          {
-            "label": "OBP",
-            "value": ".311"
-          },
-          {
-            "label": "SLG",
-            "value": ".333"
-          },
-          {
-            "label": "HR",
-            "value": "2"
-          },
-          {
-            "label": "RBI",
-            "value": "13"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
-        "components": {
-          "On-base": 17.222222222222207,
-          "Power": 3.421052631578951,
-          "Contact": 6.875000000000006,
-          "Discipline": 2.222222222222221,
-          "Speed": 3.3333333333333335
-        },
         "metaLine": "SO / N/A",
         "detailBadges": [
-          "C",
+          "INF",
           "SO",
           "N/A",
           "Hitter"
@@ -7440,16 +3702,16 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats",
         "schoolSlug": "san-francisco",
         "compositeRole": "Hitter",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/brendan-burke/6246",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/tino-vasell/6541",
         "espnAthleteId": ""
       },
       {
-        "id": "san-francisco-6370",
+        "id": "san-francisco-6507",
         "name": "Jayden Garrison",
         "school": "San Francisco",
         "role": "Hitter",
         "position": "OF",
-        "classYear": "FR",
+        "classYear": "SO",
         "handedness": "N/A",
         "score": 13,
         "fit": {
@@ -7495,10 +3757,10 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
           "Discipline": 23.633156966490294,
           "Speed": 16.666666666666664
         },
-        "metaLine": "FR / N/A",
+        "metaLine": "SO / N/A",
         "detailBadges": [
           "OF",
-          "FR",
+          "SO",
           "N/A",
           "Hitter"
         ],
@@ -7509,85 +3771,16 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats",
         "schoolSlug": "san-francisco",
         "compositeRole": "Hitter",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/jayden-garrison/6370",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/jayden-garrison/6507",
         "espnAthleteId": ""
       },
       {
-        "id": "san-francisco-6243",
-        "name": "Cal Amborn",
-        "school": "San Francisco",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "R-JR",
-        "handedness": "N/A",
-        "score": 3,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Cal Amborn gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 6.49",
-          "WHIP 1.67",
-          "K/9 4.8"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "6.49"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.67"
-          },
-          {
-            "label": "K/9",
-            "value": "4.8"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.4"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.71"
-          },
-          {
-            "label": "IP",
-            "value": "26.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 7.134637514384355,
-          "Command": 8.000000000000004,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-JR / N/A",
-        "detailBadges": [
-          "RHP",
-          "R-JR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "San Francisco Athletics roster",
-          "San Francisco cumulative stats"
-        ],
-        "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats",
-        "schoolSlug": "san-francisco",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/cal-amborn/6243",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "san-francisco-6371",
+        "id": "san-francisco-6503",
         "name": "Jake Andreas",
         "school": "San Francisco",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "FR",
+        "classYear": "SO",
         "handedness": "N/A",
         "score": 8,
         "fit": {
@@ -7633,10 +3826,10 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
           "Command": 16,
           "Damage suppression": 0
         },
-        "metaLine": "FR / N/A",
+        "metaLine": "SO / N/A",
         "detailBadges": [
           "RHP",
-          "FR",
+          "SO",
           "N/A",
           "Pitcher"
         ],
@@ -7647,16 +3840,16 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats",
         "schoolSlug": "san-francisco",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/jake-andreas/6371",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/jake-andreas/6503",
         "espnAthleteId": ""
       },
       {
-        "id": "san-francisco-6372",
+        "id": "san-francisco-6525",
         "name": "Wyatt Davis",
         "school": "San Francisco",
         "role": "Hitter",
         "position": "OF",
-        "classYear": "JR",
+        "classYear": "SR",
         "handedness": "N/A",
         "score": 2,
         "fit": {
@@ -7702,10 +3895,10 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
           "Discipline": 11.111111111111107,
           "Speed": 3.3333333333333335
         },
-        "metaLine": "JR / N/A",
+        "metaLine": "SR / N/A",
         "detailBadges": [
           "OF",
-          "JR",
+          "SR",
           "N/A",
           "Hitter"
         ],
@@ -7716,85 +3909,16 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats",
         "schoolSlug": "san-francisco",
         "compositeRole": "Hitter",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/wyatt-davis/6372",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/wyatt-davis/6525",
         "espnAthleteId": ""
       },
       {
-        "id": "san-francisco-6373",
-        "name": "Jackson Thielen",
-        "school": "San Francisco",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "GR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jackson Thielen looks like a LHP option who throws enough strikes and keeps traffic under control.",
-        "summaryMetrics": [
-          "ERA 99.00",
-          "WHIP 0.00",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "99.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "0.00"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "GR / N/A",
-        "detailBadges": [
-          "LHP",
-          "GR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "San Francisco Athletics roster",
-          "San Francisco cumulative stats"
-        ],
-        "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats",
-        "schoolSlug": "san-francisco",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/jackson-thielen/6373",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "san-francisco-6374",
+        "id": "san-francisco-6544",
         "name": "Trevor Busby",
         "school": "San Francisco",
         "role": "Pitcher",
         "position": "INF/RHP",
-        "classYear": "FR",
+        "classYear": "SO",
         "handedness": "N/A",
         "score": 1,
         "fit": {
@@ -7840,10 +3964,10 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "FR / N/A",
+        "metaLine": "SO / N/A",
         "detailBadges": [
           "INF/RHP",
-          "FR",
+          "SO",
           "N/A",
           "Two-Way"
         ],
@@ -7854,16 +3978,16 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats",
         "schoolSlug": "san-francisco",
         "compositeRole": "Two-Way",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/trevor-busby/6374",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/trevor-busby/6544",
         "espnAthleteId": ""
       },
       {
-        "id": "san-francisco-6375",
+        "id": "san-francisco-6511",
         "name": "Jake Hiromoto",
         "school": "San Francisco",
         "role": "Hitter",
         "position": "INF",
-        "classYear": "FR",
+        "classYear": "SO",
         "handedness": "N/A",
         "score": 0,
         "fit": {
@@ -7909,10 +4033,10 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "FR / N/A",
+        "metaLine": "SO / N/A",
         "detailBadges": [
           "INF",
-          "FR",
+          "SO",
           "N/A",
           "Hitter"
         ],
@@ -7923,16 +4047,16 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats",
         "schoolSlug": "san-francisco",
         "compositeRole": "Hitter",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/jake-hiromoto/6375",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/jake-hiromoto/6511",
         "espnAthleteId": ""
       },
       {
-        "id": "san-francisco-6376",
+        "id": "san-francisco-6548",
         "name": "Alex Gomez",
         "school": "San Francisco",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "JR",
+        "classYear": "SR",
         "handedness": "N/A",
         "score": 6,
         "fit": {
@@ -7978,10 +4102,10 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "JR / N/A",
+        "metaLine": "SR / N/A",
         "detailBadges": [
           "RHP",
-          "JR",
+          "SR",
           "N/A",
           "Pitcher"
         ],
@@ -7992,154 +4116,16 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats",
         "schoolSlug": "san-francisco",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/alex-gomez/6376",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/alex-gomez/6548",
         "espnAthleteId": ""
       },
       {
-        "id": "san-francisco-6262",
-        "name": "Kai Yovanovich",
-        "school": "San Francisco",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "GR",
-        "handedness": "N/A",
-        "score": 13,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Kai Yovanovich looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
-        "summaryMetrics": [
-          "ERA 3.31",
-          "WHIP 1.07",
-          "K/9 9.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.31"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.07"
-          },
-          {
-            "label": "K/9",
-            "value": "9.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.7"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.83"
-          },
-          {
-            "label": "IP",
-            "value": "32.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 48.79406307977737,
-          "Command": 20,
-          "Damage suppression": 0
-        },
-        "metaLine": "GR / N/A",
-        "detailBadges": [
-          "RHP",
-          "GR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "San Francisco Athletics roster",
-          "San Francisco cumulative stats"
-        ],
-        "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats",
-        "schoolSlug": "san-francisco",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/kai-yovanovich/6262",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "san-francisco-6377",
-        "name": "Chris Byhre",
-        "school": "San Francisco",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "GR",
-        "handedness": "N/A",
-        "score": 10,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Chris Byhre looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA 10.20",
-          "WHIP 2.13",
-          "K/9 7.2"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "10.20"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.13"
-          },
-          {
-            "label": "K/9",
-            "value": "7.2"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "15.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 29.090909090909093,
-          "Command": 27.999999999999996,
-          "Damage suppression": 0
-        },
-        "metaLine": "GR / N/A",
-        "detailBadges": [
-          "RHP",
-          "GR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "San Francisco Athletics roster",
-          "San Francisco cumulative stats"
-        ],
-        "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats",
-        "schoolSlug": "san-francisco",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/chris-byhre/6377",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "san-francisco-6378",
+        "id": "san-francisco-6515",
         "name": "Brady Luyben",
         "school": "San Francisco",
         "role": "Hitter",
         "position": "C",
-        "classYear": "FR",
+        "classYear": "SO",
         "handedness": "N/A",
         "score": 14,
         "fit": {
@@ -8185,10 +4171,10 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
           "Discipline": 88.88888888888889,
           "Speed": 0
         },
-        "metaLine": "FR / N/A",
+        "metaLine": "SO / N/A",
         "detailBadges": [
           "C",
-          "FR",
+          "SO",
           "N/A",
           "Hitter"
         ],
@@ -8199,16 +4185,16 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats",
         "schoolSlug": "san-francisco",
         "compositeRole": "Hitter",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/brady-luyben/6378",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/brady-luyben/6515",
         "espnAthleteId": ""
       },
       {
-        "id": "san-francisco-6379",
+        "id": "san-francisco-6519",
         "name": "Gino Rossi",
         "school": "San Francisco",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "JR",
+        "classYear": "SR",
         "handedness": "N/A",
         "score": 9,
         "fit": {
@@ -8254,10 +4240,10 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
           "Command": 8.888888888888893,
           "Damage suppression": 0
         },
-        "metaLine": "JR / N/A",
+        "metaLine": "SR / N/A",
         "detailBadges": [
           "RHP",
-          "JR",
+          "SR",
           "N/A",
           "Pitcher"
         ],
@@ -8268,16 +4254,16 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats",
         "schoolSlug": "san-francisco",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/gino-rossi/6379",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/gino-rossi/6519",
         "espnAthleteId": ""
       },
       {
-        "id": "san-francisco-6380",
+        "id": "san-francisco-6529",
         "name": "Alan Gonzalez",
         "school": "San Francisco",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "FR",
+        "classYear": "SO",
         "handedness": "N/A",
         "score": 7,
         "fit": {
@@ -8323,10 +4309,10 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
           "Command": 17.500000000000004,
           "Damage suppression": 0
         },
-        "metaLine": "FR / N/A",
+        "metaLine": "SO / N/A",
         "detailBadges": [
           "RHP",
-          "FR",
+          "SO",
           "N/A",
           "Pitcher"
         ],
@@ -8337,117 +4323,48 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats",
         "schoolSlug": "san-francisco",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/alan-gonzalez/6380",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/alan-gonzalez/6529",
         "espnAthleteId": ""
       },
       {
-        "id": "san-francisco-6244",
-        "name": "Gabriel Barrett",
-        "school": "San Francisco",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "N/A",
-        "score": 17,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Gabriel Barrett looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA 4.27",
-          "WHIP 1.44",
-          "K/9 8.2"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.27"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.44"
-          },
-          {
-            "label": "K/9",
-            "value": "8.2"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.1"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.35"
-          },
-          {
-            "label": "IP",
-            "value": "78.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 38.111888111888106,
-          "Command": 58.88888888888888,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "San Francisco Athletics roster",
-          "San Francisco cumulative stats"
-        ],
-        "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats",
-        "schoolSlug": "san-francisco",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/gabriel-barrett/6244",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "san-francisco-5917",
+        "id": "san-francisco-6558",
         "name": "Jackson Nystrom",
         "school": "San Francisco",
         "role": "Hitter",
         "position": "OF",
-        "classYear": "R-SO",
+        "classYear": "R-JR",
         "handedness": "N/A",
-        "score": 0,
+        "score": 50,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Jackson Nystrom gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Jackson Nystrom profiles as a OF piece who gets on base at a high clip.",
         "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
+          "AVG .326",
+          "OBP .414",
+          "SLG .508"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": "--"
+            "value": ".326"
           },
           {
             "label": "OBP",
-            "value": "--"
+            "value": ".414"
           },
           {
             "label": "SLG",
-            "value": "--"
+            "value": ".508"
           },
           {
             "label": "HR",
-            "value": "0"
+            "value": "6"
           },
           {
             "label": "RBI",
-            "value": "0"
+            "value": "33"
           },
           {
             "label": "SB",
@@ -8455,35 +4372,36 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
           }
         ],
         "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
+          "On-base": 74.44444444444443,
+          "Power": 49.47368421052632,
+          "Contact": 66.25000000000001,
+          "Discipline": 12.260536398467432,
           "Speed": 0
         },
-        "metaLine": "R-SO / N/A",
+        "metaLine": "R-JR / N/A",
         "detailBadges": [
           "OF",
-          "R-SO",
+          "R-JR",
           "N/A",
-          "Rostered"
+          "Hitter"
         ],
         "leaderboards": [
-          "San Francisco Athletics roster"
+          "San Francisco Athletics roster",
+          "San Francisco cumulative stats"
         ],
-        "sourceSummary": "San Francisco Athletics roster",
+        "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats",
         "schoolSlug": "san-francisco",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/jackson-nystrom/5917",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/jackson-nystrom/6558",
         "espnAthleteId": ""
       },
       {
-        "id": "san-francisco-6250",
+        "id": "san-francisco-6550",
         "name": "Trevor Harmon",
         "school": "San Francisco",
         "role": "Hitter",
         "position": "C",
-        "classYear": "JR",
+        "classYear": "SR",
         "handedness": "N/A",
         "score": 41,
         "fit": {
@@ -8529,147 +4447,9 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
           "Discipline": 29.457364341085263,
           "Speed": 0
         },
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "C",
-          "JR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "San Francisco Athletics roster",
-          "San Francisco cumulative stats"
-        ],
-        "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats",
-        "schoolSlug": "san-francisco",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/trevor-harmon/6250",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "san-francisco-6252",
-        "name": "Wesley Harwell",
-        "school": "San Francisco",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Wesley Harwell gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 11.57",
-          "WHIP 2.57",
-          "K/9 1.9"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "11.57"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.57"
-          },
-          {
-            "label": "K/9",
-            "value": "1.9"
-          },
-          {
-            "label": "BB/9",
-            "value": "7.7"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.93"
-          },
-          {
-            "label": "IP",
-            "value": "4.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "San Francisco Athletics roster",
-          "San Francisco cumulative stats"
-        ],
-        "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats",
-        "schoolSlug": "san-francisco",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/wesley-harwell/6252",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "san-francisco-6259",
-        "name": "Zack Ramppen",
-        "school": "San Francisco",
-        "role": "Hitter",
-        "position": "C/INF",
-        "classYear": "SR",
-        "handedness": "N/A",
-        "score": 40,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Zack Ramppen gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .321",
-          "OBP .382",
-          "SLG .421"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".321"
-          },
-          {
-            "label": "OBP",
-            "value": ".382"
-          },
-          {
-            "label": "SLG",
-            "value": ".421"
-          },
-          {
-            "label": "HR",
-            "value": "1"
-          },
-          {
-            "label": "RBI",
-            "value": "14"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
-        "components": {
-          "On-base": 56.66666666666666,
-          "Power": 26.57894736842105,
-          "Contact": 63.125,
-          "Discipline": 20.1058201058201,
-          "Speed": 3.3333333333333335
-        },
         "metaLine": "SR / N/A",
         "detailBadges": [
-          "C/INF",
+          "C",
           "SR",
           "N/A",
           "Hitter"
@@ -8681,7 +4461,7 @@ window.__BASEBALL_DATASETS__.san-francisco2026 = {
         "sourceSummary": "San Francisco Athletics roster + San Francisco cumulative stats",
         "schoolSlug": "san-francisco",
         "compositeRole": "Hitter",
-        "profileUrl": "https://usfdons.com/sports/baseball/roster/zack-ramppen/6259",
+        "profileUrl": "https://usfdons.com/sports/baseball/roster/trevor-harmon/6550",
         "espnAthleteId": ""
       }
     ]

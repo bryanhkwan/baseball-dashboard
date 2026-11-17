@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.davidson2026 = {
-  "generatedAt": "2026-07-29T11:06:02.844Z",
+  "generatedAt": "2026-11-17T10:18:17.882Z",
   "season": 2026,
   "school": {
     "slug": "davidson",
@@ -25,17 +25,40 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
     "ncaa": "NCAA school index"
   },
   "coverage": {
-    "rosterPlayers": 41,
+    "rosterPlayers": 42,
     "espnRosterPlayers": 0,
-    "playersWithHittingStats": 20,
-    "playersWithPitchingStats": 20,
-    "playersWithFieldingStats": 33,
-    "mergedPlayersWithAnyStats": 38,
+    "playersWithHittingStats": 0,
+    "playersWithPitchingStats": 0,
+    "playersWithFieldingStats": 0,
+    "mergedPlayersWithAnyStats": 0,
     "matchedEspnPlayers": 0,
     "unmatchedStatRows": {
-      "hitting": [],
-      "pitching": [],
-      "fielding": []
+      "hitting": [
+        "Jamie Daly",
+        "Anthony Torreso",
+        "Scotty Edwards",
+        "Aidan Rice",
+        "Connor Berman"
+      ],
+      "pitching": [
+        "Wilson Perkins",
+        "Brycen Champey",
+        "Ed Hall",
+        "Ivan Hoyt",
+        "Henry Hultquist",
+        "Will Banks"
+      ],
+      "fielding": [
+        "Jamie Daly",
+        "Scotty Edwards",
+        "Brycen Champey",
+        "Wilson Perkins",
+        "Ivan Hoyt",
+        "Anthony Torreso",
+        "Aidan Rice",
+        "Ed Hall",
+        "Connor Berman"
+      ]
     }
   },
   "teamSummary": {
@@ -124,24 +147,24 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
   },
   "players": [
     {
-      "id": "davidson-11601",
+      "id": "davidson-12631",
       "schoolSlug": "davidson",
       "school": "Davidson",
       "schoolLongName": "Davidson College",
       "name": "Justin Higgins",
       "normalizedName": "justin higgins",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "INF",
       "positionLong": "",
-      "classYear": "R-SO",
+      "classYear": "R-JR",
       "handedness": "R/R",
       "jersey": "1",
       "hometown": "New Canaan, Conn.",
       "highSchool": "St. Luke's",
       "previousSchool": "",
       "hometownHighSchool": "New Canaan, Conn. / St. Luke's",
-      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/justin-higgins/11601",
+      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/justin-higgins/12631",
       "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/1_Higgins.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -149,48 +172,11 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "11601",
+      "rosterBioId": "12631",
       "sources": [
-        "Davidson Athletics roster",
-        "Davidson cumulative stats"
+        "Davidson Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "11601",
-        "name": "Justin Higgins",
-        "normalizedName": "justin higgins",
-        "jersey": "1",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/justin-higgins/11601",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/1_Higgins.jpg",
-        "gamesPlayed": 5,
-        "gamesStarted": 0,
-        "battingAverage": 0,
-        "onBasePercentage": 0,
-        "sluggingPercentage": 0,
-        "ops": 0,
-        "atBats": 4,
-        "runs": 0,
-        "hits": 0,
-        "doubles": 0,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 0,
-        "totalBases": 0,
-        "walks": 0,
-        "hitByPitch": 0,
-        "strikeouts": 2,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 0,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 4,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
       "fieldingStats": null,
       "evaluation": {
@@ -208,22 +194,638 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         },
         "summary": "Justin Higgins gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .000",
-          "OBP .000",
-          "SLG .000"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".000"
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "R-JR / R/R",
+        "detailBadges": [
+          "INF",
+          "R-JR",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Davidson Athletics roster"
+      }
+    },
+    {
+      "id": "davidson-12627",
+      "schoolSlug": "davidson",
+      "school": "Davidson",
+      "schoolLongName": "Davidson College",
+      "name": "Fredy Diaz",
+      "normalizedName": "fredy diaz",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "R/R",
+      "jersey": "2",
+      "hometown": "Middletown Md.",
+      "highSchool": "Middletown",
+      "previousSchool": "",
+      "hometownHighSchool": "Middletown Md. / Middletown",
+      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/fredy-diaz/12627",
+      "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/37_Diaz.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12627",
+      "sources": [
+        "Davidson Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Fredy Diaz gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "INF",
+          "JR",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Davidson Athletics roster"
+      }
+    },
+    {
+      "id": "davidson-12649",
+      "schoolSlug": "davidson",
+      "school": "Davidson",
+      "schoolLongName": "Davidson College",
+      "name": "Jacob Vokal",
+      "normalizedName": "jacob vokal",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP/INF",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "R/R",
+      "jersey": "4",
+      "hometown": "Hoschton, Ga.",
+      "highSchool": "Cherokee Bluff",
+      "previousSchool": "",
+      "hometownHighSchool": "Hoschton, Ga. / Cherokee Bluff",
+      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/jacob-vokal/12649",
+      "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/4_Vokal.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12649",
+      "sources": [
+        "Davidson Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Jacob Vokal looks like a RHP/INF option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "RHP/INF",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Davidson Athletics roster"
+      }
+    },
+    {
+      "id": "davidson-12648",
+      "schoolSlug": "davidson",
+      "school": "Davidson",
+      "schoolLongName": "Davidson College",
+      "name": "Matthew Vannoy",
+      "normalizedName": "matthew vannoy",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "C/INF",
+      "positionLong": "",
+      "classYear": "SO",
+      "handedness": "S/R",
+      "jersey": "5",
+      "hometown": "Raleigh, N.C.",
+      "highSchool": "Broughton",
+      "previousSchool": "",
+      "hometownHighSchool": "Raleigh, N.C. / Broughton",
+      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/matthew-vannoy/12648",
+      "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/5_Vannoy.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12648",
+      "sources": [
+        "Davidson Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Matthew Vannoy gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "SO / S/R",
+        "detailBadges": [
+          "C/INF",
+          "SO",
+          "S/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Davidson Athletics roster"
+      }
+    },
+    {
+      "id": "davidson-12628",
+      "schoolSlug": "davidson",
+      "school": "Davidson",
+      "schoolLongName": "Davidson College",
+      "name": "Brendan Fritch",
+      "normalizedName": "brendan fritch",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "C/OF",
+      "positionLong": "",
+      "classYear": "SO",
+      "handedness": "R/R",
+      "jersey": "6",
+      "hometown": "Broomfield, Colo.",
+      "highSchool": "Broomfield",
+      "previousSchool": "",
+      "hometownHighSchool": "Broomfield, Colo. / Broomfield",
+      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/brendan-fritch/12628",
+      "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/25_Fritch.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12628",
+      "sources": [
+        "Davidson Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Brendan Fritch gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "C/OF",
+          "SO",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Davidson Athletics roster"
+      }
+    },
+    {
+      "id": "davidson-12647",
+      "schoolSlug": "davidson",
+      "school": "Davidson",
+      "schoolLongName": "Davidson College",
+      "name": "Gavin Thomas",
+      "normalizedName": "gavin thomas",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "",
+      "classYear": "SR",
+      "handedness": "R/R",
+      "jersey": "7",
+      "hometown": "Lake Mary, Fla.",
+      "highSchool": "Master's Academy",
+      "previousSchool": "",
+      "hometownHighSchool": "Lake Mary, Fla. / Master's Academy",
+      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/gavin-thomas/12647",
+      "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/7_Thomas.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12647",
+      "sources": [
+        "Davidson Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Gavin Thomas gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "OF",
+          "SR",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Davidson Athletics roster"
+      }
+    },
+    {
+      "id": "davidson-12625",
+      "schoolSlug": "davidson",
+      "school": "Davidson",
+      "schoolLongName": "Davidson College",
+      "name": "Cooper Collins",
+      "normalizedName": "cooper collins",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "R/R",
+      "jersey": "8",
+      "hometown": "Gainesville, Fla.",
+      "highSchool": "Buchholz",
+      "previousSchool": "",
+      "hometownHighSchool": "Gainesville, Fla. / Buchholz",
+      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/cooper-collins/12625",
+      "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/8_Collins.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12625",
+      "sources": [
+        "Davidson Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Cooper Collins gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "INF",
+          "JR",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Davidson Athletics roster"
+      }
+    },
+    {
+      "id": "davidson-12641",
+      "schoolSlug": "davidson",
+      "school": "Davidson",
+      "schoolLongName": "Davidson College",
+      "name": "Will McCullough",
+      "normalizedName": "will mccullough",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "",
+      "classYear": "R-SO",
+      "handedness": "R/R",
+      "jersey": "9",
+      "hometown": "Morrow, Ohio",
+      "highSchool": "Archbishop Moeller",
+      "previousSchool": "",
+      "hometownHighSchool": "Morrow, Ohio / Archbishop Moeller",
+      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/will-mccullough/12641",
+      "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/9_McCullough.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12641",
+      "sources": [
+        "Davidson Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Will McCullough gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
           },
           {
             "label": "HR",
@@ -240,1045 +842,33 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         ],
         "metaLine": "R-SO / R/R",
         "detailBadges": [
-          "INF",
+          "OF",
           "R-SO",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats"
+        "sourceSummary": "Davidson Athletics roster"
       }
     },
     {
-      "id": "davidson-11597",
-      "schoolSlug": "davidson",
-      "school": "Davidson",
-      "schoolLongName": "Davidson College",
-      "name": "Fredy Diaz",
-      "normalizedName": "fredy diaz",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "INF",
-      "positionLong": "",
-      "classYear": "SO",
-      "handedness": "R/R",
-      "jersey": "2",
-      "hometown": "Middletown Md.",
-      "highSchool": "Middletown",
-      "previousSchool": "",
-      "hometownHighSchool": "Middletown Md. / Middletown",
-      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/fredy-diaz/11597",
-      "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/37_Diaz.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "11597",
-      "sources": [
-        "Davidson Athletics roster",
-        "Davidson cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "11597",
-        "name": "Fredy Diaz",
-        "normalizedName": "fredy diaz",
-        "jersey": "2",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/fredy-diaz/11597",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/37_Diaz.jpg",
-        "gamesPlayed": 47,
-        "gamesStarted": 46,
-        "battingAverage": 0.262,
-        "onBasePercentage": 0.382,
-        "sluggingPercentage": 0.372,
-        "ops": 0.754,
-        "atBats": 145,
-        "runs": 23,
-        "hits": 38,
-        "doubles": 10,
-        "triples": 0,
-        "homeRuns": 2,
-        "runsBattedIn": 23,
-        "totalBases": 54,
-        "walks": 11,
-        "hitByPitch": 17,
-        "strikeouts": 35,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 6,
-        "stolenBases": 8,
-        "stolenBasesAttempts": 10,
-        "putouts": 74,
-        "assists": 0,
-        "errors": 19,
-        "plateAppearances": 191,
-        "caughtStealing": 2,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "11597",
-        "name": "Fredy Diaz",
-        "normalizedName": "fredy diaz",
-        "jersey": "2",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/fredy-diaz/11597",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/37_Diaz.jpg",
-        "gamesPlayed": 46,
-        "gamesStarted": 45,
-        "putouts": 74,
-        "assists": 92,
-        "errors": 19,
-        "fieldingPercentage": 0.897,
-        "doublePlays": 16,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 185
-      },
-      "evaluation": {
-        "score": 31,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 56.66666666666666,
-          "Power": 13.684210526315788,
-          "Contact": 26.250000000000007,
-          "Discipline": 12.698412698412694,
-          "Speed": 26.666666666666668
-        },
-        "summary": "Fredy Diaz profiles as a INF piece who adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .262",
-          "OBP .382",
-          "SLG .372"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".262"
-          },
-          {
-            "label": "OBP",
-            "value": ".382"
-          },
-          {
-            "label": "SLG",
-            "value": ".372"
-          },
-          {
-            "label": "HR",
-            "value": "2"
-          },
-          {
-            "label": "RBI",
-            "value": "23"
-          },
-          {
-            "label": "SB",
-            "value": "8"
-          }
-        ],
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "INF",
-          "SO",
-          "R/R",
-          "Hitter"
-        ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats"
-      }
-    },
-    {
-      "id": "davidson-11620",
-      "schoolSlug": "davidson",
-      "school": "Davidson",
-      "schoolLongName": "Davidson College",
-      "name": "Jacob Vokal",
-      "normalizedName": "jacob vokal",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP/INF",
-      "positionLong": "",
-      "classYear": "SO",
-      "handedness": "R/R",
-      "jersey": "4",
-      "hometown": "Hoschton, Ga.",
-      "highSchool": "Cherokee Bluff",
-      "previousSchool": "",
-      "hometownHighSchool": "Hoschton, Ga. / Cherokee Bluff",
-      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/jacob-vokal/11620",
-      "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/4_Vokal.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "11620",
-      "sources": [
-        "Davidson Athletics roster",
-        "Davidson cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "11620",
-        "name": "Jacob Vokal",
-        "normalizedName": "jacob vokal",
-        "jersey": "4",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/jacob-vokal/11620",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/4_Vokal.jpg",
-        "gamesPlayed": 16,
-        "gamesStarted": 7,
-        "appearances": 16,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 10.2,
-        "whip": 2.23,
-        "wins": 2,
-        "losses": 3,
-        "saves": 1,
-        "shutouts": 0,
-        "inningsPitched": 30,
-        "inningsPitchedDisplay": "30.0",
-        "hitsAllowed": 50,
-        "runsAllowed": 42,
-        "earnedRunsAllowed": 34,
-        "walksAllowed": 17,
-        "strikeouts": 19,
-        "doublesAllowed": 9,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 8,
-        "opponentsAtBats": 137,
-        "wildPitches": 7,
-        "hitBatters": 3,
-        "balks": 0,
-        "opponentsBattingAverage": 0.365,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "11620",
-        "name": "Jacob Vokal",
-        "normalizedName": "jacob vokal",
-        "jersey": "4",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/jacob-vokal/11620",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/4_Vokal.jpg",
-        "gamesPlayed": 6,
-        "gamesStarted": 3,
-        "putouts": 1,
-        "assists": 4,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 2,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 5
-      },
-      "evaluation": {
-        "score": 3,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 15.454545454545457,
-          "Command": 2.3529411764705888,
-          "Damage suppression": 0
-        },
-        "summary": "Jacob Vokal gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 10.20",
-          "WHIP 2.23",
-          "K/9 5.7"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "10.20"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.23"
-          },
-          {
-            "label": "K/9",
-            "value": "5.7"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.1"
-          },
-          {
-            "label": "HR/9",
-            "value": "2.40"
-          },
-          {
-            "label": "IP",
-            "value": "30.0"
-          }
-        ],
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP/INF",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats"
-      }
-    },
-    {
-      "id": "davidson-11624",
-      "schoolSlug": "davidson",
-      "school": "Davidson",
-      "schoolLongName": "Davidson College",
-      "name": "Matthew Vannoy",
-      "normalizedName": "matthew vannoy",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "C/INF",
-      "positionLong": "",
-      "classYear": "FR",
-      "handedness": "S/R",
-      "jersey": "5",
-      "hometown": "Raleigh, N.C.",
-      "highSchool": "Broughton",
-      "previousSchool": "",
-      "hometownHighSchool": "Raleigh, N.C. / Broughton",
-      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/matthew-vannoy/11624",
-      "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/5_Vannoy.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "11624",
-      "sources": [
-        "Davidson Athletics roster",
-        "Davidson cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "11624",
-        "name": "Matthew Vannoy",
-        "normalizedName": "matthew vannoy",
-        "jersey": "5",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/matthew-vannoy/11624",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/5_Vannoy.jpg",
-        "gamesPlayed": 53,
-        "gamesStarted": 53,
-        "battingAverage": 0.261,
-        "onBasePercentage": 0.435,
-        "sluggingPercentage": 0.332,
-        "ops": 0.767,
-        "atBats": 199,
-        "runs": 51,
-        "hits": 52,
-        "doubles": 6,
-        "triples": 1,
-        "homeRuns": 2,
-        "runsBattedIn": 21,
-        "totalBases": 66,
-        "walks": 44,
-        "hitByPitch": 17,
-        "strikeouts": 57,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 2,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 5,
-        "stolenBases": 11,
-        "stolenBasesAttempts": 13,
-        "putouts": 38,
-        "assists": 0,
-        "errors": 8,
-        "plateAppearances": 280,
-        "caughtStealing": 2,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "11624",
-        "name": "Matthew Vannoy",
-        "normalizedName": "matthew vannoy",
-        "jersey": "5",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/matthew-vannoy/11624",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/5_Vannoy.jpg",
-        "gamesPlayed": 51,
-        "gamesStarted": 51,
-        "putouts": 38,
-        "assists": 90,
-        "errors": 8,
-        "fieldingPercentage": 0.941,
-        "doublePlays": 4,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 136
-      },
-      "evaluation": {
-        "score": 46,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 86.1111111111111,
-          "Power": 3.157894736842109,
-          "Contact": 25.625000000000004,
-          "Discipline": 63.54775828460038,
-          "Speed": 36.666666666666664
-        },
-        "summary": "Matthew Vannoy profiles as a C/INF piece who gets on base at a high clip and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .261",
-          "OBP .435",
-          "SLG .332"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".261"
-          },
-          {
-            "label": "OBP",
-            "value": ".435"
-          },
-          {
-            "label": "SLG",
-            "value": ".332"
-          },
-          {
-            "label": "HR",
-            "value": "2"
-          },
-          {
-            "label": "RBI",
-            "value": "21"
-          },
-          {
-            "label": "SB",
-            "value": "11"
-          }
-        ],
-        "metaLine": "FR / S/R",
-        "detailBadges": [
-          "C/INF",
-          "FR",
-          "S/R",
-          "Hitter"
-        ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats"
-      }
-    },
-    {
-      "id": "davidson-11613",
-      "schoolSlug": "davidson",
-      "school": "Davidson",
-      "schoolLongName": "Davidson College",
-      "name": "Aidan Rice",
-      "normalizedName": "aidan rice",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "INF/OF",
-      "positionLong": "",
-      "classYear": "SR",
-      "handedness": "R/R",
-      "jersey": "6",
-      "hometown": "Durham, N.C.",
-      "highSchool": "Northern Durham",
-      "previousSchool": "",
-      "hometownHighSchool": "Durham, N.C. / Northern Durham",
-      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/aidan-rice/11613",
-      "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/6_Rice.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "11613",
-      "sources": [
-        "Davidson Athletics roster",
-        "Davidson cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "11613",
-        "name": "Aidan Rice",
-        "normalizedName": "aidan rice",
-        "jersey": "6",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/aidan-rice/11613",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/6_Rice.jpg",
-        "gamesPlayed": 41,
-        "gamesStarted": 34,
-        "battingAverage": 0.256,
-        "onBasePercentage": 0.367,
-        "sluggingPercentage": 0.347,
-        "ops": 0.714,
-        "atBats": 121,
-        "runs": 20,
-        "hits": 31,
-        "doubles": 5,
-        "triples": 0,
-        "homeRuns": 2,
-        "runsBattedIn": 16,
-        "totalBases": 42,
-        "walks": 16,
-        "hitByPitch": 7,
-        "strikeouts": 41,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 3,
-        "sacrificeHits": 3,
-        "stolenBases": 1,
-        "stolenBasesAttempts": 2,
-        "putouts": 75,
-        "assists": 0,
-        "errors": 8,
-        "plateAppearances": 153,
-        "caughtStealing": 1,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "11613",
-        "name": "Aidan Rice",
-        "normalizedName": "aidan rice",
-        "jersey": "6",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/aidan-rice/11613",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/6_Rice.jpg",
-        "gamesPlayed": 35,
-        "gamesStarted": 33,
-        "putouts": 75,
-        "assists": 66,
-        "errors": 8,
-        "fieldingPercentage": 0.946,
-        "doublePlays": 14,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 149
-      },
-      "evaluation": {
-        "score": 25,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 48.333333333333314,
-          "Power": 7.10526315789473,
-          "Contact": 22.500000000000004,
-          "Discipline": 21.13821138211382,
-          "Speed": 3.3333333333333335
-        },
-        "summary": "Aidan Rice gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .256",
-          "OBP .367",
-          "SLG .347"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".256"
-          },
-          {
-            "label": "OBP",
-            "value": ".367"
-          },
-          {
-            "label": "SLG",
-            "value": ".347"
-          },
-          {
-            "label": "HR",
-            "value": "2"
-          },
-          {
-            "label": "RBI",
-            "value": "16"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "INF/OF",
-          "SR",
-          "R/R",
-          "Hitter"
-        ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats"
-      }
-    },
-    {
-      "id": "davidson-11618",
-      "schoolSlug": "davidson",
-      "school": "Davidson",
-      "schoolLongName": "Davidson College",
-      "name": "Gavin Thomas",
-      "normalizedName": "gavin thomas",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "OF",
-      "positionLong": "",
-      "classYear": "JR",
-      "handedness": "R/R",
-      "jersey": "7",
-      "hometown": "Lake Mary, Fla.",
-      "highSchool": "Master's Academy",
-      "previousSchool": "",
-      "hometownHighSchool": "Lake Mary, Fla. / Master's Academy",
-      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/gavin-thomas/11618",
-      "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/7_Thomas.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "11618",
-      "sources": [
-        "Davidson Athletics roster",
-        "Davidson cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "11618",
-        "name": "Gavin Thomas",
-        "normalizedName": "gavin thomas",
-        "jersey": "7",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/gavin-thomas/11618",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/7_Thomas.jpg",
-        "gamesPlayed": 27,
-        "gamesStarted": 8,
-        "battingAverage": 0.189,
-        "onBasePercentage": 0.311,
-        "sluggingPercentage": 0.541,
-        "ops": 0.852,
-        "atBats": 37,
-        "runs": 11,
-        "hits": 7,
-        "doubles": 1,
-        "triples": 0,
-        "homeRuns": 4,
-        "runsBattedIn": 10,
-        "totalBases": 20,
-        "walks": 6,
-        "hitByPitch": 1,
-        "strikeouts": 16,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 1,
-        "sacrificeHits": 0,
-        "stolenBases": 2,
-        "stolenBasesAttempts": 2,
-        "putouts": 22,
-        "assists": 0,
-        "errors": 1,
-        "plateAppearances": 47,
-        "caughtStealing": 0,
-        "pickedOff": 1
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "11618",
-        "name": "Gavin Thomas",
-        "normalizedName": "gavin thomas",
-        "jersey": "7",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/gavin-thomas/11618",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/7_Thomas.jpg",
-        "gamesPlayed": 11,
-        "gamesStarted": 6,
-        "putouts": 22,
-        "assists": 0,
-        "errors": 1,
-        "fieldingPercentage": 0.957,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 23
-      },
-      "evaluation": {
-        "score": 24,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 17.222222222222207,
-          "Power": 58.15789473684212,
-          "Contact": 0,
-          "Discipline": 19.44444444444444,
-          "Speed": 6.666666666666667
-        },
-        "summary": "Gavin Thomas gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .189",
-          "OBP .311",
-          "SLG .541"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".189"
-          },
-          {
-            "label": "OBP",
-            "value": ".311"
-          },
-          {
-            "label": "SLG",
-            "value": ".541"
-          },
-          {
-            "label": "HR",
-            "value": "4"
-          },
-          {
-            "label": "RBI",
-            "value": "10"
-          },
-          {
-            "label": "SB",
-            "value": "2"
-          }
-        ],
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "OF",
-          "JR",
-          "R/R",
-          "Hitter"
-        ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats"
-      }
-    },
-    {
-      "id": "davidson-11595",
-      "schoolSlug": "davidson",
-      "school": "Davidson",
-      "schoolLongName": "Davidson College",
-      "name": "Cooper Collins",
-      "normalizedName": "cooper collins",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "INF",
-      "positionLong": "",
-      "classYear": "SO",
-      "handedness": "R/R",
-      "jersey": "8",
-      "hometown": "Gainesville, Fla.",
-      "highSchool": "Buchholz",
-      "previousSchool": "",
-      "hometownHighSchool": "Gainesville, Fla. / Buchholz",
-      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/cooper-collins/11595",
-      "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/8_Collins.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "11595",
-      "sources": [
-        "Davidson Athletics roster",
-        "Davidson cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "11595",
-        "name": "Cooper Collins",
-        "normalizedName": "cooper collins",
-        "jersey": "8",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/cooper-collins/11595",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/8_Collins.jpg",
-        "gamesPlayed": 22,
-        "gamesStarted": 11,
-        "battingAverage": 0.156,
-        "onBasePercentage": 0.298,
-        "sluggingPercentage": 0.267,
-        "ops": 0.565,
-        "atBats": 45,
-        "runs": 11,
-        "hits": 7,
-        "doubles": 0,
-        "triples": 1,
-        "homeRuns": 1,
-        "runsBattedIn": 7,
-        "totalBases": 12,
-        "walks": 6,
-        "hitByPitch": 4,
-        "strikeouts": 15,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 2,
-        "sacrificeHits": 0,
-        "stolenBases": 2,
-        "stolenBasesAttempts": 2,
-        "putouts": 21,
-        "assists": 0,
-        "errors": 6,
-        "plateAppearances": 59,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "11595",
-        "name": "Cooper Collins",
-        "normalizedName": "cooper collins",
-        "jersey": "8",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/cooper-collins/11595",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/8_Collins.jpg",
-        "gamesPlayed": 16,
-        "gamesStarted": 11,
-        "putouts": 21,
-        "assists": 33,
-        "errors": 6,
-        "fieldingPercentage": 0.9,
-        "doublePlays": 3,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 60
-      },
-      "evaluation": {
-        "score": 7,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 9.999999999999979,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 22.22222222222222,
-          "Speed": 6.666666666666667
-        },
-        "summary": "Cooper Collins gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .156",
-          "OBP .298",
-          "SLG .267"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".156"
-          },
-          {
-            "label": "OBP",
-            "value": ".298"
-          },
-          {
-            "label": "SLG",
-            "value": ".267"
-          },
-          {
-            "label": "HR",
-            "value": "1"
-          },
-          {
-            "label": "RBI",
-            "value": "7"
-          },
-          {
-            "label": "SB",
-            "value": "2"
-          }
-        ],
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "INF",
-          "SO",
-          "R/R",
-          "Hitter"
-        ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats"
-      }
-    },
-    {
-      "id": "davidson-11609",
-      "schoolSlug": "davidson",
-      "school": "Davidson",
-      "schoolLongName": "Davidson College",
-      "name": "Will McCullough",
-      "normalizedName": "will mccullough",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "OF",
-      "positionLong": "",
-      "classYear": "R-FR",
-      "handedness": "R/R",
-      "jersey": "9",
-      "hometown": "Morrow, Ohio",
-      "highSchool": "Archbishop Moeller",
-      "previousSchool": "",
-      "hometownHighSchool": "Morrow, Ohio / Archbishop Moeller",
-      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/will-mccullough/11609",
-      "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/9_McCullough.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "11609",
-      "sources": [
-        "Davidson Athletics roster",
-        "Davidson cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "11609",
-        "name": "Will McCullough",
-        "normalizedName": "will mccullough",
-        "jersey": "9",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/will-mccullough/11609",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/9_McCullough.jpg",
-        "gamesPlayed": 27,
-        "gamesStarted": 6,
-        "battingAverage": 0.114,
-        "onBasePercentage": 0.162,
-        "sluggingPercentage": 0.143,
-        "ops": 0.305,
-        "atBats": 35,
-        "runs": 11,
-        "hits": 4,
-        "doubles": 1,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 1,
-        "totalBases": 5,
-        "walks": 2,
-        "hitByPitch": 0,
-        "strikeouts": 21,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 2,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 1,
-        "stolenBases": 6,
-        "stolenBasesAttempts": 6,
-        "putouts": 15,
-        "assists": 0,
-        "errors": 1,
-        "plateAppearances": 44,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "11609",
-        "name": "Will McCullough",
-        "normalizedName": "will mccullough",
-        "jersey": "9",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/will-mccullough/11609",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/9_McCullough.jpg",
-        "gamesPlayed": 9,
-        "gamesStarted": 3,
-        "putouts": 15,
-        "assists": 1,
-        "errors": 1,
-        "fieldingPercentage": 0.941,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 17
-      },
-      "evaluation": {
-        "score": 2,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 20
-        },
-        "summary": "Will McCullough gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .114",
-          "OBP .162",
-          "SLG .143"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".114"
-          },
-          {
-            "label": "OBP",
-            "value": ".162"
-          },
-          {
-            "label": "SLG",
-            "value": ".143"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "1"
-          },
-          {
-            "label": "SB",
-            "value": "6"
-          }
-        ],
-        "metaLine": "R-FR / R/R",
-        "detailBadges": [
-          "OF",
-          "R-FR",
-          "R/R",
-          "Hitter"
-        ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats"
-      }
-    },
-    {
-      "id": "davidson-11625",
+      "id": "davidson-12639",
       "schoolSlug": "davidson",
       "school": "Davidson",
       "schoolLongName": "Davidson College",
       "name": "Matt Manjooran",
       "normalizedName": "matt manjooran",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "3B/OF",
       "positionLong": "",
-      "classYear": "FR",
+      "classYear": "SO",
       "handedness": "R/R",
       "jersey": "10",
       "hometown": "Camas, Wash.",
       "highSchool": "Camas",
       "previousSchool": "",
       "hometownHighSchool": "Camas, Wash. / Camas",
-      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/matt-manjooran/11625",
+      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/matt-manjooran/12639",
       "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/10_Manjooran.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -1286,215 +876,13 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "11625",
+      "rosterBioId": "12639",
       "sources": [
-        "Davidson Athletics roster",
-        "Davidson cumulative stats"
+        "Davidson Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "11625",
-        "name": "Matt Manjooran",
-        "normalizedName": "matt manjooran",
-        "jersey": "10",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/matt-manjooran/11625",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/10_Manjooran.jpg",
-        "gamesPlayed": 51,
-        "gamesStarted": 51,
-        "battingAverage": 0.332,
-        "onBasePercentage": 0.436,
-        "sluggingPercentage": 0.51,
-        "ops": 0.946,
-        "atBats": 196,
-        "runs": 33,
-        "hits": 65,
-        "doubles": 12,
-        "triples": 4,
-        "homeRuns": 5,
-        "runsBattedIn": 49,
-        "totalBases": 100,
-        "walks": 23,
-        "hitByPitch": 14,
-        "strikeouts": 51,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 3,
-        "sacrificeFlies": 1,
-        "sacrificeHits": 0,
-        "stolenBases": 6,
-        "stolenBasesAttempts": 8,
-        "putouts": 151,
-        "assists": 0,
-        "errors": 9,
-        "plateAppearances": 244,
-        "caughtStealing": 2,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "11625",
-        "name": "Matt Manjooran",
-        "normalizedName": "matt manjooran",
-        "jersey": "10",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/matt-manjooran/11625",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/10_Manjooran.jpg",
-        "gamesPlayed": 46,
-        "gamesStarted": 46,
-        "putouts": 151,
-        "assists": 39,
-        "errors": 9,
-        "fieldingPercentage": 0.955,
-        "doublePlays": 10,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 199
-      },
-      "evaluation": {
-        "score": 59,
-        "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
-        },
-        "components": {
-          "On-base": 86.66666666666666,
-          "Power": 50.000000000000014,
-          "Contact": 70,
-          "Discipline": 27.886710239651414,
-          "Speed": 20
-        },
-        "summary": "Matt Manjooran profiles as a 3B/OF piece who gets on base at a high clip.",
-        "summaryMetrics": [
-          "AVG .332",
-          "OBP .436",
-          "SLG .510"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".332"
-          },
-          {
-            "label": "OBP",
-            "value": ".436"
-          },
-          {
-            "label": "SLG",
-            "value": ".510"
-          },
-          {
-            "label": "HR",
-            "value": "5"
-          },
-          {
-            "label": "RBI",
-            "value": "49"
-          },
-          {
-            "label": "SB",
-            "value": "6"
-          }
-        ],
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "3B/OF",
-          "FR",
-          "R/R",
-          "Hitter"
-        ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats"
-      }
-    },
-    {
-      "id": "davidson-11626",
-      "schoolSlug": "davidson",
-      "school": "Davidson",
-      "schoolLongName": "Davidson College",
-      "name": "Connor Berman",
-      "normalizedName": "connor berman",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "INF/OF",
-      "positionLong": "",
-      "classYear": "FR",
-      "handedness": "L/R",
-      "jersey": "11",
-      "hometown": "Boca Raton, Fla.",
-      "highSchool": "Saint Andrew's School",
-      "previousSchool": "",
-      "hometownHighSchool": "Boca Raton, Fla. / Saint Andrew's School",
-      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/connor-berman/11626",
-      "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/11_Berman.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "11626",
-      "sources": [
-        "Davidson Athletics roster",
-        "Davidson cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "11626",
-        "name": "Connor Berman",
-        "normalizedName": "connor berman",
-        "jersey": "11",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/connor-berman/11626",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/11_Berman.jpg",
-        "gamesPlayed": 5,
-        "gamesStarted": 0,
-        "battingAverage": 0,
-        "onBasePercentage": 0,
-        "sluggingPercentage": 0,
-        "ops": 0,
-        "atBats": 2,
-        "runs": 0,
-        "hits": 0,
-        "doubles": 0,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 0,
-        "totalBases": 0,
-        "walks": 0,
-        "hitByPitch": 0,
-        "strikeouts": 2,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 1,
-        "assists": 0,
-        "errors": 1,
-        "plateAppearances": 2,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "11626",
-        "name": "Connor Berman",
-        "normalizedName": "connor berman",
-        "jersey": "11",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/connor-berman/11626",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/11_Berman.jpg",
-        "gamesPlayed": 3,
-        "gamesStarted": 0,
-        "putouts": 1,
-        "assists": 2,
-        "errors": 1,
-        "fieldingPercentage": 0.75,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 4
-      },
+      "fieldingStats": null,
       "evaluation": {
         "score": 0,
         "fit": {
@@ -1508,24 +896,112 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "summary": "Connor Berman gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Matt Manjooran gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .000",
-          "OBP .000",
-          "SLG .000"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".000"
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "3B/OF",
+          "SO",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Davidson Athletics roster"
+      }
+    },
+    {
+      "id": "davidson-12653",
+      "schoolSlug": "davidson",
+      "school": "Davidson",
+      "schoolLongName": "Davidson College",
+      "name": "Cade Hudmon",
+      "normalizedName": "cade hudmon",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "",
+      "classYear": "FR",
+      "handedness": "L/R",
+      "jersey": "11",
+      "hometown": "Bradenton, Fla.",
+      "highSchool": "IMG Academy",
+      "previousSchool": "",
+      "hometownHighSchool": "Bradenton, Fla. / IMG Academy",
+      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/cade-hudmon/12653",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12653",
+      "sources": [
+        "Davidson Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Cade Hudmon gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
           },
           {
             "label": "HR",
@@ -1542,161 +1018,104 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         ],
         "metaLine": "FR / L/R",
         "detailBadges": [
-          "INF/OF",
+          "INF",
           "FR",
           "L/R",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats"
+        "sourceSummary": "Davidson Athletics roster"
       }
     },
     {
-      "id": "davidson-11596",
+      "id": "davidson-12654",
       "schoolSlug": "davidson",
       "school": "Davidson",
       "schoolLongName": "Davidson College",
-      "name": "Jamie Daly",
-      "normalizedName": "jamie daly",
-      "compositeRole": "Hitter",
+      "name": "Jackson Norum",
+      "normalizedName": "jackson norum",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "OF",
       "positionLong": "",
       "classYear": "SO",
-      "handedness": "L/R",
+      "handedness": "R/R",
       "jersey": "12",
-      "hometown": "Evans, Ga.",
-      "highSchool": "Greenbrier",
-      "previousSchool": "",
-      "hometownHighSchool": "Evans, Ga. / Greenbrier",
-      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/jamie-daly/11596",
-      "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/12_Daly.jpg",
+      "hometown": "San Diego, Calif.",
+      "highSchool": "La Jolla Country Day",
+      "previousSchool": "Cal",
+      "hometownHighSchool": "San Diego, Calif. / La Jolla Country Day",
+      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/jackson-norum/12654",
+      "imageUrl": "",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "11596",
+      "rosterBioId": "12654",
       "sources": [
-        "Davidson Athletics roster",
-        "Davidson cumulative stats"
+        "Davidson Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "11596",
-        "name": "Jamie Daly",
-        "normalizedName": "jamie daly",
-        "jersey": "12",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/jamie-daly/11596",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/12_Daly.jpg",
-        "gamesPlayed": 49,
-        "gamesStarted": 45,
-        "battingAverage": 0.328,
-        "onBasePercentage": 0.452,
-        "sluggingPercentage": 0.588,
-        "ops": 1.04,
-        "atBats": 177,
-        "runs": 44,
-        "hits": 58,
-        "doubles": 9,
-        "triples": 2,
-        "homeRuns": 11,
-        "runsBattedIn": 40,
-        "totalBases": 104,
-        "walks": 28,
-        "hitByPitch": 14,
-        "strikeouts": 63,
-        "intentionalWalks": 2,
-        "groundedIntoDoublePlay": 2,
-        "sacrificeFlies": 2,
-        "sacrificeHits": 1,
-        "stolenBases": 13,
-        "stolenBasesAttempts": 14,
-        "putouts": 111,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 237,
-        "caughtStealing": 1,
-        "pickedOff": 1
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "11596",
-        "name": "Jamie Daly",
-        "normalizedName": "jamie daly",
-        "jersey": "12",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/jamie-daly/11596",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/12_Daly.jpg",
-        "gamesPlayed": 40,
-        "gamesStarted": 40,
-        "putouts": 111,
-        "assists": 3,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 114
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 69,
+        "score": 0,
         "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
+          "label": "Depth",
+          "className": "fit-depth"
         },
         "components": {
-          "On-base": 95.55555555555554,
-          "Power": 70.52631578947368,
-          "Contact": 67.5,
-          "Discipline": 27.160493827160487,
-          "Speed": 43.333333333333336
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "summary": "Jamie Daly profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
+        "summary": "Jackson Norum gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .328",
-          "OBP .452",
-          "SLG .588"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".328"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".452"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".588"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "11"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "40"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "13"
+            "value": "0"
           }
         ],
-        "metaLine": "SO / L/R",
+        "metaLine": "SO / R/R",
         "detailBadges": [
           "OF",
           "SO",
-          "L/R",
-          "Hitter"
+          "R/R",
+          "Rostered"
         ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats"
+        "sourceSummary": "Davidson Athletics roster"
       }
     },
     {
-      "id": "davidson-11607",
+      "id": "davidson-12636",
       "schoolSlug": "davidson",
       "school": "Davidson",
       "schoolLongName": "Davidson College",
@@ -1706,14 +1125,14 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
       "role": "Pitcher",
       "position": "LHP/OF",
       "positionLong": "",
-      "classYear": "JR",
+      "classYear": "SR",
       "handedness": "L/L",
       "jersey": "13",
       "hometown": "Berkeley Lake, Ga.",
       "highSchool": "Wesleyan School",
       "previousSchool": "Birmingham-Southern",
       "hometownHighSchool": "Berkeley Lake, Ga. / Wesleyan School",
-      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/forrest-lietz/11607",
+      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/forrest-lietz/12636",
       "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/13_Lietz.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -1721,70 +1140,13 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "11607",
+      "rosterBioId": "12636",
       "sources": [
-        "Davidson Athletics roster",
-        "Davidson cumulative stats"
+        "Davidson Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "11607",
-        "name": "Forrest Lietz",
-        "normalizedName": "forrest lietz",
-        "jersey": "13",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/forrest-lietz/11607",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/13_Lietz.jpg",
-        "gamesPlayed": 51,
-        "gamesStarted": 47,
-        "battingAverage": 0.301,
-        "onBasePercentage": 0.412,
-        "sluggingPercentage": 0.466,
-        "ops": 0.878,
-        "atBats": 176,
-        "runs": 42,
-        "hits": 53,
-        "doubles": 7,
-        "triples": 2,
-        "homeRuns": 6,
-        "runsBattedIn": 41,
-        "totalBases": 82,
-        "walks": 32,
-        "hitByPitch": 2,
-        "strikeouts": 46,
-        "intentionalWalks": 1,
-        "groundedIntoDoublePlay": 5,
-        "sacrificeFlies": 1,
-        "sacrificeHits": 0,
-        "stolenBases": 6,
-        "stolenBasesAttempts": 8,
-        "putouts": 94,
-        "assists": 0,
-        "errors": 3,
-        "plateAppearances": 221,
-        "caughtStealing": 2,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "11607",
-        "name": "Forrest Lietz",
-        "normalizedName": "forrest lietz",
-        "jersey": "13",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/forrest-lietz/11607",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/13_Lietz.jpg",
-        "gamesPlayed": 41,
-        "gamesStarted": 41,
-        "putouts": 94,
-        "assists": 0,
-        "errors": 3,
-        "fieldingPercentage": 0.969,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 97
-      },
+      "fieldingStats": null,
       "evaluation": {
         "score": 0,
         "fit": {
@@ -1830,160 +1192,106 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "JR / L/L",
+        "metaLine": "SR / L/L",
         "detailBadges": [
           "LHP/OF",
-          "JR",
+          "SR",
           "L/L",
           "Pitcher"
         ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats"
+        "sourceSummary": "Davidson Athletics roster"
       }
     },
     {
-      "id": "davidson-11594",
+      "id": "davidson-12655",
       "schoolSlug": "davidson",
       "school": "Davidson",
       "schoolLongName": "Davidson College",
-      "name": "Brycen Champey",
-      "normalizedName": "brycen champey",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
+      "name": "Carter Bennett",
+      "normalizedName": "carter bennett",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
       "positionLong": "",
-      "classYear": "SR",
-      "handedness": "R/R",
+      "classYear": "JR",
+      "handedness": "L/R",
       "jersey": "14",
-      "hometown": "New Bern, N.C.",
-      "highSchool": "New Bern",
-      "previousSchool": "",
-      "hometownHighSchool": "New Bern, N.C. / New Bern",
-      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/brycen-champey/11594",
-      "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/14_Champey.jpg",
+      "hometown": "Woodland Hills, Calif.",
+      "highSchool": "Chaminade College Preparatory",
+      "previousSchool": "Claremont McKenna College",
+      "hometownHighSchool": "Woodland Hills, Calif. / Chaminade College Preparatory",
+      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/carter-bennett/12655",
+      "imageUrl": "",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "11594",
+      "rosterBioId": "12655",
       "sources": [
-        "Davidson Athletics roster",
-        "Davidson cumulative stats"
+        "Davidson Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "11594",
-        "name": "Brycen Champey",
-        "normalizedName": "brycen champey",
-        "jersey": "14",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/brycen-champey/11594",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/14_Champey.jpg",
-        "gamesPlayed": 16,
-        "gamesStarted": 1,
-        "appearances": 16,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 6.46,
-        "whip": 1.77,
-        "wins": 1,
-        "losses": 2,
-        "saves": 1,
-        "shutouts": 0,
-        "inningsPitched": 39,
-        "inningsPitchedDisplay": "39.0",
-        "hitsAllowed": 40,
-        "runsAllowed": 35,
-        "earnedRunsAllowed": 28,
-        "walksAllowed": 29,
-        "strikeouts": 32,
-        "doublesAllowed": 12,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 4,
-        "opponentsAtBats": 150,
-        "wildPitches": 7,
-        "hitBatters": 8,
-        "balks": 1,
-        "opponentsBattingAverage": 0.267,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "11594",
-        "name": "Brycen Champey",
-        "normalizedName": "brycen champey",
-        "jersey": "14",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/brycen-champey/11594",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/14_Champey.jpg",
-        "gamesPlayed": 10,
-        "gamesStarted": 1,
-        "putouts": 1,
-        "assists": 7,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 7,
-        "caughtStealingBy": 1,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 8
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 6,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 30.76923076923077,
-          "Command": 2.068965517241379,
-          "Damage suppression": 0
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "summary": "Brycen Champey gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Carter Bennett gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 6.46",
-          "WHIP 1.77",
-          "K/9 7.4"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
-            "label": "ERA",
-            "value": "6.46"
+            "label": "AVG",
+            "value": "--"
           },
           {
-            "label": "WHIP",
-            "value": "1.77"
+            "label": "OBP",
+            "value": "--"
           },
           {
-            "label": "K/9",
-            "value": "7.4"
+            "label": "SLG",
+            "value": "--"
           },
           {
-            "label": "BB/9",
-            "value": "6.7"
+            "label": "HR",
+            "value": "0"
           },
           {
-            "label": "HR/9",
-            "value": "0.92"
+            "label": "RBI",
+            "value": "0"
           },
           {
-            "label": "IP",
-            "value": "39.0"
+            "label": "SB",
+            "value": "0"
           }
         ],
-        "metaLine": "SR / R/R",
+        "metaLine": "JR / L/R",
         "detailBadges": [
-          "RHP",
-          "SR",
-          "R/R",
-          "Pitcher"
+          "INF",
+          "JR",
+          "L/R",
+          "Rostered"
         ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats"
+        "sourceSummary": "Davidson Athletics roster"
       }
     },
     {
-      "id": "davidson-11627",
+      "id": "davidson-12629",
       "schoolSlug": "davidson",
       "school": "Davidson",
       "schoolLongName": "Davidson College",
@@ -1993,14 +1301,14 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
-      "classYear": "JR",
+      "classYear": "SR",
       "handedness": "R/R",
       "jersey": "15",
       "hometown": "Harrisburg, N.C.",
       "highSchool": "Hickory Ridge",
       "previousSchool": "Cleveland Community College",
       "hometownHighSchool": "Harrisburg, N.C. / Hickory Ridge",
-      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/keely-furr/11627",
+      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/keely-furr/12629",
       "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/15_Furr.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -2008,69 +1316,15 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "11627",
+      "rosterBioId": "12629",
       "sources": [
-        "Davidson Athletics roster",
-        "Davidson cumulative stats"
+        "Davidson Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "11627",
-        "name": "Keely Furr",
-        "normalizedName": "keely furr",
-        "jersey": "15",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/keely-furr/11627",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/15_Furr.jpg",
-        "gamesPlayed": 11,
-        "gamesStarted": 0,
-        "appearances": 11,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 14.25,
-        "whip": 2.83,
-        "wins": 0,
-        "losses": 1,
-        "saves": 1,
-        "shutouts": 0,
-        "inningsPitched": 12,
-        "inningsPitchedDisplay": "12.0",
-        "hitsAllowed": 18,
-        "runsAllowed": 28,
-        "earnedRunsAllowed": 19,
-        "walksAllowed": 16,
-        "strikeouts": 14,
-        "doublesAllowed": 5,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 4,
-        "opponentsAtBats": 52,
-        "wildPitches": 11,
-        "hitBatters": 7,
-        "balks": 0,
-        "opponentsBattingAverage": 0.346,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "11627",
-        "name": "Keely Furr",
-        "normalizedName": "keely furr",
-        "jersey": "15",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/keely-furr/11627",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/15_Furr.jpg",
-        "gamesPlayed": 6,
-        "gamesStarted": 0,
-        "putouts": 0,
-        "assists": 4,
-        "errors": 1,
-        "fieldingPercentage": 0.8,
-        "doublePlays": 1,
-        "stolenBasesAgainst": 6,
-        "caughtStealingBy": 1,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 5
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 12,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2078,71 +1332,71 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 59.09090909090909,
+          "Miss bats": 0,
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Keely Furr looks like a RHP option who misses bats.",
+        "summary": "Keely Furr looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 14.25",
-          "WHIP 2.83",
-          "K/9 10.5"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "14.25"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "2.83"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "10.5"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "12.0"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "3.00"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "12.0"
+            "value": "0.0"
           }
         ],
-        "metaLine": "JR / R/R",
+        "metaLine": "SR / R/R",
         "detailBadges": [
           "RHP",
-          "JR",
+          "SR",
           "R/R",
           "Pitcher"
         ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats"
+        "sourceSummary": "Davidson Athletics roster"
       }
     },
     {
-      "id": "davidson-11628",
+      "id": "davidson-12637",
       "schoolSlug": "davidson",
       "school": "Davidson",
       "schoolLongName": "Davidson College",
       "name": "Theo Loughlin",
       "normalizedName": "theo loughlin",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "1B",
       "positionLong": "",
-      "classYear": "FR",
+      "classYear": "SO",
       "handedness": "L/R",
       "jersey": "16",
       "hometown": "Annapolis, Md.",
       "highSchool": "Archbishop Spalding",
       "previousSchool": "",
       "hometownHighSchool": "Annapolis, Md. / Archbishop Spalding",
-      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/theo-loughlin/11628",
+      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/theo-loughlin/12637",
       "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/16_Loughlin.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -2150,127 +1404,70 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "11628",
+      "rosterBioId": "12637",
       "sources": [
-        "Davidson Athletics roster",
-        "Davidson cumulative stats"
+        "Davidson Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "11628",
-        "name": "Theo Loughlin",
-        "normalizedName": "theo loughlin",
-        "jersey": "16",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/theo-loughlin/11628",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/16_Loughlin.jpg",
-        "gamesPlayed": 42,
-        "gamesStarted": 36,
-        "battingAverage": 0.242,
-        "onBasePercentage": 0.392,
-        "sluggingPercentage": 0.323,
-        "ops": 0.715,
-        "atBats": 124,
-        "runs": 20,
-        "hits": 30,
-        "doubles": 7,
-        "triples": 0,
-        "homeRuns": 1,
-        "runsBattedIn": 26,
-        "totalBases": 40,
-        "walks": 30,
-        "hitByPitch": 2,
-        "strikeouts": 45,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 2,
-        "sacrificeHits": 0,
-        "stolenBases": 2,
-        "stolenBasesAttempts": 2,
-        "putouts": 278,
-        "assists": 0,
-        "errors": 3,
-        "plateAppearances": 160,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "11628",
-        "name": "Theo Loughlin",
-        "normalizedName": "theo loughlin",
-        "jersey": "16",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/theo-loughlin/11628",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/16_Loughlin.jpg",
-        "gamesPlayed": 37,
-        "gamesStarted": 36,
-        "putouts": 278,
-        "assists": 10,
-        "errors": 3,
-        "fieldingPercentage": 0.99,
-        "doublePlays": 21,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 291
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 31,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 62.22222222222222,
-          "Power": 0.7894736842105272,
-          "Contact": 13.749999999999996,
-          "Discipline": 51.85185185185184,
-          "Speed": 6.666666666666667
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
         "summary": "Theo Loughlin gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .242",
-          "OBP .392",
-          "SLG .323"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".242"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".392"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".323"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "1"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "26"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "2"
+            "value": "0"
           }
         ],
-        "metaLine": "FR / L/R",
+        "metaLine": "SO / L/R",
         "detailBadges": [
           "1B",
-          "FR",
+          "SO",
           "L/R",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats"
+        "sourceSummary": "Davidson Athletics roster"
       }
     },
     {
-      "id": "davidson-11593",
+      "id": "davidson-12624",
       "schoolSlug": "davidson",
       "school": "Davidson",
       "schoolLongName": "Davidson College",
@@ -2280,14 +1477,14 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
       "role": "Pitcher",
       "position": "LHP",
       "positionLong": "",
-      "classYear": "JR",
+      "classYear": "SR",
       "handedness": "L/L",
       "jersey": "17",
       "hometown": "Hampstead, N.C.",
       "highSchool": "Topsail",
       "previousSchool": "",
       "hometownHighSchool": "Hampstead, N.C. / Topsail",
-      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/cooper-cavanaugh/11593",
+      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/cooper-cavanaugh/12624",
       "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/17_Cavanaugh.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -2295,69 +1492,15 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "11593",
+      "rosterBioId": "12624",
       "sources": [
-        "Davidson Athletics roster",
-        "Davidson cumulative stats"
+        "Davidson Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "11593",
-        "name": "Cooper Cavanaugh",
-        "normalizedName": "cooper cavanaugh",
-        "jersey": "17",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/cooper-cavanaugh/11593",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/17_Cavanaugh.jpg",
-        "gamesPlayed": 13,
-        "gamesStarted": 13,
-        "appearances": 13,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 4.73,
-        "whip": 1.39,
-        "wins": 4,
-        "losses": 3,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 59,
-        "inningsPitchedDisplay": "59.0",
-        "hitsAllowed": 42,
-        "runsAllowed": 32,
-        "earnedRunsAllowed": 31,
-        "walksAllowed": 40,
-        "strikeouts": 72,
-        "doublesAllowed": 4,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 8,
-        "opponentsAtBats": 211,
-        "wildPitches": 6,
-        "hitBatters": 8,
-        "balks": 2,
-        "opponentsBattingAverage": 0.199,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "11593",
-        "name": "Cooper Cavanaugh",
-        "normalizedName": "cooper cavanaugh",
-        "jersey": "17",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/cooper-cavanaugh/11593",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/17_Cavanaugh.jpg",
-        "gamesPlayed": 7,
-        "gamesStarted": 7,
-        "putouts": 0,
-        "assists": 5,
-        "errors": 1,
-        "fieldingPercentage": 0.833,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 4,
-        "caughtStealingBy": 4,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 6
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 15,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2365,195 +1508,138 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 63.48228043143297,
-          "Command": 16,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Cooper Cavanaugh looks like a LHP option who misses bats.",
+        "summary": "Cooper Cavanaugh looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 4.73",
-          "WHIP 1.39",
-          "K/9 11.0"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.73"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.39"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "11.0"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "6.1"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.22"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "59.0"
+            "value": "0.0"
           }
         ],
-        "metaLine": "JR / L/L",
+        "metaLine": "SR / L/L",
         "detailBadges": [
           "LHP",
-          "JR",
+          "SR",
           "L/L",
           "Pitcher"
         ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats"
+        "sourceSummary": "Davidson Athletics roster"
       }
     },
     {
-      "id": "davidson-11598",
+      "id": "davidson-12656",
       "schoolSlug": "davidson",
       "school": "Davidson",
       "schoolLongName": "Davidson College",
-      "name": "Scotty Edwards",
-      "normalizedName": "scotty edwards",
-      "compositeRole": "Hitter",
+      "name": "Wyatt Hossenlopp",
+      "normalizedName": "wyatt hossenlopp",
+      "compositeRole": "Rostered",
       "role": "Hitter",
-      "position": "OF",
+      "position": "INF",
       "positionLong": "",
-      "classYear": "SR",
+      "classYear": "FR",
       "handedness": "R/R",
       "jersey": "18",
-      "hometown": "Fort Myers, Fla.",
-      "highSchool": "Canterbury",
-      "previousSchool": "Daytona State",
-      "hometownHighSchool": "Fort Myers, Fla. / Canterbury",
-      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/scotty-edwards/11598",
-      "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/18_Edwards.jpg",
+      "hometown": "Lakewood Ranch, Fla.",
+      "highSchool": "Cardinal Mooney Catholic",
+      "previousSchool": "",
+      "hometownHighSchool": "Lakewood Ranch, Fla. / Cardinal Mooney Catholic",
+      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/wyatt-hossenlopp/12656",
+      "imageUrl": "",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "11598",
+      "rosterBioId": "12656",
       "sources": [
-        "Davidson Athletics roster",
-        "Davidson cumulative stats"
+        "Davidson Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "11598",
-        "name": "Scotty Edwards",
-        "normalizedName": "scotty edwards",
-        "jersey": "18",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/scotty-edwards/11598",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/18_Edwards.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 36,
-        "battingAverage": 0.278,
-        "onBasePercentage": 0.377,
-        "sluggingPercentage": 0.438,
-        "ops": 0.815,
-        "atBats": 144,
-        "runs": 28,
-        "hits": 40,
-        "doubles": 5,
-        "triples": 0,
-        "homeRuns": 6,
-        "runsBattedIn": 24,
-        "totalBases": 63,
-        "walks": 17,
-        "hitByPitch": 6,
-        "strikeouts": 37,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 2,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 1,
-        "stolenBasesAttempts": 1,
-        "putouts": 54,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 168,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "11598",
-        "name": "Scotty Edwards",
-        "normalizedName": "scotty edwards",
-        "jersey": "18",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/scotty-edwards/11598",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/18_Edwards.jpg",
-        "gamesPlayed": 23,
-        "gamesStarted": 23,
-        "putouts": 54,
-        "assists": 1,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 55
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 36,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 53.88888888888887,
-          "Power": 31.05263157894737,
-          "Contact": 36.250000000000014,
-          "Discipline": 28.82882882882883,
-          "Speed": 3.3333333333333335
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "summary": "Scotty Edwards gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Wyatt Hossenlopp gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .278",
-          "OBP .377",
-          "SLG .438"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".278"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".377"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".438"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "6"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "24"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "1"
+            "value": "0"
           }
         ],
-        "metaLine": "SR / R/R",
+        "metaLine": "FR / R/R",
         "detailBadges": [
-          "OF",
-          "SR",
+          "INF",
+          "FR",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats"
+        "sourceSummary": "Davidson Athletics roster"
       }
     },
     {
@@ -2567,7 +1653,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
-      "classYear": "FR",
+      "classYear": "RF",
       "handedness": "R/R",
       "jersey": "19",
       "hometown": "Savannah, Ga.",
@@ -2634,10 +1720,10 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "FR / R/R",
+        "metaLine": "RF / R/R",
         "detailBadges": [
           "RHP",
-          "FR",
+          "RF",
           "R/R",
           "Pitcher"
         ],
@@ -2645,1148 +1731,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
       }
     },
     {
-      "id": "davidson-11591",
-      "schoolSlug": "davidson",
-      "school": "Davidson",
-      "schoolLongName": "Davidson College",
-      "name": "Will Banks",
-      "normalizedName": "will banks",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "SR",
-      "handedness": "R/R",
-      "jersey": "20",
-      "hometown": "Hickory, N.C.",
-      "highSchool": "Hickory",
-      "previousSchool": "",
-      "hometownHighSchool": "Hickory, N.C. / Hickory",
-      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/will-banks/11591",
-      "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/20_Banks.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "11591",
-      "sources": [
-        "Davidson Athletics roster",
-        "Davidson cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "11591",
-        "name": "Will Banks",
-        "normalizedName": "will banks",
-        "jersey": "20",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/will-banks/11591",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/20_Banks.jpg",
-        "gamesPlayed": 4,
-        "gamesStarted": 0,
-        "appearances": 4,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 31.5,
-        "whip": 5.5,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 2,
-        "inningsPitchedDisplay": "2.0",
-        "hitsAllowed": 6,
-        "runsAllowed": 9,
-        "earnedRunsAllowed": 7,
-        "walksAllowed": 5,
-        "strikeouts": 2,
-        "doublesAllowed": 2,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 1,
-        "opponentsAtBats": 14,
-        "wildPitches": 4,
-        "hitBatters": 1,
-        "balks": 0,
-        "opponentsBattingAverage": 0.429,
-        "walksHits": 0
-      },
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 9,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Will Banks looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 31.50",
-          "WHIP 5.50",
-          "K/9 9.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "31.50"
-          },
-          {
-            "label": "WHIP",
-            "value": "5.50"
-          },
-          {
-            "label": "K/9",
-            "value": "9.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "22.5"
-          },
-          {
-            "label": "HR/9",
-            "value": "4.50"
-          },
-          {
-            "label": "IP",
-            "value": "2.0"
-          }
-        ],
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats"
-      }
-    },
-    {
-      "id": "davidson-11599",
-      "schoolSlug": "davidson",
-      "school": "Davidson",
-      "schoolLongName": "Davidson College",
-      "name": "Ed Hall",
-      "normalizedName": "ed hall",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "SR",
-      "handedness": "R/R",
-      "jersey": "21",
-      "hometown": "Rochester, N.Y.",
-      "highSchool": "McQuaid Jesuit",
-      "previousSchool": "",
-      "hometownHighSchool": "Rochester, N.Y. / McQuaid Jesuit",
-      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/ed-hall/11599",
-      "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/21_Hall.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "11599",
-      "sources": [
-        "Davidson Athletics roster",
-        "Davidson cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "11599",
-        "name": "Ed Hall",
-        "normalizedName": "ed hall",
-        "jersey": "21",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/ed-hall/11599",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/21_Hall.jpg",
-        "gamesPlayed": 14,
-        "gamesStarted": 11,
-        "appearances": 14,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 11.64,
-        "whip": 1.91,
-        "wins": 1,
-        "losses": 4,
-        "saves": 1,
-        "shutouts": 0,
-        "inningsPitched": 38.666666666666664,
-        "inningsPitchedDisplay": "38.2",
-        "hitsAllowed": 41,
-        "runsAllowed": 51,
-        "earnedRunsAllowed": 50,
-        "walksAllowed": 33,
-        "strikeouts": 39,
-        "doublesAllowed": 7,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 9,
-        "opponentsAtBats": 143,
-        "wildPitches": 4,
-        "hitBatters": 16,
-        "balks": 0,
-        "opponentsBattingAverage": 0.287,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "11599",
-        "name": "Ed Hall",
-        "normalizedName": "ed hall",
-        "jersey": "21",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/ed-hall/11599",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/21_Hall.jpg",
-        "gamesPlayed": 12,
-        "gamesStarted": 10,
-        "putouts": 3,
-        "assists": 10,
-        "errors": 1,
-        "fieldingPercentage": 0.929,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 5,
-        "caughtStealingBy": 2,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 14
-      },
-      "evaluation": {
-        "score": 10,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 46.15987460815047,
-          "Command": 3.6363636363636336,
-          "Damage suppression": 0
-        },
-        "summary": "Ed Hall looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 11.64",
-          "WHIP 1.91",
-          "K/9 9.1"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "11.64"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.91"
-          },
-          {
-            "label": "K/9",
-            "value": "9.1"
-          },
-          {
-            "label": "BB/9",
-            "value": "7.7"
-          },
-          {
-            "label": "HR/9",
-            "value": "2.09"
-          },
-          {
-            "label": "IP",
-            "value": "38.7"
-          }
-        ],
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats"
-      }
-    },
-    {
-      "id": "davidson-11619",
-      "schoolSlug": "davidson",
-      "school": "Davidson",
-      "schoolLongName": "Davidson College",
-      "name": "Anthony Torreso",
-      "normalizedName": "anthony torreso",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "C",
-      "positionLong": "",
-      "classYear": "R-JR",
-      "handedness": "R/R",
-      "jersey": "22",
-      "hometown": "Stratford, Conn.",
-      "highSchool": "Salisbury School",
-      "previousSchool": "",
-      "hometownHighSchool": "Stratford, Conn. / Salisbury School",
-      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/anthony-torreso/11619",
-      "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/22_Torreso.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "11619",
-      "sources": [
-        "Davidson Athletics roster",
-        "Davidson cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "11619",
-        "name": "Anthony Torreso",
-        "normalizedName": "anthony torreso",
-        "jersey": "22",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/anthony-torreso/11619",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/22_Torreso.jpg",
-        "gamesPlayed": 49,
-        "gamesStarted": 49,
-        "battingAverage": 0.303,
-        "onBasePercentage": 0.445,
-        "sluggingPercentage": 0.578,
-        "ops": 1.023,
-        "atBats": 185,
-        "runs": 45,
-        "hits": 56,
-        "doubles": 8,
-        "triples": 2,
-        "homeRuns": 13,
-        "runsBattedIn": 52,
-        "totalBases": 107,
-        "walks": 42,
-        "hitByPitch": 8,
-        "strikeouts": 55,
-        "intentionalWalks": 1,
-        "groundedIntoDoublePlay": 2,
-        "sacrificeFlies": 3,
-        "sacrificeHits": 0,
-        "stolenBases": 3,
-        "stolenBasesAttempts": 3,
-        "putouts": 46,
-        "assists": 0,
-        "errors": 2,
-        "plateAppearances": 241,
-        "caughtStealing": 0,
-        "pickedOff": 1
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "11619",
-        "name": "Anthony Torreso",
-        "normalizedName": "anthony torreso",
-        "jersey": "22",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/anthony-torreso/11619",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/22_Torreso.jpg",
-        "gamesPlayed": 6,
-        "gamesStarted": 6,
-        "putouts": 46,
-        "assists": 4,
-        "errors": 2,
-        "fieldingPercentage": 0.962,
-        "doublePlays": 1,
-        "stolenBasesAgainst": 10,
-        "caughtStealingBy": 2,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 52
-      },
-      "evaluation": {
-        "score": 66,
-        "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
-        },
-        "components": {
-          "On-base": 91.66666666666666,
-          "Power": 67.89473684210526,
-          "Contact": 51.87499999999999,
-          "Discipline": 62.62626262626263,
-          "Speed": 10
-        },
-        "summary": "Anthony Torreso profiles as a C piece who gets on base at a high clip and brings real extra-base damage.",
-        "summaryMetrics": [
-          "AVG .303",
-          "OBP .445",
-          "SLG .578"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".303"
-          },
-          {
-            "label": "OBP",
-            "value": ".445"
-          },
-          {
-            "label": "SLG",
-            "value": ".578"
-          },
-          {
-            "label": "HR",
-            "value": "13"
-          },
-          {
-            "label": "RBI",
-            "value": "52"
-          },
-          {
-            "label": "SB",
-            "value": "3"
-          }
-        ],
-        "metaLine": "R-JR / R/R",
-        "detailBadges": [
-          "C",
-          "R-JR",
-          "R/R",
-          "Hitter"
-        ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats"
-      }
-    },
-    {
-      "id": "davidson-11592",
-      "schoolSlug": "davidson",
-      "school": "Davidson",
-      "schoolLongName": "Davidson College",
-      "name": "Will Brooks",
-      "normalizedName": "will brooks",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "C/INF",
-      "positionLong": "",
-      "classYear": "SO",
-      "handedness": "R/R",
-      "jersey": "23",
-      "hometown": "Marshville, N.C.",
-      "highSchool": "Metrolina Christian",
-      "previousSchool": "",
-      "hometownHighSchool": "Marshville, N.C. / Metrolina Christian",
-      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/will-brooks/11592",
-      "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/23_Brooks.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "11592",
-      "sources": [
-        "Davidson Athletics roster",
-        "Davidson cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "11592",
-        "name": "Will Brooks",
-        "normalizedName": "will brooks",
-        "jersey": "23",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/will-brooks/11592",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/23_Brooks.jpg",
-        "gamesPlayed": 27,
-        "gamesStarted": 27,
-        "battingAverage": 0.263,
-        "onBasePercentage": 0.349,
-        "sluggingPercentage": 0.432,
-        "ops": 0.781,
-        "atBats": 95,
-        "runs": 17,
-        "hits": 25,
-        "doubles": 6,
-        "triples": 2,
-        "homeRuns": 2,
-        "runsBattedIn": 15,
-        "totalBases": 41,
-        "walks": 9,
-        "hitByPitch": 4,
-        "strikeouts": 24,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 1,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 185,
-        "assists": 0,
-        "errors": 2,
-        "plateAppearances": 109,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "11592",
-        "name": "Will Brooks",
-        "normalizedName": "will brooks",
-        "jersey": "23",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/will-brooks/11592",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/23_Brooks.jpg",
-        "gamesPlayed": 27,
-        "gamesStarted": 27,
-        "putouts": 185,
-        "assists": 25,
-        "errors": 2,
-        "fieldingPercentage": 0.991,
-        "doublePlays": 1,
-        "stolenBasesAgainst": 54,
-        "caughtStealingBy": 15,
-        "stolenBasesPercentage": null,
-        "passedBalls": 5,
-        "catchersInterference": 0,
-        "totalChances": 212
-      },
-      "evaluation": {
-        "score": 27,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 38.33333333333331,
-          "Power": 29.47368421052632,
-          "Contact": 26.875000000000004,
-          "Discipline": 19.44444444444444,
-          "Speed": 0
-        },
-        "summary": "Will Brooks gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .263",
-          "OBP .349",
-          "SLG .432"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".263"
-          },
-          {
-            "label": "OBP",
-            "value": ".349"
-          },
-          {
-            "label": "SLG",
-            "value": ".432"
-          },
-          {
-            "label": "HR",
-            "value": "2"
-          },
-          {
-            "label": "RBI",
-            "value": "15"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "C/INF",
-          "SO",
-          "R/R",
-          "Hitter"
-        ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats"
-      }
-    },
-    {
-      "id": "davidson-11603",
-      "schoolSlug": "davidson",
-      "school": "Davidson",
-      "schoolLongName": "Davidson College",
-      "name": "Ivan Hoyt",
-      "normalizedName": "ivan hoyt",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP/INF",
-      "positionLong": "",
-      "classYear": "R-JR",
-      "handedness": "R/R",
-      "jersey": "24",
-      "hometown": "Boerne, Texas",
-      "highSchool": "Cornerstone Christian",
-      "previousSchool": "Dartmouth",
-      "hometownHighSchool": "Boerne, Texas / Cornerstone Christian",
-      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/ivan-hoyt/11603",
-      "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/45_Hoyt.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "11603",
-      "sources": [
-        "Davidson Athletics roster",
-        "Davidson cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "11603",
-        "name": "Ivan Hoyt",
-        "normalizedName": "ivan hoyt",
-        "jersey": "24",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/ivan-hoyt/11603",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/45_Hoyt.jpg",
-        "gamesPlayed": 18,
-        "gamesStarted": 1,
-        "appearances": 18,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 11.76,
-        "whip": 2.37,
-        "wins": 1,
-        "losses": 3,
-        "saves": 4,
-        "shutouts": 0,
-        "inningsPitched": 20.666666666666668,
-        "inningsPitchedDisplay": "20.2",
-        "hitsAllowed": 33,
-        "runsAllowed": 30,
-        "earnedRunsAllowed": 27,
-        "walksAllowed": 16,
-        "strikeouts": 21,
-        "doublesAllowed": 6,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 7,
-        "opponentsAtBats": 92,
-        "wildPitches": 2,
-        "hitBatters": 4,
-        "balks": 1,
-        "opponentsBattingAverage": 0.359,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "11603",
-        "name": "Ivan Hoyt",
-        "normalizedName": "ivan hoyt",
-        "jersey": "24",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/ivan-hoyt/11603",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/45_Hoyt.jpg",
-        "gamesPlayed": 7,
-        "gamesStarted": 0,
-        "putouts": 0,
-        "assists": 2,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 5,
-        "caughtStealingBy": 2,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 2
-      },
-      "evaluation": {
-        "score": 10,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 46.774193548387096,
-          "Command": 6.25,
-          "Damage suppression": 0
-        },
-        "summary": "Ivan Hoyt looks like a RHP/INF option who misses bats.",
-        "summaryMetrics": [
-          "ERA 11.76",
-          "WHIP 2.37",
-          "K/9 9.1"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "11.76"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.37"
-          },
-          {
-            "label": "K/9",
-            "value": "9.1"
-          },
-          {
-            "label": "BB/9",
-            "value": "7.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "3.05"
-          },
-          {
-            "label": "IP",
-            "value": "20.7"
-          }
-        ],
-        "metaLine": "R-JR / R/R",
-        "detailBadges": [
-          "RHP/INF",
-          "R-JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats"
-      }
-    },
-    {
-      "id": "davidson-11629",
-      "schoolSlug": "davidson",
-      "school": "Davidson",
-      "schoolLongName": "Davidson College",
-      "name": "Brendan Fritch",
-      "normalizedName": "brendan fritch",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "C/OF",
-      "positionLong": "",
-      "classYear": "FR",
-      "handedness": "R/R",
-      "jersey": "25",
-      "hometown": "Broomfield, Colo.",
-      "highSchool": "Broomfield",
-      "previousSchool": "",
-      "hometownHighSchool": "Broomfield, Colo. / Broomfield",
-      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/brendan-fritch/11629",
-      "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/25_Fritch.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "11629",
-      "sources": [
-        "Davidson Athletics roster",
-        "Davidson cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "11629",
-        "name": "Brendan Fritch",
-        "normalizedName": "brendan fritch",
-        "jersey": "25",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/brendan-fritch/11629",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/25_Fritch.jpg",
-        "gamesPlayed": 37,
-        "gamesStarted": 28,
-        "battingAverage": 0.238,
-        "onBasePercentage": 0.352,
-        "sluggingPercentage": 0.366,
-        "ops": 0.718,
-        "atBats": 101,
-        "runs": 17,
-        "hits": 24,
-        "doubles": 5,
-        "triples": 1,
-        "homeRuns": 2,
-        "runsBattedIn": 13,
-        "totalBases": 37,
-        "walks": 6,
-        "hitByPitch": 13,
-        "strikeouts": 23,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 2,
-        "sacrificeFlies": 2,
-        "sacrificeHits": 1,
-        "stolenBases": 1,
-        "stolenBasesAttempts": 1,
-        "putouts": 171,
-        "assists": 0,
-        "errors": 3,
-        "plateAppearances": 124,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "11629",
-        "name": "Brendan Fritch",
-        "normalizedName": "brendan fritch",
-        "jersey": "25",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/brendan-fritch/11629",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/25_Fritch.jpg",
-        "gamesPlayed": 32,
-        "gamesStarted": 26,
-        "putouts": 171,
-        "assists": 16,
-        "errors": 3,
-        "fieldingPercentage": 0.984,
-        "doublePlays": 1,
-        "stolenBasesAgainst": 46,
-        "caughtStealingBy": 6,
-        "stolenBasesPercentage": null,
-        "passedBalls": 7,
-        "catchersInterference": 1,
-        "totalChances": 190
-      },
-      "evaluation": {
-        "score": 19,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 39.99999999999997,
-          "Power": 12.105263157894735,
-          "Contact": 11.249999999999991,
-          "Discipline": 6.763285024154586,
-          "Speed": 3.3333333333333335
-        },
-        "summary": "Brendan Fritch gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .238",
-          "OBP .352",
-          "SLG .366"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".238"
-          },
-          {
-            "label": "OBP",
-            "value": ".352"
-          },
-          {
-            "label": "SLG",
-            "value": ".366"
-          },
-          {
-            "label": "HR",
-            "value": "2"
-          },
-          {
-            "label": "RBI",
-            "value": "13"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "C/OF",
-          "FR",
-          "R/R",
-          "Hitter"
-        ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats"
-      }
-    },
-    {
-      "id": "davidson-11610",
-      "schoolSlug": "davidson",
-      "school": "Davidson",
-      "schoolLongName": "Davidson College",
-      "name": "Will Papciak",
-      "normalizedName": "will papciak",
-      "compositeRole": "Two-Way",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "R-SO",
-      "handedness": "R/R",
-      "jersey": "26",
-      "hometown": "Greensboro, N.C.",
-      "highSchool": "Wesleyan Christian",
-      "previousSchool": "",
-      "hometownHighSchool": "Greensboro, N.C. / Wesleyan Christian",
-      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/will-papciak/11610",
-      "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/26_Papciak.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "11610",
-      "sources": [
-        "Davidson Athletics roster",
-        "Davidson cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "11610",
-        "name": "Will Papciak",
-        "normalizedName": "will papciak",
-        "jersey": "26",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/will-papciak/11610",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/26_Papciak.jpg",
-        "gamesPlayed": 6,
-        "gamesStarted": 0,
-        "battingAverage": 0.333,
-        "onBasePercentage": 0.333,
-        "sluggingPercentage": 0.333,
-        "ops": 0.666,
-        "atBats": 3,
-        "runs": 0,
-        "hits": 1,
-        "doubles": 0,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 0,
-        "totalBases": 1,
-        "walks": 0,
-        "hitByPitch": 0,
-        "strikeouts": 2,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 3,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 3,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": {
-        "rosterBioId": "11610",
-        "name": "Will Papciak",
-        "normalizedName": "will papciak",
-        "jersey": "26",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/will-papciak/11610",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/26_Papciak.jpg",
-        "gamesPlayed": 4,
-        "gamesStarted": 0,
-        "appearances": 4,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 15.43,
-        "whip": 3.43,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 2.3333333333333335,
-        "inningsPitchedDisplay": "2.1",
-        "hitsAllowed": 1,
-        "runsAllowed": 4,
-        "earnedRunsAllowed": 4,
-        "walksAllowed": 7,
-        "strikeouts": 2,
-        "doublesAllowed": 1,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 6,
-        "wildPitches": 3,
-        "hitBatters": 2,
-        "balks": 0,
-        "opponentsBattingAverage": 0.167,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "11610",
-        "name": "Will Papciak",
-        "normalizedName": "will papciak",
-        "jersey": "26",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/will-papciak/11610",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/26_Papciak.jpg",
-        "gamesPlayed": 4,
-        "gamesStarted": 0,
-        "putouts": 3,
-        "assists": 1,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 1,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 4
-      },
-      "evaluation": {
-        "score": 7,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 33.76623376623376,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Will Papciak gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 15.43",
-          "WHIP 3.43",
-          "K/9 7.7"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "15.43"
-          },
-          {
-            "label": "WHIP",
-            "value": "3.43"
-          },
-          {
-            "label": "K/9",
-            "value": "7.7"
-          },
-          {
-            "label": "BB/9",
-            "value": "27.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "2.3"
-          }
-        ],
-        "metaLine": "R-SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "R-SO",
-          "R/R",
-          "Two-Way"
-        ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats"
-      }
-    },
-    {
-      "id": "davidson-11622",
-      "schoolSlug": "davidson",
-      "school": "Davidson",
-      "schoolLongName": "Davidson College",
-      "name": "Tyler Wille",
-      "normalizedName": "tyler wille",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "",
-      "classYear": "SO",
-      "handedness": "R/L",
-      "jersey": "27",
-      "hometown": "Waukesha, Wisc.",
-      "highSchool": "Kettle Moraine",
-      "previousSchool": "",
-      "hometownHighSchool": "Waukesha, Wisc. / Kettle Moraine",
-      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/tyler-wille/11622",
-      "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/27_Wille.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "11622",
-      "sources": [
-        "Davidson Athletics roster",
-        "Davidson cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "11622",
-        "name": "Tyler Wille",
-        "normalizedName": "tyler wille",
-        "jersey": "27",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/tyler-wille/11622",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/27_Wille.jpg",
-        "gamesPlayed": 2,
-        "gamesStarted": 0,
-        "appearances": 2,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 27,
-        "whip": 6,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 0.6666666666666666,
-        "inningsPitchedDisplay": "0.2",
-        "hitsAllowed": 0,
-        "runsAllowed": 2,
-        "earnedRunsAllowed": 2,
-        "walksAllowed": 4,
-        "strikeouts": 0,
-        "doublesAllowed": 0,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 3,
-        "wildPitches": 1,
-        "hitBatters": 0,
-        "balks": 0,
-        "opponentsBattingAverage": 0,
-        "walksHits": 0
-      },
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Tyler Wille gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 27.00",
-          "WHIP 6.00",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "27.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "6.00"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "54.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.7"
-          }
-        ],
-        "metaLine": "SO / R/L",
-        "detailBadges": [
-          "LHP",
-          "SO",
-          "R/L",
-          "Pitcher"
-        ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats"
-      }
-    },
-    {
-      "id": "davidson-11614",
+      "id": "davidson-12644",
       "schoolSlug": "davidson",
       "school": "Davidson",
       "schoolLongName": "Davidson College",
@@ -3796,14 +1741,14 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
-      "classYear": "SO",
+      "classYear": "JR",
       "handedness": "R/R",
-      "jersey": "28",
+      "jersey": "20",
       "hometown": "Norfolk, Va.",
       "highSchool": "Granby",
       "previousSchool": "",
       "hometownHighSchool": "Norfolk, Va. / Granby",
-      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/daniel-smith/11614",
+      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/daniel-smith/12644",
       "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/36_Smith.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -3811,212 +1756,13 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "11614",
+      "rosterBioId": "12644",
       "sources": [
-        "Davidson Athletics roster",
-        "Davidson cumulative stats"
+        "Davidson Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "11614",
-        "name": "Daniel Smith",
-        "normalizedName": "daniel smith",
-        "jersey": "28",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/daniel-smith/11614",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/36_Smith.jpg",
-        "gamesPlayed": 9,
-        "gamesStarted": 0,
-        "appearances": 9,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 16.39,
-        "whip": 2.46,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 9.333333333333334,
-        "inningsPitchedDisplay": "9.1",
-        "hitsAllowed": 18,
-        "runsAllowed": 20,
-        "earnedRunsAllowed": 17,
-        "walksAllowed": 5,
-        "strikeouts": 8,
-        "doublesAllowed": 3,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 1,
-        "opponentsAtBats": 45,
-        "wildPitches": 3,
-        "hitBatters": 5,
-        "balks": 0,
-        "opponentsBattingAverage": 0.4,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "11614",
-        "name": "Daniel Smith",
-        "normalizedName": "daniel smith",
-        "jersey": "28",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/daniel-smith/11614",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/36_Smith.jpg",
-        "gamesPlayed": 4,
-        "gamesStarted": 0,
-        "putouts": 0,
-        "assists": 2,
-        "errors": 1,
-        "fieldingPercentage": 0.667,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 2,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 3
-      },
-      "evaluation": {
-        "score": 9,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 33.76623376623376,
-          "Command": 11.999999999999996,
-          "Damage suppression": 0
-        },
-        "summary": "Daniel Smith gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 16.39",
-          "WHIP 2.46",
-          "K/9 7.7"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "16.39"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.46"
-          },
-          {
-            "label": "K/9",
-            "value": "7.7"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.8"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.96"
-          },
-          {
-            "label": "IP",
-            "value": "9.3"
-          }
-        ],
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats"
-      }
-    },
-    {
-      "id": "davidson-11630",
-      "schoolSlug": "davidson",
-      "school": "Davidson",
-      "schoolLongName": "Davidson College",
-      "name": "Ethan Jimenez",
-      "normalizedName": "ethan jimenez",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "1B/RHP",
-      "positionLong": "",
-      "classYear": "FR",
-      "handedness": "R/R",
-      "jersey": "29",
-      "hometown": "Miami, Fla.",
-      "highSchool": "Florida Christian",
-      "previousSchool": "",
-      "hometownHighSchool": "Miami, Fla. / Florida Christian",
-      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/ethan-jimenez/11630",
-      "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/29_Jimenez.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "11630",
-      "sources": [
-        "Davidson Athletics roster",
-        "Davidson cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "11630",
-        "name": "Ethan Jimenez",
-        "normalizedName": "ethan jimenez",
-        "jersey": "29",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/ethan-jimenez/11630",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/29_Jimenez.jpg",
-        "gamesPlayed": 4,
-        "gamesStarted": 0,
-        "battingAverage": 0.333,
-        "onBasePercentage": 0.333,
-        "sluggingPercentage": 0.333,
-        "ops": 0.666,
-        "atBats": 3,
-        "runs": 0,
-        "hits": 1,
-        "doubles": 0,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 0,
-        "totalBases": 1,
-        "walks": 0,
-        "hitByPitch": 0,
-        "strikeouts": 2,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 1,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 3,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "11630",
-        "name": "Ethan Jimenez",
-        "normalizedName": "ethan jimenez",
-        "jersey": "29",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/ethan-jimenez/11630",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/29_Jimenez.jpg",
-        "gamesPlayed": 1,
-        "gamesStarted": 0,
-        "putouts": 1,
-        "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 1
-      },
+      "fieldingStats": null,
       "evaluation": {
         "score": 0,
         "fit": {
@@ -4030,7 +1776,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Ethan Jimenez looks like a 1B/RHP option who throws enough strikes.",
+        "summary": "Daniel Smith looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -4044,554 +1790,6 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
           {
             "label": "WHIP",
             "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "1B/RHP",
-          "FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats"
-      }
-    },
-    {
-      "id": "davidson-11605",
-      "schoolSlug": "davidson",
-      "school": "Davidson",
-      "schoolLongName": "Davidson College",
-      "name": "Parker Jones",
-      "normalizedName": "parker jones",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "SO",
-      "handedness": "R/R",
-      "jersey": "31",
-      "hometown": "Raleigh, N.C.",
-      "highSchool": "Leesville Road",
-      "previousSchool": "",
-      "hometownHighSchool": "Raleigh, N.C. / Leesville Road",
-      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/parker-jones/11605",
-      "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/31_Jones.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "11605",
-      "sources": [
-        "Davidson Athletics roster",
-        "Davidson cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "11605",
-        "name": "Parker Jones",
-        "normalizedName": "parker jones",
-        "jersey": "31",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/parker-jones/11605",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/31_Jones.jpg",
-        "gamesPlayed": 17,
-        "gamesStarted": 0,
-        "appearances": 17,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 7.71,
-        "whip": 1.5,
-        "wins": 1,
-        "losses": 1,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 23.333333333333332,
-        "inningsPitchedDisplay": "23.1",
-        "hitsAllowed": 20,
-        "runsAllowed": 22,
-        "earnedRunsAllowed": 20,
-        "walksAllowed": 15,
-        "strikeouts": 9,
-        "doublesAllowed": 2,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 83,
-        "wildPitches": 4,
-        "hitBatters": 13,
-        "balks": 0,
-        "opponentsBattingAverage": 0.241,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "11605",
-        "name": "Parker Jones",
-        "normalizedName": "parker jones",
-        "jersey": "31",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/parker-jones/11605",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/31_Jones.jpg",
-        "gamesPlayed": 8,
-        "gamesStarted": 0,
-        "putouts": 0,
-        "assists": 4,
-        "errors": 1,
-        "fieldingPercentage": 0.8,
-        "doublePlays": 1,
-        "stolenBasesAgainst": 6,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 5
-      },
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Parker Jones gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 7.71",
-          "WHIP 1.50",
-          "K/9 3.5"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "7.71"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.50"
-          },
-          {
-            "label": "K/9",
-            "value": "3.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.8"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.77"
-          },
-          {
-            "label": "IP",
-            "value": "23.3"
-          }
-        ],
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats"
-      }
-    },
-    {
-      "id": "davidson-11608",
-      "schoolSlug": "davidson",
-      "school": "Davidson",
-      "schoolLongName": "Davidson College",
-      "name": "Will Marenghi",
-      "normalizedName": "will marenghi",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "SO",
-      "handedness": "R/R",
-      "jersey": "32",
-      "hometown": "Encinitas, Calif.",
-      "highSchool": "Santa Fe Christian",
-      "previousSchool": "",
-      "hometownHighSchool": "Encinitas, Calif. / Santa Fe Christian",
-      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/will-marenghi/11608",
-      "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/32_Marenghi.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "11608",
-      "sources": [
-        "Davidson Athletics roster",
-        "Davidson cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "11608",
-        "name": "Will Marenghi",
-        "normalizedName": "will marenghi",
-        "jersey": "32",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/will-marenghi/11608",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/32_Marenghi.jpg",
-        "gamesPlayed": 17,
-        "gamesStarted": 0,
-        "appearances": 17,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 5.01,
-        "whip": 1.48,
-        "wins": 4,
-        "losses": 2,
-        "saves": 1,
-        "shutouts": 0,
-        "inningsPitched": 41.333333333333336,
-        "inningsPitchedDisplay": "41.1",
-        "hitsAllowed": 41,
-        "runsAllowed": 29,
-        "earnedRunsAllowed": 23,
-        "walksAllowed": 20,
-        "strikeouts": 33,
-        "doublesAllowed": 10,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 7,
-        "opponentsAtBats": 157,
-        "wildPitches": 7,
-        "hitBatters": 9,
-        "balks": 2,
-        "opponentsBattingAverage": 0.261,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "11608",
-        "name": "Will Marenghi",
-        "normalizedName": "will marenghi",
-        "jersey": "32",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/will-marenghi/11608",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/32_Marenghi.jpg",
-        "gamesPlayed": 12,
-        "gamesStarted": 0,
-        "putouts": 1,
-        "assists": 8,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 1,
-        "stolenBasesAgainst": 5,
-        "caughtStealingBy": 1,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 9
-      },
-      "evaluation": {
-        "score": 8,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 28.958944281524918,
-          "Command": 12.999999999999998,
-          "Damage suppression": 0
-        },
-        "summary": "Will Marenghi gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 5.01",
-          "WHIP 1.48",
-          "K/9 7.2"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.01"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.48"
-          },
-          {
-            "label": "K/9",
-            "value": "7.2"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.4"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.52"
-          },
-          {
-            "label": "IP",
-            "value": "41.3"
-          }
-        ],
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats"
-      }
-    },
-    {
-      "id": "davidson-11604",
-      "schoolSlug": "davidson",
-      "school": "Davidson",
-      "schoolLongName": "Davidson College",
-      "name": "Henry Hultquist",
-      "normalizedName": "henry hultquist",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "R-JR",
-      "handedness": "R/R",
-      "jersey": "33",
-      "hometown": "Arlington, Va.",
-      "highSchool": "Gonzaga",
-      "previousSchool": "",
-      "hometownHighSchool": "Arlington, Va. / Gonzaga",
-      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/henry-hultquist/11604",
-      "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/33_Hultquist.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "11604",
-      "sources": [
-        "Davidson Athletics roster",
-        "Davidson cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "11604",
-        "name": "Henry Hultquist",
-        "normalizedName": "henry hultquist",
-        "jersey": "33",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/henry-hultquist/11604",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/33_Hultquist.jpg",
-        "gamesPlayed": 3,
-        "gamesStarted": 0,
-        "appearances": 3,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 18,
-        "whip": 8,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 1,
-        "inningsPitchedDisplay": "1.0",
-        "hitsAllowed": 2,
-        "runsAllowed": 3,
-        "earnedRunsAllowed": 2,
-        "walksAllowed": 6,
-        "strikeouts": 2,
-        "doublesAllowed": 0,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 5,
-        "wildPitches": 0,
-        "hitBatters": 0,
-        "balks": 0,
-        "opponentsBattingAverage": 0.4,
-        "walksHits": 0
-      },
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 20,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 100,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Henry Hultquist looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 18.00",
-          "WHIP 8.00",
-          "K/9 18.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "18.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "8.00"
-          },
-          {
-            "label": "K/9",
-            "value": "18.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "54.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "1.0"
-          }
-        ],
-        "metaLine": "R-JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "R-JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats"
-      }
-    },
-    {
-      "id": "davidson-11621",
-      "schoolSlug": "davidson",
-      "school": "Davidson",
-      "schoolLongName": "Davidson College",
-      "name": "Thomas Whelan",
-      "normalizedName": "thomas whelan",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "JR",
-      "handedness": "R/R",
-      "jersey": "34",
-      "hometown": "Monroe, N.C.",
-      "highSchool": "Parkwood",
-      "previousSchool": "",
-      "hometownHighSchool": "Monroe, N.C. / Parkwood",
-      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/thomas-whelan/11621",
-      "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/34_Whelan.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "11621",
-      "sources": [
-        "Davidson Athletics roster",
-        "Davidson cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "11621",
-        "name": "Thomas Whelan",
-        "normalizedName": "thomas whelan",
-        "jersey": "34",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/thomas-whelan/11621",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/34_Whelan.jpg",
-        "gamesPlayed": 1,
-        "gamesStarted": 1,
-        "appearances": 1,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 99,
-        "whip": 0,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 0,
-        "inningsPitchedDisplay": "0.0",
-        "hitsAllowed": 1,
-        "runsAllowed": 1,
-        "earnedRunsAllowed": 1,
-        "walksAllowed": 2,
-        "strikeouts": 0,
-        "doublesAllowed": 0,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 1,
-        "wildPitches": 0,
-        "hitBatters": 0,
-        "balks": 0,
-        "opponentsBattingAverage": 1,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "11621",
-        "name": "Thomas Whelan",
-        "normalizedName": "thomas whelan",
-        "jersey": "34",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/thomas-whelan/11621",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/34_Whelan.jpg",
-        "gamesPlayed": 1,
-        "gamesStarted": 1,
-        "putouts": 0,
-        "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 0,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 3,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 0
-      },
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Thomas Whelan looks like a RHP option who throws enough strikes and keeps traffic under control.",
-        "summaryMetrics": [
-          "ERA 99.00",
-          "WHIP 0.00",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "99.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "0.00"
           },
           {
             "label": "K/9",
@@ -4617,1049 +1815,36 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
           "R/R",
           "Pitcher"
         ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats"
+        "sourceSummary": "Davidson Athletics roster"
       }
     },
     {
-      "id": "davidson-11612",
+      "id": "davidson-12657",
       "schoolSlug": "davidson",
       "school": "Davidson",
       "schoolLongName": "Davidson College",
-      "name": "Garrett Pyne",
-      "normalizedName": "garrett pyne",
+      "name": "Jake Colucci",
+      "normalizedName": "jake colucci",
       "compositeRole": "Pitcher",
       "role": "Pitcher",
       "position": "RHP",
-      "positionLong": "",
-      "classYear": "R-FR",
-      "handedness": "R/R",
-      "jersey": "35",
-      "hometown": "Harrisburg, N.C.",
-      "highSchool": "Hickory Ridge",
-      "previousSchool": "",
-      "hometownHighSchool": "Harrisburg, N.C. / Hickory Ridge",
-      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/garrett-pyne/11612",
-      "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/35_Pyne.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "11612",
-      "sources": [
-        "Davidson Athletics roster",
-        "Davidson cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "11612",
-        "name": "Garrett Pyne",
-        "normalizedName": "garrett pyne",
-        "jersey": "35",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/garrett-pyne/11612",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/35_Pyne.jpg",
-        "gamesPlayed": 13,
-        "gamesStarted": 4,
-        "appearances": 13,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 10,
-        "whip": 2.11,
-        "wins": 1,
-        "losses": 1,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 18,
-        "inningsPitchedDisplay": "18.0",
-        "hitsAllowed": 24,
-        "runsAllowed": 23,
-        "earnedRunsAllowed": 20,
-        "walksAllowed": 14,
-        "strikeouts": 15,
-        "doublesAllowed": 3,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 4,
-        "opponentsAtBats": 74,
-        "wildPitches": 6,
-        "hitBatters": 6,
-        "balks": 0,
-        "opponentsBattingAverage": 0.324,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "11612",
-        "name": "Garrett Pyne",
-        "normalizedName": "garrett pyne",
-        "jersey": "35",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/garrett-pyne/11612",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/35_Pyne.jpg",
-        "gamesPlayed": 8,
-        "gamesStarted": 4,
-        "putouts": 1,
-        "assists": 4,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 4,
-        "caughtStealingBy": 1,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 5
-      },
-      "evaluation": {
-        "score": 7,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 31.818181818181817,
-          "Command": 1.428571428571428,
-          "Damage suppression": 0
-        },
-        "summary": "Garrett Pyne gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 10.00",
-          "WHIP 2.11",
-          "K/9 7.5"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "10.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.11"
-          },
-          {
-            "label": "K/9",
-            "value": "7.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "7.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "2.00"
-          },
-          {
-            "label": "IP",
-            "value": "18.0"
-          }
-        ],
-        "metaLine": "R-FR / R/R",
-        "detailBadges": [
-          "RHP",
-          "R-FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats"
-      }
-    },
-    {
-      "id": "davidson-11617",
-      "schoolSlug": "davidson",
-      "school": "Davidson",
-      "schoolLongName": "Davidson College",
-      "name": "Carson Taggart",
-      "normalizedName": "carson taggart",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "",
-      "classYear": "R-FR",
-      "handedness": "L/L",
-      "jersey": "36",
-      "hometown": "Suwanee, Ga.",
-      "highSchool": "Blessed Trinity Catholic",
-      "previousSchool": "",
-      "hometownHighSchool": "Suwanee, Ga. / Blessed Trinity Catholic",
-      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/carson-taggart/11617",
-      "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/44_Taggart.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "11617",
-      "sources": [
-        "Davidson Athletics roster",
-        "Davidson cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "11617",
-        "name": "Carson Taggart",
-        "normalizedName": "carson taggart",
-        "jersey": "36",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/carson-taggart/11617",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/44_Taggart.jpg",
-        "gamesPlayed": 19,
-        "gamesStarted": 0,
-        "appearances": 19,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 9.97,
-        "whip": 1.71,
-        "wins": 1,
-        "losses": 3,
-        "saves": 2,
-        "shutouts": 0,
-        "inningsPitched": 21.666666666666668,
-        "inningsPitchedDisplay": "21.2",
-        "hitsAllowed": 23,
-        "runsAllowed": 28,
-        "earnedRunsAllowed": 24,
-        "walksAllowed": 14,
-        "strikeouts": 13,
-        "doublesAllowed": 3,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 6,
-        "opponentsAtBats": 87,
-        "wildPitches": 5,
-        "hitBatters": 5,
-        "balks": 0,
-        "opponentsBattingAverage": 0.264,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "11617",
-        "name": "Carson Taggart",
-        "normalizedName": "carson taggart",
-        "jersey": "36",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/carson-taggart/11617",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/44_Taggart.jpg",
-        "gamesPlayed": 3,
-        "gamesStarted": 0,
-        "putouts": 0,
-        "assists": 1,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 2,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 1
-      },
-      "evaluation": {
-        "score": 3,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 12.727272727272723,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Carson Taggart gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 9.97",
-          "WHIP 1.71",
-          "K/9 5.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "9.97"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.71"
-          },
-          {
-            "label": "K/9",
-            "value": "5.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.8"
-          },
-          {
-            "label": "HR/9",
-            "value": "2.49"
-          },
-          {
-            "label": "IP",
-            "value": "21.7"
-          }
-        ],
-        "metaLine": "R-FR / L/L",
-        "detailBadges": [
-          "LHP",
-          "R-FR",
-          "L/L",
-          "Pitcher"
-        ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats"
-      }
-    },
-    {
-      "id": "davidson-11602",
-      "schoolSlug": "davidson",
-      "school": "Davidson",
-      "schoolLongName": "Davidson College",
-      "name": "Jed Howard",
-      "normalizedName": "jed howard",
-      "compositeRole": "Two-Way",
-      "role": "Pitcher",
-      "position": "OF/LHP",
       "positionLong": "",
       "classYear": "JR",
-      "handedness": "L/L",
-      "jersey": "38",
-      "hometown": "Lynchburg, Va.",
-      "highSchool": "Virginia Episcopal",
-      "previousSchool": "",
-      "hometownHighSchool": "Lynchburg, Va. / Virginia Episcopal",
-      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/jed-howard/11602",
-      "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/38_Howard.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "11602",
-      "sources": [
-        "Davidson Athletics roster",
-        "Davidson cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "11602",
-        "name": "Jed Howard",
-        "normalizedName": "jed howard",
-        "jersey": "38",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/jed-howard/11602",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/38_Howard.jpg",
-        "gamesPlayed": 6,
-        "gamesStarted": 0,
-        "battingAverage": 0,
-        "onBasePercentage": 0,
-        "sluggingPercentage": 0,
-        "ops": 0,
-        "atBats": 2,
-        "runs": 1,
-        "hits": 0,
-        "doubles": 0,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 0,
-        "totalBases": 0,
-        "walks": 0,
-        "hitByPitch": 0,
-        "strikeouts": 2,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 0,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 2,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": {
-        "rosterBioId": "11602",
-        "name": "Jed Howard",
-        "normalizedName": "jed howard",
-        "jersey": "38",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/jed-howard/11602",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/38_Howard.jpg",
-        "gamesPlayed": 3,
-        "gamesStarted": 0,
-        "appearances": 3,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 5.4,
-        "whip": 2.4,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 1.6666666666666665,
-        "inningsPitchedDisplay": "1.2",
-        "hitsAllowed": 1,
-        "runsAllowed": 1,
-        "earnedRunsAllowed": 1,
-        "walksAllowed": 3,
-        "strikeouts": 2,
-        "doublesAllowed": 0,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 7,
-        "wildPitches": 0,
-        "hitBatters": 1,
-        "balks": 0,
-        "opponentsBattingAverage": 0.143,
-        "walksHits": 0
-      },
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 12,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 61.81818181818183,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Jed Howard looks like a OF/LHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 5.40",
-          "WHIP 2.40",
-          "K/9 10.8"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.40"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.40"
-          },
-          {
-            "label": "K/9",
-            "value": "10.8"
-          },
-          {
-            "label": "BB/9",
-            "value": "16.2"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "1.7"
-          }
-        ],
-        "metaLine": "JR / L/L",
-        "detailBadges": [
-          "OF/LHP",
-          "JR",
-          "L/L",
-          "Two-Way"
-        ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats"
-      }
-    },
-    {
-      "id": "davidson-11611",
-      "schoolSlug": "davidson",
-      "school": "Davidson",
-      "schoolLongName": "Davidson College",
-      "name": "Wilson Perkins",
-      "normalizedName": "wilson perkins",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "R-SR",
       "handedness": "R/R",
-      "jersey": "39",
-      "hometown": "Niceville, Fla.",
-      "highSchool": "Niceville",
+      "jersey": "21",
+      "hometown": "Virginia Beach, Va.",
+      "highSchool": "Cox",
       "previousSchool": "",
-      "hometownHighSchool": "Niceville, Fla. / Niceville",
-      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/wilson-perkins/11611",
-      "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/39_Perkins.jpg",
+      "hometownHighSchool": "Virginia Beach, Va. / Cox",
+      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/jake-colucci/12657",
+      "imageUrl": "",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "11611",
-      "sources": [
-        "Davidson Athletics roster",
-        "Davidson cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "11611",
-        "name": "Wilson Perkins",
-        "normalizedName": "wilson perkins",
-        "jersey": "39",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/wilson-perkins/11611",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/39_Perkins.jpg",
-        "gamesPlayed": 15,
-        "gamesStarted": 15,
-        "appearances": 15,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 7.34,
-        "whip": 1.82,
-        "wins": 1,
-        "losses": 4,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 72.33333333333333,
-        "inningsPitchedDisplay": "72.1",
-        "hitsAllowed": 110,
-        "runsAllowed": 62,
-        "earnedRunsAllowed": 59,
-        "walksAllowed": 22,
-        "strikeouts": 50,
-        "doublesAllowed": 20,
-        "triplesAllowed": 2,
-        "homeRunsAllowed": 8,
-        "opponentsAtBats": 310,
-        "wildPitches": 2,
-        "hitBatters": 6,
-        "balks": 0,
-        "opponentsBattingAverage": 0.355,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "11611",
-        "name": "Wilson Perkins",
-        "normalizedName": "wilson perkins",
-        "jersey": "39",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/wilson-perkins/11611",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/39_Perkins.jpg",
-        "gamesPlayed": 13,
-        "gamesStarted": 13,
-        "putouts": 1,
-        "assists": 6,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 12,
-        "caughtStealingBy": 9,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 7
-      },
-      "evaluation": {
-        "score": 8,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 20.192710515291168,
-          "Command": 25.454545454545457,
-          "Damage suppression": 0
-        },
-        "summary": "Wilson Perkins looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA 7.34",
-          "WHIP 1.82",
-          "K/9 6.2"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "7.34"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.82"
-          },
-          {
-            "label": "K/9",
-            "value": "6.2"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.7"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.00"
-          },
-          {
-            "label": "IP",
-            "value": "72.3"
-          }
-        ],
-        "metaLine": "R-SR / R/R",
-        "detailBadges": [
-          "RHP",
-          "R-SR",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats"
-      }
-    },
-    {
-      "id": "davidson-11600",
-      "schoolSlug": "davidson",
-      "school": "Davidson",
-      "schoolLongName": "Davidson College",
-      "name": "Matt Hamilton",
-      "normalizedName": "matt hamilton",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "SO",
-      "handedness": "R/R",
-      "jersey": "40",
-      "hometown": "Rose Valley, Pa.",
-      "highSchool": "Friends Central",
-      "previousSchool": "",
-      "hometownHighSchool": "Rose Valley, Pa. / Friends Central",
-      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/matt-hamilton/11600",
-      "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/40_Hamilton.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "11600",
-      "sources": [
-        "Davidson Athletics roster",
-        "Davidson cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "11600",
-        "name": "Matt Hamilton",
-        "normalizedName": "matt hamilton",
-        "jersey": "40",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/matt-hamilton/11600",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/40_Hamilton.jpg",
-        "gamesPlayed": 7,
-        "gamesStarted": 0,
-        "appearances": 7,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 6.57,
-        "whip": 1.3,
-        "wins": 1,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 12.333333333333334,
-        "inningsPitchedDisplay": "12.1",
-        "hitsAllowed": 11,
-        "runsAllowed": 12,
-        "earnedRunsAllowed": 9,
-        "walksAllowed": 5,
-        "strikeouts": 8,
-        "doublesAllowed": 1,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 46,
-        "wildPitches": 2,
-        "hitBatters": 1,
-        "balks": 1,
-        "opponentsBattingAverage": 0.239,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "11600",
-        "name": "Matt Hamilton",
-        "normalizedName": "matt hamilton",
-        "jersey": "40",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/matt-hamilton/11600",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/40_Hamilton.jpg",
-        "gamesPlayed": 1,
-        "gamesStarted": 0,
-        "putouts": 0,
-        "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 0,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 1,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 0
-      },
-      "evaluation": {
-        "score": 5,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 16.707616707616708,
-          "Command": 11.999999999999996,
-          "Damage suppression": 0
-        },
-        "summary": "Matt Hamilton gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 6.57",
-          "WHIP 1.30",
-          "K/9 5.8"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "6.57"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.30"
-          },
-          {
-            "label": "K/9",
-            "value": "5.8"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.6"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.46"
-          },
-          {
-            "label": "IP",
-            "value": "12.3"
-          }
-        ],
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats"
-      }
-    },
-    {
-      "id": "davidson-11623",
-      "schoolSlug": "davidson",
-      "school": "Davidson",
-      "schoolLongName": "Davidson College",
-      "name": "Simon Yochum",
-      "normalizedName": "simon yochum",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "SO",
-      "handedness": "R/R",
-      "jersey": "41",
-      "hometown": "Sarasota, Fla.",
-      "highSchool": "Pine View",
-      "previousSchool": "",
-      "hometownHighSchool": "Sarasota, Fla. / Pine View",
-      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/simon-yochum/11623",
-      "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/41_Yochum.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "11623",
-      "sources": [
-        "Davidson Athletics roster",
-        "Davidson cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "11623",
-        "name": "Simon Yochum",
-        "normalizedName": "simon yochum",
-        "jersey": "41",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/simon-yochum/11623",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/41_Yochum.jpg",
-        "gamesPlayed": 19,
-        "gamesStarted": 0,
-        "appearances": 19,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 6.14,
-        "whip": 1.61,
-        "wins": 7,
-        "losses": 1,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 48.333333333333336,
-        "inningsPitchedDisplay": "48.1",
-        "hitsAllowed": 66,
-        "runsAllowed": 41,
-        "earnedRunsAllowed": 33,
-        "walksAllowed": 12,
-        "strikeouts": 55,
-        "doublesAllowed": 10,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 3,
-        "opponentsAtBats": 203,
-        "wildPitches": 5,
-        "hitBatters": 9,
-        "balks": 0,
-        "opponentsBattingAverage": 0.325,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "11623",
-        "name": "Simon Yochum",
-        "normalizedName": "simon yochum",
-        "jersey": "41",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/simon-yochum/11623",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/41_Yochum.jpg",
-        "gamesPlayed": 15,
-        "gamesStarted": 0,
-        "putouts": 2,
-        "assists": 19,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 7,
-        "caughtStealingBy": 2,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 21
-      },
-      "evaluation": {
-        "score": 23,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 56.739811912225704,
-          "Command": 71.66666666666666,
-          "Damage suppression": 0
-        },
-        "summary": "Simon Yochum looks like a RHP option who misses bats and throws enough strikes.",
-        "summaryMetrics": [
-          "ERA 6.14",
-          "WHIP 1.61",
-          "K/9 10.2"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "6.14"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.61"
-          },
-          {
-            "label": "K/9",
-            "value": "10.2"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.2"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.56"
-          },
-          {
-            "label": "IP",
-            "value": "48.3"
-          }
-        ],
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats"
-      }
-    },
-    {
-      "id": "davidson-11616",
-      "schoolSlug": "davidson",
-      "school": "Davidson",
-      "schoolLongName": "Davidson College",
-      "name": "Jake Suarez",
-      "normalizedName": "jake suarez",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "C",
-      "positionLong": "",
-      "classYear": "JR",
-      "handedness": "L/R",
-      "jersey": "42",
-      "hometown": "Miami, Fla.",
-      "highSchool": "Westminster Christian",
-      "previousSchool": "",
-      "hometownHighSchool": "Miami, Fla. / Westminster Christian",
-      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/jake-suarez/11616",
-      "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/42_Suarez.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "11616",
-      "sources": [
-        "Davidson Athletics roster",
-        "Davidson cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "11616",
-        "name": "Jake Suarez",
-        "normalizedName": "jake suarez",
-        "jersey": "42",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/jake-suarez/11616",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/42_Suarez.jpg",
-        "gamesPlayed": 11,
-        "gamesStarted": 0,
-        "battingAverage": 0.2,
-        "onBasePercentage": 0.5,
-        "sluggingPercentage": 0.4,
-        "ops": 0.9,
-        "atBats": 5,
-        "runs": 0,
-        "hits": 1,
-        "doubles": 1,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 0,
-        "totalBases": 2,
-        "walks": 1,
-        "hitByPitch": 2,
-        "strikeouts": 0,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 11,
-        "assists": 0,
-        "errors": 1,
-        "plateAppearances": 8,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "11616",
-        "name": "Jake Suarez",
-        "normalizedName": "jake suarez",
-        "jersey": "42",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/jake-suarez/11616",
-        "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/42_Suarez.jpg",
-        "gamesPlayed": 7,
-        "gamesStarted": 0,
-        "putouts": 11,
-        "assists": 0,
-        "errors": 1,
-        "fieldingPercentage": 0.917,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 2,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 12
-      },
-      "evaluation": {
-        "score": 50,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 100,
-          "Power": 21.052631578947377,
-          "Contact": 0,
-          "Discipline": 88.88888888888889,
-          "Speed": 0
-        },
-        "summary": "Jake Suarez profiles as a C piece who gets on base at a high clip and controls at-bats.",
-        "summaryMetrics": [
-          "AVG .200",
-          "OBP .500",
-          "SLG .400"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".200"
-          },
-          {
-            "label": "OBP",
-            "value": ".500"
-          },
-          {
-            "label": "SLG",
-            "value": ".400"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "JR / L/R",
-        "detailBadges": [
-          "C",
-          "JR",
-          "L/R",
-          "Hitter"
-        ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats"
-      }
-    },
-    {
-      "id": "davidson-11590",
-      "schoolSlug": "davidson",
-      "school": "Davidson",
-      "schoolLongName": "Davidson College",
-      "name": "Jason Ban",
-      "normalizedName": "jason ban",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "",
-      "classYear": "JR",
-      "handedness": "L/L",
-      "jersey": "43",
-      "hometown": "Glenview, Ill.",
-      "highSchool": "Glenbrook South",
-      "previousSchool": "",
-      "hometownHighSchool": "Glenview, Ill. / Glenbrook South",
-      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/jason-ban/11590",
-      "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/43_Ban.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "11590",
+      "rosterBioId": "12657",
       "sources": [
         "Davidson Athletics roster"
       ],
@@ -5679,7 +1864,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Jason Ban looks like a LHP option who throws enough strikes.",
+        "summary": "Jake Colucci looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -5711,18 +1896,194 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "JR / L/L",
+        "metaLine": "JR / R/R",
         "detailBadges": [
-          "LHP",
+          "RHP",
           "JR",
-          "L/L",
+          "R/R",
           "Pitcher"
         ],
         "sourceSummary": "Davidson Athletics roster"
       }
     },
     {
-      "id": "davidson-11606",
+      "id": "davidson-12658",
+      "schoolSlug": "davidson",
+      "school": "Davidson",
+      "schoolLongName": "Davidson College",
+      "name": "Hunter Fryman",
+      "normalizedName": "hunter fryman",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "Util",
+      "positionLong": "",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "22",
+      "hometown": "Marshfield, Mo.",
+      "highSchool": "Marshfield",
+      "previousSchool": "",
+      "hometownHighSchool": "Marshfield, Mo. / Marshfield",
+      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/hunter-fryman/12658",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12658",
+      "sources": [
+        "Davidson Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Hunter Fryman gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "Util",
+          "FR",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Davidson Athletics roster"
+      }
+    },
+    {
+      "id": "davidson-12623",
+      "schoolSlug": "davidson",
+      "school": "Davidson",
+      "schoolLongName": "Davidson College",
+      "name": "Will Brooks",
+      "normalizedName": "will brooks",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "C/INF",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "R/R",
+      "jersey": "23",
+      "hometown": "Marshville, N.C.",
+      "highSchool": "Metrolina Christian",
+      "previousSchool": "",
+      "hometownHighSchool": "Marshville, N.C. / Metrolina Christian",
+      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/will-brooks/12623",
+      "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/23_Brooks.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12623",
+      "sources": [
+        "Davidson Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Will Brooks gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "C/INF",
+          "JR",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Davidson Athletics roster"
+      }
+    },
+    {
+      "id": "davidson-12635",
       "schoolSlug": "davidson",
       "school": "Davidson",
       "schoolLongName": "Davidson College",
@@ -5732,14 +2093,14 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
       "role": "Hitter",
       "position": "Util",
       "positionLong": "",
-      "classYear": "JR",
+      "classYear": "R-JR",
       "handedness": "L/R",
-      "jersey": "44",
+      "jersey": "24",
       "hometown": "Bellaire, Texas",
       "highSchool": "Episcopal",
       "previousSchool": "",
       "hometownHighSchool": "Bellaire, Texas / Episcopal",
-      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/adam-katz/11606",
+      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/adam-katz/12635",
       "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/24_Katz.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -5747,7 +2108,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "11606",
+      "rosterBioId": "12635",
       "sources": [
         "Davidson Athletics roster"
       ],
@@ -5799,11 +2160,1683 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "JR / L/R",
+        "metaLine": "R-JR / L/R",
         "detailBadges": [
           "Util",
-          "JR",
+          "R-JR",
           "L/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Davidson Athletics roster"
+      }
+    },
+    {
+      "id": "davidson-12659",
+      "schoolSlug": "davidson",
+      "school": "Davidson",
+      "schoolLongName": "Davidson College",
+      "name": "Romy DeCenzo",
+      "normalizedName": "romy decenzo",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "25",
+      "hometown": "Atherton, Calif.",
+      "highSchool": "Trinity Christian",
+      "previousSchool": "",
+      "hometownHighSchool": "Atherton, Calif. / Trinity Christian",
+      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/romy-decenzo/12659",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12659",
+      "sources": [
+        "Davidson Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Romy DeCenzo looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Davidson Athletics roster"
+      }
+    },
+    {
+      "id": "davidson-12642",
+      "schoolSlug": "davidson",
+      "school": "Davidson",
+      "schoolLongName": "Davidson College",
+      "name": "Will Papciak",
+      "normalizedName": "will papciak",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "R-JR",
+      "handedness": "R/R",
+      "jersey": "26",
+      "hometown": "Greensboro, N.C.",
+      "highSchool": "Wesleyan Christian",
+      "previousSchool": "",
+      "hometownHighSchool": "Greensboro, N.C. / Wesleyan Christian",
+      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/will-papciak/12642",
+      "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/26_Papciak.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12642",
+      "sources": [
+        "Davidson Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Will Papciak looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "R-JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "R-JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Davidson Athletics roster"
+      }
+    },
+    {
+      "id": "davidson-12651",
+      "schoolSlug": "davidson",
+      "school": "Davidson",
+      "schoolLongName": "Davidson College",
+      "name": "Tyler Wille",
+      "normalizedName": "tyler wille",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "R/L",
+      "jersey": "27",
+      "hometown": "Waukesha, Wisc.",
+      "highSchool": "Kettle Moraine",
+      "previousSchool": "",
+      "hometownHighSchool": "Waukesha, Wisc. / Kettle Moraine",
+      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/tyler-wille/12651",
+      "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/27_Wille.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12651",
+      "sources": [
+        "Davidson Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Tyler Wille looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "JR / R/L",
+        "detailBadges": [
+          "LHP",
+          "JR",
+          "R/L",
+          "Pitcher"
+        ],
+        "sourceSummary": "Davidson Athletics roster"
+      }
+    },
+    {
+      "id": "davidson-12660",
+      "schoolSlug": "davidson",
+      "school": "Davidson",
+      "schoolLongName": "Davidson College",
+      "name": "Ryan Wilusz",
+      "normalizedName": "ryan wilusz",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "C/OF",
+      "positionLong": "",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "28",
+      "hometown": "Bloomfield Hills, Mich.",
+      "highSchool": "Bloomfield Hills",
+      "previousSchool": "",
+      "hometownHighSchool": "Bloomfield Hills, Mich. / Bloomfield Hills",
+      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/ryan-wilusz/12660",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12660",
+      "sources": [
+        "Davidson Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Ryan Wilusz gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "C/OF",
+          "FR",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Davidson Athletics roster"
+      }
+    },
+    {
+      "id": "davidson-12633",
+      "schoolSlug": "davidson",
+      "school": "Davidson",
+      "schoolLongName": "Davidson College",
+      "name": "Ethan Jimenez",
+      "normalizedName": "ethan jimenez",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "1B/RHP",
+      "positionLong": "",
+      "classYear": "SO",
+      "handedness": "R/R",
+      "jersey": "29",
+      "hometown": "Miami, Fla.",
+      "highSchool": "Florida Christian",
+      "previousSchool": "",
+      "hometownHighSchool": "Miami, Fla. / Florida Christian",
+      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/ethan-jimenez/12633",
+      "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/29_Jimenez.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12633",
+      "sources": [
+        "Davidson Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Ethan Jimenez looks like a 1B/RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "1B/RHP",
+          "SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Davidson Athletics roster"
+      }
+    },
+    {
+      "id": "davidson-12661",
+      "schoolSlug": "davidson",
+      "school": "Davidson",
+      "schoolLongName": "Davidson College",
+      "name": "Eric Benner",
+      "normalizedName": "eric benner",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "30",
+      "hometown": "Severna Park, Md.",
+      "highSchool": "Severna Park",
+      "previousSchool": "",
+      "hometownHighSchool": "Severna Park, Md. / Severna Park",
+      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/eric-benner/12661",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12661",
+      "sources": [
+        "Davidson Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Eric Benner looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Davidson Athletics roster"
+      }
+    },
+    {
+      "id": "davidson-12634",
+      "schoolSlug": "davidson",
+      "school": "Davidson",
+      "schoolLongName": "Davidson College",
+      "name": "Parker Jones",
+      "normalizedName": "parker jones",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "R/R",
+      "jersey": "31",
+      "hometown": "Raleigh, N.C.",
+      "highSchool": "Leesville Road",
+      "previousSchool": "",
+      "hometownHighSchool": "Raleigh, N.C. / Leesville Road",
+      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/parker-jones/12634",
+      "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/31_Jones.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12634",
+      "sources": [
+        "Davidson Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Parker Jones looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Davidson Athletics roster"
+      }
+    },
+    {
+      "id": "davidson-12640",
+      "schoolSlug": "davidson",
+      "school": "Davidson",
+      "schoolLongName": "Davidson College",
+      "name": "Will Marenghi",
+      "normalizedName": "will marenghi",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "R/R",
+      "jersey": "32",
+      "hometown": "Encinitas, Calif.",
+      "highSchool": "Santa Fe Christian",
+      "previousSchool": "",
+      "hometownHighSchool": "Encinitas, Calif. / Santa Fe Christian",
+      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/will-marenghi/12640",
+      "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/32_Marenghi.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12640",
+      "sources": [
+        "Davidson Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Will Marenghi looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Davidson Athletics roster"
+      }
+    },
+    {
+      "id": "davidson-12662",
+      "schoolSlug": "davidson",
+      "school": "Davidson",
+      "schoolLongName": "Davidson College",
+      "name": "Oliver Swartz",
+      "normalizedName": "oliver swartz",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "33",
+      "hometown": "Cary, N.C.",
+      "highSchool": "Cary Academy",
+      "previousSchool": "",
+      "hometownHighSchool": "Cary, N.C. / Cary Academy",
+      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/oliver-swartz/12662",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12662",
+      "sources": [
+        "Davidson Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Oliver Swartz looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "LHP",
+          "FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Davidson Athletics roster"
+      }
+    },
+    {
+      "id": "davidson-12650",
+      "schoolSlug": "davidson",
+      "school": "Davidson",
+      "schoolLongName": "Davidson College",
+      "name": "Thomas Whelan",
+      "normalizedName": "thomas whelan",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "R-JR",
+      "handedness": "R/R",
+      "jersey": "34",
+      "hometown": "Monroe, N.C.",
+      "highSchool": "Parkwood",
+      "previousSchool": "",
+      "hometownHighSchool": "Monroe, N.C. / Parkwood",
+      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/thomas-whelan/12650",
+      "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/34_Whelan.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12650",
+      "sources": [
+        "Davidson Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Thomas Whelan looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "R-JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "R-JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Davidson Athletics roster"
+      }
+    },
+    {
+      "id": "davidson-12643",
+      "schoolSlug": "davidson",
+      "school": "Davidson",
+      "schoolLongName": "Davidson College",
+      "name": "Garrett Pyne",
+      "normalizedName": "garrett pyne",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "R-SO",
+      "handedness": "R/R",
+      "jersey": "35",
+      "hometown": "Harrisburg, N.C.",
+      "highSchool": "Hickory Ridge",
+      "previousSchool": "",
+      "hometownHighSchool": "Harrisburg, N.C. / Hickory Ridge",
+      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/garrett-pyne/12643",
+      "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/35_Pyne.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12643",
+      "sources": [
+        "Davidson Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Garrett Pyne looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "R-SO / R/R",
+        "detailBadges": [
+          "RHP",
+          "R-SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Davidson Athletics roster"
+      }
+    },
+    {
+      "id": "davidson-12646",
+      "schoolSlug": "davidson",
+      "school": "Davidson",
+      "schoolLongName": "Davidson College",
+      "name": "Carson Taggart",
+      "normalizedName": "carson taggart",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "",
+      "classYear": "R-SO",
+      "handedness": "L/L",
+      "jersey": "36",
+      "hometown": "Suwanee, Ga.",
+      "highSchool": "Blessed Trinity Catholic",
+      "previousSchool": "",
+      "hometownHighSchool": "Suwanee, Ga. / Blessed Trinity Catholic",
+      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/carson-taggart/12646",
+      "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/44_Taggart.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12646",
+      "sources": [
+        "Davidson Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Carson Taggart looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "R-SO / L/L",
+        "detailBadges": [
+          "LHP",
+          "R-SO",
+          "L/L",
+          "Pitcher"
+        ],
+        "sourceSummary": "Davidson Athletics roster"
+      }
+    },
+    {
+      "id": "davidson-12632",
+      "schoolSlug": "davidson",
+      "school": "Davidson",
+      "schoolLongName": "Davidson College",
+      "name": "Jed Howard",
+      "normalizedName": "jed howard",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "OF/LHP",
+      "positionLong": "",
+      "classYear": "SR",
+      "handedness": "L/L",
+      "jersey": "38",
+      "hometown": "Lynchburg, Va.",
+      "highSchool": "Virginia Episcopal",
+      "previousSchool": "",
+      "hometownHighSchool": "Lynchburg, Va. / Virginia Episcopal",
+      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/jed-howard/12632",
+      "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/38_Howard.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12632",
+      "sources": [
+        "Davidson Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Jed Howard looks like a OF/LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "SR / L/L",
+        "detailBadges": [
+          "OF/LHP",
+          "SR",
+          "L/L",
+          "Pitcher"
+        ],
+        "sourceSummary": "Davidson Athletics roster"
+      }
+    },
+    {
+      "id": "davidson-12663",
+      "schoolSlug": "davidson",
+      "school": "Davidson",
+      "schoolLongName": "Davidson College",
+      "name": "Griffin Messenger",
+      "normalizedName": "griffin messenger",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "39",
+      "hometown": "Napa, Calif.",
+      "highSchool": "Justin-Siena",
+      "previousSchool": "",
+      "hometownHighSchool": "Napa, Calif. / Justin-Siena",
+      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/griffin-messenger/12663",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12663",
+      "sources": [
+        "Davidson Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Griffin Messenger looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Davidson Athletics roster"
+      }
+    },
+    {
+      "id": "davidson-12630",
+      "schoolSlug": "davidson",
+      "school": "Davidson",
+      "schoolLongName": "Davidson College",
+      "name": "Matt Hamilton",
+      "normalizedName": "matt hamilton",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "R/R",
+      "jersey": "40",
+      "hometown": "Rose Valley, Pa.",
+      "highSchool": "Friends Central",
+      "previousSchool": "",
+      "hometownHighSchool": "Rose Valley, Pa. / Friends Central",
+      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/matt-hamilton/12630",
+      "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/40_Hamilton.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12630",
+      "sources": [
+        "Davidson Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Matt Hamilton looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Davidson Athletics roster"
+      }
+    },
+    {
+      "id": "davidson-12652",
+      "schoolSlug": "davidson",
+      "school": "Davidson",
+      "schoolLongName": "Davidson College",
+      "name": "Simon Yochum",
+      "normalizedName": "simon yochum",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "R/R",
+      "jersey": "41",
+      "hometown": "Sarasota, Fla.",
+      "highSchool": "Pine View",
+      "previousSchool": "",
+      "hometownHighSchool": "Sarasota, Fla. / Pine View",
+      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/simon-yochum/12652",
+      "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/41_Yochum.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12652",
+      "sources": [
+        "Davidson Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Simon Yochum looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Davidson Athletics roster"
+      }
+    },
+    {
+      "id": "davidson-12645",
+      "schoolSlug": "davidson",
+      "school": "Davidson",
+      "schoolLongName": "Davidson College",
+      "name": "Jake Suarez",
+      "normalizedName": "jake suarez",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "C",
+      "positionLong": "",
+      "classYear": "SR",
+      "handedness": "L/R",
+      "jersey": "42",
+      "hometown": "Miami, Fla.",
+      "highSchool": "Westminster Christian",
+      "previousSchool": "",
+      "hometownHighSchool": "Miami, Fla. / Westminster Christian",
+      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/jake-suarez/12645",
+      "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/42_Suarez.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12645",
+      "sources": [
+        "Davidson Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Jake Suarez gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "SR / L/R",
+        "detailBadges": [
+          "C",
+          "SR",
+          "L/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Davidson Athletics roster"
+      }
+    },
+    {
+      "id": "davidson-12621",
+      "schoolSlug": "davidson",
+      "school": "Davidson",
+      "schoolLongName": "Davidson College",
+      "name": "Jason Ban",
+      "normalizedName": "jason ban",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "",
+      "classYear": "R-JR",
+      "handedness": "L/L",
+      "jersey": "43",
+      "hometown": "Glenview, Ill.",
+      "highSchool": "Glenbrook South",
+      "previousSchool": "",
+      "hometownHighSchool": "Glenview, Ill. / Glenbrook South",
+      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/jason-ban/12621",
+      "imageUrl": "https://davidsonwildcats.com/images/2025/12/16/43_Ban.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12621",
+      "sources": [
+        "Davidson Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Jason Ban looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "R-JR / L/L",
+        "detailBadges": [
+          "LHP",
+          "R-JR",
+          "L/L",
+          "Pitcher"
+        ],
+        "sourceSummary": "Davidson Athletics roster"
+      }
+    },
+    {
+      "id": "davidson-12664",
+      "schoolSlug": "davidson",
+      "school": "Davidson",
+      "schoolLongName": "Davidson College",
+      "name": "Connor McGough",
+      "normalizedName": "connor mcgough",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "44",
+      "hometown": "Aurora, Ohio",
+      "highSchool": "Cuyahoga Valley Christian",
+      "previousSchool": "",
+      "hometownHighSchool": "Aurora, Ohio / Cuyahoga Valley Christian",
+      "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/connor-mcgough/12664",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12664",
+      "sources": [
+        "Davidson Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Connor McGough gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "INF",
+          "FR",
+          "R/R",
           "Rostered"
         ],
         "sourceSummary": "Davidson Athletics roster"
@@ -5813,19 +3846,19 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
   "playerBoard": {
     "source": "Davidson Athletics roster + cumulative stats / ESPN roster",
     "note": "This Davidson-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but Davidson's public ESPN roster feed did not line up cleanly with the current school-site roster.",
-    "totalPlayers": 41,
+    "totalPlayers": 42,
     "roleCounts": {
-      "Hitter": 17,
-      "Pitcher": 24
+      "Hitter": 19,
+      "Pitcher": 23
     },
     "players": [
       {
-        "id": "davidson-11601",
+        "id": "davidson-12631",
         "name": "Justin Higgins",
         "school": "Davidson",
         "role": "Hitter",
         "position": "INF",
-        "classYear": "R-SO",
+        "classYear": "R-JR",
         "handedness": "R/R",
         "score": 0,
         "fit": {
@@ -5834,22 +3867,498 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         },
         "summary": "Justin Higgins gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .000",
-          "OBP .000",
-          "SLG .000"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".000"
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "R-JR / R/R",
+        "detailBadges": [
+          "INF",
+          "R-JR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Davidson Athletics roster"
+        ],
+        "sourceSummary": "Davidson Athletics roster",
+        "schoolSlug": "davidson",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/justin-higgins/12631",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "davidson-12627",
+        "name": "Fredy Diaz",
+        "school": "Davidson",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Fredy Diaz gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "INF",
+          "JR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Davidson Athletics roster"
+        ],
+        "sourceSummary": "Davidson Athletics roster",
+        "schoolSlug": "davidson",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/fredy-diaz/12627",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "davidson-12649",
+        "name": "Jacob Vokal",
+        "school": "Davidson",
+        "role": "Pitcher",
+        "position": "RHP/INF",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jacob Vokal looks like a RHP/INF option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "RHP/INF",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Davidson Athletics roster"
+        ],
+        "sourceSummary": "Davidson Athletics roster",
+        "schoolSlug": "davidson",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/jacob-vokal/12649",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "davidson-12648",
+        "name": "Matthew Vannoy",
+        "school": "Davidson",
+        "role": "Hitter",
+        "position": "C/INF",
+        "classYear": "SO",
+        "handedness": "S/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Matthew Vannoy gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "SO / S/R",
+        "detailBadges": [
+          "C/INF",
+          "SO",
+          "S/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Davidson Athletics roster"
+        ],
+        "sourceSummary": "Davidson Athletics roster",
+        "schoolSlug": "davidson",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/matthew-vannoy/12648",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "davidson-12628",
+        "name": "Brendan Fritch",
+        "school": "Davidson",
+        "role": "Hitter",
+        "position": "C/OF",
+        "classYear": "SO",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Brendan Fritch gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "C/OF",
+          "SO",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Davidson Athletics roster"
+        ],
+        "sourceSummary": "Davidson Athletics roster",
+        "schoolSlug": "davidson",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/brendan-fritch/12628",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "davidson-12647",
+        "name": "Gavin Thomas",
+        "school": "Davidson",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "SR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Gavin Thomas gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "OF",
+          "SR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Davidson Athletics roster"
+        ],
+        "sourceSummary": "Davidson Athletics roster",
+        "schoolSlug": "davidson",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/gavin-thomas/12647",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "davidson-12625",
+        "name": "Cooper Collins",
+        "school": "Davidson",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Cooper Collins gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "INF",
+          "JR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Davidson Athletics roster"
+        ],
+        "sourceSummary": "Davidson Athletics roster",
+        "schoolSlug": "davidson",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/cooper-collins/12625",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "davidson-12641",
+        "name": "Will McCullough",
+        "school": "Davidson",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "R-SO",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Will McCullough gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
           },
           {
             "label": "HR",
@@ -5873,466 +4382,51 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         },
         "metaLine": "R-SO / R/R",
         "detailBadges": [
-          "INF",
+          "OF",
           "R-SO",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "Davidson Athletics roster",
-          "Davidson cumulative stats"
+          "Davidson Athletics roster"
         ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats",
+        "sourceSummary": "Davidson Athletics roster",
         "schoolSlug": "davidson",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/justin-higgins/11601",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/will-mccullough/12641",
         "espnAthleteId": ""
       },
       {
-        "id": "davidson-11597",
-        "name": "Fredy Diaz",
+        "id": "davidson-12639",
+        "name": "Matt Manjooran",
         "school": "Davidson",
         "role": "Hitter",
-        "position": "INF",
+        "position": "3B/OF",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 31,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Fredy Diaz profiles as a INF piece who adds running-game pressure.",
+        "summary": "Matt Manjooran gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .262",
-          "OBP .382",
-          "SLG .372"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".262"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".382"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".372"
-          },
-          {
-            "label": "HR",
-            "value": "2"
-          },
-          {
-            "label": "RBI",
-            "value": "23"
-          },
-          {
-            "label": "SB",
-            "value": "8"
-          }
-        ],
-        "components": {
-          "On-base": 56.66666666666666,
-          "Power": 13.684210526315788,
-          "Contact": 26.250000000000007,
-          "Discipline": 12.698412698412694,
-          "Speed": 26.666666666666668
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "INF",
-          "SO",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Davidson Athletics roster",
-          "Davidson cumulative stats"
-        ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats",
-        "schoolSlug": "davidson",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/fredy-diaz/11597",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "davidson-11620",
-        "name": "Jacob Vokal",
-        "school": "Davidson",
-        "role": "Pitcher",
-        "position": "RHP/INF",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 3,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jacob Vokal gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 10.20",
-          "WHIP 2.23",
-          "K/9 5.7"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "10.20"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.23"
-          },
-          {
-            "label": "K/9",
-            "value": "5.7"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.1"
-          },
-          {
-            "label": "HR/9",
-            "value": "2.40"
-          },
-          {
-            "label": "IP",
-            "value": "30.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 15.454545454545457,
-          "Command": 2.3529411764705888,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP/INF",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Davidson Athletics roster",
-          "Davidson cumulative stats"
-        ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats",
-        "schoolSlug": "davidson",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/jacob-vokal/11620",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "davidson-11624",
-        "name": "Matthew Vannoy",
-        "school": "Davidson",
-        "role": "Hitter",
-        "position": "C/INF",
-        "classYear": "FR",
-        "handedness": "S/R",
-        "score": 46,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Matthew Vannoy profiles as a C/INF piece who gets on base at a high clip and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .261",
-          "OBP .435",
-          "SLG .332"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".261"
-          },
-          {
-            "label": "OBP",
-            "value": ".435"
-          },
-          {
-            "label": "SLG",
-            "value": ".332"
-          },
-          {
-            "label": "HR",
-            "value": "2"
-          },
-          {
-            "label": "RBI",
-            "value": "21"
-          },
-          {
-            "label": "SB",
-            "value": "11"
-          }
-        ],
-        "components": {
-          "On-base": 86.1111111111111,
-          "Power": 3.157894736842109,
-          "Contact": 25.625000000000004,
-          "Discipline": 63.54775828460038,
-          "Speed": 36.666666666666664
-        },
-        "metaLine": "FR / S/R",
-        "detailBadges": [
-          "C/INF",
-          "FR",
-          "S/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Davidson Athletics roster",
-          "Davidson cumulative stats"
-        ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats",
-        "schoolSlug": "davidson",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/matthew-vannoy/11624",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "davidson-11613",
-        "name": "Aidan Rice",
-        "school": "Davidson",
-        "role": "Hitter",
-        "position": "INF/OF",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 25,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Aidan Rice gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .256",
-          "OBP .367",
-          "SLG .347"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".256"
-          },
-          {
-            "label": "OBP",
-            "value": ".367"
-          },
-          {
-            "label": "SLG",
-            "value": ".347"
-          },
-          {
-            "label": "HR",
-            "value": "2"
-          },
-          {
-            "label": "RBI",
-            "value": "16"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
-        "components": {
-          "On-base": 48.333333333333314,
-          "Power": 7.10526315789473,
-          "Contact": 22.500000000000004,
-          "Discipline": 21.13821138211382,
-          "Speed": 3.3333333333333335
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "INF/OF",
-          "SR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Davidson Athletics roster",
-          "Davidson cumulative stats"
-        ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats",
-        "schoolSlug": "davidson",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/aidan-rice/11613",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "davidson-11618",
-        "name": "Gavin Thomas",
-        "school": "Davidson",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 24,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Gavin Thomas gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .189",
-          "OBP .311",
-          "SLG .541"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".189"
-          },
-          {
-            "label": "OBP",
-            "value": ".311"
-          },
-          {
-            "label": "SLG",
-            "value": ".541"
-          },
-          {
-            "label": "HR",
-            "value": "4"
-          },
-          {
-            "label": "RBI",
-            "value": "10"
-          },
-          {
-            "label": "SB",
-            "value": "2"
-          }
-        ],
-        "components": {
-          "On-base": 17.222222222222207,
-          "Power": 58.15789473684212,
-          "Contact": 0,
-          "Discipline": 19.44444444444444,
-          "Speed": 6.666666666666667
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "OF",
-          "JR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Davidson Athletics roster",
-          "Davidson cumulative stats"
-        ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats",
-        "schoolSlug": "davidson",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/gavin-thomas/11618",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "davidson-11595",
-        "name": "Cooper Collins",
-        "school": "Davidson",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 7,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Cooper Collins gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .156",
-          "OBP .298",
-          "SLG .267"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".156"
-          },
-          {
-            "label": "OBP",
-            "value": ".298"
-          },
-          {
-            "label": "SLG",
-            "value": ".267"
-          },
-          {
-            "label": "HR",
-            "value": "1"
-          },
-          {
-            "label": "RBI",
-            "value": "7"
-          },
-          {
-            "label": "SB",
-            "value": "2"
-          }
-        ],
-        "components": {
-          "On-base": 9.999999999999979,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 22.22222222222222,
-          "Speed": 6.666666666666667
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "INF",
-          "SO",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Davidson Athletics roster",
-          "Davidson cumulative stats"
-        ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats",
-        "schoolSlug": "davidson",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/cooper-collins/11595",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "davidson-11609",
-        "name": "Will McCullough",
-        "school": "Davidson",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "R-FR",
-        "handedness": "R/R",
-        "score": 2,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Will McCullough gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .114",
-          "OBP .162",
-          "SLG .143"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".114"
-          },
-          {
-            "label": "OBP",
-            "value": ".162"
-          },
-          {
-            "label": "SLG",
-            "value": ".143"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -6340,11 +4434,11 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
           },
           {
             "label": "RBI",
-            "value": "1"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "6"
+            "value": "0"
           }
         ],
         "components": {
@@ -6352,100 +4446,30 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
           "Power": 0,
           "Contact": 0,
           "Discipline": 0,
-          "Speed": 20
+          "Speed": 0
         },
-        "metaLine": "R-FR / R/R",
-        "detailBadges": [
-          "OF",
-          "R-FR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Davidson Athletics roster",
-          "Davidson cumulative stats"
-        ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats",
-        "schoolSlug": "davidson",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/will-mccullough/11609",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "davidson-11625",
-        "name": "Matt Manjooran",
-        "school": "Davidson",
-        "role": "Hitter",
-        "position": "3B/OF",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 59,
-        "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
-        },
-        "summary": "Matt Manjooran profiles as a 3B/OF piece who gets on base at a high clip.",
-        "summaryMetrics": [
-          "AVG .332",
-          "OBP .436",
-          "SLG .510"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".332"
-          },
-          {
-            "label": "OBP",
-            "value": ".436"
-          },
-          {
-            "label": "SLG",
-            "value": ".510"
-          },
-          {
-            "label": "HR",
-            "value": "5"
-          },
-          {
-            "label": "RBI",
-            "value": "49"
-          },
-          {
-            "label": "SB",
-            "value": "6"
-          }
-        ],
-        "components": {
-          "On-base": 86.66666666666666,
-          "Power": 50.000000000000014,
-          "Contact": 70,
-          "Discipline": 27.886710239651414,
-          "Speed": 20
-        },
-        "metaLine": "FR / R/R",
+        "metaLine": "SO / R/R",
         "detailBadges": [
           "3B/OF",
-          "FR",
+          "SO",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "Davidson Athletics roster",
-          "Davidson cumulative stats"
+          "Davidson Athletics roster"
         ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats",
+        "sourceSummary": "Davidson Athletics roster",
         "schoolSlug": "davidson",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/matt-manjooran/11625",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/matt-manjooran/12639",
         "espnAthleteId": ""
       },
       {
-        "id": "davidson-11626",
-        "name": "Connor Berman",
+        "id": "davidson-12653",
+        "name": "Cade Hudmon",
         "school": "Davidson",
         "role": "Hitter",
-        "position": "INF/OF",
+        "position": "INF",
         "classYear": "FR",
         "handedness": "L/R",
         "score": 0,
@@ -6453,24 +4477,24 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Connor Berman gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Cade Hudmon gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .000",
-          "OBP .000",
-          "SLG .000"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -6494,97 +4518,95 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         },
         "metaLine": "FR / L/R",
         "detailBadges": [
-          "INF/OF",
+          "INF",
           "FR",
           "L/R",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "Davidson Athletics roster",
-          "Davidson cumulative stats"
+          "Davidson Athletics roster"
         ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats",
+        "sourceSummary": "Davidson Athletics roster",
         "schoolSlug": "davidson",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/connor-berman/11626",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/cade-hudmon/12653",
         "espnAthleteId": ""
       },
       {
-        "id": "davidson-11596",
-        "name": "Jamie Daly",
+        "id": "davidson-12654",
+        "name": "Jackson Norum",
         "school": "Davidson",
         "role": "Hitter",
         "position": "OF",
         "classYear": "SO",
-        "handedness": "L/R",
-        "score": 69,
+        "handedness": "R/R",
+        "score": 0,
         "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
+          "label": "Depth",
+          "className": "fit-depth"
         },
-        "summary": "Jamie Daly profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
+        "summary": "Jackson Norum gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .328",
-          "OBP .452",
-          "SLG .588"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".328"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".452"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".588"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "11"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "40"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "13"
+            "value": "0"
           }
         ],
         "components": {
-          "On-base": 95.55555555555554,
-          "Power": 70.52631578947368,
-          "Contact": 67.5,
-          "Discipline": 27.160493827160487,
-          "Speed": 43.333333333333336
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "metaLine": "SO / L/R",
+        "metaLine": "SO / R/R",
         "detailBadges": [
           "OF",
           "SO",
-          "L/R",
-          "Hitter"
+          "R/R",
+          "Rostered"
         ],
         "leaderboards": [
-          "Davidson Athletics roster",
-          "Davidson cumulative stats"
+          "Davidson Athletics roster"
         ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats",
+        "sourceSummary": "Davidson Athletics roster",
         "schoolSlug": "davidson",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/jamie-daly/11596",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/jackson-norum/12654",
         "espnAthleteId": ""
       },
       {
-        "id": "davidson-11607",
+        "id": "davidson-12636",
         "name": "Forrest Lietz",
         "school": "Davidson",
         "role": "Pitcher",
         "position": "LHP/OF",
-        "classYear": "JR",
+        "classYear": "SR",
         "handedness": "L/L",
         "score": 0,
         "fit": {
@@ -6630,73 +4652,140 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "JR / L/L",
+        "metaLine": "SR / L/L",
         "detailBadges": [
           "LHP/OF",
-          "JR",
+          "SR",
           "L/L",
           "Pitcher"
         ],
         "leaderboards": [
-          "Davidson Athletics roster",
-          "Davidson cumulative stats"
+          "Davidson Athletics roster"
         ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats",
+        "sourceSummary": "Davidson Athletics roster",
         "schoolSlug": "davidson",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/forrest-lietz/11607",
+        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/forrest-lietz/12636",
         "espnAthleteId": ""
       },
       {
-        "id": "davidson-11594",
-        "name": "Brycen Champey",
+        "id": "davidson-12655",
+        "name": "Carter Bennett",
+        "school": "Davidson",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "JR",
+        "handedness": "L/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Carter Bennett gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "JR / L/R",
+        "detailBadges": [
+          "INF",
+          "JR",
+          "L/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Davidson Athletics roster"
+        ],
+        "sourceSummary": "Davidson Athletics roster",
+        "schoolSlug": "davidson",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/carter-bennett/12655",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "davidson-12629",
+        "name": "Keely Furr",
         "school": "Davidson",
         "role": "Pitcher",
         "position": "RHP",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 6,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Brycen Champey gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Keely Furr looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 6.46",
-          "WHIP 1.77",
-          "K/9 7.4"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.46"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.77"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "7.4"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "6.7"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "0.92"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "39.0"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 30.76923076923077,
-          "Command": 2.068965517241379,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
         "metaLine": "SR / R/R",
@@ -6707,289 +4796,216 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
           "Pitcher"
         ],
         "leaderboards": [
-          "Davidson Athletics roster",
-          "Davidson cumulative stats"
+          "Davidson Athletics roster"
         ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats",
+        "sourceSummary": "Davidson Athletics roster",
         "schoolSlug": "davidson",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/brycen-champey/11594",
+        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/keely-furr/12629",
         "espnAthleteId": ""
       },
       {
-        "id": "davidson-11627",
-        "name": "Keely Furr",
-        "school": "Davidson",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 12,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Keely Furr looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 14.25",
-          "WHIP 2.83",
-          "K/9 10.5"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "14.25"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.83"
-          },
-          {
-            "label": "K/9",
-            "value": "10.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "12.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "3.00"
-          },
-          {
-            "label": "IP",
-            "value": "12.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 59.09090909090909,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Davidson Athletics roster",
-          "Davidson cumulative stats"
-        ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats",
-        "schoolSlug": "davidson",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/keely-furr/11627",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "davidson-11628",
+        "id": "davidson-12637",
         "name": "Theo Loughlin",
         "school": "Davidson",
         "role": "Hitter",
         "position": "1B",
-        "classYear": "FR",
+        "classYear": "SO",
         "handedness": "L/R",
-        "score": 31,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Theo Loughlin gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .242",
-          "OBP .392",
-          "SLG .323"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".242"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".392"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".323"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "1"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "26"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "2"
+            "value": "0"
           }
         ],
         "components": {
-          "On-base": 62.22222222222222,
-          "Power": 0.7894736842105272,
-          "Contact": 13.749999999999996,
-          "Discipline": 51.85185185185184,
-          "Speed": 6.666666666666667
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "metaLine": "FR / L/R",
+        "metaLine": "SO / L/R",
         "detailBadges": [
           "1B",
-          "FR",
+          "SO",
           "L/R",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "Davidson Athletics roster",
-          "Davidson cumulative stats"
+          "Davidson Athletics roster"
         ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats",
+        "sourceSummary": "Davidson Athletics roster",
         "schoolSlug": "davidson",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/theo-loughlin/11628",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/theo-loughlin/12637",
         "espnAthleteId": ""
       },
       {
-        "id": "davidson-11593",
+        "id": "davidson-12624",
         "name": "Cooper Cavanaugh",
         "school": "Davidson",
         "role": "Pitcher",
         "position": "LHP",
-        "classYear": "JR",
+        "classYear": "SR",
         "handedness": "L/L",
-        "score": 15,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Cooper Cavanaugh looks like a LHP option who misses bats.",
+        "summary": "Cooper Cavanaugh looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 4.73",
-          "WHIP 1.39",
-          "K/9 11.0"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.73"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.39"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "11.0"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "6.1"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.22"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "59.0"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 63.48228043143297,
-          "Command": 16,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "JR / L/L",
+        "metaLine": "SR / L/L",
         "detailBadges": [
           "LHP",
-          "JR",
+          "SR",
           "L/L",
           "Pitcher"
         ],
         "leaderboards": [
-          "Davidson Athletics roster",
-          "Davidson cumulative stats"
+          "Davidson Athletics roster"
         ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats",
+        "sourceSummary": "Davidson Athletics roster",
         "schoolSlug": "davidson",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/cooper-cavanaugh/11593",
+        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/cooper-cavanaugh/12624",
         "espnAthleteId": ""
       },
       {
-        "id": "davidson-11598",
-        "name": "Scotty Edwards",
+        "id": "davidson-12656",
+        "name": "Wyatt Hossenlopp",
         "school": "Davidson",
         "role": "Hitter",
-        "position": "OF",
-        "classYear": "SR",
+        "position": "INF",
+        "classYear": "FR",
         "handedness": "R/R",
-        "score": 36,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Scotty Edwards gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Wyatt Hossenlopp gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .278",
-          "OBP .377",
-          "SLG .438"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".278"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".377"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".438"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "6"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "24"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "1"
+            "value": "0"
           }
         ],
         "components": {
-          "On-base": 53.88888888888887,
-          "Power": 31.05263157894737,
-          "Contact": 36.250000000000014,
-          "Discipline": 28.82882882882883,
-          "Speed": 3.3333333333333335
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "metaLine": "SR / R/R",
+        "metaLine": "FR / R/R",
         "detailBadges": [
-          "OF",
-          "SR",
+          "INF",
+          "FR",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "Davidson Athletics roster",
-          "Davidson cumulative stats"
+          "Davidson Athletics roster"
         ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats",
+        "sourceSummary": "Davidson Athletics roster",
         "schoolSlug": "davidson",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/scotty-edwards/11598",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/wyatt-hossenlopp/12656",
         "espnAthleteId": ""
       },
       {
@@ -6998,7 +5014,7 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "school": "Davidson",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "FR",
+        "classYear": "RF",
         "handedness": "R/R",
         "score": 0,
         "fit": {
@@ -7044,10 +5060,10 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "FR / R/R",
+        "metaLine": "RF / R/R",
         "detailBadges": [
           "RHP",
-          "FR",
+          "RF",
           "R/R",
           "Pitcher"
         ],
@@ -7061,640 +5077,19 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "davidson-11591",
-        "name": "Will Banks",
-        "school": "Davidson",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 9,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Will Banks looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 31.50",
-          "WHIP 5.50",
-          "K/9 9.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "31.50"
-          },
-          {
-            "label": "WHIP",
-            "value": "5.50"
-          },
-          {
-            "label": "K/9",
-            "value": "9.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "22.5"
-          },
-          {
-            "label": "HR/9",
-            "value": "4.50"
-          },
-          {
-            "label": "IP",
-            "value": "2.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Davidson Athletics roster",
-          "Davidson cumulative stats"
-        ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats",
-        "schoolSlug": "davidson",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/will-banks/11591",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "davidson-11599",
-        "name": "Ed Hall",
-        "school": "Davidson",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 10,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Ed Hall looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 11.64",
-          "WHIP 1.91",
-          "K/9 9.1"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "11.64"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.91"
-          },
-          {
-            "label": "K/9",
-            "value": "9.1"
-          },
-          {
-            "label": "BB/9",
-            "value": "7.7"
-          },
-          {
-            "label": "HR/9",
-            "value": "2.09"
-          },
-          {
-            "label": "IP",
-            "value": "38.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 46.15987460815047,
-          "Command": 3.6363636363636336,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Davidson Athletics roster",
-          "Davidson cumulative stats"
-        ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats",
-        "schoolSlug": "davidson",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/ed-hall/11599",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "davidson-11619",
-        "name": "Anthony Torreso",
-        "school": "Davidson",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "R-JR",
-        "handedness": "R/R",
-        "score": 66,
-        "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
-        },
-        "summary": "Anthony Torreso profiles as a C piece who gets on base at a high clip and brings real extra-base damage.",
-        "summaryMetrics": [
-          "AVG .303",
-          "OBP .445",
-          "SLG .578"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".303"
-          },
-          {
-            "label": "OBP",
-            "value": ".445"
-          },
-          {
-            "label": "SLG",
-            "value": ".578"
-          },
-          {
-            "label": "HR",
-            "value": "13"
-          },
-          {
-            "label": "RBI",
-            "value": "52"
-          },
-          {
-            "label": "SB",
-            "value": "3"
-          }
-        ],
-        "components": {
-          "On-base": 91.66666666666666,
-          "Power": 67.89473684210526,
-          "Contact": 51.87499999999999,
-          "Discipline": 62.62626262626263,
-          "Speed": 10
-        },
-        "metaLine": "R-JR / R/R",
-        "detailBadges": [
-          "C",
-          "R-JR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Davidson Athletics roster",
-          "Davidson cumulative stats"
-        ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats",
-        "schoolSlug": "davidson",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/anthony-torreso/11619",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "davidson-11592",
-        "name": "Will Brooks",
-        "school": "Davidson",
-        "role": "Hitter",
-        "position": "C/INF",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 27,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Will Brooks gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .263",
-          "OBP .349",
-          "SLG .432"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".263"
-          },
-          {
-            "label": "OBP",
-            "value": ".349"
-          },
-          {
-            "label": "SLG",
-            "value": ".432"
-          },
-          {
-            "label": "HR",
-            "value": "2"
-          },
-          {
-            "label": "RBI",
-            "value": "15"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 38.33333333333331,
-          "Power": 29.47368421052632,
-          "Contact": 26.875000000000004,
-          "Discipline": 19.44444444444444,
-          "Speed": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "C/INF",
-          "SO",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Davidson Athletics roster",
-          "Davidson cumulative stats"
-        ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats",
-        "schoolSlug": "davidson",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/will-brooks/11592",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "davidson-11603",
-        "name": "Ivan Hoyt",
-        "school": "Davidson",
-        "role": "Pitcher",
-        "position": "RHP/INF",
-        "classYear": "R-JR",
-        "handedness": "R/R",
-        "score": 10,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Ivan Hoyt looks like a RHP/INF option who misses bats.",
-        "summaryMetrics": [
-          "ERA 11.76",
-          "WHIP 2.37",
-          "K/9 9.1"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "11.76"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.37"
-          },
-          {
-            "label": "K/9",
-            "value": "9.1"
-          },
-          {
-            "label": "BB/9",
-            "value": "7.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "3.05"
-          },
-          {
-            "label": "IP",
-            "value": "20.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 46.774193548387096,
-          "Command": 6.25,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-JR / R/R",
-        "detailBadges": [
-          "RHP/INF",
-          "R-JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Davidson Athletics roster",
-          "Davidson cumulative stats"
-        ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats",
-        "schoolSlug": "davidson",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/ivan-hoyt/11603",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "davidson-11629",
-        "name": "Brendan Fritch",
-        "school": "Davidson",
-        "role": "Hitter",
-        "position": "C/OF",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 19,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Brendan Fritch gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .238",
-          "OBP .352",
-          "SLG .366"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".238"
-          },
-          {
-            "label": "OBP",
-            "value": ".352"
-          },
-          {
-            "label": "SLG",
-            "value": ".366"
-          },
-          {
-            "label": "HR",
-            "value": "2"
-          },
-          {
-            "label": "RBI",
-            "value": "13"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
-        "components": {
-          "On-base": 39.99999999999997,
-          "Power": 12.105263157894735,
-          "Contact": 11.249999999999991,
-          "Discipline": 6.763285024154586,
-          "Speed": 3.3333333333333335
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "C/OF",
-          "FR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Davidson Athletics roster",
-          "Davidson cumulative stats"
-        ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats",
-        "schoolSlug": "davidson",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/brendan-fritch/11629",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "davidson-11610",
-        "name": "Will Papciak",
-        "school": "Davidson",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "R-SO",
-        "handedness": "R/R",
-        "score": 7,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Will Papciak gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 15.43",
-          "WHIP 3.43",
-          "K/9 7.7"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "15.43"
-          },
-          {
-            "label": "WHIP",
-            "value": "3.43"
-          },
-          {
-            "label": "K/9",
-            "value": "7.7"
-          },
-          {
-            "label": "BB/9",
-            "value": "27.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "2.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 33.76623376623376,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "R-SO",
-          "R/R",
-          "Two-Way"
-        ],
-        "leaderboards": [
-          "Davidson Athletics roster",
-          "Davidson cumulative stats"
-        ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats",
-        "schoolSlug": "davidson",
-        "compositeRole": "Two-Way",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/will-papciak/11610",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "davidson-11622",
-        "name": "Tyler Wille",
-        "school": "Davidson",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "SO",
-        "handedness": "R/L",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Tyler Wille gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 27.00",
-          "WHIP 6.00",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "27.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "6.00"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "54.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / R/L",
-        "detailBadges": [
-          "LHP",
-          "SO",
-          "R/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Davidson Athletics roster",
-          "Davidson cumulative stats"
-        ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats",
-        "schoolSlug": "davidson",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/tyler-wille/11622",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "davidson-11614",
+        "id": "davidson-12644",
         "name": "Daniel Smith",
         "school": "Davidson",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 9,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Daniel Smith gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 16.39",
-          "WHIP 2.46",
-          "K/9 7.7"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "16.39"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.46"
-          },
-          {
-            "label": "K/9",
-            "value": "7.7"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.8"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.96"
-          },
-          {
-            "label": "IP",
-            "value": "9.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 33.76623376623376,
-          "Command": 11.999999999999996,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Davidson Athletics roster",
-          "Davidson cumulative stats"
-        ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats",
-        "schoolSlug": "davidson",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/daniel-smith/11614",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "davidson-11630",
-        "name": "Ethan Jimenez",
-        "school": "Davidson",
-        "role": "Pitcher",
-        "position": "1B/RHP",
-        "classYear": "FR",
+        "classYear": "JR",
         "handedness": "R/R",
         "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Ethan Jimenez looks like a 1B/RHP option who throws enough strikes.",
+        "summary": "Daniel Smith looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -7708,282 +5103,6 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
           {
             "label": "WHIP",
             "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "1B/RHP",
-          "FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Davidson Athletics roster",
-          "Davidson cumulative stats"
-        ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats",
-        "schoolSlug": "davidson",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/ethan-jimenez/11630",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "davidson-11605",
-        "name": "Parker Jones",
-        "school": "Davidson",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Parker Jones gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 7.71",
-          "WHIP 1.50",
-          "K/9 3.5"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "7.71"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.50"
-          },
-          {
-            "label": "K/9",
-            "value": "3.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.8"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.77"
-          },
-          {
-            "label": "IP",
-            "value": "23.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Davidson Athletics roster",
-          "Davidson cumulative stats"
-        ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats",
-        "schoolSlug": "davidson",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/parker-jones/11605",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "davidson-11608",
-        "name": "Will Marenghi",
-        "school": "Davidson",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 8,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Will Marenghi gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 5.01",
-          "WHIP 1.48",
-          "K/9 7.2"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.01"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.48"
-          },
-          {
-            "label": "K/9",
-            "value": "7.2"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.4"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.52"
-          },
-          {
-            "label": "IP",
-            "value": "41.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 28.958944281524918,
-          "Command": 12.999999999999998,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Davidson Athletics roster",
-          "Davidson cumulative stats"
-        ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats",
-        "schoolSlug": "davidson",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/will-marenghi/11608",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "davidson-11604",
-        "name": "Henry Hultquist",
-        "school": "Davidson",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "R-JR",
-        "handedness": "R/R",
-        "score": 20,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Henry Hultquist looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 18.00",
-          "WHIP 8.00",
-          "K/9 18.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "18.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "8.00"
-          },
-          {
-            "label": "K/9",
-            "value": "18.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "54.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "1.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 100,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "R-JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Davidson Athletics roster",
-          "Davidson cumulative stats"
-        ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats",
-        "schoolSlug": "davidson",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/henry-hultquist/11604",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "davidson-11621",
-        "name": "Thomas Whelan",
-        "school": "Davidson",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Thomas Whelan looks like a RHP option who throws enough strikes and keeps traffic under control.",
-        "summaryMetrics": [
-          "ERA 99.00",
-          "WHIP 0.00",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "99.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "0.00"
           },
           {
             "label": "K/9",
@@ -8017,512 +5136,28 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
           "Pitcher"
         ],
         "leaderboards": [
-          "Davidson Athletics roster",
-          "Davidson cumulative stats"
+          "Davidson Athletics roster"
         ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats",
+        "sourceSummary": "Davidson Athletics roster",
         "schoolSlug": "davidson",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/thomas-whelan/11621",
+        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/daniel-smith/12644",
         "espnAthleteId": ""
       },
       {
-        "id": "davidson-11612",
-        "name": "Garrett Pyne",
+        "id": "davidson-12657",
+        "name": "Jake Colucci",
         "school": "Davidson",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "R-FR",
-        "handedness": "R/R",
-        "score": 7,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Garrett Pyne gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 10.00",
-          "WHIP 2.11",
-          "K/9 7.5"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "10.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.11"
-          },
-          {
-            "label": "K/9",
-            "value": "7.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "7.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "2.00"
-          },
-          {
-            "label": "IP",
-            "value": "18.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 31.818181818181817,
-          "Command": 1.428571428571428,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-FR / R/R",
-        "detailBadges": [
-          "RHP",
-          "R-FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Davidson Athletics roster",
-          "Davidson cumulative stats"
-        ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats",
-        "schoolSlug": "davidson",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/garrett-pyne/11612",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "davidson-11617",
-        "name": "Carson Taggart",
-        "school": "Davidson",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "R-FR",
-        "handedness": "L/L",
-        "score": 3,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Carson Taggart gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 9.97",
-          "WHIP 1.71",
-          "K/9 5.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "9.97"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.71"
-          },
-          {
-            "label": "K/9",
-            "value": "5.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.8"
-          },
-          {
-            "label": "HR/9",
-            "value": "2.49"
-          },
-          {
-            "label": "IP",
-            "value": "21.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 12.727272727272723,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-FR / L/L",
-        "detailBadges": [
-          "LHP",
-          "R-FR",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Davidson Athletics roster",
-          "Davidson cumulative stats"
-        ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats",
-        "schoolSlug": "davidson",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/carson-taggart/11617",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "davidson-11602",
-        "name": "Jed Howard",
-        "school": "Davidson",
-        "role": "Pitcher",
-        "position": "OF/LHP",
         "classYear": "JR",
-        "handedness": "L/L",
-        "score": 12,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jed Howard looks like a OF/LHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 5.40",
-          "WHIP 2.40",
-          "K/9 10.8"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.40"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.40"
-          },
-          {
-            "label": "K/9",
-            "value": "10.8"
-          },
-          {
-            "label": "BB/9",
-            "value": "16.2"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "1.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 61.81818181818183,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / L/L",
-        "detailBadges": [
-          "OF/LHP",
-          "JR",
-          "L/L",
-          "Two-Way"
-        ],
-        "leaderboards": [
-          "Davidson Athletics roster",
-          "Davidson cumulative stats"
-        ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats",
-        "schoolSlug": "davidson",
-        "compositeRole": "Two-Way",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/jed-howard/11602",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "davidson-11611",
-        "name": "Wilson Perkins",
-        "school": "Davidson",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "R-SR",
         "handedness": "R/R",
-        "score": 8,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Wilson Perkins looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA 7.34",
-          "WHIP 1.82",
-          "K/9 6.2"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "7.34"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.82"
-          },
-          {
-            "label": "K/9",
-            "value": "6.2"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.7"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.00"
-          },
-          {
-            "label": "IP",
-            "value": "72.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 20.192710515291168,
-          "Command": 25.454545454545457,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-SR / R/R",
-        "detailBadges": [
-          "RHP",
-          "R-SR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Davidson Athletics roster",
-          "Davidson cumulative stats"
-        ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats",
-        "schoolSlug": "davidson",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/wilson-perkins/11611",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "davidson-11600",
-        "name": "Matt Hamilton",
-        "school": "Davidson",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 5,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Matt Hamilton gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 6.57",
-          "WHIP 1.30",
-          "K/9 5.8"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "6.57"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.30"
-          },
-          {
-            "label": "K/9",
-            "value": "5.8"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.6"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.46"
-          },
-          {
-            "label": "IP",
-            "value": "12.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 16.707616707616708,
-          "Command": 11.999999999999996,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Davidson Athletics roster",
-          "Davidson cumulative stats"
-        ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats",
-        "schoolSlug": "davidson",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/matt-hamilton/11600",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "davidson-11623",
-        "name": "Simon Yochum",
-        "school": "Davidson",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 23,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Simon Yochum looks like a RHP option who misses bats and throws enough strikes.",
-        "summaryMetrics": [
-          "ERA 6.14",
-          "WHIP 1.61",
-          "K/9 10.2"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "6.14"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.61"
-          },
-          {
-            "label": "K/9",
-            "value": "10.2"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.2"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.56"
-          },
-          {
-            "label": "IP",
-            "value": "48.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 56.739811912225704,
-          "Command": 71.66666666666666,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Davidson Athletics roster",
-          "Davidson cumulative stats"
-        ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats",
-        "schoolSlug": "davidson",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/simon-yochum/11623",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "davidson-11616",
-        "name": "Jake Suarez",
-        "school": "Davidson",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "JR",
-        "handedness": "L/R",
-        "score": 50,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jake Suarez profiles as a C piece who gets on base at a high clip and controls at-bats.",
-        "summaryMetrics": [
-          "AVG .200",
-          "OBP .500",
-          "SLG .400"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".200"
-          },
-          {
-            "label": "OBP",
-            "value": ".500"
-          },
-          {
-            "label": "SLG",
-            "value": ".400"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 100,
-          "Power": 21.052631578947377,
-          "Contact": 0,
-          "Discipline": 88.88888888888889,
-          "Speed": 0
-        },
-        "metaLine": "JR / L/R",
-        "detailBadges": [
-          "C",
-          "JR",
-          "L/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Davidson Athletics roster",
-          "Davidson cumulative stats"
-        ],
-        "sourceSummary": "Davidson Athletics roster + Davidson cumulative stats",
-        "schoolSlug": "davidson",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/jake-suarez/11616",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "davidson-11590",
-        "name": "Jason Ban",
-        "school": "Davidson",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "JR",
-        "handedness": "L/L",
         "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Jason Ban looks like a LHP option who throws enough strikes.",
+        "summary": "Jake Colucci looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -8561,11 +5196,11 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "JR / L/L",
+        "metaLine": "JR / R/R",
         "detailBadges": [
-          "LHP",
+          "RHP",
           "JR",
-          "L/L",
+          "R/R",
           "Pitcher"
         ],
         "leaderboards": [
@@ -8574,16 +5209,152 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "sourceSummary": "Davidson Athletics roster",
         "schoolSlug": "davidson",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/jason-ban/11590",
+        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/jake-colucci/12657",
         "espnAthleteId": ""
       },
       {
-        "id": "davidson-11606",
+        "id": "davidson-12658",
+        "name": "Hunter Fryman",
+        "school": "Davidson",
+        "role": "Hitter",
+        "position": "Util",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Hunter Fryman gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "Util",
+          "FR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Davidson Athletics roster"
+        ],
+        "sourceSummary": "Davidson Athletics roster",
+        "schoolSlug": "davidson",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/hunter-fryman/12658",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "davidson-12623",
+        "name": "Will Brooks",
+        "school": "Davidson",
+        "role": "Hitter",
+        "position": "C/INF",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Will Brooks gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "C/INF",
+          "JR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Davidson Athletics roster"
+        ],
+        "sourceSummary": "Davidson Athletics roster",
+        "schoolSlug": "davidson",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/will-brooks/12623",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "davidson-12635",
         "name": "Adam Katz",
         "school": "Davidson",
         "role": "Hitter",
         "position": "Util",
-        "classYear": "JR",
+        "classYear": "R-JR",
         "handedness": "L/R",
         "score": 0,
         "fit": {
@@ -8629,10 +5400,10 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "JR / L/R",
+        "metaLine": "R-JR / L/R",
         "detailBadges": [
           "Util",
-          "JR",
+          "R-JR",
           "L/R",
           "Rostered"
         ],
@@ -8642,7 +5413,1299 @@ window.__BASEBALL_DATASETS__.davidson2026 = {
         "sourceSummary": "Davidson Athletics roster",
         "schoolSlug": "davidson",
         "compositeRole": "Rostered",
-        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/adam-katz/11606",
+        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/adam-katz/12635",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "davidson-12659",
+        "name": "Romy DeCenzo",
+        "school": "Davidson",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Romy DeCenzo looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Davidson Athletics roster"
+        ],
+        "sourceSummary": "Davidson Athletics roster",
+        "schoolSlug": "davidson",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/romy-decenzo/12659",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "davidson-12642",
+        "name": "Will Papciak",
+        "school": "Davidson",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "R-JR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Will Papciak looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "R-JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "R-JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Davidson Athletics roster"
+        ],
+        "sourceSummary": "Davidson Athletics roster",
+        "schoolSlug": "davidson",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/will-papciak/12642",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "davidson-12651",
+        "name": "Tyler Wille",
+        "school": "Davidson",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "JR",
+        "handedness": "R/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Tyler Wille looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / R/L",
+        "detailBadges": [
+          "LHP",
+          "JR",
+          "R/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Davidson Athletics roster"
+        ],
+        "sourceSummary": "Davidson Athletics roster",
+        "schoolSlug": "davidson",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/tyler-wille/12651",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "davidson-12660",
+        "name": "Ryan Wilusz",
+        "school": "Davidson",
+        "role": "Hitter",
+        "position": "C/OF",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Ryan Wilusz gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "C/OF",
+          "FR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Davidson Athletics roster"
+        ],
+        "sourceSummary": "Davidson Athletics roster",
+        "schoolSlug": "davidson",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/ryan-wilusz/12660",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "davidson-12633",
+        "name": "Ethan Jimenez",
+        "school": "Davidson",
+        "role": "Pitcher",
+        "position": "1B/RHP",
+        "classYear": "SO",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Ethan Jimenez looks like a 1B/RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "1B/RHP",
+          "SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Davidson Athletics roster"
+        ],
+        "sourceSummary": "Davidson Athletics roster",
+        "schoolSlug": "davidson",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/ethan-jimenez/12633",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "davidson-12661",
+        "name": "Eric Benner",
+        "school": "Davidson",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Eric Benner looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Davidson Athletics roster"
+        ],
+        "sourceSummary": "Davidson Athletics roster",
+        "schoolSlug": "davidson",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/eric-benner/12661",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "davidson-12634",
+        "name": "Parker Jones",
+        "school": "Davidson",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Parker Jones looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Davidson Athletics roster"
+        ],
+        "sourceSummary": "Davidson Athletics roster",
+        "schoolSlug": "davidson",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/parker-jones/12634",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "davidson-12640",
+        "name": "Will Marenghi",
+        "school": "Davidson",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Will Marenghi looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Davidson Athletics roster"
+        ],
+        "sourceSummary": "Davidson Athletics roster",
+        "schoolSlug": "davidson",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/will-marenghi/12640",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "davidson-12662",
+        "name": "Oliver Swartz",
+        "school": "Davidson",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Oliver Swartz looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "LHP",
+          "FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Davidson Athletics roster"
+        ],
+        "sourceSummary": "Davidson Athletics roster",
+        "schoolSlug": "davidson",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/oliver-swartz/12662",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "davidson-12650",
+        "name": "Thomas Whelan",
+        "school": "Davidson",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "R-JR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Thomas Whelan looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "R-JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "R-JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Davidson Athletics roster"
+        ],
+        "sourceSummary": "Davidson Athletics roster",
+        "schoolSlug": "davidson",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/thomas-whelan/12650",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "davidson-12643",
+        "name": "Garrett Pyne",
+        "school": "Davidson",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "R-SO",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Garrett Pyne looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "R-SO / R/R",
+        "detailBadges": [
+          "RHP",
+          "R-SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Davidson Athletics roster"
+        ],
+        "sourceSummary": "Davidson Athletics roster",
+        "schoolSlug": "davidson",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/garrett-pyne/12643",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "davidson-12646",
+        "name": "Carson Taggart",
+        "school": "Davidson",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "R-SO",
+        "handedness": "L/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Carson Taggart looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "R-SO / L/L",
+        "detailBadges": [
+          "LHP",
+          "R-SO",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Davidson Athletics roster"
+        ],
+        "sourceSummary": "Davidson Athletics roster",
+        "schoolSlug": "davidson",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/carson-taggart/12646",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "davidson-12632",
+        "name": "Jed Howard",
+        "school": "Davidson",
+        "role": "Pitcher",
+        "position": "OF/LHP",
+        "classYear": "SR",
+        "handedness": "L/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jed Howard looks like a OF/LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / L/L",
+        "detailBadges": [
+          "OF/LHP",
+          "SR",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Davidson Athletics roster"
+        ],
+        "sourceSummary": "Davidson Athletics roster",
+        "schoolSlug": "davidson",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/jed-howard/12632",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "davidson-12663",
+        "name": "Griffin Messenger",
+        "school": "Davidson",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Griffin Messenger looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Davidson Athletics roster"
+        ],
+        "sourceSummary": "Davidson Athletics roster",
+        "schoolSlug": "davidson",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/griffin-messenger/12663",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "davidson-12630",
+        "name": "Matt Hamilton",
+        "school": "Davidson",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Matt Hamilton looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Davidson Athletics roster"
+        ],
+        "sourceSummary": "Davidson Athletics roster",
+        "schoolSlug": "davidson",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/matt-hamilton/12630",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "davidson-12652",
+        "name": "Simon Yochum",
+        "school": "Davidson",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Simon Yochum looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Davidson Athletics roster"
+        ],
+        "sourceSummary": "Davidson Athletics roster",
+        "schoolSlug": "davidson",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/simon-yochum/12652",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "davidson-12645",
+        "name": "Jake Suarez",
+        "school": "Davidson",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "SR",
+        "handedness": "L/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jake Suarez gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "SR / L/R",
+        "detailBadges": [
+          "C",
+          "SR",
+          "L/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Davidson Athletics roster"
+        ],
+        "sourceSummary": "Davidson Athletics roster",
+        "schoolSlug": "davidson",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/jake-suarez/12645",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "davidson-12621",
+        "name": "Jason Ban",
+        "school": "Davidson",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "R-JR",
+        "handedness": "L/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jason Ban looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "R-JR / L/L",
+        "detailBadges": [
+          "LHP",
+          "R-JR",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Davidson Athletics roster"
+        ],
+        "sourceSummary": "Davidson Athletics roster",
+        "schoolSlug": "davidson",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/jason-ban/12621",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "davidson-12664",
+        "name": "Connor McGough",
+        "school": "Davidson",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Connor McGough gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "INF",
+          "FR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Davidson Athletics roster"
+        ],
+        "sourceSummary": "Davidson Athletics roster",
+        "schoolSlug": "davidson",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://davidsonwildcats.com/sports/baseball/roster/connor-mcgough/12664",
         "espnAthleteId": ""
       }
     ]
