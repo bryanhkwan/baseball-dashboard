@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.rice2026 = {
-  "generatedAt": "2026-07-30T10:57:04.740Z",
+  "generatedAt": "2026-11-18T10:18:47.314Z",
   "season": 2026,
   "school": {
     "slug": "rice",
@@ -25,39 +25,23 @@ window.__BASEBALL_DATASETS__.rice2026 = {
     "ncaa": "NCAA school index"
   },
   "coverage": {
-    "rosterPlayers": 28,
+    "rosterPlayers": 44,
     "espnRosterPlayers": 0,
-    "playersWithHittingStats": 11,
-    "playersWithPitchingStats": 13,
-    "playersWithFieldingStats": 24,
-    "mergedPlayersWithAnyStats": 24,
+    "playersWithHittingStats": 17,
+    "playersWithPitchingStats": 16,
+    "playersWithFieldingStats": 31,
+    "mergedPlayersWithAnyStats": 33,
     "matchedEspnPlayers": 0,
     "unmatchedStatRows": {
       "hitting": [
-        "2",
-        "12",
-        "24",
-        "27",
-        "18",
-        "9",
-        "13"
+        "12"
       ],
       "pitching": [
-        "33",
-        "31",
-        "30",
-        "38"
+        "29"
       ],
       "fielding": [
-        "27",
-        "24",
-        "9",
-        "13",
-        "31",
-        "12",
-        "18",
-        "2",
-        "38"
+        "29",
+        "12"
       ]
     }
   },
@@ -165,7 +149,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
       "previousSchool": "",
       "hometownHighSchool": "San Antonio, Texas / Johnson",
       "profileUrl": "https://riceowls.com/sports/baseball/roster/masa-chilcutt/11074",
-      "imageUrl": "https://riceowls.com/images/2025/9/1/1_CHILCUTT_MASA.png",
+      "imageUrl": "https://riceowls.com/images/2026/9/8/CHILCUTT_MASATO_BSB_Fall_2026.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -183,7 +167,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "normalizedName": "masa chilcutt",
         "jersey": "1",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/masa-chilcutt/11074",
-        "imageUrl": "https://riceowls.com/images/2025/9/1/1_CHILCUTT_MASA.png",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/CHILCUTT_MASATO_BSB_Fall_2026.png",
         "gamesPlayed": 29,
         "gamesStarted": 12,
         "battingAverage": 0.204,
@@ -221,7 +205,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "normalizedName": "masa chilcutt",
         "jersey": "1",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/masa-chilcutt/11074",
-        "imageUrl": "https://riceowls.com/images/2025/9/1/1_CHILCUTT_MASA.png",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/CHILCUTT_MASATO_BSB_Fall_2026.png",
         "gamesPlayed": 9,
         "gamesStarted": 9,
         "putouts": 13,
@@ -292,6 +276,151 @@ window.__BASEBALL_DATASETS__.rice2026 = {
       }
     },
     {
+      "id": "rice-11095",
+      "schoolSlug": "rice",
+      "school": "Rice",
+      "schoolLongName": "Rice University",
+      "name": "Michael Zito",
+      "normalizedName": "michael zito",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "R-R",
+      "jersey": "2",
+      "hometown": "Milton, Georgia",
+      "highSchool": "Blessed Trinity Academy",
+      "previousSchool": "",
+      "hometownHighSchool": "Milton, Georgia / Blessed Trinity Academy",
+      "profileUrl": "https://riceowls.com/sports/baseball/roster/michael-zito/11095",
+      "imageUrl": "https://riceowls.com/images/2026/9/8/ZITO_MICHAEL_BSB_Fall_2026.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11095",
+      "sources": [
+        "Rice Athletics roster",
+        "Rice cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "11095",
+        "name": "Michael Zito",
+        "normalizedName": "michael zito",
+        "jersey": "2",
+        "profileUrl": "https://riceowls.com/sports/baseball/roster/michael-zito/11095",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/ZITO_MICHAEL_BSB_Fall_2026.png",
+        "gamesPlayed": 58,
+        "gamesStarted": 58,
+        "battingAverage": 0.29,
+        "onBasePercentage": 0.356,
+        "sluggingPercentage": 0.451,
+        "ops": 0.807,
+        "atBats": 224,
+        "runs": 34,
+        "hits": 65,
+        "doubles": 13,
+        "triples": 1,
+        "homeRuns": 7,
+        "runsBattedIn": 32,
+        "totalBases": 101,
+        "walks": 15,
+        "hitByPitch": 8,
+        "strikeouts": 50,
+        "intentionalWalks": 1,
+        "groundedIntoDoublePlay": 1,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 4,
+        "stolenBases": 9,
+        "stolenBasesAttempts": 11,
+        "putouts": 75,
+        "assists": 0,
+        "errors": 10,
+        "plateAppearances": 264,
+        "caughtStealing": 2,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "11095",
+        "name": "Michael Zito",
+        "normalizedName": "michael zito",
+        "jersey": "2",
+        "profileUrl": "https://riceowls.com/sports/baseball/roster/michael-zito/11095",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/ZITO_MICHAEL_BSB_Fall_2026.png",
+        "gamesPlayed": 57,
+        "gamesStarted": 57,
+        "putouts": 75,
+        "assists": 76,
+        "errors": 10,
+        "fieldingPercentage": 0.938,
+        "doublePlays": 9,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 161
+      },
+      "evaluation": {
+        "score": 35,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 42.2222222222222,
+          "Power": 34.47368421052632,
+          "Contact": 43.749999999999986,
+          "Discipline": 11.111111111111107,
+          "Speed": 30
+        },
+        "summary": "Michael Zito profiles as a INF piece who adds running-game pressure.",
+        "summaryMetrics": [
+          "AVG .290",
+          "OBP .356",
+          "SLG .451"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".290"
+          },
+          {
+            "label": "OBP",
+            "value": ".356"
+          },
+          {
+            "label": "SLG",
+            "value": ".451"
+          },
+          {
+            "label": "HR",
+            "value": "7"
+          },
+          {
+            "label": "RBI",
+            "value": "32"
+          },
+          {
+            "label": "SB",
+            "value": "9"
+          }
+        ],
+        "metaLine": "JR / R-R",
+        "detailBadges": [
+          "INF",
+          "JR",
+          "R-R",
+          "Hitter"
+        ],
+        "sourceSummary": "Rice Athletics roster + Rice cumulative stats"
+      }
+    },
+    {
       "id": "rice-11221",
       "schoolSlug": "rice",
       "school": "Rice",
@@ -303,14 +432,14 @@ window.__BASEBALL_DATASETS__.rice2026 = {
       "position": "INF",
       "positionLong": "",
       "classYear": "SR",
-      "handedness": "N/A",
+      "handedness": "R-R",
       "jersey": "3",
       "hometown": "Argyle, Texas",
       "highSchool": "Argyle",
       "previousSchool": "Weatherford College",
       "hometownHighSchool": "Argyle, Texas / Argyle",
       "profileUrl": "https://riceowls.com/sports/baseball/roster/jc-davis/11221",
-      "imageUrl": "https://riceowls.com/images/2025/9/1/3_DAVIS_JC.png",
+      "imageUrl": "https://riceowls.com/images/2026/9/8/DAVIS_JC_BSB_Fall_2026.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -328,7 +457,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "normalizedName": "jc davis",
         "jersey": "3",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/jc-davis/11221",
-        "imageUrl": "https://riceowls.com/images/2025/9/1/3_DAVIS_JC.png",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/DAVIS_JC_BSB_Fall_2026.png",
         "gamesPlayed": 52,
         "gamesStarted": 49,
         "battingAverage": 0.33,
@@ -366,7 +495,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "normalizedName": "jc davis",
         "jersey": "3",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/jc-davis/11221",
-        "imageUrl": "https://riceowls.com/images/2025/9/1/3_DAVIS_JC.png",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/DAVIS_JC_BSB_Fall_2026.png",
         "gamesPlayed": 47,
         "gamesStarted": 46,
         "putouts": 83,
@@ -426,11 +555,11 @@ window.__BASEBALL_DATASETS__.rice2026 = {
             "value": "3"
           }
         ],
-        "metaLine": "SR / N/A",
+        "metaLine": "SR / R-R",
         "detailBadges": [
           "INF",
           "SR",
-          "N/A",
+          "R-R",
           "Hitter"
         ],
         "sourceSummary": "Rice Athletics roster + Rice cumulative stats"
@@ -455,7 +584,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
       "previousSchool": "Galveston College",
       "hometownHighSchool": "Montgomery, Texas / Tomball",
       "profileUrl": "https://riceowls.com/sports/baseball/roster/zachary-daigre/11104",
-      "imageUrl": "https://riceowls.com/images/2025/9/1/46_DAIGRE_ZAC.png",
+      "imageUrl": "https://riceowls.com/images/2026/9/8/DAIGRE_ZAC_BSB_Fall_2026.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -473,7 +602,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "normalizedName": "zachary daigre",
         "jersey": "4",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/zachary-daigre/11104",
-        "imageUrl": "https://riceowls.com/images/2025/9/1/46_DAIGRE_ZAC.png",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/DAIGRE_ZAC_BSB_Fall_2026.png",
         "gamesPlayed": 51,
         "gamesStarted": 21,
         "battingAverage": 0.36,
@@ -511,7 +640,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "normalizedName": "zachary daigre",
         "jersey": "4",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/zachary-daigre/11104",
-        "imageUrl": "https://riceowls.com/images/2025/9/1/46_DAIGRE_ZAC.png",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/DAIGRE_ZAC_BSB_Fall_2026.png",
         "gamesPlayed": 28,
         "gamesStarted": 19,
         "putouts": 67,
@@ -600,7 +729,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
       "previousSchool": "Mississippi State",
       "hometownHighSchool": "Farragut, Tennessee / Farragut",
       "profileUrl": "https://riceowls.com/sports/baseball/roster/landis-davila/11076",
-      "imageUrl": "https://riceowls.com/images/2025/9/1/43_DAVILA_LANDIS.png",
+      "imageUrl": "https://riceowls.com/images/2026/9/8/DAVILA_LANDIS_BSB_Fall_2026.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -618,7 +747,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "normalizedName": "landis davila",
         "jersey": "5",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/landis-davila/11076",
-        "imageUrl": "https://riceowls.com/images/2025/9/1/43_DAVILA_LANDIS.png",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/DAVILA_LANDIS_BSB_Fall_2026.png",
         "gamesPlayed": 52,
         "gamesStarted": 37,
         "battingAverage": 0.246,
@@ -656,7 +785,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "normalizedName": "landis davila",
         "jersey": "5",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/landis-davila/11076",
-        "imageUrl": "https://riceowls.com/images/2025/9/1/43_DAVILA_LANDIS.png",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/DAVILA_LANDIS_BSB_Fall_2026.png",
         "gamesPlayed": 41,
         "gamesStarted": 35,
         "putouts": 122,
@@ -727,43 +856,131 @@ window.__BASEBALL_DATASETS__.rice2026 = {
       }
     },
     {
-      "id": "rice-11095",
+      "id": "rice-11381",
       "schoolSlug": "rice",
       "school": "Rice",
       "schoolLongName": "Rice University",
-      "name": "Michael Zito",
-      "normalizedName": "michael zito",
-      "compositeRole": "Hitter",
+      "name": "Judson Dowell",
+      "normalizedName": "judson dowell",
+      "compositeRole": "Rostered",
       "role": "Hitter",
-      "position": "INF",
+      "position": "OF",
       "positionLong": "",
-      "classYear": "JR",
+      "classYear": "FR",
       "handedness": "R-R",
-      "jersey": "7",
-      "hometown": "Milton, Georgia",
-      "highSchool": "Blessed Trinity Academy",
+      "jersey": "6",
+      "hometown": "Houston, Texas",
+      "highSchool": "The Bennett School",
       "previousSchool": "",
-      "hometownHighSchool": "Milton, Georgia / Blessed Trinity Academy",
-      "profileUrl": "https://riceowls.com/sports/baseball/roster/michael-zito/11095",
-      "imageUrl": "https://riceowls.com/images/2025/9/1/7_ZITO_MICHAEL.png",
+      "hometownHighSchool": "Houston, Texas / The Bennett School",
+      "profileUrl": "https://riceowls.com/sports/baseball/roster/judson-dowell/11381",
+      "imageUrl": "https://riceowls.com/images/2026/9/8/DOWELL_JUDSON_BSB_Fall_2026.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "11095",
+      "rosterBioId": "11381",
+      "sources": [
+        "Rice Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Judson Dowell gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "FR / R-R",
+        "detailBadges": [
+          "OF",
+          "FR",
+          "R-R",
+          "Rostered"
+        ],
+        "sourceSummary": "Rice Athletics roster"
+      }
+    },
+    {
+      "id": "rice-11382",
+      "schoolSlug": "rice",
+      "school": "Rice",
+      "schoolLongName": "Rice University",
+      "name": "Oliver Minyard",
+      "normalizedName": "oliver minyard",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "C",
+      "positionLong": "",
+      "classYear": "FR",
+      "handedness": "R-R",
+      "jersey": "7",
+      "hometown": "Dallas, Texas",
+      "highSchool": "Wilson",
+      "previousSchool": "",
+      "hometownHighSchool": "Dallas, Texas / Wilson",
+      "profileUrl": "https://riceowls.com/sports/baseball/roster/oliver-minyard/11382",
+      "imageUrl": "https://riceowls.com/images/2026/9/8/MINYARD_OLIVER_BSB_Fall_2026.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11382",
       "sources": [
         "Rice Athletics roster",
         "Rice cumulative stats"
       ],
       "hittingStats": {
-        "rosterBioId": "11095",
-        "name": "Michael Zito",
-        "normalizedName": "michael zito",
+        "rosterBioId": "11382",
+        "name": "Oliver Minyard",
+        "normalizedName": "oliver minyard",
         "jersey": "7",
-        "profileUrl": "https://riceowls.com/sports/baseball/roster/michael-zito/11095",
-        "imageUrl": "https://riceowls.com/images/2025/9/1/7_ZITO_MICHAEL.png",
+        "profileUrl": "https://riceowls.com/sports/baseball/roster/oliver-minyard/11382",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/MINYARD_OLIVER_BSB_Fall_2026.png",
         "gamesPlayed": 14,
         "gamesStarted": 4,
         "battingAverage": 0.182,
@@ -796,12 +1013,12 @@ window.__BASEBALL_DATASETS__.rice2026 = {
       },
       "pitchingStats": null,
       "fieldingStats": {
-        "rosterBioId": "11095",
-        "name": "Michael Zito",
-        "normalizedName": "michael zito",
+        "rosterBioId": "11382",
+        "name": "Oliver Minyard",
+        "normalizedName": "oliver minyard",
         "jersey": "7",
-        "profileUrl": "https://riceowls.com/sports/baseball/roster/michael-zito/11095",
-        "imageUrl": "https://riceowls.com/images/2025/9/1/7_ZITO_MICHAEL.png",
+        "profileUrl": "https://riceowls.com/sports/baseball/roster/oliver-minyard/11382",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/MINYARD_OLIVER_BSB_Fall_2026.png",
         "gamesPlayed": 1,
         "gamesStarted": 0,
         "putouts": 1,
@@ -829,7 +1046,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
           "Discipline": 33.33333333333333,
           "Speed": 3.3333333333333335
         },
-        "summary": "Michael Zito gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Oliver Minyard gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .182",
           "OBP .308",
@@ -861,10 +1078,10 @@ window.__BASEBALL_DATASETS__.rice2026 = {
             "value": "1"
           }
         ],
-        "metaLine": "JR / R-R",
+        "metaLine": "FR / R-R",
         "detailBadges": [
-          "INF",
-          "JR",
+          "C",
+          "FR",
           "R-R",
           "Hitter"
         ],
@@ -890,7 +1107,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
       "previousSchool": "Texas State",
       "hometownHighSchool": "San Marcos, Texas / San Marcos",
       "profileUrl": "https://riceowls.com/sports/baseball/roster/kuttergage-webb/11093",
-      "imageUrl": "https://riceowls.com/images/2025/9/1/8_WEBB_KG.png",
+      "imageUrl": "https://riceowls.com/images/2026/9/8/WEBB_KUTTER-GAGE_BSB_Fall_2026.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -908,7 +1125,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "normalizedName": "kutter gage webb",
         "jersey": "8",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/kutter-gage-webb/11093",
-        "imageUrl": "https://riceowls.com/images/2025/9/1/8_WEBB_KG.png",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/WEBB_KUTTER-GAGE_BSB_Fall_2026.png",
         "gamesPlayed": 58,
         "gamesStarted": 57,
         "battingAverage": 0.251,
@@ -946,7 +1163,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "normalizedName": "kutter gage webb",
         "jersey": "8",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/kutter-gage-webb/11093",
-        "imageUrl": "https://riceowls.com/images/2025/9/1/8_WEBB_KG.png",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/WEBB_KUTTER-GAGE_BSB_Fall_2026.png",
         "gamesPlayed": 54,
         "gamesStarted": 54,
         "putouts": 163,
@@ -1017,6 +1234,151 @@ window.__BASEBALL_DATASETS__.rice2026 = {
       }
     },
     {
+      "id": "rice-11383",
+      "schoolSlug": "rice",
+      "school": "Rice",
+      "schoolLongName": "Rice University",
+      "name": "Kahaku Harrison",
+      "normalizedName": "kahaku harrison",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "",
+      "classYear": "FR",
+      "handedness": "R-R",
+      "jersey": "9",
+      "hometown": "Kailua, Hawai'i",
+      "highSchool": "Punahou",
+      "previousSchool": "",
+      "hometownHighSchool": "Kailua, Hawai'i / Punahou",
+      "profileUrl": "https://riceowls.com/sports/baseball/roster/kahaku-harrison/11383",
+      "imageUrl": "https://riceowls.com/images/2026/9/8/HARRISON_KAHAKU_BSB_Fall_2026.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11383",
+      "sources": [
+        "Rice Athletics roster",
+        "Rice cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "11383",
+        "name": "Kahaku Harrison",
+        "normalizedName": "kahaku harrison",
+        "jersey": "9",
+        "profileUrl": "https://riceowls.com/sports/baseball/roster/kahaku-harrison/11383",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/HARRISON_KAHAKU_BSB_Fall_2026.png",
+        "gamesPlayed": 10,
+        "gamesStarted": 6,
+        "battingAverage": 0.167,
+        "onBasePercentage": 0.286,
+        "sluggingPercentage": 0.278,
+        "ops": 0.564,
+        "atBats": 18,
+        "runs": 1,
+        "hits": 3,
+        "doubles": 0,
+        "triples": 1,
+        "homeRuns": 0,
+        "runsBattedIn": 1,
+        "totalBases": 5,
+        "walks": 2,
+        "hitByPitch": 1,
+        "strikeouts": 9,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 0,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 0,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 0,
+        "putouts": 10,
+        "assists": 0,
+        "errors": 0,
+        "plateAppearances": 21,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "11383",
+        "name": "Kahaku Harrison",
+        "normalizedName": "kahaku harrison",
+        "jersey": "9",
+        "profileUrl": "https://riceowls.com/sports/baseball/roster/kahaku-harrison/11383",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/HARRISON_KAHAKU_BSB_Fall_2026.png",
+        "gamesPlayed": 5,
+        "gamesStarted": 4,
+        "putouts": 10,
+        "assists": 0,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 10
+      },
+      "evaluation": {
+        "score": 1,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 3.3333333333333055,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 2.469135802469133,
+          "Speed": 0
+        },
+        "summary": "Kahaku Harrison gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .167",
+          "OBP .286",
+          "SLG .278"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".167"
+          },
+          {
+            "label": "OBP",
+            "value": ".286"
+          },
+          {
+            "label": "SLG",
+            "value": ".278"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "1"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "FR / R-R",
+        "detailBadges": [
+          "INF",
+          "FR",
+          "R-R",
+          "Hitter"
+        ],
+        "sourceSummary": "Rice Athletics roster + Rice cumulative stats"
+      }
+    },
+    {
       "id": "rice-11084",
       "schoolSlug": "rice",
       "school": "Rice",
@@ -1035,7 +1397,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
       "previousSchool": "Duke",
       "hometownHighSchool": "Southlake, Texas / Southlake Carroll",
       "profileUrl": "https://riceowls.com/sports/baseball/roster/colin-robson/11084",
-      "imageUrl": "https://riceowls.com/images/2025/9/1/10_ROBSON_COLIN.png",
+      "imageUrl": "https://riceowls.com/images/2026/9/8/ROBSON_COLIN_BSB_Fall_2026.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -1053,7 +1415,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "normalizedName": "colin robson",
         "jersey": "10",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/colin-robson/11084",
-        "imageUrl": "https://riceowls.com/images/2025/9/1/10_ROBSON_COLIN.png",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/ROBSON_COLIN_BSB_Fall_2026.png",
         "gamesPlayed": 56,
         "gamesStarted": 52,
         "battingAverage": 0.301,
@@ -1091,7 +1453,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "normalizedName": "colin robson",
         "jersey": "10",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/colin-robson/11084",
-        "imageUrl": "https://riceowls.com/images/2025/9/1/10_ROBSON_COLIN.png",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/ROBSON_COLIN_BSB_Fall_2026.png",
         "gamesPlayed": 47,
         "gamesStarted": 44,
         "putouts": 100,
@@ -1262,13 +1624,13 @@ window.__BASEBALL_DATASETS__.rice2026 = {
       "positionLong": "",
       "classYear": "SR",
       "handedness": "L-L",
-      "jersey": "15",
+      "jersey": "13",
       "hometown": "Scottsdale, Arizona",
       "highSchool": "Pinnacle",
       "previousSchool": "Glendale CC",
       "hometownHighSchool": "Scottsdale, Arizona / Pinnacle",
       "profileUrl": "https://riceowls.com/sports/baseball/roster/carson-kuhn/11082",
-      "imageUrl": "https://riceowls.com/images/2025/9/1/41_KUHN_CARSON.png",
+      "imageUrl": "https://riceowls.com/images/2026/9/8/KUHN_CARSON_BSB_Fall_2026.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -1280,14 +1642,159 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "Rice Athletics roster",
         "Rice cumulative stats"
       ],
-      "hittingStats": null,
-      "pitchingStats": {
+      "hittingStats": {
         "rosterBioId": "11082",
         "name": "Carson Kuhn",
         "normalizedName": "carson kuhn",
-        "jersey": "15",
+        "jersey": "13",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/carson-kuhn/11082",
-        "imageUrl": "https://riceowls.com/images/2025/9/1/41_KUHN_CARSON.png",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/KUHN_CARSON_BSB_Fall_2026.png",
+        "gamesPlayed": 5,
+        "gamesStarted": 1,
+        "battingAverage": 0,
+        "onBasePercentage": 0.167,
+        "sluggingPercentage": 0,
+        "ops": 0.167,
+        "atBats": 5,
+        "runs": 1,
+        "hits": 0,
+        "doubles": 0,
+        "triples": 0,
+        "homeRuns": 0,
+        "runsBattedIn": 1,
+        "totalBases": 0,
+        "walks": 0,
+        "hitByPitch": 1,
+        "strikeouts": 5,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 0,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 0,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 0,
+        "putouts": 4,
+        "assists": 0,
+        "errors": 0,
+        "plateAppearances": 6,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "11082",
+        "name": "Carson Kuhn",
+        "normalizedName": "carson kuhn",
+        "jersey": "13",
+        "profileUrl": "https://riceowls.com/sports/baseball/roster/carson-kuhn/11082",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/KUHN_CARSON_BSB_Fall_2026.png",
+        "gamesPlayed": 3,
+        "gamesStarted": 1,
+        "putouts": 4,
+        "assists": 0,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 4
+      },
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Carson Kuhn looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "SR / L-L",
+        "detailBadges": [
+          "LHP",
+          "SR",
+          "L-L",
+          "Pitcher"
+        ],
+        "sourceSummary": "Rice Athletics roster + Rice cumulative stats"
+      }
+    },
+    {
+      "id": "rice-11073",
+      "schoolSlug": "rice",
+      "school": "Rice",
+      "schoolLongName": "Rice University",
+      "name": "Sullivan Brackin",
+      "normalizedName": "sullivan brackin",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "R-SR",
+      "handedness": "R-R",
+      "jersey": "15",
+      "hometown": "Jacksonville, Florida",
+      "highSchool": "The Bolles School",
+      "previousSchool": "San Jacinto",
+      "hometownHighSchool": "Jacksonville, Florida / The Bolles School",
+      "profileUrl": "https://riceowls.com/sports/baseball/roster/sullivan-brackin/11073",
+      "imageUrl": "https://riceowls.com/images/2026/9/8/BRACKIN_SULLIVAN_BSB_Fall_2026.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11073",
+      "sources": [
+        "Rice Athletics roster",
+        "Rice cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "11073",
+        "name": "Sullivan Brackin",
+        "normalizedName": "sullivan brackin",
+        "jersey": "15",
+        "profileUrl": "https://riceowls.com/sports/baseball/roster/sullivan-brackin/11073",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/BRACKIN_SULLIVAN_BSB_Fall_2026.png",
         "gamesPlayed": 12,
         "gamesStarted": 0,
         "appearances": 12,
@@ -1316,12 +1823,12 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "walksHits": 0
       },
       "fieldingStats": {
-        "rosterBioId": "11082",
-        "name": "Carson Kuhn",
-        "normalizedName": "carson kuhn",
+        "rosterBioId": "11073",
+        "name": "Sullivan Brackin",
+        "normalizedName": "sullivan brackin",
         "jersey": "15",
-        "profileUrl": "https://riceowls.com/sports/baseball/roster/carson-kuhn/11082",
-        "imageUrl": "https://riceowls.com/images/2025/9/1/41_KUHN_CARSON.png",
+        "profileUrl": "https://riceowls.com/sports/baseball/roster/sullivan-brackin/11073",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/BRACKIN_SULLIVAN_BSB_Fall_2026.png",
         "gamesPlayed": 3,
         "gamesStarted": 0,
         "putouts": 0,
@@ -1349,7 +1856,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
           "Command": 11.111111111111116,
           "Damage suppression": 0
         },
-        "summary": "Carson Kuhn looks like a LHP option who keeps traffic under control.",
+        "summary": "Sullivan Brackin looks like a RHP option who keeps traffic under control.",
         "summaryMetrics": [
           "ERA 4.60",
           "WHIP 1.21",
@@ -1381,11 +1888,11 @@ window.__BASEBALL_DATASETS__.rice2026 = {
             "value": "15.7"
           }
         ],
-        "metaLine": "SR / L-L",
+        "metaLine": "R-SR / R-R",
         "detailBadges": [
-          "LHP",
-          "SR",
-          "L-L",
+          "RHP",
+          "R-SR",
+          "R-R",
           "Pitcher"
         ],
         "sourceSummary": "Rice Athletics roster + Rice cumulative stats"
@@ -1410,7 +1917,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
       "previousSchool": "",
       "hometownHighSchool": "Houston, Texas / Episcopal",
       "profileUrl": "https://riceowls.com/sports/baseball/roster/paul-smith/11116",
-      "imageUrl": "https://riceowls.com/images/2025/9/1/16_SMITH_PAUL.png",
+      "imageUrl": "https://riceowls.com/images/2026/9/8/SMITH_PAUL_BSB_Fall_2026.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -1428,7 +1935,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "normalizedName": "paul smith",
         "jersey": "16",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/paul-smith/11116",
-        "imageUrl": "https://riceowls.com/images/2025/9/1/16_SMITH_PAUL.png",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/SMITH_PAUL_BSB_Fall_2026.png",
         "gamesPlayed": 58,
         "gamesStarted": 55,
         "battingAverage": 0.294,
@@ -1466,7 +1973,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "normalizedName": "paul smith",
         "jersey": "16",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/paul-smith/11116",
-        "imageUrl": "https://riceowls.com/images/2025/9/1/16_SMITH_PAUL.png",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/SMITH_PAUL_BSB_Fall_2026.png",
         "gamesPlayed": 3,
         "gamesStarted": 3,
         "putouts": 24,
@@ -1555,7 +2062,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
       "previousSchool": "",
       "hometownHighSchool": "Cedar Park, Texas / Vista Ridge",
       "profileUrl": "https://riceowls.com/sports/baseball/roster/ethan-sanders/11085",
-      "imageUrl": "https://riceowls.com/images/2025/9/1/17_SANDERS_ETHAN.png",
+      "imageUrl": "https://riceowls.com/images/2026/9/8/SANDERS_ETHAN_BSB_Fall_2026.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -1574,7 +2081,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "normalizedName": "ethan sanders",
         "jersey": "17",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/ethan-sanders/11085",
-        "imageUrl": "https://riceowls.com/images/2025/9/1/17_SANDERS_ETHAN.png",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/SANDERS_ETHAN_BSB_Fall_2026.png",
         "gamesPlayed": 16,
         "gamesStarted": 14,
         "appearances": 16,
@@ -1608,7 +2115,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "normalizedName": "ethan sanders",
         "jersey": "17",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/ethan-sanders/11085",
-        "imageUrl": "https://riceowls.com/images/2025/9/1/17_SANDERS_ETHAN.png",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/SANDERS_ETHAN_BSB_Fall_2026.png",
         "gamesPlayed": 9,
         "gamesStarted": 9,
         "putouts": 6,
@@ -1679,6 +2186,151 @@ window.__BASEBALL_DATASETS__.rice2026 = {
       }
     },
     {
+      "id": "rice-11123",
+      "schoolSlug": "rice",
+      "school": "Rice",
+      "schoolLongName": "Rice University",
+      "name": "Tanner Wiggins",
+      "normalizedName": "tanner wiggins",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "R-JR",
+      "handedness": "R-R",
+      "jersey": "18",
+      "hometown": "North Richland Hills, Texas",
+      "highSchool": "Temple Christian",
+      "previousSchool": "Tennessee",
+      "hometownHighSchool": "North Richland Hills, Texas / Temple Christian",
+      "profileUrl": "https://riceowls.com/sports/baseball/roster/tanner-wiggins/11123",
+      "imageUrl": "https://riceowls.com/images/2026/9/8/WIGGINS_TANNER_BSB_Fall_2026.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11123",
+      "sources": [
+        "Rice Athletics roster",
+        "Rice cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "11123",
+        "name": "Tanner Wiggins",
+        "normalizedName": "tanner wiggins",
+        "jersey": "18",
+        "profileUrl": "https://riceowls.com/sports/baseball/roster/tanner-wiggins/11123",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/WIGGINS_TANNER_BSB_Fall_2026.png",
+        "gamesPlayed": 29,
+        "gamesStarted": 16,
+        "battingAverage": 0.167,
+        "onBasePercentage": 0.292,
+        "sluggingPercentage": 0.259,
+        "ops": 0.551,
+        "atBats": 54,
+        "runs": 7,
+        "hits": 9,
+        "doubles": 3,
+        "triples": 1,
+        "homeRuns": 0,
+        "runsBattedIn": 4,
+        "totalBases": 14,
+        "walks": 10,
+        "hitByPitch": 0,
+        "strikeouts": 12,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 3,
+        "sacrificeFlies": 1,
+        "sacrificeHits": 2,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 0,
+        "putouts": 97,
+        "assists": 0,
+        "errors": 3,
+        "plateAppearances": 67,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "11123",
+        "name": "Tanner Wiggins",
+        "normalizedName": "tanner wiggins",
+        "jersey": "18",
+        "profileUrl": "https://riceowls.com/sports/baseball/roster/tanner-wiggins/11123",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/WIGGINS_TANNER_BSB_Fall_2026.png",
+        "gamesPlayed": 27,
+        "gamesStarted": 16,
+        "putouts": 97,
+        "assists": 21,
+        "errors": 3,
+        "fieldingPercentage": 0.975,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 12,
+        "caughtStealingBy": 7,
+        "stolenBasesPercentage": null,
+        "passedBalls": 4,
+        "catchersInterference": 0,
+        "totalChances": 121
+      },
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Tanner Wiggins looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "R-JR / R-R",
+        "detailBadges": [
+          "RHP",
+          "R-JR",
+          "R-R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Rice Athletics roster + Rice cumulative stats"
+      }
+    },
+    {
       "id": "rice-11101",
       "schoolSlug": "rice",
       "school": "Rice",
@@ -1697,7 +2349,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
       "previousSchool": "Texas Tech",
       "hometownHighSchool": "Taylor, Texas / Hutto",
       "profileUrl": "https://riceowls.com/sports/baseball/roster/garet-boehm/11101",
-      "imageUrl": "https://riceowls.com/images/2025/9/1/13_BOEHM_GARET.png",
+      "imageUrl": "https://riceowls.com/images/2026/9/8/BOEHM_GARET_BSB_Fall_2026.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -1715,7 +2367,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "normalizedName": "garet boehm",
         "jersey": "21",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/garet-boehm/11101",
-        "imageUrl": "https://riceowls.com/images/2025/9/1/13_BOEHM_GARET.png",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/BOEHM_GARET_BSB_Fall_2026.png",
         "gamesPlayed": 52,
         "gamesStarted": 41,
         "battingAverage": 0.266,
@@ -1753,7 +2405,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "normalizedName": "garet boehm",
         "jersey": "21",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/garet-boehm/11101",
-        "imageUrl": "https://riceowls.com/images/2025/9/1/13_BOEHM_GARET.png",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/BOEHM_GARET_BSB_Fall_2026.png",
         "gamesPlayed": 44,
         "gamesStarted": 41,
         "putouts": 320,
@@ -1824,44 +2476,44 @@ window.__BASEBALL_DATASETS__.rice2026 = {
       }
     },
     {
-      "id": "rice-11123",
+      "id": "rice-11384",
       "schoolSlug": "rice",
       "school": "Rice",
       "schoolLongName": "Rice University",
-      "name": "Tanner Wiggins",
-      "normalizedName": "tanner wiggins",
+      "name": "Caden Mitchell",
+      "normalizedName": "caden mitchell",
       "compositeRole": "Pitcher",
       "role": "Pitcher",
-      "position": "RHP",
+      "position": "C",
       "positionLong": "",
-      "classYear": "R-JR",
-      "handedness": "R-R",
+      "classYear": "RS",
+      "handedness": "L-R",
       "jersey": "23",
-      "hometown": "North Richland Hills, Texas",
-      "highSchool": "Temple Christian",
-      "previousSchool": "Tennessee",
-      "hometownHighSchool": "North Richland Hills, Texas / Temple Christian",
-      "profileUrl": "https://riceowls.com/sports/baseball/roster/tanner-wiggins/11123",
-      "imageUrl": "https://riceowls.com/images/2025/9/1/23_WIGGINS_TANNER.png",
+      "hometown": "Celina, Texas",
+      "highSchool": "Celina",
+      "previousSchool": "Weatherford College",
+      "hometownHighSchool": "Celina, Texas / Celina",
+      "profileUrl": "https://riceowls.com/sports/baseball/roster/caden-mitchell/11384",
+      "imageUrl": "https://riceowls.com/images/2026/9/8/MITCHELL_CADEN_BSB_Fall_2026.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "11123",
+      "rosterBioId": "11384",
       "sources": [
         "Rice Athletics roster",
         "Rice cumulative stats"
       ],
       "hittingStats": null,
       "pitchingStats": {
-        "rosterBioId": "11123",
-        "name": "Tanner Wiggins",
-        "normalizedName": "tanner wiggins",
+        "rosterBioId": "11384",
+        "name": "Caden Mitchell",
+        "normalizedName": "caden mitchell",
         "jersey": "23",
-        "profileUrl": "https://riceowls.com/sports/baseball/roster/tanner-wiggins/11123",
-        "imageUrl": "https://riceowls.com/images/2025/9/1/23_WIGGINS_TANNER.png",
+        "profileUrl": "https://riceowls.com/sports/baseball/roster/caden-mitchell/11384",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/MITCHELL_CADEN_BSB_Fall_2026.png",
         "gamesPlayed": 17,
         "gamesStarted": 11,
         "appearances": 17,
@@ -1890,12 +2542,12 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "walksHits": 0
       },
       "fieldingStats": {
-        "rosterBioId": "11123",
-        "name": "Tanner Wiggins",
-        "normalizedName": "tanner wiggins",
+        "rosterBioId": "11384",
+        "name": "Caden Mitchell",
+        "normalizedName": "caden mitchell",
         "jersey": "23",
-        "profileUrl": "https://riceowls.com/sports/baseball/roster/tanner-wiggins/11123",
-        "imageUrl": "https://riceowls.com/images/2025/9/1/23_WIGGINS_TANNER.png",
+        "profileUrl": "https://riceowls.com/sports/baseball/roster/caden-mitchell/11384",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/MITCHELL_CADEN_BSB_Fall_2026.png",
         "gamesPlayed": 16,
         "gamesStarted": 11,
         "putouts": 5,
@@ -1923,7 +2575,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
           "Command": 47.5,
           "Damage suppression": 0
         },
-        "summary": "Tanner Wiggins looks like a RHP option who throws enough strikes.",
+        "summary": "Caden Mitchell looks like a C option who throws enough strikes.",
         "summaryMetrics": [
           "ERA 4.10",
           "WHIP 1.40",
@@ -1955,10 +2607,155 @@ window.__BASEBALL_DATASETS__.rice2026 = {
             "value": "83.3"
           }
         ],
-        "metaLine": "R-JR / R-R",
+        "metaLine": "RS / L-R",
+        "detailBadges": [
+          "C",
+          "RS",
+          "L-R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Rice Athletics roster + Rice cumulative stats"
+      }
+    },
+    {
+      "id": "rice-11385",
+      "schoolSlug": "rice",
+      "school": "Rice",
+      "schoolLongName": "Rice University",
+      "name": "Grant Nicholson",
+      "normalizedName": "grant nicholson",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "SO",
+      "handedness": "R-R",
+      "jersey": "24",
+      "hometown": "Charlotte, North Carolina",
+      "highSchool": "Charlotte Christian",
+      "previousSchool": "Wake Forest",
+      "hometownHighSchool": "Charlotte, North Carolina / Charlotte Christian",
+      "profileUrl": "https://riceowls.com/sports/baseball/roster/grant-nicholson/11385",
+      "imageUrl": "https://riceowls.com/images/2026/9/8/NICHOLSON_GRANT_BSB_Fall_2026.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11385",
+      "sources": [
+        "Rice Athletics roster",
+        "Rice cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "11385",
+        "name": "Grant Nicholson",
+        "normalizedName": "grant nicholson",
+        "jersey": "24",
+        "profileUrl": "https://riceowls.com/sports/baseball/roster/grant-nicholson/11385",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/NICHOLSON_GRANT_BSB_Fall_2026.png",
+        "gamesPlayed": 32,
+        "gamesStarted": 16,
+        "battingAverage": 0.23,
+        "onBasePercentage": 0.294,
+        "sluggingPercentage": 0.246,
+        "ops": 0.54,
+        "atBats": 61,
+        "runs": 5,
+        "hits": 14,
+        "doubles": 1,
+        "triples": 0,
+        "homeRuns": 0,
+        "runsBattedIn": 5,
+        "totalBases": 15,
+        "walks": 2,
+        "hitByPitch": 4,
+        "strikeouts": 15,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 1,
+        "sacrificeFlies": 1,
+        "sacrificeHits": 1,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 0,
+        "putouts": 37,
+        "assists": 0,
+        "errors": 0,
+        "plateAppearances": 69,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "11385",
+        "name": "Grant Nicholson",
+        "normalizedName": "grant nicholson",
+        "jersey": "24",
+        "profileUrl": "https://riceowls.com/sports/baseball/roster/grant-nicholson/11385",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/NICHOLSON_GRANT_BSB_Fall_2026.png",
+        "gamesPlayed": 19,
+        "gamesStarted": 14,
+        "putouts": 37,
+        "assists": 2,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 39
+      },
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Grant Nicholson looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "SO / R-R",
         "detailBadges": [
           "RHP",
-          "R-JR",
+          "SO",
           "R-R",
           "Pitcher"
         ],
@@ -1984,7 +2781,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
       "previousSchool": "",
       "hometownHighSchool": "College Station, Texas / College Station",
       "profileUrl": "https://riceowls.com/sports/baseball/roster/ryland-urbanczyk/11091",
-      "imageUrl": "https://riceowls.com/images/2025/9/1/25_URBANCZYK_RYLAND.png",
+      "imageUrl": "https://riceowls.com/images/2026/9/8/URBANCZYK_RYLAND_BSB_Fall_2026.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -2003,7 +2800,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "normalizedName": "ryland urbanczyk",
         "jersey": "25",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/ryland-urbanczyk/11091",
-        "imageUrl": "https://riceowls.com/images/2025/9/1/25_URBANCZYK_RYLAND.png",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/URBANCZYK_RYLAND_BSB_Fall_2026.png",
         "gamesPlayed": 15,
         "gamesStarted": 15,
         "appearances": 15,
@@ -2037,7 +2834,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "normalizedName": "ryland urbanczyk",
         "jersey": "25",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/ryland-urbanczyk/11091",
-        "imageUrl": "https://riceowls.com/images/2025/9/1/25_URBANCZYK_RYLAND.png",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/URBANCZYK_RYLAND_BSB_Fall_2026.png",
         "gamesPlayed": 6,
         "gamesStarted": 6,
         "putouts": 1,
@@ -2126,7 +2923,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
       "previousSchool": "",
       "hometownHighSchool": "Heath, Texas / Rockwall",
       "profileUrl": "https://riceowls.com/sports/baseball/roster/ethan-atchley/11068",
-      "imageUrl": "https://riceowls.com/images/2025/9/1/26_ATCHLEY_ETHAN_BSB_20250827_RICE_ATHLETICS_HEADSHOT_MLA_5702.JPG",
+      "imageUrl": "https://riceowls.com/images/2026/9/8/ATCHLEY_ETHAN_BSB_Fall_2026.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -2145,7 +2942,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "normalizedName": "ethan atchley",
         "jersey": "26",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/ethan-atchley/11068",
-        "imageUrl": "https://riceowls.com/images/2025/9/1/26_ATCHLEY_ETHAN_BSB_20250827_RICE_ATHLETICS_HEADSHOT_MLA_5702.JPG",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/ATCHLEY_ETHAN_BSB_Fall_2026.png",
         "gamesPlayed": 24,
         "gamesStarted": 0,
         "appearances": 24,
@@ -2179,7 +2976,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "normalizedName": "ethan atchley",
         "jersey": "26",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/ethan-atchley/11068",
-        "imageUrl": "https://riceowls.com/images/2025/9/1/26_ATCHLEY_ETHAN_BSB_20250827_RICE_ATHLETICS_HEADSHOT_MLA_5702.JPG",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/ATCHLEY_ETHAN_BSB_Fall_2026.png",
         "gamesPlayed": 7,
         "gamesStarted": 0,
         "putouts": 4,
@@ -2250,6 +3047,151 @@ window.__BASEBALL_DATASETS__.rice2026 = {
       }
     },
     {
+      "id": "rice-11121",
+      "schoolSlug": "rice",
+      "school": "Rice",
+      "schoolLongName": "Rice University",
+      "name": "Logan Voelz",
+      "normalizedName": "logan voelz",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "R-R",
+      "jersey": "27",
+      "hometown": "Wesley Chapel, Florida",
+      "highSchool": "Wiregrass Ranch",
+      "previousSchool": "FIU",
+      "hometownHighSchool": "Wesley Chapel, Florida / Wiregrass Ranch",
+      "profileUrl": "https://riceowls.com/sports/baseball/roster/logan-voelz/11121",
+      "imageUrl": "https://riceowls.com/images/2026/9/8/VOELZ_LOGAN_BSB_Fall_2026.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11121",
+      "sources": [
+        "Rice Athletics roster",
+        "Rice cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "11121",
+        "name": "Logan Voelz",
+        "normalizedName": "logan voelz",
+        "jersey": "27",
+        "profileUrl": "https://riceowls.com/sports/baseball/roster/logan-voelz/11121",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/VOELZ_LOGAN_BSB_Fall_2026.png",
+        "gamesPlayed": 34,
+        "gamesStarted": 23,
+        "battingAverage": 0.179,
+        "onBasePercentage": 0.26,
+        "sluggingPercentage": 0.25,
+        "ops": 0.51,
+        "atBats": 84,
+        "runs": 8,
+        "hits": 15,
+        "doubles": 3,
+        "triples": 0,
+        "homeRuns": 1,
+        "runsBattedIn": 14,
+        "totalBases": 21,
+        "walks": 9,
+        "hitByPitch": 1,
+        "strikeouts": 24,
+        "intentionalWalks": 1,
+        "groundedIntoDoublePlay": 2,
+        "sacrificeFlies": 2,
+        "sacrificeHits": 0,
+        "stolenBases": 1,
+        "stolenBasesAttempts": 1,
+        "putouts": 46,
+        "assists": 0,
+        "errors": 0,
+        "plateAppearances": 97,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "11121",
+        "name": "Logan Voelz",
+        "normalizedName": "logan voelz",
+        "jersey": "27",
+        "profileUrl": "https://riceowls.com/sports/baseball/roster/logan-voelz/11121",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/VOELZ_LOGAN_BSB_Fall_2026.png",
+        "gamesPlayed": 20,
+        "gamesStarted": 20,
+        "putouts": 46,
+        "assists": 0,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 46
+      },
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Logan Voelz looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "JR / R-R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "R-R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Rice Athletics roster + Rice cumulative stats"
+      }
+    },
+    {
       "id": "rice-11372",
       "schoolSlug": "rice",
       "school": "Rice",
@@ -2261,14 +3203,14 @@ window.__BASEBALL_DATASETS__.rice2026 = {
       "position": "C/1B",
       "positionLong": "",
       "classYear": "SR",
-      "handedness": "N/A",
+      "handedness": "R-R",
       "jersey": "28",
       "hometown": "Katy, Texas",
       "highSchool": "Tompkins",
       "previousSchool": "",
       "hometownHighSchool": "Katy, Texas / Tompkins",
       "profileUrl": "https://riceowls.com/sports/baseball/roster/landon-west/11372",
-      "imageUrl": "https://riceowls.com/images/2023/9/23/BSB_WEST_LANDON_28_20230906_RICE_ATHLETIC_HEADSHOTS_MLB_0833.jpg",
+      "imageUrl": "https://riceowls.com/images/2026/9/8/WEST_LANDON_BSB_Fall_2026.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -2286,7 +3228,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "normalizedName": "landon west",
         "jersey": "28",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/landon-west/11372",
-        "imageUrl": "https://riceowls.com/images/2023/9/23/BSB_WEST_LANDON_28_20230906_RICE_ATHLETIC_HEADSHOTS_MLB_0833.jpg",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/WEST_LANDON_BSB_Fall_2026.png",
         "gamesPlayed": 28,
         "gamesStarted": 7,
         "battingAverage": 0.143,
@@ -2324,7 +3266,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "normalizedName": "landon west",
         "jersey": "28",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/landon-west/11372",
-        "imageUrl": "https://riceowls.com/images/2023/9/23/BSB_WEST_LANDON_28_20230906_RICE_ATHLETIC_HEADSHOTS_MLB_0833.jpg",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/WEST_LANDON_BSB_Fall_2026.png",
         "gamesPlayed": 17,
         "gamesStarted": 5,
         "putouts": 51,
@@ -2384,93 +3326,215 @@ window.__BASEBALL_DATASETS__.rice2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "SR / N/A",
+        "metaLine": "SR / R-R",
         "detailBadges": [
           "C/1B",
           "SR",
-          "N/A",
+          "R-R",
           "Hitter"
         ],
         "sourceSummary": "Rice Athletics roster + Rice cumulative stats"
       }
     },
     {
-      "id": "rice-11121",
+      "id": "rice-11386",
       "schoolSlug": "rice",
       "school": "Rice",
       "schoolLongName": "Rice University",
-      "name": "Logan Voelz",
-      "normalizedName": "logan voelz",
+      "name": "Brandon Creek",
+      "normalizedName": "brandon creek",
       "compositeRole": "Pitcher",
       "role": "Pitcher",
-      "position": "RHP",
+      "position": "INF",
       "positionLong": "",
-      "classYear": "JR",
+      "classYear": "SO",
       "handedness": "R-R",
-      "jersey": "29",
-      "hometown": "Wesley Chapel, Florida",
-      "highSchool": "Wiregrass Ranch",
-      "previousSchool": "FIU",
-      "hometownHighSchool": "Wesley Chapel, Florida / Wiregrass Ranch",
-      "profileUrl": "https://riceowls.com/sports/baseball/roster/logan-voelz/11121",
-      "imageUrl": "https://riceowls.com/images/2025/9/1/29_VOELZ_LOGAN.png",
+      "jersey": "30",
+      "hometown": "Liberty Hill, Texas",
+      "highSchool": "Liberty Hill",
+      "previousSchool": "Grayson JC",
+      "hometownHighSchool": "Liberty Hill, Texas / Liberty Hill",
+      "profileUrl": "https://riceowls.com/sports/baseball/roster/brandon-creek/11386",
+      "imageUrl": "https://riceowls.com/images/2026/9/8/CREEK_BRANDON_BSB_Fall_2026.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "11121",
+      "rosterBioId": "11386",
       "sources": [
         "Rice Athletics roster",
         "Rice cumulative stats"
       ],
       "hittingStats": null,
       "pitchingStats": {
-        "rosterBioId": "11121",
-        "name": "Logan Voelz",
-        "normalizedName": "logan voelz",
-        "jersey": "29",
-        "profileUrl": "https://riceowls.com/sports/baseball/roster/logan-voelz/11121",
-        "imageUrl": "https://riceowls.com/images/2025/9/1/29_VOELZ_LOGAN.png",
-        "gamesPlayed": 6,
+        "rosterBioId": "11386",
+        "name": "Brandon Creek",
+        "normalizedName": "brandon creek",
+        "jersey": "30",
+        "profileUrl": "https://riceowls.com/sports/baseball/roster/brandon-creek/11386",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/CREEK_BRANDON_BSB_Fall_2026.png",
+        "gamesPlayed": 5,
         "gamesStarted": 0,
-        "appearances": 6,
+        "appearances": 5,
         "gamesCompleted": 0,
-        "earnedRunAverage": 4.26,
-        "whip": 1.26,
+        "earnedRunAverage": 6,
+        "whip": 2,
         "wins": 0,
         "losses": 0,
         "saves": 0,
         "shutouts": 0,
-        "inningsPitched": 6.333333333333333,
-        "inningsPitchedDisplay": "6.1",
+        "inningsPitched": 3,
+        "inningsPitchedDisplay": "3.0",
         "hitsAllowed": 3,
         "runsAllowed": 3,
-        "earnedRunsAllowed": 3,
-        "walksAllowed": 5,
-        "strikeouts": 5,
-        "doublesAllowed": 1,
+        "earnedRunsAllowed": 2,
+        "walksAllowed": 3,
+        "strikeouts": 6,
+        "doublesAllowed": 0,
         "triplesAllowed": 0,
-        "homeRunsAllowed": 1,
-        "opponentsAtBats": 22,
+        "homeRunsAllowed": 0,
+        "opponentsAtBats": 12,
         "wildPitches": 1,
-        "hitBatters": 2,
+        "hitBatters": 3,
+        "balks": 1,
+        "opponentsBattingAverage": 0.25,
+        "walksHits": 0
+      },
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 23,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 100,
+          "Command": 20,
+          "Damage suppression": 0
+        },
+        "summary": "Brandon Creek looks like a INF option who misses bats.",
+        "summaryMetrics": [
+          "ERA 6.00",
+          "WHIP 2.00",
+          "K/9 18.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "6.00"
+          },
+          {
+            "label": "WHIP",
+            "value": "2.00"
+          },
+          {
+            "label": "K/9",
+            "value": "18.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "9.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "3.0"
+          }
+        ],
+        "metaLine": "SO / R-R",
+        "detailBadges": [
+          "INF",
+          "SO",
+          "R-R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Rice Athletics roster + Rice cumulative stats"
+      }
+    },
+    {
+      "id": "rice-11387",
+      "schoolSlug": "rice",
+      "school": "Rice",
+      "schoolLongName": "Rice University",
+      "name": "Rivers Kurland",
+      "normalizedName": "rivers kurland",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "",
+      "classYear": "R-FR",
+      "handedness": "L-L",
+      "jersey": "31",
+      "hometown": "Tampa, Florida",
+      "highSchool": "Berkely Prep",
+      "previousSchool": "Florida",
+      "hometownHighSchool": "Tampa, Florida / Berkely Prep",
+      "profileUrl": "https://riceowls.com/sports/baseball/roster/rivers-kurland/11387",
+      "imageUrl": "https://riceowls.com/images/2026/9/8/KURLAND_RIVERS_BSB_Fall_2026.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11387",
+      "sources": [
+        "Rice Athletics roster",
+        "Rice cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "11387",
+        "name": "Rivers Kurland",
+        "normalizedName": "rivers kurland",
+        "jersey": "31",
+        "profileUrl": "https://riceowls.com/sports/baseball/roster/rivers-kurland/11387",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/KURLAND_RIVERS_BSB_Fall_2026.png",
+        "gamesPlayed": 11,
+        "gamesStarted": 0,
+        "appearances": 11,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 5.71,
+        "whip": 1.5,
+        "wins": 1,
+        "losses": 0,
+        "saves": 1,
+        "shutouts": 0,
+        "inningsPitched": 17.333333333333332,
+        "inningsPitchedDisplay": "17.1",
+        "hitsAllowed": 15,
+        "runsAllowed": 11,
+        "earnedRunsAllowed": 11,
+        "walksAllowed": 11,
+        "strikeouts": 16,
+        "doublesAllowed": 2,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 2,
+        "opponentsAtBats": 61,
+        "wildPitches": 2,
+        "hitBatters": 5,
         "balks": 0,
-        "opponentsBattingAverage": 0.136,
+        "opponentsBattingAverage": 0.246,
         "walksHits": 0
       },
       "fieldingStats": {
-        "rosterBioId": "11121",
-        "name": "Logan Voelz",
-        "normalizedName": "logan voelz",
-        "jersey": "29",
-        "profileUrl": "https://riceowls.com/sports/baseball/roster/logan-voelz/11121",
-        "imageUrl": "https://riceowls.com/images/2025/9/1/29_VOELZ_LOGAN.png",
-        "gamesPlayed": 1,
+        "rosterBioId": "11387",
+        "name": "Rivers Kurland",
+        "normalizedName": "rivers kurland",
+        "jersey": "31",
+        "profileUrl": "https://riceowls.com/sports/baseball/roster/rivers-kurland/11387",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/KURLAND_RIVERS_BSB_Fall_2026.png",
+        "gamesPlayed": 2,
         "gamesStarted": 0,
         "putouts": 1,
-        "assists": 0,
+        "assists": 2,
         "errors": 0,
         "fieldingPercentage": 1,
         "doublePlays": 0,
@@ -2479,10 +3543,10 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "stolenBasesPercentage": null,
         "passedBalls": 0,
         "catchersInterference": 0,
-        "totalChances": 1
+        "totalChances": 3
       },
       "evaluation": {
-        "score": 6,
+        "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2490,47 +3554,47 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 28.229665071770338,
-          "Command": 0,
+          "Miss bats": 39.16083916083917,
+          "Command": 9.090909090909092,
           "Damage suppression": 0
         },
-        "summary": "Logan Voelz gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Rivers Kurland gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.26",
-          "WHIP 1.26",
-          "K/9 7.1"
+          "ERA 5.71",
+          "WHIP 1.50",
+          "K/9 8.3"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.26"
+            "value": "5.71"
           },
           {
             "label": "WHIP",
-            "value": "1.26"
+            "value": "1.50"
           },
           {
             "label": "K/9",
-            "value": "7.1"
+            "value": "8.3"
           },
           {
             "label": "BB/9",
-            "value": "7.1"
+            "value": "5.7"
           },
           {
             "label": "HR/9",
-            "value": "1.42"
+            "value": "1.04"
           },
           {
             "label": "IP",
-            "value": "6.3"
+            "value": "17.3"
           }
         ],
-        "metaLine": "JR / R-R",
+        "metaLine": "R-FR / L-L",
         "detailBadges": [
-          "RHP",
-          "JR",
-          "R-R",
+          "LHP",
+          "R-FR",
+          "L-L",
           "Pitcher"
         ],
         "sourceSummary": "Rice Athletics roster + Rice cumulative stats"
@@ -2555,7 +3619,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
       "previousSchool": "",
       "hometownHighSchool": "Wimberley, Texas / Wimberley",
       "profileUrl": "https://riceowls.com/sports/baseball/roster/ty-thames/11118",
-      "imageUrl": "https://riceowls.com/images/2025/9/1/32_THAMES_TY.png",
+      "imageUrl": "https://riceowls.com/images/2026/9/8/THAMES_TY_BSB_Fall_2026.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -2574,7 +3638,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "normalizedName": "ty thames",
         "jersey": "32",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/ty-thames/11118",
-        "imageUrl": "https://riceowls.com/images/2025/9/1/32_THAMES_TY.png",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/THAMES_TY_BSB_Fall_2026.png",
         "gamesPlayed": 20,
         "gamesStarted": 0,
         "appearances": 20,
@@ -2608,7 +3672,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "normalizedName": "ty thames",
         "jersey": "32",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/ty-thames/11118",
-        "imageUrl": "https://riceowls.com/images/2025/9/1/32_THAMES_TY.png",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/THAMES_TY_BSB_Fall_2026.png",
         "gamesPlayed": 4,
         "gamesStarted": 0,
         "putouts": 0,
@@ -2679,6 +3743,128 @@ window.__BASEBALL_DATASETS__.rice2026 = {
       }
     },
     {
+      "id": "rice-11388",
+      "schoolSlug": "rice",
+      "school": "Rice",
+      "schoolLongName": "Rice University",
+      "name": "Zachary Gingrich",
+      "normalizedName": "zachary gingrich",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "OF",
+      "positionLong": "",
+      "classYear": "SO",
+      "handedness": "L-R",
+      "jersey": "33",
+      "hometown": "San Antonio, Texas",
+      "highSchool": "Smithson Valley",
+      "previousSchool": "Texas State",
+      "hometownHighSchool": "San Antonio, Texas / Smithson Valley",
+      "profileUrl": "https://riceowls.com/sports/baseball/roster/zachary-gingrich/11388",
+      "imageUrl": "https://riceowls.com/images/2026/9/8/GINGRICH_ZACHARY_BSB_Fall_2026.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11388",
+      "sources": [
+        "Rice Athletics roster",
+        "Rice cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "11388",
+        "name": "Zachary Gingrich",
+        "normalizedName": "zachary gingrich",
+        "jersey": "33",
+        "profileUrl": "https://riceowls.com/sports/baseball/roster/zachary-gingrich/11388",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/GINGRICH_ZACHARY_BSB_Fall_2026.png",
+        "gamesPlayed": 1,
+        "gamesStarted": 0,
+        "appearances": 1,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 0,
+        "whip": 1.5,
+        "wins": 0,
+        "losses": 0,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 2,
+        "inningsPitchedDisplay": "2.0",
+        "hitsAllowed": 1,
+        "runsAllowed": 0,
+        "earnedRunsAllowed": 0,
+        "walksAllowed": 2,
+        "strikeouts": 3,
+        "doublesAllowed": 0,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 0,
+        "opponentsAtBats": 7,
+        "wildPitches": 0,
+        "hitBatters": 1,
+        "balks": 0,
+        "opponentsBattingAverage": 0.143,
+        "walksHits": 0
+      },
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 19,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 86.36363636363636,
+          "Command": 10,
+          "Damage suppression": 0
+        },
+        "summary": "Zachary Gingrich looks like a OF option who limits runs and misses bats.",
+        "summaryMetrics": [
+          "ERA 0.00",
+          "WHIP 1.50",
+          "K/9 13.5"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "0.00"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.50"
+          },
+          {
+            "label": "K/9",
+            "value": "13.5"
+          },
+          {
+            "label": "BB/9",
+            "value": "9.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "2.0"
+          }
+        ],
+        "metaLine": "SO / L-R",
+        "detailBadges": [
+          "OF",
+          "SO",
+          "L-R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Rice Athletics roster + Rice cumulative stats"
+      }
+    },
+    {
       "id": "rice-11107",
       "schoolSlug": "rice",
       "school": "Rice",
@@ -2697,7 +3883,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
       "previousSchool": "San Jacinto",
       "hometownHighSchool": "Katy, Texas / Paetow",
       "profileUrl": "https://riceowls.com/sports/baseball/roster/anthony-diaz/11107",
-      "imageUrl": "https://riceowls.com/images/2025/9/1/34_DIAZ_ANTHONY.png",
+      "imageUrl": "https://riceowls.com/images/2026/9/8/DIAZ_ANTHONY_BSB_Fall_2026.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -2716,7 +3902,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "normalizedName": "anthony diaz",
         "jersey": "34",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/anthony-diaz/11107",
-        "imageUrl": "https://riceowls.com/images/2025/9/1/34_DIAZ_ANTHONY.png",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/DIAZ_ANTHONY_BSB_Fall_2026.png",
         "gamesPlayed": 15,
         "gamesStarted": 2,
         "appearances": 15,
@@ -2750,7 +3936,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "normalizedName": "anthony diaz",
         "jersey": "34",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/anthony-diaz/11107",
-        "imageUrl": "https://riceowls.com/images/2025/9/1/34_DIAZ_ANTHONY.png",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/DIAZ_ANTHONY_BSB_Fall_2026.png",
         "gamesPlayed": 2,
         "gamesStarted": 0,
         "putouts": 0,
@@ -2839,7 +4025,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
       "previousSchool": "Tennessee",
       "hometownHighSchool": "The Woodlands, Texas / The Woodlands",
       "profileUrl": "https://riceowls.com/sports/baseball/roster/brayden-sharp/11115",
-      "imageUrl": "https://riceowls.com/images/2025/9/1/35_SHARP_BRAYDEN.png",
+      "imageUrl": "https://riceowls.com/images/2026/9/8/SHARP_BRAYDEN_BSB_Fall_2026.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -2858,7 +4044,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "normalizedName": "brayden sharp",
         "jersey": "35",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/brayden-sharp/11115",
-        "imageUrl": "https://riceowls.com/images/2025/9/1/35_SHARP_BRAYDEN.png",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/SHARP_BRAYDEN_BSB_Fall_2026.png",
         "gamesPlayed": 19,
         "gamesStarted": 4,
         "appearances": 19,
@@ -2892,7 +4078,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "normalizedName": "brayden sharp",
         "jersey": "35",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/brayden-sharp/11115",
-        "imageUrl": "https://riceowls.com/images/2025/9/1/35_SHARP_BRAYDEN.png",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/SHARP_BRAYDEN_BSB_Fall_2026.png",
         "gamesPlayed": 8,
         "gamesStarted": 3,
         "putouts": 3,
@@ -2963,32 +4149,32 @@ window.__BASEBALL_DATASETS__.rice2026 = {
       }
     },
     {
-      "id": "rice-11073",
+      "id": "rice-11088",
       "schoolSlug": "rice",
       "school": "Rice",
       "schoolLongName": "Rice University",
-      "name": "Sullivan Brackin",
-      "normalizedName": "sullivan brackin",
+      "name": "Preston Sullivan",
+      "normalizedName": "preston sullivan",
       "compositeRole": "Pitcher",
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
-      "classYear": "R-SR",
+      "classYear": "SO",
       "handedness": "R-R",
       "jersey": "36",
-      "hometown": "Jacksonville, Florida",
-      "highSchool": "The Bolles School",
-      "previousSchool": "San Jacinto",
-      "hometownHighSchool": "Jacksonville, Florida / The Bolles School",
-      "profileUrl": "https://riceowls.com/sports/baseball/roster/sullivan-brackin/11073",
-      "imageUrl": "https://riceowls.com/images/2025/9/1/36_BRACKIN_SULLIVAN.png",
+      "hometown": "Houston, Texas",
+      "highSchool": "Episcopal",
+      "previousSchool": "Houston",
+      "hometownHighSchool": "Houston, Texas / Episcopal",
+      "profileUrl": "https://riceowls.com/sports/baseball/roster/preston-sullivan/11088",
+      "imageUrl": "https://riceowls.com/images/2026/9/8/SULLIVAN_PRESTON_BSB_Fall_2026.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "11073",
+      "rosterBioId": "11088",
       "sources": [
         "Rice Athletics roster"
       ],
@@ -3008,7 +4194,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Sullivan Brackin looks like a RHP option who throws enough strikes.",
+        "summary": "Preston Sullivan looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -3040,12 +4226,330 @@ window.__BASEBALL_DATASETS__.rice2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "R-SR / R-R",
+        "metaLine": "SO / R-R",
         "detailBadges": [
           "RHP",
-          "R-SR",
+          "SO",
           "R-R",
           "Pitcher"
+        ],
+        "sourceSummary": "Rice Athletics roster"
+      }
+    },
+    {
+      "id": "rice-11397",
+      "schoolSlug": "rice",
+      "school": "Rice",
+      "schoolLongName": "Rice University",
+      "name": "Ethan Rivers",
+      "normalizedName": "ethan rivers",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "FR",
+      "handedness": "R-R",
+      "jersey": "38",
+      "hometown": "The Woodlands, Texas",
+      "highSchool": "Concordia Lutheran",
+      "previousSchool": "",
+      "hometownHighSchool": "The Woodlands, Texas / Concordia Lutheran",
+      "profileUrl": "https://riceowls.com/sports/baseball/roster/ethan-rivers/11397",
+      "imageUrl": "https://riceowls.com/images/2026/9/8/RIVERS_ETHAN_BSB_Fall_2026.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11397",
+      "sources": [
+        "Rice Athletics roster",
+        "Rice cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "11397",
+        "name": "Ethan Rivers",
+        "normalizedName": "ethan rivers",
+        "jersey": "38",
+        "profileUrl": "https://riceowls.com/sports/baseball/roster/ethan-rivers/11397",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/RIVERS_ETHAN_BSB_Fall_2026.png",
+        "gamesPlayed": 5,
+        "gamesStarted": 0,
+        "appearances": 5,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 8.31,
+        "whip": 2.31,
+        "wins": 1,
+        "losses": 0,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 4.333333333333333,
+        "inningsPitchedDisplay": "4.1",
+        "hitsAllowed": 3,
+        "runsAllowed": 4,
+        "earnedRunsAllowed": 4,
+        "walksAllowed": 7,
+        "strikeouts": 3,
+        "doublesAllowed": 0,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 0,
+        "opponentsAtBats": 16,
+        "wildPitches": 1,
+        "hitBatters": 1,
+        "balks": 0,
+        "opponentsBattingAverage": 0.188,
+        "walksHits": 0
+      },
+      "fieldingStats": {
+        "rosterBioId": "11397",
+        "name": "Ethan Rivers",
+        "normalizedName": "ethan rivers",
+        "jersey": "38",
+        "profileUrl": "https://riceowls.com/sports/baseball/roster/ethan-rivers/11397",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/RIVERS_ETHAN_BSB_Fall_2026.png",
+        "gamesPlayed": 1,
+        "gamesStarted": 0,
+        "putouts": 0,
+        "assists": 0,
+        "errors": 0,
+        "fieldingPercentage": 0,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 1,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 0
+      },
+      "evaluation": {
+        "score": 4,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 20.27972027972028,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Ethan Rivers gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 8.31",
+          "WHIP 2.31",
+          "K/9 6.2"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "8.31"
+          },
+          {
+            "label": "WHIP",
+            "value": "2.31"
+          },
+          {
+            "label": "K/9",
+            "value": "6.2"
+          },
+          {
+            "label": "BB/9",
+            "value": "14.5"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "4.3"
+          }
+        ],
+        "metaLine": "FR / R-R",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "R-R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Rice Athletics roster + Rice cumulative stats"
+      }
+    },
+    {
+      "id": "rice-11389",
+      "schoolSlug": "rice",
+      "school": "Rice",
+      "schoolLongName": "Rice University",
+      "name": "Parker Mitzel",
+      "normalizedName": "parker mitzel",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP/OF",
+      "positionLong": "",
+      "classYear": "FR",
+      "handedness": "R-R",
+      "jersey": "39",
+      "hometown": "Tampa, Florida",
+      "highSchool": "Berkely Prep",
+      "previousSchool": "",
+      "hometownHighSchool": "Tampa, Florida / Berkely Prep",
+      "profileUrl": "https://riceowls.com/sports/baseball/roster/parker-mitzel/11389",
+      "imageUrl": "https://riceowls.com/images/2026/9/8/MITZEL_PARKER_BSB_Fall_2026.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11389",
+      "sources": [
+        "Rice Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Parker Mitzel looks like a RHP/OF option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FR / R-R",
+        "detailBadges": [
+          "RHP/OF",
+          "FR",
+          "R-R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Rice Athletics roster"
+      }
+    },
+    {
+      "id": "rice-11390",
+      "schoolSlug": "rice",
+      "school": "Rice",
+      "schoolLongName": "Rice University",
+      "name": "Brady Ladusau",
+      "normalizedName": "brady ladusau",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "",
+      "classYear": "SO",
+      "handedness": "R-R",
+      "jersey": "40",
+      "hometown": "Rockwall, Texas",
+      "highSchool": "Heath",
+      "previousSchool": "Abilene Christian",
+      "hometownHighSchool": "Rockwall, Texas / Heath",
+      "profileUrl": "https://riceowls.com/sports/baseball/roster/brady-ladusau/11390",
+      "imageUrl": "https://riceowls.com/images/2026/9/8/LANDUSAU_BRADY_BSB_Fall_2026.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11390",
+      "sources": [
+        "Rice Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Brady Ladusau gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "SO / R-R",
+        "detailBadges": [
+          "OF",
+          "SO",
+          "R-R",
+          "Rostered"
         ],
         "sourceSummary": "Rice Athletics roster"
       }
@@ -3069,7 +4573,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
       "previousSchool": "Wichita State",
       "hometownHighSchool": "Waco, Texas / Midway",
       "profileUrl": "https://riceowls.com/sports/baseball/roster/jeremiah-arnett/11067",
-      "imageUrl": "https://riceowls.com/images/2025/9/19/42_ARNETT_JEREMIAH.png",
+      "imageUrl": "https://riceowls.com/images/2026/9/8/ARNETT_JEREMIAH_BSB_Fall_2026.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -3088,7 +4592,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "normalizedName": "jeremiah arnett",
         "jersey": "41",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/jeremiah-arnett/11067",
-        "imageUrl": "https://riceowls.com/images/2025/9/19/42_ARNETT_JEREMIAH.png",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/ARNETT_JEREMIAH_BSB_Fall_2026.png",
         "gamesPlayed": 10,
         "gamesStarted": 6,
         "appearances": 10,
@@ -3122,7 +4626,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "normalizedName": "jeremiah arnett",
         "jersey": "41",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/jeremiah-arnett/11067",
-        "imageUrl": "https://riceowls.com/images/2025/9/19/42_ARNETT_JEREMIAH.png",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/ARNETT_JEREMIAH_BSB_Fall_2026.png",
         "gamesPlayed": 4,
         "gamesStarted": 4,
         "putouts": 0,
@@ -3193,6 +4697,182 @@ window.__BASEBALL_DATASETS__.rice2026 = {
       }
     },
     {
+      "id": "rice-11391",
+      "schoolSlug": "rice",
+      "school": "Rice",
+      "schoolLongName": "Rice University",
+      "name": "David Wilson",
+      "normalizedName": "david wilson",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "L-L",
+      "jersey": "42",
+      "hometown": "Bullard, Texas",
+      "highSchool": "Buillard",
+      "previousSchool": "Angelina JC",
+      "hometownHighSchool": "Bullard, Texas / Buillard",
+      "profileUrl": "https://riceowls.com/sports/baseball/roster/david-wilson/11391",
+      "imageUrl": "https://riceowls.com/images/2026/9/8/WILSON_DAVID_BSB_Fall_2026.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11391",
+      "sources": [
+        "Rice Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "David Wilson looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "JR / L-L",
+        "detailBadges": [
+          "LHP",
+          "JR",
+          "L-L",
+          "Pitcher"
+        ],
+        "sourceSummary": "Rice Athletics roster"
+      }
+    },
+    {
+      "id": "rice-11392",
+      "schoolSlug": "rice",
+      "school": "Rice",
+      "schoolLongName": "Rice University",
+      "name": "Isaac Robles",
+      "normalizedName": "isaac robles",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP/INF",
+      "positionLong": "",
+      "classYear": "FR",
+      "handedness": "R-R",
+      "jersey": "43",
+      "hometown": "Cypress, Texas",
+      "highSchool": "Cy-Fair",
+      "previousSchool": "",
+      "hometownHighSchool": "Cypress, Texas / Cy-Fair",
+      "profileUrl": "https://riceowls.com/sports/baseball/roster/isaac-robles/11392",
+      "imageUrl": "https://riceowls.com/images/2026/9/8/ROBLES_ISAAC_BSB_Fall_2026.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11392",
+      "sources": [
+        "Rice Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Isaac Robles looks like a RHP/INF option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FR / R-R",
+        "detailBadges": [
+          "RHP/INF",
+          "FR",
+          "R-R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Rice Athletics roster"
+      }
+    },
+    {
       "id": "rice-11071",
       "schoolSlug": "rice",
       "school": "Rice",
@@ -3211,7 +4891,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
       "previousSchool": "",
       "hometownHighSchool": "Bayamón, Puerto Rico / Puerto Rico Baseball Academy",
       "profileUrl": "https://riceowls.com/sports/baseball/roster/hiram-bocachica-jr/11071",
-      "imageUrl": "https://riceowls.com/images/2025/9/1/48_BOCACHICA_HIRAM_III.png",
+      "imageUrl": "https://riceowls.com/images/2026/9/8/BOCACHICA_HIRAM_BSB_Fall_2026.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -3229,7 +4909,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "normalizedName": "hiram bocachica",
         "jersey": "44",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/hiram-bocachica-jr/11071",
-        "imageUrl": "https://riceowls.com/images/2025/9/1/48_BOCACHICA_HIRAM_III.png",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/BOCACHICA_HIRAM_BSB_Fall_2026.png",
         "gamesPlayed": 44,
         "gamesStarted": 36,
         "battingAverage": 0.213,
@@ -3267,7 +4947,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "normalizedName": "hiram bocachica",
         "jersey": "44",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/hiram-bocachica-jr/11071",
-        "imageUrl": "https://riceowls.com/images/2025/9/1/48_BOCACHICA_HIRAM_III.png",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/BOCACHICA_HIRAM_BSB_Fall_2026.png",
         "gamesPlayed": 38,
         "gamesStarted": 35,
         "putouts": 56,
@@ -3338,32 +5018,32 @@ window.__BASEBALL_DATASETS__.rice2026 = {
       }
     },
     {
-      "id": "rice-11088",
+      "id": "rice-11394",
       "schoolSlug": "rice",
       "school": "Rice",
       "schoolLongName": "Rice University",
-      "name": "Preston Sullivan",
-      "normalizedName": "preston sullivan",
+      "name": "Gabe Rozenfeld",
+      "normalizedName": "gabe rozenfeld",
       "compositeRole": "Pitcher",
       "role": "Pitcher",
-      "position": "RHP",
+      "position": "LHP",
       "positionLong": "",
-      "classYear": "SO",
-      "handedness": "R-R",
+      "classYear": "FR",
+      "handedness": "L-L",
       "jersey": "46",
-      "hometown": "Houston, Texas",
-      "highSchool": "Episcopal",
-      "previousSchool": "Houston",
-      "hometownHighSchool": "Houston, Texas / Episcopal",
-      "profileUrl": "https://riceowls.com/sports/baseball/roster/preston-sullivan/11088",
-      "imageUrl": "https://riceowls.com/images/2026/1/22/46_Sullivan__Preston_2026_Rice_Baseball.png",
+      "hometown": "West Palm Beach, Florida",
+      "highSchool": "American Heritage",
+      "previousSchool": "",
+      "hometownHighSchool": "West Palm Beach, Florida / American Heritage",
+      "profileUrl": "https://riceowls.com/sports/baseball/roster/gabe-rozenfeld/11394",
+      "imageUrl": "https://riceowls.com/images/2026/9/8/ROZENFELD_GABRIEL_BSB_Fall_2026.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "11088",
+      "rosterBioId": "11394",
       "sources": [
         "Rice Athletics roster"
       ],
@@ -3383,7 +5063,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Preston Sullivan looks like a RHP option who throws enough strikes.",
+        "summary": "Gabe Rozenfeld looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -3415,11 +5095,11 @@ window.__BASEBALL_DATASETS__.rice2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "SO / R-R",
+        "metaLine": "FR / L-L",
         "detailBadges": [
-          "RHP",
-          "SO",
-          "R-R",
+          "LHP",
+          "FR",
+          "L-L",
           "Pitcher"
         ],
         "sourceSummary": "Rice Athletics roster"
@@ -3444,7 +5124,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
       "previousSchool": "Texas Tech",
       "hometownHighSchool": "Austin, Texas / Vista Ridge",
       "profileUrl": "https://riceowls.com/sports/baseball/roster/zachary-fetchel/11110",
-      "imageUrl": "https://riceowls.com/images/2025/9/1/47_FETCHEL_ZACH.png",
+      "imageUrl": "https://riceowls.com/images/2026/9/8/FETCHEL_ZACH_BSB_Fall_2026.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -3463,7 +5143,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "normalizedName": "zachary fetchel",
         "jersey": "47",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/zachary-fetchel/11110",
-        "imageUrl": "https://riceowls.com/images/2025/9/1/47_FETCHEL_ZACH.png",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/FETCHEL_ZACH_BSB_Fall_2026.png",
         "gamesPlayed": 8,
         "gamesStarted": 0,
         "appearances": 8,
@@ -3497,7 +5177,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "normalizedName": "zachary fetchel",
         "jersey": "47",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/zachary-fetchel/11110",
-        "imageUrl": "https://riceowls.com/images/2025/9/1/47_FETCHEL_ZACH.png",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/FETCHEL_ZACH_BSB_Fall_2026.png",
         "gamesPlayed": 3,
         "gamesStarted": 0,
         "putouts": 0,
@@ -3568,6 +5248,182 @@ window.__BASEBALL_DATASETS__.rice2026 = {
       }
     },
     {
+      "id": "rice-11395",
+      "schoolSlug": "rice",
+      "school": "Rice",
+      "schoolLongName": "Rice University",
+      "name": "Juliocesar Hernandez",
+      "normalizedName": "juliocesar hernandez",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "FR",
+      "handedness": "R-R",
+      "jersey": "50",
+      "hometown": "Laredo, Texas",
+      "highSchool": "Laredo",
+      "previousSchool": "",
+      "hometownHighSchool": "Laredo, Texas / Laredo",
+      "profileUrl": "https://riceowls.com/sports/baseball/roster/juliocesar-hernandez/11395",
+      "imageUrl": "https://riceowls.com/images/2026/9/8/HERNANDEZ_JULIOCESAR_BSB_Fall_2026.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11395",
+      "sources": [
+        "Rice Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Juliocesar Hernandez looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FR / R-R",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "R-R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Rice Athletics roster"
+      }
+    },
+    {
+      "id": "rice-11396",
+      "schoolSlug": "rice",
+      "school": "Rice",
+      "schoolLongName": "Rice University",
+      "name": "Silas Newport",
+      "normalizedName": "silas newport",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "",
+      "classYear": "FR",
+      "handedness": "L-L",
+      "jersey": "51",
+      "hometown": "Cypress, Texas",
+      "highSchool": "Strake Jesuit",
+      "previousSchool": "",
+      "hometownHighSchool": "Cypress, Texas / Strake Jesuit",
+      "profileUrl": "https://riceowls.com/sports/baseball/roster/silas-newport/11396",
+      "imageUrl": "https://riceowls.com/images/2026/9/8/NEWPORT_SILAS_BSB_Fall_2026.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11396",
+      "sources": [
+        "Rice Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Silas Newport gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "FR / L-L",
+        "detailBadges": [
+          "OF",
+          "FR",
+          "L-L",
+          "Rostered"
+        ],
+        "sourceSummary": "Rice Athletics roster"
+      }
+    },
+    {
       "id": "rice-11109",
       "schoolSlug": "rice",
       "school": "Rice",
@@ -3586,7 +5442,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
       "previousSchool": "Miami Dade",
       "hometownHighSchool": "Miami, Florida / Belen Jesuit",
       "profileUrl": "https://riceowls.com/sports/baseball/roster/robert-fernandez/11109",
-      "imageUrl": "https://riceowls.com/images/2025/9/1/53_FERNANDEZ_ROBERT.png",
+      "imageUrl": "https://riceowls.com/images/2026/9/8/FERNANDEZ_ROBERT_BSB_Fall_2026.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -3674,7 +5530,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
       "previousSchool": "Texas A&M",
       "hometownHighSchool": "Houston, Texas / Second Baptist",
       "profileUrl": "https://riceowls.com/sports/baseball/roster/ty-baker/11098",
-      "imageUrl": "https://riceowls.com/images/2025/9/1/54_BAKER_TY.png",
+      "imageUrl": "https://riceowls.com/images/2026/9/8/BAKER_TY_BSB_20260827_Fall_2026.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -3693,7 +5549,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "normalizedName": "ty baker",
         "jersey": "54",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/ty-baker/11098",
-        "imageUrl": "https://riceowls.com/images/2025/9/1/54_BAKER_TY.png",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/BAKER_TY_BSB_20260827_Fall_2026.png",
         "gamesPlayed": 9,
         "gamesStarted": 6,
         "appearances": 9,
@@ -3727,7 +5583,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "normalizedName": "ty baker",
         "jersey": "54",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/ty-baker/11098",
-        "imageUrl": "https://riceowls.com/images/2025/9/1/54_BAKER_TY.png",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/BAKER_TY_BSB_20260827_Fall_2026.png",
         "gamesPlayed": 3,
         "gamesStarted": 3,
         "putouts": 1,
@@ -3816,7 +5672,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
       "previousSchool": "",
       "hometownHighSchool": "Magnolia, Texas / West",
       "profileUrl": "https://riceowls.com/sports/baseball/roster/jackson-blank/11099",
-      "imageUrl": "https://riceowls.com/images/2025/9/1/55_BLANK_JACKSON.png",
+      "imageUrl": "https://riceowls.com/images/2026/9/8/BLANK_JACKSON_BSB_Fall_2026.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -3835,7 +5691,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "normalizedName": "jackson blank",
         "jersey": "55",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/jackson-blank/11099",
-        "imageUrl": "https://riceowls.com/images/2025/9/1/55_BLANK_JACKSON.png",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/BLANK_JACKSON_BSB_Fall_2026.png",
         "gamesPlayed": 10,
         "gamesStarted": 1,
         "appearances": 10,
@@ -3869,7 +5725,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "normalizedName": "jackson blank",
         "jersey": "55",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/jackson-blank/11099",
-        "imageUrl": "https://riceowls.com/images/2025/9/1/55_BLANK_JACKSON.png",
+        "imageUrl": "https://riceowls.com/images/2026/9/8/BLANK_JACKSON_BSB_Fall_2026.png",
         "gamesPlayed": 3,
         "gamesStarted": 0,
         "putouts": 1,
@@ -3943,10 +5799,10 @@ window.__BASEBALL_DATASETS__.rice2026 = {
   "playerBoard": {
     "source": "Rice Athletics roster + cumulative stats / ESPN roster",
     "note": "This Rice-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but Rice's public ESPN roster feed did not line up cleanly with the current school-site roster.",
-    "totalPlayers": 28,
+    "totalPlayers": 44,
     "roleCounts": {
-      "Hitter": 11,
-      "Pitcher": 17
+      "Hitter": 16,
+      "Pitcher": 28
     },
     "players": [
       {
@@ -4019,13 +5875,82 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "espnAthleteId": ""
       },
       {
+        "id": "rice-11095",
+        "name": "Michael Zito",
+        "school": "Rice",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "JR",
+        "handedness": "R-R",
+        "score": 35,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Michael Zito profiles as a INF piece who adds running-game pressure.",
+        "summaryMetrics": [
+          "AVG .290",
+          "OBP .356",
+          "SLG .451"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".290"
+          },
+          {
+            "label": "OBP",
+            "value": ".356"
+          },
+          {
+            "label": "SLG",
+            "value": ".451"
+          },
+          {
+            "label": "HR",
+            "value": "7"
+          },
+          {
+            "label": "RBI",
+            "value": "32"
+          },
+          {
+            "label": "SB",
+            "value": "9"
+          }
+        ],
+        "components": {
+          "On-base": 42.2222222222222,
+          "Power": 34.47368421052632,
+          "Contact": 43.749999999999986,
+          "Discipline": 11.111111111111107,
+          "Speed": 30
+        },
+        "metaLine": "JR / R-R",
+        "detailBadges": [
+          "INF",
+          "JR",
+          "R-R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Rice Athletics roster",
+          "Rice cumulative stats"
+        ],
+        "sourceSummary": "Rice Athletics roster + Rice cumulative stats",
+        "schoolSlug": "rice",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://riceowls.com/sports/baseball/roster/michael-zito/11095",
+        "espnAthleteId": ""
+      },
+      {
         "id": "rice-11221",
         "name": "JC Davis",
         "school": "Rice",
         "role": "Hitter",
         "position": "INF",
         "classYear": "SR",
-        "handedness": "N/A",
+        "handedness": "R-R",
         "score": 53,
         "fit": {
           "label": "Depth",
@@ -4070,11 +5995,11 @@ window.__BASEBALL_DATASETS__.rice2026 = {
           "Discipline": 82.35294117647058,
           "Speed": 10
         },
-        "metaLine": "SR / N/A",
+        "metaLine": "SR / R-R",
         "detailBadges": [
           "INF",
           "SR",
-          "N/A",
+          "R-R",
           "Hitter"
         ],
         "leaderboards": [
@@ -4226,19 +6151,87 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "rice-11095",
-        "name": "Michael Zito",
+        "id": "rice-11381",
+        "name": "Judson Dowell",
         "school": "Rice",
         "role": "Hitter",
-        "position": "INF",
-        "classYear": "JR",
+        "position": "OF",
+        "classYear": "FR",
+        "handedness": "R-R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Judson Dowell gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / R-R",
+        "detailBadges": [
+          "OF",
+          "FR",
+          "R-R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Rice Athletics roster"
+        ],
+        "sourceSummary": "Rice Athletics roster",
+        "schoolSlug": "rice",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://riceowls.com/sports/baseball/roster/judson-dowell/11381",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "rice-11382",
+        "name": "Oliver Minyard",
+        "school": "Rice",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "FR",
         "handedness": "R-R",
         "score": 10,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Michael Zito gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Oliver Minyard gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .182",
           "OBP .308",
@@ -4277,10 +6270,10 @@ window.__BASEBALL_DATASETS__.rice2026 = {
           "Discipline": 33.33333333333333,
           "Speed": 3.3333333333333335
         },
-        "metaLine": "JR / R-R",
+        "metaLine": "FR / R-R",
         "detailBadges": [
-          "INF",
-          "JR",
+          "C",
+          "FR",
           "R-R",
           "Hitter"
         ],
@@ -4291,7 +6284,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "sourceSummary": "Rice Athletics roster + Rice cumulative stats",
         "schoolSlug": "rice",
         "compositeRole": "Hitter",
-        "profileUrl": "https://riceowls.com/sports/baseball/roster/michael-zito/11095",
+        "profileUrl": "https://riceowls.com/sports/baseball/roster/oliver-minyard/11382",
         "espnAthleteId": ""
       },
       {
@@ -4361,6 +6354,75 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "schoolSlug": "rice",
         "compositeRole": "Hitter",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/kuttergage-webb/11093",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "rice-11383",
+        "name": "Kahaku Harrison",
+        "school": "Rice",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "FR",
+        "handedness": "R-R",
+        "score": 1,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Kahaku Harrison gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .167",
+          "OBP .286",
+          "SLG .278"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".167"
+          },
+          {
+            "label": "OBP",
+            "value": ".286"
+          },
+          {
+            "label": "SLG",
+            "value": ".278"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "1"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 3.3333333333333055,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 2.469135802469133,
+          "Speed": 0
+        },
+        "metaLine": "FR / R-R",
+        "detailBadges": [
+          "INF",
+          "FR",
+          "R-R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Rice Athletics roster",
+          "Rice cumulative stats"
+        ],
+        "sourceSummary": "Rice Athletics roster + Rice cumulative stats",
+        "schoolSlug": "rice",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://riceowls.com/sports/baseball/roster/kahaku-harrison/11383",
         "espnAthleteId": ""
       },
       {
@@ -4508,12 +6570,81 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "position": "LHP",
         "classYear": "SR",
         "handedness": "L-L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Carson Kuhn looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / L-L",
+        "detailBadges": [
+          "LHP",
+          "SR",
+          "L-L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Rice Athletics roster",
+          "Rice cumulative stats"
+        ],
+        "sourceSummary": "Rice Athletics roster + Rice cumulative stats",
+        "schoolSlug": "rice",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://riceowls.com/sports/baseball/roster/carson-kuhn/11082",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "rice-11073",
+        "name": "Sullivan Brackin",
+        "school": "Rice",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "R-SR",
+        "handedness": "R-R",
         "score": 9,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Carson Kuhn looks like a LHP option who keeps traffic under control.",
+        "summary": "Sullivan Brackin looks like a RHP option who keeps traffic under control.",
         "summaryMetrics": [
           "ERA 4.60",
           "WHIP 1.21",
@@ -4552,11 +6683,11 @@ window.__BASEBALL_DATASETS__.rice2026 = {
           "Command": 11.111111111111116,
           "Damage suppression": 0
         },
-        "metaLine": "SR / L-L",
+        "metaLine": "R-SR / R-R",
         "detailBadges": [
-          "LHP",
-          "SR",
-          "L-L",
+          "RHP",
+          "R-SR",
+          "R-R",
           "Pitcher"
         ],
         "leaderboards": [
@@ -4566,7 +6697,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "sourceSummary": "Rice Athletics roster + Rice cumulative stats",
         "schoolSlug": "rice",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://riceowls.com/sports/baseball/roster/carson-kuhn/11082",
+        "profileUrl": "https://riceowls.com/sports/baseball/roster/sullivan-brackin/11073",
         "espnAthleteId": ""
       },
       {
@@ -4708,6 +6839,75 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "espnAthleteId": ""
       },
       {
+        "id": "rice-11123",
+        "name": "Tanner Wiggins",
+        "school": "Rice",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "R-JR",
+        "handedness": "R-R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Tanner Wiggins looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "R-JR / R-R",
+        "detailBadges": [
+          "RHP",
+          "R-JR",
+          "R-R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Rice Athletics roster",
+          "Rice cumulative stats"
+        ],
+        "sourceSummary": "Rice Athletics roster + Rice cumulative stats",
+        "schoolSlug": "rice",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://riceowls.com/sports/baseball/roster/tanner-wiggins/11123",
+        "espnAthleteId": ""
+      },
+      {
         "id": "rice-11101",
         "name": "Garet Boehm",
         "school": "Rice",
@@ -4777,19 +6977,19 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "rice-11123",
-        "name": "Tanner Wiggins",
+        "id": "rice-11384",
+        "name": "Caden Mitchell",
         "school": "Rice",
         "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "R-JR",
-        "handedness": "R-R",
+        "position": "C",
+        "classYear": "RS",
+        "handedness": "L-R",
         "score": 11,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Tanner Wiggins looks like a RHP option who throws enough strikes.",
+        "summary": "Caden Mitchell looks like a C option who throws enough strikes.",
         "summaryMetrics": [
           "ERA 4.10",
           "WHIP 1.40",
@@ -4828,10 +7028,79 @@ window.__BASEBALL_DATASETS__.rice2026 = {
           "Command": 47.5,
           "Damage suppression": 0
         },
-        "metaLine": "R-JR / R-R",
+        "metaLine": "RS / L-R",
+        "detailBadges": [
+          "C",
+          "RS",
+          "L-R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Rice Athletics roster",
+          "Rice cumulative stats"
+        ],
+        "sourceSummary": "Rice Athletics roster + Rice cumulative stats",
+        "schoolSlug": "rice",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://riceowls.com/sports/baseball/roster/caden-mitchell/11384",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "rice-11385",
+        "name": "Grant Nicholson",
+        "school": "Rice",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SO",
+        "handedness": "R-R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Grant Nicholson looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SO / R-R",
         "detailBadges": [
           "RHP",
-          "R-JR",
+          "SO",
           "R-R",
           "Pitcher"
         ],
@@ -4842,7 +7111,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "sourceSummary": "Rice Athletics roster + Rice cumulative stats",
         "schoolSlug": "rice",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://riceowls.com/sports/baseball/roster/tanner-wiggins/11123",
+        "profileUrl": "https://riceowls.com/sports/baseball/roster/grant-nicholson/11385",
         "espnAthleteId": ""
       },
       {
@@ -4984,13 +7253,82 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "espnAthleteId": ""
       },
       {
+        "id": "rice-11121",
+        "name": "Logan Voelz",
+        "school": "Rice",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "R-R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Logan Voelz looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / R-R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "R-R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Rice Athletics roster",
+          "Rice cumulative stats"
+        ],
+        "sourceSummary": "Rice Athletics roster + Rice cumulative stats",
+        "schoolSlug": "rice",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://riceowls.com/sports/baseball/roster/logan-voelz/11121",
+        "espnAthleteId": ""
+      },
+      {
         "id": "rice-11372",
         "name": "Landon West",
         "school": "Rice",
         "role": "Hitter",
         "position": "C/1B",
         "classYear": "SR",
-        "handedness": "N/A",
+        "handedness": "R-R",
         "score": 3,
         "fit": {
           "label": "Depth",
@@ -5035,11 +7373,11 @@ window.__BASEBALL_DATASETS__.rice2026 = {
           "Discipline": 22.22222222222222,
           "Speed": 0
         },
-        "metaLine": "SR / N/A",
+        "metaLine": "SR / R-R",
         "detailBadges": [
           "C/1B",
           "SR",
-          "N/A",
+          "R-R",
           "Hitter"
         ],
         "leaderboards": [
@@ -5053,61 +7391,61 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "rice-11121",
-        "name": "Logan Voelz",
+        "id": "rice-11386",
+        "name": "Brandon Creek",
         "school": "Rice",
         "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
+        "position": "INF",
+        "classYear": "SO",
         "handedness": "R-R",
-        "score": 6,
+        "score": 23,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Logan Voelz gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Brandon Creek looks like a INF option who misses bats.",
         "summaryMetrics": [
-          "ERA 4.26",
-          "WHIP 1.26",
-          "K/9 7.1"
+          "ERA 6.00",
+          "WHIP 2.00",
+          "K/9 18.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.26"
+            "value": "6.00"
           },
           {
             "label": "WHIP",
-            "value": "1.26"
+            "value": "2.00"
           },
           {
             "label": "K/9",
-            "value": "7.1"
+            "value": "18.0"
           },
           {
             "label": "BB/9",
-            "value": "7.1"
+            "value": "9.0"
           },
           {
             "label": "HR/9",
-            "value": "1.42"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "6.3"
+            "value": "3.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 28.229665071770338,
-          "Command": 0,
+          "Miss bats": 100,
+          "Command": 20,
           "Damage suppression": 0
         },
-        "metaLine": "JR / R-R",
+        "metaLine": "SO / R-R",
         "detailBadges": [
-          "RHP",
-          "JR",
+          "INF",
+          "SO",
           "R-R",
           "Pitcher"
         ],
@@ -5118,7 +7456,76 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "sourceSummary": "Rice Athletics roster + Rice cumulative stats",
         "schoolSlug": "rice",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://riceowls.com/sports/baseball/roster/logan-voelz/11121",
+        "profileUrl": "https://riceowls.com/sports/baseball/roster/brandon-creek/11386",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "rice-11387",
+        "name": "Rivers Kurland",
+        "school": "Rice",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "R-FR",
+        "handedness": "L-L",
+        "score": 9,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Rivers Kurland gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 5.71",
+          "WHIP 1.50",
+          "K/9 8.3"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "5.71"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.50"
+          },
+          {
+            "label": "K/9",
+            "value": "8.3"
+          },
+          {
+            "label": "BB/9",
+            "value": "5.7"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.04"
+          },
+          {
+            "label": "IP",
+            "value": "17.3"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 39.16083916083917,
+          "Command": 9.090909090909092,
+          "Damage suppression": 0
+        },
+        "metaLine": "R-FR / L-L",
+        "detailBadges": [
+          "LHP",
+          "R-FR",
+          "L-L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Rice Athletics roster",
+          "Rice cumulative stats"
+        ],
+        "sourceSummary": "Rice Athletics roster + Rice cumulative stats",
+        "schoolSlug": "rice",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://riceowls.com/sports/baseball/roster/rivers-kurland/11387",
         "espnAthleteId": ""
       },
       {
@@ -5188,6 +7595,75 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "schoolSlug": "rice",
         "compositeRole": "Pitcher",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/ty-thames/11118",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "rice-11388",
+        "name": "Zachary Gingrich",
+        "school": "Rice",
+        "role": "Pitcher",
+        "position": "OF",
+        "classYear": "SO",
+        "handedness": "L-R",
+        "score": 19,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Zachary Gingrich looks like a OF option who limits runs and misses bats.",
+        "summaryMetrics": [
+          "ERA 0.00",
+          "WHIP 1.50",
+          "K/9 13.5"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "0.00"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.50"
+          },
+          {
+            "label": "K/9",
+            "value": "13.5"
+          },
+          {
+            "label": "BB/9",
+            "value": "9.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "2.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 86.36363636363636,
+          "Command": 10,
+          "Damage suppression": 0
+        },
+        "metaLine": "SO / L-R",
+        "detailBadges": [
+          "OF",
+          "SO",
+          "L-R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Rice Athletics roster",
+          "Rice cumulative stats"
+        ],
+        "sourceSummary": "Rice Athletics roster + Rice cumulative stats",
+        "schoolSlug": "rice",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://riceowls.com/sports/baseball/roster/zachary-gingrich/11388",
         "espnAthleteId": ""
       },
       {
@@ -5329,19 +7805,19 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "rice-11073",
-        "name": "Sullivan Brackin",
+        "id": "rice-11088",
+        "name": "Preston Sullivan",
         "school": "Rice",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "R-SR",
+        "classYear": "SO",
         "handedness": "R-R",
         "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Sullivan Brackin looks like a RHP option who throws enough strikes.",
+        "summary": "Preston Sullivan looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -5380,10 +7856,10 @@ window.__BASEBALL_DATASETS__.rice2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "R-SR / R-R",
+        "metaLine": "SO / R-R",
         "detailBadges": [
           "RHP",
-          "R-SR",
+          "SO",
           "R-R",
           "Pitcher"
         ],
@@ -5393,7 +7869,212 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "sourceSummary": "Rice Athletics roster",
         "schoolSlug": "rice",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://riceowls.com/sports/baseball/roster/sullivan-brackin/11073",
+        "profileUrl": "https://riceowls.com/sports/baseball/roster/preston-sullivan/11088",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "rice-11397",
+        "name": "Ethan Rivers",
+        "school": "Rice",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "FR",
+        "handedness": "R-R",
+        "score": 4,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Ethan Rivers gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 8.31",
+          "WHIP 2.31",
+          "K/9 6.2"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "8.31"
+          },
+          {
+            "label": "WHIP",
+            "value": "2.31"
+          },
+          {
+            "label": "K/9",
+            "value": "6.2"
+          },
+          {
+            "label": "BB/9",
+            "value": "14.5"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "4.3"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 20.27972027972028,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / R-R",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "R-R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Rice Athletics roster",
+          "Rice cumulative stats"
+        ],
+        "sourceSummary": "Rice Athletics roster + Rice cumulative stats",
+        "schoolSlug": "rice",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://riceowls.com/sports/baseball/roster/ethan-rivers/11397",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "rice-11389",
+        "name": "Parker Mitzel",
+        "school": "Rice",
+        "role": "Pitcher",
+        "position": "RHP/OF",
+        "classYear": "FR",
+        "handedness": "R-R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Parker Mitzel looks like a RHP/OF option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / R-R",
+        "detailBadges": [
+          "RHP/OF",
+          "FR",
+          "R-R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Rice Athletics roster"
+        ],
+        "sourceSummary": "Rice Athletics roster",
+        "schoolSlug": "rice",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://riceowls.com/sports/baseball/roster/parker-mitzel/11389",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "rice-11390",
+        "name": "Brady Ladusau",
+        "school": "Rice",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "SO",
+        "handedness": "R-R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Brady Ladusau gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "SO / R-R",
+        "detailBadges": [
+          "OF",
+          "SO",
+          "R-R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Rice Athletics roster"
+        ],
+        "sourceSummary": "Rice Athletics roster",
+        "schoolSlug": "rice",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://riceowls.com/sports/baseball/roster/brady-ladusau/11390",
         "espnAthleteId": ""
       },
       {
@@ -5466,6 +8147,142 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "espnAthleteId": ""
       },
       {
+        "id": "rice-11391",
+        "name": "David Wilson",
+        "school": "Rice",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "JR",
+        "handedness": "L-L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "David Wilson looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / L-L",
+        "detailBadges": [
+          "LHP",
+          "JR",
+          "L-L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Rice Athletics roster"
+        ],
+        "sourceSummary": "Rice Athletics roster",
+        "schoolSlug": "rice",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://riceowls.com/sports/baseball/roster/david-wilson/11391",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "rice-11392",
+        "name": "Isaac Robles",
+        "school": "Rice",
+        "role": "Pitcher",
+        "position": "RHP/INF",
+        "classYear": "FR",
+        "handedness": "R-R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Isaac Robles looks like a RHP/INF option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / R-R",
+        "detailBadges": [
+          "RHP/INF",
+          "FR",
+          "R-R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Rice Athletics roster"
+        ],
+        "sourceSummary": "Rice Athletics roster",
+        "schoolSlug": "rice",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://riceowls.com/sports/baseball/roster/isaac-robles/11392",
+        "espnAthleteId": ""
+      },
+      {
         "id": "rice-11071",
         "name": "Hiram Bocachica Jr.",
         "school": "Rice",
@@ -5535,19 +8352,19 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "rice-11088",
-        "name": "Preston Sullivan",
+        "id": "rice-11394",
+        "name": "Gabe Rozenfeld",
         "school": "Rice",
         "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "R-R",
+        "position": "LHP",
+        "classYear": "FR",
+        "handedness": "L-L",
         "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Preston Sullivan looks like a RHP option who throws enough strikes.",
+        "summary": "Gabe Rozenfeld looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -5586,11 +8403,11 @@ window.__BASEBALL_DATASETS__.rice2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SO / R-R",
+        "metaLine": "FR / L-L",
         "detailBadges": [
-          "RHP",
-          "SO",
-          "R-R",
+          "LHP",
+          "FR",
+          "L-L",
           "Pitcher"
         ],
         "leaderboards": [
@@ -5599,7 +8416,7 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "sourceSummary": "Rice Athletics roster",
         "schoolSlug": "rice",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://riceowls.com/sports/baseball/roster/preston-sullivan/11088",
+        "profileUrl": "https://riceowls.com/sports/baseball/roster/gabe-rozenfeld/11394",
         "espnAthleteId": ""
       },
       {
@@ -5669,6 +8486,142 @@ window.__BASEBALL_DATASETS__.rice2026 = {
         "schoolSlug": "rice",
         "compositeRole": "Pitcher",
         "profileUrl": "https://riceowls.com/sports/baseball/roster/zachary-fetchel/11110",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "rice-11395",
+        "name": "Juliocesar Hernandez",
+        "school": "Rice",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "FR",
+        "handedness": "R-R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Juliocesar Hernandez looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / R-R",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "R-R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Rice Athletics roster"
+        ],
+        "sourceSummary": "Rice Athletics roster",
+        "schoolSlug": "rice",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://riceowls.com/sports/baseball/roster/juliocesar-hernandez/11395",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "rice-11396",
+        "name": "Silas Newport",
+        "school": "Rice",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "FR",
+        "handedness": "L-L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Silas Newport gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / L-L",
+        "detailBadges": [
+          "OF",
+          "FR",
+          "L-L",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Rice Athletics roster"
+        ],
+        "sourceSummary": "Rice Athletics roster",
+        "schoolSlug": "rice",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://riceowls.com/sports/baseball/roster/silas-newport/11396",
         "espnAthleteId": ""
       },
       {

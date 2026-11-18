@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-30T10:56:42.151Z",
+  "generatedAt": "2026-11-18T10:18:28.290Z",
   "season": 2026,
   "school": {
     "slug": "massachusetts",
@@ -24,7 +24,7 @@
     "ncaa": "NCAA school index"
   },
   "coverage": {
-    "rosterPlayers": 19,
+    "rosterPlayers": 37,
     "espnRosterPlayers": 0,
     "playersWithHittingStats": 0,
     "playersWithPitchingStats": 0,
@@ -1824,15 +1824,1599 @@
         ],
         "sourceSummary": "Mass-Amherst Athletics roster"
       }
+    },
+    {
+      "id": "massachusetts-18855",
+      "schoolSlug": "massachusetts",
+      "school": "Mass-Amherst",
+      "schoolLongName": "University of Massachusetts",
+      "name": "Brady Chenevert",
+      "normalizedName": "brady chenevert",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "Left-Handed Pitcher",
+      "classYear": "FR",
+      "handedness": "L/L",
+      "jersey": "",
+      "hometown": "Shrewsbury, Mass.",
+      "highSchool": "Saint John's Shrewsbury",
+      "previousSchool": "",
+      "hometownHighSchool": "Shrewsbury, Mass. / Saint John's Shrewsbury",
+      "profileUrl": "https://umassathletics.com/sports/baseball/roster/brady-chenevert/18855",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "18855",
+      "sources": [
+        "Mass-Amherst Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Brady Chenevert looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FR / L/L",
+        "detailBadges": [
+          "LHP",
+          "FR",
+          "L/L",
+          "Pitcher"
+        ],
+        "sourceSummary": "Mass-Amherst Athletics roster"
+      }
+    },
+    {
+      "id": "massachusetts-18848",
+      "schoolSlug": "massachusetts",
+      "school": "Mass-Amherst",
+      "schoolLongName": "University of Massachusetts",
+      "name": "Nick De Felice",
+      "normalizedName": "nick de felice",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "",
+      "hometown": "Suffern, N.Y.",
+      "highSchool": "Suffern",
+      "previousSchool": "",
+      "hometownHighSchool": "Suffern, N.Y. / Suffern",
+      "profileUrl": "https://umassathletics.com/sports/baseball/roster/nick-de-felice/18848",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "18848",
+      "sources": [
+        "Mass-Amherst Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Nick De Felice looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Mass-Amherst Athletics roster"
+      }
+    },
+    {
+      "id": "massachusetts-18321",
+      "schoolSlug": "massachusetts",
+      "school": "Mass-Amherst",
+      "schoolLongName": "University of Massachusetts",
+      "name": "Henry Eichner",
+      "normalizedName": "henry eichner",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "SO",
+      "handedness": "R/R",
+      "jersey": "",
+      "hometown": "Bethesda, Md.",
+      "highSchool": "Bethesda-Chevy Chase",
+      "previousSchool": "",
+      "hometownHighSchool": "Bethesda, Md. / Bethesda-Chevy Chase",
+      "profileUrl": "https://umassathletics.com/sports/baseball/roster/henry-eichner/18321",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "18321",
+      "sources": [
+        "Mass-Amherst Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Henry Eichner looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "RHP",
+          "SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Mass-Amherst Athletics roster"
+      }
+    },
+    {
+      "id": "massachusetts-18863",
+      "schoolSlug": "massachusetts",
+      "school": "Mass-Amherst",
+      "schoolLongName": "University of Massachusetts",
+      "name": "Aidan Forrest",
+      "normalizedName": "aidan forrest",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "Infielder",
+      "classYear": "JR",
+      "handedness": "R/R",
+      "jersey": "",
+      "hometown": "Ponte Vedra Beach, Fla.",
+      "highSchool": "IMG Academy (Fla.)",
+      "previousSchool": "Saint Peter's",
+      "hometownHighSchool": "Ponte Vedra Beach, Fla. / IMG Academy (Fla.)",
+      "profileUrl": "https://umassathletics.com/sports/baseball/roster/aidan-forrest/18863",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "18863",
+      "sources": [
+        "Mass-Amherst Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Aidan Forrest gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "INF",
+          "JR",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Mass-Amherst Athletics roster"
+      }
+    },
+    {
+      "id": "massachusetts-18849",
+      "schoolSlug": "massachusetts",
+      "school": "Mass-Amherst",
+      "schoolLongName": "University of Massachusetts",
+      "name": "Cain Frosk",
+      "normalizedName": "cain frosk",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "C",
+      "positionLong": "Catcher",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "",
+      "hometown": "Newburyport, Mass.",
+      "highSchool": "Coppell (Texas)",
+      "previousSchool": "",
+      "hometownHighSchool": "Newburyport, Mass. / Coppell (Texas)",
+      "profileUrl": "https://umassathletics.com/sports/baseball/roster/cain-frosk/18849",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "18849",
+      "sources": [
+        "Mass-Amherst Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Cain Frosk gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "C",
+          "FR",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Mass-Amherst Athletics roster"
+      }
+    },
+    {
+      "id": "massachusetts-18858",
+      "schoolSlug": "massachusetts",
+      "school": "Mass-Amherst",
+      "schoolLongName": "University of Massachusetts",
+      "name": "Jacob Hines",
+      "normalizedName": "jacob hines",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "JR",
+      "handedness": "R/R",
+      "jersey": "",
+      "hometown": "Berlin, Conn.",
+      "highSchool": "Putnam Science Academy",
+      "previousSchool": "Central Connecticut State",
+      "hometownHighSchool": "Berlin, Conn. / Putnam Science Academy",
+      "profileUrl": "https://umassathletics.com/sports/baseball/roster/jacob-hines/18858",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "18858",
+      "sources": [
+        "Mass-Amherst Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Jacob Hines looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Mass-Amherst Athletics roster"
+      }
+    },
+    {
+      "id": "massachusetts-18851",
+      "schoolSlug": "massachusetts",
+      "school": "Mass-Amherst",
+      "schoolLongName": "University of Massachusetts",
+      "name": "Colin Hoverter",
+      "normalizedName": "colin hoverter",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "Infielder",
+      "classYear": "RS",
+      "handedness": "L/R",
+      "jersey": "",
+      "hometown": "Manasquan, N.J.",
+      "highSchool": "Christian Brothers Academy",
+      "previousSchool": "",
+      "hometownHighSchool": "Manasquan, N.J. / Christian Brothers Academy",
+      "profileUrl": "https://umassathletics.com/sports/baseball/roster/colin-hoverter/18851",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "18851",
+      "sources": [
+        "Mass-Amherst Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Colin Hoverter gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "RS / L/R",
+        "detailBadges": [
+          "INF",
+          "RS",
+          "L/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Mass-Amherst Athletics roster"
+      }
+    },
+    {
+      "id": "massachusetts-18852",
+      "schoolSlug": "massachusetts",
+      "school": "Mass-Amherst",
+      "schoolLongName": "University of Massachusetts",
+      "name": "Noah Hynes",
+      "normalizedName": "noah hynes",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "",
+      "hometown": "Old Bridge, N.J.",
+      "highSchool": "Ranney School",
+      "previousSchool": "",
+      "hometownHighSchool": "Old Bridge, N.J. / Ranney School",
+      "profileUrl": "https://umassathletics.com/sports/baseball/roster/noah-hynes/18852",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "18852",
+      "sources": [
+        "Mass-Amherst Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Noah Hynes looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Mass-Amherst Athletics roster"
+      }
+    },
+    {
+      "id": "massachusetts-18850",
+      "schoolSlug": "massachusetts",
+      "school": "Mass-Amherst",
+      "schoolLongName": "University of Massachusetts",
+      "name": "Michael Novotny",
+      "normalizedName": "michael novotny",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "Infielder",
+      "classYear": "FR",
+      "handedness": "L/L",
+      "jersey": "",
+      "hometown": "Berkeley Heights, N.J.",
+      "highSchool": "Governor Livingston",
+      "previousSchool": "",
+      "hometownHighSchool": "Berkeley Heights, N.J. / Governor Livingston",
+      "profileUrl": "https://umassathletics.com/sports/baseball/roster/michael-novotny/18850",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "18850",
+      "sources": [
+        "Mass-Amherst Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Michael Novotny gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "FR / L/L",
+        "detailBadges": [
+          "INF",
+          "FR",
+          "L/L",
+          "Rostered"
+        ],
+        "sourceSummary": "Mass-Amherst Athletics roster"
+      }
+    },
+    {
+      "id": "massachusetts-18854",
+      "schoolSlug": "massachusetts",
+      "school": "Mass-Amherst",
+      "schoolLongName": "University of Massachusetts",
+      "name": "Ronan Owens",
+      "normalizedName": "ronan owens",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "",
+      "hometown": "Chicago, Ill.",
+      "highSchool": "Lane Tech",
+      "previousSchool": "",
+      "hometownHighSchool": "Chicago, Ill. / Lane Tech",
+      "profileUrl": "https://umassathletics.com/sports/baseball/roster/ronan-owens/18854",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "18854",
+      "sources": [
+        "Mass-Amherst Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Ronan Owens looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Mass-Amherst Athletics roster"
+      }
+    },
+    {
+      "id": "massachusetts-18860",
+      "schoolSlug": "massachusetts",
+      "school": "Mass-Amherst",
+      "schoolLongName": "University of Massachusetts",
+      "name": "Alonzo Paul",
+      "normalizedName": "alonzo paul",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "C/OF",
+      "positionLong": "Catcher/Outfielder",
+      "classYear": "GR",
+      "handedness": "R/R",
+      "jersey": "",
+      "hometown": "Valparaiso, Ind.",
+      "highSchool": "Andrean",
+      "previousSchool": "Ohio State",
+      "hometownHighSchool": "Valparaiso, Ind. / Andrean",
+      "profileUrl": "https://umassathletics.com/sports/baseball/roster/alonzo-paul/18860",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "18860",
+      "sources": [
+        "Mass-Amherst Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Alonzo Paul gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "GR / R/R",
+        "detailBadges": [
+          "C/OF",
+          "GR",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Mass-Amherst Athletics roster"
+      }
+    },
+    {
+      "id": "massachusetts-18856",
+      "schoolSlug": "massachusetts",
+      "school": "Mass-Amherst",
+      "schoolLongName": "University of Massachusetts",
+      "name": "James Reese",
+      "normalizedName": "james reese",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "GR",
+      "handedness": "R/R",
+      "jersey": "",
+      "hometown": "Mequon, Wis.",
+      "highSchool": "University School of Milwaukee",
+      "previousSchool": "Lafayette",
+      "hometownHighSchool": "Mequon, Wis. / University School of Milwaukee",
+      "profileUrl": "https://umassathletics.com/sports/baseball/roster/james-reese/18856",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "18856",
+      "sources": [
+        "Mass-Amherst Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "James Reese looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "GR / R/R",
+        "detailBadges": [
+          "RHP",
+          "GR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Mass-Amherst Athletics roster"
+      }
+    },
+    {
+      "id": "massachusetts-18862",
+      "schoolSlug": "massachusetts",
+      "school": "Mass-Amherst",
+      "schoolLongName": "University of Massachusetts",
+      "name": "Dante Ruby",
+      "normalizedName": "dante ruby",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "Infielder",
+      "classYear": "RS",
+      "handedness": "R/R",
+      "jersey": "",
+      "hometown": "Eynon, Pa.",
+      "highSchool": "Valley View",
+      "previousSchool": "Keystone College",
+      "hometownHighSchool": "Eynon, Pa. / Valley View",
+      "profileUrl": "https://umassathletics.com/sports/baseball/roster/dante-ruby/18862",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "18862",
+      "sources": [
+        "Mass-Amherst Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Dante Ruby gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "RS / R/R",
+        "detailBadges": [
+          "INF",
+          "RS",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Mass-Amherst Athletics roster"
+      }
+    },
+    {
+      "id": "massachusetts-18853",
+      "schoolSlug": "massachusetts",
+      "school": "Mass-Amherst",
+      "schoolLongName": "University of Massachusetts",
+      "name": "Oliver Service",
+      "normalizedName": "oliver service",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "Outfielder",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "",
+      "hometown": "Manchester, N.H.",
+      "highSchool": "Trinity HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Manchester, N.H. / Trinity HS",
+      "profileUrl": "https://umassathletics.com/sports/baseball/roster/oliver-service/18853",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "18853",
+      "sources": [
+        "Mass-Amherst Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Oliver Service gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "OF",
+          "FR",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Mass-Amherst Athletics roster"
+      }
+    },
+    {
+      "id": "massachusetts-18847",
+      "schoolSlug": "massachusetts",
+      "school": "Mass-Amherst",
+      "schoolLongName": "University of Massachusetts",
+      "name": "Aidan Stow",
+      "normalizedName": "aidan stow",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "",
+      "hometown": "Foxboro, Mass.",
+      "highSchool": "Foxborough",
+      "previousSchool": "",
+      "hometownHighSchool": "Foxboro, Mass. / Foxborough",
+      "profileUrl": "https://umassathletics.com/sports/baseball/roster/aidan-stow/18847",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "18847",
+      "sources": [
+        "Mass-Amherst Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Aidan Stow looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Mass-Amherst Athletics roster"
+      }
+    },
+    {
+      "id": "massachusetts-18864",
+      "schoolSlug": "massachusetts",
+      "school": "Mass-Amherst",
+      "schoolLongName": "University of Massachusetts",
+      "name": "Beau Widdick",
+      "normalizedName": "beau widdick",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "Infielder",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "",
+      "hometown": "Pittston, Pa.",
+      "highSchool": "Pittston Area",
+      "previousSchool": "",
+      "hometownHighSchool": "Pittston, Pa. / Pittston Area",
+      "profileUrl": "https://umassathletics.com/sports/baseball/roster/beau-widdick/18864",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "18864",
+      "sources": [
+        "Mass-Amherst Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Beau Widdick gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "INF",
+          "FR",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Mass-Amherst Athletics roster"
+      }
+    },
+    {
+      "id": "massachusetts-18861",
+      "schoolSlug": "massachusetts",
+      "school": "Mass-Amherst",
+      "schoolLongName": "University of Massachusetts",
+      "name": "Nathan Wingenroth",
+      "normalizedName": "nathan wingenroth",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "Outfielder",
+      "classYear": "SR",
+      "handedness": "R/R",
+      "jersey": "",
+      "hometown": "Manheim, Pa.",
+      "highSchool": "Lancaster Catholic",
+      "previousSchool": "Hartford CC",
+      "hometownHighSchool": "Manheim, Pa. / Lancaster Catholic",
+      "profileUrl": "https://umassathletics.com/sports/baseball/roster/nathan-wingenroth/18861",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "18861",
+      "sources": [
+        "Mass-Amherst Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Nathan Wingenroth gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "OF",
+          "SR",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Mass-Amherst Athletics roster"
+      }
+    },
+    {
+      "id": "massachusetts-18859",
+      "schoolSlug": "massachusetts",
+      "school": "Mass-Amherst",
+      "schoolLongName": "University of Massachusetts",
+      "name": "Nathan Zumbrunnen",
+      "normalizedName": "nathan zumbrunnen",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "JR",
+      "handedness": "R/R",
+      "jersey": "",
+      "hometown": "Ann Arbor, Mich.",
+      "highSchool": "Ann Arbor Pioneer",
+      "previousSchool": "Lawrence",
+      "hometownHighSchool": "Ann Arbor, Mich. / Ann Arbor Pioneer",
+      "profileUrl": "https://umassathletics.com/sports/baseball/roster/nathan-zumbrunnen/18859",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "18859",
+      "sources": [
+        "Mass-Amherst Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Nathan Zumbrunnen looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Mass-Amherst Athletics roster"
+      }
     }
   ],
   "playerBoard": {
     "source": "Mass-Amherst Athletics roster + cumulative stats / ESPN roster",
     "note": "This Mass-Amherst-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but Mass-Amherst's public ESPN roster feed did not line up cleanly with the current school-site roster.",
-    "totalPlayers": 19,
+    "totalPlayers": 37,
     "roleCounts": {
-      "Hitter": 9,
-      "Pitcher": 10
+      "Hitter": 18,
+      "Pitcher": 19
     },
     "players": [
       {
@@ -3125,6 +4709,1230 @@
         "schoolSlug": "massachusetts",
         "compositeRole": "Pitcher",
         "profileUrl": "https://umassathletics.com/sports/baseball/roster/justin-masteralexis/18330",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "massachusetts-18855",
+        "name": "Brady Chenevert",
+        "school": "Mass-Amherst",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "FR",
+        "handedness": "L/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Brady Chenevert looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / L/L",
+        "detailBadges": [
+          "LHP",
+          "FR",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Mass-Amherst Athletics roster"
+        ],
+        "sourceSummary": "Mass-Amherst Athletics roster",
+        "schoolSlug": "massachusetts",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://umassathletics.com/sports/baseball/roster/brady-chenevert/18855",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "massachusetts-18848",
+        "name": "Nick De Felice",
+        "school": "Mass-Amherst",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Nick De Felice looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Mass-Amherst Athletics roster"
+        ],
+        "sourceSummary": "Mass-Amherst Athletics roster",
+        "schoolSlug": "massachusetts",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://umassathletics.com/sports/baseball/roster/nick-de-felice/18848",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "massachusetts-18321",
+        "name": "Henry Eichner",
+        "school": "Mass-Amherst",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SO",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Henry Eichner looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "RHP",
+          "SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Mass-Amherst Athletics roster"
+        ],
+        "sourceSummary": "Mass-Amherst Athletics roster",
+        "schoolSlug": "massachusetts",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://umassathletics.com/sports/baseball/roster/henry-eichner/18321",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "massachusetts-18863",
+        "name": "Aidan Forrest",
+        "school": "Mass-Amherst",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Aidan Forrest gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "INF",
+          "JR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Mass-Amherst Athletics roster"
+        ],
+        "sourceSummary": "Mass-Amherst Athletics roster",
+        "schoolSlug": "massachusetts",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://umassathletics.com/sports/baseball/roster/aidan-forrest/18863",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "massachusetts-18849",
+        "name": "Cain Frosk",
+        "school": "Mass-Amherst",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Cain Frosk gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "C",
+          "FR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Mass-Amherst Athletics roster"
+        ],
+        "sourceSummary": "Mass-Amherst Athletics roster",
+        "schoolSlug": "massachusetts",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://umassathletics.com/sports/baseball/roster/cain-frosk/18849",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "massachusetts-18858",
+        "name": "Jacob Hines",
+        "school": "Mass-Amherst",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jacob Hines looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Mass-Amherst Athletics roster"
+        ],
+        "sourceSummary": "Mass-Amherst Athletics roster",
+        "schoolSlug": "massachusetts",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://umassathletics.com/sports/baseball/roster/jacob-hines/18858",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "massachusetts-18851",
+        "name": "Colin Hoverter",
+        "school": "Mass-Amherst",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "RS",
+        "handedness": "L/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Colin Hoverter gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "RS / L/R",
+        "detailBadges": [
+          "INF",
+          "RS",
+          "L/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Mass-Amherst Athletics roster"
+        ],
+        "sourceSummary": "Mass-Amherst Athletics roster",
+        "schoolSlug": "massachusetts",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://umassathletics.com/sports/baseball/roster/colin-hoverter/18851",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "massachusetts-18852",
+        "name": "Noah Hynes",
+        "school": "Mass-Amherst",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Noah Hynes looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Mass-Amherst Athletics roster"
+        ],
+        "sourceSummary": "Mass-Amherst Athletics roster",
+        "schoolSlug": "massachusetts",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://umassathletics.com/sports/baseball/roster/noah-hynes/18852",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "massachusetts-18850",
+        "name": "Michael Novotny",
+        "school": "Mass-Amherst",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "FR",
+        "handedness": "L/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Michael Novotny gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / L/L",
+        "detailBadges": [
+          "INF",
+          "FR",
+          "L/L",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Mass-Amherst Athletics roster"
+        ],
+        "sourceSummary": "Mass-Amherst Athletics roster",
+        "schoolSlug": "massachusetts",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://umassathletics.com/sports/baseball/roster/michael-novotny/18850",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "massachusetts-18854",
+        "name": "Ronan Owens",
+        "school": "Mass-Amherst",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Ronan Owens looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Mass-Amherst Athletics roster"
+        ],
+        "sourceSummary": "Mass-Amherst Athletics roster",
+        "schoolSlug": "massachusetts",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://umassathletics.com/sports/baseball/roster/ronan-owens/18854",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "massachusetts-18860",
+        "name": "Alonzo Paul",
+        "school": "Mass-Amherst",
+        "role": "Hitter",
+        "position": "C/OF",
+        "classYear": "GR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Alonzo Paul gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "GR / R/R",
+        "detailBadges": [
+          "C/OF",
+          "GR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Mass-Amherst Athletics roster"
+        ],
+        "sourceSummary": "Mass-Amherst Athletics roster",
+        "schoolSlug": "massachusetts",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://umassathletics.com/sports/baseball/roster/alonzo-paul/18860",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "massachusetts-18856",
+        "name": "James Reese",
+        "school": "Mass-Amherst",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "GR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "James Reese looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "GR / R/R",
+        "detailBadges": [
+          "RHP",
+          "GR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Mass-Amherst Athletics roster"
+        ],
+        "sourceSummary": "Mass-Amherst Athletics roster",
+        "schoolSlug": "massachusetts",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://umassathletics.com/sports/baseball/roster/james-reese/18856",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "massachusetts-18862",
+        "name": "Dante Ruby",
+        "school": "Mass-Amherst",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "RS",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Dante Ruby gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "RS / R/R",
+        "detailBadges": [
+          "INF",
+          "RS",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Mass-Amherst Athletics roster"
+        ],
+        "sourceSummary": "Mass-Amherst Athletics roster",
+        "schoolSlug": "massachusetts",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://umassathletics.com/sports/baseball/roster/dante-ruby/18862",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "massachusetts-18853",
+        "name": "Oliver Service",
+        "school": "Mass-Amherst",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Oliver Service gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "OF",
+          "FR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Mass-Amherst Athletics roster"
+        ],
+        "sourceSummary": "Mass-Amherst Athletics roster",
+        "schoolSlug": "massachusetts",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://umassathletics.com/sports/baseball/roster/oliver-service/18853",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "massachusetts-18847",
+        "name": "Aidan Stow",
+        "school": "Mass-Amherst",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Aidan Stow looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Mass-Amherst Athletics roster"
+        ],
+        "sourceSummary": "Mass-Amherst Athletics roster",
+        "schoolSlug": "massachusetts",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://umassathletics.com/sports/baseball/roster/aidan-stow/18847",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "massachusetts-18864",
+        "name": "Beau Widdick",
+        "school": "Mass-Amherst",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Beau Widdick gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "INF",
+          "FR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Mass-Amherst Athletics roster"
+        ],
+        "sourceSummary": "Mass-Amherst Athletics roster",
+        "schoolSlug": "massachusetts",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://umassathletics.com/sports/baseball/roster/beau-widdick/18864",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "massachusetts-18861",
+        "name": "Nathan Wingenroth",
+        "school": "Mass-Amherst",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "SR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Nathan Wingenroth gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "OF",
+          "SR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Mass-Amherst Athletics roster"
+        ],
+        "sourceSummary": "Mass-Amherst Athletics roster",
+        "schoolSlug": "massachusetts",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://umassathletics.com/sports/baseball/roster/nathan-wingenroth/18861",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "massachusetts-18859",
+        "name": "Nathan Zumbrunnen",
+        "school": "Mass-Amherst",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Nathan Zumbrunnen looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Mass-Amherst Athletics roster"
+        ],
+        "sourceSummary": "Mass-Amherst Athletics roster",
+        "schoolSlug": "massachusetts",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://umassathletics.com/sports/baseball/roster/nathan-zumbrunnen/18859",
         "espnAthleteId": ""
       }
     ]

@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.west-virginia2026 = {
-  "generatedAt": "2026-08-05T11:05:19.869Z",
+  "generatedAt": "2026-11-18T10:19:08.854Z",
   "season": 2026,
   "school": {
     "slug": "west-virginia",
@@ -25,19 +25,53 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
     "ncaa": "NCAA school index"
   },
   "coverage": {
-    "rosterPlayers": 43,
+    "rosterPlayers": 48,
     "espnRosterPlayers": 0,
-    "playersWithHittingStats": 17,
-    "playersWithPitchingStats": 21,
-    "playersWithFieldingStats": 33,
-    "mergedPlayersWithAnyStats": 38,
+    "playersWithHittingStats": 0,
+    "playersWithPitchingStats": 0,
+    "playersWithFieldingStats": 0,
+    "mergedPlayersWithAnyStats": 0,
     "matchedEspnPlayers": 0,
     "unmatchedStatRows": {
-      "hitting": [],
+      "hitting": [
+        "Paul Schoenfeld",
+        "Sean Smith",
+        "Matthew Graveline",
+        "Brodie Kresser",
+        "Brock Wills",
+        "Zahir Barjam",
+        "Ben Lumsden",
+        "Ryan Maggy"
+      ],
       "pitching": [
-        "Chase Meyer"
+        "Maxx Yehl",
+        "Ian Korn",
+        "Dawson Montesa",
+        "Andrew Middleton",
+        "Chase Meyer",
+        "Carson Estridge",
+        "Reese Bassinger",
+        "Bryson Thacker",
+        "Mac Stiffler",
+        "Wyatt Mosley"
       ],
       "fielding": [
+        "Brock Wills",
+        "Ryan Maggy",
+        "Ian Korn",
+        "Sean Smith",
+        "Carson Estridge",
+        "Bryson Thacker",
+        "Zahir Barjam",
+        "Wyatt Mosley",
+        "Paul Schoenfeld",
+        "Matthew Graveline",
+        "Brodie Kresser",
+        "Ben Lumsden",
+        "Dawson Montesa",
+        "Maxx Yehl",
+        "Reese Bassinger",
+        "Mac Stiffler",
         "Chase Meyer"
       ]
     }
@@ -128,219 +162,40 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
   },
   "players": [
     {
-      "id": "west-virginia-19299",
+      "id": "west-virginia-20193",
       "schoolSlug": "west-virginia",
       "school": "West Virginia",
       "schoolLongName": "West Virginia University",
-      "name": "Matthew Graveline",
-      "normalizedName": "matthew graveline",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "OF/C",
-      "positionLong": "Outfielder/Catcher",
-      "classYear": "SR",
-      "handedness": "R/R",
-      "jersey": "0",
-      "hometown": "Centerville, Ohio",
-      "highSchool": "Centerville",
-      "previousSchool": "Ohio State",
-      "hometownHighSchool": "Centerville, Ohio / Centerville",
-      "profileUrl": "https://wvusports.com/sports/baseball/roster/matthew-graveline/19299",
-      "imageUrl": "https://wvusports.com/images/2026/1/15/Graveline__Matthew.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "19299",
-      "sources": [
-        "West Virginia Athletics roster",
-        "West Virginia cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "19299",
-        "name": "Matthew Graveline",
-        "normalizedName": "matthew graveline",
-        "jersey": "0",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/matthew-graveline/19299",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Graveline__Matthew.jpg",
-        "gamesPlayed": 64,
-        "gamesStarted": 62,
-        "battingAverage": 0.305,
-        "onBasePercentage": 0.381,
-        "sluggingPercentage": 0.431,
-        "ops": 0.812,
-        "atBats": 239,
-        "runs": 39,
-        "hits": 73,
-        "doubles": 12,
-        "triples": 0,
-        "homeRuns": 6,
-        "runsBattedIn": 39,
-        "totalBases": 103,
-        "walks": 27,
-        "hitByPitch": 4,
-        "strikeouts": 55,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 5,
-        "sacrificeFlies": 3,
-        "sacrificeHits": 5,
-        "stolenBases": 9,
-        "stolenBasesAttempts": 11,
-        "putouts": 331,
-        "assists": 0,
-        "errors": 5,
-        "plateAppearances": 291,
-        "caughtStealing": 2,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "19299",
-        "name": "Matthew Graveline",
-        "normalizedName": "matthew graveline",
-        "jersey": "0",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/matthew-graveline/19299",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Graveline__Matthew.jpg",
-        "gamesPlayed": 61,
-        "gamesStarted": 60,
-        "putouts": 331,
-        "assists": 21,
-        "errors": 5,
-        "fieldingPercentage": 0.986,
-        "doublePlays": 3,
-        "stolenBasesAgainst": 26,
-        "caughtStealingBy": 5,
-        "stolenBasesPercentage": null,
-        "passedBalls": 1,
-        "catchersInterference": 0,
-        "totalChances": 357
-      },
-      "evaluation": {
-        "score": 43,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 56.1111111111111,
-          "Power": 29.210526315789476,
-          "Contact": 53.124999999999986,
-          "Discipline": 32.32323232323232,
-          "Speed": 30
-        },
-        "summary": "Matthew Graveline profiles as a OF/C piece who adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .305",
-          "OBP .381",
-          "SLG .431"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".305"
-          },
-          {
-            "label": "OBP",
-            "value": ".381"
-          },
-          {
-            "label": "SLG",
-            "value": ".431"
-          },
-          {
-            "label": "HR",
-            "value": "6"
-          },
-          {
-            "label": "RBI",
-            "value": "39"
-          },
-          {
-            "label": "SB",
-            "value": "9"
-          }
-        ],
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "OF/C",
-          "SR",
-          "R/R",
-          "Hitter"
-        ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats"
-      }
-    },
-    {
-      "id": "west-virginia-19274",
-      "schoolSlug": "west-virginia",
-      "school": "West Virginia",
-      "schoolLongName": "West Virginia University",
-      "name": "JJ Glasscock",
-      "normalizedName": "jj glasscock",
+      "name": "Weston Smith",
+      "normalizedName": "weston smith",
       "compositeRole": "Pitcher",
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Right-Handed Pitcher",
-      "classYear": "R-SO",
+      "classYear": "SO",
       "handedness": "R/R",
-      "jersey": "1",
-      "hometown": "Fluvanna County, Va.",
-      "highSchool": "Fluvanna County",
+      "jersey": "0",
+      "hometown": "Hurricane, W.Va.",
+      "highSchool": "Hurricane",
       "previousSchool": "",
-      "hometownHighSchool": "Fluvanna County, Va. / Fluvanna County",
-      "profileUrl": "https://wvusports.com/sports/baseball/roster/jj-glasscock/19274",
-      "imageUrl": "https://wvusports.com/images/2026/1/15/Glasscock__JJ.jpg",
+      "hometownHighSchool": "Hurricane, W.Va. / Hurricane",
+      "profileUrl": "https://wvusports.com/sports/baseball/roster/weston-smith/20193",
+      "imageUrl": "https://wvusports.com/images/2026/1/15/Smith__Weston.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "19274",
+      "rosterBioId": "20193",
       "sources": [
-        "West Virginia Athletics roster",
-        "West Virginia cumulative stats"
+        "West Virginia Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "19274",
-        "name": "JJ Glasscock",
-        "normalizedName": "jj glasscock",
-        "jersey": "1",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/jj-glasscock/19274",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Glasscock__JJ.jpg",
-        "gamesPlayed": 1,
-        "gamesStarted": 0,
-        "appearances": 1,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 0,
-        "whip": 0,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 1,
-        "inningsPitchedDisplay": "1.0",
-        "hitsAllowed": 0,
-        "runsAllowed": 0,
-        "earnedRunsAllowed": 0,
-        "walksAllowed": 0,
-        "strikeouts": 1,
-        "doublesAllowed": 0,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 3,
-        "wildPitches": 0,
-        "hitBatters": 0,
-        "balks": 0,
-        "opponentsBattingAverage": 0,
-        "walksHits": 0
-      },
+      "pitchingStats": null,
       "fieldingStats": null,
       "evaluation": {
-        "score": 25,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -348,28 +203,28 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
-          "Command": 100,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "JJ Glasscock looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
+        "summary": "Weston Smith looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 0.00",
-          "WHIP 0.00",
-          "K/9 9.0"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "0.00"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "0.00"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "9.0"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
@@ -381,38 +236,126 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
           },
           {
             "label": "IP",
-            "value": "1.0"
+            "value": "0.0"
           }
         ],
-        "metaLine": "R-SO / R/R",
+        "metaLine": "SO / R/R",
         "detailBadges": [
           "RHP",
-          "R-SO",
+          "SO",
           "R/R",
           "Pitcher"
         ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats"
+        "sourceSummary": "West Virginia Athletics roster"
       }
     },
     {
-      "id": "west-virginia-19279",
+      "id": "west-virginia-20175",
+      "schoolSlug": "west-virginia",
+      "school": "West Virginia",
+      "schoolLongName": "West Virginia University",
+      "name": "JJ Glasscock",
+      "normalizedName": "jj glasscock",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "GR",
+      "handedness": "R/R",
+      "jersey": "1",
+      "hometown": "Fluvanna County, Va.",
+      "highSchool": "Fluvanna County",
+      "previousSchool": "",
+      "hometownHighSchool": "Fluvanna County, Va. / Fluvanna County",
+      "profileUrl": "https://wvusports.com/sports/baseball/roster/jj-glasscock/20175",
+      "imageUrl": "https://wvusports.com/images/2026/1/15/Glasscock__JJ.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "20175",
+      "sources": [
+        "West Virginia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "JJ Glasscock looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "GR / R/R",
+        "detailBadges": [
+          "RHP",
+          "GR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "West Virginia Athletics roster"
+      }
+    },
+    {
+      "id": "west-virginia-20185",
       "schoolSlug": "west-virginia",
       "school": "West Virginia",
       "schoolLongName": "West Virginia University",
       "name": "Gavin Kelly",
       "normalizedName": "gavin kelly",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "UTL",
       "positionLong": "Utility",
-      "classYear": "SO",
+      "classYear": "JR",
       "handedness": "R/R",
       "jersey": "2",
       "hometown": "Pittsburgh, Pa.",
       "highSchool": "Pittsburgh Central Catholic",
       "previousSchool": "",
       "hometownHighSchool": "Pittsburgh, Pa. / Pittsburgh Central Catholic",
-      "profileUrl": "https://wvusports.com/sports/baseball/roster/gavin-kelly/19279",
+      "profileUrl": "https://wvusports.com/sports/baseball/roster/gavin-kelly/20185",
       "imageUrl": "https://wvusports.com/images/2026/1/15/Kelly__Gavin.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -420,246 +363,132 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "19279",
+      "rosterBioId": "20185",
       "sources": [
-        "West Virginia Athletics roster",
-        "West Virginia cumulative stats"
+        "West Virginia Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "19279",
-        "name": "Gavin Kelly",
-        "normalizedName": "gavin kelly",
-        "jersey": "2",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/gavin-kelly/19279",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Kelly__Gavin.jpg",
-        "gamesPlayed": 63,
-        "gamesStarted": 63,
-        "battingAverage": 0.382,
-        "onBasePercentage": 0.477,
-        "sluggingPercentage": 0.725,
-        "ops": 1.202,
-        "atBats": 251,
-        "runs": 70,
-        "hits": 96,
-        "doubles": 21,
-        "triples": 4,
-        "homeRuns": 19,
-        "runsBattedIn": 63,
-        "totalBases": 182,
-        "walks": 43,
-        "hitByPitch": 6,
-        "strikeouts": 45,
-        "intentionalWalks": 2,
-        "groundedIntoDoublePlay": 5,
-        "sacrificeFlies": 4,
-        "sacrificeHits": 1,
-        "stolenBases": 5,
-        "stolenBasesAttempts": 12,
-        "putouts": 350,
-        "assists": 0,
-        "errors": 6,
-        "plateAppearances": 324,
-        "caughtStealing": 7,
-        "pickedOff": 2
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "19279",
-        "name": "Gavin Kelly",
-        "normalizedName": "gavin kelly",
-        "jersey": "2",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/gavin-kelly/19279",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Kelly__Gavin.jpg",
-        "gamesPlayed": 62,
-        "gamesStarted": 62,
-        "putouts": 350,
-        "assists": 89,
-        "errors": 6,
-        "fieldingPercentage": 0.987,
-        "doublePlays": 16,
-        "stolenBasesAgainst": 23,
-        "caughtStealingBy": 13,
-        "stolenBasesPercentage": null,
-        "passedBalls": 5,
-        "catchersInterference": 0,
-        "totalChances": 445
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 89,
+        "score": 0,
         "fit": {
-          "label": "Priority",
-          "className": "fit-priority"
+          "label": "Depth",
+          "className": "fit-depth"
         },
         "components": {
-          "On-base": 100,
-          "Power": 100,
-          "Contact": 100,
-          "Discipline": 83.9506172839506,
-          "Speed": 16.666666666666664
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "summary": "Gavin Kelly profiles as a UTL piece who gets on base at a high clip and brings real extra-base damage.",
+        "summary": "Gavin Kelly gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .382",
-          "OBP .477",
-          "SLG .725"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".382"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".477"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".725"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "19"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "63"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "5"
+            "value": "0"
           }
         ],
-        "metaLine": "SO / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "UTL",
-          "SO",
+          "JR",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats"
+        "sourceSummary": "West Virginia Athletics roster"
       }
     },
     {
-      "id": "west-virginia-19290",
+      "id": "west-virginia-20197",
       "schoolSlug": "west-virginia",
       "school": "West Virginia",
       "schoolLongName": "West Virginia University",
-      "name": "Zahir Barjam",
-      "normalizedName": "zahir barjam",
-      "compositeRole": "Hitter",
+      "name": "Chase Ecker",
+      "normalizedName": "chase ecker",
+      "compositeRole": "Rostered",
       "role": "Hitter",
-      "position": "INF",
-      "positionLong": "Infielder",
-      "classYear": "FR",
+      "position": "OF",
+      "positionLong": "Outfielder",
+      "classYear": "SO",
       "handedness": "R/R",
       "jersey": "3",
-      "hometown": "Santo Domingo, Dominican Republic",
-      "highSchool": "P27 Academy (S.C.)",
-      "previousSchool": "",
-      "hometownHighSchool": "Santo Domingo, Dominican Republic / P27 Academy (S.C.)",
-      "profileUrl": "https://wvusports.com/sports/baseball/roster/zahir-barjam/19290",
-      "imageUrl": "https://wvusports.com/images/2025/8/29/Barjam-Zahir.jpg",
+      "hometown": "Malvern, Pa.",
+      "highSchool": "Malvern Prep",
+      "previousSchool": "William & Mary",
+      "hometownHighSchool": "Malvern, Pa. / Malvern Prep",
+      "profileUrl": "https://wvusports.com/sports/baseball/roster/chase-ecker/20197",
+      "imageUrl": "https://wvusports.com/images/2026/8/18/ecker-chase.JPG",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "19290",
+      "rosterBioId": "20197",
       "sources": [
-        "West Virginia Athletics roster",
-        "West Virginia cumulative stats"
+        "West Virginia Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "19290",
-        "name": "Zahir Barjam",
-        "normalizedName": "zahir barjam",
-        "jersey": "3",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/zahir-barjam/19290",
-        "imageUrl": "https://wvusports.com/images/2025/8/29/Barjam-Zahir.jpg",
-        "gamesPlayed": 25,
-        "gamesStarted": 4,
-        "battingAverage": 0.273,
-        "onBasePercentage": 0.306,
-        "sluggingPercentage": 0.394,
-        "ops": 0.7,
-        "atBats": 33,
-        "runs": 4,
-        "hits": 9,
-        "doubles": 4,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 3,
-        "totalBases": 13,
-        "walks": 1,
-        "hitByPitch": 1,
-        "strikeouts": 9,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 1,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 2,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 36,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "19290",
-        "name": "Zahir Barjam",
-        "normalizedName": "zahir barjam",
-        "jersey": "3",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/zahir-barjam/19290",
-        "imageUrl": "https://wvusports.com/images/2025/8/29/Barjam-Zahir.jpg",
-        "gamesPlayed": 2,
-        "gamesStarted": 0,
-        "putouts": 2,
-        "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 2
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 16,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 14.444444444444427,
-          "Power": 19.473684210526322,
-          "Contact": 33.12500000000001,
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
           "Discipline": 0,
           "Speed": 0
         },
-        "summary": "Zahir Barjam gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Chase Ecker gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .273",
-          "OBP .306",
-          "SLG .394"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".273"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".306"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".394"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -667,25 +496,25 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
           },
           {
             "label": "RBI",
-            "value": "3"
+            "value": "0"
           },
           {
             "label": "SB",
             "value": "0"
           }
         ],
-        "metaLine": "FR / R/R",
+        "metaLine": "SO / R/R",
         "detailBadges": [
-          "INF",
-          "FR",
+          "OF",
+          "SO",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats"
+        "sourceSummary": "West Virginia Athletics roster"
       }
     },
     {
-      "id": "west-virginia-19278",
+      "id": "west-virginia-20184",
       "schoolSlug": "west-virginia",
       "school": "West Virginia",
       "schoolLongName": "West Virginia University",
@@ -702,7 +531,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
       "highSchool": "The Miller School of Albemarle",
       "previousSchool": "",
       "hometownHighSchool": "Staunton, Va. / The Miller School of Albemarle",
-      "profileUrl": "https://wvusports.com/sports/baseball/roster/jackson-ingram/19278",
+      "profileUrl": "https://wvusports.com/sports/baseball/roster/jackson-ingram/20184",
       "imageUrl": "https://wvusports.com/images/2026/1/15/Ingram__Jackson.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -710,7 +539,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "19278",
+      "rosterBioId": "20184",
       "sources": [
         "West Virginia Athletics roster"
       ],
@@ -773,24 +602,24 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
       }
     },
     {
-      "id": "west-virginia-19275",
+      "id": "west-virginia-20178",
       "schoolSlug": "west-virginia",
       "school": "West Virginia",
       "schoolLongName": "West Virginia University",
       "name": "Armani Guzman",
       "normalizedName": "armani guzman",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "UTL",
       "positionLong": "Utility",
-      "classYear": "JR",
+      "classYear": "SR",
       "handedness": "L/R",
       "jersey": "5",
       "hometown": "New York, N.Y.",
       "highSchool": "Rabun Gap-Nacoochee School (Ga.)",
       "previousSchool": "",
       "hometownHighSchool": "New York, N.Y. / Rabun Gap-Nacoochee School (Ga.)",
-      "profileUrl": "https://wvusports.com/sports/baseball/roster/armani-guzman/19275",
+      "profileUrl": "https://wvusports.com/sports/baseball/roster/armani-guzman/20178",
       "imageUrl": "https://wvusports.com/images/2026/1/15/Guzman__Armani.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -798,289 +627,175 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "19275",
+      "rosterBioId": "20178",
       "sources": [
-        "West Virginia Athletics roster",
-        "West Virginia cumulative stats"
+        "West Virginia Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "19275",
-        "name": "Armani Guzman",
-        "normalizedName": "armani guzman",
-        "jersey": "5",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/armani-guzman/19275",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Guzman__Armani.jpg",
-        "gamesPlayed": 64,
-        "gamesStarted": 64,
-        "battingAverage": 0.321,
-        "onBasePercentage": 0.419,
-        "sluggingPercentage": 0.444,
-        "ops": 0.863,
-        "atBats": 234,
-        "runs": 66,
-        "hits": 75,
-        "doubles": 22,
-        "triples": 2,
-        "homeRuns": 1,
-        "runsBattedIn": 45,
-        "totalBases": 104,
-        "walks": 39,
-        "hitByPitch": 5,
-        "strikeouts": 42,
-        "intentionalWalks": 2,
-        "groundedIntoDoublePlay": 6,
-        "sacrificeFlies": 6,
-        "sacrificeHits": 4,
-        "stolenBases": 42,
-        "stolenBasesAttempts": 46,
-        "putouts": 344,
-        "assists": 0,
-        "errors": 8,
-        "plateAppearances": 338,
-        "caughtStealing": 4,
-        "pickedOff": 1
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "19275",
-        "name": "Armani Guzman",
-        "normalizedName": "armani guzman",
-        "jersey": "5",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/armani-guzman/19275",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Guzman__Armani.jpg",
-        "gamesPlayed": 62,
-        "gamesStarted": 62,
-        "putouts": 344,
-        "assists": 22,
-        "errors": 8,
-        "fieldingPercentage": 0.979,
-        "doublePlays": 29,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 374
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 66,
+        "score": 0,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
         "components": {
-          "On-base": 77.2222222222222,
-          "Power": 32.631578947368425,
-          "Contact": 63.125,
-          "Discipline": 80.95238095238095,
-          "Speed": 100
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "summary": "Armani Guzman profiles as a UTL piece who gets on base at a high clip and adds running-game pressure.",
+        "summary": "Armani Guzman gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .321",
-          "OBP .419",
-          "SLG .444"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".321"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".419"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".444"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "1"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "45"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "42"
+            "value": "0"
           }
         ],
-        "metaLine": "JR / L/R",
+        "metaLine": "SR / L/R",
         "detailBadges": [
           "UTL",
-          "JR",
+          "SR",
           "L/R",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats"
+        "sourceSummary": "West Virginia Athletics roster"
       }
     },
     {
-      "id": "west-virginia-19316",
+      "id": "west-virginia-20198",
       "schoolSlug": "west-virginia",
       "school": "West Virginia",
       "schoolLongName": "West Virginia University",
-      "name": "Paul Schoenfeld",
-      "normalizedName": "paul schoenfeld",
-      "compositeRole": "Hitter",
+      "name": "Jack Cannon",
+      "normalizedName": "jack cannon",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "OF",
       "positionLong": "Outfielder",
-      "classYear": "5TH",
-      "handedness": "L/L",
+      "classYear": "SR",
+      "handedness": "R/L",
       "jersey": "6",
-      "hometown": "Wichita, Kan.",
-      "highSchool": "Bishop Carroll",
-      "previousSchool": "Colorado Mesa",
-      "hometownHighSchool": "Wichita, Kan. / Bishop Carroll",
-      "profileUrl": "https://wvusports.com/sports/baseball/roster/paul-schoenfeld/19316",
-      "imageUrl": "https://wvusports.com/images/2026/1/15/Schoenfeld__Paul.jpg",
+      "hometown": "Webster, N.Y.",
+      "highSchool": "Webster Schroeder",
+      "previousSchool": "Le Moyne",
+      "hometownHighSchool": "Webster, N.Y. / Webster Schroeder",
+      "profileUrl": "https://wvusports.com/sports/baseball/roster/jack-cannon/20198",
+      "imageUrl": "https://wvusports.com/images/2026/8/18/cannon-jack.JPG",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "19316",
+      "rosterBioId": "20198",
       "sources": [
-        "West Virginia Athletics roster",
-        "West Virginia cumulative stats"
+        "West Virginia Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "19316",
-        "name": "Paul Schoenfeld",
-        "normalizedName": "paul schoenfeld",
-        "jersey": "6",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/paul-schoenfeld/19316",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Schoenfeld__Paul.jpg",
-        "gamesPlayed": 64,
-        "gamesStarted": 64,
-        "battingAverage": 0.327,
-        "onBasePercentage": 0.422,
-        "sluggingPercentage": 0.48,
-        "ops": 0.902,
-        "atBats": 254,
-        "runs": 48,
-        "hits": 83,
-        "doubles": 19,
-        "triples": 4,
-        "homeRuns": 4,
-        "runsBattedIn": 52,
-        "totalBases": 122,
-        "walks": 40,
-        "hitByPitch": 4,
-        "strikeouts": 41,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 4,
-        "sacrificeFlies": 3,
-        "sacrificeHits": 5,
-        "stolenBases": 26,
-        "stolenBasesAttempts": 32,
-        "putouts": 137,
-        "assists": 0,
-        "errors": 1,
-        "plateAppearances": 344,
-        "caughtStealing": 6,
-        "pickedOff": 3
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "19316",
-        "name": "Paul Schoenfeld",
-        "normalizedName": "paul schoenfeld",
-        "jersey": "6",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/paul-schoenfeld/19316",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Schoenfeld__Paul.jpg",
-        "gamesPlayed": 58,
-        "gamesStarted": 58,
-        "putouts": 137,
-        "assists": 6,
-        "errors": 1,
-        "fieldingPercentage": 0.993,
-        "doublePlays": 3,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 144
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 69,
+        "score": 0,
         "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
+          "label": "Depth",
+          "className": "fit-depth"
         },
         "components": {
-          "On-base": 78.88888888888886,
-          "Power": 42.10526315789473,
-          "Contact": 66.875,
-          "Discipline": 86.17886178861788,
-          "Speed": 86.66666666666667
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "summary": "Paul Schoenfeld profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
+        "summary": "Jack Cannon gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .327",
-          "OBP .422",
-          "SLG .480"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".327"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".422"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".480"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "4"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "52"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "26"
+            "value": "0"
           }
         ],
-        "metaLine": "5TH / L/L",
+        "metaLine": "SR / R/L",
         "detailBadges": [
           "OF",
-          "5TH",
-          "L/L",
-          "Hitter"
+          "SR",
+          "R/L",
+          "Rostered"
         ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats"
+        "sourceSummary": "West Virginia Athletics roster"
       }
     },
     {
-      "id": "west-virginia-19286",
+      "id": "west-virginia-20188",
       "schoolSlug": "west-virginia",
       "school": "West Virginia",
       "schoolLongName": "West Virginia University",
       "name": "Maxwell Molessa",
       "normalizedName": "maxwell molessa",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "OF",
       "positionLong": "Outfield",
-      "classYear": "R-FR",
+      "classYear": "R-SO",
       "handedness": "L/R",
       "jersey": "7",
       "hometown": "Pullman, W.Va.",
       "highSchool": "Williamstown HS",
       "previousSchool": "",
       "hometownHighSchool": "Pullman, W.Va. / Williamstown HS",
-      "profileUrl": "https://wvusports.com/sports/baseball/roster/maxwell-molessa/19286",
+      "profileUrl": "https://wvusports.com/sports/baseball/roster/maxwell-molessa/20188",
       "imageUrl": "https://wvusports.com/images/2026/1/15/Molessa__Maxwell.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -1088,101 +803,44 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "19286",
+      "rosterBioId": "20188",
       "sources": [
-        "West Virginia Athletics roster",
-        "West Virginia cumulative stats"
+        "West Virginia Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "19286",
-        "name": "Maxwell Molessa",
-        "normalizedName": "maxwell molessa",
-        "jersey": "7",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/maxwell-molessa/19286",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Molessa__Maxwell.jpg",
-        "gamesPlayed": 21,
-        "gamesStarted": 1,
-        "battingAverage": 0.267,
-        "onBasePercentage": 0.267,
-        "sluggingPercentage": 0.333,
-        "ops": 0.6,
-        "atBats": 15,
-        "runs": 4,
-        "hits": 4,
-        "doubles": 1,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 2,
-        "totalBases": 5,
-        "walks": 0,
-        "hitByPitch": 0,
-        "strikeouts": 7,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 6,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 15,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "19286",
-        "name": "Maxwell Molessa",
-        "normalizedName": "maxwell molessa",
-        "jersey": "7",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/maxwell-molessa/19286",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Molessa__Maxwell.jpg",
-        "gamesPlayed": 2,
-        "gamesStarted": 0,
-        "putouts": 6,
-        "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 6
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 6,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
           "On-base": 0,
-          "Power": 3.421052631578951,
-          "Contact": 29.375000000000007,
+          "Power": 0,
+          "Contact": 0,
           "Discipline": 0,
           "Speed": 0
         },
         "summary": "Maxwell Molessa gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .267",
-          "OBP .267",
-          "SLG .333"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".267"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".267"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".333"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -1190,42 +848,42 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
           },
           {
             "label": "RBI",
-            "value": "2"
+            "value": "0"
           },
           {
             "label": "SB",
             "value": "0"
           }
         ],
-        "metaLine": "R-FR / L/R",
+        "metaLine": "R-SO / L/R",
         "detailBadges": [
           "OF",
-          "R-FR",
+          "R-SO",
           "L/R",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats"
+        "sourceSummary": "West Virginia Athletics roster"
       }
     },
     {
-      "id": "west-virginia-19305",
+      "id": "west-virginia-20180",
       "schoolSlug": "west-virginia",
       "school": "West Virginia",
       "schoolLongName": "West Virginia University",
       "name": "Tyrus Hall",
       "normalizedName": "tyrus hall",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "INF",
       "positionLong": "Infielder",
-      "classYear": "JR",
+      "classYear": "SR",
       "handedness": "R/R",
       "jersey": "8",
       "hometown": "Victoria, British Columbia, Can.",
       "highSchool": "Oak Bay",
       "previousSchool": "Bossier Parish CC",
       "hometownHighSchool": "Victoria, British Columbia, Can. / Oak Bay",
-      "profileUrl": "https://wvusports.com/sports/baseball/roster/tyrus-hall/19305",
+      "profileUrl": "https://wvusports.com/sports/baseball/roster/tyrus-hall/20180",
       "imageUrl": "https://wvusports.com/images/2026/1/15/Hall__Tyrus.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -1233,127 +891,70 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "19305",
+      "rosterBioId": "20180",
       "sources": [
-        "West Virginia Athletics roster",
-        "West Virginia cumulative stats"
+        "West Virginia Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "19305",
-        "name": "Tyrus Hall",
-        "normalizedName": "tyrus hall",
-        "jersey": "8",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/tyrus-hall/19305",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Hall__Tyrus.jpg",
-        "gamesPlayed": 64,
-        "gamesStarted": 63,
-        "battingAverage": 0.279,
-        "onBasePercentage": 0.402,
-        "sluggingPercentage": 0.433,
-        "ops": 0.835,
-        "atBats": 201,
-        "runs": 52,
-        "hits": 56,
-        "doubles": 8,
-        "triples": 1,
-        "homeRuns": 7,
-        "runsBattedIn": 38,
-        "totalBases": 87,
-        "walks": 36,
-        "hitByPitch": 7,
-        "strikeouts": 85,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 4,
-        "sacrificeFlies": 2,
-        "sacrificeHits": 6,
-        "stolenBases": 20,
-        "stolenBasesAttempts": 23,
-        "putouts": 27,
-        "assists": 0,
-        "errors": 7,
-        "plateAppearances": 278,
-        "caughtStealing": 3,
-        "pickedOff": 2
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "19305",
-        "name": "Tyrus Hall",
-        "normalizedName": "tyrus hall",
-        "jersey": "8",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/tyrus-hall/19305",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Hall__Tyrus.jpg",
-        "gamesPlayed": 61,
-        "gamesStarted": 61,
-        "putouts": 27,
-        "assists": 123,
-        "errors": 7,
-        "fieldingPercentage": 0.955,
-        "doublePlays": 7,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 157
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 46,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 67.77777777777779,
-          "Power": 29.73684210526316,
-          "Contact": 36.875000000000014,
-          "Discipline": 24.836601307189536,
-          "Speed": 66.66666666666666
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "summary": "Tyrus Hall profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
+        "summary": "Tyrus Hall gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .279",
-          "OBP .402",
-          "SLG .433"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".279"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".402"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".433"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "7"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "38"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "20"
+            "value": "0"
           }
         ],
-        "metaLine": "JR / R/R",
+        "metaLine": "SR / R/R",
         "detailBadges": [
           "INF",
-          "JR",
+          "SR",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats"
+        "sourceSummary": "West Virginia Athletics roster"
       }
     },
     {
-      "id": "west-virginia-19277",
+      "id": "west-virginia-20181",
       "schoolSlug": "west-virginia",
       "school": "West Virginia",
       "schoolLongName": "West Virginia University",
@@ -1363,14 +964,14 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Right-Handed Pitcher",
-      "classYear": "SO",
+      "classYear": "JR",
       "handedness": "R/R",
       "jersey": "9",
       "hometown": "Charleston, W.Va.",
       "highSchool": "George Washington HS",
       "previousSchool": "",
       "hometownHighSchool": "Charleston, W.Va. / George Washington HS",
-      "profileUrl": "https://wvusports.com/sports/baseball/roster/bryson-hoff/19277",
+      "profileUrl": "https://wvusports.com/sports/baseball/roster/bryson-hoff/20181",
       "imageUrl": "https://wvusports.com/images/2026/1/15/Hoff__Bryson.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -1378,1590 +979,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "19277",
-      "sources": [
-        "West Virginia Athletics roster",
-        "West Virginia cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "19277",
-        "name": "Bryson Hoff",
-        "normalizedName": "bryson hoff",
-        "jersey": "9",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/bryson-hoff/19277",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Hoff__Bryson.jpg",
-        "gamesPlayed": 1,
-        "gamesStarted": 0,
-        "appearances": 1,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 27,
-        "whip": 3,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 0.6666666666666666,
-        "inningsPitchedDisplay": "0.2",
-        "hitsAllowed": 2,
-        "runsAllowed": 2,
-        "earnedRunsAllowed": 2,
-        "walksAllowed": 0,
-        "strikeouts": 1,
-        "doublesAllowed": 1,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 4,
-        "wildPitches": 1,
-        "hitBatters": 0,
-        "balks": 0,
-        "opponentsBattingAverage": 0.5,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "19277",
-        "name": "Bryson Hoff",
-        "normalizedName": "bryson hoff",
-        "jersey": "9",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/bryson-hoff/19277",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Hoff__Bryson.jpg",
-        "gamesPlayed": 1,
-        "gamesStarted": 0,
-        "putouts": 1,
-        "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 1
-      },
-      "evaluation": {
-        "score": 33,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 86.36363636363636,
-          "Command": 100,
-          "Damage suppression": 0
-        },
-        "summary": "Bryson Hoff looks like a RHP option who misses bats and throws enough strikes.",
-        "summaryMetrics": [
-          "ERA 27.00",
-          "WHIP 3.00",
-          "K/9 13.5"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "27.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "3.00"
-          },
-          {
-            "label": "K/9",
-            "value": "13.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.7"
-          }
-        ],
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats"
-      }
-    },
-    {
-      "id": "west-virginia-19322",
-      "schoolSlug": "west-virginia",
-      "school": "West Virginia",
-      "schoolLongName": "West Virginia University",
-      "name": "Bryson Thacker",
-      "normalizedName": "bryson thacker",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "Left-Handed Pitcher",
-      "classYear": "R-SO",
-      "handedness": "L/L",
-      "jersey": "10",
-      "hometown": "Rome, Ga.",
-      "highSchool": "Rome",
-      "previousSchool": "Tennessee",
-      "hometownHighSchool": "Rome, Ga. / Rome",
-      "profileUrl": "https://wvusports.com/sports/baseball/roster/bryson-thacker/19322",
-      "imageUrl": "https://wvusports.com/images/2026/1/15/Thacker__Bryson.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "19322",
-      "sources": [
-        "West Virginia Athletics roster",
-        "West Virginia cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "19322",
-        "name": "Bryson Thacker",
-        "normalizedName": "bryson thacker",
-        "jersey": "10",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/bryson-thacker/19322",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Thacker__Bryson.jpg",
-        "gamesPlayed": 13,
-        "gamesStarted": 1,
-        "appearances": 13,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 7.2,
-        "whip": 1.9,
-        "wins": 0,
-        "losses": 1,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 10,
-        "inningsPitchedDisplay": "10.0",
-        "hitsAllowed": 9,
-        "runsAllowed": 11,
-        "earnedRunsAllowed": 8,
-        "walksAllowed": 10,
-        "strikeouts": 13,
-        "doublesAllowed": 1,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 4,
-        "opponentsAtBats": 37,
-        "wildPitches": 3,
-        "hitBatters": 3,
-        "balks": 0,
-        "opponentsBattingAverage": 0.243,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "19322",
-        "name": "Bryson Thacker",
-        "normalizedName": "bryson thacker",
-        "jersey": "10",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/bryson-thacker/19322",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Thacker__Bryson.jpg",
-        "gamesPlayed": 2,
-        "gamesStarted": 0,
-        "putouts": 1,
-        "assists": 2,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 1,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 3
-      },
-      "evaluation": {
-        "score": 15,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 70,
-          "Command": 5.9999999999999964,
-          "Damage suppression": 0
-        },
-        "summary": "Bryson Thacker looks like a LHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 7.20",
-          "WHIP 1.90",
-          "K/9 11.7"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "7.20"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.90"
-          },
-          {
-            "label": "K/9",
-            "value": "11.7"
-          },
-          {
-            "label": "BB/9",
-            "value": "9.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "3.60"
-          },
-          {
-            "label": "IP",
-            "value": "10.0"
-          }
-        ],
-        "metaLine": "R-SO / L/L",
-        "detailBadges": [
-          "LHP",
-          "R-SO",
-          "L/L",
-          "Pitcher"
-        ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats"
-      }
-    },
-    {
-      "id": "west-virginia-19319",
-      "schoolSlug": "west-virginia",
-      "school": "West Virginia",
-      "schoolLongName": "West Virginia University",
-      "name": "Sean Smith",
-      "normalizedName": "sean smith",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "OF",
-      "positionLong": "Outfielder",
-      "classYear": "GR",
-      "handedness": "R/R",
-      "jersey": "11",
-      "hometown": "Moss Point, Miss.",
-      "highSchool": "Pascagoula",
-      "previousSchool": "Georgia Southern",
-      "hometownHighSchool": "Moss Point, Miss. / Pascagoula",
-      "profileUrl": "https://wvusports.com/sports/baseball/roster/sean-smith/19319",
-      "imageUrl": "https://wvusports.com/images/2026/1/15/Smith__Sean.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "19319",
-      "sources": [
-        "West Virginia Athletics roster",
-        "West Virginia cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "19319",
-        "name": "Sean Smith",
-        "normalizedName": "sean smith",
-        "jersey": "11",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/sean-smith/19319",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Smith__Sean.jpg",
-        "gamesPlayed": 63,
-        "gamesStarted": 61,
-        "battingAverage": 0.315,
-        "onBasePercentage": 0.409,
-        "sluggingPercentage": 0.515,
-        "ops": 0.924,
-        "atBats": 235,
-        "runs": 49,
-        "hits": 74,
-        "doubles": 11,
-        "triples": 3,
-        "homeRuns": 10,
-        "runsBattedIn": 55,
-        "totalBases": 121,
-        "walks": 29,
-        "hitByPitch": 9,
-        "strikeouts": 60,
-        "intentionalWalks": 2,
-        "groundedIntoDoublePlay": 6,
-        "sacrificeFlies": 1,
-        "sacrificeHits": 0,
-        "stolenBases": 6,
-        "stolenBasesAttempts": 7,
-        "putouts": 7,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 284,
-        "caughtStealing": 1,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "19319",
-        "name": "Sean Smith",
-        "normalizedName": "sean smith",
-        "jersey": "11",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/sean-smith/19319",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Smith__Sean.jpg",
-        "gamesPlayed": 5,
-        "gamesStarted": 5,
-        "putouts": 7,
-        "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 7
-      },
-      "evaluation": {
-        "score": 53,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 71.66666666666664,
-          "Power": 51.31578947368421,
-          "Contact": 59.375,
-          "Discipline": 31.481481481481477,
-          "Speed": 20
-        },
-        "summary": "Sean Smith profiles as a OF piece who gets on base at a high clip.",
-        "summaryMetrics": [
-          "AVG .315",
-          "OBP .409",
-          "SLG .515"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".315"
-          },
-          {
-            "label": "OBP",
-            "value": ".409"
-          },
-          {
-            "label": "SLG",
-            "value": ".515"
-          },
-          {
-            "label": "HR",
-            "value": "10"
-          },
-          {
-            "label": "RBI",
-            "value": "55"
-          },
-          {
-            "label": "SB",
-            "value": "6"
-          }
-        ],
-        "metaLine": "GR / R/R",
-        "detailBadges": [
-          "OF",
-          "GR",
-          "R/R",
-          "Hitter"
-        ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats"
-      }
-    },
-    {
-      "id": "west-virginia-19280",
-      "schoolSlug": "west-virginia",
-      "school": "West Virginia",
-      "schoolLongName": "West Virginia University",
-      "name": "Brodie Kresser",
-      "normalizedName": "brodie kresser",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "INF",
-      "positionLong": "Infielder",
-      "classYear": "GR",
-      "handedness": "R/R",
-      "jersey": "12",
-      "hometown": "Jesup, Iowa",
-      "highSchool": "Jesup HS",
-      "previousSchool": "Des Moines Area CC",
-      "hometownHighSchool": "Jesup, Iowa / Jesup HS",
-      "profileUrl": "https://wvusports.com/sports/baseball/roster/brodie-kresser/19280",
-      "imageUrl": "https://wvusports.com/images/2026/1/15/Kresser__Brodie.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "19280",
-      "sources": [
-        "West Virginia Athletics roster",
-        "West Virginia cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "19280",
-        "name": "Brodie Kresser",
-        "normalizedName": "brodie kresser",
-        "jersey": "12",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/brodie-kresser/19280",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Kresser__Brodie.jpg",
-        "gamesPlayed": 56,
-        "gamesStarted": 55,
-        "battingAverage": 0.295,
-        "onBasePercentage": 0.395,
-        "sluggingPercentage": 0.377,
-        "ops": 0.772,
-        "atBats": 183,
-        "runs": 39,
-        "hits": 54,
-        "doubles": 7,
-        "triples": 1,
-        "homeRuns": 2,
-        "runsBattedIn": 34,
-        "totalBases": 69,
-        "walks": 26,
-        "hitByPitch": 8,
-        "strikeouts": 30,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 3,
-        "sacrificeFlies": 6,
-        "sacrificeHits": 3,
-        "stolenBases": 6,
-        "stolenBasesAttempts": 6,
-        "putouts": 203,
-        "assists": 0,
-        "errors": 7,
-        "plateAppearances": 232,
-        "caughtStealing": 0,
-        "pickedOff": 1
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "19280",
-        "name": "Brodie Kresser",
-        "normalizedName": "brodie kresser",
-        "jersey": "12",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/brodie-kresser/19280",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Kresser__Brodie.jpg",
-        "gamesPlayed": 53,
-        "gamesStarted": 53,
-        "putouts": 203,
-        "assists": 83,
-        "errors": 7,
-        "fieldingPercentage": 0.976,
-        "doublePlays": 37,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 293
-      },
-      "evaluation": {
-        "score": 45,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 63.888888888888886,
-          "Power": 15,
-          "Contact": 46.874999999999986,
-          "Discipline": 74.07407407407408,
-          "Speed": 20
-        },
-        "summary": "Brodie Kresser gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .295",
-          "OBP .395",
-          "SLG .377"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".295"
-          },
-          {
-            "label": "OBP",
-            "value": ".395"
-          },
-          {
-            "label": "SLG",
-            "value": ".377"
-          },
-          {
-            "label": "HR",
-            "value": "2"
-          },
-          {
-            "label": "RBI",
-            "value": "34"
-          },
-          {
-            "label": "SB",
-            "value": "6"
-          }
-        ],
-        "metaLine": "GR / R/R",
-        "detailBadges": [
-          "INF",
-          "GR",
-          "R/R",
-          "Hitter"
-        ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats"
-      }
-    },
-    {
-      "id": "west-virginia-19283",
-      "schoolSlug": "west-virginia",
-      "school": "West Virginia",
-      "schoolLongName": "West Virginia University",
-      "name": "Ryan Maggy",
-      "normalizedName": "ryan maggy",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "INF",
-      "positionLong": "Infielder",
-      "classYear": "R-FR",
-      "handedness": "L/R",
-      "jersey": "13",
-      "hometown": "Peru, N.Y.",
-      "highSchool": "Cypress Creek HS (Fla.)",
-      "previousSchool": "",
-      "hometownHighSchool": "Peru, N.Y. / Cypress Creek HS (Fla.)",
-      "profileUrl": "https://wvusports.com/sports/baseball/roster/ryan-maggy/19283",
-      "imageUrl": "https://wvusports.com/images/2026/1/15/Maggy__Ryan.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "19283",
-      "sources": [
-        "West Virginia Athletics roster",
-        "West Virginia cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "19283",
-        "name": "Ryan Maggy",
-        "normalizedName": "ryan maggy",
-        "jersey": "13",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/ryan-maggy/19283",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Maggy__Ryan.jpg",
-        "gamesPlayed": 17,
-        "gamesStarted": 1,
-        "battingAverage": 0.235,
-        "onBasePercentage": 0.35,
-        "sluggingPercentage": 0.235,
-        "ops": 0.585,
-        "atBats": 17,
-        "runs": 1,
-        "hits": 4,
-        "doubles": 0,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 4,
-        "totalBases": 4,
-        "walks": 3,
-        "hitByPitch": 0,
-        "strikeouts": 9,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 1,
-        "stolenBasesAttempts": 1,
-        "putouts": 9,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 21,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "19283",
-        "name": "Ryan Maggy",
-        "normalizedName": "ryan maggy",
-        "jersey": "13",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/ryan-maggy/19283",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Maggy__Ryan.jpg",
-        "gamesPlayed": 5,
-        "gamesStarted": 0,
-        "putouts": 9,
-        "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 2,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 9
-      },
-      "evaluation": {
-        "score": 17,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 38.888888888888864,
-          "Power": 0,
-          "Contact": 9.374999999999991,
-          "Discipline": 14.814814814814808,
-          "Speed": 3.3333333333333335
-        },
-        "summary": "Ryan Maggy gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .235",
-          "OBP .350",
-          "SLG .235"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".235"
-          },
-          {
-            "label": "OBP",
-            "value": ".350"
-          },
-          {
-            "label": "SLG",
-            "value": ".235"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "4"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
-        "metaLine": "R-FR / L/R",
-        "detailBadges": [
-          "INF",
-          "R-FR",
-          "L/R",
-          "Hitter"
-        ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats"
-      }
-    },
-    {
-      "id": "west-virginia-19309",
-      "schoolSlug": "west-virginia",
-      "school": "West Virginia",
-      "schoolLongName": "West Virginia University",
-      "name": "Weston Mazey",
-      "normalizedName": "weston mazey",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "INF",
-      "positionLong": "Infielder",
-      "classYear": "FR",
-      "handedness": "R/R",
-      "jersey": "14",
-      "hometown": "Morgantown, W.Va.",
-      "highSchool": "Morgantown",
-      "previousSchool": "",
-      "hometownHighSchool": "Morgantown, W.Va. / Morgantown",
-      "profileUrl": "https://wvusports.com/sports/baseball/roster/weston-mazey/19309",
-      "imageUrl": "https://wvusports.com/images/2026/1/15/Mazey__Weston.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "19309",
-      "sources": [
-        "West Virginia Athletics roster",
-        "West Virginia cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "19309",
-        "name": "Weston Mazey",
-        "normalizedName": "weston mazey",
-        "jersey": "14",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/weston-mazey/19309",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Mazey__Weston.jpg",
-        "gamesPlayed": 12,
-        "gamesStarted": 1,
-        "battingAverage": 0.125,
-        "onBasePercentage": 0.3,
-        "sluggingPercentage": 0.125,
-        "ops": 0.425,
-        "atBats": 8,
-        "runs": 5,
-        "hits": 1,
-        "doubles": 0,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 0,
-        "totalBases": 1,
-        "walks": 2,
-        "hitByPitch": 0,
-        "strikeouts": 5,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 2,
-        "assists": 0,
-        "errors": 1,
-        "plateAppearances": 10,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "19309",
-        "name": "Weston Mazey",
-        "normalizedName": "weston mazey",
-        "jersey": "14",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/weston-mazey/19309",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Mazey__Weston.jpg",
-        "gamesPlayed": 4,
-        "gamesStarted": 1,
-        "putouts": 2,
-        "assists": 3,
-        "errors": 1,
-        "fieldingPercentage": 0.833,
-        "doublePlays": 2,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 6
-      },
-      "evaluation": {
-        "score": 7,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 11.111111111111091,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 22.22222222222222,
-          "Speed": 0
-        },
-        "summary": "Weston Mazey gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .125",
-          "OBP .300",
-          "SLG .125"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".125"
-          },
-          {
-            "label": "OBP",
-            "value": ".300"
-          },
-          {
-            "label": "SLG",
-            "value": ".125"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "INF",
-          "FR",
-          "R/R",
-          "Hitter"
-        ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats"
-      }
-    },
-    {
-      "id": "west-virginia-19288",
-      "schoolSlug": "west-virginia",
-      "school": "West Virginia",
-      "schoolLongName": "West Virginia University",
-      "name": "Maxx Yehl",
-      "normalizedName": "maxx yehl",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "Left-Handed Pitcher",
-      "classYear": "R-JR",
-      "handedness": "L/L",
-      "jersey": "15",
-      "hometown": "Portville, N.Y.",
-      "highSchool": "Portville Central",
-      "previousSchool": "",
-      "hometownHighSchool": "Portville, N.Y. / Portville Central",
-      "profileUrl": "https://wvusports.com/sports/baseball/roster/maxx-yehl/19288",
-      "imageUrl": "https://wvusports.com/images/2026/1/15/Yehl__Maxx.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "19288",
-      "sources": [
-        "West Virginia Athletics roster",
-        "West Virginia cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "19288",
-        "name": "Maxx Yehl",
-        "normalizedName": "maxx yehl",
-        "jersey": "15",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/maxx-yehl/19288",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Yehl__Maxx.jpg",
-        "gamesPlayed": 18,
-        "gamesStarted": 18,
-        "appearances": 18,
-        "gamesCompleted": 1,
-        "earnedRunAverage": 2.13,
-        "whip": 1.07,
-        "wins": 9,
-        "losses": 3,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 97,
-        "inningsPitchedDisplay": "97.0",
-        "hitsAllowed": 78,
-        "runsAllowed": 33,
-        "earnedRunsAllowed": 23,
-        "walksAllowed": 26,
-        "strikeouts": 112,
-        "doublesAllowed": 6,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 7,
-        "opponentsAtBats": 351,
-        "wildPitches": 5,
-        "hitBatters": 19,
-        "balks": 0,
-        "opponentsBattingAverage": 0.222,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "19288",
-        "name": "Maxx Yehl",
-        "normalizedName": "maxx yehl",
-        "jersey": "15",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/maxx-yehl/19288",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Yehl__Maxx.jpg",
-        "gamesPlayed": 10,
-        "gamesStarted": 10,
-        "putouts": 4,
-        "assists": 8,
-        "errors": 1,
-        "fieldingPercentage": 0.923,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 2,
-        "caughtStealingBy": 1,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 13
-      },
-      "evaluation": {
-        "score": 22,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 58.10684161199625,
-          "Command": 66.15384615384616,
-          "Damage suppression": 0
-        },
-        "summary": "Maxx Yehl looks like a LHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
-        "summaryMetrics": [
-          "ERA 2.13",
-          "WHIP 1.07",
-          "K/9 10.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "2.13"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.07"
-          },
-          {
-            "label": "K/9",
-            "value": "10.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.4"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.65"
-          },
-          {
-            "label": "IP",
-            "value": "97.0"
-          }
-        ],
-        "metaLine": "R-JR / L/L",
-        "detailBadges": [
-          "LHP",
-          "R-JR",
-          "L/L",
-          "Pitcher"
-        ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats"
-      }
-    },
-    {
-      "id": "west-virginia-19323",
-      "schoolSlug": "west-virginia",
-      "school": "West Virginia",
-      "schoolLongName": "West Virginia University",
-      "name": "Brock Wills",
-      "normalizedName": "brock wills",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "OF",
-      "positionLong": "Outfielder",
-      "classYear": "SR",
-      "handedness": "L/R",
-      "jersey": "16",
-      "hometown": "Holly Springs, N.C.",
-      "highSchool": "Holly Springs",
-      "previousSchool": "UNC Wilmington",
-      "hometownHighSchool": "Holly Springs, N.C. / Holly Springs",
-      "profileUrl": "https://wvusports.com/sports/baseball/roster/brock-wills/19323",
-      "imageUrl": "https://wvusports.com/images/2026/1/15/Wills__Brock.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "19323",
-      "sources": [
-        "West Virginia Athletics roster",
-        "West Virginia cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "19323",
-        "name": "Brock Wills",
-        "normalizedName": "brock wills",
-        "jersey": "16",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/brock-wills/19323",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Wills__Brock.jpg",
-        "gamesPlayed": 53,
-        "gamesStarted": 45,
-        "battingAverage": 0.283,
-        "onBasePercentage": 0.372,
-        "sluggingPercentage": 0.392,
-        "ops": 0.764,
-        "atBats": 166,
-        "runs": 27,
-        "hits": 47,
-        "doubles": 6,
-        "triples": 3,
-        "homeRuns": 2,
-        "runsBattedIn": 23,
-        "totalBases": 65,
-        "walks": 15,
-        "hitByPitch": 9,
-        "strikeouts": 40,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 2,
-        "sacrificeFlies": 1,
-        "sacrificeHits": 4,
-        "stolenBases": 4,
-        "stolenBasesAttempts": 5,
-        "putouts": 78,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 201,
-        "caughtStealing": 1,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "19323",
-        "name": "Brock Wills",
-        "normalizedName": "brock wills",
-        "jersey": "16",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/brock-wills/19323",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Wills__Brock.jpg",
-        "gamesPlayed": 46,
-        "gamesStarted": 42,
-        "putouts": 78,
-        "assists": 2,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 80
-      },
-      "evaluation": {
-        "score": 32,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 51.11111111111109,
-          "Power": 18.947368421052634,
-          "Contact": 39.374999999999986,
-          "Discipline": 19.44444444444444,
-          "Speed": 13.333333333333334
-        },
-        "summary": "Brock Wills gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .283",
-          "OBP .372",
-          "SLG .392"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".283"
-          },
-          {
-            "label": "OBP",
-            "value": ".372"
-          },
-          {
-            "label": "SLG",
-            "value": ".392"
-          },
-          {
-            "label": "HR",
-            "value": "2"
-          },
-          {
-            "label": "RBI",
-            "value": "23"
-          },
-          {
-            "label": "SB",
-            "value": "4"
-          }
-        ],
-        "metaLine": "SR / L/R",
-        "detailBadges": [
-          "OF",
-          "SR",
-          "L/R",
-          "Hitter"
-        ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats"
-      }
-    },
-    {
-      "id": "west-virginia-19307",
-      "schoolSlug": "west-virginia",
-      "school": "West Virginia",
-      "schoolLongName": "West Virginia University",
-      "name": "Matt Ineich",
-      "normalizedName": "matt ineich",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "INF",
-      "positionLong": "Infielder",
-      "classYear": "SO",
-      "handedness": "L/R",
-      "jersey": "17",
-      "hometown": "South Lyon, Mich.",
-      "highSchool": "Detroit Catholic Central",
-      "previousSchool": "Ohio",
-      "hometownHighSchool": "South Lyon, Mich. / Detroit Catholic Central",
-      "profileUrl": "https://wvusports.com/sports/baseball/roster/matt-ineich/19307",
-      "imageUrl": "https://wvusports.com/images/2026/1/15/Ineich__Matt.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "19307",
-      "sources": [
-        "West Virginia Athletics roster",
-        "West Virginia cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "19307",
-        "name": "Matt Ineich",
-        "normalizedName": "matt ineich",
-        "jersey": "17",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/matt-ineich/19307",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Ineich__Matt.jpg",
-        "gamesPlayed": 64,
-        "gamesStarted": 64,
-        "battingAverage": 0.296,
-        "onBasePercentage": 0.442,
-        "sluggingPercentage": 0.412,
-        "ops": 0.854,
-        "atBats": 243,
-        "runs": 64,
-        "hits": 72,
-        "doubles": 12,
-        "triples": 2,
-        "homeRuns": 4,
-        "runsBattedIn": 36,
-        "totalBases": 100,
-        "walks": 56,
-        "hitByPitch": 10,
-        "strikeouts": 35,
-        "intentionalWalks": 1,
-        "groundedIntoDoublePlay": 8,
-        "sacrificeFlies": 3,
-        "sacrificeHits": 1,
-        "stolenBases": 7,
-        "stolenBasesAttempts": 10,
-        "putouts": 61,
-        "assists": 0,
-        "errors": 6,
-        "plateAppearances": 326,
-        "caughtStealing": 3,
-        "pickedOff": 1
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "19307",
-        "name": "Matt Ineich",
-        "normalizedName": "matt ineich",
-        "jersey": "17",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/matt-ineich/19307",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Ineich__Matt.jpg",
-        "gamesPlayed": 62,
-        "gamesStarted": 62,
-        "putouts": 61,
-        "assists": 157,
-        "errors": 6,
-        "fieldingPercentage": 0.973,
-        "doublePlays": 32,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 224
-      },
-      "evaluation": {
-        "score": 60,
-        "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
-        },
-        "components": {
-          "On-base": 89.99999999999999,
-          "Power": 24.21052631578947,
-          "Contact": 47.499999999999986,
-          "Discipline": 100,
-          "Speed": 23.333333333333332
-        },
-        "summary": "Matt Ineich profiles as a INF piece who gets on base at a high clip and controls at-bats.",
-        "summaryMetrics": [
-          "AVG .296",
-          "OBP .442",
-          "SLG .412"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".296"
-          },
-          {
-            "label": "OBP",
-            "value": ".442"
-          },
-          {
-            "label": "SLG",
-            "value": ".412"
-          },
-          {
-            "label": "HR",
-            "value": "4"
-          },
-          {
-            "label": "RBI",
-            "value": "36"
-          },
-          {
-            "label": "SB",
-            "value": "7"
-          }
-        ],
-        "metaLine": "SO / L/R",
-        "detailBadges": [
-          "INF",
-          "SO",
-          "L/R",
-          "Hitter"
-        ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats"
-      }
-    },
-    {
-      "id": "west-virginia-19308",
-      "schoolSlug": "west-virginia",
-      "school": "West Virginia",
-      "schoolLongName": "West Virginia University",
-      "name": "Ian Korn",
-      "normalizedName": "ian korn",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right-Handed Pitcher",
-      "classYear": "GR",
-      "handedness": "R/R",
-      "jersey": "18",
-      "hometown": "York, Pa.",
-      "highSchool": "York Suburban",
-      "previousSchool": "Seton Hill",
-      "hometownHighSchool": "York, Pa. / York Suburban",
-      "profileUrl": "https://wvusports.com/sports/baseball/roster/ian-korn/19308",
-      "imageUrl": "https://wvusports.com/images/2026/1/15/Korn__Ian.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "19308",
-      "sources": [
-        "West Virginia Athletics roster",
-        "West Virginia cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "19308",
-        "name": "Ian Korn",
-        "normalizedName": "ian korn",
-        "jersey": "18",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/ian-korn/19308",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Korn__Ian.jpg",
-        "gamesPlayed": 24,
-        "gamesStarted": 3,
-        "appearances": 24,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 3.39,
-        "whip": 1.08,
-        "wins": 6,
-        "losses": 1,
-        "saves": 2,
-        "shutouts": 0,
-        "inningsPitched": 79.66666666666667,
-        "inningsPitchedDisplay": "79.2",
-        "hitsAllowed": 73,
-        "runsAllowed": 33,
-        "earnedRunsAllowed": 30,
-        "walksAllowed": 13,
-        "strikeouts": 70,
-        "doublesAllowed": 10,
-        "triplesAllowed": 2,
-        "homeRunsAllowed": 7,
-        "opponentsAtBats": 300,
-        "wildPitches": 2,
-        "hitBatters": 5,
-        "balks": 0,
-        "opponentsBattingAverage": 0.243,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "19308",
-        "name": "Ian Korn",
-        "normalizedName": "ian korn",
-        "jersey": "18",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/ian-korn/19308",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Korn__Ian.jpg",
-        "gamesPlayed": 6,
-        "gamesStarted": 1,
-        "putouts": 5,
-        "assists": 3,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 1,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 8
-      },
-      "evaluation": {
-        "score": 21,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 35.526816279954346,
-          "Command": 87.69230769230768,
-          "Damage suppression": 0
-        },
-        "summary": "Ian Korn looks like a RHP option who limits runs and throws enough strikes and keeps traffic under control.",
-        "summaryMetrics": [
-          "ERA 3.39",
-          "WHIP 1.08",
-          "K/9 7.9"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.39"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.08"
-          },
-          {
-            "label": "K/9",
-            "value": "7.9"
-          },
-          {
-            "label": "BB/9",
-            "value": "1.5"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.79"
-          },
-          {
-            "label": "IP",
-            "value": "79.7"
-          }
-        ],
-        "metaLine": "GR / R/R",
-        "detailBadges": [
-          "RHP",
-          "GR",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats"
-      }
-    },
-    {
-      "id": "west-virginia-19314",
-      "schoolSlug": "west-virginia",
-      "school": "West Virginia",
-      "schoolLongName": "West Virginia University",
-      "name": "Matthew Robaugh",
-      "normalizedName": "matthew robaugh",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "INF",
-      "positionLong": "Infielder",
-      "classYear": "FR",
-      "handedness": "R/R",
-      "jersey": "19",
-      "hometown": "Washington, Pa.",
-      "highSchool": "Trinity",
-      "previousSchool": "",
-      "hometownHighSchool": "Washington, Pa. / Trinity",
-      "profileUrl": "https://wvusports.com/sports/baseball/roster/matthew-robaugh/19314",
-      "imageUrl": "https://wvusports.com/images/2026/1/15/Robaugh__Matthew.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "19314",
-      "sources": [
-        "West Virginia Athletics roster",
-        "West Virginia cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "19314",
-        "name": "Matthew Robaugh",
-        "normalizedName": "matthew robaugh",
-        "jersey": "19",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/matthew-robaugh/19314",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Robaugh__Matthew.jpg",
-        "gamesPlayed": 19,
-        "gamesStarted": 7,
-        "battingAverage": 0.194,
-        "onBasePercentage": 0.275,
-        "sluggingPercentage": 0.222,
-        "ops": 0.497,
-        "atBats": 36,
-        "runs": 4,
-        "hits": 7,
-        "doubles": 1,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 1,
-        "totalBases": 8,
-        "walks": 3,
-        "hitByPitch": 1,
-        "strikeouts": 9,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 10,
-        "assists": 0,
-        "errors": 2,
-        "plateAppearances": 40,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "19314",
-        "name": "Matthew Robaugh",
-        "normalizedName": "matthew robaugh",
-        "jersey": "19",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/matthew-robaugh/19314",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Robaugh__Matthew.jpg",
-        "gamesPlayed": 9,
-        "gamesStarted": 4,
-        "putouts": 10,
-        "assists": 16,
-        "errors": 2,
-        "fieldingPercentage": 0.929,
-        "doublePlays": 3,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 28
-      },
-      "evaluation": {
-        "score": 2,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 14.814814814814808,
-          "Speed": 0
-        },
-        "summary": "Matthew Robaugh gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .194",
-          "OBP .275",
-          "SLG .222"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".194"
-          },
-          {
-            "label": "OBP",
-            "value": ".275"
-          },
-          {
-            "label": "SLG",
-            "value": ".222"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "1"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "INF",
-          "FR",
-          "R/R",
-          "Hitter"
-        ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats"
-      }
-    },
-    {
-      "id": "west-virginia-19282",
-      "schoolSlug": "west-virginia",
-      "school": "West Virginia",
-      "schoolLongName": "West Virginia University",
-      "name": "Luke Lyman",
-      "normalizedName": "luke lyman",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right-Handed Pitcher",
-      "classYear": "SR",
-      "handedness": "R/R",
-      "jersey": "20",
-      "hometown": "Berryville, Va.",
-      "highSchool": "Clarke County HS",
-      "previousSchool": "Morehead State",
-      "hometownHighSchool": "Berryville, Va. / Clarke County HS",
-      "profileUrl": "https://wvusports.com/sports/baseball/roster/luke-lyman/19282",
-      "imageUrl": "https://wvusports.com/images/2026/1/15/Lyman__Luke.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "19282",
+      "rosterBioId": "20181",
       "sources": [
         "West Virginia Athletics roster"
       ],
@@ -2981,7 +999,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Luke Lyman looks like a RHP option who throws enough strikes.",
+        "summary": "Bryson Hoff looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -3013,10 +1031,10 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "SR / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "RHP",
-          "SR",
+          "JR",
           "R/R",
           "Pitcher"
         ],
@@ -3024,583 +1042,32 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
       }
     },
     {
-      "id": "west-virginia-19321",
+      "id": "west-virginia-20196",
       "schoolSlug": "west-virginia",
       "school": "West Virginia",
       "schoolLongName": "West Virginia University",
-      "name": "Joshua Surigao",
-      "normalizedName": "joshua surigao",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "Left-Handed Pitcher",
-      "classYear": "SO",
-      "handedness": "L/L",
-      "jersey": "21",
-      "hometown": "Little River, S.C.",
-      "highSchool": "North Myrtle Beach",
-      "previousSchool": "Hawaii",
-      "hometownHighSchool": "Little River, S.C. / North Myrtle Beach",
-      "profileUrl": "https://wvusports.com/sports/baseball/roster/joshua-surigao/19321",
-      "imageUrl": "https://wvusports.com/images/2026/1/15/Surigao__Joshua.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "19321",
-      "sources": [
-        "West Virginia Athletics roster",
-        "West Virginia cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "19321",
-        "name": "Joshua Surigao",
-        "normalizedName": "joshua surigao",
-        "jersey": "21",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/joshua-surigao/19321",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Surigao__Joshua.jpg",
-        "gamesPlayed": 11,
-        "gamesStarted": 0,
-        "appearances": 11,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 3.6,
-        "whip": 1.6,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 10,
-        "inningsPitchedDisplay": "10.0",
-        "hitsAllowed": 9,
-        "runsAllowed": 4,
-        "earnedRunsAllowed": 4,
-        "walksAllowed": 7,
-        "strikeouts": 11,
-        "doublesAllowed": 1,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 34,
-        "wildPitches": 0,
-        "hitBatters": 0,
-        "balks": 0,
-        "opponentsBattingAverage": 0.265,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "19321",
-        "name": "Joshua Surigao",
-        "normalizedName": "joshua surigao",
-        "jersey": "21",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/joshua-surigao/19321",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Surigao__Joshua.jpg",
-        "gamesPlayed": 4,
-        "gamesStarted": 0,
-        "putouts": 2,
-        "assists": 3,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 1,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 5
-      },
-      "evaluation": {
-        "score": 13,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 53.63636363636364,
-          "Command": 11.428571428571432,
-          "Damage suppression": 0
-        },
-        "summary": "Joshua Surigao looks like a LHP option who limits runs and misses bats.",
-        "summaryMetrics": [
-          "ERA 3.60",
-          "WHIP 1.60",
-          "K/9 9.9"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.60"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.60"
-          },
-          {
-            "label": "K/9",
-            "value": "9.9"
-          },
-          {
-            "label": "BB/9",
-            "value": "6.3"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "10.0"
-          }
-        ],
-        "metaLine": "SO / L/L",
-        "detailBadges": [
-          "LHP",
-          "SO",
-          "L/L",
-          "Pitcher"
-        ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats"
-      }
-    },
-    {
-      "id": "west-virginia-19276",
-      "schoolSlug": "west-virginia",
-      "school": "West Virginia",
-      "schoolLongName": "West Virginia University",
-      "name": "David Hagen",
-      "normalizedName": "david hagen",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right-Handed Pitcher",
-      "classYear": "SO",
-      "handedness": "R/R",
-      "jersey": "23",
-      "hometown": "Loveland, Ohio",
-      "highSchool": "Archbishop Moeller HS",
-      "previousSchool": "",
-      "hometownHighSchool": "Loveland, Ohio / Archbishop Moeller HS",
-      "profileUrl": "https://wvusports.com/sports/baseball/roster/david-hagen/19276",
-      "imageUrl": "https://wvusports.com/images/2026/1/15/Hagen__David.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "19276",
-      "sources": [
-        "West Virginia Athletics roster",
-        "West Virginia cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "19276",
-        "name": "David Hagen",
-        "normalizedName": "david hagen",
-        "jersey": "23",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/david-hagen/19276",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Hagen__David.jpg",
-        "gamesPlayed": 15,
-        "gamesStarted": 8,
-        "appearances": 15,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 3.48,
-        "whip": 1.32,
-        "wins": 4,
-        "losses": 1,
-        "saves": 1,
-        "shutouts": 0,
-        "inningsPitched": 31,
-        "inningsPitchedDisplay": "31.0",
-        "hitsAllowed": 21,
-        "runsAllowed": 15,
-        "earnedRunsAllowed": 12,
-        "walksAllowed": 20,
-        "strikeouts": 23,
-        "doublesAllowed": 3,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 3,
-        "opponentsAtBats": 110,
-        "wildPitches": 4,
-        "hitBatters": 5,
-        "balks": 0,
-        "opponentsBattingAverage": 0.191,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "19276",
-        "name": "David Hagen",
-        "normalizedName": "david hagen",
-        "jersey": "23",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/david-hagen/19276",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Hagen__David.jpg",
-        "gamesPlayed": 6,
-        "gamesStarted": 2,
-        "putouts": 2,
-        "assists": 2,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 2,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 4
-      },
-      "evaluation": {
-        "score": 5,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 24.340175953079182,
-          "Command": 2.9999999999999982,
-          "Damage suppression": 0
-        },
-        "summary": "David Hagen looks like a RHP option who limits runs.",
-        "summaryMetrics": [
-          "ERA 3.48",
-          "WHIP 1.32",
-          "K/9 6.7"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.48"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.32"
-          },
-          {
-            "label": "K/9",
-            "value": "6.7"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.8"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.87"
-          },
-          {
-            "label": "IP",
-            "value": "31.0"
-          }
-        ],
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats"
-      }
-    },
-    {
-      "id": "west-virginia-19281",
-      "schoolSlug": "west-virginia",
-      "school": "West Virginia",
-      "schoolLongName": "West Virginia University",
-      "name": "Ben Lumsden",
-      "normalizedName": "ben lumsden",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "OF",
-      "positionLong": "Outfielder",
-      "classYear": "SR",
-      "handedness": "L/R",
-      "jersey": "24",
-      "hometown": "Simpsonville, S.C.",
-      "highSchool": "JL Mann HS",
-      "previousSchool": "UT Arlington",
-      "hometownHighSchool": "Simpsonville, S.C. / JL Mann HS",
-      "profileUrl": "https://wvusports.com/sports/baseball/roster/ben-lumsden/19281",
-      "imageUrl": "https://wvusports.com/images/2026/1/15/Lumsden__Ben.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "19281",
-      "sources": [
-        "West Virginia Athletics roster",
-        "West Virginia cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "19281",
-        "name": "Ben Lumsden",
-        "normalizedName": "ben lumsden",
-        "jersey": "24",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/ben-lumsden/19281",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Lumsden__Ben.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 21,
-        "battingAverage": 0.258,
-        "onBasePercentage": 0.385,
-        "sluggingPercentage": 0.438,
-        "ops": 0.823,
-        "atBats": 89,
-        "runs": 18,
-        "hits": 23,
-        "doubles": 7,
-        "triples": 0,
-        "homeRuns": 3,
-        "runsBattedIn": 20,
-        "totalBases": 39,
-        "walks": 19,
-        "hitByPitch": 0,
-        "strikeouts": 31,
-        "intentionalWalks": 1,
-        "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 1,
-        "sacrificeHits": 3,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 70,
-        "assists": 0,
-        "errors": 2,
-        "plateAppearances": 112,
-        "caughtStealing": 0,
-        "pickedOff": 1
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "19281",
-        "name": "Ben Lumsden",
-        "normalizedName": "ben lumsden",
-        "jersey": "24",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/ben-lumsden/19281",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Lumsden__Ben.jpg",
-        "gamesPlayed": 26,
-        "gamesStarted": 18,
-        "putouts": 70,
-        "assists": 6,
-        "errors": 2,
-        "fieldingPercentage": 0.974,
-        "doublePlays": 2,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 78
-      },
-      "evaluation": {
-        "score": 37,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 58.33333333333333,
-          "Power": 31.05263157894737,
-          "Contact": 23.750000000000004,
-          "Discipline": 45.87813620071684,
-          "Speed": 0
-        },
-        "summary": "Ben Lumsden gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .258",
-          "OBP .385",
-          "SLG .438"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".258"
-          },
-          {
-            "label": "OBP",
-            "value": ".385"
-          },
-          {
-            "label": "SLG",
-            "value": ".438"
-          },
-          {
-            "label": "HR",
-            "value": "3"
-          },
-          {
-            "label": "RBI",
-            "value": "20"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "SR / L/R",
-        "detailBadges": [
-          "OF",
-          "SR",
-          "L/R",
-          "Hitter"
-        ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats"
-      }
-    },
-    {
-      "id": "west-virginia-19271",
-      "schoolSlug": "west-virginia",
-      "school": "West Virginia",
-      "schoolLongName": "West Virginia University",
-      "name": "JD Costanzo",
-      "normalizedName": "jd costanzo",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "Left-Handed Pitcher",
-      "classYear": "R-FR",
-      "handedness": "B/L",
-      "jersey": "25",
-      "hometown": "Pittsburgh, Pa.",
-      "highSchool": "North Allegheny",
-      "previousSchool": "",
-      "hometownHighSchool": "Pittsburgh, Pa. / North Allegheny",
-      "profileUrl": "https://wvusports.com/sports/baseball/roster/jd-costanzo/19271",
-      "imageUrl": "https://wvusports.com/images/2026/1/15/Costanzo__JD.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "19271",
-      "sources": [
-        "West Virginia Athletics roster",
-        "West Virginia cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "19271",
-        "name": "JD Costanzo",
-        "normalizedName": "jd costanzo",
-        "jersey": "25",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/jd-costanzo/19271",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Costanzo__JD.jpg",
-        "gamesPlayed": 4,
-        "gamesStarted": 0,
-        "appearances": 4,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 13.5,
-        "whip": 3.75,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 2.6666666666666665,
-        "inningsPitchedDisplay": "2.2",
-        "hitsAllowed": 7,
-        "runsAllowed": 6,
-        "earnedRunsAllowed": 4,
-        "walksAllowed": 3,
-        "strikeouts": 3,
-        "doublesAllowed": 0,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 1,
-        "opponentsAtBats": 14,
-        "wildPitches": 1,
-        "hitBatters": 0,
-        "balks": 0,
-        "opponentsBattingAverage": 0.5,
-        "walksHits": 0
-      },
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 11,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 55.68181818181818,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "JD Costanzo looks like a LHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 13.50",
-          "WHIP 3.75",
-          "K/9 10.1"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "13.50"
-          },
-          {
-            "label": "WHIP",
-            "value": "3.75"
-          },
-          {
-            "label": "K/9",
-            "value": "10.1"
-          },
-          {
-            "label": "BB/9",
-            "value": "10.1"
-          },
-          {
-            "label": "HR/9",
-            "value": "3.38"
-          },
-          {
-            "label": "IP",
-            "value": "2.7"
-          }
-        ],
-        "metaLine": "R-FR / B/L",
-        "detailBadges": [
-          "LHP",
-          "R-FR",
-          "B/L",
-          "Pitcher"
-        ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats"
-      }
-    },
-    {
-      "id": "west-virginia-19303",
-      "schoolSlug": "west-virginia",
-      "school": "West Virginia",
-      "schoolLongName": "West Virginia University",
-      "name": "Sean Goldy",
-      "normalizedName": "sean goldy",
+      "name": "Colin Coonradt",
+      "normalizedName": "colin coonradt",
       "compositeRole": "Rostered",
       "role": "Hitter",
-      "position": "INF",
-      "positionLong": "Infielder",
-      "classYear": "FR",
-      "handedness": "R/R",
-      "jersey": "26",
-      "hometown": "Centennial, Colo.",
-      "highSchool": "Cherry Creek",
-      "previousSchool": "",
-      "hometownHighSchool": "Centennial, Colo. / Cherry Creek",
-      "profileUrl": "https://wvusports.com/sports/baseball/roster/sean-goldy/19303",
-      "imageUrl": "https://wvusports.com/images/2026/1/15/Goldy__Sean.jpg",
+      "position": "UTL",
+      "positionLong": "Utility",
+      "classYear": "JR",
+      "handedness": "L/R",
+      "jersey": "10",
+      "hometown": "Cedar Falls, Iowa",
+      "highSchool": "Cedar Falls HS",
+      "previousSchool": "Johnson County CC",
+      "hometownHighSchool": "Cedar Falls, Iowa / Cedar Falls HS",
+      "profileUrl": "https://wvusports.com/sports/baseball/roster/colin-coonradt/20196",
+      "imageUrl": "https://wvusports.com/images/2026/8/18/coonradt-colin.JPG",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "19303",
+      "rosterBioId": "20196",
       "sources": [
         "West Virginia Athletics roster"
       ],
@@ -3620,7 +1087,95 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "summary": "Sean Goldy gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Colin Coonradt gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "JR / L/R",
+        "detailBadges": [
+          "UTL",
+          "JR",
+          "L/R",
+          "Rostered"
+        ],
+        "sourceSummary": "West Virginia Athletics roster"
+      }
+    },
+    {
+      "id": "west-virginia-20199",
+      "schoolSlug": "west-virginia",
+      "school": "West Virginia",
+      "schoolLongName": "West Virginia University",
+      "name": "Kayden Lipscomb",
+      "normalizedName": "kayden lipscomb",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "Infielder",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "11",
+      "hometown": "Frederick, Md.",
+      "highSchool": "Urbana HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Frederick, Md. / Urbana HS",
+      "profileUrl": "https://wvusports.com/sports/baseball/roster/kayden-lipscomb/20199",
+      "imageUrl": "https://wvusports.com/images/2026/8/10/lipscomb-kayden.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "20199",
+      "sources": [
+        "West Virginia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Kayden Lipscomb gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG --",
           "OBP --",
@@ -3663,497 +1218,301 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
       }
     },
     {
-      "id": "west-virginia-19270",
+      "id": "west-virginia-20200",
       "schoolSlug": "west-virginia",
       "school": "West Virginia",
       "schoolLongName": "West Virginia University",
-      "name": "Reese Bassinger",
-      "normalizedName": "reese bassinger",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right-Handed Pitcher",
-      "classYear": "GR",
+      "name": "Ryan Piekutoski",
+      "normalizedName": "ryan piekutoski",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "Infielder",
+      "classYear": "SO",
       "handedness": "R/R",
-      "jersey": "29",
-      "hometown": "Wylie, Texas",
-      "highSchool": "Wylie",
-      "previousSchool": "Tarleton State",
-      "hometownHighSchool": "Wylie, Texas / Wylie",
-      "profileUrl": "https://wvusports.com/sports/baseball/roster/reese-bassinger/19270",
-      "imageUrl": "https://wvusports.com/images/2026/1/15/Bassinger__Reese.jpg",
+      "jersey": "12",
+      "hometown": "Cranberry Township, Pa.",
+      "highSchool": "Seneca Valley HS",
+      "previousSchool": "USC-Sumter",
+      "hometownHighSchool": "Cranberry Township, Pa. / Seneca Valley HS",
+      "profileUrl": "https://wvusports.com/sports/baseball/roster/ryan-piekutoski/20200",
+      "imageUrl": "https://wvusports.com/images/2026/8/18/piekutoski-ryan.JPG",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "19270",
+      "rosterBioId": "20200",
       "sources": [
-        "West Virginia Athletics roster",
-        "West Virginia cumulative stats"
+        "West Virginia Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "19270",
-        "name": "Reese Bassinger",
-        "normalizedName": "reese bassinger",
-        "jersey": "29",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/reese-bassinger/19270",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Bassinger__Reese.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 0,
-        "appearances": 31,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 3.3,
-        "whip": 1.18,
-        "wins": 4,
-        "losses": 3,
-        "saves": 2,
-        "shutouts": 0,
-        "inningsPitched": 60,
-        "inningsPitchedDisplay": "60.0",
-        "hitsAllowed": 51,
-        "runsAllowed": 27,
-        "earnedRunsAllowed": 22,
-        "walksAllowed": 20,
-        "strikeouts": 64,
-        "doublesAllowed": 9,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 3,
-        "opponentsAtBats": 220,
-        "wildPitches": 3,
-        "hitBatters": 8,
-        "balks": 0,
-        "opponentsBattingAverage": 0.232,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "19270",
-        "name": "Reese Bassinger",
-        "normalizedName": "reese bassinger",
-        "jersey": "29",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/reese-bassinger/19270",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Bassinger__Reese.jpg",
-        "gamesPlayed": 10,
-        "gamesStarted": 0,
-        "putouts": 3,
-        "assists": 6,
-        "errors": 1,
-        "fieldingPercentage": 0.9,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 1,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 10
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 17,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 50.90909090909091,
-          "Command": 43.99999999999999,
-          "Damage suppression": 0
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "summary": "Reese Bassinger looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
+        "summary": "Ryan Piekutoski gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 3.30",
-          "WHIP 1.18",
-          "K/9 9.6"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
-            "label": "ERA",
-            "value": "3.30"
+            "label": "AVG",
+            "value": "--"
           },
           {
-            "label": "WHIP",
-            "value": "1.18"
+            "label": "OBP",
+            "value": "--"
           },
           {
-            "label": "K/9",
-            "value": "9.6"
+            "label": "SLG",
+            "value": "--"
           },
           {
-            "label": "BB/9",
-            "value": "3.0"
+            "label": "HR",
+            "value": "0"
           },
           {
-            "label": "HR/9",
-            "value": "0.45"
+            "label": "RBI",
+            "value": "0"
           },
           {
-            "label": "IP",
-            "value": "60.0"
+            "label": "SB",
+            "value": "0"
           }
         ],
-        "metaLine": "GR / R/R",
+        "metaLine": "SO / R/R",
         "detailBadges": [
-          "RHP",
-          "GR",
+          "INF",
+          "SO",
           "R/R",
-          "Pitcher"
+          "Rostered"
         ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats"
+        "sourceSummary": "West Virginia Athletics roster"
       }
     },
     {
-      "id": "west-virginia-19311",
+      "id": "west-virginia-20201",
       "schoolSlug": "west-virginia",
       "school": "West Virginia",
       "schoolLongName": "West Virginia University",
-      "name": "Dawson Montesa",
-      "normalizedName": "dawson montesa",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right-Handed Pitcher",
-      "classYear": "JR",
-      "handedness": "R/R",
-      "jersey": "31",
-      "hometown": "Glendale, N.Y.",
-      "highSchool": "Queens Metropolitan",
-      "previousSchool": "Adelphi",
-      "hometownHighSchool": "Glendale, N.Y. / Queens Metropolitan",
-      "profileUrl": "https://wvusports.com/sports/baseball/roster/dawson-montesa/19311",
-      "imageUrl": "https://wvusports.com/images/2026/1/15/Montesa__Dawson.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "19311",
-      "sources": [
-        "West Virginia Athletics roster",
-        "West Virginia cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "19311",
-        "name": "Dawson Montesa",
-        "normalizedName": "dawson montesa",
-        "jersey": "31",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/dawson-montesa/19311",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Montesa__Dawson.jpg",
-        "gamesPlayed": 19,
-        "gamesStarted": 15,
-        "appearances": 19,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 5.38,
-        "whip": 1.43,
-        "wins": 6,
-        "losses": 5,
-        "saves": 1,
-        "shutouts": 0,
-        "inningsPitched": 77,
-        "inningsPitchedDisplay": "77.0",
-        "hitsAllowed": 66,
-        "runsAllowed": 49,
-        "earnedRunsAllowed": 46,
-        "walksAllowed": 44,
-        "strikeouts": 92,
-        "doublesAllowed": 12,
-        "triplesAllowed": 2,
-        "homeRunsAllowed": 13,
-        "opponentsAtBats": 289,
-        "wildPitches": 6,
-        "hitBatters": 9,
-        "balks": 0,
-        "opponentsBattingAverage": 0.228,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "19311",
-        "name": "Dawson Montesa",
-        "normalizedName": "dawson montesa",
-        "jersey": "31",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/dawson-montesa/19311",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Montesa__Dawson.jpg",
-        "gamesPlayed": 9,
-        "gamesStarted": 9,
-        "putouts": 4,
-        "assists": 10,
-        "errors": 1,
-        "fieldingPercentage": 0.933,
-        "doublePlays": 1,
-        "stolenBasesAgainst": 1,
-        "caughtStealingBy": 1,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 15
-      },
-      "evaluation": {
-        "score": 16,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 61.3931523022432,
-          "Command": 21.818181818181817,
-          "Damage suppression": 0
-        },
-        "summary": "Dawson Montesa looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 5.38",
-          "WHIP 1.43",
-          "K/9 10.8"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.38"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.43"
-          },
-          {
-            "label": "K/9",
-            "value": "10.8"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.1"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.52"
-          },
-          {
-            "label": "IP",
-            "value": "77.0"
-          }
-        ],
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats"
-      }
-    },
-    {
-      "id": "west-virginia-19312",
-      "schoolSlug": "west-virginia",
-      "school": "West Virginia",
-      "schoolLongName": "West Virginia University",
-      "name": "Wyatt Mosley",
-      "normalizedName": "wyatt mosley",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "Left-Handed Pitcher",
+      "name": "Henkel Acevedo",
+      "normalizedName": "henkel acevedo",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "Outfielder",
       "classYear": "FR",
-      "handedness": "R/L",
-      "jersey": "32",
-      "hometown": "Dansville, Mich.",
-      "highSchool": "Dansville",
+      "handedness": "L/R",
+      "jersey": "13",
+      "hometown": "Lawrence, Mass.",
+      "highSchool": "P27 Academy (S.C.)",
       "previousSchool": "",
-      "hometownHighSchool": "Dansville, Mich. / Dansville",
-      "profileUrl": "https://wvusports.com/sports/baseball/roster/wyatt-mosley/19312",
-      "imageUrl": "https://wvusports.com/images/2026/1/15/Mosley__Wyatt.jpg",
+      "hometownHighSchool": "Lawrence, Mass. / P27 Academy (S.C.)",
+      "profileUrl": "https://wvusports.com/sports/baseball/roster/henkel-acevedo/20201",
+      "imageUrl": "https://wvusports.com/images/2026/8/10/acevedo-henkel.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "19312",
+      "rosterBioId": "20201",
       "sources": [
-        "West Virginia Athletics roster",
-        "West Virginia cumulative stats"
+        "West Virginia Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "19312",
-        "name": "Wyatt Mosley",
-        "normalizedName": "wyatt mosley",
-        "jersey": "32",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/wyatt-mosley/19312",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Mosley__Wyatt.jpg",
-        "gamesPlayed": 1,
-        "gamesStarted": 0,
-        "appearances": 1,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 27,
-        "whip": 4,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 1,
-        "inningsPitchedDisplay": "1.0",
-        "hitsAllowed": 1,
-        "runsAllowed": 3,
-        "earnedRunsAllowed": 3,
-        "walksAllowed": 3,
-        "strikeouts": 1,
-        "doublesAllowed": 0,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 3,
-        "wildPitches": 0,
-        "hitBatters": 1,
-        "balks": 0,
-        "opponentsBattingAverage": 0.333,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "19312",
-        "name": "Wyatt Mosley",
-        "normalizedName": "wyatt mosley",
-        "jersey": "32",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/wyatt-mosley/19312",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Mosley__Wyatt.jpg",
-        "gamesPlayed": 1,
-        "gamesStarted": 0,
-        "putouts": 0,
-        "assists": 1,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 1
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 9,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
-          "Command": 0,
-          "Damage suppression": 0
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "summary": "Wyatt Mosley looks like a LHP option who misses bats.",
+        "summary": "Henkel Acevedo gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 27.00",
-          "WHIP 4.00",
-          "K/9 9.0"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
-            "label": "ERA",
-            "value": "27.00"
+            "label": "AVG",
+            "value": "--"
           },
           {
-            "label": "WHIP",
-            "value": "4.00"
+            "label": "OBP",
+            "value": "--"
           },
           {
-            "label": "K/9",
-            "value": "9.0"
+            "label": "SLG",
+            "value": "--"
           },
           {
-            "label": "BB/9",
-            "value": "27.0"
+            "label": "HR",
+            "value": "0"
           },
           {
-            "label": "HR/9",
-            "value": "0.00"
+            "label": "RBI",
+            "value": "0"
           },
           {
-            "label": "IP",
-            "value": "1.0"
+            "label": "SB",
+            "value": "0"
           }
         ],
-        "metaLine": "FR / R/L",
+        "metaLine": "FR / L/R",
         "detailBadges": [
-          "LHP",
+          "OF",
           "FR",
-          "R/L",
-          "Pitcher"
+          "L/R",
+          "Rostered"
         ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats"
+        "sourceSummary": "West Virginia Athletics roster"
       }
     },
     {
-      "id": "west-virginia-19315",
+      "id": "west-virginia-20186",
       "schoolSlug": "west-virginia",
       "school": "West Virginia",
       "schoolLongName": "West Virginia University",
-      "name": "Brayden Robinson",
-      "normalizedName": "brayden robinson",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right-Handed Pitcher",
-      "classYear": "FR",
+      "name": "Weston Mazey",
+      "normalizedName": "weston mazey",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "Infielder",
+      "classYear": "SO",
       "handedness": "R/R",
-      "jersey": "33",
-      "hometown": "Crofton, Md.",
-      "highSchool": "Archbishop Spalding",
+      "jersey": "14",
+      "hometown": "Morgantown, W.Va.",
+      "highSchool": "Morgantown",
       "previousSchool": "",
-      "hometownHighSchool": "Crofton, Md. / Archbishop Spalding",
-      "profileUrl": "https://wvusports.com/sports/baseball/roster/brayden-robinson/19315",
-      "imageUrl": "https://wvusports.com/images/2026/1/15/Robinson__Brayden.jpg",
+      "hometownHighSchool": "Morgantown, W.Va. / Morgantown",
+      "profileUrl": "https://wvusports.com/sports/baseball/roster/weston-mazey/20186",
+      "imageUrl": "https://wvusports.com/images/2026/1/15/Mazey__Weston.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "19315",
+      "rosterBioId": "20186",
       "sources": [
-        "West Virginia Athletics roster",
-        "West Virginia cumulative stats"
+        "West Virginia Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "19315",
-        "name": "Brayden Robinson",
-        "normalizedName": "brayden robinson",
-        "jersey": "33",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/brayden-robinson/19315",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Robinson__Brayden.jpg",
-        "gamesPlayed": 1,
-        "gamesStarted": 0,
-        "appearances": 1,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 13.5,
-        "whip": 6,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 0.6666666666666666,
-        "inningsPitchedDisplay": "0.2",
-        "hitsAllowed": 2,
-        "runsAllowed": 1,
-        "earnedRunsAllowed": 1,
-        "walksAllowed": 2,
-        "strikeouts": 0,
-        "doublesAllowed": 0,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 3,
-        "wildPitches": 0,
-        "hitBatters": 0,
-        "balks": 0,
-        "opponentsBattingAverage": 0.667,
-        "walksHits": 0
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Weston Mazey gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "INF",
+          "SO",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "West Virginia Athletics roster"
+      }
+    },
+    {
+      "id": "west-virginia-20202",
+      "schoolSlug": "west-virginia",
+      "school": "West Virginia",
+      "schoolLongName": "West Virginia University",
+      "name": "Zak Whitney",
+      "normalizedName": "zak whitney",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "SO",
+      "handedness": "R/R",
+      "jersey": "15",
+      "hometown": "Keene, N.H.",
+      "highSchool": "Keene HS",
+      "previousSchool": "Southern New Hampshire",
+      "hometownHighSchool": "Keene, N.H. / Keene HS",
+      "profileUrl": "https://wvusports.com/sports/baseball/roster/zak-whitney/20202",
+      "imageUrl": "https://wvusports.com/images/2026/8/10/whitney-zak.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "20202",
+      "sources": [
+        "West Virginia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
       "fieldingStats": null,
       "evaluation": {
         "score": 0,
@@ -4168,20 +1527,20 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Brayden Robinson gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Zak Whitney looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 13.50",
-          "WHIP 6.00",
+          "ERA --",
+          "WHIP --",
           "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "13.50"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "6.00"
+            "value": "--"
           },
           {
             "label": "K/9",
@@ -4189,7 +1548,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
           },
           {
             "label": "BB/9",
-            "value": "27.0"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
@@ -4197,7 +1556,1239 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
           },
           {
             "label": "IP",
-            "value": "0.7"
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "RHP",
+          "SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "West Virginia Athletics roster"
+      }
+    },
+    {
+      "id": "west-virginia-20203",
+      "schoolSlug": "west-virginia",
+      "school": "West Virginia",
+      "schoolLongName": "West Virginia University",
+      "name": "Cash Williams",
+      "normalizedName": "cash williams",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "C/OF",
+      "positionLong": "Catcher/Outfielder",
+      "classYear": "R-FR",
+      "handedness": "R/R",
+      "jersey": "16",
+      "hometown": "Choctaw, Okla.",
+      "highSchool": "Choctaw HS",
+      "previousSchool": "Tennessee",
+      "hometownHighSchool": "Choctaw, Okla. / Choctaw HS",
+      "profileUrl": "https://wvusports.com/sports/baseball/roster/cash-williams/20203",
+      "imageUrl": "https://wvusports.com/images/2026/8/18/williams-cash.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "20203",
+      "sources": [
+        "West Virginia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Cash Williams gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "R-FR / R/R",
+        "detailBadges": [
+          "C/OF",
+          "R-FR",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "West Virginia Athletics roster"
+      }
+    },
+    {
+      "id": "west-virginia-20183",
+      "schoolSlug": "west-virginia",
+      "school": "West Virginia",
+      "schoolLongName": "West Virginia University",
+      "name": "Matt Ineich",
+      "normalizedName": "matt ineich",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "Infielder",
+      "classYear": "JR",
+      "handedness": "L/R",
+      "jersey": "17",
+      "hometown": "South Lyon, Mich.",
+      "highSchool": "Detroit Catholic Central",
+      "previousSchool": "Ohio",
+      "hometownHighSchool": "South Lyon, Mich. / Detroit Catholic Central",
+      "profileUrl": "https://wvusports.com/sports/baseball/roster/matt-ineich/20183",
+      "imageUrl": "https://wvusports.com/images/2026/1/15/Ineich__Matt.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "20183",
+      "sources": [
+        "West Virginia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Matt Ineich gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "JR / L/R",
+        "detailBadges": [
+          "INF",
+          "JR",
+          "L/R",
+          "Rostered"
+        ],
+        "sourceSummary": "West Virginia Athletics roster"
+      }
+    },
+    {
+      "id": "west-virginia-20204",
+      "schoolSlug": "west-virginia",
+      "school": "West Virginia",
+      "schoolLongName": "West Virginia University",
+      "name": "Austin Ziance",
+      "normalizedName": "austin ziance",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "SR",
+      "handedness": "R/R",
+      "jersey": "18",
+      "hometown": "Highland Heights, Ohio",
+      "highSchool": "Mayfield HS",
+      "previousSchool": "Marietta",
+      "hometownHighSchool": "Highland Heights, Ohio / Mayfield HS",
+      "profileUrl": "https://wvusports.com/sports/baseball/roster/austin-ziance/20204",
+      "imageUrl": "https://wvusports.com/images/2026/8/10/ziance-austin.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "20204",
+      "sources": [
+        "West Virginia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Austin Ziance looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "West Virginia Athletics roster"
+      }
+    },
+    {
+      "id": "west-virginia-20190",
+      "schoolSlug": "west-virginia",
+      "school": "West Virginia",
+      "schoolLongName": "West Virginia University",
+      "name": "Matthew Robaugh",
+      "normalizedName": "matthew robaugh",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "Infielder",
+      "classYear": "SO",
+      "handedness": "R/R",
+      "jersey": "19",
+      "hometown": "Washington, Pa.",
+      "highSchool": "Trinity",
+      "previousSchool": "",
+      "hometownHighSchool": "Washington, Pa. / Trinity",
+      "profileUrl": "https://wvusports.com/sports/baseball/roster/matthew-robaugh/20190",
+      "imageUrl": "https://wvusports.com/images/2026/1/15/Robaugh__Matthew.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "20190",
+      "sources": [
+        "West Virginia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Matthew Robaugh gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "INF",
+          "SO",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "West Virginia Athletics roster"
+      }
+    },
+    {
+      "id": "west-virginia-20205",
+      "schoolSlug": "west-virginia",
+      "school": "West Virginia",
+      "schoolLongName": "West Virginia University",
+      "name": "CJ Alfano",
+      "normalizedName": "cj alfano",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "1B",
+      "positionLong": "First Baseman",
+      "classYear": "FR",
+      "handedness": "L/L",
+      "jersey": "20",
+      "hometown": "Bohemia, N.Y.",
+      "highSchool": "St. Anthony's HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Bohemia, N.Y. / St. Anthony's HS",
+      "profileUrl": "https://wvusports.com/sports/baseball/roster/cj-alfano/20205",
+      "imageUrl": "https://wvusports.com/images/2026/8/10/alfano-cj.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "20205",
+      "sources": [
+        "West Virginia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "CJ Alfano gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "FR / L/L",
+        "detailBadges": [
+          "1B",
+          "FR",
+          "L/L",
+          "Rostered"
+        ],
+        "sourceSummary": "West Virginia Athletics roster"
+      }
+    },
+    {
+      "id": "west-virginia-20194",
+      "schoolSlug": "west-virginia",
+      "school": "West Virginia",
+      "schoolLongName": "West Virginia University",
+      "name": "Joshua Surigao",
+      "normalizedName": "joshua surigao",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "Left-Handed Pitcher",
+      "classYear": "JR",
+      "handedness": "L/L",
+      "jersey": "21",
+      "hometown": "Little River, S.C.",
+      "highSchool": "North Myrtle Beach",
+      "previousSchool": "Hawaii",
+      "hometownHighSchool": "Little River, S.C. / North Myrtle Beach",
+      "profileUrl": "https://wvusports.com/sports/baseball/roster/joshua-surigao/20194",
+      "imageUrl": "https://wvusports.com/images/2026/1/15/Surigao__Joshua.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "20194",
+      "sources": [
+        "West Virginia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Joshua Surigao looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "JR / L/L",
+        "detailBadges": [
+          "LHP",
+          "JR",
+          "L/L",
+          "Pitcher"
+        ],
+        "sourceSummary": "West Virginia Athletics roster"
+      }
+    },
+    {
+      "id": "west-virginia-20179",
+      "schoolSlug": "west-virginia",
+      "school": "West Virginia",
+      "schoolLongName": "West Virginia University",
+      "name": "David Hagen",
+      "normalizedName": "david hagen",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "JR",
+      "handedness": "R/R",
+      "jersey": "23",
+      "hometown": "Loveland, Ohio",
+      "highSchool": "Archbishop Moeller HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Loveland, Ohio / Archbishop Moeller HS",
+      "profileUrl": "https://wvusports.com/sports/baseball/roster/david-hagen/20179",
+      "imageUrl": "https://wvusports.com/images/2026/1/15/Hagen__David.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "20179",
+      "sources": [
+        "West Virginia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "David Hagen looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "West Virginia Athletics roster"
+      }
+    },
+    {
+      "id": "west-virginia-20206",
+      "schoolSlug": "west-virginia",
+      "school": "West Virginia",
+      "schoolLongName": "West Virginia University",
+      "name": "Robert Satin",
+      "normalizedName": "robert satin",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "Left-Handed Pitcher",
+      "classYear": "SR",
+      "handedness": "L/L",
+      "jersey": "24",
+      "hometown": "Tampa, Fla.",
+      "highSchool": "H.B. Plant HS",
+      "previousSchool": "Tampa/Florida",
+      "hometownHighSchool": "Tampa, Fla. / H.B. Plant HS",
+      "profileUrl": "https://wvusports.com/sports/baseball/roster/robert-satin/20206",
+      "imageUrl": "https://wvusports.com/images/2026/8/18/satin-robert.JPG",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "20206",
+      "sources": [
+        "West Virginia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Robert Satin looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "SR / L/L",
+        "detailBadges": [
+          "LHP",
+          "SR",
+          "L/L",
+          "Pitcher"
+        ],
+        "sourceSummary": "West Virginia Athletics roster"
+      }
+    },
+    {
+      "id": "west-virginia-20173",
+      "schoolSlug": "west-virginia",
+      "school": "West Virginia",
+      "schoolLongName": "West Virginia University",
+      "name": "JD Costanzo",
+      "normalizedName": "jd costanzo",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "Left-Handed Pitcher",
+      "classYear": "R-SO",
+      "handedness": "B/L",
+      "jersey": "25",
+      "hometown": "Pittsburgh, Pa.",
+      "highSchool": "North Allegheny",
+      "previousSchool": "",
+      "hometownHighSchool": "Pittsburgh, Pa. / North Allegheny",
+      "profileUrl": "https://wvusports.com/sports/baseball/roster/jd-costanzo/20173",
+      "imageUrl": "https://wvusports.com/images/2026/1/15/Costanzo__JD.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "20173",
+      "sources": [
+        "West Virginia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "JD Costanzo looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "R-SO / B/L",
+        "detailBadges": [
+          "LHP",
+          "R-SO",
+          "B/L",
+          "Pitcher"
+        ],
+        "sourceSummary": "West Virginia Athletics roster"
+      }
+    },
+    {
+      "id": "west-virginia-20176",
+      "schoolSlug": "west-virginia",
+      "school": "West Virginia",
+      "schoolLongName": "West Virginia University",
+      "name": "Sean Goldy",
+      "normalizedName": "sean goldy",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "R-FR",
+      "handedness": "R/R",
+      "jersey": "26",
+      "hometown": "Centennial, Colo.",
+      "highSchool": "Cherry Creek",
+      "previousSchool": "",
+      "hometownHighSchool": "Centennial, Colo. / Cherry Creek",
+      "profileUrl": "https://wvusports.com/sports/baseball/roster/sean-goldy/20176",
+      "imageUrl": "https://wvusports.com/images/2026/1/15/Goldy__Sean.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "20176",
+      "sources": [
+        "West Virginia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Sean Goldy looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "R-FR / R/R",
+        "detailBadges": [
+          "RHP",
+          "R-FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "West Virginia Athletics roster"
+      }
+    },
+    {
+      "id": "west-virginia-20207",
+      "schoolSlug": "west-virginia",
+      "school": "West Virginia",
+      "schoolLongName": "West Virginia University",
+      "name": "Drew Becker",
+      "normalizedName": "drew becker",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "GR",
+      "handedness": "R/R",
+      "jersey": "29",
+      "hometown": "Wooster, Ohio",
+      "highSchool": "Wooster HS",
+      "previousSchool": "Ashland",
+      "hometownHighSchool": "Wooster, Ohio / Wooster HS",
+      "profileUrl": "https://wvusports.com/sports/baseball/roster/drew-becker/20207",
+      "imageUrl": "https://wvusports.com/images/2026/8/18/becker-drew.JPG",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "20207",
+      "sources": [
+        "West Virginia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Drew Becker looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "GR / R/R",
+        "detailBadges": [
+          "RHP",
+          "GR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "West Virginia Athletics roster"
+      }
+    },
+    {
+      "id": "west-virginia-20208",
+      "schoolSlug": "west-virginia",
+      "school": "West Virginia",
+      "schoolLongName": "West Virginia University",
+      "name": "Korey Alston",
+      "normalizedName": "korey alston",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "SO",
+      "handedness": "R/R",
+      "jersey": "30",
+      "hometown": "San Antonio, Texas",
+      "highSchool": "Macarthur HS",
+      "previousSchool": "Odessa College",
+      "hometownHighSchool": "San Antonio, Texas / Macarthur HS",
+      "profileUrl": "https://wvusports.com/sports/baseball/roster/korey-alston/20208",
+      "imageUrl": "https://wvusports.com/images/2026/8/18/alston-korey.JPG",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "20208",
+      "sources": [
+        "West Virginia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Korey Alston looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "RHP",
+          "SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "West Virginia Athletics roster"
+      }
+    },
+    {
+      "id": "west-virginia-20209",
+      "schoolSlug": "west-virginia",
+      "school": "West Virginia",
+      "schoolLongName": "West Virginia University",
+      "name": "Griffen Paige",
+      "normalizedName": "griffen paige",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "Left-Handed Pitcher",
+      "classYear": "SR",
+      "handedness": "L/L",
+      "jersey": "31",
+      "hometown": "Mount Pleasant Mills, Pa.",
+      "highSchool": "Midd-West HS",
+      "previousSchool": "Wright State",
+      "hometownHighSchool": "Mount Pleasant Mills, Pa. / Midd-West HS",
+      "profileUrl": "https://wvusports.com/sports/baseball/roster/griffen-paige/20209",
+      "imageUrl": "https://wvusports.com/images/2026/8/18/paige-griffen.JPG",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "20209",
+      "sources": [
+        "West Virginia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Griffen Paige looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "SR / L/L",
+        "detailBadges": [
+          "LHP",
+          "SR",
+          "L/L",
+          "Pitcher"
+        ],
+        "sourceSummary": "West Virginia Athletics roster"
+      }
+    },
+    {
+      "id": "west-virginia-20210",
+      "schoolSlug": "west-virginia",
+      "school": "West Virginia",
+      "schoolLongName": "West Virginia University",
+      "name": "Blake Krushinski",
+      "normalizedName": "blake krushinski",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "32",
+      "hometown": "Pittsburgh, Pa.",
+      "highSchool": "Fox Chapel Area HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Pittsburgh, Pa. / Fox Chapel Area HS",
+      "profileUrl": "https://wvusports.com/sports/baseball/roster/blake-krushinski/20210",
+      "imageUrl": "https://wvusports.com/images/2026/8/10/krushinski-blake.JPG",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "20210",
+      "sources": [
+        "West Virginia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Blake Krushinski looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
           }
         ],
         "metaLine": "FR / R/R",
@@ -4207,11 +2798,99 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
           "R/R",
           "Pitcher"
         ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats"
+        "sourceSummary": "West Virginia Athletics roster"
       }
     },
     {
-      "id": "west-virginia-19289",
+      "id": "west-virginia-20191",
+      "schoolSlug": "west-virginia",
+      "school": "West Virginia",
+      "schoolLongName": "West Virginia University",
+      "name": "Brayden Robinson",
+      "normalizedName": "brayden robinson",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "SO",
+      "handedness": "R/R",
+      "jersey": "33",
+      "hometown": "Crofton, Md.",
+      "highSchool": "Archbishop Spalding",
+      "previousSchool": "",
+      "hometownHighSchool": "Crofton, Md. / Archbishop Spalding",
+      "profileUrl": "https://wvusports.com/sports/baseball/roster/brayden-robinson/20191",
+      "imageUrl": "https://wvusports.com/images/2026/1/15/Robinson__Brayden.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "20191",
+      "sources": [
+        "West Virginia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Brayden Robinson looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "RHP",
+          "SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "West Virginia Athletics roster"
+      }
+    },
+    {
+      "id": "west-virginia-20195",
       "schoolSlug": "west-virginia",
       "school": "West Virginia",
       "schoolLongName": "West Virginia University",
@@ -4221,14 +2900,14 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Right-Handed Pitcher",
-      "classYear": "SO",
+      "classYear": "JR",
       "handedness": "R/R",
       "jersey": "34",
       "hometown": "Big Bend, W.Va.",
       "highSchool": "Calhoun County",
       "previousSchool": "",
       "hometownHighSchool": "Big Bend, W.Va. / Calhoun County",
-      "profileUrl": "https://wvusports.com/sports/baseball/roster/bryant-yoak/19289",
+      "profileUrl": "https://wvusports.com/sports/baseball/roster/bryant-yoak/20195",
       "imageUrl": "https://wvusports.com/images/2026/1/15/Yoak__Bryant.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -4236,49 +2915,15 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "19289",
+      "rosterBioId": "20195",
       "sources": [
-        "West Virginia Athletics roster",
-        "West Virginia cumulative stats"
+        "West Virginia Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "19289",
-        "name": "Bryant Yoak",
-        "normalizedName": "bryant yoak",
-        "jersey": "34",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/bryant-yoak/19289",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Yoak__Bryant.jpg",
-        "gamesPlayed": 9,
-        "gamesStarted": 0,
-        "appearances": 9,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 11.05,
-        "whip": 2.05,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 7.333333333333333,
-        "inningsPitchedDisplay": "7.1",
-        "hitsAllowed": 6,
-        "runsAllowed": 10,
-        "earnedRunsAllowed": 9,
-        "walksAllowed": 9,
-        "strikeouts": 11,
-        "doublesAllowed": 0,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 3,
-        "opponentsAtBats": 28,
-        "wildPitches": 0,
-        "hitBatters": 3,
-        "balks": 0,
-        "opponentsBattingAverage": 0.214,
-        "walksHits": 0
-      },
+      "pitchingStats": null,
       "fieldingStats": null,
       "evaluation": {
-        "score": 18,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4286,54 +2931,54 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 86.36363636363636,
-          "Command": 4.444444444444442,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Bryant Yoak looks like a RHP option who misses bats.",
+        "summary": "Bryant Yoak looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 11.05",
-          "WHIP 2.05",
-          "K/9 13.5"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "11.05"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "2.05"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "13.5"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "11.0"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "3.68"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "7.3"
+            "value": "0.0"
           }
         ],
-        "metaLine": "SO / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "RHP",
-          "SO",
+          "JR",
           "R/R",
           "Pitcher"
         ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats"
+        "sourceSummary": "West Virginia Athletics roster"
       }
     },
     {
-      "id": "west-virginia-19301",
+      "id": "west-virginia-20172",
       "schoolSlug": "west-virginia",
       "school": "West Virginia",
       "schoolLongName": "West Virginia University",
@@ -4343,14 +2988,14 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Right-Handed Pitcher",
-      "classYear": "SO",
+      "classYear": "JR",
       "handedness": "R/R",
       "jersey": "35",
       "hometown": "Boiling Springs, S.C.",
       "highSchool": "Boiling Springs",
       "previousSchool": "Newberry College",
       "hometownHighSchool": "Boiling Springs, S.C. / Boiling Springs",
-      "profileUrl": "https://wvusports.com/sports/baseball/roster/chansen-cole/19301",
+      "profileUrl": "https://wvusports.com/sports/baseball/roster/chansen-cole/20172",
       "imageUrl": "https://wvusports.com/images/2026/1/15/Cole__Chansen.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -4358,69 +3003,15 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "19301",
+      "rosterBioId": "20172",
       "sources": [
-        "West Virginia Athletics roster",
-        "West Virginia cumulative stats"
+        "West Virginia Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "19301",
-        "name": "Chansen Cole",
-        "normalizedName": "chansen cole",
-        "jersey": "35",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/chansen-cole/19301",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Cole__Chansen.jpg",
-        "gamesPlayed": 21,
-        "gamesStarted": 19,
-        "appearances": 21,
-        "gamesCompleted": 1,
-        "earnedRunAverage": 3.43,
-        "whip": 1.18,
-        "wins": 10,
-        "losses": 2,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 99.66666666666667,
-        "inningsPitchedDisplay": "99.2",
-        "hitsAllowed": 86,
-        "runsAllowed": 42,
-        "earnedRunsAllowed": 38,
-        "walksAllowed": 32,
-        "strikeouts": 109,
-        "doublesAllowed": 18,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 11,
-        "opponentsAtBats": 373,
-        "wildPitches": 6,
-        "hitBatters": 10,
-        "balks": 0,
-        "opponentsBattingAverage": 0.231,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "19301",
-        "name": "Chansen Cole",
-        "normalizedName": "chansen cole",
-        "jersey": "35",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/chansen-cole/19301",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Cole__Chansen.jpg",
-        "gamesPlayed": 10,
-        "gamesStarted": 9,
-        "putouts": 3,
-        "assists": 7,
-        "errors": 1,
-        "fieldingPercentage": 0.909,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 4,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 11
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 18,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4428,54 +3019,54 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 53.11644876862268,
-          "Command": 48.12500000000001,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Chansen Cole looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
+        "summary": "Chansen Cole looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 3.43",
-          "WHIP 1.18",
-          "K/9 9.8"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.43"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.18"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "9.8"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "2.9"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "0.99"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "99.7"
+            "value": "0.0"
           }
         ],
-        "metaLine": "SO / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "RHP",
-          "SO",
+          "JR",
           "R/R",
           "Pitcher"
         ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats"
+        "sourceSummary": "West Virginia Athletics roster"
       }
     },
     {
-      "id": "west-virginia-19300",
+      "id": "west-virginia-20171",
       "schoolSlug": "west-virginia",
       "school": "West Virginia",
       "schoolLongName": "West Virginia University",
@@ -4485,14 +3076,14 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Right-Handed Pitcher",
-      "classYear": "FR",
+      "classYear": "R-FR",
       "handedness": "L/R",
       "jersey": "36",
       "hometown": "Hopewell Junction, N.Y.",
       "highSchool": "Arlington",
       "previousSchool": "",
       "hometownHighSchool": "Hopewell Junction, N.Y. / Arlington",
-      "profileUrl": "https://wvusports.com/sports/baseball/roster/hudson-cavallo/19300",
+      "profileUrl": "https://wvusports.com/sports/baseball/roster/hudson-cavallo/20171",
       "imageUrl": "https://wvusports.com/images/2026/1/15/Cavallo__Hudson.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -4500,7 +3091,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "19300",
+      "rosterBioId": "20171",
       "sources": [
         "West Virginia Athletics roster"
       ],
@@ -4552,10 +3143,10 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "FR / L/R",
+        "metaLine": "R-FR / L/R",
         "detailBadges": [
           "RHP",
-          "FR",
+          "R-FR",
           "L/R",
           "Pitcher"
         ],
@@ -4563,7 +3154,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
       }
     },
     {
-      "id": "west-virginia-19304",
+      "id": "west-virginia-20177",
       "schoolSlug": "west-virginia",
       "school": "West Virginia",
       "schoolLongName": "West Virginia University",
@@ -4573,14 +3164,14 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Right-Handed Pitcher",
-      "classYear": "FR",
+      "classYear": "R-FR",
       "handedness": "R/R",
       "jersey": "37",
       "hometown": "Ancaster, Ontario, Can.",
       "highSchool": "Ancaster",
       "previousSchool": "",
       "hometownHighSchool": "Ancaster, Ontario, Can. / Ancaster",
-      "profileUrl": "https://wvusports.com/sports/baseball/roster/ben-goodacre/19304",
+      "profileUrl": "https://wvusports.com/sports/baseball/roster/ben-goodacre/20177",
       "imageUrl": "https://wvusports.com/images/2026/1/15/Goodacre__Ben.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -4588,7 +3179,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "19304",
+      "rosterBioId": "20177",
       "sources": [
         "West Virginia Athletics roster"
       ],
@@ -4640,10 +3231,10 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "FR / R/R",
+        "metaLine": "R-FR / R/R",
         "detailBadges": [
           "RHP",
-          "FR",
+          "R-FR",
           "R/R",
           "Pitcher"
         ],
@@ -4651,24 +3242,24 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
       }
     },
     {
-      "id": "west-virginia-19302",
+      "id": "west-virginia-20174",
       "schoolSlug": "west-virginia",
       "school": "West Virginia",
       "schoolLongName": "West Virginia University",
       "name": "Creed Erdos",
       "normalizedName": "creed erdos",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "C",
       "positionLong": "Catcher",
-      "classYear": "SO",
+      "classYear": "R-SO",
       "handedness": "R/R",
       "jersey": "38",
       "hometown": "Cranberry Township, Pa.",
       "highSchool": "Seneca Valley",
       "previousSchool": "James Madison",
       "hometownHighSchool": "Cranberry Township, Pa. / Seneca Valley",
-      "profileUrl": "https://wvusports.com/sports/baseball/roster/creed-erdos/19302",
+      "profileUrl": "https://wvusports.com/sports/baseball/roster/creed-erdos/20174",
       "imageUrl": "https://wvusports.com/images/2026/1/15/Erdos__Creed.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -4676,814 +3267,44 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "19302",
+      "rosterBioId": "20174",
       "sources": [
-        "West Virginia Athletics roster",
-        "West Virginia cumulative stats"
+        "West Virginia Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "19302",
-        "name": "Creed Erdos",
-        "normalizedName": "creed erdos",
-        "jersey": "38",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/creed-erdos/19302",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Erdos__Creed.jpg",
-        "gamesPlayed": 10,
-        "gamesStarted": 0,
-        "battingAverage": 0,
-        "onBasePercentage": 0.4,
-        "sluggingPercentage": 0,
-        "ops": 0.4,
-        "atBats": 3,
-        "runs": 1,
-        "hits": 0,
-        "doubles": 0,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 0,
-        "totalBases": 0,
-        "walks": 0,
-        "hitByPitch": 2,
-        "strikeouts": 1,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 27,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 5,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "19302",
-        "name": "Creed Erdos",
-        "normalizedName": "creed erdos",
-        "jersey": "38",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/creed-erdos/19302",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Erdos__Creed.jpg",
-        "gamesPlayed": 9,
-        "gamesStarted": 0,
-        "putouts": 27,
-        "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 2,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 27
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 21,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 66.66666666666666,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "summary": "Creed Erdos profiles as a C piece who gets on base at a high clip.",
-        "summaryMetrics": [
-          "AVG .000",
-          "OBP .400",
-          "SLG .000"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".000"
-          },
-          {
-            "label": "OBP",
-            "value": ".400"
-          },
-          {
-            "label": "SLG",
-            "value": ".000"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "C",
-          "SO",
-          "R/R",
-          "Hitter"
-        ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats"
-      }
-    },
-    {
-      "id": "west-virginia-19273",
-      "schoolSlug": "west-virginia",
-      "school": "West Virginia",
-      "schoolLongName": "West Virginia University",
-      "name": "Carson Estridge",
-      "normalizedName": "carson estridge",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right-Handed Pitcher",
-      "classYear": "SR",
-      "handedness": "L/R",
-      "jersey": "40",
-      "hometown": "Haymarket, Va.",
-      "highSchool": "Battlefield",
-      "previousSchool": "",
-      "hometownHighSchool": "Haymarket, Va. / Battlefield",
-      "profileUrl": "https://wvusports.com/sports/baseball/roster/carson-estridge/19273",
-      "imageUrl": "https://wvusports.com/images/2026/1/15/Estridge__Carson.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "19273",
-      "sources": [
-        "West Virginia Athletics roster",
-        "West Virginia cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "19273",
-        "name": "Carson Estridge",
-        "normalizedName": "carson estridge",
-        "jersey": "40",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/carson-estridge/19273",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Estridge__Carson.jpg",
-        "gamesPlayed": 22,
-        "gamesStarted": 0,
-        "appearances": 22,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 3.09,
-        "whip": 1.29,
-        "wins": 4,
-        "losses": 0,
-        "saves": 2,
-        "shutouts": 0,
-        "inningsPitched": 35,
-        "inningsPitchedDisplay": "35.0",
-        "hitsAllowed": 32,
-        "runsAllowed": 15,
-        "earnedRunsAllowed": 12,
-        "walksAllowed": 13,
-        "strikeouts": 34,
-        "doublesAllowed": 4,
-        "triplesAllowed": 2,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 133,
-        "wildPitches": 2,
-        "hitBatters": 8,
-        "balks": 0,
-        "opponentsBattingAverage": 0.241,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "19273",
-        "name": "Carson Estridge",
-        "normalizedName": "carson estridge",
-        "jersey": "40",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/carson-estridge/19273",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Estridge__Carson.jpg",
-        "gamesPlayed": 5,
-        "gamesStarted": 0,
-        "putouts": 2,
-        "assists": 3,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 1,
-        "stolenBasesAgainst": 1,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 5
-      },
-      "evaluation": {
-        "score": 14,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 43.11688311688311,
-          "Command": 32.3076923076923,
-          "Damage suppression": 0
-        },
-        "summary": "Carson Estridge looks like a RHP option who limits runs.",
-        "summaryMetrics": [
-          "ERA 3.09",
-          "WHIP 1.29",
-          "K/9 8.7"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.09"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.29"
-          },
-          {
-            "label": "K/9",
-            "value": "8.7"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.3"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.51"
-          },
-          {
-            "label": "IP",
-            "value": "35.0"
-          }
-        ],
-        "metaLine": "SR / L/R",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "L/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats"
-      }
-    },
-    {
-      "id": "west-virginia-19313",
-      "schoolSlug": "west-virginia",
-      "school": "West Virginia",
-      "schoolLongName": "West Virginia University",
-      "name": "David Perez",
-      "normalizedName": "david perez",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right-Handed Pitcher",
-      "classYear": "FR",
-      "handedness": "R/R",
-      "jersey": "45",
-      "hometown": "Philadelphia, Pa.",
-      "highSchool": "Archbishop Ryan",
-      "previousSchool": "",
-      "hometownHighSchool": "Philadelphia, Pa. / Archbishop Ryan",
-      "profileUrl": "https://wvusports.com/sports/baseball/roster/david-perez/19313",
-      "imageUrl": "https://wvusports.com/images/2026/1/15/Perez__David.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "19313",
-      "sources": [
-        "West Virginia Athletics roster",
-        "West Virginia cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "19313",
-        "name": "David Perez",
-        "normalizedName": "david perez",
-        "jersey": "45",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/david-perez/19313",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Perez__David.jpg",
-        "gamesPlayed": 15,
-        "gamesStarted": 0,
-        "appearances": 15,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 5,
-        "whip": 1.61,
-        "wins": 2,
-        "losses": 1,
-        "saves": 6,
-        "shutouts": 0,
-        "inningsPitched": 18,
-        "inningsPitchedDisplay": "18.0",
-        "hitsAllowed": 17,
-        "runsAllowed": 14,
-        "earnedRunsAllowed": 10,
-        "walksAllowed": 12,
-        "strikeouts": 21,
-        "doublesAllowed": 6,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 3,
-        "opponentsAtBats": 70,
-        "wildPitches": 4,
-        "hitBatters": 0,
-        "balks": 0,
-        "opponentsBattingAverage": 0.243,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "19313",
-        "name": "David Perez",
-        "normalizedName": "david perez",
-        "jersey": "45",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/david-perez/19313",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Perez__David.jpg",
-        "gamesPlayed": 2,
-        "gamesStarted": 0,
-        "putouts": 1,
-        "assists": 1,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 2
-      },
-      "evaluation": {
-        "score": 14,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 59.09090909090909,
-          "Command": 15,
-          "Damage suppression": 0
-        },
-        "summary": "David Perez looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 5.00",
-          "WHIP 1.61",
-          "K/9 10.5"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.61"
-          },
-          {
-            "label": "K/9",
-            "value": "10.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "6.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.50"
-          },
-          {
-            "label": "IP",
-            "value": "18.0"
-          }
-        ],
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats"
-      }
-    },
-    {
-      "id": "west-virginia-19287",
-      "schoolSlug": "west-virginia",
-      "school": "West Virginia",
-      "schoolLongName": "West Virginia University",
-      "name": "Mac Stiffler",
-      "normalizedName": "mac stiffler",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right-Handed Pitcher",
-      "classYear": "SO",
-      "handedness": "R/R",
-      "jersey": "46",
-      "hometown": "Hagerstown, Md.",
-      "highSchool": "North Hagerstown",
-      "previousSchool": "",
-      "hometownHighSchool": "Hagerstown, Md. / North Hagerstown",
-      "profileUrl": "https://wvusports.com/sports/baseball/roster/mac-stiffler/19287",
-      "imageUrl": "https://wvusports.com/images/2026/1/15/Stiffler__Mac.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "19287",
-      "sources": [
-        "West Virginia Athletics roster",
-        "West Virginia cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "19287",
-        "name": "Mac Stiffler",
-        "normalizedName": "mac stiffler",
-        "jersey": "46",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/mac-stiffler/19287",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Stiffler__Mac.jpg",
-        "gamesPlayed": 7,
-        "gamesStarted": 0,
-        "appearances": 7,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 7.94,
-        "whip": 2.47,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 5.666666666666667,
-        "inningsPitchedDisplay": "5.2",
-        "hitsAllowed": 8,
-        "runsAllowed": 7,
-        "earnedRunsAllowed": 5,
-        "walksAllowed": 6,
-        "strikeouts": 10,
-        "doublesAllowed": 0,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 1,
-        "opponentsAtBats": 25,
-        "wildPitches": 3,
-        "hitBatters": 3,
-        "balks": 0,
-        "opponentsBattingAverage": 0.32,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "19287",
-        "name": "Mac Stiffler",
-        "normalizedName": "mac stiffler",
-        "jersey": "46",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/mac-stiffler/19287",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Stiffler__Mac.jpg",
-        "gamesPlayed": 2,
-        "gamesStarted": 0,
-        "putouts": 0,
-        "assists": 1,
-        "errors": 1,
-        "fieldingPercentage": 0.5,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 2
-      },
-      "evaluation": {
-        "score": 22,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 100,
-          "Command": 13.33333333333333,
-          "Damage suppression": 0
-        },
-        "summary": "Mac Stiffler looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 7.94",
-          "WHIP 2.47",
-          "K/9 15.9"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "7.94"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.47"
-          },
-          {
-            "label": "K/9",
-            "value": "15.9"
-          },
-          {
-            "label": "BB/9",
-            "value": "9.5"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.59"
-          },
-          {
-            "label": "IP",
-            "value": "5.7"
-          }
-        ],
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats"
-      }
-    },
-    {
-      "id": "west-virginia-19306",
-      "schoolSlug": "west-virginia",
-      "school": "West Virginia",
-      "schoolLongName": "West Virginia University",
-      "name": "JT Huether",
-      "normalizedName": "jt huether",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right-Handed Pitcher",
-      "classYear": "FR",
-      "handedness": "R/R",
-      "jersey": "48",
-      "hometown": "Fort Myers, Fla.",
-      "highSchool": "Canterbury School",
-      "previousSchool": "",
-      "hometownHighSchool": "Fort Myers, Fla. / Canterbury School",
-      "profileUrl": "https://wvusports.com/sports/baseball/roster/jt-huether/19306",
-      "imageUrl": "https://wvusports.com/images/2026/1/15/Huether__JT.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "19306",
-      "sources": [
-        "West Virginia Athletics roster",
-        "West Virginia cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "19306",
-        "name": "JT Huether",
-        "normalizedName": "jt huether",
-        "jersey": "48",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/jt-huether/19306",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Huether__JT.jpg",
-        "gamesPlayed": 8,
-        "gamesStarted": 0,
-        "appearances": 8,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 7.71,
-        "whip": 1.93,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 4.666666666666667,
-        "inningsPitchedDisplay": "4.2",
-        "hitsAllowed": 1,
-        "runsAllowed": 4,
-        "earnedRunsAllowed": 4,
-        "walksAllowed": 8,
-        "strikeouts": 8,
-        "doublesAllowed": 0,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 16,
-        "wildPitches": 1,
-        "hitBatters": 4,
-        "balks": 0,
-        "opponentsBattingAverage": 0.063,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "19306",
-        "name": "JT Huether",
-        "normalizedName": "jt huether",
-        "jersey": "48",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/jt-huether/19306",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Huether__JT.jpg",
-        "gamesPlayed": 1,
-        "gamesStarted": 0,
-        "putouts": 0,
-        "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 0,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 1,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 0
-      },
-      "evaluation": {
-        "score": 20,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 100,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "JT Huether looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 7.71",
-          "WHIP 1.93",
-          "K/9 15.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "7.71"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.93"
-          },
-          {
-            "label": "K/9",
-            "value": "15.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "15.4"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "4.7"
-          }
-        ],
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats"
-      }
-    },
-    {
-      "id": "west-virginia-19317",
-      "schoolSlug": "west-virginia",
-      "school": "West Virginia",
-      "schoolLongName": "West Virginia University",
-      "name": "Colton Sims",
-      "normalizedName": "colton sims",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "INF",
-      "positionLong": "Infielder",
-      "classYear": "FR",
-      "handedness": "R/R",
-      "jersey": "51",
-      "hometown": "Leawood, Kan.",
-      "highSchool": "Shawnee Mission East",
-      "previousSchool": "",
-      "hometownHighSchool": "Leawood, Kan. / Shawnee Mission East",
-      "profileUrl": "https://wvusports.com/sports/baseball/roster/colton-sims/19317",
-      "imageUrl": "https://wvusports.com/images/2026/1/15/Sims__Colton.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "19317",
-      "sources": [
-        "West Virginia Athletics roster",
-        "West Virginia cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "19317",
-        "name": "Colton Sims",
-        "normalizedName": "colton sims",
-        "jersey": "51",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/colton-sims/19317",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Sims__Colton.jpg",
-        "gamesPlayed": 8,
-        "gamesStarted": 0,
-        "battingAverage": 0.2,
-        "onBasePercentage": 0.167,
-        "sluggingPercentage": 0.4,
-        "ops": 0.567,
-        "atBats": 5,
-        "runs": 1,
-        "hits": 1,
-        "doubles": 1,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 3,
-        "totalBases": 2,
-        "walks": 0,
-        "hitByPitch": 0,
-        "strikeouts": 4,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 1,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 2,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 6,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "19317",
-        "name": "Colton Sims",
-        "normalizedName": "colton sims",
-        "jersey": "51",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/colton-sims/19317",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Sims__Colton.jpg",
-        "gamesPlayed": 2,
-        "gamesStarted": 0,
-        "putouts": 2,
-        "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 2
-      },
-      "evaluation": {
-        "score": 5,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
           "On-base": 0,
-          "Power": 21.052631578947377,
+          "Power": 0,
           "Contact": 0,
           "Discipline": 0,
           "Speed": 0
         },
-        "summary": "Colton Sims gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Creed Erdos gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .200",
-          "OBP .167",
-          "SLG .400"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".200"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".167"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".400"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -5491,231 +3312,143 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
           },
           {
             "label": "RBI",
-            "value": "3"
+            "value": "0"
           },
           {
             "label": "SB",
             "value": "0"
           }
         ],
-        "metaLine": "FR / R/R",
+        "metaLine": "R-SO / R/R",
         "detailBadges": [
-          "INF",
-          "FR",
+          "C",
+          "R-SO",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats"
+        "sourceSummary": "West Virginia Athletics roster"
       }
     },
     {
-      "id": "west-virginia-19318",
+      "id": "west-virginia-20211",
       "schoolSlug": "west-virginia",
       "school": "West Virginia",
       "schoolLongName": "West Virginia University",
-      "name": "Weston Smith",
-      "normalizedName": "weston smith",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right-Handed Pitcher",
+      "name": "Jordan Burwell",
+      "normalizedName": "jordan burwell",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "1B",
+      "positionLong": "First Baseman",
       "classYear": "FR",
-      "handedness": "R/R",
-      "jersey": "52",
-      "hometown": "Hurricane, W.Va.",
-      "highSchool": "Hurricane",
+      "handedness": "L/L",
+      "jersey": "39",
+      "hometown": "Pompton Lakes, N.J.",
+      "highSchool": "Seton Hall Prep",
       "previousSchool": "",
-      "hometownHighSchool": "Hurricane, W.Va. / Hurricane",
-      "profileUrl": "https://wvusports.com/sports/baseball/roster/weston-smith/19318",
-      "imageUrl": "https://wvusports.com/images/2026/1/15/Smith__Weston.jpg",
+      "hometownHighSchool": "Pompton Lakes, N.J. / Seton Hall Prep",
+      "profileUrl": "https://wvusports.com/sports/baseball/roster/jordan-burwell/20211",
+      "imageUrl": "https://wvusports.com/images/2026/8/10/burwell-jordan.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "19318",
+      "rosterBioId": "20211",
       "sources": [
-        "West Virginia Athletics roster",
-        "West Virginia cumulative stats"
+        "West Virginia Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "19318",
-        "name": "Weston Smith",
-        "normalizedName": "weston smith",
-        "jersey": "52",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/weston-smith/19318",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Smith__Weston.jpg",
-        "gamesPlayed": 6,
-        "gamesStarted": 0,
-        "appearances": 6,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 6.35,
-        "whip": 1.24,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 5.666666666666667,
-        "inningsPitchedDisplay": "5.2",
-        "hitsAllowed": 6,
-        "runsAllowed": 4,
-        "earnedRunsAllowed": 4,
-        "walksAllowed": 1,
-        "strikeouts": 3,
-        "doublesAllowed": 2,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 1,
-        "opponentsAtBats": 22,
-        "wildPitches": 0,
-        "hitBatters": 1,
-        "balks": 0,
-        "opponentsBattingAverage": 0.273,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "19318",
-        "name": "Weston Smith",
-        "normalizedName": "weston smith",
-        "jersey": "52",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/weston-smith/19318",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Smith__Weston.jpg",
-        "gamesPlayed": 1,
-        "gamesStarted": 0,
-        "putouts": 0,
-        "assists": 1,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 1
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 8,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 6.951871657754011,
-          "Command": 40,
-          "Damage suppression": 0
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "summary": "Weston Smith looks like a RHP option who throws enough strikes and keeps traffic under control.",
+        "summary": "Jordan Burwell gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 6.35",
-          "WHIP 1.24",
-          "K/9 4.8"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
-            "label": "ERA",
-            "value": "6.35"
+            "label": "AVG",
+            "value": "--"
           },
           {
-            "label": "WHIP",
-            "value": "1.24"
+            "label": "OBP",
+            "value": "--"
           },
           {
-            "label": "K/9",
-            "value": "4.8"
+            "label": "SLG",
+            "value": "--"
           },
           {
-            "label": "BB/9",
-            "value": "1.6"
+            "label": "HR",
+            "value": "0"
           },
           {
-            "label": "HR/9",
-            "value": "1.59"
+            "label": "RBI",
+            "value": "0"
           },
           {
-            "label": "IP",
-            "value": "5.7"
+            "label": "SB",
+            "value": "0"
           }
         ],
-        "metaLine": "FR / R/R",
+        "metaLine": "FR / L/L",
         "detailBadges": [
-          "RHP",
+          "1B",
           "FR",
-          "R/R",
-          "Pitcher"
+          "L/L",
+          "Rostered"
         ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats"
+        "sourceSummary": "West Virginia Athletics roster"
       }
     },
     {
-      "id": "west-virginia-19310",
+      "id": "west-virginia-20212",
       "schoolSlug": "west-virginia",
       "school": "West Virginia",
       "schoolLongName": "West Virginia University",
-      "name": "Andrew Middleton",
-      "normalizedName": "andrew middleton",
+      "name": "Colin Harrison",
+      "normalizedName": "colin harrison",
       "compositeRole": "Pitcher",
       "role": "Pitcher",
       "position": "LHP",
       "positionLong": "Left-Handed Pitcher",
-      "classYear": "JR",
-      "handedness": "R/L",
-      "jersey": "54",
-      "hometown": "Canton, Mass.",
-      "highSchool": "Dexter Southfield",
-      "previousSchool": "UMass",
-      "hometownHighSchool": "Canton, Mass. / Dexter Southfield",
-      "profileUrl": "https://wvusports.com/sports/baseball/roster/andrew-middleton/19310",
-      "imageUrl": "https://wvusports.com/images/2026/1/15/Middleton__Andrew.jpg",
+      "classYear": "FR",
+      "handedness": "L/L",
+      "jersey": "40",
+      "hometown": "Elkridge, Md.",
+      "highSchool": "Mount Saint Joseph HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Elkridge, Md. / Mount Saint Joseph HS",
+      "profileUrl": "https://wvusports.com/sports/baseball/roster/colin-harrison/20212",
+      "imageUrl": "https://wvusports.com/images/2026/8/10/harrison-colin.JPG",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "19310",
+      "rosterBioId": "20212",
       "sources": [
-        "West Virginia Athletics roster",
-        "West Virginia cumulative stats"
+        "West Virginia Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "19310",
-        "name": "Andrew Middleton",
-        "normalizedName": "andrew middleton",
-        "jersey": "54",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/andrew-middleton/19310",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/Middleton__Andrew.jpg",
-        "gamesPlayed": 1,
-        "gamesStarted": 0,
-        "appearances": 1,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 0,
-        "whip": 6,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 0.3333333333333333,
-        "inningsPitchedDisplay": "0.1",
-        "hitsAllowed": 1,
-        "runsAllowed": 0,
-        "earnedRunsAllowed": 0,
-        "walksAllowed": 1,
-        "strikeouts": 0,
-        "doublesAllowed": 0,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 2,
-        "wildPitches": 0,
-        "hitBatters": 0,
-        "balks": 0,
-        "opponentsBattingAverage": 0.5,
-        "walksHits": 0
-      },
+      "pitchingStats": null,
       "fieldingStats": null,
       "evaluation": {
         "score": 0,
@@ -5730,20 +3463,20 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Andrew Middleton looks like a LHP option who limits runs.",
+        "summary": "Colin Harrison looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 0.00",
-          "WHIP 6.00",
+          "ERA --",
+          "WHIP --",
           "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "0.00"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "6.00"
+            "value": "--"
           },
           {
             "label": "K/9",
@@ -5751,7 +3484,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
           },
           {
             "label": "BB/9",
-            "value": "27.0"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
@@ -5759,108 +3492,54 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
           },
           {
             "label": "IP",
-            "value": "0.3"
+            "value": "0.0"
           }
         ],
-        "metaLine": "JR / R/L",
+        "metaLine": "FR / L/L",
         "detailBadges": [
           "LHP",
-          "JR",
-          "R/L",
+          "FR",
+          "L/L",
           "Pitcher"
         ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats"
+        "sourceSummary": "West Virginia Athletics roster"
       }
     },
     {
-      "id": "west-virginia-19284",
+      "id": "west-virginia-20213",
       "schoolSlug": "west-virginia",
       "school": "West Virginia",
       "schoolLongName": "West Virginia University",
-      "name": "Ben McDougal",
-      "normalizedName": "ben mcdougal",
+      "name": "Luke Coats",
+      "normalizedName": "luke coats",
       "compositeRole": "Pitcher",
       "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "Left-Handed Pitcher",
-      "classYear": "SR",
-      "handedness": "L/L",
-      "jersey": "55",
-      "hometown": "Bridgeport, W.Va.",
-      "highSchool": "Bridgeport HS",
-      "previousSchool": "Potomac State",
-      "hometownHighSchool": "Bridgeport, W.Va. / Bridgeport HS",
-      "profileUrl": "https://wvusports.com/sports/baseball/roster/ben-mcdougal/19284",
-      "imageUrl": "https://wvusports.com/images/2026/1/15/McDougal__Ben.jpg",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "41",
+      "hometown": "East Northport, N.Y.",
+      "highSchool": "St. Anthony's HS",
+      "previousSchool": "",
+      "hometownHighSchool": "East Northport, N.Y. / St. Anthony's HS",
+      "profileUrl": "https://wvusports.com/sports/baseball/roster/luke-coats/20213",
+      "imageUrl": "https://wvusports.com/images/2026/8/10/coats-luke.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "19284",
+      "rosterBioId": "20213",
       "sources": [
-        "West Virginia Athletics roster",
-        "West Virginia cumulative stats"
+        "West Virginia Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "19284",
-        "name": "Ben McDougal",
-        "normalizedName": "ben mcdougal",
-        "jersey": "55",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/ben-mcdougal/19284",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/McDougal__Ben.jpg",
-        "gamesPlayed": 13,
-        "gamesStarted": 0,
-        "appearances": 13,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 3.14,
-        "whip": 1.4,
-        "wins": 1,
-        "losses": 0,
-        "saves": 1,
-        "shutouts": 0,
-        "inningsPitched": 14.333333333333334,
-        "inningsPitchedDisplay": "14.1",
-        "hitsAllowed": 12,
-        "runsAllowed": 9,
-        "earnedRunsAllowed": 5,
-        "walksAllowed": 8,
-        "strikeouts": 13,
-        "doublesAllowed": 2,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 4,
-        "opponentsAtBats": 54,
-        "wildPitches": 1,
-        "hitBatters": 3,
-        "balks": 0,
-        "opponentsBattingAverage": 0.222,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "19284",
-        "name": "Ben McDougal",
-        "normalizedName": "ben mcdougal",
-        "jersey": "55",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/ben-mcdougal/19284",
-        "imageUrl": "https://wvusports.com/images/2026/1/15/McDougal__Ben.jpg",
-        "gamesPlayed": 3,
-        "gamesStarted": 0,
-        "putouts": 0,
-        "assists": 2,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 1,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 2
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 10,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5868,40 +3547,568 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 37.84355179704017,
-          "Command": 12.5,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Ben McDougal looks like a LHP option who limits runs.",
+        "summary": "Luke Coats looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 3.14",
-          "WHIP 1.40",
-          "K/9 8.2"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.14"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.40"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "8.2"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "5.0"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "2.51"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "14.3"
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "West Virginia Athletics roster"
+      }
+    },
+    {
+      "id": "west-virginia-20214",
+      "schoolSlug": "west-virginia",
+      "school": "West Virginia",
+      "schoolLongName": "West Virginia University",
+      "name": "Seth Williams",
+      "normalizedName": "seth williams",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "Outfielder",
+      "classYear": "R-JR",
+      "handedness": "L/R",
+      "jersey": "42",
+      "hometown": "Galveston, Texas",
+      "highSchool": "Ball HS",
+      "previousSchool": "Galveston College",
+      "hometownHighSchool": "Galveston, Texas / Ball HS",
+      "profileUrl": "https://wvusports.com/sports/baseball/roster/seth-williams/20214",
+      "imageUrl": "https://wvusports.com/images/2026/8/18/willams-seth.JPG",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "20214",
+      "sources": [
+        "West Virginia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Seth Williams gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "R-JR / L/R",
+        "detailBadges": [
+          "OF",
+          "R-JR",
+          "L/R",
+          "Rostered"
+        ],
+        "sourceSummary": "West Virginia Athletics roster"
+      }
+    },
+    {
+      "id": "west-virginia-20189",
+      "schoolSlug": "west-virginia",
+      "school": "West Virginia",
+      "schoolLongName": "West Virginia University",
+      "name": "David Perez",
+      "normalizedName": "david perez",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "SO",
+      "handedness": "R/R",
+      "jersey": "45",
+      "hometown": "Philadelphia, Pa.",
+      "highSchool": "Archbishop Ryan",
+      "previousSchool": "",
+      "hometownHighSchool": "Philadelphia, Pa. / Archbishop Ryan",
+      "profileUrl": "https://wvusports.com/sports/baseball/roster/david-perez/20189",
+      "imageUrl": "https://wvusports.com/images/2026/1/15/Perez__David.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "20189",
+      "sources": [
+        "West Virginia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "David Perez looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "RHP",
+          "SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "West Virginia Athletics roster"
+      }
+    },
+    {
+      "id": "west-virginia-20182",
+      "schoolSlug": "west-virginia",
+      "school": "West Virginia",
+      "schoolLongName": "West Virginia University",
+      "name": "JT Huether",
+      "normalizedName": "jt huether",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "SO",
+      "handedness": "R/R",
+      "jersey": "48",
+      "hometown": "Fort Myers, Fla.",
+      "highSchool": "Canterbury School",
+      "previousSchool": "",
+      "hometownHighSchool": "Fort Myers, Fla. / Canterbury School",
+      "profileUrl": "https://wvusports.com/sports/baseball/roster/jt-huether/20182",
+      "imageUrl": "https://wvusports.com/images/2026/1/15/Huether__JT.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "20182",
+      "sources": [
+        "West Virginia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "JT Huether looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "RHP",
+          "SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "West Virginia Athletics roster"
+      }
+    },
+    {
+      "id": "west-virginia-20192",
+      "schoolSlug": "west-virginia",
+      "school": "West Virginia",
+      "schoolLongName": "West Virginia University",
+      "name": "Colton Sims",
+      "normalizedName": "colton sims",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "Infielder",
+      "classYear": "SO",
+      "handedness": "R/R",
+      "jersey": "51",
+      "hometown": "Leawood, Kan.",
+      "highSchool": "Shawnee Mission East",
+      "previousSchool": "",
+      "hometownHighSchool": "Leawood, Kan. / Shawnee Mission East",
+      "profileUrl": "https://wvusports.com/sports/baseball/roster/colton-sims/20192",
+      "imageUrl": "https://wvusports.com/images/2026/1/15/Sims__Colton.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "20192",
+      "sources": [
+        "West Virginia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Colton Sims gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "INF",
+          "SO",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "West Virginia Athletics roster"
+      }
+    },
+    {
+      "id": "west-virginia-20215",
+      "schoolSlug": "west-virginia",
+      "school": "West Virginia",
+      "schoolLongName": "West Virginia University",
+      "name": "Slade Barton",
+      "normalizedName": "slade barton",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "52",
+      "hometown": "Morgantown, W.Va.",
+      "highSchool": "Morgantown HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Morgantown, W.Va. / Morgantown HS",
+      "profileUrl": "https://wvusports.com/sports/baseball/roster/slade-barton/20215",
+      "imageUrl": "https://wvusports.com/images/2026/8/10/barton-slade.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "20215",
+      "sources": [
+        "West Virginia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Slade Barton looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "West Virginia Athletics roster"
+      }
+    },
+    {
+      "id": "west-virginia-20216",
+      "schoolSlug": "west-virginia",
+      "school": "West Virginia",
+      "schoolLongName": "West Virginia University",
+      "name": "Colton Hartman",
+      "normalizedName": "colton hartman",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "Left-Handed Pitcher",
+      "classYear": "SR",
+      "handedness": "L/L",
+      "jersey": "54",
+      "hometown": "Lebanon, Ohio",
+      "highSchool": "Lebanon HS",
+      "previousSchool": "Louisville",
+      "hometownHighSchool": "Lebanon, Ohio / Lebanon HS",
+      "profileUrl": "https://wvusports.com/sports/baseball/roster/colton-hartman/20216",
+      "imageUrl": "https://wvusports.com/images/2026/8/18/hartman-colton.JPG",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "20216",
+      "sources": [
+        "West Virginia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Colton Hartman looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
           }
         ],
         "metaLine": "SR / L/L",
@@ -5911,119 +4118,73 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
           "L/L",
           "Pitcher"
         ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats"
+        "sourceSummary": "West Virginia Athletics roster"
       }
-    }
-  ],
-  "playerBoard": {
-    "source": "West Virginia Athletics roster + cumulative stats / ESPN roster",
-    "note": "This West Virginia-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but West Virginia's public ESPN roster feed did not line up cleanly with the current school-site roster.",
-    "totalPlayers": 43,
-    "roleCounts": {
-      "Hitter": 19,
-      "Pitcher": 24
     },
-    "players": [
-      {
-        "id": "west-virginia-19299",
-        "name": "Matthew Graveline",
-        "school": "West Virginia",
-        "role": "Hitter",
-        "position": "OF/C",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 43,
+    {
+      "id": "west-virginia-20187",
+      "schoolSlug": "west-virginia",
+      "school": "West Virginia",
+      "schoolLongName": "West Virginia University",
+      "name": "Ben McDougal",
+      "normalizedName": "ben mcdougal",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "Left-Handed Pitcher",
+      "classYear": "5TH",
+      "handedness": "L/L",
+      "jersey": "55",
+      "hometown": "Bridgeport, W.Va.",
+      "highSchool": "Bridgeport HS",
+      "previousSchool": "Potomac State",
+      "hometownHighSchool": "Bridgeport, W.Va. / Bridgeport HS",
+      "profileUrl": "https://wvusports.com/sports/baseball/roster/ben-mcdougal/20187",
+      "imageUrl": "https://wvusports.com/images/2026/1/15/McDougal__Ben.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "20187",
+      "sources": [
+        "West Virginia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Matthew Graveline profiles as a OF/C piece who adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .305",
-          "OBP .381",
-          "SLG .431"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".305"
-          },
-          {
-            "label": "OBP",
-            "value": ".381"
-          },
-          {
-            "label": "SLG",
-            "value": ".431"
-          },
-          {
-            "label": "HR",
-            "value": "6"
-          },
-          {
-            "label": "RBI",
-            "value": "39"
-          },
-          {
-            "label": "SB",
-            "value": "9"
-          }
-        ],
         "components": {
-          "On-base": 56.1111111111111,
-          "Power": 29.210526315789476,
-          "Contact": 53.124999999999986,
-          "Discipline": 32.32323232323232,
-          "Speed": 30
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
         },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "OF/C",
-          "SR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "West Virginia Athletics roster",
-          "West Virginia cumulative stats"
-        ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats",
-        "schoolSlug": "west-virginia",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/matthew-graveline/19299",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "west-virginia-19274",
-        "name": "JJ Glasscock",
-        "school": "West Virginia",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "R-SO",
-        "handedness": "R/R",
-        "score": 25,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "JJ Glasscock looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
+        "summary": "Ben McDougal looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 0.00",
-          "WHIP 0.00",
-          "K/9 9.0"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "0.00"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "0.00"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "9.0"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
@@ -6035,16 +4196,185 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
           },
           {
             "label": "IP",
-            "value": "1.0"
+            "value": "0.0"
           }
         ],
+        "metaLine": "5TH / L/L",
+        "detailBadges": [
+          "LHP",
+          "5TH",
+          "L/L",
+          "Pitcher"
+        ],
+        "sourceSummary": "West Virginia Athletics roster"
+      }
+    },
+    {
+      "id": "west-virginia-20217",
+      "schoolSlug": "west-virginia",
+      "school": "West Virginia",
+      "schoolLongName": "West Virginia University",
+      "name": "Joshua Viars",
+      "normalizedName": "joshua viars",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "UTL",
+      "positionLong": "Utility",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "77",
+      "hometown": "Prosper, Texas",
+      "highSchool": "Walnut Grove HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Prosper, Texas / Walnut Grove HS",
+      "profileUrl": "https://wvusports.com/sports/baseball/roster/joshua-viars/20217",
+      "imageUrl": "https://wvusports.com/images/2026/8/10/viars-joshua.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "20217",
+      "sources": [
+        "West Virginia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Joshua Viars gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "UTL",
+          "FR",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "West Virginia Athletics roster"
+      }
+    },
+    {
+      "id": "west-virginia-20218",
+      "schoolSlug": "west-virginia",
+      "school": "West Virginia",
+      "schoolLongName": "West Virginia University",
+      "name": "Ryan Brown",
+      "normalizedName": "ryan brown",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "R-SO",
+      "handedness": "R/R",
+      "jersey": "96",
+      "hometown": "Ashland, Ky.",
+      "highSchool": "Boyd County HS",
+      "previousSchool": "Queens (N.C.)",
+      "hometownHighSchool": "Ashland, Ky. / Boyd County HS",
+      "profileUrl": "https://wvusports.com/sports/baseball/roster/ryan-brown/20218",
+      "imageUrl": "https://wvusports.com/images/2026/8/18/brown-ryan.JPG",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "20218",
+      "sources": [
+        "West Virginia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
-          "Command": 100,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
+        "summary": "Ryan Brown looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
         "metaLine": "R-SO / R/R",
         "detailBadges": [
           "RHP",
@@ -6052,116 +4382,186 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
           "R/R",
           "Pitcher"
         ],
-        "leaderboards": [
-          "West Virginia Athletics roster",
-          "West Virginia cumulative stats"
-        ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats",
-        "schoolSlug": "west-virginia",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/jj-glasscock/19274",
-        "espnAthleteId": ""
-      },
+        "sourceSummary": "West Virginia Athletics roster"
+      }
+    }
+  ],
+  "playerBoard": {
+    "source": "West Virginia Athletics roster + cumulative stats / ESPN roster",
+    "note": "This West Virginia-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but West Virginia's public ESPN roster feed did not line up cleanly with the current school-site roster.",
+    "totalPlayers": 48,
+    "roleCounts": {
+      "Hitter": 21,
+      "Pitcher": 27
+    },
+    "players": [
       {
-        "id": "west-virginia-19279",
-        "name": "Gavin Kelly",
+        "id": "west-virginia-20193",
+        "name": "Weston Smith",
         "school": "West Virginia",
-        "role": "Hitter",
-        "position": "UTL",
+        "role": "Pitcher",
+        "position": "RHP",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 89,
-        "fit": {
-          "label": "Priority",
-          "className": "fit-priority"
-        },
-        "summary": "Gavin Kelly profiles as a UTL piece who gets on base at a high clip and brings real extra-base damage.",
-        "summaryMetrics": [
-          "AVG .382",
-          "OBP .477",
-          "SLG .725"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".382"
-          },
-          {
-            "label": "OBP",
-            "value": ".477"
-          },
-          {
-            "label": "SLG",
-            "value": ".725"
-          },
-          {
-            "label": "HR",
-            "value": "19"
-          },
-          {
-            "label": "RBI",
-            "value": "63"
-          },
-          {
-            "label": "SB",
-            "value": "5"
-          }
-        ],
-        "components": {
-          "On-base": 100,
-          "Power": 100,
-          "Contact": 100,
-          "Discipline": 83.9506172839506,
-          "Speed": 16.666666666666664
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "UTL",
-          "SO",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "West Virginia Athletics roster",
-          "West Virginia cumulative stats"
-        ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats",
-        "schoolSlug": "west-virginia",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/gavin-kelly/19279",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "west-virginia-19290",
-        "name": "Zahir Barjam",
-        "school": "West Virginia",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 16,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Zahir Barjam gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Weston Smith looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "AVG .273",
-          "OBP .306",
-          "SLG .394"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "RHP",
+          "SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "West Virginia Athletics roster"
+        ],
+        "sourceSummary": "West Virginia Athletics roster",
+        "schoolSlug": "west-virginia",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://wvusports.com/sports/baseball/roster/weston-smith/20193",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "west-virginia-20175",
+        "name": "JJ Glasscock",
+        "school": "West Virginia",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "GR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "JJ Glasscock looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "GR / R/R",
+        "detailBadges": [
+          "RHP",
+          "GR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "West Virginia Athletics roster"
+        ],
+        "sourceSummary": "West Virginia Athletics roster",
+        "schoolSlug": "west-virginia",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://wvusports.com/sports/baseball/roster/jj-glasscock/20175",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "west-virginia-20185",
+        "name": "Gavin Kelly",
+        "school": "West Virginia",
+        "role": "Hitter",
+        "position": "UTL",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Gavin Kelly gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".273"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".306"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".394"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -6169,7 +4569,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
           },
           {
             "label": "RBI",
-            "value": "3"
+            "value": "0"
           },
           {
             "label": "SB",
@@ -6177,31 +4577,98 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
           }
         ],
         "components": {
-          "On-base": 14.444444444444427,
-          "Power": 19.473684210526322,
-          "Contact": 33.12500000000001,
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "FR / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
-          "INF",
-          "FR",
+          "UTL",
+          "JR",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "West Virginia Athletics roster",
-          "West Virginia cumulative stats"
+          "West Virginia Athletics roster"
         ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats",
+        "sourceSummary": "West Virginia Athletics roster",
         "schoolSlug": "west-virginia",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/zahir-barjam/19290",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://wvusports.com/sports/baseball/roster/gavin-kelly/20185",
         "espnAthleteId": ""
       },
       {
-        "id": "west-virginia-19278",
+        "id": "west-virginia-20197",
+        "name": "Chase Ecker",
+        "school": "West Virginia",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "SO",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Chase Ecker gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "OF",
+          "SO",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "West Virginia Athletics roster"
+        ],
+        "sourceSummary": "West Virginia Athletics roster",
+        "schoolSlug": "west-virginia",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://wvusports.com/sports/baseball/roster/chase-ecker/20197",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "west-virginia-20184",
         "name": "Jackson Ingram",
         "school": "West Virginia",
         "role": "Hitter",
@@ -6265,178 +4732,176 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "sourceSummary": "West Virginia Athletics roster",
         "schoolSlug": "west-virginia",
         "compositeRole": "Rostered",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/jackson-ingram/19278",
+        "profileUrl": "https://wvusports.com/sports/baseball/roster/jackson-ingram/20184",
         "espnAthleteId": ""
       },
       {
-        "id": "west-virginia-19275",
+        "id": "west-virginia-20178",
         "name": "Armani Guzman",
         "school": "West Virginia",
         "role": "Hitter",
         "position": "UTL",
-        "classYear": "JR",
+        "classYear": "SR",
         "handedness": "L/R",
-        "score": 66,
+        "score": 0,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
-        "summary": "Armani Guzman profiles as a UTL piece who gets on base at a high clip and adds running-game pressure.",
+        "summary": "Armani Guzman gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .321",
-          "OBP .419",
-          "SLG .444"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".321"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".419"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".444"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "1"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "45"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "42"
+            "value": "0"
           }
         ],
         "components": {
-          "On-base": 77.2222222222222,
-          "Power": 32.631578947368425,
-          "Contact": 63.125,
-          "Discipline": 80.95238095238095,
-          "Speed": 100
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "metaLine": "JR / L/R",
+        "metaLine": "SR / L/R",
         "detailBadges": [
           "UTL",
-          "JR",
+          "SR",
           "L/R",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "West Virginia Athletics roster",
-          "West Virginia cumulative stats"
+          "West Virginia Athletics roster"
         ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats",
+        "sourceSummary": "West Virginia Athletics roster",
         "schoolSlug": "west-virginia",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/armani-guzman/19275",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://wvusports.com/sports/baseball/roster/armani-guzman/20178",
         "espnAthleteId": ""
       },
       {
-        "id": "west-virginia-19316",
-        "name": "Paul Schoenfeld",
+        "id": "west-virginia-20198",
+        "name": "Jack Cannon",
         "school": "West Virginia",
         "role": "Hitter",
         "position": "OF",
-        "classYear": "5TH",
-        "handedness": "L/L",
-        "score": 69,
+        "classYear": "SR",
+        "handedness": "R/L",
+        "score": 0,
         "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
+          "label": "Depth",
+          "className": "fit-depth"
         },
-        "summary": "Paul Schoenfeld profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
+        "summary": "Jack Cannon gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .327",
-          "OBP .422",
-          "SLG .480"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".327"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".422"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".480"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "4"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "52"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "26"
+            "value": "0"
           }
         ],
         "components": {
-          "On-base": 78.88888888888886,
-          "Power": 42.10526315789473,
-          "Contact": 66.875,
-          "Discipline": 86.17886178861788,
-          "Speed": 86.66666666666667
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "metaLine": "5TH / L/L",
+        "metaLine": "SR / R/L",
         "detailBadges": [
           "OF",
-          "5TH",
-          "L/L",
-          "Hitter"
+          "SR",
+          "R/L",
+          "Rostered"
         ],
         "leaderboards": [
-          "West Virginia Athletics roster",
-          "West Virginia cumulative stats"
+          "West Virginia Athletics roster"
         ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats",
+        "sourceSummary": "West Virginia Athletics roster",
         "schoolSlug": "west-virginia",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/paul-schoenfeld/19316",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://wvusports.com/sports/baseball/roster/jack-cannon/20198",
         "espnAthleteId": ""
       },
       {
-        "id": "west-virginia-19286",
+        "id": "west-virginia-20188",
         "name": "Maxwell Molessa",
         "school": "West Virginia",
         "role": "Hitter",
         "position": "OF",
-        "classYear": "R-FR",
+        "classYear": "R-SO",
         "handedness": "L/R",
-        "score": 6,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Maxwell Molessa gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .267",
-          "OBP .267",
-          "SLG .333"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".267"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".267"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".333"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -6444,7 +4909,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
           },
           {
             "label": "RBI",
-            "value": "2"
+            "value": "0"
           },
           {
             "label": "SB",
@@ -6453,862 +4918,33 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         ],
         "components": {
           "On-base": 0,
-          "Power": 3.421052631578951,
-          "Contact": 29.375000000000007,
+          "Power": 0,
+          "Contact": 0,
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "R-FR / L/R",
+        "metaLine": "R-SO / L/R",
         "detailBadges": [
           "OF",
-          "R-FR",
+          "R-SO",
           "L/R",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "West Virginia Athletics roster",
-          "West Virginia cumulative stats"
+          "West Virginia Athletics roster"
         ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats",
+        "sourceSummary": "West Virginia Athletics roster",
         "schoolSlug": "west-virginia",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/maxwell-molessa/19286",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://wvusports.com/sports/baseball/roster/maxwell-molessa/20188",
         "espnAthleteId": ""
       },
       {
-        "id": "west-virginia-19305",
+        "id": "west-virginia-20180",
         "name": "Tyrus Hall",
         "school": "West Virginia",
         "role": "Hitter",
         "position": "INF",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 46,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Tyrus Hall profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .279",
-          "OBP .402",
-          "SLG .433"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".279"
-          },
-          {
-            "label": "OBP",
-            "value": ".402"
-          },
-          {
-            "label": "SLG",
-            "value": ".433"
-          },
-          {
-            "label": "HR",
-            "value": "7"
-          },
-          {
-            "label": "RBI",
-            "value": "38"
-          },
-          {
-            "label": "SB",
-            "value": "20"
-          }
-        ],
-        "components": {
-          "On-base": 67.77777777777779,
-          "Power": 29.73684210526316,
-          "Contact": 36.875000000000014,
-          "Discipline": 24.836601307189536,
-          "Speed": 66.66666666666666
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "INF",
-          "JR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "West Virginia Athletics roster",
-          "West Virginia cumulative stats"
-        ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats",
-        "schoolSlug": "west-virginia",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/tyrus-hall/19305",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "west-virginia-19277",
-        "name": "Bryson Hoff",
-        "school": "West Virginia",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 33,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Bryson Hoff looks like a RHP option who misses bats and throws enough strikes.",
-        "summaryMetrics": [
-          "ERA 27.00",
-          "WHIP 3.00",
-          "K/9 13.5"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "27.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "3.00"
-          },
-          {
-            "label": "K/9",
-            "value": "13.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 86.36363636363636,
-          "Command": 100,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "West Virginia Athletics roster",
-          "West Virginia cumulative stats"
-        ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats",
-        "schoolSlug": "west-virginia",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/bryson-hoff/19277",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "west-virginia-19322",
-        "name": "Bryson Thacker",
-        "school": "West Virginia",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "R-SO",
-        "handedness": "L/L",
-        "score": 15,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Bryson Thacker looks like a LHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 7.20",
-          "WHIP 1.90",
-          "K/9 11.7"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "7.20"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.90"
-          },
-          {
-            "label": "K/9",
-            "value": "11.7"
-          },
-          {
-            "label": "BB/9",
-            "value": "9.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "3.60"
-          },
-          {
-            "label": "IP",
-            "value": "10.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 70,
-          "Command": 5.9999999999999964,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-SO / L/L",
-        "detailBadges": [
-          "LHP",
-          "R-SO",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "West Virginia Athletics roster",
-          "West Virginia cumulative stats"
-        ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats",
-        "schoolSlug": "west-virginia",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/bryson-thacker/19322",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "west-virginia-19319",
-        "name": "Sean Smith",
-        "school": "West Virginia",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "GR",
-        "handedness": "R/R",
-        "score": 53,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Sean Smith profiles as a OF piece who gets on base at a high clip.",
-        "summaryMetrics": [
-          "AVG .315",
-          "OBP .409",
-          "SLG .515"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".315"
-          },
-          {
-            "label": "OBP",
-            "value": ".409"
-          },
-          {
-            "label": "SLG",
-            "value": ".515"
-          },
-          {
-            "label": "HR",
-            "value": "10"
-          },
-          {
-            "label": "RBI",
-            "value": "55"
-          },
-          {
-            "label": "SB",
-            "value": "6"
-          }
-        ],
-        "components": {
-          "On-base": 71.66666666666664,
-          "Power": 51.31578947368421,
-          "Contact": 59.375,
-          "Discipline": 31.481481481481477,
-          "Speed": 20
-        },
-        "metaLine": "GR / R/R",
-        "detailBadges": [
-          "OF",
-          "GR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "West Virginia Athletics roster",
-          "West Virginia cumulative stats"
-        ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats",
-        "schoolSlug": "west-virginia",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/sean-smith/19319",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "west-virginia-19280",
-        "name": "Brodie Kresser",
-        "school": "West Virginia",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "GR",
-        "handedness": "R/R",
-        "score": 45,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Brodie Kresser gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .295",
-          "OBP .395",
-          "SLG .377"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".295"
-          },
-          {
-            "label": "OBP",
-            "value": ".395"
-          },
-          {
-            "label": "SLG",
-            "value": ".377"
-          },
-          {
-            "label": "HR",
-            "value": "2"
-          },
-          {
-            "label": "RBI",
-            "value": "34"
-          },
-          {
-            "label": "SB",
-            "value": "6"
-          }
-        ],
-        "components": {
-          "On-base": 63.888888888888886,
-          "Power": 15,
-          "Contact": 46.874999999999986,
-          "Discipline": 74.07407407407408,
-          "Speed": 20
-        },
-        "metaLine": "GR / R/R",
-        "detailBadges": [
-          "INF",
-          "GR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "West Virginia Athletics roster",
-          "West Virginia cumulative stats"
-        ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats",
-        "schoolSlug": "west-virginia",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/brodie-kresser/19280",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "west-virginia-19283",
-        "name": "Ryan Maggy",
-        "school": "West Virginia",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "R-FR",
-        "handedness": "L/R",
-        "score": 17,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Ryan Maggy gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .235",
-          "OBP .350",
-          "SLG .235"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".235"
-          },
-          {
-            "label": "OBP",
-            "value": ".350"
-          },
-          {
-            "label": "SLG",
-            "value": ".235"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "4"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
-        "components": {
-          "On-base": 38.888888888888864,
-          "Power": 0,
-          "Contact": 9.374999999999991,
-          "Discipline": 14.814814814814808,
-          "Speed": 3.3333333333333335
-        },
-        "metaLine": "R-FR / L/R",
-        "detailBadges": [
-          "INF",
-          "R-FR",
-          "L/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "West Virginia Athletics roster",
-          "West Virginia cumulative stats"
-        ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats",
-        "schoolSlug": "west-virginia",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/ryan-maggy/19283",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "west-virginia-19309",
-        "name": "Weston Mazey",
-        "school": "West Virginia",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 7,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Weston Mazey gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .125",
-          "OBP .300",
-          "SLG .125"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".125"
-          },
-          {
-            "label": "OBP",
-            "value": ".300"
-          },
-          {
-            "label": "SLG",
-            "value": ".125"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 11.111111111111091,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 22.22222222222222,
-          "Speed": 0
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "INF",
-          "FR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "West Virginia Athletics roster",
-          "West Virginia cumulative stats"
-        ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats",
-        "schoolSlug": "west-virginia",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/weston-mazey/19309",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "west-virginia-19288",
-        "name": "Maxx Yehl",
-        "school": "West Virginia",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "R-JR",
-        "handedness": "L/L",
-        "score": 22,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Maxx Yehl looks like a LHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
-        "summaryMetrics": [
-          "ERA 2.13",
-          "WHIP 1.07",
-          "K/9 10.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "2.13"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.07"
-          },
-          {
-            "label": "K/9",
-            "value": "10.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.4"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.65"
-          },
-          {
-            "label": "IP",
-            "value": "97.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 58.10684161199625,
-          "Command": 66.15384615384616,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-JR / L/L",
-        "detailBadges": [
-          "LHP",
-          "R-JR",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "West Virginia Athletics roster",
-          "West Virginia cumulative stats"
-        ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats",
-        "schoolSlug": "west-virginia",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/maxx-yehl/19288",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "west-virginia-19323",
-        "name": "Brock Wills",
-        "school": "West Virginia",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "SR",
-        "handedness": "L/R",
-        "score": 32,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Brock Wills gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .283",
-          "OBP .372",
-          "SLG .392"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".283"
-          },
-          {
-            "label": "OBP",
-            "value": ".372"
-          },
-          {
-            "label": "SLG",
-            "value": ".392"
-          },
-          {
-            "label": "HR",
-            "value": "2"
-          },
-          {
-            "label": "RBI",
-            "value": "23"
-          },
-          {
-            "label": "SB",
-            "value": "4"
-          }
-        ],
-        "components": {
-          "On-base": 51.11111111111109,
-          "Power": 18.947368421052634,
-          "Contact": 39.374999999999986,
-          "Discipline": 19.44444444444444,
-          "Speed": 13.333333333333334
-        },
-        "metaLine": "SR / L/R",
-        "detailBadges": [
-          "OF",
-          "SR",
-          "L/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "West Virginia Athletics roster",
-          "West Virginia cumulative stats"
-        ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats",
-        "schoolSlug": "west-virginia",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/brock-wills/19323",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "west-virginia-19307",
-        "name": "Matt Ineich",
-        "school": "West Virginia",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SO",
-        "handedness": "L/R",
-        "score": 60,
-        "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
-        },
-        "summary": "Matt Ineich profiles as a INF piece who gets on base at a high clip and controls at-bats.",
-        "summaryMetrics": [
-          "AVG .296",
-          "OBP .442",
-          "SLG .412"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".296"
-          },
-          {
-            "label": "OBP",
-            "value": ".442"
-          },
-          {
-            "label": "SLG",
-            "value": ".412"
-          },
-          {
-            "label": "HR",
-            "value": "4"
-          },
-          {
-            "label": "RBI",
-            "value": "36"
-          },
-          {
-            "label": "SB",
-            "value": "7"
-          }
-        ],
-        "components": {
-          "On-base": 89.99999999999999,
-          "Power": 24.21052631578947,
-          "Contact": 47.499999999999986,
-          "Discipline": 100,
-          "Speed": 23.333333333333332
-        },
-        "metaLine": "SO / L/R",
-        "detailBadges": [
-          "INF",
-          "SO",
-          "L/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "West Virginia Athletics roster",
-          "West Virginia cumulative stats"
-        ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats",
-        "schoolSlug": "west-virginia",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/matt-ineich/19307",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "west-virginia-19308",
-        "name": "Ian Korn",
-        "school": "West Virginia",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "GR",
-        "handedness": "R/R",
-        "score": 21,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Ian Korn looks like a RHP option who limits runs and throws enough strikes and keeps traffic under control.",
-        "summaryMetrics": [
-          "ERA 3.39",
-          "WHIP 1.08",
-          "K/9 7.9"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.39"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.08"
-          },
-          {
-            "label": "K/9",
-            "value": "7.9"
-          },
-          {
-            "label": "BB/9",
-            "value": "1.5"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.79"
-          },
-          {
-            "label": "IP",
-            "value": "79.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 35.526816279954346,
-          "Command": 87.69230769230768,
-          "Damage suppression": 0
-        },
-        "metaLine": "GR / R/R",
-        "detailBadges": [
-          "RHP",
-          "GR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "West Virginia Athletics roster",
-          "West Virginia cumulative stats"
-        ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats",
-        "schoolSlug": "west-virginia",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/ian-korn/19308",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "west-virginia-19314",
-        "name": "Matthew Robaugh",
-        "school": "West Virginia",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 2,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Matthew Robaugh gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .194",
-          "OBP .275",
-          "SLG .222"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".194"
-          },
-          {
-            "label": "OBP",
-            "value": ".275"
-          },
-          {
-            "label": "SLG",
-            "value": ".222"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "1"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 14.814814814814808,
-          "Speed": 0
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "INF",
-          "FR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "West Virginia Athletics roster",
-          "West Virginia cumulative stats"
-        ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats",
-        "schoolSlug": "west-virginia",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/matthew-robaugh/19314",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "west-virginia-19282",
-        "name": "Luke Lyman",
-        "school": "West Virginia",
-        "role": "Pitcher",
-        "position": "RHP",
         "classYear": "SR",
         "handedness": "R/R",
         "score": 0,
@@ -7316,7 +4952,75 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Luke Lyman looks like a RHP option who throws enough strikes.",
+        "summary": "Tyrus Hall gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "INF",
+          "SR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "West Virginia Athletics roster"
+        ],
+        "sourceSummary": "West Virginia Athletics roster",
+        "schoolSlug": "west-virginia",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://wvusports.com/sports/baseball/roster/tyrus-hall/20180",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "west-virginia-20181",
+        "name": "Bryson Hoff",
+        "school": "West Virginia",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Bryson Hoff looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -7355,10 +5059,10 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SR / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "RHP",
-          "SR",
+          "JR",
           "R/R",
           "Pitcher"
         ],
@@ -7368,186 +5072,48 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "sourceSummary": "West Virginia Athletics roster",
         "schoolSlug": "west-virginia",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/luke-lyman/19282",
+        "profileUrl": "https://wvusports.com/sports/baseball/roster/bryson-hoff/20181",
         "espnAthleteId": ""
       },
       {
-        "id": "west-virginia-19321",
-        "name": "Joshua Surigao",
-        "school": "West Virginia",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "SO",
-        "handedness": "L/L",
-        "score": 13,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Joshua Surigao looks like a LHP option who limits runs and misses bats.",
-        "summaryMetrics": [
-          "ERA 3.60",
-          "WHIP 1.60",
-          "K/9 9.9"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.60"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.60"
-          },
-          {
-            "label": "K/9",
-            "value": "9.9"
-          },
-          {
-            "label": "BB/9",
-            "value": "6.3"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "10.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 53.63636363636364,
-          "Command": 11.428571428571432,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / L/L",
-        "detailBadges": [
-          "LHP",
-          "SO",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "West Virginia Athletics roster",
-          "West Virginia cumulative stats"
-        ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats",
-        "schoolSlug": "west-virginia",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/joshua-surigao/19321",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "west-virginia-19276",
-        "name": "David Hagen",
-        "school": "West Virginia",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 5,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "David Hagen looks like a RHP option who limits runs.",
-        "summaryMetrics": [
-          "ERA 3.48",
-          "WHIP 1.32",
-          "K/9 6.7"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.48"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.32"
-          },
-          {
-            "label": "K/9",
-            "value": "6.7"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.8"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.87"
-          },
-          {
-            "label": "IP",
-            "value": "31.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 24.340175953079182,
-          "Command": 2.9999999999999982,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "West Virginia Athletics roster",
-          "West Virginia cumulative stats"
-        ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats",
-        "schoolSlug": "west-virginia",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/david-hagen/19276",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "west-virginia-19281",
-        "name": "Ben Lumsden",
+        "id": "west-virginia-20196",
+        "name": "Colin Coonradt",
         "school": "West Virginia",
         "role": "Hitter",
-        "position": "OF",
-        "classYear": "SR",
+        "position": "UTL",
+        "classYear": "JR",
         "handedness": "L/R",
-        "score": 37,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Ben Lumsden gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Colin Coonradt gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .258",
-          "OBP .385",
-          "SLG .438"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".258"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".385"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".438"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "3"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "20"
+            "value": "0"
           },
           {
             "label": "SB",
@@ -7555,101 +5121,31 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
           }
         ],
         "components": {
-          "On-base": 58.33333333333333,
-          "Power": 31.05263157894737,
-          "Contact": 23.750000000000004,
-          "Discipline": 45.87813620071684,
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "SR / L/R",
+        "metaLine": "JR / L/R",
         "detailBadges": [
-          "OF",
-          "SR",
+          "UTL",
+          "JR",
           "L/R",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "West Virginia Athletics roster",
-          "West Virginia cumulative stats"
+          "West Virginia Athletics roster"
         ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats",
+        "sourceSummary": "West Virginia Athletics roster",
         "schoolSlug": "west-virginia",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/ben-lumsden/19281",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://wvusports.com/sports/baseball/roster/colin-coonradt/20196",
         "espnAthleteId": ""
       },
       {
-        "id": "west-virginia-19271",
-        "name": "JD Costanzo",
-        "school": "West Virginia",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "R-FR",
-        "handedness": "B/L",
-        "score": 11,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "JD Costanzo looks like a LHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 13.50",
-          "WHIP 3.75",
-          "K/9 10.1"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "13.50"
-          },
-          {
-            "label": "WHIP",
-            "value": "3.75"
-          },
-          {
-            "label": "K/9",
-            "value": "10.1"
-          },
-          {
-            "label": "BB/9",
-            "value": "10.1"
-          },
-          {
-            "label": "HR/9",
-            "value": "3.38"
-          },
-          {
-            "label": "IP",
-            "value": "2.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 55.68181818181818,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-FR / B/L",
-        "detailBadges": [
-          "LHP",
-          "R-FR",
-          "B/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "West Virginia Athletics roster",
-          "West Virginia cumulative stats"
-        ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats",
-        "schoolSlug": "west-virginia",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/jd-costanzo/19271",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "west-virginia-19303",
-        "name": "Sean Goldy",
+        "id": "west-virginia-20199",
+        "name": "Kayden Lipscomb",
         "school": "West Virginia",
         "role": "Hitter",
         "position": "INF",
@@ -7660,7 +5156,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Sean Goldy gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Kayden Lipscomb gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG --",
           "OBP --",
@@ -7712,128 +5208,739 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "sourceSummary": "West Virginia Athletics roster",
         "schoolSlug": "west-virginia",
         "compositeRole": "Rostered",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/sean-goldy/19303",
+        "profileUrl": "https://wvusports.com/sports/baseball/roster/kayden-lipscomb/20199",
         "espnAthleteId": ""
       },
       {
-        "id": "west-virginia-19270",
-        "name": "Reese Bassinger",
+        "id": "west-virginia-20200",
+        "name": "Ryan Piekutoski",
         "school": "West Virginia",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "GR",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "SO",
         "handedness": "R/R",
-        "score": 17,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Reese Bassinger looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
+        "summary": "Ryan Piekutoski gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 3.30",
-          "WHIP 1.18",
-          "K/9 9.6"
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "INF",
+          "SO",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "West Virginia Athletics roster"
+        ],
+        "sourceSummary": "West Virginia Athletics roster",
+        "schoolSlug": "west-virginia",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://wvusports.com/sports/baseball/roster/ryan-piekutoski/20200",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "west-virginia-20201",
+        "name": "Henkel Acevedo",
+        "school": "West Virginia",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "FR",
+        "handedness": "L/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Henkel Acevedo gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / L/R",
+        "detailBadges": [
+          "OF",
+          "FR",
+          "L/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "West Virginia Athletics roster"
+        ],
+        "sourceSummary": "West Virginia Athletics roster",
+        "schoolSlug": "west-virginia",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://wvusports.com/sports/baseball/roster/henkel-acevedo/20201",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "west-virginia-20186",
+        "name": "Weston Mazey",
+        "school": "West Virginia",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "SO",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Weston Mazey gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "INF",
+          "SO",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "West Virginia Athletics roster"
+        ],
+        "sourceSummary": "West Virginia Athletics roster",
+        "schoolSlug": "west-virginia",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://wvusports.com/sports/baseball/roster/weston-mazey/20186",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "west-virginia-20202",
+        "name": "Zak Whitney",
+        "school": "West Virginia",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SO",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Zak Whitney looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.30"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.18"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "9.6"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "3.0"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "0.45"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "60.0"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 50.90909090909091,
-          "Command": 43.99999999999999,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "GR / R/R",
+        "metaLine": "SO / R/R",
         "detailBadges": [
           "RHP",
-          "GR",
+          "SO",
           "R/R",
           "Pitcher"
         ],
         "leaderboards": [
-          "West Virginia Athletics roster",
-          "West Virginia cumulative stats"
+          "West Virginia Athletics roster"
         ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats",
+        "sourceSummary": "West Virginia Athletics roster",
         "schoolSlug": "west-virginia",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/reese-bassinger/19270",
+        "profileUrl": "https://wvusports.com/sports/baseball/roster/zak-whitney/20202",
         "espnAthleteId": ""
       },
       {
-        "id": "west-virginia-19311",
-        "name": "Dawson Montesa",
+        "id": "west-virginia-20203",
+        "name": "Cash Williams",
+        "school": "West Virginia",
+        "role": "Hitter",
+        "position": "C/OF",
+        "classYear": "R-FR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Cash Williams gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "R-FR / R/R",
+        "detailBadges": [
+          "C/OF",
+          "R-FR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "West Virginia Athletics roster"
+        ],
+        "sourceSummary": "West Virginia Athletics roster",
+        "schoolSlug": "west-virginia",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://wvusports.com/sports/baseball/roster/cash-williams/20203",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "west-virginia-20183",
+        "name": "Matt Ineich",
+        "school": "West Virginia",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "JR",
+        "handedness": "L/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Matt Ineich gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "JR / L/R",
+        "detailBadges": [
+          "INF",
+          "JR",
+          "L/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "West Virginia Athletics roster"
+        ],
+        "sourceSummary": "West Virginia Athletics roster",
+        "schoolSlug": "west-virginia",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://wvusports.com/sports/baseball/roster/matt-ineich/20183",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "west-virginia-20204",
+        "name": "Austin Ziance",
+        "school": "West Virginia",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Austin Ziance looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "West Virginia Athletics roster"
+        ],
+        "sourceSummary": "West Virginia Athletics roster",
+        "schoolSlug": "west-virginia",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://wvusports.com/sports/baseball/roster/austin-ziance/20204",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "west-virginia-20190",
+        "name": "Matthew Robaugh",
+        "school": "West Virginia",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "SO",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Matthew Robaugh gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "INF",
+          "SO",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "West Virginia Athletics roster"
+        ],
+        "sourceSummary": "West Virginia Athletics roster",
+        "schoolSlug": "west-virginia",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://wvusports.com/sports/baseball/roster/matthew-robaugh/20190",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "west-virginia-20205",
+        "name": "CJ Alfano",
+        "school": "West Virginia",
+        "role": "Hitter",
+        "position": "1B",
+        "classYear": "FR",
+        "handedness": "L/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "CJ Alfano gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / L/L",
+        "detailBadges": [
+          "1B",
+          "FR",
+          "L/L",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "West Virginia Athletics roster"
+        ],
+        "sourceSummary": "West Virginia Athletics roster",
+        "schoolSlug": "west-virginia",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://wvusports.com/sports/baseball/roster/cj-alfano/20205",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "west-virginia-20194",
+        "name": "Joshua Surigao",
+        "school": "West Virginia",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "JR",
+        "handedness": "L/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Joshua Surigao looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / L/L",
+        "detailBadges": [
+          "LHP",
+          "JR",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "West Virginia Athletics roster"
+        ],
+        "sourceSummary": "West Virginia Athletics roster",
+        "schoolSlug": "west-virginia",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://wvusports.com/sports/baseball/roster/joshua-surigao/20194",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "west-virginia-20179",
+        "name": "David Hagen",
         "school": "West Virginia",
         "role": "Pitcher",
         "position": "RHP",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 16,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Dawson Montesa looks like a RHP option who misses bats.",
+        "summary": "David Hagen looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 5.38",
-          "WHIP 1.43",
-          "K/9 10.8"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.38"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.43"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "10.8"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "5.1"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.52"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "77.0"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 61.3931523022432,
-          "Command": 21.818181818181817,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
         "metaLine": "JR / R/R",
@@ -7844,50 +5951,49 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
           "Pitcher"
         ],
         "leaderboards": [
-          "West Virginia Athletics roster",
-          "West Virginia cumulative stats"
+          "West Virginia Athletics roster"
         ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats",
+        "sourceSummary": "West Virginia Athletics roster",
         "schoolSlug": "west-virginia",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/dawson-montesa/19311",
+        "profileUrl": "https://wvusports.com/sports/baseball/roster/david-hagen/20179",
         "espnAthleteId": ""
       },
       {
-        "id": "west-virginia-19312",
-        "name": "Wyatt Mosley",
+        "id": "west-virginia-20206",
+        "name": "Robert Satin",
         "school": "West Virginia",
         "role": "Pitcher",
         "position": "LHP",
-        "classYear": "FR",
-        "handedness": "R/L",
-        "score": 9,
+        "classYear": "SR",
+        "handedness": "L/L",
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Wyatt Mosley looks like a LHP option who misses bats.",
+        "summary": "Robert Satin looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 27.00",
-          "WHIP 4.00",
-          "K/9 9.0"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "27.00"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "4.00"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "9.0"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "27.0"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
@@ -7895,36 +6001,375 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
           },
           {
             "label": "IP",
-            "value": "1.0"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
+          "Miss bats": 0,
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "FR / R/L",
+        "metaLine": "SR / L/L",
         "detailBadges": [
           "LHP",
-          "FR",
-          "R/L",
+          "SR",
+          "L/L",
           "Pitcher"
         ],
         "leaderboards": [
-          "West Virginia Athletics roster",
-          "West Virginia cumulative stats"
+          "West Virginia Athletics roster"
         ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats",
+        "sourceSummary": "West Virginia Athletics roster",
         "schoolSlug": "west-virginia",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/wyatt-mosley/19312",
+        "profileUrl": "https://wvusports.com/sports/baseball/roster/robert-satin/20206",
         "espnAthleteId": ""
       },
       {
-        "id": "west-virginia-19315",
-        "name": "Brayden Robinson",
+        "id": "west-virginia-20173",
+        "name": "JD Costanzo",
+        "school": "West Virginia",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "R-SO",
+        "handedness": "B/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "JD Costanzo looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "R-SO / B/L",
+        "detailBadges": [
+          "LHP",
+          "R-SO",
+          "B/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "West Virginia Athletics roster"
+        ],
+        "sourceSummary": "West Virginia Athletics roster",
+        "schoolSlug": "west-virginia",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://wvusports.com/sports/baseball/roster/jd-costanzo/20173",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "west-virginia-20176",
+        "name": "Sean Goldy",
+        "school": "West Virginia",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "R-FR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Sean Goldy looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "R-FR / R/R",
+        "detailBadges": [
+          "RHP",
+          "R-FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "West Virginia Athletics roster"
+        ],
+        "sourceSummary": "West Virginia Athletics roster",
+        "schoolSlug": "west-virginia",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://wvusports.com/sports/baseball/roster/sean-goldy/20176",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "west-virginia-20207",
+        "name": "Drew Becker",
+        "school": "West Virginia",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "GR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Drew Becker looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "GR / R/R",
+        "detailBadges": [
+          "RHP",
+          "GR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "West Virginia Athletics roster"
+        ],
+        "sourceSummary": "West Virginia Athletics roster",
+        "schoolSlug": "west-virginia",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://wvusports.com/sports/baseball/roster/drew-becker/20207",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "west-virginia-20208",
+        "name": "Korey Alston",
+        "school": "West Virginia",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SO",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Korey Alston looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "RHP",
+          "SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "West Virginia Athletics roster"
+        ],
+        "sourceSummary": "West Virginia Athletics roster",
+        "schoolSlug": "west-virginia",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://wvusports.com/sports/baseball/roster/korey-alston/20208",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "west-virginia-20209",
+        "name": "Griffen Paige",
+        "school": "West Virginia",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "SR",
+        "handedness": "L/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Griffen Paige looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / L/L",
+        "detailBadges": [
+          "LHP",
+          "SR",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "West Virginia Athletics roster"
+        ],
+        "sourceSummary": "West Virginia Athletics roster",
+        "schoolSlug": "west-virginia",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://wvusports.com/sports/baseball/roster/griffen-paige/20209",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "west-virginia-20210",
+        "name": "Blake Krushinski",
         "school": "West Virginia",
         "role": "Pitcher",
         "position": "RHP",
@@ -7935,20 +6380,20 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Brayden Robinson gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Blake Krushinski looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 13.50",
-          "WHIP 6.00",
+          "ERA --",
+          "WHIP --",
           "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "13.50"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "6.00"
+            "value": "--"
           },
           {
             "label": "K/9",
@@ -7956,7 +6401,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
           },
           {
             "label": "BB/9",
-            "value": "27.0"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
@@ -7964,7 +6409,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
           },
           {
             "label": "IP",
-            "value": "0.7"
+            "value": "0.0"
           }
         ],
         "components": {
@@ -7982,160 +6427,225 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
           "Pitcher"
         ],
         "leaderboards": [
-          "West Virginia Athletics roster",
-          "West Virginia cumulative stats"
+          "West Virginia Athletics roster"
         ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats",
+        "sourceSummary": "West Virginia Athletics roster",
         "schoolSlug": "west-virginia",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/brayden-robinson/19315",
+        "profileUrl": "https://wvusports.com/sports/baseball/roster/blake-krushinski/20210",
         "espnAthleteId": ""
       },
       {
-        "id": "west-virginia-19289",
+        "id": "west-virginia-20191",
+        "name": "Brayden Robinson",
+        "school": "West Virginia",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SO",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Brayden Robinson looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "RHP",
+          "SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "West Virginia Athletics roster"
+        ],
+        "sourceSummary": "West Virginia Athletics roster",
+        "schoolSlug": "west-virginia",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://wvusports.com/sports/baseball/roster/brayden-robinson/20191",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "west-virginia-20195",
         "name": "Bryant Yoak",
         "school": "West Virginia",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "SO",
+        "classYear": "JR",
         "handedness": "R/R",
-        "score": 18,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Bryant Yoak looks like a RHP option who misses bats.",
+        "summary": "Bryant Yoak looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 11.05",
-          "WHIP 2.05",
-          "K/9 13.5"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "11.05"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "2.05"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "13.5"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "11.0"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "3.68"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "7.3"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 86.36363636363636,
-          "Command": 4.444444444444442,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SO / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "RHP",
-          "SO",
+          "JR",
           "R/R",
           "Pitcher"
         ],
         "leaderboards": [
-          "West Virginia Athletics roster",
-          "West Virginia cumulative stats"
+          "West Virginia Athletics roster"
         ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats",
+        "sourceSummary": "West Virginia Athletics roster",
         "schoolSlug": "west-virginia",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/bryant-yoak/19289",
+        "profileUrl": "https://wvusports.com/sports/baseball/roster/bryant-yoak/20195",
         "espnAthleteId": ""
       },
       {
-        "id": "west-virginia-19301",
+        "id": "west-virginia-20172",
         "name": "Chansen Cole",
         "school": "West Virginia",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "SO",
+        "classYear": "JR",
         "handedness": "R/R",
-        "score": 18,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Chansen Cole looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
+        "summary": "Chansen Cole looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 3.43",
-          "WHIP 1.18",
-          "K/9 9.8"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.43"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.18"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "9.8"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "2.9"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "0.99"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "99.7"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 53.11644876862268,
-          "Command": 48.12500000000001,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SO / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "RHP",
-          "SO",
+          "JR",
           "R/R",
           "Pitcher"
         ],
         "leaderboards": [
-          "West Virginia Athletics roster",
-          "West Virginia cumulative stats"
+          "West Virginia Athletics roster"
         ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats",
+        "sourceSummary": "West Virginia Athletics roster",
         "schoolSlug": "west-virginia",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/chansen-cole/19301",
+        "profileUrl": "https://wvusports.com/sports/baseball/roster/chansen-cole/20172",
         "espnAthleteId": ""
       },
       {
-        "id": "west-virginia-19300",
+        "id": "west-virginia-20171",
         "name": "Hudson Cavallo",
         "school": "West Virginia",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "FR",
+        "classYear": "R-FR",
         "handedness": "L/R",
         "score": 0,
         "fit": {
@@ -8181,10 +6691,10 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "FR / L/R",
+        "metaLine": "R-FR / L/R",
         "detailBadges": [
           "RHP",
-          "FR",
+          "R-FR",
           "L/R",
           "Pitcher"
         ],
@@ -8194,12 +6704,284 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "sourceSummary": "West Virginia Athletics roster",
         "schoolSlug": "west-virginia",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/hudson-cavallo/19300",
+        "profileUrl": "https://wvusports.com/sports/baseball/roster/hudson-cavallo/20171",
         "espnAthleteId": ""
       },
       {
-        "id": "west-virginia-19304",
+        "id": "west-virginia-20177",
         "name": "Ben Goodacre",
+        "school": "West Virginia",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "R-FR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Ben Goodacre looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "R-FR / R/R",
+        "detailBadges": [
+          "RHP",
+          "R-FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "West Virginia Athletics roster"
+        ],
+        "sourceSummary": "West Virginia Athletics roster",
+        "schoolSlug": "west-virginia",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://wvusports.com/sports/baseball/roster/ben-goodacre/20177",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "west-virginia-20174",
+        "name": "Creed Erdos",
+        "school": "West Virginia",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "R-SO",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Creed Erdos gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "R-SO / R/R",
+        "detailBadges": [
+          "C",
+          "R-SO",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "West Virginia Athletics roster"
+        ],
+        "sourceSummary": "West Virginia Athletics roster",
+        "schoolSlug": "west-virginia",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://wvusports.com/sports/baseball/roster/creed-erdos/20174",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "west-virginia-20211",
+        "name": "Jordan Burwell",
+        "school": "West Virginia",
+        "role": "Hitter",
+        "position": "1B",
+        "classYear": "FR",
+        "handedness": "L/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jordan Burwell gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / L/L",
+        "detailBadges": [
+          "1B",
+          "FR",
+          "L/L",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "West Virginia Athletics roster"
+        ],
+        "sourceSummary": "West Virginia Athletics roster",
+        "schoolSlug": "west-virginia",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://wvusports.com/sports/baseball/roster/jordan-burwell/20211",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "west-virginia-20212",
+        "name": "Colin Harrison",
+        "school": "West Virginia",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "FR",
+        "handedness": "L/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Colin Harrison looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / L/L",
+        "detailBadges": [
+          "LHP",
+          "FR",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "West Virginia Athletics roster"
+        ],
+        "sourceSummary": "West Virginia Athletics roster",
+        "schoolSlug": "west-virginia",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://wvusports.com/sports/baseball/roster/colin-harrison/20212",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "west-virginia-20213",
+        "name": "Luke Coats",
         "school": "West Virginia",
         "role": "Pitcher",
         "position": "RHP",
@@ -8210,7 +6992,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Ben Goodacre looks like a RHP option who throws enough strikes.",
+        "summary": "Luke Coats looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -8262,385 +7044,40 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         "sourceSummary": "West Virginia Athletics roster",
         "schoolSlug": "west-virginia",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/ben-goodacre/19304",
+        "profileUrl": "https://wvusports.com/sports/baseball/roster/luke-coats/20213",
         "espnAthleteId": ""
       },
       {
-        "id": "west-virginia-19302",
-        "name": "Creed Erdos",
+        "id": "west-virginia-20214",
+        "name": "Seth Williams",
         "school": "West Virginia",
         "role": "Hitter",
-        "position": "C",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 21,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Creed Erdos profiles as a C piece who gets on base at a high clip.",
-        "summaryMetrics": [
-          "AVG .000",
-          "OBP .400",
-          "SLG .000"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".000"
-          },
-          {
-            "label": "OBP",
-            "value": ".400"
-          },
-          {
-            "label": "SLG",
-            "value": ".000"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 66.66666666666666,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "C",
-          "SO",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "West Virginia Athletics roster",
-          "West Virginia cumulative stats"
-        ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats",
-        "schoolSlug": "west-virginia",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/creed-erdos/19302",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "west-virginia-19273",
-        "name": "Carson Estridge",
-        "school": "West Virginia",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
+        "position": "OF",
+        "classYear": "R-JR",
         "handedness": "L/R",
-        "score": 14,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Carson Estridge looks like a RHP option who limits runs.",
+        "summary": "Seth Williams gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 3.09",
-          "WHIP 1.29",
-          "K/9 8.7"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.09"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.29"
-          },
-          {
-            "label": "K/9",
-            "value": "8.7"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.3"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.51"
-          },
-          {
-            "label": "IP",
-            "value": "35.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 43.11688311688311,
-          "Command": 32.3076923076923,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / L/R",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "L/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "West Virginia Athletics roster",
-          "West Virginia cumulative stats"
-        ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats",
-        "schoolSlug": "west-virginia",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/carson-estridge/19273",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "west-virginia-19313",
-        "name": "David Perez",
-        "school": "West Virginia",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 14,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "David Perez looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 5.00",
-          "WHIP 1.61",
-          "K/9 10.5"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.61"
-          },
-          {
-            "label": "K/9",
-            "value": "10.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "6.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.50"
-          },
-          {
-            "label": "IP",
-            "value": "18.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 59.09090909090909,
-          "Command": 15,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "West Virginia Athletics roster",
-          "West Virginia cumulative stats"
-        ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats",
-        "schoolSlug": "west-virginia",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/david-perez/19313",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "west-virginia-19287",
-        "name": "Mac Stiffler",
-        "school": "West Virginia",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 22,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Mac Stiffler looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 7.94",
-          "WHIP 2.47",
-          "K/9 15.9"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "7.94"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.47"
-          },
-          {
-            "label": "K/9",
-            "value": "15.9"
-          },
-          {
-            "label": "BB/9",
-            "value": "9.5"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.59"
-          },
-          {
-            "label": "IP",
-            "value": "5.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 100,
-          "Command": 13.33333333333333,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "West Virginia Athletics roster",
-          "West Virginia cumulative stats"
-        ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats",
-        "schoolSlug": "west-virginia",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/mac-stiffler/19287",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "west-virginia-19306",
-        "name": "JT Huether",
-        "school": "West Virginia",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 20,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "JT Huether looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 7.71",
-          "WHIP 1.93",
-          "K/9 15.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "7.71"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.93"
-          },
-          {
-            "label": "K/9",
-            "value": "15.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "15.4"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "4.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 100,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "West Virginia Athletics roster",
-          "West Virginia cumulative stats"
-        ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats",
-        "schoolSlug": "west-virginia",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/jt-huether/19306",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "west-virginia-19317",
-        "name": "Colton Sims",
-        "school": "West Virginia",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 5,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Colton Sims gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .200",
-          "OBP .167",
-          "SLG .400"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".200"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".167"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".400"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -8648,7 +7085,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
           },
           {
             "label": "RBI",
-            "value": "3"
+            "value": "0"
           },
           {
             "label": "SB",
@@ -8657,124 +7094,54 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
         ],
         "components": {
           "On-base": 0,
-          "Power": 21.052631578947377,
+          "Power": 0,
           "Contact": 0,
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "FR / R/R",
+        "metaLine": "R-JR / L/R",
         "detailBadges": [
-          "INF",
-          "FR",
-          "R/R",
-          "Hitter"
+          "OF",
+          "R-JR",
+          "L/R",
+          "Rostered"
         ],
         "leaderboards": [
-          "West Virginia Athletics roster",
-          "West Virginia cumulative stats"
+          "West Virginia Athletics roster"
         ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats",
+        "sourceSummary": "West Virginia Athletics roster",
         "schoolSlug": "west-virginia",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/colton-sims/19317",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://wvusports.com/sports/baseball/roster/seth-williams/20214",
         "espnAthleteId": ""
       },
       {
-        "id": "west-virginia-19318",
-        "name": "Weston Smith",
+        "id": "west-virginia-20189",
+        "name": "David Perez",
         "school": "West Virginia",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "FR",
+        "classYear": "SO",
         "handedness": "R/R",
-        "score": 8,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Weston Smith looks like a RHP option who throws enough strikes and keeps traffic under control.",
-        "summaryMetrics": [
-          "ERA 6.35",
-          "WHIP 1.24",
-          "K/9 4.8"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "6.35"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.24"
-          },
-          {
-            "label": "K/9",
-            "value": "4.8"
-          },
-          {
-            "label": "BB/9",
-            "value": "1.6"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.59"
-          },
-          {
-            "label": "IP",
-            "value": "5.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 6.951871657754011,
-          "Command": 40,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "West Virginia Athletics roster",
-          "West Virginia cumulative stats"
-        ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats",
-        "schoolSlug": "west-virginia",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/weston-smith/19318",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "west-virginia-19310",
-        "name": "Andrew Middleton",
-        "school": "West Virginia",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "JR",
-        "handedness": "R/L",
         "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Andrew Middleton looks like a LHP option who limits runs.",
+        "summary": "David Perez looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 0.00",
-          "WHIP 6.00",
+          "ERA --",
+          "WHIP --",
           "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "0.00"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "6.00"
+            "value": "--"
           },
           {
             "label": "K/9",
@@ -8782,7 +7149,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
           },
           {
             "label": "BB/9",
-            "value": "27.0"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
@@ -8790,7 +7157,7 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
           },
           {
             "label": "IP",
-            "value": "0.3"
+            "value": "0.0"
           }
         ],
         "components": {
@@ -8800,73 +7167,276 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "JR / R/L",
+        "metaLine": "SO / R/R",
         "detailBadges": [
-          "LHP",
-          "JR",
-          "R/L",
+          "RHP",
+          "SO",
+          "R/R",
           "Pitcher"
         ],
         "leaderboards": [
-          "West Virginia Athletics roster",
-          "West Virginia cumulative stats"
+          "West Virginia Athletics roster"
         ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats",
+        "sourceSummary": "West Virginia Athletics roster",
         "schoolSlug": "west-virginia",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/andrew-middleton/19310",
+        "profileUrl": "https://wvusports.com/sports/baseball/roster/david-perez/20189",
         "espnAthleteId": ""
       },
       {
-        "id": "west-virginia-19284",
-        "name": "Ben McDougal",
+        "id": "west-virginia-20182",
+        "name": "JT Huether",
         "school": "West Virginia",
         "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "SR",
-        "handedness": "L/L",
-        "score": 10,
+        "position": "RHP",
+        "classYear": "SO",
+        "handedness": "R/R",
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Ben McDougal looks like a LHP option who limits runs.",
+        "summary": "JT Huether looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 3.14",
-          "WHIP 1.40",
-          "K/9 8.2"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.14"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.40"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "8.2"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "5.0"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "2.51"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "14.3"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 37.84355179704017,
-          "Command": 12.5,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "RHP",
+          "SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "West Virginia Athletics roster"
+        ],
+        "sourceSummary": "West Virginia Athletics roster",
+        "schoolSlug": "west-virginia",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://wvusports.com/sports/baseball/roster/jt-huether/20182",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "west-virginia-20192",
+        "name": "Colton Sims",
+        "school": "West Virginia",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "SO",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Colton Sims gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "INF",
+          "SO",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "West Virginia Athletics roster"
+        ],
+        "sourceSummary": "West Virginia Athletics roster",
+        "schoolSlug": "west-virginia",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://wvusports.com/sports/baseball/roster/colton-sims/20192",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "west-virginia-20215",
+        "name": "Slade Barton",
+        "school": "West Virginia",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Slade Barton looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "West Virginia Athletics roster"
+        ],
+        "sourceSummary": "West Virginia Athletics roster",
+        "schoolSlug": "west-virginia",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://wvusports.com/sports/baseball/roster/slade-barton/20215",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "west-virginia-20216",
+        "name": "Colton Hartman",
+        "school": "West Virginia",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "SR",
+        "handedness": "L/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Colton Hartman looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
         "metaLine": "SR / L/L",
@@ -8877,13 +7447,216 @@ window.__BASEBALL_DATASETS__.west-virginia2026 = {
           "Pitcher"
         ],
         "leaderboards": [
-          "West Virginia Athletics roster",
-          "West Virginia cumulative stats"
+          "West Virginia Athletics roster"
         ],
-        "sourceSummary": "West Virginia Athletics roster + West Virginia cumulative stats",
+        "sourceSummary": "West Virginia Athletics roster",
         "schoolSlug": "west-virginia",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://wvusports.com/sports/baseball/roster/ben-mcdougal/19284",
+        "profileUrl": "https://wvusports.com/sports/baseball/roster/colton-hartman/20216",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "west-virginia-20187",
+        "name": "Ben McDougal",
+        "school": "West Virginia",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "5TH",
+        "handedness": "L/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Ben McDougal looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "5TH / L/L",
+        "detailBadges": [
+          "LHP",
+          "5TH",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "West Virginia Athletics roster"
+        ],
+        "sourceSummary": "West Virginia Athletics roster",
+        "schoolSlug": "west-virginia",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://wvusports.com/sports/baseball/roster/ben-mcdougal/20187",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "west-virginia-20217",
+        "name": "Joshua Viars",
+        "school": "West Virginia",
+        "role": "Hitter",
+        "position": "UTL",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Joshua Viars gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "UTL",
+          "FR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "West Virginia Athletics roster"
+        ],
+        "sourceSummary": "West Virginia Athletics roster",
+        "schoolSlug": "west-virginia",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://wvusports.com/sports/baseball/roster/joshua-viars/20217",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "west-virginia-20218",
+        "name": "Ryan Brown",
+        "school": "West Virginia",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "R-SO",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Ryan Brown looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "R-SO / R/R",
+        "detailBadges": [
+          "RHP",
+          "R-SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "West Virginia Athletics roster"
+        ],
+        "sourceSummary": "West Virginia Athletics roster",
+        "schoolSlug": "west-virginia",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://wvusports.com/sports/baseball/roster/ryan-brown/20218",
         "espnAthleteId": ""
       }
     ]

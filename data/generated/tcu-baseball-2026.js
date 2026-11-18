@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.tcu2026 = {
-  "generatedAt": "2026-07-14T10:52:34.847Z",
+  "generatedAt": "2026-11-18T10:17:47.984Z",
   "season": 2026,
   "school": {
     "slug": "tcu",
@@ -26,47 +26,57 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
     "ncaa": "NCAA school index"
   },
   "coverage": {
-    "rosterPlayers": 34,
+    "rosterPlayers": 42,
     "espnRosterPlayers": 100,
-    "playersWithHittingStats": 6,
-    "playersWithPitchingStats": 11,
-    "playersWithFieldingStats": 14,
-    "mergedPlayersWithAnyStats": 15,
+    "playersWithHittingStats": 0,
+    "playersWithPitchingStats": 0,
+    "playersWithFieldingStats": 0,
+    "mergedPlayersWithAnyStats": 0,
     "matchedEspnPlayers": 0,
     "unmatchedStatRows": {
       "hitting": [
-        "7",
-        "1",
-        "16",
-        "17",
-        "8",
-        "2",
-        "27",
-        "20",
-        "28"
+        "Cole Cramer",
+        "Chase Brunson",
+        "Jack Bell",
+        "Nolan Traeger",
+        "Sawyer Strosnider",
+        "Rob Liddington",
+        "Lane Hutchinson",
+        "Brady Dallimore",
+        "Kyuss Gargett",
+        "Jack Arthur",
+        "Colin Blanchard"
       ],
       "pitching": [
-        "24",
-        "55",
-        "9",
-        "25",
-        "21"
+        "Tanner Sagouspe",
+        "Walter Quinn",
+        "Kade Durnin",
+        "Tommy LaPour",
+        "Trever Baumler",
+        "Ethan Thomas",
+        "Nolan Johnson",
+        "Tyler Phenow"
       ],
       "fielding": [
-        "2",
-        "8",
-        "24",
-        "9",
-        "28",
-        "27",
-        "16",
-        "17",
-        "7",
-        "20",
-        "1",
-        "55",
-        "21",
-        "25"
+        "Lane Hutchinson",
+        "Tanner Sagouspe",
+        "Trever Baumler",
+        "Colin Blanchard",
+        "Tommy LaPour",
+        "Ethan Thomas",
+        "Brady Dallimore",
+        "Nolan Traeger",
+        "Rob Liddington",
+        "Cole Cramer",
+        "Chase Brunson",
+        "Sawyer Strosnider",
+        "Jack Arthur",
+        "Kyuss Gargett",
+        "Jack Bell",
+        "Walter Quinn",
+        "Tyler Phenow",
+        "Kade Durnin",
+        "Nolan Johnson"
       ]
     }
   },
@@ -156,32 +166,32 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
   },
   "players": [
     {
-      "id": "tcu-17709",
+      "id": "tcu-19288",
       "schoolSlug": "tcu",
       "school": "TCU",
       "schoolLongName": "Texas Christian University",
-      "name": "Jack Bell",
-      "normalizedName": "jack bell",
+      "name": "Yusei Uzawa",
+      "normalizedName": "yusei uzawa",
       "compositeRole": "Rostered",
       "role": "Hitter",
-      "position": "INF",
+      "position": "UT",
       "positionLong": "",
       "classYear": "JR",
       "handedness": "N/A",
-      "jersey": "1",
-      "hometown": "Corpus Christi, Texas",
-      "highSchool": "Corpus Christi Ray HS",
-      "previousSchool": "Texas A&M",
-      "hometownHighSchool": "Corpus Christi, Texas / Corpus Christi Ray HS",
-      "profileUrl": "https://gofrogs.com/sports/baseball/roster/jack-bell/17709",
-      "imageUrl": "https://gofrogs.com/images/2025/11/20/_0033_1_-_Jack_Bell.jpg",
+      "jersey": "0",
+      "hometown": "Chiba, Japan",
+      "highSchool": "Toin Gakuen",
+      "previousSchool": "Butler CC",
+      "hometownHighSchool": "Chiba, Japan / Toin Gakuen",
+      "profileUrl": "https://gofrogs.com/sports/baseball/roster/yusei-uzawa/19288",
+      "imageUrl": "https://gofrogs.com/images/2026/9/21/_0040_0_-_Yusei_Uzawa.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "17709",
+      "rosterBioId": "19288",
       "sources": [
         "TCU Athletics roster"
       ],
@@ -201,7 +211,95 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "summary": "Jack Bell gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Yusei Uzawa gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "UT",
+          "JR",
+          "N/A",
+          "Rostered"
+        ],
+        "sourceSummary": "TCU Athletics roster"
+      }
+    },
+    {
+      "id": "tcu-19287",
+      "schoolSlug": "tcu",
+      "school": "TCU",
+      "schoolLongName": "Texas Christian University",
+      "name": "Beckett Zavorek",
+      "normalizedName": "beckett zavorek",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "N/A",
+      "jersey": "1",
+      "hometown": "Fresno, Calif.",
+      "highSchool": "Bullard HS",
+      "previousSchool": "Arizona State",
+      "hometownHighSchool": "Fresno, Calif. / Bullard HS",
+      "profileUrl": "https://gofrogs.com/sports/baseball/roster/beckett-zavorek/19287",
+      "imageUrl": "https://gofrogs.com/images/2026/9/18/Beckett_Zavorek.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "19287",
+      "sources": [
+        "TCU Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Beckett Zavorek gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG --",
           "OBP --",
@@ -244,7 +342,7 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
       }
     },
     {
-      "id": "tcu-17718",
+      "id": "tcu-19286",
       "schoolSlug": "tcu",
       "school": "TCU",
       "schoolLongName": "Texas Christian University",
@@ -254,22 +352,22 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
       "role": "Hitter",
       "position": "INF",
       "positionLong": "",
-      "classYear": "SR",
+      "classYear": "5TH",
       "handedness": "N/A",
       "jersey": "2",
       "hometown": "Dallas, Texas",
       "highSchool": "Highland Park HS",
       "previousSchool": "Paris College",
       "hometownHighSchool": "Dallas, Texas / Highland Park HS",
-      "profileUrl": "https://gofrogs.com/sports/baseball/roster/preston-gamster/17718",
-      "imageUrl": "https://gofrogs.com/images/2025/11/20/_0032_2_-_Preston_Gamster.jpg",
+      "profileUrl": "https://gofrogs.com/sports/baseball/roster/preston-gamster/19286",
+      "imageUrl": "https://gofrogs.com/images/2026/9/21/_0039_2_-_Preston_Gamster.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "17718",
+      "rosterBioId": "19286",
       "sources": [
         "TCU Athletics roster"
       ],
@@ -321,10 +419,10 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "SR / N/A",
+        "metaLine": "5TH / N/A",
         "detailBadges": [
           "INF",
-          "SR",
+          "5TH",
           "N/A",
           "Rostered"
         ],
@@ -342,7 +440,7 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
-      "classYear": "SO",
+      "classYear": "JR",
       "handedness": "N/A",
       "jersey": "3",
       "hometown": "Crosby, Texas",
@@ -350,7 +448,7 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
       "previousSchool": "",
       "hometownHighSchool": "Crosby, Texas / Crosby HS",
       "profileUrl": "https://gofrogs.com/sports/baseball/roster/kade-eudy/18351",
-      "imageUrl": "https://gofrogs.com/images/2025/11/20/_0031_3_-_Kade_Eudy.jpg",
+      "imageUrl": "https://gofrogs.com/images/2026/9/21/_0038_3_-_Kade_Eudy.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -409,10 +507,10 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "SO / N/A",
+        "metaLine": "JR / N/A",
         "detailBadges": [
           "RHP",
-          "SO",
+          "JR",
           "N/A",
           "Pitcher"
         ],
@@ -420,32 +518,32 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
       }
     },
     {
-      "id": "tcu-17996",
+      "id": "tcu-19289",
       "schoolSlug": "tcu",
       "school": "TCU",
       "schoolLongName": "Texas Christian University",
-      "name": "CJ Mascaro",
-      "normalizedName": "cj mascaro",
+      "name": "Brody Schumaker",
+      "normalizedName": "brody schumaker",
       "compositeRole": "Rostered",
       "role": "Hitter",
-      "position": "OF",
+      "position": "INF",
       "positionLong": "",
       "classYear": "FR",
-      "handedness": "L/L",
+      "handedness": "N/A",
       "jersey": "4",
-      "hometown": "Saratoga Springs, Utah",
-      "highSchool": "American Fork H.S.",
+      "hometown": "Ladera Ranch, California",
+      "highSchool": "Santa Margarita Catholic HS",
       "previousSchool": "",
-      "hometownHighSchool": "Saratoga Springs, Utah / American Fork H.S.",
-      "profileUrl": "https://gofrogs.com/sports/baseball/roster/cj-mascaro/17996",
-      "imageUrl": "https://gofrogs.com/images/2025/11/20/_0030_4_-_CJ_Mascaro.jpg",
+      "hometownHighSchool": "Ladera Ranch, California / Santa Margarita Catholic HS",
+      "profileUrl": "https://gofrogs.com/sports/baseball/roster/brody-schumaker/19289",
+      "imageUrl": "https://gofrogs.com/images/2026/9/21/_0037_4_-_Brody_Schumaker.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "17996",
+      "rosterBioId": "19289",
       "sources": [
         "TCU Athletics roster"
       ],
@@ -465,7 +563,7 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "summary": "CJ Mascaro gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Brody Schumaker gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG --",
           "OBP --",
@@ -497,11 +595,11 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "FR / L/L",
+        "metaLine": "FR / N/A",
         "detailBadges": [
-          "OF",
+          "INF",
           "FR",
-          "L/L",
+          "N/A",
           "Rostered"
         ],
         "sourceSummary": "TCU Athletics roster"
@@ -514,19 +612,19 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
       "schoolLongName": "Texas Christian University",
       "name": "Lucas Franco",
       "normalizedName": "lucas franco",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "INF",
       "positionLong": "",
-      "classYear": "FR",
-      "handedness": "L/R",
+      "classYear": "SO",
+      "handedness": "N/A",
       "jersey": "5",
       "hometown": "Katy, Texas",
-      "highSchool": "Cinco Ranch H.S.",
+      "highSchool": "Cinco Ranch HS",
       "previousSchool": "",
-      "hometownHighSchool": "Katy, Texas / Cinco Ranch H.S.",
+      "hometownHighSchool": "Katy, Texas / Cinco Ranch HS",
       "profileUrl": "https://gofrogs.com/sports/baseball/roster/lucas-franco/18353",
-      "imageUrl": "https://gofrogs.com/images/2025/11/20/_0029_5_-_Lucas_Franco.jpg",
+      "imageUrl": "https://gofrogs.com/images/2026/9/21/_0036_5_-_Lucas_Franco.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -535,121 +633,64 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
       "espnThrows": "",
       "rosterBioId": "18353",
       "sources": [
-        "TCU Athletics roster",
-        "TCU cumulative stats"
+        "TCU Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "18353",
-        "name": "Lucas Franco",
-        "normalizedName": "lucas franco",
-        "jersey": "5",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/lucas-franco/18353",
-        "imageUrl": "https://gofrogs.com/images/2025/11/20/_0029_5_-_Lucas_Franco.jpg",
-        "gamesPlayed": 37,
-        "gamesStarted": 35,
-        "battingAverage": 0.197,
-        "onBasePercentage": 0.313,
-        "sluggingPercentage": 0.303,
-        "ops": 0.616,
-        "atBats": 122,
-        "runs": 20,
-        "hits": 24,
-        "doubles": 2,
-        "triples": 1,
-        "homeRuns": 3,
-        "runsBattedIn": 22,
-        "totalBases": 37,
-        "walks": 19,
-        "hitByPitch": 2,
-        "strikeouts": 38,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 4,
-        "sacrificeFlies": 1,
-        "sacrificeHits": 3,
-        "stolenBases": 2,
-        "stolenBasesAttempts": 3,
-        "putouts": 67,
-        "assists": 0,
-        "errors": 9,
-        "plateAppearances": 151,
-        "caughtStealing": 1,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "18353",
-        "name": "Lucas Franco",
-        "normalizedName": "lucas franco",
-        "jersey": "5",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/lucas-franco/18353",
-        "imageUrl": "https://gofrogs.com/images/2025/11/20/_0029_5_-_Lucas_Franco.jpg",
-        "gamesPlayed": 33,
-        "gamesStarted": 32,
-        "putouts": 67,
-        "assists": 78,
-        "errors": 9,
-        "fieldingPercentage": 0.942,
-        "doublePlays": 23,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 154
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 11,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 18.333333333333318,
+          "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 33.33333333333333,
-          "Speed": 6.666666666666667
+          "Discipline": 0,
+          "Speed": 0
         },
         "summary": "Lucas Franco gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .197",
-          "OBP .313",
-          "SLG .303"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".197"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".313"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".303"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "3"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "22"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "2"
+            "value": "0"
           }
         ],
-        "metaLine": "FR / L/R",
+        "metaLine": "SO / N/A",
         "detailBadges": [
           "INF",
-          "FR",
-          "L/R",
-          "Hitter"
+          "SO",
+          "N/A",
+          "Rostered"
         ],
-        "sourceSummary": "TCU Athletics roster + TCU cumulative stats"
+        "sourceSummary": "TCU Athletics roster"
       }
     },
     {
@@ -659,11 +700,11 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
       "schoolLongName": "Texas Christian University",
       "name": "Noah Franco",
       "normalizedName": "noah franco",
-      "compositeRole": "Two-Way",
+      "compositeRole": "Pitcher",
       "role": "Pitcher",
       "position": "LHP/UT",
       "positionLong": "",
-      "classYear": "SO",
+      "classYear": "JR",
       "handedness": "N/A",
       "jersey": "6",
       "hometown": "Downey, Calif.",
@@ -671,7 +712,7 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
       "previousSchool": "",
       "hometownHighSchool": "Downey, Calif. / IMG Academy (Fla.)",
       "profileUrl": "https://gofrogs.com/sports/baseball/roster/noah-franco/18354",
-      "imageUrl": "https://gofrogs.com/images/2025/11/20/_0028_6_-_Noah_Franco.jpg",
+      "imageUrl": "https://gofrogs.com/images/2026/9/21/_0035_6_-_Noah_Franco.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -679,360 +720,6 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
       "espnBats": "",
       "espnThrows": "",
       "rosterBioId": "18354",
-      "sources": [
-        "TCU Athletics roster",
-        "TCU cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "18354",
-        "name": "Noah Franco",
-        "normalizedName": "noah franco",
-        "jersey": "6",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/noah-franco/18354",
-        "imageUrl": "https://gofrogs.com/images/2025/11/20/_0028_6_-_Noah_Franco.jpg",
-        "gamesPlayed": 27,
-        "gamesStarted": 24,
-        "battingAverage": 0.229,
-        "onBasePercentage": 0.321,
-        "sluggingPercentage": 0.385,
-        "ops": 0.706,
-        "atBats": 96,
-        "runs": 16,
-        "hits": 22,
-        "doubles": 3,
-        "triples": 0,
-        "homeRuns": 4,
-        "runsBattedIn": 14,
-        "totalBases": 37,
-        "walks": 11,
-        "hitByPitch": 2,
-        "strikeouts": 32,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 1,
-        "stolenBasesAttempts": 2,
-        "putouts": 1,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 112,
-        "caughtStealing": 1,
-        "pickedOff": 0
-      },
-      "pitchingStats": {
-        "rosterBioId": "18354",
-        "name": "Noah Franco",
-        "normalizedName": "noah franco",
-        "jersey": "6",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/noah-franco/18354",
-        "imageUrl": "https://gofrogs.com/images/2025/11/20/_0028_6_-_Noah_Franco.jpg",
-        "gamesPlayed": 13,
-        "gamesStarted": 1,
-        "appearances": 13,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 7.2,
-        "whip": 1.87,
-        "wins": 2,
-        "losses": 0,
-        "saves": 1,
-        "shutouts": 0,
-        "inningsPitched": 15,
-        "inningsPitchedDisplay": "15.0",
-        "hitsAllowed": 17,
-        "runsAllowed": 13,
-        "earnedRunsAllowed": 12,
-        "walksAllowed": 11,
-        "strikeouts": 19,
-        "doublesAllowed": 2,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 58,
-        "wildPitches": 5,
-        "hitBatters": 4,
-        "balks": 0,
-        "opponentsBattingAverage": 0.293,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "18354",
-        "name": "Noah Franco",
-        "normalizedName": "noah franco",
-        "jersey": "6",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/noah-franco/18354",
-        "imageUrl": "https://gofrogs.com/images/2025/11/20/_0028_6_-_Noah_Franco.jpg",
-        "gamesPlayed": 3,
-        "gamesStarted": 2,
-        "putouts": 1,
-        "assists": 2,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 2,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 3
-      },
-      "evaluation": {
-        "score": 16,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 67.27272727272727,
-          "Command": 14.54545454545455,
-          "Damage suppression": 0
-        },
-        "summary": "Noah Franco looks like a LHP/UT option who misses bats.",
-        "summaryMetrics": [
-          "ERA 7.20",
-          "WHIP 1.87",
-          "K/9 11.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "7.20"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.87"
-          },
-          {
-            "label": "K/9",
-            "value": "11.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "6.6"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.20"
-          },
-          {
-            "label": "IP",
-            "value": "15.0"
-          }
-        ],
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "LHP/UT",
-          "SO",
-          "N/A",
-          "Two-Way"
-        ],
-        "sourceSummary": "TCU Athletics roster + TCU cumulative stats"
-      }
-    },
-    {
-      "id": "tcu-17713",
-      "schoolSlug": "tcu",
-      "school": "TCU",
-      "schoolLongName": "Texas Christian University",
-      "name": "Cole Cramer",
-      "normalizedName": "cole cramer",
-      "compositeRole": "Rostered",
-      "role": "Hitter",
-      "position": "INF",
-      "positionLong": "",
-      "classYear": "GR",
-      "handedness": "N/A",
-      "jersey": "7",
-      "hometown": "Arlington, Wash.",
-      "highSchool": "Arlington HS",
-      "previousSchool": "Washington State",
-      "hometownHighSchool": "Arlington, Wash. / Arlington HS",
-      "profileUrl": "https://gofrogs.com/sports/baseball/roster/cole-cramer/17713",
-      "imageUrl": "https://gofrogs.com/images/2025/11/20/_0027_7_-_Cole_Cramer.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "17713",
-      "sources": [
-        "TCU Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "summary": "Cole Cramer gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "GR / N/A",
-        "detailBadges": [
-          "INF",
-          "GR",
-          "N/A",
-          "Rostered"
-        ],
-        "sourceSummary": "TCU Athletics roster"
-      }
-    },
-    {
-      "id": "tcu-17997",
-      "schoolSlug": "tcu",
-      "school": "TCU",
-      "schoolLongName": "Texas Christian University",
-      "name": "Lane Hutchinson",
-      "normalizedName": "lane hutchinson",
-      "compositeRole": "Rostered",
-      "role": "Hitter",
-      "position": "INF",
-      "positionLong": "",
-      "classYear": "GR",
-      "handedness": "R/R",
-      "jersey": "8",
-      "hometown": "Slaughter, La.",
-      "highSchool": "JSerra Catholic High School",
-      "previousSchool": "Angelo State",
-      "hometownHighSchool": "Slaughter, La. / JSerra Catholic High School",
-      "profileUrl": "https://gofrogs.com/sports/baseball/roster/lane-hutchinson/17997",
-      "imageUrl": "https://gofrogs.com/images/2025/11/20/_0026_8_-_Lane_Hutchinson.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "17997",
-      "sources": [
-        "TCU Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "summary": "Lane Hutchinson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "GR / R/R",
-        "detailBadges": [
-          "INF",
-          "GR",
-          "R/R",
-          "Rostered"
-        ],
-        "sourceSummary": "TCU Athletics roster"
-      }
-    },
-    {
-      "id": "tcu-17708",
-      "schoolSlug": "tcu",
-      "school": "TCU",
-      "schoolLongName": "Texas Christian University",
-      "name": "Trever Baumler",
-      "normalizedName": "trever baumler",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "SO",
-      "handedness": "N/A",
-      "jersey": "9",
-      "hometown": "Urbandale, Iowa",
-      "highSchool": "Dowling Catholic HS",
-      "previousSchool": "",
-      "hometownHighSchool": "Urbandale, Iowa / Dowling Catholic HS",
-      "profileUrl": "https://gofrogs.com/sports/baseball/roster/trever-baumler/17708",
-      "imageUrl": "https://gofrogs.com/images/2025/11/20/_0012_9_-_Trever_Baumler.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "17708",
       "sources": [
         "TCU Athletics roster"
       ],
@@ -1052,7 +739,7 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Trever Baumler looks like a RHP option who throws enough strikes.",
+        "summary": "Noah Franco looks like a LHP/UT option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -1084,10 +771,10 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "SO / N/A",
+        "metaLine": "JR / N/A",
         "detailBadges": [
-          "RHP",
-          "SO",
+          "LHP/UT",
+          "JR",
           "N/A",
           "Pitcher"
         ],
@@ -1095,322 +782,32 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
       }
     },
     {
-      "id": "tcu-18362",
+      "id": "tcu-19290",
       "schoolSlug": "tcu",
       "school": "TCU",
       "schoolLongName": "Texas Christian University",
-      "name": "Sawyer Strosnider",
-      "normalizedName": "sawyer strosnider",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "OF",
-      "positionLong": "",
-      "classYear": "SO",
-      "handedness": "N/A",
-      "jersey": "10",
-      "hometown": "Brock, Texas",
-      "highSchool": "Brock HS",
-      "previousSchool": "",
-      "hometownHighSchool": "Brock, Texas / Brock HS",
-      "profileUrl": "https://gofrogs.com/sports/baseball/roster/sawyer-strosnider/18362",
-      "imageUrl": "https://gofrogs.com/images/2025/11/20/_0025_10_-_Sawyer_Strosnider.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "18362",
-      "sources": [
-        "TCU Athletics roster",
-        "TCU cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "18362",
-        "name": "Sawyer Strosnider",
-        "normalizedName": "sawyer strosnider",
-        "jersey": "10",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/sawyer-strosnider/18362",
-        "imageUrl": "https://gofrogs.com/images/2025/11/20/_0025_10_-_Sawyer_Strosnider.jpg",
-        "gamesPlayed": 50,
-        "gamesStarted": 50,
-        "battingAverage": 0.273,
-        "onBasePercentage": 0.415,
-        "sluggingPercentage": 0.59,
-        "ops": 1.005,
-        "atBats": 183,
-        "runs": 54,
-        "hits": 50,
-        "doubles": 11,
-        "triples": 4,
-        "homeRuns": 13,
-        "runsBattedIn": 47,
-        "totalBases": 108,
-        "walks": 43,
-        "hitByPitch": 4,
-        "strikeouts": 43,
-        "intentionalWalks": 3,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 4,
-        "sacrificeHits": 0,
-        "stolenBases": 12,
-        "stolenBasesAttempts": 14,
-        "putouts": 95,
-        "assists": 0,
-        "errors": 3,
-        "plateAppearances": 250,
-        "caughtStealing": 2,
-        "pickedOff": 1
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "18362",
-        "name": "Sawyer Strosnider",
-        "normalizedName": "sawyer strosnider",
-        "jersey": "10",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/sawyer-strosnider/18362",
-        "imageUrl": "https://gofrogs.com/images/2025/11/20/_0025_10_-_Sawyer_Strosnider.jpg",
-        "gamesPlayed": 42,
-        "gamesStarted": 42,
-        "putouts": 95,
-        "assists": 1,
-        "errors": 3,
-        "fieldingPercentage": 0.97,
-        "doublePlays": 1,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 99
-      },
-      "evaluation": {
-        "score": 65,
-        "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
-        },
-        "components": {
-          "On-base": 74.99999999999997,
-          "Power": 71.05263157894737,
-          "Contact": 33.12500000000001,
-          "Discipline": 88.88888888888889,
-          "Speed": 40
-        },
-        "summary": "Sawyer Strosnider profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .273",
-          "OBP .415",
-          "SLG .590"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".273"
-          },
-          {
-            "label": "OBP",
-            "value": ".415"
-          },
-          {
-            "label": "SLG",
-            "value": ".590"
-          },
-          {
-            "label": "HR",
-            "value": "13"
-          },
-          {
-            "label": "RBI",
-            "value": "47"
-          },
-          {
-            "label": "SB",
-            "value": "12"
-          }
-        ],
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "OF",
-          "SO",
-          "N/A",
-          "Hitter"
-        ],
-        "sourceSummary": "TCU Athletics roster + TCU cumulative stats"
-      }
-    },
-    {
-      "id": "tcu-18356",
-      "schoolSlug": "tcu",
-      "school": "TCU",
-      "schoolLongName": "Texas Christian University",
-      "name": "Colton Griffin",
-      "normalizedName": "colton griffin",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "UT",
-      "positionLong": "",
-      "classYear": "JR",
-      "handedness": "N/A",
-      "jersey": "11",
-      "hometown": "Spring, Texas",
-      "highSchool": "Klein Collins HS",
-      "previousSchool": "Stephen F. Austin",
-      "hometownHighSchool": "Spring, Texas / Klein Collins HS",
-      "profileUrl": "https://gofrogs.com/sports/baseball/roster/colton-griffin/18356",
-      "imageUrl": "https://gofrogs.com/images/2025/11/20/_0024_11_-_Colton_Griffin.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "18356",
-      "sources": [
-        "TCU Athletics roster",
-        "TCU cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "18356",
-        "name": "Colton Griffin",
-        "normalizedName": "colton griffin",
-        "jersey": "11",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/colton-griffin/18356",
-        "imageUrl": "https://gofrogs.com/images/2025/11/20/_0024_11_-_Colton_Griffin.jpg",
-        "gamesPlayed": 42,
-        "gamesStarted": 40,
-        "battingAverage": 0.289,
-        "onBasePercentage": 0.398,
-        "sluggingPercentage": 0.359,
-        "ops": 0.757,
-        "atBats": 142,
-        "runs": 27,
-        "hits": 41,
-        "doubles": 5,
-        "triples": 1,
-        "homeRuns": 1,
-        "runsBattedIn": 18,
-        "totalBases": 51,
-        "walks": 23,
-        "hitByPitch": 4,
-        "strikeouts": 23,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 4,
-        "sacrificeFlies": 2,
-        "sacrificeHits": 4,
-        "stolenBases": 10,
-        "stolenBasesAttempts": 11,
-        "putouts": 83,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 187,
-        "caughtStealing": 1,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "18356",
-        "name": "Colton Griffin",
-        "normalizedName": "colton griffin",
-        "jersey": "11",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/colton-griffin/18356",
-        "imageUrl": "https://gofrogs.com/images/2025/11/20/_0024_11_-_Colton_Griffin.jpg",
-        "gamesPlayed": 36,
-        "gamesStarted": 35,
-        "putouts": 83,
-        "assists": 2,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 1,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 85
-      },
-      "evaluation": {
-        "score": 47,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 65.55555555555556,
-          "Power": 10.263157894736837,
-          "Contact": 43.124999999999986,
-          "Discipline": 88.88888888888889,
-          "Speed": 33.33333333333333
-        },
-        "summary": "Colton Griffin profiles as a UT piece who controls at-bats and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .289",
-          "OBP .398",
-          "SLG .359"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".289"
-          },
-          {
-            "label": "OBP",
-            "value": ".398"
-          },
-          {
-            "label": "SLG",
-            "value": ".359"
-          },
-          {
-            "label": "HR",
-            "value": "1"
-          },
-          {
-            "label": "RBI",
-            "value": "18"
-          },
-          {
-            "label": "SB",
-            "value": "10"
-          }
-        ],
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "UT",
-          "JR",
-          "N/A",
-          "Hitter"
-        ],
-        "sourceSummary": "TCU Athletics roster + TCU cumulative stats"
-      }
-    },
-    {
-      "id": "tcu-18005",
-      "schoolSlug": "tcu",
-      "school": "TCU",
-      "schoolLongName": "Texas Christian University",
-      "name": "Kyuss Gargett",
-      "normalizedName": "kyuss gargett",
+      "name": "Bammer Maes",
+      "normalizedName": "bammer maes",
       "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "INF",
       "positionLong": "",
-      "classYear": "JR",
-      "handedness": "B/R",
-      "jersey": "12",
-      "hometown": "Anderson, Ind.",
-      "highSchool": "Cathedral H.S.",
-      "previousSchool": "Kentucky",
-      "hometownHighSchool": "Anderson, Ind. / Cathedral H.S.",
-      "profileUrl": "https://gofrogs.com/sports/baseball/roster/kyuss-gargett/18005",
-      "imageUrl": "https://gofrogs.com/images/2025/11/20/_0023_12_-_Kyuss_Gargett.jpg",
+      "classYear": "SO",
+      "handedness": "N/A",
+      "jersey": "7",
+      "hometown": "McKinney, Texas",
+      "highSchool": "Rock Hill HS",
+      "previousSchool": "Midland College",
+      "hometownHighSchool": "McKinney, Texas / Rock Hill HS",
+      "profileUrl": "https://gofrogs.com/sports/baseball/roster/bammer-maes/19290",
+      "imageUrl": "https://gofrogs.com/images/2026/9/21/_0034_7_-_Bammer_Maes.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "18005",
+      "rosterBioId": "19290",
       "sources": [
         "TCU Athletics roster"
       ],
@@ -1430,7 +827,7 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "summary": "Kyuss Gargett gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Bammer Maes gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG --",
           "OBP --",
@@ -1462,366 +859,43 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "JR / B/R",
+        "metaLine": "SO / N/A",
         "detailBadges": [
           "INF",
-          "JR",
-          "B/R",
+          "SO",
+          "N/A",
           "Rostered"
         ],
         "sourceSummary": "TCU Athletics roster"
       }
     },
     {
-      "id": "tcu-18350",
+      "id": "tcu-19291",
       "schoolSlug": "tcu",
       "school": "TCU",
       "schoolLongName": "Texas Christian University",
-      "name": "Cole Eaton",
-      "normalizedName": "cole eaton",
-      "compositeRole": "Two-Way",
-      "role": "Pitcher",
-      "position": "OF/RHP",
-      "positionLong": "",
-      "classYear": "R-SO",
-      "handedness": "N/A",
-      "jersey": "13",
-      "hometown": "Elkhorn, Neb.",
-      "highSchool": "Elkhorn South HS",
-      "previousSchool": "Tennessee",
-      "hometownHighSchool": "Elkhorn, Neb. / Elkhorn South HS",
-      "profileUrl": "https://gofrogs.com/sports/baseball/roster/cole-eaton/18350",
-      "imageUrl": "https://gofrogs.com/images/2025/11/20/_0022_13_-_Cole_Eaton.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "18350",
-      "sources": [
-        "TCU Athletics roster",
-        "TCU cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "18350",
-        "name": "Cole Eaton",
-        "normalizedName": "cole eaton",
-        "jersey": "13",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/cole-eaton/18350",
-        "imageUrl": "https://gofrogs.com/images/2024/10/30/Cole_Eaton_Headshot.png",
-        "gamesPlayed": 16,
-        "gamesStarted": 1,
-        "battingAverage": 0.182,
-        "onBasePercentage": 0.182,
-        "sluggingPercentage": 0.182,
-        "ops": 0.364,
-        "atBats": 11,
-        "runs": 0,
-        "hits": 2,
-        "doubles": 0,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 2,
-        "totalBases": 2,
-        "walks": 0,
-        "hitByPitch": 0,
-        "strikeouts": 3,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 1,
-        "putouts": 7,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 13,
-        "caughtStealing": 1,
-        "pickedOff": 1
-      },
-      "pitchingStats": {
-        "rosterBioId": "18350",
-        "name": "Cole Eaton",
-        "normalizedName": "cole eaton",
-        "jersey": "13",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/cole-eaton/18350",
-        "imageUrl": "https://gofrogs.com/images/2024/10/30/Cole_Eaton_Headshot.png",
-        "gamesPlayed": 3,
-        "gamesStarted": 0,
-        "appearances": 3,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 27,
-        "whip": 5.57,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 2.3333333333333335,
-        "inningsPitchedDisplay": "2.1",
-        "hitsAllowed": 4,
-        "runsAllowed": 7,
-        "earnedRunsAllowed": 7,
-        "walksAllowed": 9,
-        "strikeouts": 0,
-        "doublesAllowed": 1,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 9,
-        "wildPitches": 2,
-        "hitBatters": 1,
-        "balks": 0,
-        "opponentsBattingAverage": 0.444,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "18350",
-        "name": "Cole Eaton",
-        "normalizedName": "cole eaton",
-        "jersey": "13",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/cole-eaton/18350",
-        "imageUrl": "https://gofrogs.com/images/2024/10/30/Cole_Eaton_Headshot.png",
-        "gamesPlayed": 4,
-        "gamesStarted": 1,
-        "putouts": 8,
-        "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 8
-      },
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Cole Eaton gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 27.00",
-          "WHIP 5.57",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "27.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "5.57"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "34.7"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "2.3"
-          }
-        ],
-        "metaLine": "R-SO / N/A",
-        "detailBadges": [
-          "OF/RHP",
-          "R-SO",
-          "N/A",
-          "Two-Way"
-        ],
-        "sourceSummary": "TCU Athletics roster + TCU cumulative stats"
-      }
-    },
-    {
-      "id": "tcu-18347",
-      "schoolSlug": "tcu",
-      "school": "TCU",
-      "schoolLongName": "Texas Christian University",
-      "name": "Chase Brunson",
-      "normalizedName": "chase brunson",
-      "compositeRole": "Hitter",
+      "name": "Ryan Bradford",
+      "normalizedName": "ryan bradford",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "OF",
       "positionLong": "",
-      "classYear": "JR",
-      "handedness": "N/A",
-      "jersey": "15",
-      "hometown": "San Clemente, Calif.",
-      "highSchool": "San Clemente HS",
-      "previousSchool": "",
-      "hometownHighSchool": "San Clemente, Calif. / San Clemente HS",
-      "profileUrl": "https://gofrogs.com/sports/baseball/roster/chase-brunson/18347",
-      "imageUrl": "https://gofrogs.com/images/2025/11/20/_0021_15_-_Chase_Brunson.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "18347",
-      "sources": [
-        "TCU Athletics roster",
-        "TCU cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "18347",
-        "name": "Chase Brunson",
-        "normalizedName": "chase brunson",
-        "jersey": "15",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/chase-brunson/18347",
-        "imageUrl": "https://gofrogs.com/images/2025/11/20/_0021_15_-_Chase_Brunson.jpg",
-        "gamesPlayed": 51,
-        "gamesStarted": 51,
-        "battingAverage": 0.304,
-        "onBasePercentage": 0.462,
-        "sluggingPercentage": 0.556,
-        "ops": 1.018,
-        "atBats": 171,
-        "runs": 37,
-        "hits": 52,
-        "doubles": 11,
-        "triples": 1,
-        "homeRuns": 10,
-        "runsBattedIn": 51,
-        "totalBases": 95,
-        "walks": 33,
-        "hitByPitch": 19,
-        "strikeouts": 42,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 2,
-        "sacrificeFlies": 2,
-        "sacrificeHits": 0,
-        "stolenBases": 13,
-        "stolenBasesAttempts": 18,
-        "putouts": 109,
-        "assists": 0,
-        "errors": 2,
-        "plateAppearances": 248,
-        "caughtStealing": 5,
-        "pickedOff": 2
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "18347",
-        "name": "Chase Brunson",
-        "normalizedName": "chase brunson",
-        "jersey": "15",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/chase-brunson/18347",
-        "imageUrl": "https://gofrogs.com/images/2025/11/20/_0021_15_-_Chase_Brunson.jpg",
-        "gamesPlayed": 48,
-        "gamesStarted": 48,
-        "putouts": 109,
-        "assists": 3,
-        "errors": 2,
-        "fieldingPercentage": 0.982,
-        "doublePlays": 1,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 114
-      },
-      "evaluation": {
-        "score": 71,
-        "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
-        },
-        "components": {
-          "On-base": 100,
-          "Power": 62.105263157894754,
-          "Contact": 52.49999999999999,
-          "Discipline": 65.07936507936506,
-          "Speed": 43.333333333333336
-        },
-        "summary": "Chase Brunson profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .304",
-          "OBP .462",
-          "SLG .556"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".304"
-          },
-          {
-            "label": "OBP",
-            "value": ".462"
-          },
-          {
-            "label": "SLG",
-            "value": ".556"
-          },
-          {
-            "label": "HR",
-            "value": "10"
-          },
-          {
-            "label": "RBI",
-            "value": "51"
-          },
-          {
-            "label": "SB",
-            "value": "13"
-          }
-        ],
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "OF",
-          "JR",
-          "N/A",
-          "Hitter"
-        ],
-        "sourceSummary": "TCU Athletics roster + TCU cumulative stats"
-      }
-    },
-    {
-      "id": "tcu-17730",
-      "schoolSlug": "tcu",
-      "school": "TCU",
-      "schoolLongName": "Texas Christian University",
-      "name": "Nolan Traeger",
-      "normalizedName": "nolan traeger",
-      "compositeRole": "Rostered",
-      "role": "Hitter",
-      "position": "C",
-      "positionLong": "",
       "classYear": "SO",
       "handedness": "N/A",
-      "jersey": "16",
-      "hometown": "Spring, Texas",
-      "highSchool": "Concorida Lutheran",
-      "previousSchool": "",
-      "hometownHighSchool": "Spring, Texas / Concorida Lutheran",
-      "profileUrl": "https://gofrogs.com/sports/baseball/roster/nolan-traeger/17730",
-      "imageUrl": "https://gofrogs.com/images/2025/11/20/_0020_16_-_Nolan_Traeger.jpg",
+      "jersey": "8",
+      "hometown": "Imperial, Mo.",
+      "highSchool": "Seckman HS",
+      "previousSchool": "Johnson County CC",
+      "hometownHighSchool": "Imperial, Mo. / Seckman HS",
+      "profileUrl": "https://gofrogs.com/sports/baseball/roster/ryan-bradford/19291",
+      "imageUrl": "https://gofrogs.com/images/2026/9/21/_0033_8_-_Ryan_Bradford.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "17730",
+      "rosterBioId": "19291",
       "sources": [
         "TCU Athletics roster"
       ],
@@ -1841,7 +915,711 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "summary": "Nolan Traeger gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Ryan Bradford gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "SO / N/A",
+        "detailBadges": [
+          "OF",
+          "SO",
+          "N/A",
+          "Rostered"
+        ],
+        "sourceSummary": "TCU Athletics roster"
+      }
+    },
+    {
+      "id": "tcu-19292",
+      "schoolSlug": "tcu",
+      "school": "TCU",
+      "schoolLongName": "Texas Christian University",
+      "name": "Andrew Ermis",
+      "normalizedName": "andrew ermis",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "C",
+      "positionLong": "",
+      "classYear": "SR",
+      "handedness": "N/A",
+      "jersey": "9",
+      "hometown": "San Antonio, Texas",
+      "highSchool": "Reagan HS",
+      "previousSchool": "Texas",
+      "hometownHighSchool": "San Antonio, Texas / Reagan HS",
+      "profileUrl": "https://gofrogs.com/sports/baseball/roster/andrew-ermis/19292",
+      "imageUrl": "https://gofrogs.com/images/2026/9/21/_0032_9_-_Andrew_Ermis.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "19292",
+      "sources": [
+        "TCU Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Andrew Ermis gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "SR / N/A",
+        "detailBadges": [
+          "C",
+          "SR",
+          "N/A",
+          "Rostered"
+        ],
+        "sourceSummary": "TCU Athletics roster"
+      }
+    },
+    {
+      "id": "tcu-19293",
+      "schoolSlug": "tcu",
+      "school": "TCU",
+      "schoolLongName": "Texas Christian University",
+      "name": "Collin Clarke",
+      "normalizedName": "collin clarke",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "SR",
+      "handedness": "N/A",
+      "jersey": "10",
+      "hometown": "Irvine, Calif.",
+      "highSchool": "Santa Margarita Catholic HS",
+      "previousSchool": "Oregon",
+      "hometownHighSchool": "Irvine, Calif. / Santa Margarita Catholic HS",
+      "profileUrl": "https://gofrogs.com/sports/baseball/roster/collin-clarke/19293",
+      "imageUrl": "https://gofrogs.com/images/2026/9/21/_0031_10_-_Collin_Clarke.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "19293",
+      "sources": [
+        "TCU Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Collin Clarke looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "SR / N/A",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "TCU Athletics roster"
+      }
+    },
+    {
+      "id": "tcu-18356",
+      "schoolSlug": "tcu",
+      "school": "TCU",
+      "schoolLongName": "Texas Christian University",
+      "name": "Colton Griffin",
+      "normalizedName": "colton griffin",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "UT",
+      "positionLong": "",
+      "classYear": "SR",
+      "handedness": "N/A",
+      "jersey": "11",
+      "hometown": "Spring, Texas",
+      "highSchool": "Klein Collins HS",
+      "previousSchool": "Stephen F. Austin",
+      "hometownHighSchool": "Spring, Texas / Klein Collins HS",
+      "profileUrl": "https://gofrogs.com/sports/baseball/roster/colton-griffin/18356",
+      "imageUrl": "https://gofrogs.com/images/2026/9/21/_0030_11_-_Colton_Griffin.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "18356",
+      "sources": [
+        "TCU Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Colton Griffin gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "SR / N/A",
+        "detailBadges": [
+          "UT",
+          "SR",
+          "N/A",
+          "Rostered"
+        ],
+        "sourceSummary": "TCU Athletics roster"
+      }
+    },
+    {
+      "id": "tcu-19294",
+      "schoolSlug": "tcu",
+      "school": "TCU",
+      "schoolLongName": "Texas Christian University",
+      "name": "Trace Mazon",
+      "normalizedName": "trace mazon",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "",
+      "classYear": "SR",
+      "handedness": "N/A",
+      "jersey": "12",
+      "hometown": "Aledo, Texas",
+      "highSchool": "Aledo HS",
+      "previousSchool": "Coastal Carolina",
+      "hometownHighSchool": "Aledo, Texas / Aledo HS",
+      "profileUrl": "https://gofrogs.com/sports/baseball/roster/trace-mazon/19294",
+      "imageUrl": "https://gofrogs.com/images/2026/9/21/_0029_12_-_Trace_Mazon.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "19294",
+      "sources": [
+        "TCU Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Trace Mazon gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "SR / N/A",
+        "detailBadges": [
+          "INF",
+          "SR",
+          "N/A",
+          "Rostered"
+        ],
+        "sourceSummary": "TCU Athletics roster"
+      }
+    },
+    {
+      "id": "tcu-18350",
+      "schoolSlug": "tcu",
+      "school": "TCU",
+      "schoolLongName": "Texas Christian University",
+      "name": "Cole Eaton",
+      "normalizedName": "cole eaton",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "OF/RHP",
+      "positionLong": "",
+      "classYear": "SR",
+      "handedness": "N/A",
+      "jersey": "13",
+      "hometown": "Elkhorn, Neb.",
+      "highSchool": "Elkhorn South HS",
+      "previousSchool": "Tennessee",
+      "hometownHighSchool": "Elkhorn, Neb. / Elkhorn South HS",
+      "profileUrl": "https://gofrogs.com/sports/baseball/roster/cole-eaton/18350",
+      "imageUrl": "https://gofrogs.com/images/2026/9/21/_0028_13_-_Cole_Eaton.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "18350",
+      "sources": [
+        "TCU Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Cole Eaton looks like a OF/RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "SR / N/A",
+        "detailBadges": [
+          "OF/RHP",
+          "SR",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "TCU Athletics roster"
+      }
+    },
+    {
+      "id": "tcu-19295",
+      "schoolSlug": "tcu",
+      "school": "TCU",
+      "schoolLongName": "Texas Christian University",
+      "name": "Kingston Kela",
+      "normalizedName": "kingston kela",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "",
+      "classYear": "FR",
+      "handedness": "N/A",
+      "jersey": "14",
+      "hometown": "Las Vegas, Nev.",
+      "highSchool": "Faith Lutheran HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Las Vegas, Nev. / Faith Lutheran HS",
+      "profileUrl": "https://gofrogs.com/sports/baseball/roster/kingston-kela/19295",
+      "imageUrl": "https://gofrogs.com/images/2026/9/21/_0027_14_-_Kingston_Kela.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "19295",
+      "sources": [
+        "TCU Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Kingston Kela gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "INF",
+          "FR",
+          "N/A",
+          "Rostered"
+        ],
+        "sourceSummary": "TCU Athletics roster"
+      }
+    },
+    {
+      "id": "tcu-19296",
+      "schoolSlug": "tcu",
+      "school": "TCU",
+      "schoolLongName": "Texas Christian University",
+      "name": "Kason Kolle",
+      "normalizedName": "kason kolle",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "C/OF",
+      "positionLong": "",
+      "classYear": "FR",
+      "handedness": "N/A",
+      "jersey": "15",
+      "hometown": "Victoria, Texas",
+      "highSchool": "Victoria East HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Victoria, Texas / Victoria East HS",
+      "profileUrl": "https://gofrogs.com/sports/baseball/roster/kason-kolle/19296",
+      "imageUrl": "https://gofrogs.com/images/2026/9/21/_0026_15_-_Kason_Kolle.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "19296",
+      "sources": [
+        "TCU Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Kason Kolle gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "C/OF",
+          "FR",
+          "N/A",
+          "Rostered"
+        ],
+        "sourceSummary": "TCU Athletics roster"
+      }
+    },
+    {
+      "id": "tcu-19297",
+      "schoolSlug": "tcu",
+      "school": "TCU",
+      "schoolLongName": "Texas Christian University",
+      "name": "Caleb Eagar",
+      "normalizedName": "caleb eagar",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "C",
+      "positionLong": "",
+      "classYear": "SO",
+      "handedness": "N/A",
+      "jersey": "16",
+      "hometown": "Fort Worth, Texas",
+      "highSchool": "Arlington Heights HS",
+      "previousSchool": "Midland College",
+      "hometownHighSchool": "Fort Worth, Texas / Arlington Heights HS",
+      "profileUrl": "https://gofrogs.com/sports/baseball/roster/caleb-eagar/19297",
+      "imageUrl": "https://gofrogs.com/images/2026/9/21/_0025_16_-_Caleb_Eager.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "19297",
+      "sources": [
+        "TCU Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Caleb Eagar gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG --",
           "OBP --",
@@ -1884,350 +1662,32 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
       }
     },
     {
-      "id": "tcu-18001",
+      "id": "tcu-19298",
       "schoolSlug": "tcu",
       "school": "TCU",
       "schoolLongName": "Texas Christian University",
-      "name": "Rob Liddington",
-      "normalizedName": "rob liddington",
-      "compositeRole": "Rostered",
-      "role": "Hitter",
-      "position": "UT",
+      "name": "Jaden Bahl",
+      "normalizedName": "jaden bahl",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
       "positionLong": "",
-      "classYear": "GR",
-      "handedness": "R/L",
+      "classYear": "SR",
+      "handedness": "N/A",
       "jersey": "17",
-      "hometown": "Phoenix, Ariz.",
-      "highSchool": "",
-      "previousSchool": "Incarnate Word",
-      "hometownHighSchool": "Phoenix, Ariz.",
-      "profileUrl": "https://gofrogs.com/sports/baseball/roster/rob-liddington/18001",
-      "imageUrl": "https://gofrogs.com/images/2025/11/20/_0019_17_-_Rob_Liddington.jpg",
+      "hometown": "Pflugerville, Texas",
+      "highSchool": "Hendrickson HS",
+      "previousSchool": "McNeese State",
+      "hometownHighSchool": "Pflugerville, Texas / Hendrickson HS",
+      "profileUrl": "https://gofrogs.com/sports/baseball/roster/jaden-bahl/19298",
+      "imageUrl": "https://gofrogs.com/images/2026/9/21/_0024_17_-_Jaden_Bahl.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "18001",
-      "sources": [
-        "TCU Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "summary": "Rob Liddington gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "GR / R/L",
-        "detailBadges": [
-          "UT",
-          "GR",
-          "R/L",
-          "Rostered"
-        ],
-        "sourceSummary": "TCU Athletics roster"
-      }
-    },
-    {
-      "id": "tcu-18357",
-      "schoolSlug": "tcu",
-      "school": "TCU",
-      "schoolLongName": "Texas Christian University",
-      "name": "Zack James",
-      "normalizedName": "zack james",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "SO",
-      "handedness": "N/A",
-      "jersey": "18",
-      "hometown": "Flower Mound, Texas",
-      "highSchool": "Flower Mound HS",
-      "previousSchool": "",
-      "hometownHighSchool": "Flower Mound, Texas / Flower Mound HS",
-      "profileUrl": "https://gofrogs.com/sports/baseball/roster/zack-james/18357",
-      "imageUrl": "https://gofrogs.com/images/2025/11/20/_0018_18_-_Zack_James.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "18357",
-      "sources": [
-        "TCU Athletics roster",
-        "TCU cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "18357",
-        "name": "Zack James",
-        "normalizedName": "zack james",
-        "jersey": "18",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/zack-james/18357",
-        "imageUrl": "https://gofrogs.com/images/2025/11/20/_0018_18_-_Zack_James.jpg",
-        "gamesPlayed": 15,
-        "gamesStarted": 8,
-        "appearances": 15,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 3.64,
-        "whip": 1.33,
-        "wins": 6,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 59.333333333333336,
-        "inningsPitchedDisplay": "59.1",
-        "hitsAllowed": 60,
-        "runsAllowed": 24,
-        "earnedRunsAllowed": 24,
-        "walksAllowed": 19,
-        "strikeouts": 48,
-        "doublesAllowed": 6,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 6,
-        "opponentsAtBats": 227,
-        "wildPitches": 0,
-        "hitBatters": 6,
-        "balks": 0,
-        "opponentsBattingAverage": 0.264,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "18357",
-        "name": "Zack James",
-        "normalizedName": "zack james",
-        "jersey": "18",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/zack-james/18357",
-        "imageUrl": "https://gofrogs.com/images/2025/11/20/_0018_18_-_Zack_James.jpg",
-        "gamesPlayed": 5,
-        "gamesStarted": 4,
-        "putouts": 3,
-        "assists": 3,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 1,
-        "stolenBasesAgainst": 1,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 6
-      },
-      "evaluation": {
-        "score": 11,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 29.826353421859043,
-          "Command": 30.526315789473678,
-          "Damage suppression": 0
-        },
-        "summary": "Zack James looks like a RHP option who limits runs and throws enough strikes.",
-        "summaryMetrics": [
-          "ERA 3.64",
-          "WHIP 1.33",
-          "K/9 7.3"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.64"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.33"
-          },
-          {
-            "label": "K/9",
-            "value": "7.3"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.9"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.91"
-          },
-          {
-            "label": "IP",
-            "value": "59.3"
-          }
-        ],
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "N/A",
-          "Pitcher"
-        ],
-        "sourceSummary": "TCU Athletics roster + TCU cumulative stats"
-      }
-    },
-    {
-      "id": "tcu-17707",
-      "schoolSlug": "tcu",
-      "school": "TCU",
-      "schoolLongName": "Texas Christian University",
-      "name": "Jack Arthur",
-      "normalizedName": "jack arthur",
-      "compositeRole": "Rostered",
-      "role": "Hitter",
-      "position": "OF",
-      "positionLong": "",
-      "classYear": "R-SR",
-      "handedness": "N/A",
-      "jersey": "20",
-      "hometown": "Flower Mound, Texas",
-      "highSchool": "Flower Mound HS",
-      "previousSchool": "Weatherford College",
-      "hometownHighSchool": "Flower Mound, Texas / Flower Mound HS",
-      "profileUrl": "https://gofrogs.com/sports/baseball/roster/jack-arthur/17707",
-      "imageUrl": "https://gofrogs.com/images/2025/11/20/_0017_20_-_Jack_Arthur.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "17707",
-      "sources": [
-        "TCU Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "summary": "Jack Arthur gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "R-SR / N/A",
-        "detailBadges": [
-          "OF",
-          "R-SR",
-          "N/A",
-          "Rostered"
-        ],
-        "sourceSummary": "TCU Athletics roster"
-      }
-    },
-    {
-      "id": "tcu-17724",
-      "schoolSlug": "tcu",
-      "school": "TCU",
-      "schoolLongName": "Texas Christian University",
-      "name": "Tyler Phenow",
-      "normalizedName": "tyler phenow",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "SO",
-      "handedness": "N/A",
-      "jersey": "21",
-      "hometown": "Champlin, Minn.",
-      "highSchool": "Champlin Park HS",
-      "previousSchool": "",
-      "hometownHighSchool": "Champlin, Minn. / Champlin Park HS",
-      "profileUrl": "https://gofrogs.com/sports/baseball/roster/tyler-phenow/17724",
-      "imageUrl": "https://gofrogs.com/images/2025/11/20/_0016_21_-_Tyler_Phenow.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "17724",
+      "rosterBioId": "19298",
       "sources": [
         "TCU Athletics roster"
       ],
@@ -2247,7 +1707,7 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Tyler Phenow looks like a RHP option who throws enough strikes.",
+        "summary": "Jaden Bahl looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -2279,10 +1739,274 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "SO / N/A",
+        "metaLine": "SR / N/A",
         "detailBadges": [
           "RHP",
-          "SO",
+          "SR",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "TCU Athletics roster"
+      }
+    },
+    {
+      "id": "tcu-18357",
+      "schoolSlug": "tcu",
+      "school": "TCU",
+      "schoolLongName": "Texas Christian University",
+      "name": "Zack James",
+      "normalizedName": "zack james",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "N/A",
+      "jersey": "18",
+      "hometown": "Flower Mound, Texas",
+      "highSchool": "Flower Mound HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Flower Mound, Texas / Flower Mound HS",
+      "profileUrl": "https://gofrogs.com/sports/baseball/roster/zack-james/18357",
+      "imageUrl": "https://gofrogs.com/images/2026/9/21/_0023_18_-_Zack_James.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "18357",
+      "sources": [
+        "TCU Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Zack James looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "TCU Athletics roster"
+      }
+    },
+    {
+      "id": "tcu-19299",
+      "schoolSlug": "tcu",
+      "school": "TCU",
+      "schoolLongName": "Texas Christian University",
+      "name": "Ben Schroeder",
+      "normalizedName": "ben schroeder",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "N/A",
+      "jersey": "20",
+      "hometown": "Las Vegas, Nev.",
+      "highSchool": "Faith Lutheran HS",
+      "previousSchool": "College of Southern Nevada",
+      "hometownHighSchool": "Las Vegas, Nev. / Faith Lutheran HS",
+      "profileUrl": "https://gofrogs.com/sports/baseball/roster/ben-schroeder/19299",
+      "imageUrl": "https://gofrogs.com/images/2026/9/21/_0022_20_-_Ben_Schroeder.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "19299",
+      "sources": [
+        "TCU Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Ben Schroeder looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "TCU Athletics roster"
+      }
+    },
+    {
+      "id": "tcu-19300",
+      "schoolSlug": "tcu",
+      "school": "TCU",
+      "schoolLongName": "Texas Christian University",
+      "name": "Cam Staton",
+      "normalizedName": "cam staton",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "",
+      "classYear": "SR",
+      "handedness": "N/A",
+      "jersey": "21",
+      "hometown": "Auburn, Calif.",
+      "highSchool": "Placer HS",
+      "previousSchool": "Saint Mary's",
+      "hometownHighSchool": "Auburn, Calif. / Placer HS",
+      "profileUrl": "https://gofrogs.com/sports/baseball/roster/cam-staton/19300",
+      "imageUrl": "https://gofrogs.com/images/2026/9/21/_0021_21_-_Cam_Staton.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "19300",
+      "sources": [
+        "TCU Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Cam Staton looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "SR / N/A",
+        "detailBadges": [
+          "LHP",
+          "SR",
           "N/A",
           "Pitcher"
         ],
@@ -2300,7 +2024,7 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
-      "classYear": "SR",
+      "classYear": "5TH",
       "handedness": "N/A",
       "jersey": "22",
       "hometown": "Long Beach, Calif.",
@@ -2308,7 +2032,7 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
       "previousSchool": "",
       "hometownHighSchool": "Long Beach, Calif. / Orange Lutheran HS",
       "profileUrl": "https://gofrogs.com/sports/baseball/roster/louis-rodriguez/18360",
-      "imageUrl": "https://gofrogs.com/images/2025/11/20/_0015_22_-_Louis_Rodriguez.jpg",
+      "imageUrl": "https://gofrogs.com/images/2026/9/21/_0020_22_-_Louis_Rodriguez.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -2367,10 +2091,10 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "SR / N/A",
+        "metaLine": "5TH / N/A",
         "detailBadges": [
           "RHP",
-          "SR",
+          "5TH",
           "N/A",
           "Pitcher"
         ],
@@ -2388,7 +2112,7 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
       "role": "Pitcher",
       "position": "LHP",
       "positionLong": "",
-      "classYear": "SO",
+      "classYear": "JR",
       "handedness": "N/A",
       "jersey": "23",
       "hometown": "Bakersfield, Calif.",
@@ -2396,7 +2120,7 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
       "previousSchool": "",
       "hometownHighSchool": "Bakersfield, Calif. / Bakersfield Christian HS",
       "profileUrl": "https://gofrogs.com/sports/baseball/roster/mason-brassfield/18346",
-      "imageUrl": "https://gofrogs.com/images/2025/11/20/_0014_23_-_Mason_Brassfield.jpg",
+      "imageUrl": "https://gofrogs.com/images/2026/9/21/_0019_23_-_Mason_Brassfield.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -2405,148 +2129,6 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
       "espnThrows": "",
       "rosterBioId": "18346",
       "sources": [
-        "TCU Athletics roster",
-        "TCU cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "18346",
-        "name": "Mason Brassfield",
-        "normalizedName": "mason brassfield",
-        "jersey": "23",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/mason-brassfield/18346",
-        "imageUrl": "https://gofrogs.com/images/2025/11/20/_0014_23_-_Mason_Brassfield.jpg",
-        "gamesPlayed": 16,
-        "gamesStarted": 8,
-        "appearances": 16,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 6.24,
-        "whip": 1.78,
-        "wins": 4,
-        "losses": 3,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 49,
-        "inningsPitchedDisplay": "49.0",
-        "hitsAllowed": 59,
-        "runsAllowed": 39,
-        "earnedRunsAllowed": 34,
-        "walksAllowed": 28,
-        "strikeouts": 69,
-        "doublesAllowed": 6,
-        "triplesAllowed": 2,
-        "homeRunsAllowed": 6,
-        "opponentsAtBats": 202,
-        "wildPitches": 4,
-        "hitBatters": 6,
-        "balks": 0,
-        "opponentsBattingAverage": 0.292,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "18346",
-        "name": "Mason Brassfield",
-        "normalizedName": "mason brassfield",
-        "jersey": "23",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/mason-brassfield/18346",
-        "imageUrl": "https://gofrogs.com/images/2025/11/20/_0014_23_-_Mason_Brassfield.jpg",
-        "gamesPlayed": 6,
-        "gamesStarted": 4,
-        "putouts": 0,
-        "assists": 3,
-        "errors": 4,
-        "fieldingPercentage": 0.429,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 3,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 7
-      },
-      "evaluation": {
-        "score": 20,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 78.84972170686456,
-          "Command": 29.28571428571428,
-          "Damage suppression": 0
-        },
-        "summary": "Mason Brassfield looks like a LHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 6.24",
-          "WHIP 1.78",
-          "K/9 12.7"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "6.24"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.78"
-          },
-          {
-            "label": "K/9",
-            "value": "12.7"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.1"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.10"
-          },
-          {
-            "label": "IP",
-            "value": "49.0"
-          }
-        ],
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "LHP",
-          "SO",
-          "N/A",
-          "Pitcher"
-        ],
-        "sourceSummary": "TCU Athletics roster + TCU cumulative stats"
-      }
-    },
-    {
-      "id": "tcu-18004",
-      "schoolSlug": "tcu",
-      "school": "TCU",
-      "schoolLongName": "Texas Christian University",
-      "name": "Tanner Sagouspe",
-      "normalizedName": "tanner sagouspe",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "SR",
-      "handedness": "R/R",
-      "jersey": "24",
-      "hometown": "Madera, Calif.",
-      "highSchool": "San Joaquin Memorial H.S.",
-      "previousSchool": "Cal Poly",
-      "hometownHighSchool": "Madera, Calif. / San Joaquin Memorial H.S.",
-      "profileUrl": "https://gofrogs.com/sports/baseball/roster/tanner-sagouspe/18004",
-      "imageUrl": "https://gofrogs.com/images/2025/11/20/_0013_24_-_Tanner_Sagouspe.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "18004",
-      "sources": [
         "TCU Athletics roster"
       ],
       "hittingStats": null,
@@ -2565,7 +2147,7 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Tanner Sagouspe looks like a RHP option who throws enough strikes.",
+        "summary": "Mason Brassfield looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -2597,43 +2179,43 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "SR / R/R",
+        "metaLine": "JR / N/A",
         "detailBadges": [
-          "RHP",
-          "SR",
-          "R/R",
+          "LHP",
+          "JR",
+          "N/A",
           "Pitcher"
         ],
         "sourceSummary": "TCU Athletics roster"
       }
     },
     {
-      "id": "tcu-17993",
+      "id": "tcu-19301",
       "schoolSlug": "tcu",
       "school": "TCU",
       "schoolLongName": "Texas Christian University",
-      "name": "Nolan Johnson",
-      "normalizedName": "nolan johnson",
+      "name": "Manny Santos",
+      "normalizedName": "manny santos",
       "compositeRole": "Pitcher",
       "role": "Pitcher",
-      "position": "LHP",
+      "position": "RHP",
       "positionLong": "",
-      "classYear": "SR",
-      "handedness": "L/L",
-      "jersey": "25",
-      "hometown": "Lakeville, Minn.",
-      "highSchool": "Lakeville North HS",
-      "previousSchool": "North Dakota State",
-      "hometownHighSchool": "Lakeville, Minn. / Lakeville North HS",
-      "profileUrl": "https://gofrogs.com/sports/baseball/roster/nolan-johnson/17993",
-      "imageUrl": "https://gofrogs.com/images/2025/11/20/_0011_25_-_Nolan_Johnson.jpg",
+      "classYear": "JR",
+      "handedness": "N/A",
+      "jersey": "24",
+      "hometown": "Amsterdam, N.Y.",
+      "highSchool": "The Albany Academy",
+      "previousSchool": "Rhode Island",
+      "hometownHighSchool": "Amsterdam, N.Y. / The Albany Academy",
+      "profileUrl": "https://gofrogs.com/sports/baseball/roster/manny-santos/19301",
+      "imageUrl": "https://gofrogs.com/images/2026/9/21/_0018_24_-_Manny_Santos.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "17993",
+      "rosterBioId": "19301",
       "sources": [
         "TCU Athletics roster"
       ],
@@ -2653,7 +2235,7 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Nolan Johnson looks like a LHP option who throws enough strikes.",
+        "summary": "Manny Santos looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -2685,12 +2267,100 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "SR / L/L",
+        "metaLine": "JR / N/A",
         "detailBadges": [
-          "LHP",
-          "SR",
-          "L/L",
+          "RHP",
+          "JR",
+          "N/A",
           "Pitcher"
+        ],
+        "sourceSummary": "TCU Athletics roster"
+      }
+    },
+    {
+      "id": "tcu-19302",
+      "schoolSlug": "tcu",
+      "school": "TCU",
+      "schoolLongName": "Texas Christian University",
+      "name": "George Gilson",
+      "normalizedName": "george gilson",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "UT",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "N/A",
+      "jersey": "25",
+      "hometown": "Orange Park, Fla.",
+      "highSchool": "St. Johns Country Day School",
+      "previousSchool": "Flagler",
+      "hometownHighSchool": "Orange Park, Fla. / St. Johns Country Day School",
+      "profileUrl": "https://gofrogs.com/sports/baseball/roster/george-gilson/19302",
+      "imageUrl": "https://gofrogs.com/images/2026/9/21/_0017_25_-_George_Gilson.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "19302",
+      "sources": [
+        "TCU Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "George Gilson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "UT",
+          "JR",
+          "N/A",
+          "Rostered"
         ],
         "sourceSummary": "TCU Athletics roster"
       }
@@ -2706,15 +2376,15 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
-      "classYear": "FR",
-      "handedness": "R/R",
+      "classYear": "SO",
+      "handedness": "N/A",
       "jersey": "26",
       "hometown": "Katy, Texas",
-      "highSchool": "Katy H.S.",
+      "highSchool": "Katy HS",
       "previousSchool": "",
-      "hometownHighSchool": "Katy, Texas / Katy H.S.",
+      "hometownHighSchool": "Katy, Texas / Katy HS",
       "profileUrl": "https://gofrogs.com/sports/baseball/roster/aiden-barrientes/18345",
-      "imageUrl": "https://gofrogs.com/images/2025/11/20/_0010_26_-_Aiden_Barrientes.jpg",
+      "imageUrl": "https://gofrogs.com/images/2026/9/21/_0016_26_-_Aiden_Barrientes.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -2722,304 +2392,6 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
       "espnBats": "",
       "espnThrows": "",
       "rosterBioId": "18345",
-      "sources": [
-        "TCU Athletics roster",
-        "TCU cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "18345",
-        "name": "Aiden Barrientes",
-        "normalizedName": "aiden barrientes",
-        "jersey": "26",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/aiden-barrientes/18345",
-        "imageUrl": "https://gofrogs.com/images/2025/11/20/_0010_26_-_Aiden_Barrientes.jpg",
-        "gamesPlayed": 2,
-        "gamesStarted": 0,
-        "appearances": 2,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 9,
-        "whip": 2.5,
-        "wins": 1,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 2,
-        "inningsPitchedDisplay": "2.0",
-        "hitsAllowed": 1,
-        "runsAllowed": 2,
-        "earnedRunsAllowed": 2,
-        "walksAllowed": 4,
-        "strikeouts": 1,
-        "doublesAllowed": 0,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 6,
-        "wildPitches": 1,
-        "hitBatters": 0,
-        "balks": 0,
-        "opponentsBattingAverage": 0.167,
-        "walksHits": 0
-      },
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 1,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 4.545454545454546,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Aiden Barrientes gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 9.00",
-          "WHIP 2.50",
-          "K/9 4.5"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "9.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.50"
-          },
-          {
-            "label": "K/9",
-            "value": "4.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "18.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "2.0"
-          }
-        ],
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "TCU Athletics roster + TCU cumulative stats"
-      }
-    },
-    {
-      "id": "tcu-18000",
-      "schoolSlug": "tcu",
-      "school": "TCU",
-      "schoolLongName": "Texas Christian University",
-      "name": "Brady Dallimore",
-      "normalizedName": "brady dallimore",
-      "compositeRole": "Rostered",
-      "role": "Hitter",
-      "position": "C",
-      "positionLong": "",
-      "classYear": "FR",
-      "handedness": "R/R",
-      "jersey": "27",
-      "hometown": "Las Vegas, Nev.",
-      "highSchool": "Palo Verde H.S.",
-      "previousSchool": "",
-      "hometownHighSchool": "Las Vegas, Nev. / Palo Verde H.S.",
-      "profileUrl": "https://gofrogs.com/sports/baseball/roster/brady-dallimore/18000",
-      "imageUrl": "https://gofrogs.com/images/2025/11/20/_0009_27_-_Brady_Dallimore.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "18000",
-      "sources": [
-        "TCU Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "summary": "Brady Dallimore gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "C",
-          "FR",
-          "R/R",
-          "Rostered"
-        ],
-        "sourceSummary": "TCU Athletics roster"
-      }
-    },
-    {
-      "id": "tcu-18052",
-      "schoolSlug": "tcu",
-      "school": "TCU",
-      "schoolLongName": "Texas Christian University",
-      "name": "Colin Blanchard",
-      "normalizedName": "colin blanchard",
-      "compositeRole": "Rostered",
-      "role": "Hitter",
-      "position": "C",
-      "positionLong": "",
-      "classYear": "SR",
-      "handedness": "N/A",
-      "jersey": "28",
-      "hometown": "Ladera Ranch, Calif.",
-      "highSchool": "",
-      "previousSchool": "Washington",
-      "hometownHighSchool": "Ladera Ranch, Calif.",
-      "profileUrl": "https://gofrogs.com/sports/baseball/roster/colin-blanchard/18052",
-      "imageUrl": "https://gofrogs.com/images/2025/11/20/_0008_28_-_Colin_Blanchard.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "18052",
-      "sources": [
-        "TCU Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "summary": "Colin Blanchard gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "C",
-          "SR",
-          "N/A",
-          "Rostered"
-        ],
-        "sourceSummary": "TCU Athletics roster"
-      }
-    },
-    {
-      "id": "tcu-17714",
-      "schoolSlug": "tcu",
-      "school": "TCU",
-      "schoolLongName": "Texas Christian University",
-      "name": "Kade Durnin",
-      "normalizedName": "kade durnin",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "R-FR",
-      "handedness": "N/A",
-      "jersey": "33",
-      "hometown": "Linn Creek, Mo.",
-      "highSchool": "Camdenton HS",
-      "previousSchool": "",
-      "hometownHighSchool": "Linn Creek, Mo. / Camdenton HS",
-      "profileUrl": "https://gofrogs.com/sports/baseball/roster/kade-durnin/17714",
-      "imageUrl": "https://gofrogs.com/images/2025/11/20/_0007_33_-_Kade_Durnin.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "17714",
       "sources": [
         "TCU Athletics roster"
       ],
@@ -3039,7 +2411,7 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Kade Durnin looks like a RHP option who throws enough strikes.",
+        "summary": "Aiden Barrientes looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -3071,10 +2443,626 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "R-FR / N/A",
+        "metaLine": "SO / N/A",
         "detailBadges": [
           "RHP",
-          "R-FR",
+          "SO",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "TCU Athletics roster"
+      }
+    },
+    {
+      "id": "tcu-19303",
+      "schoolSlug": "tcu",
+      "school": "TCU",
+      "schoolLongName": "Texas Christian University",
+      "name": "Hank Gomric",
+      "normalizedName": "hank gomric",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "N/A",
+      "jersey": "27",
+      "hometown": "Belleville, Ill.",
+      "highSchool": "Althoff Catholic HS",
+      "previousSchool": "Saint Louis",
+      "hometownHighSchool": "Belleville, Ill. / Althoff Catholic HS",
+      "profileUrl": "https://gofrogs.com/sports/baseball/roster/hank-gomric/19303",
+      "imageUrl": "https://gofrogs.com/images/2026/9/21/_0015_27_-_Hank_Gormic.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "19303",
+      "sources": [
+        "TCU Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Hank Gomric gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "OF",
+          "JR",
+          "N/A",
+          "Rostered"
+        ],
+        "sourceSummary": "TCU Athletics roster"
+      }
+    },
+    {
+      "id": "tcu-19304",
+      "schoolSlug": "tcu",
+      "school": "TCU",
+      "schoolLongName": "Texas Christian University",
+      "name": "Michael Catalano",
+      "normalizedName": "michael catalano",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "N/A",
+      "jersey": "28",
+      "hometown": "Frisco, Texas",
+      "highSchool": "Frisco HS",
+      "previousSchool": "Oklahoma",
+      "hometownHighSchool": "Frisco, Texas / Frisco HS",
+      "profileUrl": "https://gofrogs.com/sports/baseball/roster/michael-catalano/19304",
+      "imageUrl": "https://gofrogs.com/images/2026/9/21/_0014_28_-_Michael_Catalano.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "19304",
+      "sources": [
+        "TCU Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Michael Catalano looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "TCU Athletics roster"
+      }
+    },
+    {
+      "id": "tcu-19305",
+      "schoolSlug": "tcu",
+      "school": "TCU",
+      "schoolLongName": "Texas Christian University",
+      "name": "Chase Hilt",
+      "normalizedName": "chase hilt",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "",
+      "classYear": "FR",
+      "handedness": "N/A",
+      "jersey": "29",
+      "hometown": "Temecula, Calif.",
+      "highSchool": "Temecula Valley HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Temecula, Calif. / Temecula Valley HS",
+      "profileUrl": "https://gofrogs.com/sports/baseball/roster/chase-hilt/19305",
+      "imageUrl": "https://gofrogs.com/images/2026/9/21/_0013_29_-_Chase_Hilt.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "19305",
+      "sources": [
+        "TCU Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Chase Hilt gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "INF",
+          "FR",
+          "N/A",
+          "Rostered"
+        ],
+        "sourceSummary": "TCU Athletics roster"
+      }
+    },
+    {
+      "id": "tcu-19306",
+      "schoolSlug": "tcu",
+      "school": "TCU",
+      "schoolLongName": "Texas Christian University",
+      "name": "James Nunnallee",
+      "normalizedName": "james nunnallee",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "N/A",
+      "jersey": "30",
+      "hometown": "San Diego, Calif.",
+      "highSchool": "Lightridge HS",
+      "previousSchool": "Mississippi State",
+      "hometownHighSchool": "San Diego, Calif. / Lightridge HS",
+      "profileUrl": "https://gofrogs.com/sports/baseball/roster/james-nunnallee/19306",
+      "imageUrl": "https://gofrogs.com/images/2026/9/21/_0012_30_-_James_Nunnallee.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "19306",
+      "sources": [
+        "TCU Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "James Nunnallee gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "OF",
+          "JR",
+          "N/A",
+          "Rostered"
+        ],
+        "sourceSummary": "TCU Athletics roster"
+      }
+    },
+    {
+      "id": "tcu-19307",
+      "schoolSlug": "tcu",
+      "school": "TCU",
+      "schoolLongName": "Texas Christian University",
+      "name": "Maverik Maddux",
+      "normalizedName": "maverik maddux",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "FR",
+      "handedness": "N/A",
+      "jersey": "31",
+      "hometown": "Bolton, Texas",
+      "highSchool": "Lake Belton HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Bolton, Texas / Lake Belton HS",
+      "profileUrl": "https://gofrogs.com/sports/baseball/roster/maverik-maddux/19307",
+      "imageUrl": "https://gofrogs.com/images/2026/9/21/_0011_31_-_Maverik_Maddux.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "19307",
+      "sources": [
+        "TCU Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Maverik Maddux looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "TCU Athletics roster"
+      }
+    },
+    {
+      "id": "tcu-19308",
+      "schoolSlug": "tcu",
+      "school": "TCU",
+      "schoolLongName": "Texas Christian University",
+      "name": "Marcus Greis",
+      "normalizedName": "marcus greis",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "INF/RHP",
+      "positionLong": "",
+      "classYear": "FR",
+      "handedness": "N/A",
+      "jersey": "32",
+      "hometown": "Tustin, Calif.",
+      "highSchool": "Orange Lutheran",
+      "previousSchool": "",
+      "hometownHighSchool": "Tustin, Calif. / Orange Lutheran",
+      "profileUrl": "https://gofrogs.com/sports/baseball/roster/marcus-greis/19308",
+      "imageUrl": "https://gofrogs.com/images/2026/9/21/_0010_32_-_Marcus_Greis.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "19308",
+      "sources": [
+        "TCU Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Marcus Greis looks like a INF/RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "INF/RHP",
+          "FR",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "TCU Athletics roster"
+      }
+    },
+    {
+      "id": "tcu-19309",
+      "schoolSlug": "tcu",
+      "school": "TCU",
+      "schoolLongName": "Texas Christian University",
+      "name": "Taylor Tracey",
+      "normalizedName": "taylor tracey",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "OF/LHP",
+      "positionLong": "",
+      "classYear": "SO",
+      "handedness": "N/A",
+      "jersey": "33",
+      "hometown": "Dripping Springs, Texas",
+      "highSchool": "Dripping Springs HS",
+      "previousSchool": "Tennessee",
+      "hometownHighSchool": "Dripping Springs, Texas / Dripping Springs HS",
+      "profileUrl": "https://gofrogs.com/sports/baseball/roster/taylor-tracey/19309",
+      "imageUrl": "https://gofrogs.com/images/2026/9/21/_0009_33_-_Taylor_Tracey.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "19309",
+      "sources": [
+        "TCU Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Taylor Tracey looks like a OF/LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "SO / N/A",
+        "detailBadges": [
+          "OF/LHP",
+          "SO",
           "N/A",
           "Pitcher"
         ],
@@ -3092,15 +3080,15 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
-      "classYear": "FR",
-      "handedness": "R/R",
+      "classYear": "SO",
+      "handedness": "N/A",
       "jersey": "34",
       "hometown": "Katy, Texas",
-      "highSchool": "Katy H.S.",
+      "highSchool": "Katy HS",
       "previousSchool": "",
-      "hometownHighSchool": "Katy, Texas / Katy H.S.",
+      "hometownHighSchool": "Katy, Texas / Katy HS",
       "profileUrl": "https://gofrogs.com/sports/baseball/roster/cade-nelson/18359",
-      "imageUrl": "https://gofrogs.com/images/2025/11/20/_0006_34_-_Cade_Nelson.jpg",
+      "imageUrl": "https://gofrogs.com/images/2026/9/21/_0008_34_-_Cade_Nelson.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -3108,858 +3096,6 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
       "espnBats": "",
       "espnThrows": "",
       "rosterBioId": "18359",
-      "sources": [
-        "TCU Athletics roster",
-        "TCU cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "18359",
-        "name": "Cade Nelson",
-        "normalizedName": "cade nelson",
-        "jersey": "34",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/cade-nelson/18359",
-        "imageUrl": "https://gofrogs.com/images/2025/11/20/_0006_34_-_Cade_Nelson.jpg",
-        "gamesPlayed": 11,
-        "gamesStarted": 4,
-        "appearances": 11,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 5.27,
-        "whip": 1.28,
-        "wins": 1,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 27.333333333333332,
-        "inningsPitchedDisplay": "27.1",
-        "hitsAllowed": 25,
-        "runsAllowed": 17,
-        "earnedRunsAllowed": 16,
-        "walksAllowed": 10,
-        "strikeouts": 23,
-        "doublesAllowed": 6,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 103,
-        "wildPitches": 0,
-        "hitBatters": 4,
-        "balks": 0,
-        "opponentsBattingAverage": 0.243,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "18359",
-        "name": "Cade Nelson",
-        "normalizedName": "cade nelson",
-        "jersey": "34",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/cade-nelson/18359",
-        "imageUrl": "https://gofrogs.com/images/2025/11/20/_0006_34_-_Cade_Nelson.jpg",
-        "gamesPlayed": 3,
-        "gamesStarted": 1,
-        "putouts": 1,
-        "assists": 2,
-        "errors": 1,
-        "fieldingPercentage": 0.75,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 1,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 4
-      },
-      "evaluation": {
-        "score": 11,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 32.48337028824834,
-          "Command": 25.999999999999996,
-          "Damage suppression": 0
-        },
-        "summary": "Cade Nelson gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 5.27",
-          "WHIP 1.28",
-          "K/9 7.6"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.27"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.28"
-          },
-          {
-            "label": "K/9",
-            "value": "7.6"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.3"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.66"
-          },
-          {
-            "label": "IP",
-            "value": "27.3"
-          }
-        ],
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "TCU Athletics roster + TCU cumulative stats"
-      }
-    },
-    {
-      "id": "tcu-18363",
-      "schoolSlug": "tcu",
-      "school": "TCU",
-      "schoolLongName": "Texas Christian University",
-      "name": "Ethan Thomas",
-      "normalizedName": "ethan thomas",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "SO",
-      "handedness": "R/R",
-      "jersey": "35",
-      "hometown": "Alameda, Calif.",
-      "highSchool": "Alameda H.S.",
-      "previousSchool": "Hawai’i",
-      "hometownHighSchool": "Alameda, Calif. / Alameda H.S.",
-      "profileUrl": "https://gofrogs.com/sports/baseball/roster/ethan-thomas/18363",
-      "imageUrl": "https://gofrogs.com/images/2025/11/20/_0005_35_-_Ethan_Thomas.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "18363",
-      "sources": [
-        "TCU Athletics roster",
-        "TCU cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "18363",
-        "name": "Ethan Thomas",
-        "normalizedName": "ethan thomas",
-        "jersey": "35",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/ethan-thomas/18363",
-        "imageUrl": "https://gofrogs.com/images/2025/11/20/_0005_35_-_Ethan_Thomas.jpg",
-        "gamesPlayed": 6,
-        "gamesStarted": 0,
-        "appearances": 6,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 7.43,
-        "whip": 1.88,
-        "wins": 2,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 13.333333333333334,
-        "inningsPitchedDisplay": "13.1",
-        "hitsAllowed": 16,
-        "runsAllowed": 12,
-        "earnedRunsAllowed": 11,
-        "walksAllowed": 9,
-        "strikeouts": 17,
-        "doublesAllowed": 1,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 3,
-        "opponentsAtBats": 55,
-        "wildPitches": 0,
-        "hitBatters": 1,
-        "balks": 0,
-        "opponentsBattingAverage": 0.291,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "18363",
-        "name": "Ethan Thomas",
-        "normalizedName": "ethan thomas",
-        "jersey": "35",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/ethan-thomas/18363",
-        "imageUrl": "https://gofrogs.com/images/2025/11/20/_0005_35_-_Ethan_Thomas.jpg",
-        "gamesPlayed": 1,
-        "gamesStarted": 0,
-        "putouts": 0,
-        "assists": 1,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 1
-      },
-      "evaluation": {
-        "score": 16,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 67.95454545454545,
-          "Command": 17.777777777777782,
-          "Damage suppression": 0
-        },
-        "summary": "Ethan Thomas looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 7.43",
-          "WHIP 1.88",
-          "K/9 11.5"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "7.43"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.88"
-          },
-          {
-            "label": "K/9",
-            "value": "11.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "6.1"
-          },
-          {
-            "label": "HR/9",
-            "value": "2.02"
-          },
-          {
-            "label": "IP",
-            "value": "13.3"
-          }
-        ],
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "TCU Athletics roster + TCU cumulative stats"
-      }
-    },
-    {
-      "id": "tcu-18352",
-      "schoolSlug": "tcu",
-      "school": "TCU",
-      "schoolLongName": "Texas Christian University",
-      "name": "Uli Fernsler",
-      "normalizedName": "uli fernsler",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "",
-      "classYear": "FR",
-      "handedness": "L/L",
-      "jersey": "41",
-      "hometown": "Novi, Mich.",
-      "highSchool": "Novi H.S.",
-      "previousSchool": "",
-      "hometownHighSchool": "Novi, Mich. / Novi H.S.",
-      "profileUrl": "https://gofrogs.com/sports/baseball/roster/uli-fernsler/18352",
-      "imageUrl": "https://gofrogs.com/images/2025/11/20/_0004_41_-_Uli_Fernsler.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "18352",
-      "sources": [
-        "TCU Athletics roster",
-        "TCU cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "18352",
-        "name": "Uli Fernsler",
-        "normalizedName": "uli fernsler",
-        "jersey": "41",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/uli-fernsler/18352",
-        "imageUrl": "https://gofrogs.com/images/2025/11/20/_0004_41_-_Uli_Fernsler.jpg",
-        "gamesPlayed": 4,
-        "gamesStarted": 4,
-        "appearances": 4,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 10.8,
-        "whip": 2.28,
-        "wins": 1,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 8.333333333333334,
-        "inningsPitchedDisplay": "8.1",
-        "hitsAllowed": 13,
-        "runsAllowed": 11,
-        "earnedRunsAllowed": 10,
-        "walksAllowed": 6,
-        "strikeouts": 5,
-        "doublesAllowed": 1,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 4,
-        "opponentsAtBats": 35,
-        "wildPitches": 0,
-        "hitBatters": 3,
-        "balks": 0,
-        "opponentsBattingAverage": 0.371,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "18352",
-        "name": "Uli Fernsler",
-        "normalizedName": "uli fernsler",
-        "jersey": "41",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/uli-fernsler/18352",
-        "imageUrl": "https://gofrogs.com/images/2025/11/20/_0004_41_-_Uli_Fernsler.jpg",
-        "gamesPlayed": 2,
-        "gamesStarted": 2,
-        "putouts": 0,
-        "assists": 2,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 2
-      },
-      "evaluation": {
-        "score": 3,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 12.727272727272723,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Uli Fernsler gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 10.80",
-          "WHIP 2.28",
-          "K/9 5.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "10.80"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.28"
-          },
-          {
-            "label": "K/9",
-            "value": "5.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "6.5"
-          },
-          {
-            "label": "HR/9",
-            "value": "4.32"
-          },
-          {
-            "label": "IP",
-            "value": "8.3"
-          }
-        ],
-        "metaLine": "FR / L/L",
-        "detailBadges": [
-          "LHP",
-          "FR",
-          "L/L",
-          "Pitcher"
-        ],
-        "sourceSummary": "TCU Athletics roster + TCU cumulative stats"
-      }
-    },
-    {
-      "id": "tcu-18348",
-      "schoolSlug": "tcu",
-      "school": "TCU",
-      "schoolLongName": "Texas Christian University",
-      "name": "Lance Davis",
-      "normalizedName": "lance davis",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "R-FR",
-      "handedness": "R/R",
-      "jersey": "45",
-      "hometown": "Jonesboro, Ark.",
-      "highSchool": "Valley View H.S.",
-      "previousSchool": "Arkansas",
-      "hometownHighSchool": "Jonesboro, Ark. / Valley View H.S.",
-      "profileUrl": "https://gofrogs.com/sports/baseball/roster/lance-davis/18348",
-      "imageUrl": "https://gofrogs.com/images/2025/11/20/_0003_45_-_Lance_Davis.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "18348",
-      "sources": [
-        "TCU Athletics roster",
-        "TCU cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "18348",
-        "name": "Lance Davis",
-        "normalizedName": "lance davis",
-        "jersey": "45",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/lance-davis/18348",
-        "imageUrl": "https://gofrogs.com/images/2025/11/20/_0003_45_-_Lance_Davis.jpg",
-        "gamesPlayed": 14,
-        "gamesStarted": 14,
-        "appearances": 14,
-        "gamesCompleted": 2,
-        "earnedRunAverage": 3.71,
-        "whip": 1.09,
-        "wins": 5,
-        "losses": 3,
-        "saves": 0,
-        "shutouts": 1,
-        "inningsPitched": 80,
-        "inningsPitchedDisplay": "80.0",
-        "hitsAllowed": 70,
-        "runsAllowed": 36,
-        "earnedRunsAllowed": 33,
-        "walksAllowed": 17,
-        "strikeouts": 51,
-        "doublesAllowed": 10,
-        "triplesAllowed": 2,
-        "homeRunsAllowed": 7,
-        "opponentsAtBats": 296,
-        "wildPitches": 1,
-        "hitBatters": 10,
-        "balks": 1,
-        "opponentsBattingAverage": 0.236,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "18348",
-        "name": "Lance Davis",
-        "normalizedName": "lance davis",
-        "jersey": "45",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/lance-davis/18348",
-        "imageUrl": "https://gofrogs.com/images/2025/11/20/_0003_45_-_Lance_Davis.jpg",
-        "gamesPlayed": 13,
-        "gamesStarted": 13,
-        "putouts": 5,
-        "assists": 12,
-        "errors": 1,
-        "fieldingPercentage": 0.944,
-        "doublePlays": 1,
-        "stolenBasesAgainst": 6,
-        "caughtStealingBy": 2,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 18
-      },
-      "evaluation": {
-        "score": 10,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 15.795454545454543,
-          "Command": 39.99999999999999,
-          "Damage suppression": 0
-        },
-        "summary": "Lance Davis looks like a RHP option who limits runs and throws enough strikes and keeps traffic under control.",
-        "summaryMetrics": [
-          "ERA 3.71",
-          "WHIP 1.09",
-          "K/9 5.7"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.71"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.09"
-          },
-          {
-            "label": "K/9",
-            "value": "5.7"
-          },
-          {
-            "label": "BB/9",
-            "value": "1.9"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.79"
-          },
-          {
-            "label": "IP",
-            "value": "80.0"
-          }
-        ],
-        "metaLine": "R-FR / R/R",
-        "detailBadges": [
-          "RHP",
-          "R-FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "TCU Athletics roster + TCU cumulative stats"
-      }
-    },
-    {
-      "id": "tcu-18361",
-      "schoolSlug": "tcu",
-      "school": "TCU",
-      "schoolLongName": "Texas Christian University",
-      "name": "Nate Stern",
-      "normalizedName": "nate stern",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "SO",
-      "handedness": "N/A",
-      "jersey": "48",
-      "hometown": "Los Angeles, Calif.",
-      "highSchool": "Loyola HS",
-      "previousSchool": "",
-      "hometownHighSchool": "Los Angeles, Calif. / Loyola HS",
-      "profileUrl": "https://gofrogs.com/sports/baseball/roster/nate-stern/18361",
-      "imageUrl": "https://gofrogs.com/images/2025/11/20/_0002_48_-_Nate_Stern.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "18361",
-      "sources": [
-        "TCU Athletics roster",
-        "TCU cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "18361",
-        "name": "Nate Stern",
-        "normalizedName": "nate stern",
-        "jersey": "48",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/nate-stern/18361",
-        "imageUrl": "https://gofrogs.com/images/2025/11/20/_0002_48_-_Nate_Stern.jpg",
-        "gamesPlayed": 20,
-        "gamesStarted": 0,
-        "appearances": 20,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 3.26,
-        "whip": 1.58,
-        "wins": 3,
-        "losses": 2,
-        "saves": 1,
-        "shutouts": 0,
-        "inningsPitched": 30.333333333333332,
-        "inningsPitchedDisplay": "30.1",
-        "hitsAllowed": 27,
-        "runsAllowed": 11,
-        "earnedRunsAllowed": 11,
-        "walksAllowed": 21,
-        "strikeouts": 38,
-        "doublesAllowed": 6,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 4,
-        "opponentsAtBats": 110,
-        "wildPitches": 4,
-        "hitBatters": 1,
-        "balks": 0,
-        "opponentsBattingAverage": 0.245,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "18361",
-        "name": "Nate Stern",
-        "normalizedName": "nate stern",
-        "jersey": "48",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/nate-stern/18361",
-        "imageUrl": "https://gofrogs.com/images/2025/11/20/_0002_48_-_Nate_Stern.jpg",
-        "gamesPlayed": 7,
-        "gamesStarted": 0,
-        "putouts": 4,
-        "assists": 2,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 1,
-        "stolenBasesAgainst": 1,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 6
-      },
-      "evaluation": {
-        "score": 16,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 66.13386613386614,
-          "Command": 16.19047619047619,
-          "Damage suppression": 0
-        },
-        "summary": "Nate Stern looks like a RHP option who limits runs and misses bats.",
-        "summaryMetrics": [
-          "ERA 3.26",
-          "WHIP 1.58",
-          "K/9 11.3"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.26"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.58"
-          },
-          {
-            "label": "K/9",
-            "value": "11.3"
-          },
-          {
-            "label": "BB/9",
-            "value": "6.2"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.19"
-          },
-          {
-            "label": "IP",
-            "value": "30.3"
-          }
-        ],
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "N/A",
-          "Pitcher"
-        ],
-        "sourceSummary": "TCU Athletics roster + TCU cumulative stats"
-      }
-    },
-    {
-      "id": "tcu-18358",
-      "schoolSlug": "tcu",
-      "school": "TCU",
-      "schoolLongName": "Texas Christian University",
-      "name": "Tommy LaPour",
-      "normalizedName": "tommy lapour",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "JR",
-      "handedness": "N/A",
-      "jersey": "49",
-      "hometown": "Blue Springs, Mo.",
-      "highSchool": "Blue Springs South HS",
-      "previousSchool": "Wichita State",
-      "hometownHighSchool": "Blue Springs, Mo. / Blue Springs South HS",
-      "profileUrl": "https://gofrogs.com/sports/baseball/roster/tommy-lapour/18358",
-      "imageUrl": "https://gofrogs.com/images/2025/11/20/_0001_49_-_Tommy_LaPour.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "18358",
-      "sources": [
-        "TCU Athletics roster",
-        "TCU cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "18358",
-        "name": "Tommy LaPour",
-        "normalizedName": "tommy lapour",
-        "jersey": "49",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/tommy-lapour/18358",
-        "imageUrl": "https://gofrogs.com/images/2025/11/20/_0001_49_-_Tommy_LaPour.jpg",
-        "gamesPlayed": 6,
-        "gamesStarted": 4,
-        "appearances": 6,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 6.35,
-        "whip": 1.65,
-        "wins": 1,
-        "losses": 3,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 17,
-        "inningsPitchedDisplay": "17.0",
-        "hitsAllowed": 18,
-        "runsAllowed": 12,
-        "earnedRunsAllowed": 12,
-        "walksAllowed": 10,
-        "strikeouts": 17,
-        "doublesAllowed": 5,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 3,
-        "opponentsAtBats": 65,
-        "wildPitches": 2,
-        "hitBatters": 2,
-        "balks": 0,
-        "opponentsBattingAverage": 0.277,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "18358",
-        "name": "Tommy LaPour",
-        "normalizedName": "tommy lapour",
-        "jersey": "49",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/tommy-lapour/18358",
-        "imageUrl": "https://gofrogs.com/images/2025/11/20/_0001_49_-_Tommy_LaPour.jpg",
-        "gamesPlayed": 3,
-        "gamesStarted": 3,
-        "putouts": 2,
-        "assists": 2,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 4
-      },
-      "evaluation": {
-        "score": 11,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
-          "Command": 13.999999999999998,
-          "Damage suppression": 0
-        },
-        "summary": "Tommy LaPour looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 6.35",
-          "WHIP 1.65",
-          "K/9 9.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "6.35"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.65"
-          },
-          {
-            "label": "K/9",
-            "value": "9.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.3"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.59"
-          },
-          {
-            "label": "IP",
-            "value": "17.0"
-          }
-        ],
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "N/A",
-          "Pitcher"
-        ],
-        "sourceSummary": "TCU Athletics roster + TCU cumulative stats"
-      }
-    },
-    {
-      "id": "tcu-17994",
-      "schoolSlug": "tcu",
-      "school": "TCU",
-      "schoolLongName": "Texas Christian University",
-      "name": "Walter Quinn",
-      "normalizedName": "walter quinn",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "SR",
-      "handedness": "R/R",
-      "jersey": "55",
-      "hometown": "Simi Valley, Calif.",
-      "highSchool": "",
-      "previousSchool": "Grand Canyon",
-      "hometownHighSchool": "Simi Valley, Calif.",
-      "profileUrl": "https://gofrogs.com/sports/baseball/roster/walter-quinn/17994",
-      "imageUrl": "https://gofrogs.com/images/2025/11/20/_0000_55_-_Walter_Quinn.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "17994",
       "sources": [
         "TCU Athletics roster"
       ],
@@ -3979,7 +3115,7 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Walter Quinn looks like a RHP option who throws enough strikes.",
+        "summary": "Cade Nelson looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -4011,11 +3147,715 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "SR / R/R",
+        "metaLine": "SO / N/A",
+        "detailBadges": [
+          "RHP",
+          "SO",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "TCU Athletics roster"
+      }
+    },
+    {
+      "id": "tcu-19310",
+      "schoolSlug": "tcu",
+      "school": "TCU",
+      "schoolLongName": "Texas Christian University",
+      "name": "Logan Corley",
+      "normalizedName": "logan corley",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP/INF",
+      "positionLong": "",
+      "classYear": "FR",
+      "handedness": "N/A",
+      "jersey": "36",
+      "hometown": "Lucas, Texas",
+      "highSchool": "Lovejoy HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Lucas, Texas / Lovejoy HS",
+      "profileUrl": "https://gofrogs.com/sports/baseball/roster/logan-corley/19310",
+      "imageUrl": "https://gofrogs.com/images/2026/9/21/_0007_36_-_Logan_Corley.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "19310",
+      "sources": [
+        "TCU Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Logan Corley looks like a LHP/INF option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "LHP/INF",
+          "FR",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "TCU Athletics roster"
+      }
+    },
+    {
+      "id": "tcu-19311",
+      "schoolSlug": "tcu",
+      "school": "TCU",
+      "schoolLongName": "Texas Christian University",
+      "name": "JB Manarchuck",
+      "normalizedName": "jb manarchuck",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "5TH",
+      "handedness": "N/A",
+      "jersey": "38",
+      "hometown": "Burke, Va.",
+      "highSchool": "Lake Braddock HS",
+      "previousSchool": "Mount Saint Mary's",
+      "hometownHighSchool": "Burke, Va. / Lake Braddock HS",
+      "profileUrl": "https://gofrogs.com/sports/baseball/roster/jb-manarchuck/19311",
+      "imageUrl": "https://gofrogs.com/images/2026/9/21/_0006_38_-_JB_Manarchuck.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "19311",
+      "sources": [
+        "TCU Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "JB Manarchuck looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "5TH / N/A",
+        "detailBadges": [
+          "RHP",
+          "5TH",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "TCU Athletics roster"
+      }
+    },
+    {
+      "id": "tcu-18352",
+      "schoolSlug": "tcu",
+      "school": "TCU",
+      "schoolLongName": "Texas Christian University",
+      "name": "Uli Fernsler",
+      "normalizedName": "uli fernsler",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "",
+      "classYear": "SO",
+      "handedness": "N/A",
+      "jersey": "41",
+      "hometown": "Novi, Mich.",
+      "highSchool": "Novi HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Novi, Mich. / Novi HS",
+      "profileUrl": "https://gofrogs.com/sports/baseball/roster/uli-fernsler/18352",
+      "imageUrl": "https://gofrogs.com/images/2026/9/21/_0005_41_-_Uli_Fernsler.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "18352",
+      "sources": [
+        "TCU Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Uli Fernsler looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "SO / N/A",
+        "detailBadges": [
+          "LHP",
+          "SO",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "TCU Athletics roster"
+      }
+    },
+    {
+      "id": "tcu-18348",
+      "schoolSlug": "tcu",
+      "school": "TCU",
+      "schoolLongName": "Texas Christian University",
+      "name": "Lance Davis",
+      "normalizedName": "lance davis",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "N/A",
+      "jersey": "45",
+      "hometown": "Jonesboro, Ark.",
+      "highSchool": "Valley View HS",
+      "previousSchool": "Arkansas",
+      "hometownHighSchool": "Jonesboro, Ark. / Valley View HS",
+      "profileUrl": "https://gofrogs.com/sports/baseball/roster/lance-davis/18348",
+      "imageUrl": "https://gofrogs.com/images/2026/9/21/_0004_45_-_Lance_Davis.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "18348",
+      "sources": [
+        "TCU Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Lance Davis looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "TCU Athletics roster"
+      }
+    },
+    {
+      "id": "tcu-19312",
+      "schoolSlug": "tcu",
+      "school": "TCU",
+      "schoolLongName": "Texas Christian University",
+      "name": "Travis Sample",
+      "normalizedName": "travis sample",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "",
+      "classYear": "FR",
+      "handedness": "N/A",
+      "jersey": "47",
+      "hometown": "Mansfield, Texas",
+      "highSchool": "Mansfield HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Mansfield, Texas / Mansfield HS",
+      "profileUrl": "https://gofrogs.com/sports/baseball/roster/travis-sample/19312",
+      "imageUrl": "https://gofrogs.com/images/2026/9/21/_0003_47_-_Travis_Sample.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "19312",
+      "sources": [
+        "TCU Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Travis Sample looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "LHP",
+          "FR",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "TCU Athletics roster"
+      }
+    },
+    {
+      "id": "tcu-18361",
+      "schoolSlug": "tcu",
+      "school": "TCU",
+      "schoolLongName": "Texas Christian University",
+      "name": "Nate Stern",
+      "normalizedName": "nate stern",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "N/A",
+      "jersey": "48",
+      "hometown": "Los Angeles, Calif.",
+      "highSchool": "Loyola HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Los Angeles, Calif. / Loyola HS",
+      "profileUrl": "https://gofrogs.com/sports/baseball/roster/nate-stern/18361",
+      "imageUrl": "https://gofrogs.com/images/2026/9/21/_0002_48_-_Nate_Stern.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "18361",
+      "sources": [
+        "TCU Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Nate Stern looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "TCU Athletics roster"
+      }
+    },
+    {
+      "id": "tcu-19313",
+      "schoolSlug": "tcu",
+      "school": "TCU",
+      "schoolLongName": "Texas Christian University",
+      "name": "Stevie Jones",
+      "normalizedName": "stevie jones",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "",
+      "classYear": "FR",
+      "handedness": "N/A",
+      "jersey": "50",
+      "hometown": "Newport Beach, Calif.",
+      "highSchool": "Corona Del Mar HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Newport Beach, Calif. / Corona Del Mar HS",
+      "profileUrl": "https://gofrogs.com/sports/baseball/roster/stevie-jones/19313",
+      "imageUrl": "https://gofrogs.com/images/2026/9/21/_0001_50_-_Stevie_Jones.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "19313",
+      "sources": [
+        "TCU Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Stevie Jones looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "LHP",
+          "FR",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "TCU Athletics roster"
+      }
+    },
+    {
+      "id": "tcu-19314",
+      "schoolSlug": "tcu",
+      "school": "TCU",
+      "schoolLongName": "Texas Christian University",
+      "name": "Nicholas Robb",
+      "normalizedName": "nicholas robb",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "SR",
+      "handedness": "N/A",
+      "jersey": "55",
+      "hometown": "Keller, Texas",
+      "highSchool": "Keller HS",
+      "previousSchool": "Grand Canyon",
+      "hometownHighSchool": "Keller, Texas / Keller HS",
+      "profileUrl": "https://gofrogs.com/sports/baseball/roster/nicholas-robb/19314",
+      "imageUrl": "https://gofrogs.com/images/2026/9/21/_0000_55_-_Nicholas_Robb.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "19314",
+      "sources": [
+        "TCU Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Nicholas Robb looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "SR / N/A",
         "detailBadges": [
           "RHP",
           "SR",
-          "R/R",
+          "N/A",
           "Pitcher"
         ],
         "sourceSummary": "TCU Athletics roster"
@@ -4025,15 +3865,83 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
   "playerBoard": {
     "source": "TCU Athletics roster + cumulative stats / ESPN roster",
     "note": "This TCU-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but TCU's public ESPN roster feed did not line up cleanly with the current school-site roster.",
-    "totalPlayers": 34,
+    "totalPlayers": 42,
     "roleCounts": {
-      "Hitter": 15,
-      "Pitcher": 19
+      "Hitter": 17,
+      "Pitcher": 25
     },
     "players": [
       {
-        "id": "tcu-17709",
-        "name": "Jack Bell",
+        "id": "tcu-19288",
+        "name": "Yusei Uzawa",
+        "school": "TCU",
+        "role": "Hitter",
+        "position": "UT",
+        "classYear": "JR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Yusei Uzawa gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "UT",
+          "JR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "TCU Athletics roster"
+        ],
+        "sourceSummary": "TCU Athletics roster",
+        "schoolSlug": "tcu",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gofrogs.com/sports/baseball/roster/yusei-uzawa/19288",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "tcu-19287",
+        "name": "Beckett Zavorek",
         "school": "TCU",
         "role": "Hitter",
         "position": "INF",
@@ -4044,7 +3952,7 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Jack Bell gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Beckett Zavorek gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG --",
           "OBP --",
@@ -4096,16 +4004,16 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "sourceSummary": "TCU Athletics roster",
         "schoolSlug": "tcu",
         "compositeRole": "Rostered",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/jack-bell/17709",
+        "profileUrl": "https://gofrogs.com/sports/baseball/roster/beckett-zavorek/19287",
         "espnAthleteId": ""
       },
       {
-        "id": "tcu-17718",
+        "id": "tcu-19286",
         "name": "Preston Gamster",
         "school": "TCU",
         "role": "Hitter",
         "position": "INF",
-        "classYear": "SR",
+        "classYear": "5TH",
         "handedness": "N/A",
         "score": 0,
         "fit": {
@@ -4151,10 +4059,10 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "SR / N/A",
+        "metaLine": "5TH / N/A",
         "detailBadges": [
           "INF",
-          "SR",
+          "5TH",
           "N/A",
           "Rostered"
         ],
@@ -4164,7 +4072,7 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "sourceSummary": "TCU Athletics roster",
         "schoolSlug": "tcu",
         "compositeRole": "Rostered",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/preston-gamster/17718",
+        "profileUrl": "https://gofrogs.com/sports/baseball/roster/preston-gamster/19286",
         "espnAthleteId": ""
       },
       {
@@ -4173,7 +4081,7 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "school": "TCU",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "SO",
+        "classYear": "JR",
         "handedness": "N/A",
         "score": 0,
         "fit": {
@@ -4219,10 +4127,10 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SO / N/A",
+        "metaLine": "JR / N/A",
         "detailBadges": [
           "RHP",
-          "SO",
+          "JR",
           "N/A",
           "Pitcher"
         ],
@@ -4236,19 +4144,19 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "tcu-17996",
-        "name": "CJ Mascaro",
+        "id": "tcu-19289",
+        "name": "Brody Schumaker",
         "school": "TCU",
         "role": "Hitter",
-        "position": "OF",
+        "position": "INF",
         "classYear": "FR",
-        "handedness": "L/L",
+        "handedness": "N/A",
         "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "CJ Mascaro gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Brody Schumaker gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG --",
           "OBP --",
@@ -4287,11 +4195,11 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "FR / L/L",
+        "metaLine": "FR / N/A",
         "detailBadges": [
-          "OF",
+          "INF",
           "FR",
-          "L/L",
+          "N/A",
           "Rostered"
         ],
         "leaderboards": [
@@ -4300,7 +4208,7 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "sourceSummary": "TCU Athletics roster",
         "schoolSlug": "tcu",
         "compositeRole": "Rostered",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/cj-mascaro/17996",
+        "profileUrl": "https://gofrogs.com/sports/baseball/roster/brody-schumaker/19289",
         "espnAthleteId": ""
       },
       {
@@ -4309,66 +4217,65 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "school": "TCU",
         "role": "Hitter",
         "position": "INF",
-        "classYear": "FR",
-        "handedness": "L/R",
-        "score": 11,
+        "classYear": "SO",
+        "handedness": "N/A",
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Lucas Franco gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .197",
-          "OBP .313",
-          "SLG .303"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".197"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".313"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".303"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "3"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "22"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "2"
+            "value": "0"
           }
         ],
         "components": {
-          "On-base": 18.333333333333318,
+          "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 33.33333333333333,
-          "Speed": 6.666666666666667
+          "Discipline": 0,
+          "Speed": 0
         },
-        "metaLine": "FR / L/R",
+        "metaLine": "SO / N/A",
         "detailBadges": [
           "INF",
-          "FR",
-          "L/R",
-          "Hitter"
+          "SO",
+          "N/A",
+          "Rostered"
         ],
         "leaderboards": [
-          "TCU Athletics roster",
-          "TCU cumulative stats"
+          "TCU Athletics roster"
         ],
-        "sourceSummary": "TCU Athletics roster + TCU cumulative stats",
+        "sourceSummary": "TCU Athletics roster",
         "schoolSlug": "tcu",
-        "compositeRole": "Hitter",
+        "compositeRole": "Rostered",
         "profileUrl": "https://gofrogs.com/sports/baseball/roster/lucas-franco/18353",
         "espnAthleteId": ""
       },
@@ -4378,219 +4285,14 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "school": "TCU",
         "role": "Pitcher",
         "position": "LHP/UT",
-        "classYear": "SO",
-        "handedness": "N/A",
-        "score": 16,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Noah Franco looks like a LHP/UT option who misses bats.",
-        "summaryMetrics": [
-          "ERA 7.20",
-          "WHIP 1.87",
-          "K/9 11.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "7.20"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.87"
-          },
-          {
-            "label": "K/9",
-            "value": "11.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "6.6"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.20"
-          },
-          {
-            "label": "IP",
-            "value": "15.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 67.27272727272727,
-          "Command": 14.54545454545455,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "LHP/UT",
-          "SO",
-          "N/A",
-          "Two-Way"
-        ],
-        "leaderboards": [
-          "TCU Athletics roster",
-          "TCU cumulative stats"
-        ],
-        "sourceSummary": "TCU Athletics roster + TCU cumulative stats",
-        "schoolSlug": "tcu",
-        "compositeRole": "Two-Way",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/noah-franco/18354",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "tcu-17713",
-        "name": "Cole Cramer",
-        "school": "TCU",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "GR",
+        "classYear": "JR",
         "handedness": "N/A",
         "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Cole Cramer gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "GR / N/A",
-        "detailBadges": [
-          "INF",
-          "GR",
-          "N/A",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "TCU Athletics roster"
-        ],
-        "sourceSummary": "TCU Athletics roster",
-        "schoolSlug": "tcu",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/cole-cramer/17713",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "tcu-17997",
-        "name": "Lane Hutchinson",
-        "school": "TCU",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "GR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Lane Hutchinson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "GR / R/R",
-        "detailBadges": [
-          "INF",
-          "GR",
-          "R/R",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "TCU Athletics roster"
-        ],
-        "sourceSummary": "TCU Athletics roster",
-        "schoolSlug": "tcu",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/lane-hutchinson/17997",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "tcu-17708",
-        "name": "Trever Baumler",
-        "school": "TCU",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Trever Baumler looks like a RHP option who throws enough strikes.",
+        "summary": "Noah Franco looks like a LHP/UT option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -4629,10 +4331,10 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SO / N/A",
+        "metaLine": "JR / N/A",
         "detailBadges": [
-          "RHP",
-          "SO",
+          "LHP/UT",
+          "JR",
           "N/A",
           "Pitcher"
         ],
@@ -4642,161 +4344,23 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "sourceSummary": "TCU Athletics roster",
         "schoolSlug": "tcu",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/trever-baumler/17708",
+        "profileUrl": "https://gofrogs.com/sports/baseball/roster/noah-franco/18354",
         "espnAthleteId": ""
       },
       {
-        "id": "tcu-18362",
-        "name": "Sawyer Strosnider",
-        "school": "TCU",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "SO",
-        "handedness": "N/A",
-        "score": 65,
-        "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
-        },
-        "summary": "Sawyer Strosnider profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and controls at-bats and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .273",
-          "OBP .415",
-          "SLG .590"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".273"
-          },
-          {
-            "label": "OBP",
-            "value": ".415"
-          },
-          {
-            "label": "SLG",
-            "value": ".590"
-          },
-          {
-            "label": "HR",
-            "value": "13"
-          },
-          {
-            "label": "RBI",
-            "value": "47"
-          },
-          {
-            "label": "SB",
-            "value": "12"
-          }
-        ],
-        "components": {
-          "On-base": 74.99999999999997,
-          "Power": 71.05263157894737,
-          "Contact": 33.12500000000001,
-          "Discipline": 88.88888888888889,
-          "Speed": 40
-        },
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "OF",
-          "SO",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "TCU Athletics roster",
-          "TCU cumulative stats"
-        ],
-        "sourceSummary": "TCU Athletics roster + TCU cumulative stats",
-        "schoolSlug": "tcu",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/sawyer-strosnider/18362",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "tcu-18356",
-        "name": "Colton Griffin",
-        "school": "TCU",
-        "role": "Hitter",
-        "position": "UT",
-        "classYear": "JR",
-        "handedness": "N/A",
-        "score": 47,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Colton Griffin profiles as a UT piece who controls at-bats and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .289",
-          "OBP .398",
-          "SLG .359"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".289"
-          },
-          {
-            "label": "OBP",
-            "value": ".398"
-          },
-          {
-            "label": "SLG",
-            "value": ".359"
-          },
-          {
-            "label": "HR",
-            "value": "1"
-          },
-          {
-            "label": "RBI",
-            "value": "18"
-          },
-          {
-            "label": "SB",
-            "value": "10"
-          }
-        ],
-        "components": {
-          "On-base": 65.55555555555556,
-          "Power": 10.263157894736837,
-          "Contact": 43.124999999999986,
-          "Discipline": 88.88888888888889,
-          "Speed": 33.33333333333333
-        },
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "UT",
-          "JR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "TCU Athletics roster",
-          "TCU cumulative stats"
-        ],
-        "sourceSummary": "TCU Athletics roster + TCU cumulative stats",
-        "schoolSlug": "tcu",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/colton-griffin/18356",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "tcu-18005",
-        "name": "Kyuss Gargett",
+        "id": "tcu-19290",
+        "name": "Bammer Maes",
         "school": "TCU",
         "role": "Hitter",
         "position": "INF",
-        "classYear": "JR",
-        "handedness": "B/R",
+        "classYear": "SO",
+        "handedness": "N/A",
         "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Kyuss Gargett gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Bammer Maes gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG --",
           "OBP --",
@@ -4835,11 +4399,11 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "JR / B/R",
+        "metaLine": "SO / N/A",
         "detailBadges": [
           "INF",
-          "JR",
-          "B/R",
+          "SO",
+          "N/A",
           "Rostered"
         ],
         "leaderboards": [
@@ -4848,36 +4412,172 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "sourceSummary": "TCU Athletics roster",
         "schoolSlug": "tcu",
         "compositeRole": "Rostered",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/kyuss-gargett/18005",
+        "profileUrl": "https://gofrogs.com/sports/baseball/roster/bammer-maes/19290",
         "espnAthleteId": ""
       },
       {
-        "id": "tcu-18350",
-        "name": "Cole Eaton",
+        "id": "tcu-19291",
+        "name": "Ryan Bradford",
         "school": "TCU",
-        "role": "Pitcher",
-        "position": "OF/RHP",
-        "classYear": "R-SO",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "SO",
         "handedness": "N/A",
         "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Cole Eaton gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Ryan Bradford gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 27.00",
-          "WHIP 5.57",
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "SO / N/A",
+        "detailBadges": [
+          "OF",
+          "SO",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "TCU Athletics roster"
+        ],
+        "sourceSummary": "TCU Athletics roster",
+        "schoolSlug": "tcu",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gofrogs.com/sports/baseball/roster/ryan-bradford/19291",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "tcu-19292",
+        "name": "Andrew Ermis",
+        "school": "TCU",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "SR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Andrew Ermis gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "SR / N/A",
+        "detailBadges": [
+          "C",
+          "SR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "TCU Athletics roster"
+        ],
+        "sourceSummary": "TCU Athletics roster",
+        "schoolSlug": "tcu",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gofrogs.com/sports/baseball/roster/andrew-ermis/19292",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "tcu-19293",
+        "name": "Collin Clarke",
+        "school": "TCU",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Collin Clarke looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
           "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "27.00"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "5.57"
+            "value": "--"
           },
           {
             "label": "K/9",
@@ -4885,7 +4585,7 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
           },
           {
             "label": "BB/9",
-            "value": "34.7"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
@@ -4893,7 +4593,7 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
           },
           {
             "label": "IP",
-            "value": "2.3"
+            "value": "0.0"
           }
         ],
         "components": {
@@ -4903,95 +4603,365 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "R-SO / N/A",
+        "metaLine": "SR / N/A",
         "detailBadges": [
-          "OF/RHP",
-          "R-SO",
+          "RHP",
+          "SR",
           "N/A",
-          "Two-Way"
+          "Pitcher"
         ],
         "leaderboards": [
-          "TCU Athletics roster",
-          "TCU cumulative stats"
+          "TCU Athletics roster"
         ],
-        "sourceSummary": "TCU Athletics roster + TCU cumulative stats",
+        "sourceSummary": "TCU Athletics roster",
         "schoolSlug": "tcu",
-        "compositeRole": "Two-Way",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/cole-eaton/18350",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gofrogs.com/sports/baseball/roster/collin-clarke/19293",
         "espnAthleteId": ""
       },
       {
-        "id": "tcu-18347",
-        "name": "Chase Brunson",
+        "id": "tcu-18356",
+        "name": "Colton Griffin",
         "school": "TCU",
         "role": "Hitter",
-        "position": "OF",
-        "classYear": "JR",
+        "position": "UT",
+        "classYear": "SR",
         "handedness": "N/A",
-        "score": 71,
+        "score": 0,
         "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
+          "label": "Depth",
+          "className": "fit-depth"
         },
-        "summary": "Chase Brunson profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
+        "summary": "Colton Griffin gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .304",
-          "OBP .462",
-          "SLG .556"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".304"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".462"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".556"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "10"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "51"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "13"
+            "value": "0"
           }
         ],
         "components": {
-          "On-base": 100,
-          "Power": 62.105263157894754,
-          "Contact": 52.49999999999999,
-          "Discipline": 65.07936507936506,
-          "Speed": 43.333333333333336
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "metaLine": "JR / N/A",
+        "metaLine": "SR / N/A",
         "detailBadges": [
-          "OF",
-          "JR",
+          "UT",
+          "SR",
           "N/A",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "TCU Athletics roster",
-          "TCU cumulative stats"
+          "TCU Athletics roster"
         ],
-        "sourceSummary": "TCU Athletics roster + TCU cumulative stats",
+        "sourceSummary": "TCU Athletics roster",
         "schoolSlug": "tcu",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/chase-brunson/18347",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gofrogs.com/sports/baseball/roster/colton-griffin/18356",
         "espnAthleteId": ""
       },
       {
-        "id": "tcu-17730",
-        "name": "Nolan Traeger",
+        "id": "tcu-19294",
+        "name": "Trace Mazon",
+        "school": "TCU",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "SR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Trace Mazon gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "SR / N/A",
+        "detailBadges": [
+          "INF",
+          "SR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "TCU Athletics roster"
+        ],
+        "sourceSummary": "TCU Athletics roster",
+        "schoolSlug": "tcu",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gofrogs.com/sports/baseball/roster/trace-mazon/19294",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "tcu-18350",
+        "name": "Cole Eaton",
+        "school": "TCU",
+        "role": "Pitcher",
+        "position": "OF/RHP",
+        "classYear": "SR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Cole Eaton looks like a OF/RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / N/A",
+        "detailBadges": [
+          "OF/RHP",
+          "SR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "TCU Athletics roster"
+        ],
+        "sourceSummary": "TCU Athletics roster",
+        "schoolSlug": "tcu",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gofrogs.com/sports/baseball/roster/cole-eaton/18350",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "tcu-19295",
+        "name": "Kingston Kela",
+        "school": "TCU",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "FR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Kingston Kela gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "INF",
+          "FR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "TCU Athletics roster"
+        ],
+        "sourceSummary": "TCU Athletics roster",
+        "schoolSlug": "tcu",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gofrogs.com/sports/baseball/roster/kingston-kela/19295",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "tcu-19296",
+        "name": "Kason Kolle",
+        "school": "TCU",
+        "role": "Hitter",
+        "position": "C/OF",
+        "classYear": "FR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Kason Kolle gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "C/OF",
+          "FR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "TCU Athletics roster"
+        ],
+        "sourceSummary": "TCU Athletics roster",
+        "schoolSlug": "tcu",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gofrogs.com/sports/baseball/roster/kason-kolle/19296",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "tcu-19297",
+        "name": "Caleb Eagar",
         "school": "TCU",
         "role": "Hitter",
         "position": "C",
@@ -5002,7 +4972,7 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Nolan Traeger gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Caleb Eagar gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG --",
           "OBP --",
@@ -5054,228 +5024,23 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "sourceSummary": "TCU Athletics roster",
         "schoolSlug": "tcu",
         "compositeRole": "Rostered",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/nolan-traeger/17730",
+        "profileUrl": "https://gofrogs.com/sports/baseball/roster/caleb-eagar/19297",
         "espnAthleteId": ""
       },
       {
-        "id": "tcu-18001",
-        "name": "Rob Liddington",
-        "school": "TCU",
-        "role": "Hitter",
-        "position": "UT",
-        "classYear": "GR",
-        "handedness": "R/L",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Rob Liddington gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "GR / R/L",
-        "detailBadges": [
-          "UT",
-          "GR",
-          "R/L",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "TCU Athletics roster"
-        ],
-        "sourceSummary": "TCU Athletics roster",
-        "schoolSlug": "tcu",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/rob-liddington/18001",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "tcu-18357",
-        "name": "Zack James",
+        "id": "tcu-19298",
+        "name": "Jaden Bahl",
         "school": "TCU",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "SO",
-        "handedness": "N/A",
-        "score": 11,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Zack James looks like a RHP option who limits runs and throws enough strikes.",
-        "summaryMetrics": [
-          "ERA 3.64",
-          "WHIP 1.33",
-          "K/9 7.3"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.64"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.33"
-          },
-          {
-            "label": "K/9",
-            "value": "7.3"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.9"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.91"
-          },
-          {
-            "label": "IP",
-            "value": "59.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 29.826353421859043,
-          "Command": 30.526315789473678,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "TCU Athletics roster",
-          "TCU cumulative stats"
-        ],
-        "sourceSummary": "TCU Athletics roster + TCU cumulative stats",
-        "schoolSlug": "tcu",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/zack-james/18357",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "tcu-17707",
-        "name": "Jack Arthur",
-        "school": "TCU",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "R-SR",
+        "classYear": "SR",
         "handedness": "N/A",
         "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Jack Arthur gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "R-SR / N/A",
-        "detailBadges": [
-          "OF",
-          "R-SR",
-          "N/A",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "TCU Athletics roster"
-        ],
-        "sourceSummary": "TCU Athletics roster",
-        "schoolSlug": "tcu",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/jack-arthur/17707",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "tcu-17724",
-        "name": "Tyler Phenow",
-        "school": "TCU",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Tyler Phenow looks like a RHP option who throws enough strikes.",
+        "summary": "Jaden Bahl looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -5314,10 +5079,10 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SO / N/A",
+        "metaLine": "SR / N/A",
         "detailBadges": [
           "RHP",
-          "SO",
+          "SR",
           "N/A",
           "Pitcher"
         ],
@@ -5327,7 +5092,211 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "sourceSummary": "TCU Athletics roster",
         "schoolSlug": "tcu",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/tyler-phenow/17724",
+        "profileUrl": "https://gofrogs.com/sports/baseball/roster/jaden-bahl/19298",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "tcu-18357",
+        "name": "Zack James",
+        "school": "TCU",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Zack James looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "TCU Athletics roster"
+        ],
+        "sourceSummary": "TCU Athletics roster",
+        "schoolSlug": "tcu",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gofrogs.com/sports/baseball/roster/zack-james/18357",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "tcu-19299",
+        "name": "Ben Schroeder",
+        "school": "TCU",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Ben Schroeder looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "TCU Athletics roster"
+        ],
+        "sourceSummary": "TCU Athletics roster",
+        "schoolSlug": "tcu",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gofrogs.com/sports/baseball/roster/ben-schroeder/19299",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "tcu-19300",
+        "name": "Cam Staton",
+        "school": "TCU",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "SR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Cam Staton looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / N/A",
+        "detailBadges": [
+          "LHP",
+          "SR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "TCU Athletics roster"
+        ],
+        "sourceSummary": "TCU Athletics roster",
+        "schoolSlug": "tcu",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gofrogs.com/sports/baseball/roster/cam-staton/19300",
         "espnAthleteId": ""
       },
       {
@@ -5336,7 +5305,7 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "school": "TCU",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "SR",
+        "classYear": "5TH",
         "handedness": "N/A",
         "score": 0,
         "fit": {
@@ -5382,10 +5351,10 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SR / N/A",
+        "metaLine": "5TH / N/A",
         "detailBadges": [
           "RHP",
-          "SR",
+          "5TH",
           "N/A",
           "Pitcher"
         ],
@@ -5404,50 +5373,1002 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "school": "TCU",
         "role": "Pitcher",
         "position": "LHP",
-        "classYear": "SO",
+        "classYear": "JR",
         "handedness": "N/A",
-        "score": 20,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Mason Brassfield looks like a LHP option who misses bats.",
+        "summary": "Mason Brassfield looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 6.24",
-          "WHIP 1.78",
-          "K/9 12.7"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.24"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.78"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "12.7"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "5.1"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.10"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "49.0"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 78.84972170686456,
-          "Command": 29.28571428571428,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "LHP",
+          "JR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "TCU Athletics roster"
+        ],
+        "sourceSummary": "TCU Athletics roster",
+        "schoolSlug": "tcu",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gofrogs.com/sports/baseball/roster/mason-brassfield/18346",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "tcu-19301",
+        "name": "Manny Santos",
+        "school": "TCU",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Manny Santos looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "TCU Athletics roster"
+        ],
+        "sourceSummary": "TCU Athletics roster",
+        "schoolSlug": "tcu",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gofrogs.com/sports/baseball/roster/manny-santos/19301",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "tcu-19302",
+        "name": "George Gilson",
+        "school": "TCU",
+        "role": "Hitter",
+        "position": "UT",
+        "classYear": "JR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "George Gilson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "UT",
+          "JR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "TCU Athletics roster"
+        ],
+        "sourceSummary": "TCU Athletics roster",
+        "schoolSlug": "tcu",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gofrogs.com/sports/baseball/roster/george-gilson/19302",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "tcu-18345",
+        "name": "Aiden Barrientes",
+        "school": "TCU",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SO",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Aiden Barrientes looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SO / N/A",
+        "detailBadges": [
+          "RHP",
+          "SO",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "TCU Athletics roster"
+        ],
+        "sourceSummary": "TCU Athletics roster",
+        "schoolSlug": "tcu",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gofrogs.com/sports/baseball/roster/aiden-barrientes/18345",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "tcu-19303",
+        "name": "Hank Gomric",
+        "school": "TCU",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "JR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Hank Gomric gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "OF",
+          "JR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "TCU Athletics roster"
+        ],
+        "sourceSummary": "TCU Athletics roster",
+        "schoolSlug": "tcu",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gofrogs.com/sports/baseball/roster/hank-gomric/19303",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "tcu-19304",
+        "name": "Michael Catalano",
+        "school": "TCU",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Michael Catalano looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "TCU Athletics roster"
+        ],
+        "sourceSummary": "TCU Athletics roster",
+        "schoolSlug": "tcu",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gofrogs.com/sports/baseball/roster/michael-catalano/19304",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "tcu-19305",
+        "name": "Chase Hilt",
+        "school": "TCU",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "FR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Chase Hilt gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "INF",
+          "FR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "TCU Athletics roster"
+        ],
+        "sourceSummary": "TCU Athletics roster",
+        "schoolSlug": "tcu",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gofrogs.com/sports/baseball/roster/chase-hilt/19305",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "tcu-19306",
+        "name": "James Nunnallee",
+        "school": "TCU",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "JR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "James Nunnallee gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "OF",
+          "JR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "TCU Athletics roster"
+        ],
+        "sourceSummary": "TCU Athletics roster",
+        "schoolSlug": "tcu",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gofrogs.com/sports/baseball/roster/james-nunnallee/19306",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "tcu-19307",
+        "name": "Maverik Maddux",
+        "school": "TCU",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "FR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Maverik Maddux looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "TCU Athletics roster"
+        ],
+        "sourceSummary": "TCU Athletics roster",
+        "schoolSlug": "tcu",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gofrogs.com/sports/baseball/roster/maverik-maddux/19307",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "tcu-19308",
+        "name": "Marcus Greis",
+        "school": "TCU",
+        "role": "Pitcher",
+        "position": "INF/RHP",
+        "classYear": "FR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Marcus Greis looks like a INF/RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "INF/RHP",
+          "FR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "TCU Athletics roster"
+        ],
+        "sourceSummary": "TCU Athletics roster",
+        "schoolSlug": "tcu",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gofrogs.com/sports/baseball/roster/marcus-greis/19308",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "tcu-19309",
+        "name": "Taylor Tracey",
+        "school": "TCU",
+        "role": "Pitcher",
+        "position": "OF/LHP",
+        "classYear": "SO",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Taylor Tracey looks like a OF/LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SO / N/A",
+        "detailBadges": [
+          "OF/LHP",
+          "SO",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "TCU Athletics roster"
+        ],
+        "sourceSummary": "TCU Athletics roster",
+        "schoolSlug": "tcu",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gofrogs.com/sports/baseball/roster/taylor-tracey/19309",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "tcu-18359",
+        "name": "Cade Nelson",
+        "school": "TCU",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SO",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Cade Nelson looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SO / N/A",
+        "detailBadges": [
+          "RHP",
+          "SO",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "TCU Athletics roster"
+        ],
+        "sourceSummary": "TCU Athletics roster",
+        "schoolSlug": "tcu",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gofrogs.com/sports/baseball/roster/cade-nelson/18359",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "tcu-19310",
+        "name": "Logan Corley",
+        "school": "TCU",
+        "role": "Pitcher",
+        "position": "LHP/INF",
+        "classYear": "FR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Logan Corley looks like a LHP/INF option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "LHP/INF",
+          "FR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "TCU Athletics roster"
+        ],
+        "sourceSummary": "TCU Athletics roster",
+        "schoolSlug": "tcu",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gofrogs.com/sports/baseball/roster/logan-corley/19310",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "tcu-19311",
+        "name": "JB Manarchuck",
+        "school": "TCU",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "5TH",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "JB Manarchuck looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "5TH / N/A",
+        "detailBadges": [
+          "RHP",
+          "5TH",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "TCU Athletics roster"
+        ],
+        "sourceSummary": "TCU Athletics roster",
+        "schoolSlug": "tcu",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gofrogs.com/sports/baseball/roster/jb-manarchuck/19311",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "tcu-18352",
+        "name": "Uli Fernsler",
+        "school": "TCU",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "SO",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Uli Fernsler looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
         "metaLine": "SO / N/A",
@@ -5458,626 +6379,9 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
           "Pitcher"
         ],
         "leaderboards": [
-          "TCU Athletics roster",
-          "TCU cumulative stats"
-        ],
-        "sourceSummary": "TCU Athletics roster + TCU cumulative stats",
-        "schoolSlug": "tcu",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/mason-brassfield/18346",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "tcu-18004",
-        "name": "Tanner Sagouspe",
-        "school": "TCU",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Tanner Sagouspe looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
           "TCU Athletics roster"
         ],
         "sourceSummary": "TCU Athletics roster",
-        "schoolSlug": "tcu",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/tanner-sagouspe/18004",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "tcu-17993",
-        "name": "Nolan Johnson",
-        "school": "TCU",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "SR",
-        "handedness": "L/L",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Nolan Johnson looks like a LHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / L/L",
-        "detailBadges": [
-          "LHP",
-          "SR",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "TCU Athletics roster"
-        ],
-        "sourceSummary": "TCU Athletics roster",
-        "schoolSlug": "tcu",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/nolan-johnson/17993",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "tcu-18345",
-        "name": "Aiden Barrientes",
-        "school": "TCU",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 1,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Aiden Barrientes gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 9.00",
-          "WHIP 2.50",
-          "K/9 4.5"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "9.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.50"
-          },
-          {
-            "label": "K/9",
-            "value": "4.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "18.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "2.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 4.545454545454546,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "TCU Athletics roster",
-          "TCU cumulative stats"
-        ],
-        "sourceSummary": "TCU Athletics roster + TCU cumulative stats",
-        "schoolSlug": "tcu",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/aiden-barrientes/18345",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "tcu-18000",
-        "name": "Brady Dallimore",
-        "school": "TCU",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Brady Dallimore gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "C",
-          "FR",
-          "R/R",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "TCU Athletics roster"
-        ],
-        "sourceSummary": "TCU Athletics roster",
-        "schoolSlug": "tcu",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/brady-dallimore/18000",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "tcu-18052",
-        "name": "Colin Blanchard",
-        "school": "TCU",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "SR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Colin Blanchard gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "C",
-          "SR",
-          "N/A",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "TCU Athletics roster"
-        ],
-        "sourceSummary": "TCU Athletics roster",
-        "schoolSlug": "tcu",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/colin-blanchard/18052",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "tcu-17714",
-        "name": "Kade Durnin",
-        "school": "TCU",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "R-FR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Kade Durnin looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-FR / N/A",
-        "detailBadges": [
-          "RHP",
-          "R-FR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "TCU Athletics roster"
-        ],
-        "sourceSummary": "TCU Athletics roster",
-        "schoolSlug": "tcu",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/kade-durnin/17714",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "tcu-18359",
-        "name": "Cade Nelson",
-        "school": "TCU",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 11,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Cade Nelson gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 5.27",
-          "WHIP 1.28",
-          "K/9 7.6"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.27"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.28"
-          },
-          {
-            "label": "K/9",
-            "value": "7.6"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.3"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.66"
-          },
-          {
-            "label": "IP",
-            "value": "27.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 32.48337028824834,
-          "Command": 25.999999999999996,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "TCU Athletics roster",
-          "TCU cumulative stats"
-        ],
-        "sourceSummary": "TCU Athletics roster + TCU cumulative stats",
-        "schoolSlug": "tcu",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/cade-nelson/18359",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "tcu-18363",
-        "name": "Ethan Thomas",
-        "school": "TCU",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 16,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Ethan Thomas looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 7.43",
-          "WHIP 1.88",
-          "K/9 11.5"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "7.43"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.88"
-          },
-          {
-            "label": "K/9",
-            "value": "11.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "6.1"
-          },
-          {
-            "label": "HR/9",
-            "value": "2.02"
-          },
-          {
-            "label": "IP",
-            "value": "13.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 67.95454545454545,
-          "Command": 17.777777777777782,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "TCU Athletics roster",
-          "TCU cumulative stats"
-        ],
-        "sourceSummary": "TCU Athletics roster + TCU cumulative stats",
-        "schoolSlug": "tcu",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/ethan-thomas/18363",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "tcu-18352",
-        "name": "Uli Fernsler",
-        "school": "TCU",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "FR",
-        "handedness": "L/L",
-        "score": 3,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Uli Fernsler gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 10.80",
-          "WHIP 2.28",
-          "K/9 5.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "10.80"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.28"
-          },
-          {
-            "label": "K/9",
-            "value": "5.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "6.5"
-          },
-          {
-            "label": "HR/9",
-            "value": "4.32"
-          },
-          {
-            "label": "IP",
-            "value": "8.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 12.727272727272723,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / L/L",
-        "detailBadges": [
-          "LHP",
-          "FR",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "TCU Athletics roster",
-          "TCU cumulative stats"
-        ],
-        "sourceSummary": "TCU Athletics roster + TCU cumulative stats",
         "schoolSlug": "tcu",
         "compositeRole": "Pitcher",
         "profileUrl": "https://gofrogs.com/sports/baseball/roster/uli-fernsler/18352",
@@ -6089,221 +6393,14 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "school": "TCU",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "R-FR",
-        "handedness": "R/R",
-        "score": 10,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Lance Davis looks like a RHP option who limits runs and throws enough strikes and keeps traffic under control.",
-        "summaryMetrics": [
-          "ERA 3.71",
-          "WHIP 1.09",
-          "K/9 5.7"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.71"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.09"
-          },
-          {
-            "label": "K/9",
-            "value": "5.7"
-          },
-          {
-            "label": "BB/9",
-            "value": "1.9"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.79"
-          },
-          {
-            "label": "IP",
-            "value": "80.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 15.795454545454543,
-          "Command": 39.99999999999999,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-FR / R/R",
-        "detailBadges": [
-          "RHP",
-          "R-FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "TCU Athletics roster",
-          "TCU cumulative stats"
-        ],
-        "sourceSummary": "TCU Athletics roster + TCU cumulative stats",
-        "schoolSlug": "tcu",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/lance-davis/18348",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "tcu-18361",
-        "name": "Nate Stern",
-        "school": "TCU",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "N/A",
-        "score": 16,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Nate Stern looks like a RHP option who limits runs and misses bats.",
-        "summaryMetrics": [
-          "ERA 3.26",
-          "WHIP 1.58",
-          "K/9 11.3"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.26"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.58"
-          },
-          {
-            "label": "K/9",
-            "value": "11.3"
-          },
-          {
-            "label": "BB/9",
-            "value": "6.2"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.19"
-          },
-          {
-            "label": "IP",
-            "value": "30.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 66.13386613386614,
-          "Command": 16.19047619047619,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "TCU Athletics roster",
-          "TCU cumulative stats"
-        ],
-        "sourceSummary": "TCU Athletics roster + TCU cumulative stats",
-        "schoolSlug": "tcu",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/nate-stern/18361",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "tcu-18358",
-        "name": "Tommy LaPour",
-        "school": "TCU",
-        "role": "Pitcher",
-        "position": "RHP",
         "classYear": "JR",
         "handedness": "N/A",
-        "score": 11,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Tommy LaPour looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 6.35",
-          "WHIP 1.65",
-          "K/9 9.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "6.35"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.65"
-          },
-          {
-            "label": "K/9",
-            "value": "9.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.3"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.59"
-          },
-          {
-            "label": "IP",
-            "value": "17.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
-          "Command": 13.999999999999998,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "TCU Athletics roster",
-          "TCU cumulative stats"
-        ],
-        "sourceSummary": "TCU Athletics roster + TCU cumulative stats",
-        "schoolSlug": "tcu",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/tommy-lapour/18358",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "tcu-17994",
-        "name": "Walter Quinn",
-        "school": "TCU",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "R/R",
         "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Walter Quinn looks like a RHP option who throws enough strikes.",
+        "summary": "Lance Davis looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -6342,11 +6439,11 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SR / R/R",
+        "metaLine": "JR / N/A",
         "detailBadges": [
           "RHP",
-          "SR",
-          "R/R",
+          "JR",
+          "N/A",
           "Pitcher"
         ],
         "leaderboards": [
@@ -6355,7 +6452,279 @@ window.__BASEBALL_DATASETS__.tcu2026 = {
         "sourceSummary": "TCU Athletics roster",
         "schoolSlug": "tcu",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://gofrogs.com/sports/baseball/roster/walter-quinn/17994",
+        "profileUrl": "https://gofrogs.com/sports/baseball/roster/lance-davis/18348",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "tcu-19312",
+        "name": "Travis Sample",
+        "school": "TCU",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "FR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Travis Sample looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "LHP",
+          "FR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "TCU Athletics roster"
+        ],
+        "sourceSummary": "TCU Athletics roster",
+        "schoolSlug": "tcu",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gofrogs.com/sports/baseball/roster/travis-sample/19312",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "tcu-18361",
+        "name": "Nate Stern",
+        "school": "TCU",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Nate Stern looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "TCU Athletics roster"
+        ],
+        "sourceSummary": "TCU Athletics roster",
+        "schoolSlug": "tcu",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gofrogs.com/sports/baseball/roster/nate-stern/18361",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "tcu-19313",
+        "name": "Stevie Jones",
+        "school": "TCU",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "FR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Stevie Jones looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "LHP",
+          "FR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "TCU Athletics roster"
+        ],
+        "sourceSummary": "TCU Athletics roster",
+        "schoolSlug": "tcu",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gofrogs.com/sports/baseball/roster/stevie-jones/19313",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "tcu-19314",
+        "name": "Nicholas Robb",
+        "school": "TCU",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Nicholas Robb looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / N/A",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "TCU Athletics roster"
+        ],
+        "sourceSummary": "TCU Athletics roster",
+        "schoolSlug": "tcu",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gofrogs.com/sports/baseball/roster/nicholas-robb/19314",
         "espnAthleteId": ""
       }
     ]

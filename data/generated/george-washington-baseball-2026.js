@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.george-washington2026 = {
-  "generatedAt": "2026-07-29T11:06:09.426Z",
+  "generatedAt": "2026-11-18T10:18:16.347Z",
   "season": 2026,
   "school": {
     "slug": "george-washington",
@@ -25,7 +25,7 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
     "ncaa": "NCAA school index"
   },
   "coverage": {
-    "rosterPlayers": 35,
+    "rosterPlayers": 37,
     "espnRosterPlayers": 0,
     "playersWithHittingStats": 0,
     "playersWithPitchingStats": 0,
@@ -144,798 +144,6 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
   },
   "players": [
     {
-      "id": "george-washington-10394",
-      "schoolSlug": "george-washington",
-      "school": "George Washington",
-      "schoolLongName": "George Washington University",
-      "name": "Travis Peitz",
-      "normalizedName": "travis peitz",
-      "compositeRole": "Rostered",
-      "role": "Hitter",
-      "position": "INF",
-      "positionLong": "Infield",
-      "classYear": "SO",
-      "handedness": "N/A",
-      "jersey": "3",
-      "hometown": "Perry Hall, MD",
-      "highSchool": "Calvert Hall College HS",
-      "previousSchool": "",
-      "hometownHighSchool": "Perry Hall, MD / Calvert Hall College HS",
-      "profileUrl": "https://gwsports.com/sports/baseball/roster/travis-peitz/10394",
-      "imageUrl": "https://gwsports.com/images/2025/10/1/Travis_T8aYC.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "10394",
-      "sources": [
-        "George Washington Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "summary": "Travis Peitz gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "INF",
-          "SO",
-          "N/A",
-          "Rostered"
-        ],
-        "sourceSummary": "George Washington Athletics roster"
-      }
-    },
-    {
-      "id": "george-washington-10384",
-      "schoolSlug": "george-washington",
-      "school": "George Washington",
-      "schoolLongName": "George Washington University",
-      "name": "Brodie Freker",
-      "normalizedName": "brodie freker",
-      "compositeRole": "Rostered",
-      "role": "Hitter",
-      "position": "OF",
-      "positionLong": "Outfield",
-      "classYear": "JR",
-      "handedness": "N/A",
-      "jersey": "4",
-      "hometown": "Denville, NJ",
-      "highSchool": "Morris Knolls",
-      "previousSchool": "",
-      "hometownHighSchool": "Denville, NJ / Morris Knolls",
-      "profileUrl": "https://gwsports.com/sports/baseball/roster/brodie-freker/10384",
-      "imageUrl": "https://gwsports.com/images/2025/10/1/Brodie_Freker_blkOR.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "10384",
-      "sources": [
-        "George Washington Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "summary": "Brodie Freker gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "OF",
-          "JR",
-          "N/A",
-          "Rostered"
-        ],
-        "sourceSummary": "George Washington Athletics roster"
-      }
-    },
-    {
-      "id": "george-washington-10390",
-      "schoolSlug": "george-washington",
-      "school": "George Washington",
-      "schoolLongName": "George Washington University",
-      "name": "Nick Mullen",
-      "normalizedName": "nick mullen",
-      "compositeRole": "Rostered",
-      "role": "Hitter",
-      "position": "INF",
-      "positionLong": "Infield",
-      "classYear": "SR",
-      "handedness": "N/A",
-      "jersey": "5",
-      "hometown": "Exton, PA",
-      "highSchool": "Downingtown East",
-      "previousSchool": "",
-      "hometownHighSchool": "Exton, PA / Downingtown East",
-      "profileUrl": "https://gwsports.com/sports/baseball/roster/nick-mullen/10390",
-      "imageUrl": "https://gwsports.com/images/2025/10/1/Nick_Mullen_09yea.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "10390",
-      "sources": [
-        "George Washington Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "summary": "Nick Mullen gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "INF",
-          "SR",
-          "N/A",
-          "Rostered"
-        ],
-        "sourceSummary": "George Washington Athletics roster"
-      }
-    },
-    {
-      "id": "george-washington-10388",
-      "schoolSlug": "george-washington",
-      "school": "George Washington",
-      "schoolLongName": "George Washington University",
-      "name": "Luke Maltacea",
-      "normalizedName": "luke maltacea",
-      "compositeRole": "Rostered",
-      "role": "Hitter",
-      "position": "INF",
-      "positionLong": "Infield",
-      "classYear": "SO",
-      "handedness": "N/A",
-      "jersey": "6",
-      "hometown": "Marblehead, MA",
-      "highSchool": "Noble and Greenough School",
-      "previousSchool": "",
-      "hometownHighSchool": "Marblehead, MA / Noble and Greenough School",
-      "profileUrl": "https://gwsports.com/sports/baseball/roster/luke-maltacea/10388",
-      "imageUrl": "https://gwsports.com/images/2025/10/1/Luke_Maltecea_d3DAv.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "10388",
-      "sources": [
-        "George Washington Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "summary": "Luke Maltacea gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "INF",
-          "SO",
-          "N/A",
-          "Rostered"
-        ],
-        "sourceSummary": "George Washington Athletics roster"
-      }
-    },
-    {
-      "id": "george-washington-10386",
-      "schoolSlug": "george-washington",
-      "school": "George Washington",
-      "schoolLongName": "George Washington University",
-      "name": "Connor Jones",
-      "normalizedName": "connor jones",
-      "compositeRole": "Rostered",
-      "role": "Hitter",
-      "position": "OF",
-      "positionLong": "Outfield",
-      "classYear": "SO",
-      "handedness": "N/A",
-      "jersey": "7",
-      "hometown": "Greenwich, CT",
-      "highSchool": "Winchendon School",
-      "previousSchool": "",
-      "hometownHighSchool": "Greenwich, CT / Winchendon School",
-      "profileUrl": "https://gwsports.com/sports/baseball/roster/connor-jones/10386",
-      "imageUrl": "https://gwsports.com/images/2025/10/1/Connor_n5whf.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "10386",
-      "sources": [
-        "George Washington Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "summary": "Connor Jones gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "OF",
-          "SO",
-          "N/A",
-          "Rostered"
-        ],
-        "sourceSummary": "George Washington Athletics roster"
-      }
-    },
-    {
-      "id": "george-washington-10398",
-      "schoolSlug": "george-washington",
-      "school": "George Washington",
-      "schoolLongName": "George Washington University",
-      "name": "Charlie Walsh",
-      "normalizedName": "charlie walsh",
-      "compositeRole": "Rostered",
-      "role": "Hitter",
-      "position": "INF",
-      "positionLong": "Infield",
-      "classYear": "JR",
-      "handedness": "N/A",
-      "jersey": "10",
-      "hometown": "Lexington, MA",
-      "highSchool": "Belmont Hill School",
-      "previousSchool": "",
-      "hometownHighSchool": "Lexington, MA / Belmont Hill School",
-      "profileUrl": "https://gwsports.com/sports/baseball/roster/charlie-walsh/10398",
-      "imageUrl": "https://gwsports.com/images/2025/10/1/Charlie_RXkFo.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "10398",
-      "sources": [
-        "George Washington Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "summary": "Charlie Walsh gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "INF",
-          "JR",
-          "N/A",
-          "Rostered"
-        ],
-        "sourceSummary": "George Washington Athletics roster"
-      }
-    },
-    {
-      "id": "george-washington-10405",
-      "schoolSlug": "george-washington",
-      "school": "George Washington",
-      "schoolLongName": "George Washington University",
-      "name": "Michael Bravette",
-      "normalizedName": "michael bravette",
-      "compositeRole": "Rostered",
-      "role": "Hitter",
-      "position": "INF",
-      "positionLong": "Infield",
-      "classYear": "SO",
-      "handedness": "N/A",
-      "jersey": "11",
-      "hometown": "West Caldwell, NJ",
-      "highSchool": "Seton Hall Prep",
-      "previousSchool": "",
-      "hometownHighSchool": "West Caldwell, NJ / Seton Hall Prep",
-      "profileUrl": "https://gwsports.com/sports/baseball/roster/michael-bravette/10405",
-      "imageUrl": "https://gwsports.com/images/2025/10/1/Michael_Bravette_sObT0.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "10405",
-      "sources": [
-        "George Washington Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "summary": "Michael Bravette gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "INF",
-          "SO",
-          "N/A",
-          "Rostered"
-        ],
-        "sourceSummary": "George Washington Athletics roster"
-      }
-    },
-    {
-      "id": "george-washington-10415",
-      "schoolSlug": "george-washington",
-      "school": "George Washington",
-      "schoolLongName": "George Washington University",
-      "name": "Gavin Miller",
-      "normalizedName": "gavin miller",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "Left-Handed Pitcher",
-      "classYear": "SR",
-      "handedness": "N/A",
-      "jersey": "13",
-      "hometown": "Baldwinsville, NY",
-      "highSchool": "Baldwinsville",
-      "previousSchool": "",
-      "hometownHighSchool": "Baldwinsville, NY / Baldwinsville",
-      "profileUrl": "https://gwsports.com/sports/baseball/roster/gavin-miller/10415",
-      "imageUrl": "https://gwsports.com/images/2025/10/1/Gavin_Miller_OMPBx.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "10415",
-      "sources": [
-        "George Washington Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Gavin Miller looks like a LHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "LHP",
-          "SR",
-          "N/A",
-          "Pitcher"
-        ],
-        "sourceSummary": "George Washington Athletics roster"
-      }
-    },
-    {
-      "id": "george-washington-10378",
-      "schoolSlug": "george-washington",
-      "school": "George Washington",
-      "schoolLongName": "George Washington University",
-      "name": "Ryan Barks",
-      "normalizedName": "ryan barks",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right-Handed Pitcher",
-      "classYear": "SO",
-      "handedness": "N/A",
-      "jersey": "14",
-      "hometown": "Chesapeake, VA",
-      "highSchool": "Hickory",
-      "previousSchool": "",
-      "hometownHighSchool": "Chesapeake, VA / Hickory",
-      "profileUrl": "https://gwsports.com/sports/baseball/roster/ryan-barks/10378",
-      "imageUrl": "https://gwsports.com/images/2025/10/1/Ryan_AAiI3.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "10378",
-      "sources": [
-        "George Washington Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Ryan Barks looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "N/A",
-          "Pitcher"
-        ],
-        "sourceSummary": "George Washington Athletics roster"
-      }
-    },
-    {
       "id": "george-washington-10396",
       "schoolSlug": "george-washington",
       "school": "George Washington",
@@ -946,15 +154,15 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
       "role": "Hitter",
       "position": "INF",
       "positionLong": "Infield",
-      "classYear": "SR",
+      "classYear": "4TH",
       "handedness": "N/A",
-      "jersey": "15",
+      "jersey": "1",
       "hometown": "Babylon, NY",
       "highSchool": "Babylon",
       "previousSchool": "",
       "hometownHighSchool": "Babylon, NY / Babylon",
       "profileUrl": "https://gwsports.com/sports/baseball/roster/cristino-tufano/10396",
-      "imageUrl": "https://gwsports.com/images/2025/10/1/Cristino_Tufano_ERhAg.jpg",
+      "imageUrl": "https://gwsports.com/images/2026/10/27/Cristino_Tufano_DWo9K.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -1013,1684 +221,12 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "SR / N/A",
+        "metaLine": "4TH / N/A",
         "detailBadges": [
           "INF",
-          "SR",
+          "4TH",
           "N/A",
           "Rostered"
-        ],
-        "sourceSummary": "George Washington Athletics roster"
-      }
-    },
-    {
-      "id": "george-washington-10392",
-      "schoolSlug": "george-washington",
-      "school": "George Washington",
-      "schoolLongName": "George Washington University",
-      "name": "Jasper Nadel",
-      "normalizedName": "jasper nadel",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right-Handed Pitcher",
-      "classYear": "JR",
-      "handedness": "N/A",
-      "jersey": "16",
-      "hometown": "Westport, CT",
-      "highSchool": "Salisbury School",
-      "previousSchool": "",
-      "hometownHighSchool": "Westport, CT / Salisbury School",
-      "profileUrl": "https://gwsports.com/sports/baseball/roster/jasper-nadel/10392",
-      "imageUrl": "https://gwsports.com/images/2025/10/1/Jasper_10GsJ.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "10392",
-      "sources": [
-        "George Washington Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Jasper Nadel looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "N/A",
-          "Pitcher"
-        ],
-        "sourceSummary": "George Washington Athletics roster"
-      }
-    },
-    {
-      "id": "george-washington-10403",
-      "schoolSlug": "george-washington",
-      "school": "George Washington",
-      "schoolLongName": "George Washington University",
-      "name": "Brian Archer",
-      "normalizedName": "brian archer",
-      "compositeRole": "Rostered",
-      "role": "Hitter",
-      "position": "INF",
-      "positionLong": "Infield",
-      "classYear": "SO",
-      "handedness": "N/A",
-      "jersey": "17",
-      "hometown": "Midlothian, VA",
-      "highSchool": "The Steward School",
-      "previousSchool": "",
-      "hometownHighSchool": "Midlothian, VA / The Steward School",
-      "profileUrl": "https://gwsports.com/sports/baseball/roster/brian-archer/10403",
-      "imageUrl": "https://gwsports.com/images/2025/10/1/Brian_Archer_OPJtJ.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "10403",
-      "sources": [
-        "George Washington Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "summary": "Brian Archer gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "INF",
-          "SO",
-          "N/A",
-          "Rostered"
-        ],
-        "sourceSummary": "George Washington Athletics roster"
-      }
-    },
-    {
-      "id": "george-washington-10411",
-      "schoolSlug": "george-washington",
-      "school": "George Washington",
-      "schoolLongName": "George Washington University",
-      "name": "Drew Harris",
-      "normalizedName": "drew harris",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right-Handed Pitcher",
-      "classYear": "JR",
-      "handedness": "N/A",
-      "jersey": "19",
-      "hometown": "Haddon Heights, NJ",
-      "highSchool": "Haddon Heights",
-      "previousSchool": "",
-      "hometownHighSchool": "Haddon Heights, NJ / Haddon Heights",
-      "profileUrl": "https://gwsports.com/sports/baseball/roster/drew-harris/10411",
-      "imageUrl": "https://gwsports.com/images/2025/10/1/Drew_Harris_Wcxvd.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "10411",
-      "sources": [
-        "George Washington Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Drew Harris looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "N/A",
-          "Pitcher"
-        ],
-        "sourceSummary": "George Washington Athletics roster"
-      }
-    },
-    {
-      "id": "george-washington-10382",
-      "schoolSlug": "george-washington",
-      "school": "George Washington",
-      "schoolLongName": "George Washington University",
-      "name": "Andrew Cutler",
-      "normalizedName": "andrew cutler",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right-Handed Pitcher",
-      "classYear": "SR",
-      "handedness": "N/A",
-      "jersey": "20",
-      "hometown": "Fairfield, CT",
-      "highSchool": "Fairfield Prep",
-      "previousSchool": "",
-      "hometownHighSchool": "Fairfield, CT / Fairfield Prep",
-      "profileUrl": "https://gwsports.com/sports/baseball/roster/andrew-cutler/10382",
-      "imageUrl": "https://gwsports.com/images/2025/10/1/Andrew_Cutler_lrcpE.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "10382",
-      "sources": [
-        "George Washington Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Andrew Cutler looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "N/A",
-          "Pitcher"
-        ],
-        "sourceSummary": "George Washington Athletics roster"
-      }
-    },
-    {
-      "id": "george-washington-10413",
-      "schoolSlug": "george-washington",
-      "school": "George Washington",
-      "schoolLongName": "George Washington University",
-      "name": "Henry Knighton",
-      "normalizedName": "henry knighton",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right-Handed Pitcher",
-      "classYear": "SO",
-      "handedness": "N/A",
-      "jersey": "21",
-      "hometown": "Richmond, VA",
-      "highSchool": "St. Christopher's School",
-      "previousSchool": "",
-      "hometownHighSchool": "Richmond, VA / St. Christopher's School",
-      "profileUrl": "https://gwsports.com/sports/baseball/roster/henry-knighton/10413",
-      "imageUrl": "https://gwsports.com/images/2025/10/1/Henry_Knighton_yyXQt.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "10413",
-      "sources": [
-        "George Washington Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Henry Knighton looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "N/A",
-          "Pitcher"
-        ],
-        "sourceSummary": "George Washington Athletics roster"
-      }
-    },
-    {
-      "id": "george-washington-10425",
-      "schoolSlug": "george-washington",
-      "school": "George Washington",
-      "schoolLongName": "George Washington University",
-      "name": "Josh Wenz",
-      "normalizedName": "josh wenz",
-      "compositeRole": "Rostered",
-      "role": "Hitter",
-      "position": "INF",
-      "positionLong": "Infield",
-      "classYear": "SR",
-      "handedness": "N/A",
-      "jersey": "24",
-      "hometown": "Naperville, IL",
-      "highSchool": "Neuqua Valley",
-      "previousSchool": "",
-      "hometownHighSchool": "Naperville, IL / Neuqua Valley",
-      "profileUrl": "https://gwsports.com/sports/baseball/roster/josh-wenz/10425",
-      "imageUrl": "https://gwsports.com/images/2025/10/1/Josh_Wenz_SQGfS.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "10425",
-      "sources": [
-        "George Washington Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "summary": "Josh Wenz gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "INF",
-          "SR",
-          "N/A",
-          "Rostered"
-        ],
-        "sourceSummary": "George Washington Athletics roster"
-      }
-    },
-    {
-      "id": "george-washington-10421",
-      "schoolSlug": "george-washington",
-      "school": "George Washington",
-      "schoolLongName": "George Washington University",
-      "name": "Liam Thyen",
-      "normalizedName": "liam thyen",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "Left-Handed Pitcher",
-      "classYear": "SO",
-      "handedness": "N/A",
-      "jersey": "25",
-      "hometown": "South Riding, VA",
-      "highSchool": "Freedom",
-      "previousSchool": "",
-      "hometownHighSchool": "South Riding, VA / Freedom",
-      "profileUrl": "https://gwsports.com/sports/baseball/roster/liam-thyen/10421",
-      "imageUrl": "https://gwsports.com/images/2025/10/1/Liam_TgrUz.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "10421",
-      "sources": [
-        "George Washington Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Liam Thyen looks like a LHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "LHP",
-          "SO",
-          "N/A",
-          "Pitcher"
-        ],
-        "sourceSummary": "George Washington Athletics roster"
-      }
-    },
-    {
-      "id": "george-washington-10400",
-      "schoolSlug": "george-washington",
-      "school": "George Washington",
-      "schoolLongName": "George Washington University",
-      "name": "Declan Wywoda",
-      "normalizedName": "declan wywoda",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right-Handed Pitcher",
-      "classYear": "JR",
-      "handedness": "N/A",
-      "jersey": "27",
-      "hometown": "Milford, CT",
-      "highSchool": "Jonathan Law",
-      "previousSchool": "",
-      "hometownHighSchool": "Milford, CT / Jonathan Law",
-      "profileUrl": "https://gwsports.com/sports/baseball/roster/declan-wywoda/10400",
-      "imageUrl": "https://gwsports.com/images/2025/10/1/Declan_Wywoda_ydmsq.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "10400",
-      "sources": [
-        "George Washington Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Declan Wywoda looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "N/A",
-          "Pitcher"
-        ],
-        "sourceSummary": "George Washington Athletics roster"
-      }
-    },
-    {
-      "id": "george-washington-10423",
-      "schoolSlug": "george-washington",
-      "school": "George Washington",
-      "schoolLongName": "George Washington University",
-      "name": "Conlon Walker",
-      "normalizedName": "conlon walker",
-      "compositeRole": "Rostered",
-      "role": "Hitter",
-      "position": "OF",
-      "positionLong": "Outfield",
-      "classYear": "SR",
-      "handedness": "N/A",
-      "jersey": "28",
-      "hometown": "Smyrna, GA",
-      "highSchool": "Whitefield Academy",
-      "previousSchool": "",
-      "hometownHighSchool": "Smyrna, GA / Whitefield Academy",
-      "profileUrl": "https://gwsports.com/sports/baseball/roster/conlon-walker/10423",
-      "imageUrl": "https://gwsports.com/images/2025/10/1/Conlon_Walker_jhrQJ.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "10423",
-      "sources": [
-        "George Washington Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "summary": "Conlon Walker gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "OF",
-          "SR",
-          "N/A",
-          "Rostered"
-        ],
-        "sourceSummary": "George Washington Athletics roster"
-      }
-    },
-    {
-      "id": "george-washington-10409",
-      "schoolSlug": "george-washington",
-      "school": "George Washington",
-      "schoolLongName": "George Washington University",
-      "name": "Christian Dewey",
-      "normalizedName": "christian dewey",
-      "compositeRole": "Rostered",
-      "role": "Hitter",
-      "position": "OF",
-      "positionLong": "Outfield",
-      "classYear": "SO",
-      "handedness": "N/A",
-      "jersey": "29",
-      "hometown": "Virginia Beach, VA",
-      "highSchool": "Frank W. Cox",
-      "previousSchool": "",
-      "hometownHighSchool": "Virginia Beach, VA / Frank W. Cox",
-      "profileUrl": "https://gwsports.com/sports/baseball/roster/christian-dewey/10409",
-      "imageUrl": "https://gwsports.com/images/2025/10/1/Christian_JYpRG.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "10409",
-      "sources": [
-        "George Washington Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "summary": "Christian Dewey gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "OF",
-          "SO",
-          "N/A",
-          "Rostered"
-        ],
-        "sourceSummary": "George Washington Athletics roster"
-      }
-    },
-    {
-      "id": "george-washington-10419",
-      "schoolSlug": "george-washington",
-      "school": "George Washington",
-      "schoolLongName": "George Washington University",
-      "name": "Drew Oppenheim",
-      "normalizedName": "drew oppenheim",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "Left-Handed Pitcher",
-      "classYear": "SR",
-      "handedness": "N/A",
-      "jersey": "31",
-      "hometown": "Short Hills, NJ",
-      "highSchool": "Millburn",
-      "previousSchool": "",
-      "hometownHighSchool": "Short Hills, NJ / Millburn",
-      "profileUrl": "https://gwsports.com/sports/baseball/roster/drew-oppenheim/10419",
-      "imageUrl": "https://gwsports.com/images/2025/10/1/Drew_Oppenheim_C1UAU.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "10419",
-      "sources": [
-        "George Washington Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Drew Oppenheim looks like a LHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "LHP",
-          "SR",
-          "N/A",
-          "Pitcher"
-        ],
-        "sourceSummary": "George Washington Athletics roster"
-      }
-    },
-    {
-      "id": "george-washington-10407",
-      "schoolSlug": "george-washington",
-      "school": "George Washington",
-      "schoolLongName": "George Washington University",
-      "name": "Aidan Carey",
-      "normalizedName": "aidan carey",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right-Handed Pitcher",
-      "classYear": "JR",
-      "handedness": "N/A",
-      "jersey": "32",
-      "hometown": "McLean, VA",
-      "highSchool": "McLean",
-      "previousSchool": "",
-      "hometownHighSchool": "McLean, VA / McLean",
-      "profileUrl": "https://gwsports.com/sports/baseball/roster/aidan-carey/10407",
-      "imageUrl": "https://gwsports.com/images/2025/10/1/Aidan_beqNB.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "10407",
-      "sources": [
-        "George Washington Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Aidan Carey looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "N/A",
-          "Pitcher"
-        ],
-        "sourceSummary": "George Washington Athletics roster"
-      }
-    },
-    {
-      "id": "george-washington-10376",
-      "schoolSlug": "george-washington",
-      "school": "George Washington",
-      "schoolLongName": "George Washington University",
-      "name": "Jonas Aponick",
-      "normalizedName": "jonas aponick",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right-Handed Pitcher",
-      "classYear": "JR",
-      "handedness": "N/A",
-      "jersey": "33",
-      "hometown": "Sugarloaf, PA",
-      "highSchool": "Hazelton Area",
-      "previousSchool": "",
-      "hometownHighSchool": "Sugarloaf, PA / Hazelton Area",
-      "profileUrl": "https://gwsports.com/sports/baseball/roster/jonas-aponick/10376",
-      "imageUrl": "https://gwsports.com/images/2025/10/1/Jonas_Aponick_BoJaD.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "10376",
-      "sources": [
-        "George Washington Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Jonas Aponick looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "N/A",
-          "Pitcher"
-        ],
-        "sourceSummary": "George Washington Athletics roster"
-      }
-    },
-    {
-      "id": "george-washington-10401",
-      "schoolSlug": "george-washington",
-      "school": "George Washington",
-      "schoolLongName": "George Washington University",
-      "name": "Ayden Alexander",
-      "normalizedName": "ayden alexander",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "Left-Handed Pitcher",
-      "classYear": "SR",
-      "handedness": "N/A",
-      "jersey": "34",
-      "hometown": "Hamburg, NJ",
-      "highSchool": "Pope John XXIII Regional",
-      "previousSchool": "",
-      "hometownHighSchool": "Hamburg, NJ / Pope John XXIII Regional",
-      "profileUrl": "https://gwsports.com/sports/baseball/roster/ayden-alexander/10401",
-      "imageUrl": "https://gwsports.com/images/2025/10/1/Ayden_Alexander_WpqRn.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "10401",
-      "sources": [
-        "George Washington Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Ayden Alexander looks like a LHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "LHP",
-          "SR",
-          "N/A",
-          "Pitcher"
-        ],
-        "sourceSummary": "George Washington Athletics roster"
-      }
-    },
-    {
-      "id": "george-washington-10380",
-      "schoolSlug": "george-washington",
-      "school": "George Washington",
-      "schoolLongName": "George Washington University",
-      "name": "Matt Bruno",
-      "normalizedName": "matt bruno",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right-Handed Pitcher",
-      "classYear": "SR",
-      "handedness": "N/A",
-      "jersey": "40",
-      "hometown": "Rumson, NJ",
-      "highSchool": "Rumson-Fair Haven",
-      "previousSchool": "",
-      "hometownHighSchool": "Rumson, NJ / Rumson-Fair Haven",
-      "profileUrl": "https://gwsports.com/sports/baseball/roster/matt-bruno/10380",
-      "imageUrl": "https://gwsports.com/images/2025/10/1/Matt_Ths9V.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "10380",
-      "sources": [
-        "George Washington Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Matt Bruno looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "N/A",
-          "Pitcher"
-        ],
-        "sourceSummary": "George Washington Athletics roster"
-      }
-    },
-    {
-      "id": "george-washington-10417",
-      "schoolSlug": "george-washington",
-      "school": "George Washington",
-      "schoolLongName": "George Washington University",
-      "name": "Nathan Murphy",
-      "normalizedName": "nathan murphy",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "Left-Handed Pitcher",
-      "classYear": "JR",
-      "handedness": "N/A",
-      "jersey": "41",
-      "hometown": "Millersville, MD",
-      "highSchool": "Severna Park",
-      "previousSchool": "",
-      "hometownHighSchool": "Millersville, MD / Severna Park",
-      "profileUrl": "https://gwsports.com/sports/baseball/roster/nathan-murphy/10417",
-      "imageUrl": "https://gwsports.com/images/2025/10/1/Nathan_Murphy_h362s.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "10417",
-      "sources": [
-        "George Washington Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Nathan Murphy looks like a LHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "LHP",
-          "JR",
-          "N/A",
-          "Pitcher"
-        ],
-        "sourceSummary": "George Washington Athletics roster"
-      }
-    },
-    {
-      "id": "george-washington-10430",
-      "schoolSlug": "george-washington",
-      "school": "George Washington",
-      "schoolLongName": "George Washington University",
-      "name": "Owen Bourgeois",
-      "normalizedName": "owen bourgeois",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "Left-Handed Pitcher",
-      "classYear": "FR",
-      "handedness": "N/A",
-      "jersey": "",
-      "hometown": "Surrey, United Kingdon",
-      "highSchool": "ACS Cobham International School",
-      "previousSchool": "",
-      "hometownHighSchool": "Surrey, United Kingdon / ACS Cobham International School",
-      "profileUrl": "https://gwsports.com/sports/baseball/roster/owen-bourgeois/10430",
-      "imageUrl": "https://gwsports.com/images/2022/11/18/mtt_logo_71_p9bRo.7055.gif",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "10430",
-      "sources": [
-        "George Washington Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Owen Bourgeois looks like a LHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "metaLine": "FR / N/A",
-        "detailBadges": [
-          "LHP",
-          "FR",
-          "N/A",
-          "Pitcher"
-        ],
-        "sourceSummary": "George Washington Athletics roster"
-      }
-    },
-    {
-      "id": "george-washington-10431",
-      "schoolSlug": "george-washington",
-      "school": "George Washington",
-      "schoolLongName": "George Washington University",
-      "name": "Anthony Coppola",
-      "normalizedName": "anthony coppola",
-      "compositeRole": "Rostered",
-      "role": "Hitter",
-      "position": "OF",
-      "positionLong": "Outfield",
-      "classYear": "FR",
-      "handedness": "N/A",
-      "jersey": "",
-      "hometown": "Union, KY",
-      "highSchool": "Ryle",
-      "previousSchool": "",
-      "hometownHighSchool": "Union, KY / Ryle",
-      "profileUrl": "https://gwsports.com/sports/baseball/roster/anthony-coppola/10431",
-      "imageUrl": "https://gwsports.com/images/2022/11/18/mtt_logo_71_p9bRo.7055.gif",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "10431",
-      "sources": [
-        "George Washington Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "summary": "Anthony Coppola gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "FR / N/A",
-        "detailBadges": [
-          "OF",
-          "FR",
-          "N/A",
-          "Rostered"
-        ],
-        "sourceSummary": "George Washington Athletics roster"
-      }
-    },
-    {
-      "id": "george-washington-10432",
-      "schoolSlug": "george-washington",
-      "school": "George Washington",
-      "schoolLongName": "George Washington University",
-      "name": "Cameron Croci",
-      "normalizedName": "cameron croci",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right-Handed Pitcher",
-      "classYear": "FR",
-      "handedness": "N/A",
-      "jersey": "",
-      "hometown": "Columbus, OH",
-      "highSchool": "Upper Arlington",
-      "previousSchool": "",
-      "hometownHighSchool": "Columbus, OH / Upper Arlington",
-      "profileUrl": "https://gwsports.com/sports/baseball/roster/cameron-croci/10432",
-      "imageUrl": "https://gwsports.com/images/2022/11/18/mtt_logo_71_p9bRo.7055.gif",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "10432",
-      "sources": [
-        "George Washington Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Cameron Croci looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "metaLine": "FR / N/A",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "N/A",
-          "Pitcher"
         ],
         "sourceSummary": "George Washington Athletics roster"
       }
@@ -2706,15 +242,15 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
       "role": "Hitter",
       "position": "OF",
       "positionLong": "Outfield",
-      "classYear": "FR",
+      "classYear": "1ST",
       "handedness": "N/A",
-      "jersey": "",
+      "jersey": "2",
       "hometown": "Portsmouth, VA",
       "highSchool": "Churchland",
       "previousSchool": "",
       "hometownHighSchool": "Portsmouth, VA / Churchland",
       "profileUrl": "https://gwsports.com/sports/baseball/roster/cameron-duke/10433",
-      "imageUrl": "https://gwsports.com/images/2022/11/18/mtt_logo_71_p9bRo.7055.gif",
+      "imageUrl": "https://gwsports.com/images/2026/10/27/Cameron_Duke_tdOEK.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -2773,10 +309,10 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "FR / N/A",
+        "metaLine": "1ST / N/A",
         "detailBadges": [
           "OF",
-          "FR",
+          "1ST",
           "N/A",
           "Rostered"
         ],
@@ -2784,32 +320,32 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
       }
     },
     {
-      "id": "george-washington-10434",
+      "id": "george-washington-10394",
       "schoolSlug": "george-washington",
       "school": "George Washington",
       "schoolLongName": "George Washington University",
-      "name": "Aidan McKeating",
-      "normalizedName": "aidan mckeating",
+      "name": "Travis Peitz",
+      "normalizedName": "travis peitz",
       "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "INF",
       "positionLong": "Infield",
-      "classYear": "FR",
+      "classYear": "2ND",
       "handedness": "N/A",
-      "jersey": "",
-      "hometown": "Virginia Beach, VA",
-      "highSchool": "Princess Anne",
+      "jersey": "3",
+      "hometown": "Perry Hall, MD",
+      "highSchool": "Calvert Hall College HS",
       "previousSchool": "",
-      "hometownHighSchool": "Virginia Beach, VA / Princess Anne",
-      "profileUrl": "https://gwsports.com/sports/baseball/roster/aidan-mckeating/10434",
-      "imageUrl": "https://gwsports.com/images/2022/11/18/mtt_logo_71_p9bRo.7055.gif",
+      "hometownHighSchool": "Perry Hall, MD / Calvert Hall College HS",
+      "profileUrl": "https://gwsports.com/sports/baseball/roster/travis-peitz/10394",
+      "imageUrl": "https://gwsports.com/images/2026/10/27/Travis_Sy5R6.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "10434",
+      "rosterBioId": "10394",
       "sources": [
         "George Washington Athletics roster"
       ],
@@ -2829,7 +365,7 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "summary": "Aidan McKeating gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Travis Peitz gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG --",
           "OBP --",
@@ -2861,10 +397,10 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "FR / N/A",
+        "metaLine": "2ND / N/A",
         "detailBadges": [
           "INF",
-          "FR",
+          "2ND",
           "N/A",
           "Rostered"
         ],
@@ -2872,32 +408,120 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
       }
     },
     {
-      "id": "george-washington-10495",
+      "id": "george-washington-10384",
       "schoolSlug": "george-washington",
       "school": "George Washington",
       "schoolLongName": "George Washington University",
-      "name": "Miguel Morales",
-      "normalizedName": "miguel morales",
+      "name": "Brodie Freker",
+      "normalizedName": "brodie freker",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "Outfield",
+      "classYear": "3RD",
+      "handedness": "N/A",
+      "jersey": "4",
+      "hometown": "Denville, NJ",
+      "highSchool": "Morris Knolls",
+      "previousSchool": "",
+      "hometownHighSchool": "Denville, NJ / Morris Knolls",
+      "profileUrl": "https://gwsports.com/sports/baseball/roster/brodie-freker/10384",
+      "imageUrl": "https://gwsports.com/images/2026/10/27/Brodie_Freker_Svbeh.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10384",
+      "sources": [
+        "George Washington Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Brodie Freker gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "3RD / N/A",
+        "detailBadges": [
+          "OF",
+          "3RD",
+          "N/A",
+          "Rostered"
+        ],
+        "sourceSummary": "George Washington Athletics roster"
+      }
+    },
+    {
+      "id": "george-washington-10390",
+      "schoolSlug": "george-washington",
+      "school": "George Washington",
+      "schoolLongName": "George Washington University",
+      "name": "Nick Mullen",
+      "normalizedName": "nick mullen",
       "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "INF",
       "positionLong": "Infield",
-      "classYear": "GR",
+      "classYear": "4TH",
       "handedness": "N/A",
-      "jersey": "",
-      "hometown": "Arroyo, Puerto Rico",
-      "highSchool": "Escuela Superior Natividad Rodríguez González",
-      "previousSchool": "Texas Southern",
-      "hometownHighSchool": "Arroyo, Puerto Rico / Escuela Superior Natividad Rodríguez González",
-      "profileUrl": "https://gwsports.com/sports/baseball/roster/miguel-morales/10495",
-      "imageUrl": "https://gwsports.com/images/2022/11/18/mtt_logo_71_p9bRo.7055.gif",
+      "jersey": "5",
+      "hometown": "Exton, PA",
+      "highSchool": "Downingtown East",
+      "previousSchool": "",
+      "hometownHighSchool": "Exton, PA / Downingtown East",
+      "profileUrl": "https://gwsports.com/sports/baseball/roster/nick-mullen/10390",
+      "imageUrl": "https://gwsports.com/images/2026/10/27/Nick_Mullen_9TE3J.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "10495",
+      "rosterBioId": "10390",
       "sources": [
         "George Washington Athletics roster"
       ],
@@ -2917,7 +541,7 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "summary": "Miguel Morales gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Nick Mullen gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG --",
           "OBP --",
@@ -2949,10 +573,10 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "GR / N/A",
+        "metaLine": "4TH / N/A",
         "detailBadges": [
           "INF",
-          "GR",
+          "4TH",
           "N/A",
           "Rostered"
         ],
@@ -2960,32 +584,208 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
       }
     },
     {
-      "id": "george-washington-10435",
+      "id": "george-washington-10388",
       "schoolSlug": "george-washington",
       "school": "George Washington",
       "schoolLongName": "George Washington University",
-      "name": "Camden Ogden",
-      "normalizedName": "camden ogden",
+      "name": "Luke Maltacea",
+      "normalizedName": "luke maltacea",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "Infield",
+      "classYear": "2ND",
+      "handedness": "N/A",
+      "jersey": "6",
+      "hometown": "Marblehead, MA",
+      "highSchool": "Noble and Greenough School",
+      "previousSchool": "",
+      "hometownHighSchool": "Marblehead, MA / Noble and Greenough School",
+      "profileUrl": "https://gwsports.com/sports/baseball/roster/luke-maltacea/10388",
+      "imageUrl": "https://gwsports.com/images/2026/10/27/Luke_Maltacea_urFzh.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10388",
+      "sources": [
+        "George Washington Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Luke Maltacea gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "2ND / N/A",
+        "detailBadges": [
+          "INF",
+          "2ND",
+          "N/A",
+          "Rostered"
+        ],
+        "sourceSummary": "George Washington Athletics roster"
+      }
+    },
+    {
+      "id": "george-washington-10386",
+      "schoolSlug": "george-washington",
+      "school": "George Washington",
+      "schoolLongName": "George Washington University",
+      "name": "Connor Jones",
+      "normalizedName": "connor jones",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "Outfield",
+      "classYear": "2ND",
+      "handedness": "N/A",
+      "jersey": "7",
+      "hometown": "Greenwich, CT",
+      "highSchool": "Winchendon School",
+      "previousSchool": "",
+      "hometownHighSchool": "Greenwich, CT / Winchendon School",
+      "profileUrl": "https://gwsports.com/sports/baseball/roster/connor-jones/10386",
+      "imageUrl": "https://gwsports.com/images/2026/10/27/Connor_lyGL8.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10386",
+      "sources": [
+        "George Washington Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Connor Jones gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "2ND / N/A",
+        "detailBadges": [
+          "OF",
+          "2ND",
+          "N/A",
+          "Rostered"
+        ],
+        "sourceSummary": "George Washington Athletics roster"
+      }
+    },
+    {
+      "id": "george-washington-10432",
+      "schoolSlug": "george-washington",
+      "school": "George Washington",
+      "schoolLongName": "George Washington University",
+      "name": "Cameron Croci",
+      "normalizedName": "cameron croci",
       "compositeRole": "Pitcher",
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Right-Handed Pitcher",
-      "classYear": "FR",
+      "classYear": "1ST",
       "handedness": "N/A",
-      "jersey": "",
-      "hometown": "Pawcatuk, CT",
-      "highSchool": "Stonington",
+      "jersey": "8",
+      "hometown": "Columbus, OH",
+      "highSchool": "Upper Arlington",
       "previousSchool": "",
-      "hometownHighSchool": "Pawcatuk, CT / Stonington",
-      "profileUrl": "https://gwsports.com/sports/baseball/roster/camden-ogden/10435",
-      "imageUrl": "https://gwsports.com/images/2022/11/18/mtt_logo_71_p9bRo.7055.gif",
+      "hometownHighSchool": "Columbus, OH / Upper Arlington",
+      "profileUrl": "https://gwsports.com/sports/baseball/roster/cameron-croci/10432",
+      "imageUrl": "https://gwsports.com/images/2026/10/27/Cameron_VSfxV.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "10435",
+      "rosterBioId": "10432",
       "sources": [
         "George Washington Athletics roster"
       ],
@@ -3005,7 +805,7 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Camden Ogden looks like a RHP option who throws enough strikes.",
+        "summary": "Cameron Croci looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -3037,10 +837,978 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "FR / N/A",
+        "metaLine": "1ST / N/A",
         "detailBadges": [
           "RHP",
-          "FR",
+          "1ST",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "George Washington Athletics roster"
+      }
+    },
+    {
+      "id": "george-washington-10741",
+      "schoolSlug": "george-washington",
+      "school": "George Washington",
+      "schoolLongName": "George Washington University",
+      "name": "Richie LaCien",
+      "normalizedName": "richie lacien",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "GR",
+      "handedness": "N/A",
+      "jersey": "9",
+      "hometown": "Mokena, IL",
+      "highSchool": "Lincoln-Way Central",
+      "previousSchool": "Illinois",
+      "hometownHighSchool": "Mokena, IL / Lincoln-Way Central",
+      "profileUrl": "https://gwsports.com/sports/baseball/roster/richie-lacien/10741",
+      "imageUrl": "https://gwsports.com/images/2026/10/27/Richie_LaCien_4X5a7.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10741",
+      "sources": [
+        "George Washington Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Richie LaCien looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "GR / N/A",
+        "detailBadges": [
+          "RHP",
+          "GR",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "George Washington Athletics roster"
+      }
+    },
+    {
+      "id": "george-washington-10398",
+      "schoolSlug": "george-washington",
+      "school": "George Washington",
+      "schoolLongName": "George Washington University",
+      "name": "Charlie Walsh",
+      "normalizedName": "charlie walsh",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "Infield",
+      "classYear": "3RD",
+      "handedness": "N/A",
+      "jersey": "10",
+      "hometown": "Lexington, MA",
+      "highSchool": "Belmont Hill School",
+      "previousSchool": "",
+      "hometownHighSchool": "Lexington, MA / Belmont Hill School",
+      "profileUrl": "https://gwsports.com/sports/baseball/roster/charlie-walsh/10398",
+      "imageUrl": "https://gwsports.com/images/2026/10/27/Charlie_A4Ppe.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10398",
+      "sources": [
+        "George Washington Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Charlie Walsh gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "3RD / N/A",
+        "detailBadges": [
+          "INF",
+          "3RD",
+          "N/A",
+          "Rostered"
+        ],
+        "sourceSummary": "George Washington Athletics roster"
+      }
+    },
+    {
+      "id": "george-washington-10405",
+      "schoolSlug": "george-washington",
+      "school": "George Washington",
+      "schoolLongName": "George Washington University",
+      "name": "Michael Bravette",
+      "normalizedName": "michael bravette",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "Infield",
+      "classYear": "2ND",
+      "handedness": "N/A",
+      "jersey": "11",
+      "hometown": "West Caldwell, NJ",
+      "highSchool": "Seton Hall Prep",
+      "previousSchool": "",
+      "hometownHighSchool": "West Caldwell, NJ / Seton Hall Prep",
+      "profileUrl": "https://gwsports.com/sports/baseball/roster/michael-bravette/10405",
+      "imageUrl": "https://gwsports.com/images/2026/10/27/Michael_Bravette_gcjrA.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10405",
+      "sources": [
+        "George Washington Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Michael Bravette gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "2ND / N/A",
+        "detailBadges": [
+          "INF",
+          "2ND",
+          "N/A",
+          "Rostered"
+        ],
+        "sourceSummary": "George Washington Athletics roster"
+      }
+    },
+    {
+      "id": "george-washington-10430",
+      "schoolSlug": "george-washington",
+      "school": "George Washington",
+      "schoolLongName": "George Washington University",
+      "name": "Owen Bourgeois",
+      "normalizedName": "owen bourgeois",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "Left-Handed Pitcher",
+      "classYear": "1ST",
+      "handedness": "N/A",
+      "jersey": "12",
+      "hometown": "Surrey, United Kingdon",
+      "highSchool": "ACS Cobham International School",
+      "previousSchool": "",
+      "hometownHighSchool": "Surrey, United Kingdon / ACS Cobham International School",
+      "profileUrl": "https://gwsports.com/sports/baseball/roster/owen-bourgeois/10430",
+      "imageUrl": "https://gwsports.com/images/2026/10/27/Owen_Bourgeois_Mlq9A.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10430",
+      "sources": [
+        "George Washington Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Owen Bourgeois looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "1ST / N/A",
+        "detailBadges": [
+          "LHP",
+          "1ST",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "George Washington Athletics roster"
+      }
+    },
+    {
+      "id": "george-washington-10415",
+      "schoolSlug": "george-washington",
+      "school": "George Washington",
+      "schoolLongName": "George Washington University",
+      "name": "Gavin Miller",
+      "normalizedName": "gavin miller",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "Left-Handed Pitcher",
+      "classYear": "4TH",
+      "handedness": "N/A",
+      "jersey": "13",
+      "hometown": "Baldwinsville, NY",
+      "highSchool": "Baldwinsville",
+      "previousSchool": "",
+      "hometownHighSchool": "Baldwinsville, NY / Baldwinsville",
+      "profileUrl": "https://gwsports.com/sports/baseball/roster/gavin-miller/10415",
+      "imageUrl": "https://gwsports.com/images/2026/10/27/Gavin_Miller_icJd6.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10415",
+      "sources": [
+        "George Washington Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Gavin Miller looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "4TH / N/A",
+        "detailBadges": [
+          "LHP",
+          "4TH",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "George Washington Athletics roster"
+      }
+    },
+    {
+      "id": "george-washington-10378",
+      "schoolSlug": "george-washington",
+      "school": "George Washington",
+      "schoolLongName": "George Washington University",
+      "name": "Ryan Barks",
+      "normalizedName": "ryan barks",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "2ND",
+      "handedness": "N/A",
+      "jersey": "14",
+      "hometown": "Chesapeake, VA",
+      "highSchool": "Hickory",
+      "previousSchool": "",
+      "hometownHighSchool": "Chesapeake, VA / Hickory",
+      "profileUrl": "https://gwsports.com/sports/baseball/roster/ryan-barks/10378",
+      "imageUrl": "https://gwsports.com/images/2026/10/27/Ryan_lKIk3.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10378",
+      "sources": [
+        "George Washington Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Ryan Barks looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "2ND / N/A",
+        "detailBadges": [
+          "RHP",
+          "2ND",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "George Washington Athletics roster"
+      }
+    },
+    {
+      "id": "george-washington-10392",
+      "schoolSlug": "george-washington",
+      "school": "George Washington",
+      "schoolLongName": "George Washington University",
+      "name": "Jasper Nadel",
+      "normalizedName": "jasper nadel",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "3RD",
+      "handedness": "N/A",
+      "jersey": "16",
+      "hometown": "Westport, CT",
+      "highSchool": "Salisbury School",
+      "previousSchool": "",
+      "hometownHighSchool": "Westport, CT / Salisbury School",
+      "profileUrl": "https://gwsports.com/sports/baseball/roster/jasper-nadel/10392",
+      "imageUrl": "https://gwsports.com/images/2026/10/27/Jasper_DuLpc.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10392",
+      "sources": [
+        "George Washington Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Jasper Nadel looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "3RD / N/A",
+        "detailBadges": [
+          "RHP",
+          "3RD",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "George Washington Athletics roster"
+      }
+    },
+    {
+      "id": "george-washington-10403",
+      "schoolSlug": "george-washington",
+      "school": "George Washington",
+      "schoolLongName": "George Washington University",
+      "name": "Brian Archer",
+      "normalizedName": "brian archer",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "Infield",
+      "classYear": "2ND",
+      "handedness": "N/A",
+      "jersey": "17",
+      "hometown": "Midlothian, VA",
+      "highSchool": "The Steward School",
+      "previousSchool": "",
+      "hometownHighSchool": "Midlothian, VA / The Steward School",
+      "profileUrl": "https://gwsports.com/sports/baseball/roster/brian-archer/10403",
+      "imageUrl": "https://gwsports.com/images/2026/10/27/Brian_Archer_CPiZJ.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10403",
+      "sources": [
+        "George Washington Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Brian Archer gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "2ND / N/A",
+        "detailBadges": [
+          "INF",
+          "2ND",
+          "N/A",
+          "Rostered"
+        ],
+        "sourceSummary": "George Washington Athletics roster"
+      }
+    },
+    {
+      "id": "george-washington-10411",
+      "schoolSlug": "george-washington",
+      "school": "George Washington",
+      "schoolLongName": "George Washington University",
+      "name": "Drew Harris",
+      "normalizedName": "drew harris",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "3RD",
+      "handedness": "N/A",
+      "jersey": "19",
+      "hometown": "Haddon Heights, NJ",
+      "highSchool": "Haddon Heights",
+      "previousSchool": "",
+      "hometownHighSchool": "Haddon Heights, NJ / Haddon Heights",
+      "profileUrl": "https://gwsports.com/sports/baseball/roster/drew-harris/10411",
+      "imageUrl": "https://gwsports.com/images/2026/10/27/Drew_Harris_f7RnL.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10411",
+      "sources": [
+        "George Washington Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Drew Harris looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "3RD / N/A",
+        "detailBadges": [
+          "RHP",
+          "3RD",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "George Washington Athletics roster"
+      }
+    },
+    {
+      "id": "george-washington-10382",
+      "schoolSlug": "george-washington",
+      "school": "George Washington",
+      "schoolLongName": "George Washington University",
+      "name": "Andrew Cutler",
+      "normalizedName": "andrew cutler",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "4TH",
+      "handedness": "N/A",
+      "jersey": "20",
+      "hometown": "Fairfield, CT",
+      "highSchool": "Fairfield Prep",
+      "previousSchool": "",
+      "hometownHighSchool": "Fairfield, CT / Fairfield Prep",
+      "profileUrl": "https://gwsports.com/sports/baseball/roster/andrew-cutler/10382",
+      "imageUrl": "https://gwsports.com/images/2026/10/27/Andrew_Cutler_OK6I3.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10382",
+      "sources": [
+        "George Washington Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Andrew Cutler looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "4TH / N/A",
+        "detailBadges": [
+          "RHP",
+          "4TH",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "George Washington Athletics roster"
+      }
+    },
+    {
+      "id": "george-washington-10413",
+      "schoolSlug": "george-washington",
+      "school": "George Washington",
+      "schoolLongName": "George Washington University",
+      "name": "Henry Knighton",
+      "normalizedName": "henry knighton",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "2ND",
+      "handedness": "N/A",
+      "jersey": "21",
+      "hometown": "Richmond, VA",
+      "highSchool": "St. Christopher's School",
+      "previousSchool": "",
+      "hometownHighSchool": "Richmond, VA / St. Christopher's School",
+      "profileUrl": "https://gwsports.com/sports/baseball/roster/henry-knighton/10413",
+      "imageUrl": "https://gwsports.com/images/2026/10/27/Hanry_Knighton_ldDzd.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10413",
+      "sources": [
+        "George Washington Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Henry Knighton looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "2ND / N/A",
+        "detailBadges": [
+          "RHP",
+          "2ND",
           "N/A",
           "Pitcher"
         ],
@@ -3058,15 +1826,15 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
       "role": "Hitter",
       "position": "INF",
       "positionLong": "Infield",
-      "classYear": "FR",
+      "classYear": "1ST",
       "handedness": "N/A",
-      "jersey": "",
+      "jersey": "22",
       "hometown": "Henrico, VA",
       "highSchool": "Deep Run",
       "previousSchool": "",
       "hometownHighSchool": "Henrico, VA / Deep Run",
       "profileUrl": "https://gwsports.com/sports/baseball/roster/vince-porcaro/10436",
-      "imageUrl": "https://gwsports.com/images/2022/11/18/mtt_logo_71_p9bRo.7055.gif",
+      "imageUrl": "https://gwsports.com/images/2026/10/27/Vince_Porcaro_TZPh4.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -3125,10 +1893,1330 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "FR / N/A",
+        "metaLine": "1ST / N/A",
         "detailBadges": [
           "INF",
-          "FR",
+          "1ST",
+          "N/A",
+          "Rostered"
+        ],
+        "sourceSummary": "George Washington Athletics roster"
+      }
+    },
+    {
+      "id": "george-washington-10431",
+      "schoolSlug": "george-washington",
+      "school": "George Washington",
+      "schoolLongName": "George Washington University",
+      "name": "Anthony Coppola",
+      "normalizedName": "anthony coppola",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "Outfield",
+      "classYear": "1ST",
+      "handedness": "N/A",
+      "jersey": "23",
+      "hometown": "Union, KY",
+      "highSchool": "Ryle",
+      "previousSchool": "",
+      "hometownHighSchool": "Union, KY / Ryle",
+      "profileUrl": "https://gwsports.com/sports/baseball/roster/anthony-coppola/10431",
+      "imageUrl": "https://gwsports.com/images/2026/10/27/Anthony_Coppola_Vhd56.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10431",
+      "sources": [
+        "George Washington Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Anthony Coppola gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "1ST / N/A",
+        "detailBadges": [
+          "OF",
+          "1ST",
+          "N/A",
+          "Rostered"
+        ],
+        "sourceSummary": "George Washington Athletics roster"
+      }
+    },
+    {
+      "id": "george-washington-10425",
+      "schoolSlug": "george-washington",
+      "school": "George Washington",
+      "schoolLongName": "George Washington University",
+      "name": "Josh Wenz",
+      "normalizedName": "josh wenz",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "Infield",
+      "classYear": "4TH",
+      "handedness": "N/A",
+      "jersey": "24",
+      "hometown": "Naperville, IL",
+      "highSchool": "Neuqua Valley",
+      "previousSchool": "",
+      "hometownHighSchool": "Naperville, IL / Neuqua Valley",
+      "profileUrl": "https://gwsports.com/sports/baseball/roster/josh-wenz/10425",
+      "imageUrl": "https://gwsports.com/images/2026/10/27/Josh_Wenz_x7nMe.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10425",
+      "sources": [
+        "George Washington Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Josh Wenz gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "4TH / N/A",
+        "detailBadges": [
+          "INF",
+          "4TH",
+          "N/A",
+          "Rostered"
+        ],
+        "sourceSummary": "George Washington Athletics roster"
+      }
+    },
+    {
+      "id": "george-washington-10421",
+      "schoolSlug": "george-washington",
+      "school": "George Washington",
+      "schoolLongName": "George Washington University",
+      "name": "Liam Thyen",
+      "normalizedName": "liam thyen",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "Left-Handed Pitcher",
+      "classYear": "2ND",
+      "handedness": "N/A",
+      "jersey": "25",
+      "hometown": "South Riding, VA",
+      "highSchool": "Freedom",
+      "previousSchool": "",
+      "hometownHighSchool": "South Riding, VA / Freedom",
+      "profileUrl": "https://gwsports.com/sports/baseball/roster/liam-thyen/10421",
+      "imageUrl": "https://gwsports.com/images/2026/10/27/Liam_dzFqI.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10421",
+      "sources": [
+        "George Washington Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Liam Thyen looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "2ND / N/A",
+        "detailBadges": [
+          "LHP",
+          "2ND",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "George Washington Athletics roster"
+      }
+    },
+    {
+      "id": "george-washington-10400",
+      "schoolSlug": "george-washington",
+      "school": "George Washington",
+      "schoolLongName": "George Washington University",
+      "name": "Declan Wywoda",
+      "normalizedName": "declan wywoda",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "3RD",
+      "handedness": "N/A",
+      "jersey": "27",
+      "hometown": "Milford, CT",
+      "highSchool": "Jonathan Law",
+      "previousSchool": "",
+      "hometownHighSchool": "Milford, CT / Jonathan Law",
+      "profileUrl": "https://gwsports.com/sports/baseball/roster/declan-wywoda/10400",
+      "imageUrl": "https://gwsports.com/images/2026/10/27/Declan_Wywoda_utkij.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10400",
+      "sources": [
+        "George Washington Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Declan Wywoda looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "3RD / N/A",
+        "detailBadges": [
+          "RHP",
+          "3RD",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "George Washington Athletics roster"
+      }
+    },
+    {
+      "id": "george-washington-10423",
+      "schoolSlug": "george-washington",
+      "school": "George Washington",
+      "schoolLongName": "George Washington University",
+      "name": "Conlon Walker",
+      "normalizedName": "conlon walker",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "Outfield",
+      "classYear": "4TH",
+      "handedness": "N/A",
+      "jersey": "28",
+      "hometown": "Smyrna, GA",
+      "highSchool": "Whitefield Academy",
+      "previousSchool": "",
+      "hometownHighSchool": "Smyrna, GA / Whitefield Academy",
+      "profileUrl": "https://gwsports.com/sports/baseball/roster/conlon-walker/10423",
+      "imageUrl": "https://gwsports.com/images/2026/10/27/Conlon_Walker_3eWDT.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10423",
+      "sources": [
+        "George Washington Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Conlon Walker gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "4TH / N/A",
+        "detailBadges": [
+          "OF",
+          "4TH",
+          "N/A",
+          "Rostered"
+        ],
+        "sourceSummary": "George Washington Athletics roster"
+      }
+    },
+    {
+      "id": "george-washington-10409",
+      "schoolSlug": "george-washington",
+      "school": "George Washington",
+      "schoolLongName": "George Washington University",
+      "name": "Christian Dewey",
+      "normalizedName": "christian dewey",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "Outfield",
+      "classYear": "2ND",
+      "handedness": "N/A",
+      "jersey": "29",
+      "hometown": "Virginia Beach, VA",
+      "highSchool": "Frank W. Cox",
+      "previousSchool": "",
+      "hometownHighSchool": "Virginia Beach, VA / Frank W. Cox",
+      "profileUrl": "https://gwsports.com/sports/baseball/roster/christian-dewey/10409",
+      "imageUrl": "https://gwsports.com/images/2026/10/27/Christian_86gMp.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10409",
+      "sources": [
+        "George Washington Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Christian Dewey gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "2ND / N/A",
+        "detailBadges": [
+          "OF",
+          "2ND",
+          "N/A",
+          "Rostered"
+        ],
+        "sourceSummary": "George Washington Athletics roster"
+      }
+    },
+    {
+      "id": "george-washington-10495",
+      "schoolSlug": "george-washington",
+      "school": "George Washington",
+      "schoolLongName": "George Washington University",
+      "name": "Miguel Morales",
+      "normalizedName": "miguel morales",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "Infield",
+      "classYear": "5TH",
+      "handedness": "N/A",
+      "jersey": "30",
+      "hometown": "Arroyo, Puerto Rico",
+      "highSchool": "Escuela Superior Natividad Rodríguez González",
+      "previousSchool": "Texas Southern",
+      "hometownHighSchool": "Arroyo, Puerto Rico / Escuela Superior Natividad Rodríguez González",
+      "profileUrl": "https://gwsports.com/sports/baseball/roster/miguel-morales/10495",
+      "imageUrl": "https://gwsports.com/images/2026/10/27/Miguel_Morales_o23gC.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10495",
+      "sources": [
+        "George Washington Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Miguel Morales gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "5TH / N/A",
+        "detailBadges": [
+          "INF",
+          "5TH",
+          "N/A",
+          "Rostered"
+        ],
+        "sourceSummary": "George Washington Athletics roster"
+      }
+    },
+    {
+      "id": "george-washington-10419",
+      "schoolSlug": "george-washington",
+      "school": "George Washington",
+      "schoolLongName": "George Washington University",
+      "name": "Drew Oppenheim",
+      "normalizedName": "drew oppenheim",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "Left-Handed Pitcher",
+      "classYear": "4TH",
+      "handedness": "N/A",
+      "jersey": "31",
+      "hometown": "Short Hills, NJ",
+      "highSchool": "Millburn",
+      "previousSchool": "",
+      "hometownHighSchool": "Short Hills, NJ / Millburn",
+      "profileUrl": "https://gwsports.com/sports/baseball/roster/drew-oppenheim/10419",
+      "imageUrl": "https://gwsports.com/images/2026/10/27/Drew_Oppenheim_cwLqF.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10419",
+      "sources": [
+        "George Washington Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Drew Oppenheim looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "4TH / N/A",
+        "detailBadges": [
+          "LHP",
+          "4TH",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "George Washington Athletics roster"
+      }
+    },
+    {
+      "id": "george-washington-10407",
+      "schoolSlug": "george-washington",
+      "school": "George Washington",
+      "schoolLongName": "George Washington University",
+      "name": "Aidan Carey",
+      "normalizedName": "aidan carey",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "3RD",
+      "handedness": "N/A",
+      "jersey": "32",
+      "hometown": "McLean, VA",
+      "highSchool": "McLean",
+      "previousSchool": "",
+      "hometownHighSchool": "McLean, VA / McLean",
+      "profileUrl": "https://gwsports.com/sports/baseball/roster/aidan-carey/10407",
+      "imageUrl": "https://gwsports.com/images/2026/10/27/Aidan_C0vjU.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10407",
+      "sources": [
+        "George Washington Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Aidan Carey looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "3RD / N/A",
+        "detailBadges": [
+          "RHP",
+          "3RD",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "George Washington Athletics roster"
+      }
+    },
+    {
+      "id": "george-washington-10376",
+      "schoolSlug": "george-washington",
+      "school": "George Washington",
+      "schoolLongName": "George Washington University",
+      "name": "Jonas Aponick",
+      "normalizedName": "jonas aponick",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "3RD",
+      "handedness": "N/A",
+      "jersey": "33",
+      "hometown": "Sugarloaf, PA",
+      "highSchool": "Hazelton Area",
+      "previousSchool": "",
+      "hometownHighSchool": "Sugarloaf, PA / Hazelton Area",
+      "profileUrl": "https://gwsports.com/sports/baseball/roster/jonas-aponick/10376",
+      "imageUrl": "https://gwsports.com/images/2026/10/27/Jonas_Aponick_d6OmV.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10376",
+      "sources": [
+        "George Washington Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Jonas Aponick looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "3RD / N/A",
+        "detailBadges": [
+          "RHP",
+          "3RD",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "George Washington Athletics roster"
+      }
+    },
+    {
+      "id": "george-washington-10401",
+      "schoolSlug": "george-washington",
+      "school": "George Washington",
+      "schoolLongName": "George Washington University",
+      "name": "Ayden Alexander",
+      "normalizedName": "ayden alexander",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "Left-Handed Pitcher",
+      "classYear": "4TH",
+      "handedness": "N/A",
+      "jersey": "34",
+      "hometown": "Hamburg, NJ",
+      "highSchool": "Pope John XXIII Regional",
+      "previousSchool": "",
+      "hometownHighSchool": "Hamburg, NJ / Pope John XXIII Regional",
+      "profileUrl": "https://gwsports.com/sports/baseball/roster/ayden-alexander/10401",
+      "imageUrl": "https://gwsports.com/images/2026/10/27/Ayden_Alexander_FLLqC.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10401",
+      "sources": [
+        "George Washington Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Ayden Alexander looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "4TH / N/A",
+        "detailBadges": [
+          "LHP",
+          "4TH",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "George Washington Athletics roster"
+      }
+    },
+    {
+      "id": "george-washington-10380",
+      "schoolSlug": "george-washington",
+      "school": "George Washington",
+      "schoolLongName": "George Washington University",
+      "name": "Matt Bruno",
+      "normalizedName": "matt bruno",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "4TH",
+      "handedness": "N/A",
+      "jersey": "40",
+      "hometown": "Rumson, NJ",
+      "highSchool": "Rumson-Fair Haven",
+      "previousSchool": "",
+      "hometownHighSchool": "Rumson, NJ / Rumson-Fair Haven",
+      "profileUrl": "https://gwsports.com/sports/baseball/roster/matt-bruno/10380",
+      "imageUrl": "https://gwsports.com/images/2026/10/27/Matt_qxmV4.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10380",
+      "sources": [
+        "George Washington Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Matt Bruno looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "4TH / N/A",
+        "detailBadges": [
+          "RHP",
+          "4TH",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "George Washington Athletics roster"
+      }
+    },
+    {
+      "id": "george-washington-10417",
+      "schoolSlug": "george-washington",
+      "school": "George Washington",
+      "schoolLongName": "George Washington University",
+      "name": "Nathan Murphy",
+      "normalizedName": "nathan murphy",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "Left-Handed Pitcher",
+      "classYear": "3RD",
+      "handedness": "N/A",
+      "jersey": "41",
+      "hometown": "Millersville, MD",
+      "highSchool": "Severna Park",
+      "previousSchool": "",
+      "hometownHighSchool": "Millersville, MD / Severna Park",
+      "profileUrl": "https://gwsports.com/sports/baseball/roster/nathan-murphy/10417",
+      "imageUrl": "https://gwsports.com/images/2026/10/27/Nathan_Murphy_U8rpv.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10417",
+      "sources": [
+        "George Washington Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Nathan Murphy looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "3RD / N/A",
+        "detailBadges": [
+          "LHP",
+          "3RD",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "George Washington Athletics roster"
+      }
+    },
+    {
+      "id": "george-washington-10760",
+      "schoolSlug": "george-washington",
+      "school": "George Washington",
+      "schoolLongName": "George Washington University",
+      "name": "Masai Marshall",
+      "normalizedName": "masai marshall",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "Outfield",
+      "classYear": "3RD",
+      "handedness": "N/A",
+      "jersey": "42",
+      "hometown": "New York, NY",
+      "highSchool": "Poly Prep Country Day",
+      "previousSchool": "Northwestern",
+      "hometownHighSchool": "New York, NY / Poly Prep Country Day",
+      "profileUrl": "https://gwsports.com/sports/baseball/roster/masai-marshall/10760",
+      "imageUrl": "https://gwsports.com/images/2026/10/27/Masai_Marshall_MKVFQ.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10760",
+      "sources": [
+        "George Washington Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Masai Marshall gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "3RD / N/A",
+        "detailBadges": [
+          "OF",
+          "3RD",
+          "N/A",
+          "Rostered"
+        ],
+        "sourceSummary": "George Washington Athletics roster"
+      }
+    },
+    {
+      "id": "george-washington-10434",
+      "schoolSlug": "george-washington",
+      "school": "George Washington",
+      "schoolLongName": "George Washington University",
+      "name": "Aidan McKeating",
+      "normalizedName": "aidan mckeating",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "Infield",
+      "classYear": "1ST",
+      "handedness": "N/A",
+      "jersey": "43",
+      "hometown": "Virginia Beach, VA",
+      "highSchool": "Princess Anne",
+      "previousSchool": "",
+      "hometownHighSchool": "Virginia Beach, VA / Princess Anne",
+      "profileUrl": "https://gwsports.com/sports/baseball/roster/aidan-mckeating/10434",
+      "imageUrl": "https://gwsports.com/images/2026/10/27/Aidan_McKeating_YCo66.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10434",
+      "sources": [
+        "George Washington Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Aidan McKeating gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "1ST / N/A",
+        "detailBadges": [
+          "INF",
+          "1ST",
           "N/A",
           "Rostered"
         ],
@@ -3140,21 +3228,21 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
       "schoolSlug": "george-washington",
       "school": "George Washington",
       "schoolLongName": "George Washington University",
-      "name": "Matt Zapotek",
-      "normalizedName": "matt zapotek",
+      "name": "Matt Zatopek",
+      "normalizedName": "matt zatopek",
       "compositeRole": "Pitcher",
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Right-Handed Pitcher",
       "classYear": "JR",
       "handedness": "N/A",
-      "jersey": "",
+      "jersey": "44",
       "hometown": "Cypress, TX",
       "highSchool": "Houston Christian",
       "previousSchool": "Rice",
       "hometownHighSchool": "Cypress, TX / Houston Christian",
-      "profileUrl": "https://gwsports.com/sports/baseball/roster/matt-zapotek/10629",
-      "imageUrl": "https://gwsports.com/images/2022/11/18/mtt_logo_71_p9bRo.7055.gif",
+      "profileUrl": "https://gwsports.com/sports/baseball/roster/matt-zatopek/10629",
+      "imageUrl": "https://gwsports.com/images/2026/10/27/Matt_Zatopek_qlxBF.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -3181,7 +3269,7 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Matt Zapotek looks like a RHP option who throws enough strikes.",
+        "summary": "Matt Zatopek looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -3222,636 +3310,112 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         ],
         "sourceSummary": "George Washington Athletics roster"
       }
+    },
+    {
+      "id": "george-washington-10435",
+      "schoolSlug": "george-washington",
+      "school": "George Washington",
+      "schoolLongName": "George Washington University",
+      "name": "Camden Ogden",
+      "normalizedName": "camden ogden",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "1ST",
+      "handedness": "N/A",
+      "jersey": "45",
+      "hometown": "Pawcatuk, CT",
+      "highSchool": "Stonington",
+      "previousSchool": "",
+      "hometownHighSchool": "Pawcatuk, CT / Stonington",
+      "profileUrl": "https://gwsports.com/sports/baseball/roster/camden-ogden/10435",
+      "imageUrl": "https://gwsports.com/images/2026/10/27/Camden_9KEPE.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "10435",
+      "sources": [
+        "George Washington Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Camden Ogden looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "1ST / N/A",
+        "detailBadges": [
+          "RHP",
+          "1ST",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "George Washington Athletics roster"
+      }
     }
   ],
   "playerBoard": {
     "source": "George Washington Athletics roster + cumulative stats / ESPN roster",
     "note": "This George Washington-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but George Washington's public ESPN roster feed did not line up cleanly with the current school-site roster.",
-    "totalPlayers": 35,
+    "totalPlayers": 37,
     "roleCounts": {
-      "Hitter": 17,
-      "Pitcher": 18
+      "Hitter": 18,
+      "Pitcher": 19
     },
     "players": [
-      {
-        "id": "george-washington-10394",
-        "name": "Travis Peitz",
-        "school": "George Washington",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SO",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Travis Peitz gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "INF",
-          "SO",
-          "N/A",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "George Washington Athletics roster"
-        ],
-        "sourceSummary": "George Washington Athletics roster",
-        "schoolSlug": "george-washington",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://gwsports.com/sports/baseball/roster/travis-peitz/10394",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "george-washington-10384",
-        "name": "Brodie Freker",
-        "school": "George Washington",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "JR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Brodie Freker gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "OF",
-          "JR",
-          "N/A",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "George Washington Athletics roster"
-        ],
-        "sourceSummary": "George Washington Athletics roster",
-        "schoolSlug": "george-washington",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://gwsports.com/sports/baseball/roster/brodie-freker/10384",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "george-washington-10390",
-        "name": "Nick Mullen",
-        "school": "George Washington",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Nick Mullen gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "INF",
-          "SR",
-          "N/A",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "George Washington Athletics roster"
-        ],
-        "sourceSummary": "George Washington Athletics roster",
-        "schoolSlug": "george-washington",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://gwsports.com/sports/baseball/roster/nick-mullen/10390",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "george-washington-10388",
-        "name": "Luke Maltacea",
-        "school": "George Washington",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SO",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Luke Maltacea gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "INF",
-          "SO",
-          "N/A",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "George Washington Athletics roster"
-        ],
-        "sourceSummary": "George Washington Athletics roster",
-        "schoolSlug": "george-washington",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://gwsports.com/sports/baseball/roster/luke-maltacea/10388",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "george-washington-10386",
-        "name": "Connor Jones",
-        "school": "George Washington",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "SO",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Connor Jones gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "OF",
-          "SO",
-          "N/A",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "George Washington Athletics roster"
-        ],
-        "sourceSummary": "George Washington Athletics roster",
-        "schoolSlug": "george-washington",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://gwsports.com/sports/baseball/roster/connor-jones/10386",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "george-washington-10398",
-        "name": "Charlie Walsh",
-        "school": "George Washington",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "JR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Charlie Walsh gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "INF",
-          "JR",
-          "N/A",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "George Washington Athletics roster"
-        ],
-        "sourceSummary": "George Washington Athletics roster",
-        "schoolSlug": "george-washington",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://gwsports.com/sports/baseball/roster/charlie-walsh/10398",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "george-washington-10405",
-        "name": "Michael Bravette",
-        "school": "George Washington",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SO",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Michael Bravette gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "INF",
-          "SO",
-          "N/A",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "George Washington Athletics roster"
-        ],
-        "sourceSummary": "George Washington Athletics roster",
-        "schoolSlug": "george-washington",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://gwsports.com/sports/baseball/roster/michael-bravette/10405",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "george-washington-10415",
-        "name": "Gavin Miller",
-        "school": "George Washington",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "SR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Gavin Miller looks like a LHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "LHP",
-          "SR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "George Washington Athletics roster"
-        ],
-        "sourceSummary": "George Washington Athletics roster",
-        "schoolSlug": "george-washington",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gwsports.com/sports/baseball/roster/gavin-miller/10415",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "george-washington-10378",
-        "name": "Ryan Barks",
-        "school": "George Washington",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Ryan Barks looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "George Washington Athletics roster"
-        ],
-        "sourceSummary": "George Washington Athletics roster",
-        "schoolSlug": "george-washington",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gwsports.com/sports/baseball/roster/ryan-barks/10378",
-        "espnAthleteId": ""
-      },
       {
         "id": "george-washington-10396",
         "name": "Cristino Tufano",
         "school": "George Washington",
         "role": "Hitter",
         "position": "INF",
-        "classYear": "SR",
+        "classYear": "4TH",
         "handedness": "N/A",
         "score": 0,
         "fit": {
@@ -3897,10 +3461,10 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "SR / N/A",
+        "metaLine": "4TH / N/A",
         "detailBadges": [
           "INF",
-          "SR",
+          "4TH",
           "N/A",
           "Rostered"
         ],
@@ -3914,1304 +3478,12 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "george-washington-10392",
-        "name": "Jasper Nadel",
-        "school": "George Washington",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jasper Nadel looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "George Washington Athletics roster"
-        ],
-        "sourceSummary": "George Washington Athletics roster",
-        "schoolSlug": "george-washington",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gwsports.com/sports/baseball/roster/jasper-nadel/10392",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "george-washington-10403",
-        "name": "Brian Archer",
-        "school": "George Washington",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SO",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Brian Archer gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "INF",
-          "SO",
-          "N/A",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "George Washington Athletics roster"
-        ],
-        "sourceSummary": "George Washington Athletics roster",
-        "schoolSlug": "george-washington",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://gwsports.com/sports/baseball/roster/brian-archer/10403",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "george-washington-10411",
-        "name": "Drew Harris",
-        "school": "George Washington",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Drew Harris looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "George Washington Athletics roster"
-        ],
-        "sourceSummary": "George Washington Athletics roster",
-        "schoolSlug": "george-washington",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gwsports.com/sports/baseball/roster/drew-harris/10411",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "george-washington-10382",
-        "name": "Andrew Cutler",
-        "school": "George Washington",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Andrew Cutler looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "George Washington Athletics roster"
-        ],
-        "sourceSummary": "George Washington Athletics roster",
-        "schoolSlug": "george-washington",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gwsports.com/sports/baseball/roster/andrew-cutler/10382",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "george-washington-10413",
-        "name": "Henry Knighton",
-        "school": "George Washington",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Henry Knighton looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "George Washington Athletics roster"
-        ],
-        "sourceSummary": "George Washington Athletics roster",
-        "schoolSlug": "george-washington",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gwsports.com/sports/baseball/roster/henry-knighton/10413",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "george-washington-10425",
-        "name": "Josh Wenz",
-        "school": "George Washington",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Josh Wenz gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "INF",
-          "SR",
-          "N/A",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "George Washington Athletics roster"
-        ],
-        "sourceSummary": "George Washington Athletics roster",
-        "schoolSlug": "george-washington",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://gwsports.com/sports/baseball/roster/josh-wenz/10425",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "george-washington-10421",
-        "name": "Liam Thyen",
-        "school": "George Washington",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "SO",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Liam Thyen looks like a LHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "LHP",
-          "SO",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "George Washington Athletics roster"
-        ],
-        "sourceSummary": "George Washington Athletics roster",
-        "schoolSlug": "george-washington",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gwsports.com/sports/baseball/roster/liam-thyen/10421",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "george-washington-10400",
-        "name": "Declan Wywoda",
-        "school": "George Washington",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Declan Wywoda looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "George Washington Athletics roster"
-        ],
-        "sourceSummary": "George Washington Athletics roster",
-        "schoolSlug": "george-washington",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gwsports.com/sports/baseball/roster/declan-wywoda/10400",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "george-washington-10423",
-        "name": "Conlon Walker",
-        "school": "George Washington",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "SR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Conlon Walker gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "OF",
-          "SR",
-          "N/A",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "George Washington Athletics roster"
-        ],
-        "sourceSummary": "George Washington Athletics roster",
-        "schoolSlug": "george-washington",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://gwsports.com/sports/baseball/roster/conlon-walker/10423",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "george-washington-10409",
-        "name": "Christian Dewey",
-        "school": "George Washington",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "SO",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Christian Dewey gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "OF",
-          "SO",
-          "N/A",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "George Washington Athletics roster"
-        ],
-        "sourceSummary": "George Washington Athletics roster",
-        "schoolSlug": "george-washington",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://gwsports.com/sports/baseball/roster/christian-dewey/10409",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "george-washington-10419",
-        "name": "Drew Oppenheim",
-        "school": "George Washington",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "SR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Drew Oppenheim looks like a LHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "LHP",
-          "SR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "George Washington Athletics roster"
-        ],
-        "sourceSummary": "George Washington Athletics roster",
-        "schoolSlug": "george-washington",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gwsports.com/sports/baseball/roster/drew-oppenheim/10419",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "george-washington-10407",
-        "name": "Aidan Carey",
-        "school": "George Washington",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Aidan Carey looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "George Washington Athletics roster"
-        ],
-        "sourceSummary": "George Washington Athletics roster",
-        "schoolSlug": "george-washington",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gwsports.com/sports/baseball/roster/aidan-carey/10407",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "george-washington-10376",
-        "name": "Jonas Aponick",
-        "school": "George Washington",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jonas Aponick looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "George Washington Athletics roster"
-        ],
-        "sourceSummary": "George Washington Athletics roster",
-        "schoolSlug": "george-washington",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gwsports.com/sports/baseball/roster/jonas-aponick/10376",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "george-washington-10401",
-        "name": "Ayden Alexander",
-        "school": "George Washington",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "SR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Ayden Alexander looks like a LHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "LHP",
-          "SR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "George Washington Athletics roster"
-        ],
-        "sourceSummary": "George Washington Athletics roster",
-        "schoolSlug": "george-washington",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gwsports.com/sports/baseball/roster/ayden-alexander/10401",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "george-washington-10380",
-        "name": "Matt Bruno",
-        "school": "George Washington",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Matt Bruno looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "George Washington Athletics roster"
-        ],
-        "sourceSummary": "George Washington Athletics roster",
-        "schoolSlug": "george-washington",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gwsports.com/sports/baseball/roster/matt-bruno/10380",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "george-washington-10417",
-        "name": "Nathan Murphy",
-        "school": "George Washington",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "JR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Nathan Murphy looks like a LHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "LHP",
-          "JR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "George Washington Athletics roster"
-        ],
-        "sourceSummary": "George Washington Athletics roster",
-        "schoolSlug": "george-washington",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gwsports.com/sports/baseball/roster/nathan-murphy/10417",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "george-washington-10430",
-        "name": "Owen Bourgeois",
-        "school": "George Washington",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "FR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Owen Bourgeois looks like a LHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / N/A",
-        "detailBadges": [
-          "LHP",
-          "FR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "George Washington Athletics roster"
-        ],
-        "sourceSummary": "George Washington Athletics roster",
-        "schoolSlug": "george-washington",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gwsports.com/sports/baseball/roster/owen-bourgeois/10430",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "george-washington-10431",
-        "name": "Anthony Coppola",
-        "school": "George Washington",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "FR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Anthony Coppola gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "FR / N/A",
-        "detailBadges": [
-          "OF",
-          "FR",
-          "N/A",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "George Washington Athletics roster"
-        ],
-        "sourceSummary": "George Washington Athletics roster",
-        "schoolSlug": "george-washington",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://gwsports.com/sports/baseball/roster/anthony-coppola/10431",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "george-washington-10432",
-        "name": "Cameron Croci",
-        "school": "George Washington",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "FR",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Cameron Croci looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / N/A",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "George Washington Athletics roster"
-        ],
-        "sourceSummary": "George Washington Athletics roster",
-        "schoolSlug": "george-washington",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gwsports.com/sports/baseball/roster/cameron-croci/10432",
-        "espnAthleteId": ""
-      },
-      {
         "id": "george-washington-10433",
         "name": "Cameron Duke",
         "school": "George Washington",
         "role": "Hitter",
         "position": "OF",
-        "classYear": "FR",
+        "classYear": "1ST",
         "handedness": "N/A",
         "score": 0,
         "fit": {
@@ -5257,10 +3529,10 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "FR / N/A",
+        "metaLine": "1ST / N/A",
         "detailBadges": [
           "OF",
-          "FR",
+          "1ST",
           "N/A",
           "Rostered"
         ],
@@ -5274,19 +3546,19 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "george-washington-10434",
-        "name": "Aidan McKeating",
+        "id": "george-washington-10394",
+        "name": "Travis Peitz",
         "school": "George Washington",
         "role": "Hitter",
         "position": "INF",
-        "classYear": "FR",
+        "classYear": "2ND",
         "handedness": "N/A",
         "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Aidan McKeating gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Travis Peitz gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG --",
           "OBP --",
@@ -5325,10 +3597,10 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "FR / N/A",
+        "metaLine": "2ND / N/A",
         "detailBadges": [
           "INF",
-          "FR",
+          "2ND",
           "N/A",
           "Rostered"
         ],
@@ -5338,23 +3610,23 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "sourceSummary": "George Washington Athletics roster",
         "schoolSlug": "george-washington",
         "compositeRole": "Rostered",
-        "profileUrl": "https://gwsports.com/sports/baseball/roster/aidan-mckeating/10434",
+        "profileUrl": "https://gwsports.com/sports/baseball/roster/travis-peitz/10394",
         "espnAthleteId": ""
       },
       {
-        "id": "george-washington-10495",
-        "name": "Miguel Morales",
+        "id": "george-washington-10384",
+        "name": "Brodie Freker",
         "school": "George Washington",
         "role": "Hitter",
-        "position": "INF",
-        "classYear": "GR",
+        "position": "OF",
+        "classYear": "3RD",
         "handedness": "N/A",
         "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Miguel Morales gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Brodie Freker gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG --",
           "OBP --",
@@ -5393,10 +3665,10 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "GR / N/A",
+        "metaLine": "3RD / N/A",
         "detailBadges": [
-          "INF",
-          "GR",
+          "OF",
+          "3RD",
           "N/A",
           "Rostered"
         ],
@@ -5406,23 +3678,227 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "sourceSummary": "George Washington Athletics roster",
         "schoolSlug": "george-washington",
         "compositeRole": "Rostered",
-        "profileUrl": "https://gwsports.com/sports/baseball/roster/miguel-morales/10495",
+        "profileUrl": "https://gwsports.com/sports/baseball/roster/brodie-freker/10384",
         "espnAthleteId": ""
       },
       {
-        "id": "george-washington-10435",
-        "name": "Camden Ogden",
+        "id": "george-washington-10390",
+        "name": "Nick Mullen",
+        "school": "George Washington",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "4TH",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Nick Mullen gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "4TH / N/A",
+        "detailBadges": [
+          "INF",
+          "4TH",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "George Washington Athletics roster"
+        ],
+        "sourceSummary": "George Washington Athletics roster",
+        "schoolSlug": "george-washington",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gwsports.com/sports/baseball/roster/nick-mullen/10390",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "george-washington-10388",
+        "name": "Luke Maltacea",
+        "school": "George Washington",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "2ND",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Luke Maltacea gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "2ND / N/A",
+        "detailBadges": [
+          "INF",
+          "2ND",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "George Washington Athletics roster"
+        ],
+        "sourceSummary": "George Washington Athletics roster",
+        "schoolSlug": "george-washington",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gwsports.com/sports/baseball/roster/luke-maltacea/10388",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "george-washington-10386",
+        "name": "Connor Jones",
+        "school": "George Washington",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "2ND",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Connor Jones gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "2ND / N/A",
+        "detailBadges": [
+          "OF",
+          "2ND",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "George Washington Athletics roster"
+        ],
+        "sourceSummary": "George Washington Athletics roster",
+        "schoolSlug": "george-washington",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gwsports.com/sports/baseball/roster/connor-jones/10386",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "george-washington-10432",
+        "name": "Cameron Croci",
         "school": "George Washington",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "FR",
+        "classYear": "1ST",
         "handedness": "N/A",
         "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Camden Ogden looks like a RHP option who throws enough strikes.",
+        "summary": "Cameron Croci looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -5461,10 +3937,10 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "FR / N/A",
+        "metaLine": "1ST / N/A",
         "detailBadges": [
           "RHP",
-          "FR",
+          "1ST",
           "N/A",
           "Pitcher"
         ],
@@ -5474,7 +3950,755 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "sourceSummary": "George Washington Athletics roster",
         "schoolSlug": "george-washington",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://gwsports.com/sports/baseball/roster/camden-ogden/10435",
+        "profileUrl": "https://gwsports.com/sports/baseball/roster/cameron-croci/10432",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "george-washington-10741",
+        "name": "Richie LaCien",
+        "school": "George Washington",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "GR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Richie LaCien looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "GR / N/A",
+        "detailBadges": [
+          "RHP",
+          "GR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "George Washington Athletics roster"
+        ],
+        "sourceSummary": "George Washington Athletics roster",
+        "schoolSlug": "george-washington",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gwsports.com/sports/baseball/roster/richie-lacien/10741",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "george-washington-10398",
+        "name": "Charlie Walsh",
+        "school": "George Washington",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "3RD",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Charlie Walsh gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "3RD / N/A",
+        "detailBadges": [
+          "INF",
+          "3RD",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "George Washington Athletics roster"
+        ],
+        "sourceSummary": "George Washington Athletics roster",
+        "schoolSlug": "george-washington",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gwsports.com/sports/baseball/roster/charlie-walsh/10398",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "george-washington-10405",
+        "name": "Michael Bravette",
+        "school": "George Washington",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "2ND",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Michael Bravette gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "2ND / N/A",
+        "detailBadges": [
+          "INF",
+          "2ND",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "George Washington Athletics roster"
+        ],
+        "sourceSummary": "George Washington Athletics roster",
+        "schoolSlug": "george-washington",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gwsports.com/sports/baseball/roster/michael-bravette/10405",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "george-washington-10430",
+        "name": "Owen Bourgeois",
+        "school": "George Washington",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "1ST",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Owen Bourgeois looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "1ST / N/A",
+        "detailBadges": [
+          "LHP",
+          "1ST",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "George Washington Athletics roster"
+        ],
+        "sourceSummary": "George Washington Athletics roster",
+        "schoolSlug": "george-washington",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gwsports.com/sports/baseball/roster/owen-bourgeois/10430",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "george-washington-10415",
+        "name": "Gavin Miller",
+        "school": "George Washington",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "4TH",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Gavin Miller looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "4TH / N/A",
+        "detailBadges": [
+          "LHP",
+          "4TH",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "George Washington Athletics roster"
+        ],
+        "sourceSummary": "George Washington Athletics roster",
+        "schoolSlug": "george-washington",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gwsports.com/sports/baseball/roster/gavin-miller/10415",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "george-washington-10378",
+        "name": "Ryan Barks",
+        "school": "George Washington",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "2ND",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Ryan Barks looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "2ND / N/A",
+        "detailBadges": [
+          "RHP",
+          "2ND",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "George Washington Athletics roster"
+        ],
+        "sourceSummary": "George Washington Athletics roster",
+        "schoolSlug": "george-washington",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gwsports.com/sports/baseball/roster/ryan-barks/10378",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "george-washington-10392",
+        "name": "Jasper Nadel",
+        "school": "George Washington",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "3RD",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jasper Nadel looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "3RD / N/A",
+        "detailBadges": [
+          "RHP",
+          "3RD",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "George Washington Athletics roster"
+        ],
+        "sourceSummary": "George Washington Athletics roster",
+        "schoolSlug": "george-washington",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gwsports.com/sports/baseball/roster/jasper-nadel/10392",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "george-washington-10403",
+        "name": "Brian Archer",
+        "school": "George Washington",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "2ND",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Brian Archer gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "2ND / N/A",
+        "detailBadges": [
+          "INF",
+          "2ND",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "George Washington Athletics roster"
+        ],
+        "sourceSummary": "George Washington Athletics roster",
+        "schoolSlug": "george-washington",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gwsports.com/sports/baseball/roster/brian-archer/10403",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "george-washington-10411",
+        "name": "Drew Harris",
+        "school": "George Washington",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "3RD",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Drew Harris looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "3RD / N/A",
+        "detailBadges": [
+          "RHP",
+          "3RD",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "George Washington Athletics roster"
+        ],
+        "sourceSummary": "George Washington Athletics roster",
+        "schoolSlug": "george-washington",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gwsports.com/sports/baseball/roster/drew-harris/10411",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "george-washington-10382",
+        "name": "Andrew Cutler",
+        "school": "George Washington",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "4TH",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Andrew Cutler looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "4TH / N/A",
+        "detailBadges": [
+          "RHP",
+          "4TH",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "George Washington Athletics roster"
+        ],
+        "sourceSummary": "George Washington Athletics roster",
+        "schoolSlug": "george-washington",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gwsports.com/sports/baseball/roster/andrew-cutler/10382",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "george-washington-10413",
+        "name": "Henry Knighton",
+        "school": "George Washington",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "2ND",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Henry Knighton looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "2ND / N/A",
+        "detailBadges": [
+          "RHP",
+          "2ND",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "George Washington Athletics roster"
+        ],
+        "sourceSummary": "George Washington Athletics roster",
+        "schoolSlug": "george-washington",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gwsports.com/sports/baseball/roster/henry-knighton/10413",
         "espnAthleteId": ""
       },
       {
@@ -5483,7 +4707,7 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "school": "George Washington",
         "role": "Hitter",
         "position": "INF",
-        "classYear": "FR",
+        "classYear": "1ST",
         "handedness": "N/A",
         "score": 0,
         "fit": {
@@ -5529,10 +4753,10 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "FR / N/A",
+        "metaLine": "1ST / N/A",
         "detailBadges": [
           "INF",
-          "FR",
+          "1ST",
           "N/A",
           "Rostered"
         ],
@@ -5546,8 +4770,1028 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "espnAthleteId": ""
       },
       {
+        "id": "george-washington-10431",
+        "name": "Anthony Coppola",
+        "school": "George Washington",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "1ST",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Anthony Coppola gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "1ST / N/A",
+        "detailBadges": [
+          "OF",
+          "1ST",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "George Washington Athletics roster"
+        ],
+        "sourceSummary": "George Washington Athletics roster",
+        "schoolSlug": "george-washington",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gwsports.com/sports/baseball/roster/anthony-coppola/10431",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "george-washington-10425",
+        "name": "Josh Wenz",
+        "school": "George Washington",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "4TH",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Josh Wenz gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "4TH / N/A",
+        "detailBadges": [
+          "INF",
+          "4TH",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "George Washington Athletics roster"
+        ],
+        "sourceSummary": "George Washington Athletics roster",
+        "schoolSlug": "george-washington",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gwsports.com/sports/baseball/roster/josh-wenz/10425",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "george-washington-10421",
+        "name": "Liam Thyen",
+        "school": "George Washington",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "2ND",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Liam Thyen looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "2ND / N/A",
+        "detailBadges": [
+          "LHP",
+          "2ND",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "George Washington Athletics roster"
+        ],
+        "sourceSummary": "George Washington Athletics roster",
+        "schoolSlug": "george-washington",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gwsports.com/sports/baseball/roster/liam-thyen/10421",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "george-washington-10400",
+        "name": "Declan Wywoda",
+        "school": "George Washington",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "3RD",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Declan Wywoda looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "3RD / N/A",
+        "detailBadges": [
+          "RHP",
+          "3RD",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "George Washington Athletics roster"
+        ],
+        "sourceSummary": "George Washington Athletics roster",
+        "schoolSlug": "george-washington",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gwsports.com/sports/baseball/roster/declan-wywoda/10400",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "george-washington-10423",
+        "name": "Conlon Walker",
+        "school": "George Washington",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "4TH",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Conlon Walker gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "4TH / N/A",
+        "detailBadges": [
+          "OF",
+          "4TH",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "George Washington Athletics roster"
+        ],
+        "sourceSummary": "George Washington Athletics roster",
+        "schoolSlug": "george-washington",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gwsports.com/sports/baseball/roster/conlon-walker/10423",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "george-washington-10409",
+        "name": "Christian Dewey",
+        "school": "George Washington",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "2ND",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Christian Dewey gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "2ND / N/A",
+        "detailBadges": [
+          "OF",
+          "2ND",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "George Washington Athletics roster"
+        ],
+        "sourceSummary": "George Washington Athletics roster",
+        "schoolSlug": "george-washington",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gwsports.com/sports/baseball/roster/christian-dewey/10409",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "george-washington-10495",
+        "name": "Miguel Morales",
+        "school": "George Washington",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "5TH",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Miguel Morales gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "5TH / N/A",
+        "detailBadges": [
+          "INF",
+          "5TH",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "George Washington Athletics roster"
+        ],
+        "sourceSummary": "George Washington Athletics roster",
+        "schoolSlug": "george-washington",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gwsports.com/sports/baseball/roster/miguel-morales/10495",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "george-washington-10419",
+        "name": "Drew Oppenheim",
+        "school": "George Washington",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "4TH",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Drew Oppenheim looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "4TH / N/A",
+        "detailBadges": [
+          "LHP",
+          "4TH",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "George Washington Athletics roster"
+        ],
+        "sourceSummary": "George Washington Athletics roster",
+        "schoolSlug": "george-washington",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gwsports.com/sports/baseball/roster/drew-oppenheim/10419",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "george-washington-10407",
+        "name": "Aidan Carey",
+        "school": "George Washington",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "3RD",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Aidan Carey looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "3RD / N/A",
+        "detailBadges": [
+          "RHP",
+          "3RD",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "George Washington Athletics roster"
+        ],
+        "sourceSummary": "George Washington Athletics roster",
+        "schoolSlug": "george-washington",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gwsports.com/sports/baseball/roster/aidan-carey/10407",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "george-washington-10376",
+        "name": "Jonas Aponick",
+        "school": "George Washington",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "3RD",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jonas Aponick looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "3RD / N/A",
+        "detailBadges": [
+          "RHP",
+          "3RD",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "George Washington Athletics roster"
+        ],
+        "sourceSummary": "George Washington Athletics roster",
+        "schoolSlug": "george-washington",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gwsports.com/sports/baseball/roster/jonas-aponick/10376",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "george-washington-10401",
+        "name": "Ayden Alexander",
+        "school": "George Washington",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "4TH",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Ayden Alexander looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "4TH / N/A",
+        "detailBadges": [
+          "LHP",
+          "4TH",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "George Washington Athletics roster"
+        ],
+        "sourceSummary": "George Washington Athletics roster",
+        "schoolSlug": "george-washington",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gwsports.com/sports/baseball/roster/ayden-alexander/10401",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "george-washington-10380",
+        "name": "Matt Bruno",
+        "school": "George Washington",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "4TH",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Matt Bruno looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "4TH / N/A",
+        "detailBadges": [
+          "RHP",
+          "4TH",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "George Washington Athletics roster"
+        ],
+        "sourceSummary": "George Washington Athletics roster",
+        "schoolSlug": "george-washington",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gwsports.com/sports/baseball/roster/matt-bruno/10380",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "george-washington-10417",
+        "name": "Nathan Murphy",
+        "school": "George Washington",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "3RD",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Nathan Murphy looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "3RD / N/A",
+        "detailBadges": [
+          "LHP",
+          "3RD",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "George Washington Athletics roster"
+        ],
+        "sourceSummary": "George Washington Athletics roster",
+        "schoolSlug": "george-washington",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gwsports.com/sports/baseball/roster/nathan-murphy/10417",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "george-washington-10760",
+        "name": "Masai Marshall",
+        "school": "George Washington",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "3RD",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Masai Marshall gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "3RD / N/A",
+        "detailBadges": [
+          "OF",
+          "3RD",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "George Washington Athletics roster"
+        ],
+        "sourceSummary": "George Washington Athletics roster",
+        "schoolSlug": "george-washington",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gwsports.com/sports/baseball/roster/masai-marshall/10760",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "george-washington-10434",
+        "name": "Aidan McKeating",
+        "school": "George Washington",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "1ST",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Aidan McKeating gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "1ST / N/A",
+        "detailBadges": [
+          "INF",
+          "1ST",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "George Washington Athletics roster"
+        ],
+        "sourceSummary": "George Washington Athletics roster",
+        "schoolSlug": "george-washington",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gwsports.com/sports/baseball/roster/aidan-mckeating/10434",
+        "espnAthleteId": ""
+      },
+      {
         "id": "george-washington-10629",
-        "name": "Matt Zapotek",
+        "name": "Matt Zatopek",
         "school": "George Washington",
         "role": "Pitcher",
         "position": "RHP",
@@ -5558,7 +5802,7 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Matt Zapotek looks like a RHP option who throws enough strikes.",
+        "summary": "Matt Zatopek looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -5610,7 +5854,75 @@ window.__BASEBALL_DATASETS__.george-washington2026 = {
         "sourceSummary": "George Washington Athletics roster",
         "schoolSlug": "george-washington",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://gwsports.com/sports/baseball/roster/matt-zapotek/10629",
+        "profileUrl": "https://gwsports.com/sports/baseball/roster/matt-zatopek/10629",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "george-washington-10435",
+        "name": "Camden Ogden",
+        "school": "George Washington",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "1ST",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Camden Ogden looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "1ST / N/A",
+        "detailBadges": [
+          "RHP",
+          "1ST",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "George Washington Athletics roster"
+        ],
+        "sourceSummary": "George Washington Athletics roster",
+        "schoolSlug": "george-washington",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gwsports.com/sports/baseball/roster/camden-ogden/10435",
         "espnAthleteId": ""
       }
     ]

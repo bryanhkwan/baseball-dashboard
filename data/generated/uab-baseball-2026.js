@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.uab2026 = {
-  "generatedAt": "2026-07-16T10:55:42.474Z",
+  "generatedAt": "2026-11-18T10:19:04.289Z",
   "season": 2026,
   "school": {
     "slug": "uab",
@@ -25,17 +25,38 @@ window.__BASEBALL_DATASETS__.uab2026 = {
     "ncaa": "NCAA school index"
   },
   "coverage": {
-    "rosterPlayers": 35,
+    "rosterPlayers": 40,
     "espnRosterPlayers": 0,
-    "playersWithHittingStats": 15,
-    "playersWithPitchingStats": 15,
-    "playersWithFieldingStats": 26,
-    "mergedPlayersWithAnyStats": 27,
+    "playersWithHittingStats": 0,
+    "playersWithPitchingStats": 0,
+    "playersWithFieldingStats": 0,
+    "mergedPlayersWithAnyStats": 0,
     "matchedEspnPlayers": 0,
     "unmatchedStatRows": {
-      "hitting": [],
-      "pitching": [],
-      "fielding": []
+      "hitting": [
+        "Wesley Helms",
+        "Brady Waugh",
+        "Patrick McGlon",
+        "Mason Steele",
+        "Jake Merrick"
+      ],
+      "pitching": [
+        "Mason Steele",
+        "Drew Thompson",
+        "Hunter Hyatt",
+        "Braxton Shelton",
+        "Tyler Haines"
+      ],
+      "fielding": [
+        "Mason Steele",
+        "Braxton Shelton",
+        "Jake Merrick",
+        "Tyler Haines",
+        "Patrick McGlon",
+        "Hunter Hyatt",
+        "Wesley Helms",
+        "Brady Waugh"
+      ]
     }
   },
   "teamSummary": {
@@ -124,24 +145,112 @@ window.__BASEBALL_DATASETS__.uab2026 = {
   },
   "players": [
     {
-      "id": "uab-11498",
+      "id": "uab-12336",
+      "schoolSlug": "uab",
+      "school": "UAB",
+      "schoolLongName": "UAB",
+      "name": "John Lindsey III",
+      "normalizedName": "john lindsey",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "",
+      "classYear": "FR",
+      "handedness": "N/A",
+      "jersey": "00",
+      "hometown": "Hattiesburg, Miss.",
+      "highSchool": "Petal",
+      "previousSchool": "",
+      "hometownHighSchool": "Hattiesburg, Miss. / Petal",
+      "profileUrl": "https://uabsports.com/sports/baseball/roster/john-lindsey-iii/12336",
+      "imageUrl": "https://uabsports.com/images/2026/8/26/Lindsey.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12336",
+      "sources": [
+        "UAB Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "John Lindsey III gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "INF",
+          "FR",
+          "N/A",
+          "Rostered"
+        ],
+        "sourceSummary": "UAB Athletics roster"
+      }
+    },
+    {
+      "id": "uab-12306",
       "schoolSlug": "uab",
       "school": "UAB",
       "schoolLongName": "UAB",
       "name": "Kevin Hall Jr.",
       "normalizedName": "kevin hall",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "OF",
       "positionLong": "",
-      "classYear": "JR",
+      "classYear": "SR",
       "handedness": "N/A",
       "jersey": "1",
       "hometown": "Munster, Ind.",
       "highSchool": "Munster",
       "previousSchool": "Grambling State/Purdue Fort Wayne",
       "hometownHighSchool": "Munster, Ind. / Munster",
-      "profileUrl": "https://uabsports.com/sports/baseball/roster/kevin-hall-jr/11498",
+      "profileUrl": "https://uabsports.com/sports/baseball/roster/kevin-hall-jr/12306",
       "imageUrl": "https://uabsports.com/images/2026/1/16/060A1192.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -149,310 +258,163 @@ window.__BASEBALL_DATASETS__.uab2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "11498",
+      "rosterBioId": "12306",
       "sources": [
-        "UAB Athletics roster",
-        "UAB cumulative stats"
+        "UAB Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "11498",
-        "name": "Kevin Hall Jr.",
-        "normalizedName": "kevin hall",
-        "jersey": "1",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/kevin-hall-jr/11498",
-        "imageUrl": "https://uabsports.com/images/2026/1/16/060A1192.jpg",
-        "gamesPlayed": 53,
-        "gamesStarted": 52,
-        "battingAverage": 0.277,
-        "onBasePercentage": 0.388,
-        "sluggingPercentage": 0.441,
-        "ops": 0.829,
-        "atBats": 202,
-        "runs": 54,
-        "hits": 56,
-        "doubles": 6,
-        "triples": 0,
-        "homeRuns": 9,
-        "runsBattedIn": 43,
-        "totalBases": 89,
-        "walks": 27,
-        "hitByPitch": 11,
-        "strikeouts": 25,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 3,
-        "sacrificeFlies": 2,
-        "sacrificeHits": 3,
-        "stolenBases": 21,
-        "stolenBasesAttempts": 26,
-        "putouts": 141,
-        "assists": 0,
-        "errors": 3,
-        "plateAppearances": 282,
-        "caughtStealing": 5,
-        "pickedOff": 1
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "11498",
-        "name": "Kevin Hall Jr.",
-        "normalizedName": "kevin hall",
-        "jersey": "1",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/kevin-hall-jr/11498",
-        "imageUrl": "https://uabsports.com/images/2026/1/16/060A1192.jpg",
-        "gamesPlayed": 45,
-        "gamesStarted": 45,
-        "putouts": 141,
-        "assists": 6,
-        "errors": 3,
-        "fieldingPercentage": 0.98,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 150
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 55,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 60,
-          "Power": 31.8421052631579,
-          "Contact": 35.625000000000014,
-          "Discipline": 97.77777777777777,
-          "Speed": 70
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "summary": "Kevin Hall Jr. profiles as a OF piece who controls at-bats and adds running-game pressure.",
+        "summary": "Kevin Hall Jr. gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .277",
-          "OBP .388",
-          "SLG .441"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".277"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".388"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".441"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "9"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "43"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "21"
+            "value": "0"
           }
         ],
-        "metaLine": "JR / N/A",
+        "metaLine": "SR / N/A",
         "detailBadges": [
           "OF",
-          "JR",
+          "SR",
           "N/A",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats"
+        "sourceSummary": "UAB Athletics roster"
       }
     },
     {
-      "id": "uab-11522",
+      "id": "uab-12335",
       "schoolSlug": "uab",
       "school": "UAB",
       "schoolLongName": "UAB",
-      "name": "Mason Steele",
-      "normalizedName": "mason steele",
-      "compositeRole": "Two-Way",
-      "role": "Pitcher",
-      "position": "OF/RHP",
+      "name": "Rhys Jones",
+      "normalizedName": "rhys jones",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
       "positionLong": "",
-      "classYear": "JR",
+      "classYear": "FR",
       "handedness": "N/A",
       "jersey": "2",
-      "hometown": "Headland, Ala.",
-      "highSchool": "Headland",
-      "previousSchool": "Shelton State CC",
-      "hometownHighSchool": "Headland, Ala. / Headland",
-      "profileUrl": "https://uabsports.com/sports/baseball/roster/mason-steele/11522",
-      "imageUrl": "https://uabsports.com/images/2026/1/16/Mason_Steele_v2Vuu.jpg",
+      "hometown": "Birmingham, Ala.",
+      "highSchool": "Spain Park",
+      "previousSchool": "",
+      "hometownHighSchool": "Birmingham, Ala. / Spain Park",
+      "profileUrl": "https://uabsports.com/sports/baseball/roster/rhys-jones/12335",
+      "imageUrl": "https://uabsports.com/images/2026/8/26/Jones.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "11522",
+      "rosterBioId": "12335",
       "sources": [
-        "UAB Athletics roster",
-        "UAB cumulative stats"
+        "UAB Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "11522",
-        "name": "Mason Steele",
-        "normalizedName": "mason steele",
-        "jersey": "2",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/mason-steele/11522",
-        "imageUrl": "https://uabsports.com/images/2026/1/16/Mason_Steele_v2Vuu.jpg",
-        "gamesPlayed": 23,
-        "gamesStarted": 15,
-        "battingAverage": 0.222,
-        "onBasePercentage": 0.417,
-        "sluggingPercentage": 0.333,
-        "ops": 0.75,
-        "atBats": 18,
-        "runs": 4,
-        "hits": 4,
-        "doubles": 0,
-        "triples": 1,
-        "homeRuns": 0,
-        "runsBattedIn": 3,
-        "totalBases": 6,
-        "walks": 4,
-        "hitByPitch": 2,
-        "strikeouts": 9,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 1,
-        "stolenBases": 2,
-        "stolenBasesAttempts": 3,
-        "putouts": 10,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 29,
-        "caughtStealing": 1,
-        "pickedOff": 0
-      },
-      "pitchingStats": {
-        "rosterBioId": "11522",
-        "name": "Mason Steele",
-        "normalizedName": "mason steele",
-        "jersey": "2",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/mason-steele/11522",
-        "imageUrl": "https://uabsports.com/images/2026/1/16/Mason_Steele_v2Vuu.jpg",
-        "gamesPlayed": 14,
-        "gamesStarted": 14,
-        "appearances": 14,
-        "gamesCompleted": 1,
-        "earnedRunAverage": 4.66,
-        "whip": 1.15,
-        "wins": 6,
-        "losses": 3,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 75.33333333333333,
-        "inningsPitchedDisplay": "75.1",
-        "hitsAllowed": 61,
-        "runsAllowed": 45,
-        "earnedRunsAllowed": 39,
-        "walksAllowed": 26,
-        "strikeouts": 68,
-        "doublesAllowed": 11,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 11,
-        "opponentsAtBats": 278,
-        "wildPitches": 9,
-        "hitBatters": 4,
-        "balks": 0,
-        "opponentsBattingAverage": 0.219,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "11522",
-        "name": "Mason Steele",
-        "normalizedName": "mason steele",
-        "jersey": "2",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/mason-steele/11522",
-        "imageUrl": "https://uabsports.com/images/2026/1/16/Mason_Steele_v2Vuu.jpg",
-        "gamesPlayed": 13,
-        "gamesStarted": 11,
-        "putouts": 14,
-        "assists": 3,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 5,
-        "caughtStealingBy": 4,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 17
-      },
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 13,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 37.48994368463395,
-          "Command": 32.3076923076923,
-          "Damage suppression": 0
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "summary": "Mason Steele looks like a OF/RHP option who keeps traffic under control.",
+        "summary": "Rhys Jones gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.66",
-          "WHIP 1.15",
-          "K/9 8.1"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
-            "label": "ERA",
-            "value": "4.66"
+            "label": "AVG",
+            "value": "--"
           },
           {
-            "label": "WHIP",
-            "value": "1.15"
+            "label": "OBP",
+            "value": "--"
           },
           {
-            "label": "K/9",
-            "value": "8.1"
+            "label": "SLG",
+            "value": "--"
           },
           {
-            "label": "BB/9",
-            "value": "3.1"
+            "label": "HR",
+            "value": "0"
           },
           {
-            "label": "HR/9",
-            "value": "1.31"
+            "label": "RBI",
+            "value": "0"
           },
           {
-            "label": "IP",
-            "value": "75.3"
+            "label": "SB",
+            "value": "0"
           }
         ],
-        "metaLine": "JR / N/A",
+        "metaLine": "FR / N/A",
         "detailBadges": [
-          "OF/RHP",
-          "JR",
+          "INF",
+          "FR",
           "N/A",
-          "Two-Way"
+          "Rostered"
         ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats"
+        "sourceSummary": "UAB Athletics roster"
       }
     },
     {
-      "id": "uab-11523",
+      "id": "uab-12326",
       "schoolSlug": "uab",
       "school": "UAB",
       "schoolLongName": "UAB",
-      "name": "Drew Thompson",
-      "normalizedName": "drew thompson",
+      "name": "Gunner Dodd",
+      "normalizedName": "gunner dodd",
       "compositeRole": "Pitcher",
       "role": "Pitcher",
       "position": "RHP",
@@ -460,58 +422,24 @@ window.__BASEBALL_DATASETS__.uab2026 = {
       "classYear": "JR",
       "handedness": "N/A",
       "jersey": "3",
-      "hometown": "Mansfield, Texas",
-      "highSchool": "Mansfield Lake Ridge",
-      "previousSchool": "North Central Texas College",
-      "hometownHighSchool": "Mansfield, Texas / Mansfield Lake Ridge",
-      "profileUrl": "https://uabsports.com/sports/baseball/roster/drew-thompson/11523",
-      "imageUrl": "https://uabsports.com/images/2026/1/16/Drew_Thompson_RZXgG.jpg",
+      "hometown": "New Market, Ala.",
+      "highSchool": "Hazel Green",
+      "previousSchool": "Shelton State CC",
+      "hometownHighSchool": "New Market, Ala. / Hazel Green",
+      "profileUrl": "https://uabsports.com/sports/baseball/roster/gunner-dodd/12326",
+      "imageUrl": "https://uabsports.com/images/2026/8/26/Dodd.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "11523",
+      "rosterBioId": "12326",
       "sources": [
-        "UAB Athletics roster",
-        "UAB cumulative stats"
+        "UAB Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "11523",
-        "name": "Drew Thompson",
-        "normalizedName": "drew thompson",
-        "jersey": "3",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/drew-thompson/11523",
-        "imageUrl": "https://uabsports.com/images/2026/1/16/Drew_Thompson_RZXgG.jpg",
-        "gamesPlayed": 1,
-        "gamesStarted": 0,
-        "appearances": 1,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 0,
-        "whip": 0,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 0,
-        "inningsPitchedDisplay": "0.0",
-        "hitsAllowed": 1,
-        "runsAllowed": 0,
-        "earnedRunsAllowed": 0,
-        "walksAllowed": 1,
-        "strikeouts": 0,
-        "doublesAllowed": 0,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 1,
-        "wildPitches": 0,
-        "hitBatters": 0,
-        "balks": 0,
-        "opponentsBattingAverage": 1,
-        "walksHits": 0
-      },
+      "pitchingStats": null,
       "fieldingStats": null,
       "evaluation": {
         "score": 0,
@@ -526,20 +454,20 @@ window.__BASEBALL_DATASETS__.uab2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Drew Thompson looks like a RHP option who limits runs and throws enough strikes and keeps traffic under control.",
+        "summary": "Gunner Dodd looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 0.00",
-          "WHIP 0.00",
+          "ERA --",
+          "WHIP --",
           "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "0.00"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "0.00"
+            "value": "--"
           },
           {
             "label": "K/9",
@@ -565,99 +493,42 @@ window.__BASEBALL_DATASETS__.uab2026 = {
           "N/A",
           "Pitcher"
         ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats"
+        "sourceSummary": "UAB Athletics roster"
       }
     },
     {
-      "id": "uab-11512",
+      "id": "uab-12338",
       "schoolSlug": "uab",
       "school": "UAB",
       "schoolLongName": "UAB",
-      "name": "Jake Merrick",
-      "normalizedName": "jake merrick",
-      "compositeRole": "Hitter",
+      "name": "Kent Collier",
+      "normalizedName": "kent collier",
+      "compositeRole": "Rostered",
       "role": "Hitter",
-      "position": "INF",
+      "position": "OF",
       "positionLong": "",
-      "classYear": "SO",
+      "classYear": "R-JR",
       "handedness": "N/A",
       "jersey": "4",
-      "hometown": "Knoxville, Tenn.",
-      "highSchool": "Farragut",
-      "previousSchool": "",
-      "hometownHighSchool": "Knoxville, Tenn. / Farragut",
-      "profileUrl": "https://uabsports.com/sports/baseball/roster/jake-merrick/11512",
-      "imageUrl": "https://uabsports.com/images/2026/1/16/Jake_Merrick_47DJ2.jpg",
+      "hometown": "Atlanta, Ga.",
+      "highSchool": "Woodland",
+      "previousSchool": "ABAC/Georgia Highlands College",
+      "hometownHighSchool": "Atlanta, Ga. / Woodland",
+      "profileUrl": "https://uabsports.com/sports/baseball/roster/kent-collier/12338",
+      "imageUrl": "https://uabsports.com/images/2026/8/26/Collier.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "11512",
+      "rosterBioId": "12338",
       "sources": [
-        "UAB Athletics roster",
-        "UAB cumulative stats"
+        "UAB Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "11512",
-        "name": "Jake Merrick",
-        "normalizedName": "jake merrick",
-        "jersey": "4",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/jake-merrick/11512",
-        "imageUrl": "https://uabsports.com/images/2026/1/16/Jake_Merrick_47DJ2.jpg",
-        "gamesPlayed": 11,
-        "gamesStarted": 0,
-        "battingAverage": 0,
-        "onBasePercentage": 0,
-        "sluggingPercentage": 0,
-        "ops": 0,
-        "atBats": 9,
-        "runs": 0,
-        "hits": 0,
-        "doubles": 0,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 0,
-        "totalBases": 0,
-        "walks": 0,
-        "hitByPitch": 0,
-        "strikeouts": 6,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 2,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 9,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "11512",
-        "name": "Jake Merrick",
-        "normalizedName": "jake merrick",
-        "jersey": "4",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/jake-merrick/11512",
-        "imageUrl": "https://uabsports.com/images/2026/1/16/Jake_Merrick_47DJ2.jpg",
-        "gamesPlayed": 2,
-        "gamesStarted": 0,
-        "putouts": 2,
-        "assists": 2,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 1,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 4
-      },
+      "fieldingStats": null,
       "evaluation": {
         "score": 0,
         "fit": {
@@ -671,24 +542,24 @@ window.__BASEBALL_DATASETS__.uab2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "summary": "Jake Merrick gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Kent Collier gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .000",
-          "OBP .000",
-          "SLG .000"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -703,18 +574,18 @@ window.__BASEBALL_DATASETS__.uab2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "SO / N/A",
+        "metaLine": "R-JR / N/A",
         "detailBadges": [
-          "INF",
-          "SO",
+          "OF",
+          "R-JR",
           "N/A",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats"
+        "sourceSummary": "UAB Athletics roster"
       }
     },
     {
-      "id": "uab-11524",
+      "id": "uab-12322",
       "schoolSlug": "uab",
       "school": "UAB",
       "schoolLongName": "UAB",
@@ -724,14 +595,14 @@ window.__BASEBALL_DATASETS__.uab2026 = {
       "role": "Pitcher",
       "position": "LHP",
       "positionLong": "",
-      "classYear": "R-JR",
+      "classYear": "GR",
       "handedness": "N/A",
       "jersey": "5",
       "hometown": "Montgomery, Ala.",
       "highSchool": "Alabama Christian Academy",
       "previousSchool": "",
       "hometownHighSchool": "Montgomery, Ala. / Alabama Christian Academy",
-      "profileUrl": "https://uabsports.com/sports/baseball/roster/isaac-warrick/11524",
+      "profileUrl": "https://uabsports.com/sports/baseball/roster/isaac-warrick/12322",
       "imageUrl": "https://uabsports.com/images/2026/1/16/Isaac_Warrick_YET4t.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -739,105 +610,15 @@ window.__BASEBALL_DATASETS__.uab2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "11524",
+      "rosterBioId": "12322",
       "sources": [
-        "UAB Athletics roster",
-        "UAB cumulative stats"
+        "UAB Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "11524",
-        "name": "Isaac Warrick",
-        "normalizedName": "isaac warrick",
-        "jersey": "5",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/isaac-warrick/11524",
-        "imageUrl": "https://uabsports.com/images/2026/1/16/Isaac_Warrick_YET4t.jpg",
-        "gamesPlayed": 15,
-        "gamesStarted": 1,
-        "battingAverage": 0,
-        "onBasePercentage": 0,
-        "sluggingPercentage": 0,
-        "ops": 0,
-        "atBats": 0,
-        "runs": 1,
-        "hits": 0,
-        "doubles": 0,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 0,
-        "totalBases": 0,
-        "walks": 0,
-        "hitByPitch": 0,
-        "strikeouts": 0,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 2,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 0,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": {
-        "rosterBioId": "11524",
-        "name": "Isaac Warrick",
-        "normalizedName": "isaac warrick",
-        "jersey": "5",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/isaac-warrick/11524",
-        "imageUrl": "https://uabsports.com/images/2026/1/16/Isaac_Warrick_YET4t.jpg",
-        "gamesPlayed": 15,
-        "gamesStarted": 1,
-        "appearances": 15,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 4.29,
-        "whip": 1.48,
-        "wins": 1,
-        "losses": 1,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 21,
-        "inningsPitchedDisplay": "21.0",
-        "hitsAllowed": 20,
-        "runsAllowed": 11,
-        "earnedRunsAllowed": 10,
-        "walksAllowed": 11,
-        "strikeouts": 20,
-        "doublesAllowed": 4,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 4,
-        "opponentsAtBats": 80,
-        "wildPitches": 0,
-        "hitBatters": 2,
-        "balks": 0,
-        "opponentsBattingAverage": 0.25,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "11524",
-        "name": "Isaac Warrick",
-        "normalizedName": "isaac warrick",
-        "jersey": "5",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/isaac-warrick/11524",
-        "imageUrl": "https://uabsports.com/images/2026/1/16/Isaac_Warrick_YET4t.jpg",
-        "gamesPlayed": 6,
-        "gamesStarted": 0,
-        "putouts": 2,
-        "assists": 3,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 2,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 5
-      },
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 11,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -845,54 +626,54 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 41.55844155844156,
-          "Command": 16.363636363636363,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Isaac Warrick gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Isaac Warrick looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 4.29",
-          "WHIP 1.48",
-          "K/9 8.6"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.29"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.48"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "8.6"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "4.7"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.71"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "21.0"
+            "value": "0.0"
           }
         ],
-        "metaLine": "R-JR / N/A",
+        "metaLine": "GR / N/A",
         "detailBadges": [
           "LHP",
-          "R-JR",
+          "GR",
           "N/A",
           "Pitcher"
         ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats"
+        "sourceSummary": "UAB Athletics roster"
       }
     },
     {
-      "id": "uab-11514",
+      "id": "uab-12316",
       "schoolSlug": "uab",
       "school": "UAB",
       "schoolLongName": "UAB",
@@ -902,14 +683,14 @@ window.__BASEBALL_DATASETS__.uab2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
-      "classYear": "SR",
+      "classYear": "GR",
       "handedness": "N/A",
       "jersey": "6",
       "hometown": "Auburn, Ala.",
       "highSchool": "Auburn HS",
       "previousSchool": "Auburn/Chattahoochee Valley CC",
       "hometownHighSchool": "Auburn, Ala. / Auburn HS",
-      "profileUrl": "https://uabsports.com/sports/baseball/roster/ryan-olson/11514",
+      "profileUrl": "https://uabsports.com/sports/baseball/roster/ryan-olson/12316",
       "imageUrl": "https://uabsports.com/images/2026/1/16/Ryan_kUNli.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -917,7 +698,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "11514",
+      "rosterBioId": "12316",
       "sources": [
         "UAB Athletics roster"
       ],
@@ -969,10 +750,10 @@ window.__BASEBALL_DATASETS__.uab2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "SR / N/A",
+        "metaLine": "GR / N/A",
         "detailBadges": [
           "RHP",
-          "SR",
+          "GR",
           "N/A",
           "Pitcher"
         ],
@@ -980,169 +761,112 @@ window.__BASEBALL_DATASETS__.uab2026 = {
       }
     },
     {
-      "id": "uab-11511",
+      "id": "uab-12329",
       "schoolSlug": "uab",
       "school": "UAB",
       "schoolLongName": "UAB",
-      "name": "Patrick McGlon",
-      "normalizedName": "patrick mcglon",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "INF",
+      "name": "Ashton Blair",
+      "normalizedName": "ashton blair",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
       "positionLong": "",
-      "classYear": "R-JR",
+      "classYear": "FR",
       "handedness": "N/A",
       "jersey": "7",
-      "hometown": "Auburn, Ala.",
-      "highSchool": "Auburn HS",
-      "previousSchool": "Southern Union CC",
-      "hometownHighSchool": "Auburn, Ala. / Auburn HS",
-      "profileUrl": "https://uabsports.com/sports/baseball/roster/patrick-mcglon/11511",
-      "imageUrl": "https://uabsports.com/images/2026/1/16/Patrick_McGlon.jpg",
+      "hometown": "Alabaster, Ala.",
+      "highSchool": "Thompson",
+      "previousSchool": "",
+      "hometownHighSchool": "Alabaster, Ala. / Thompson",
+      "profileUrl": "https://uabsports.com/sports/baseball/roster/ashton-blair/12329",
+      "imageUrl": "https://uabsports.com/images/2026/8/26/Blair_RpFnX.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "11511",
+      "rosterBioId": "12329",
       "sources": [
-        "UAB Athletics roster",
-        "UAB cumulative stats"
+        "UAB Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "11511",
-        "name": "Patrick McGlon",
-        "normalizedName": "patrick mcglon",
-        "jersey": "7",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/patrick-mcglon/11511",
-        "imageUrl": "https://uabsports.com/images/2026/1/16/Patrick_McGlon.jpg",
-        "gamesPlayed": 8,
-        "gamesStarted": 2,
-        "battingAverage": 0.25,
-        "onBasePercentage": 0.286,
-        "sluggingPercentage": 0.417,
-        "ops": 0.703,
-        "atBats": 12,
-        "runs": 2,
-        "hits": 3,
-        "doubles": 2,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 3,
-        "totalBases": 5,
-        "walks": 0,
-        "hitByPitch": 1,
-        "strikeouts": 2,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 1,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 0,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 14,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "11511",
-        "name": "Patrick McGlon",
-        "normalizedName": "patrick mcglon",
-        "jersey": "7",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/patrick-mcglon/11511",
-        "imageUrl": "https://uabsports.com/images/2026/1/16/Patrick_McGlon.jpg",
-        "gamesPlayed": 1,
-        "gamesStarted": 0,
-        "putouts": 0,
-        "assists": 1,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 1
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 11,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 3.3333333333333055,
-          "Power": 25.52631578947368,
-          "Contact": 18.75,
-          "Discipline": 0,
-          "Speed": 0
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
         },
-        "summary": "Patrick McGlon gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Ashton Blair looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "AVG .250",
-          "OBP .286",
-          "SLG .417"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
-            "label": "AVG",
-            "value": ".250"
+            "label": "ERA",
+            "value": "--"
           },
           {
-            "label": "OBP",
-            "value": ".286"
+            "label": "WHIP",
+            "value": "--"
           },
           {
-            "label": "SLG",
-            "value": ".417"
+            "label": "K/9",
+            "value": "0.0"
           },
           {
-            "label": "HR",
-            "value": "0"
+            "label": "BB/9",
+            "value": "0.0"
           },
           {
-            "label": "RBI",
-            "value": "3"
+            "label": "HR/9",
+            "value": "0.00"
           },
           {
-            "label": "SB",
-            "value": "0"
+            "label": "IP",
+            "value": "0.0"
           }
         ],
-        "metaLine": "R-JR / N/A",
+        "metaLine": "FR / N/A",
         "detailBadges": [
-          "INF",
-          "R-JR",
+          "RHP",
+          "FR",
           "N/A",
-          "Hitter"
+          "Pitcher"
         ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats"
+        "sourceSummary": "UAB Athletics roster"
       }
     },
     {
-      "id": "uab-11491",
+      "id": "uab-12302",
       "schoolSlug": "uab",
       "school": "UAB",
       "schoolLongName": "UAB",
       "name": "Alex Cheeseman",
       "normalizedName": "alex cheeseman",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "INF",
       "positionLong": "",
-      "classYear": "JR",
+      "classYear": "SR",
       "handedness": "N/A",
       "jersey": "8",
       "hometown": "Commerce, Mich.",
       "highSchool": "Brother Rice",
       "previousSchool": "",
       "hometownHighSchool": "Commerce, Mich. / Brother Rice",
-      "profileUrl": "https://uabsports.com/sports/baseball/roster/alex-cheeseman/11491",
+      "profileUrl": "https://uabsports.com/sports/baseball/roster/alex-cheeseman/12302",
       "imageUrl": "https://uabsports.com/images/2026/1/16/Alex_Cheeseman.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -1150,101 +874,44 @@ window.__BASEBALL_DATASETS__.uab2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "11491",
+      "rosterBioId": "12302",
       "sources": [
-        "UAB Athletics roster",
-        "UAB cumulative stats"
+        "UAB Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "11491",
-        "name": "Alex Cheeseman",
-        "normalizedName": "alex cheeseman",
-        "jersey": "8",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/alex-cheeseman/11491",
-        "imageUrl": "https://uabsports.com/images/2026/1/16/Alex_Cheeseman.jpg",
-        "gamesPlayed": 27,
-        "gamesStarted": 5,
-        "battingAverage": 0.19,
-        "onBasePercentage": 0.414,
-        "sluggingPercentage": 0.238,
-        "ops": 0.652,
-        "atBats": 21,
-        "runs": 9,
-        "hits": 4,
-        "doubles": 1,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 3,
-        "totalBases": 5,
-        "walks": 3,
-        "hitByPitch": 5,
-        "strikeouts": 8,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 5,
-        "stolenBasesAttempts": 6,
-        "putouts": 13,
-        "assists": 0,
-        "errors": 3,
-        "plateAppearances": 36,
-        "caughtStealing": 1,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "11491",
-        "name": "Alex Cheeseman",
-        "normalizedName": "alex cheeseman",
-        "jersey": "8",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/alex-cheeseman/11491",
-        "imageUrl": "https://uabsports.com/images/2026/1/16/Alex_Cheeseman.jpg",
-        "gamesPlayed": 13,
-        "gamesStarted": 5,
-        "putouts": 13,
-        "assists": 15,
-        "errors": 3,
-        "fieldingPercentage": 0.903,
-        "doublePlays": 2,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 31
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 28,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 74.44444444444443,
+          "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 19.44444444444444,
-          "Speed": 16.666666666666664
+          "Discipline": 0,
+          "Speed": 0
         },
-        "summary": "Alex Cheeseman profiles as a INF piece who gets on base at a high clip.",
+        "summary": "Alex Cheeseman gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .190",
-          "OBP .414",
-          "SLG .238"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".190"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".414"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".238"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -1252,25 +919,25 @@ window.__BASEBALL_DATASETS__.uab2026 = {
           },
           {
             "label": "RBI",
-            "value": "3"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "5"
+            "value": "0"
           }
         ],
-        "metaLine": "JR / N/A",
+        "metaLine": "SR / N/A",
         "detailBadges": [
           "INF",
-          "JR",
+          "SR",
           "N/A",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats"
+        "sourceSummary": "UAB Athletics roster"
       }
     },
     {
-      "id": "uab-11495",
+      "id": "uab-12305",
       "schoolSlug": "uab",
       "school": "UAB",
       "schoolLongName": "UAB",
@@ -1280,14 +947,14 @@ window.__BASEBALL_DATASETS__.uab2026 = {
       "role": "Pitcher",
       "position": "LHP",
       "positionLong": "",
-      "classYear": "FR",
+      "classYear": "R-FR",
       "handedness": "N/A",
       "jersey": "9",
       "hometown": "Trussville, Ala.",
       "highSchool": "Hewitt-Trussville",
       "previousSchool": "",
       "hometownHighSchool": "Trussville, Ala. / Hewitt-Trussville",
-      "profileUrl": "https://uabsports.com/sports/baseball/roster/jacob-francis/11495",
+      "profileUrl": "https://uabsports.com/sports/baseball/roster/jacob-francis/12305",
       "imageUrl": "https://uabsports.com/images/2026/1/16/Jacob_Francis_M9n14.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -1295,7 +962,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "11495",
+      "rosterBioId": "12305",
       "sources": [
         "UAB Athletics roster"
       ],
@@ -1347,10 +1014,10 @@ window.__BASEBALL_DATASETS__.uab2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "FR / N/A",
+        "metaLine": "R-FR / N/A",
         "detailBadges": [
           "LHP",
-          "FR",
+          "R-FR",
           "N/A",
           "Pitcher"
         ],
@@ -1358,152 +1025,183 @@ window.__BASEBALL_DATASETS__.uab2026 = {
       }
     },
     {
-      "id": "uab-11501",
+      "id": "uab-12331",
       "schoolSlug": "uab",
       "school": "UAB",
       "schoolLongName": "UAB",
-      "name": "Wesley Helms",
-      "normalizedName": "wesley helms",
-      "compositeRole": "Hitter",
+      "name": "Steven Cavaco",
+      "normalizedName": "steven cavaco",
+      "compositeRole": "Rostered",
       "role": "Hitter",
-      "position": "INF",
+      "position": "UTIL",
       "positionLong": "",
-      "classYear": "R-SR",
+      "classYear": "SO",
       "handedness": "N/A",
       "jersey": "10",
-      "hometown": "Birmingham, Ala.",
-      "highSchool": "Briarwood Christian",
-      "previousSchool": "Auburn/Shelton State CC",
-      "hometownHighSchool": "Birmingham, Ala. / Briarwood Christian",
-      "profileUrl": "https://uabsports.com/sports/baseball/roster/wesley-helms/11501",
-      "imageUrl": "https://uabsports.com/images/2026/1/16/Wesley_V1ede.jpg",
+      "hometown": "Huntsville, Ala.",
+      "highSchool": "Huntsville",
+      "previousSchool": "Ohio State",
+      "hometownHighSchool": "Huntsville, Ala. / Huntsville",
+      "profileUrl": "https://uabsports.com/sports/baseball/roster/steven-cavaco/12331",
+      "imageUrl": "https://uabsports.com/images/2026/8/26/Cavaco.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "11501",
+      "rosterBioId": "12331",
       "sources": [
-        "UAB Athletics roster",
-        "UAB cumulative stats"
+        "UAB Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "11501",
-        "name": "Wesley Helms",
-        "normalizedName": "wesley helms",
-        "jersey": "10",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/wesley-helms/11501",
-        "imageUrl": "https://uabsports.com/images/2026/1/16/Wesley_V1ede.jpg",
-        "gamesPlayed": 58,
-        "gamesStarted": 58,
-        "battingAverage": 0.327,
-        "onBasePercentage": 0.407,
-        "sluggingPercentage": 0.447,
-        "ops": 0.854,
-        "atBats": 217,
-        "runs": 38,
-        "hits": 71,
-        "doubles": 8,
-        "triples": 0,
-        "homeRuns": 6,
-        "runsBattedIn": 41,
-        "totalBases": 97,
-        "walks": 30,
-        "hitByPitch": 2,
-        "strikeouts": 22,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 9,
-        "sacrificeFlies": 4,
-        "sacrificeHits": 1,
-        "stolenBases": 5,
-        "stolenBasesAttempts": 6,
-        "putouts": 471,
-        "assists": 0,
-        "errors": 2,
-        "plateAppearances": 261,
-        "caughtStealing": 1,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "11501",
-        "name": "Wesley Helms",
-        "normalizedName": "wesley helms",
-        "jersey": "10",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/wesley-helms/11501",
-        "imageUrl": "https://uabsports.com/images/2026/1/16/Wesley_V1ede.jpg",
-        "gamesPlayed": 58,
-        "gamesStarted": 58,
-        "putouts": 471,
-        "assists": 40,
-        "errors": 2,
-        "fieldingPercentage": 0.996,
-        "doublePlays": 35,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 513
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 59,
+        "score": 0,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
         "components": {
-          "On-base": 70.55555555555553,
-          "Power": 33.42105263157895,
-          "Contact": 66.875,
-          "Discipline": 100,
-          "Speed": 16.666666666666664
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "summary": "Wesley Helms profiles as a INF piece who gets on base at a high clip and controls at-bats.",
+        "summary": "Steven Cavaco gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .327",
-          "OBP .407",
-          "SLG .447"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".327"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".407"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".447"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "6"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "41"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "5"
+            "value": "0"
           }
         ],
-        "metaLine": "R-SR / N/A",
+        "metaLine": "SO / N/A",
         "detailBadges": [
-          "INF",
-          "R-SR",
+          "UTIL",
+          "SO",
           "N/A",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats"
+        "sourceSummary": "UAB Athletics roster"
       }
     },
     {
-      "id": "uab-11508",
+      "id": "uab-12327",
+      "schoolSlug": "uab",
+      "school": "UAB",
+      "schoolLongName": "UAB",
+      "name": "Blaze Gerhart",
+      "normalizedName": "blaze gerhart",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "N/A",
+      "jersey": "11",
+      "hometown": "Attalla, Ala.",
+      "highSchool": "Sardis",
+      "previousSchool": "Snead State CC",
+      "hometownHighSchool": "Attalla, Ala. / Sardis",
+      "profileUrl": "https://uabsports.com/sports/baseball/roster/blaze-gerhart/12327",
+      "imageUrl": "https://uabsports.com/images/2026/8/26/Gerhart.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12327",
+      "sources": [
+        "UAB Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Blaze Gerhart looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "UAB Athletics roster"
+      }
+    },
+    {
+      "id": "uab-12313",
       "schoolSlug": "uab",
       "school": "UAB",
       "schoolLongName": "UAB",
@@ -1513,14 +1211,14 @@ window.__BASEBALL_DATASETS__.uab2026 = {
       "role": "Pitcher",
       "position": "LHP",
       "positionLong": "",
-      "classYear": "R-SO",
+      "classYear": "R-JR",
       "handedness": "N/A",
       "jersey": "12",
       "hometown": "Morris, Ala.",
       "highSchool": "Mortimer Jordan",
       "previousSchool": "Auburn/Shelton State CC",
       "hometownHighSchool": "Morris, Ala. / Mortimer Jordan",
-      "profileUrl": "https://uabsports.com/sports/baseball/roster/konner-keplinger/11508",
+      "profileUrl": "https://uabsports.com/sports/baseball/roster/konner-keplinger/12313",
       "imageUrl": "https://uabsports.com/images/2026/1/16/Konner_Keplinger_YK9zR.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -1528,69 +1226,15 @@ window.__BASEBALL_DATASETS__.uab2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "11508",
+      "rosterBioId": "12313",
       "sources": [
-        "UAB Athletics roster",
-        "UAB cumulative stats"
+        "UAB Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "11508",
-        "name": "Konner Keplinger",
-        "normalizedName": "konner keplinger",
-        "jersey": "12",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/konner-keplinger/11508",
-        "imageUrl": "https://uabsports.com/images/2026/1/16/Konner_Keplinger_YK9zR.jpg",
-        "gamesPlayed": 26,
-        "gamesStarted": 3,
-        "appearances": 26,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 8.65,
-        "whip": 2.01,
-        "wins": 2,
-        "losses": 1,
-        "saves": 1,
-        "shutouts": 0,
-        "inningsPitched": 34.333333333333336,
-        "inningsPitchedDisplay": "34.1",
-        "hitsAllowed": 50,
-        "runsAllowed": 40,
-        "earnedRunsAllowed": 33,
-        "walksAllowed": 19,
-        "strikeouts": 22,
-        "doublesAllowed": 9,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 11,
-        "opponentsAtBats": 144,
-        "wildPitches": 2,
-        "hitBatters": 3,
-        "balks": 0,
-        "opponentsBattingAverage": 0.347,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "11508",
-        "name": "Konner Keplinger",
-        "normalizedName": "konner keplinger",
-        "jersey": "12",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/konner-keplinger/11508",
-        "imageUrl": "https://uabsports.com/images/2026/1/16/Konner_Keplinger_YK9zR.jpg",
-        "gamesPlayed": 12,
-        "gamesStarted": 3,
-        "putouts": 2,
-        "assists": 9,
-        "errors": 3,
-        "fieldingPercentage": 0.786,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 3,
-        "caughtStealingBy": 4,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 14
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 4,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -1598,71 +1242,71 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 16.063548102383045,
-          "Command": 3.1578947368421018,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Konner Keplinger gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Konner Keplinger looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 8.65",
-          "WHIP 2.01",
-          "K/9 5.8"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "8.65"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "2.01"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "5.8"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "5.0"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "2.88"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "34.3"
+            "value": "0.0"
           }
         ],
-        "metaLine": "R-SO / N/A",
+        "metaLine": "R-JR / N/A",
         "detailBadges": [
           "LHP",
-          "R-SO",
+          "R-JR",
           "N/A",
           "Pitcher"
         ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats"
+        "sourceSummary": "UAB Athletics roster"
       }
     },
     {
-      "id": "uab-11499",
+      "id": "uab-12307",
       "schoolSlug": "uab",
       "school": "UAB",
       "schoolLongName": "UAB",
       "name": "John Paul Head",
       "normalizedName": "john paul head",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "OF",
       "positionLong": "",
-      "classYear": "SO",
+      "classYear": "JR",
       "handedness": "N/A",
       "jersey": "13",
       "hometown": "Vestavia Hills, Ala.",
       "highSchool": "Vestavia Hills",
       "previousSchool": "",
       "hometownHighSchool": "Vestavia Hills, Ala. / Vestavia Hills",
-      "profileUrl": "https://uabsports.com/sports/baseball/roster/john-paul-head/11499",
+      "profileUrl": "https://uabsports.com/sports/baseball/roster/john-paul-head/12307",
       "imageUrl": "https://uabsports.com/images/2026/1/16/JP_Head_sFASD.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -1670,152 +1314,183 @@ window.__BASEBALL_DATASETS__.uab2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "11499",
+      "rosterBioId": "12307",
       "sources": [
-        "UAB Athletics roster",
-        "UAB cumulative stats"
+        "UAB Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "11499",
-        "name": "John Paul Head",
-        "normalizedName": "john paul head",
-        "jersey": "13",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/john-paul-head/11499",
-        "imageUrl": "https://uabsports.com/images/2026/1/16/JP_Head_sFASD.jpg",
-        "gamesPlayed": 55,
-        "gamesStarted": 55,
-        "battingAverage": 0.329,
-        "onBasePercentage": 0.457,
-        "sluggingPercentage": 0.71,
-        "ops": 1.167,
-        "atBats": 207,
-        "runs": 55,
-        "hits": 68,
-        "doubles": 9,
-        "triples": 2,
-        "homeRuns": 22,
-        "runsBattedIn": 56,
-        "totalBases": 147,
-        "walks": 43,
-        "hitByPitch": 7,
-        "strikeouts": 46,
-        "intentionalWalks": 4,
-        "groundedIntoDoublePlay": 4,
-        "sacrificeFlies": 1,
-        "sacrificeHits": 0,
-        "stolenBases": 11,
-        "stolenBasesAttempts": 14,
-        "putouts": 78,
-        "assists": 0,
-        "errors": 3,
-        "plateAppearances": 275,
-        "caughtStealing": 3,
-        "pickedOff": 1
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "11499",
-        "name": "John Paul Head",
-        "normalizedName": "john paul head",
-        "jersey": "13",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/john-paul-head/11499",
-        "imageUrl": "https://uabsports.com/images/2026/1/16/JP_Head_sFASD.jpg",
-        "gamesPlayed": 37,
-        "gamesStarted": 37,
-        "putouts": 78,
-        "assists": 2,
-        "errors": 3,
-        "fieldingPercentage": 0.964,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 83
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 85,
+        "score": 0,
         "fit": {
-          "label": "Priority",
-          "className": "fit-priority"
+          "label": "Depth",
+          "className": "fit-depth"
         },
         "components": {
-          "On-base": 98.33333333333333,
-          "Power": 100,
-          "Contact": 68.125,
-          "Discipline": 81.64251207729467,
-          "Speed": 36.666666666666664
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "summary": "John Paul Head profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
+        "summary": "John Paul Head gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .329",
-          "OBP .457",
-          "SLG .710"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".329"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".457"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".710"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "22"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "56"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "11"
+            "value": "0"
           }
         ],
-        "metaLine": "SO / N/A",
+        "metaLine": "JR / N/A",
         "detailBadges": [
           "OF",
-          "SO",
+          "JR",
           "N/A",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats"
+        "sourceSummary": "UAB Athletics roster"
       }
     },
     {
-      "id": "uab-11493",
+      "id": "uab-12348",
       "schoolSlug": "uab",
       "school": "UAB",
       "schoolLongName": "UAB",
-      "name": "Drake Douglas",
-      "normalizedName": "drake douglas",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "OF/RHP",
+      "name": "Jace Norton",
+      "normalizedName": "jace norton",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
       "positionLong": "",
-      "classYear": "JR",
+      "classYear": "R-JR",
       "handedness": "N/A",
       "jersey": "14",
-      "hometown": "Saltillo, Miss.",
-      "highSchool": "Saltillo",
-      "previousSchool": "Northeast Mississippi CC",
-      "hometownHighSchool": "Saltillo, Miss. / Saltillo",
-      "profileUrl": "https://uabsports.com/sports/baseball/roster/drake-douglas/11493",
-      "imageUrl": "https://uabsports.com/images/2026/1/16/Drake_Douglas_IJllt.jpg",
+      "hometown": "Auburn, Ala.",
+      "highSchool": "Auburn HS",
+      "previousSchool": "Mississippi State/Southern Miss",
+      "hometownHighSchool": "Auburn, Ala. / Auburn HS",
+      "profileUrl": "https://uabsports.com/sports/baseball/roster/jace-norton/12348",
+      "imageUrl": "https://uabsports.com/images/2026/8/26/Norton_psOiK.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "11493",
+      "rosterBioId": "12348",
+      "sources": [
+        "UAB Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Jace Norton gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "R-JR / N/A",
+        "detailBadges": [
+          "INF",
+          "R-JR",
+          "N/A",
+          "Rostered"
+        ],
+        "sourceSummary": "UAB Athletics roster"
+      }
+    },
+    {
+      "id": "uab-12328",
+      "schoolSlug": "uab",
+      "school": "UAB",
+      "schoolLongName": "UAB",
+      "name": "Bryson Morman",
+      "normalizedName": "bryson morman",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "N/A",
+      "jersey": "15",
+      "hometown": "Birmingham, Ala.",
+      "highSchool": "Oak Mountain",
+      "previousSchool": "Coastal Alabama CC - South",
+      "hometownHighSchool": "Birmingham, Ala. / Oak Mountain",
+      "profileUrl": "https://uabsports.com/sports/baseball/roster/bryson-morman/12328",
+      "imageUrl": "https://uabsports.com/images/2026/8/26/Morman.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12328",
       "sources": [
         "UAB Athletics roster"
       ],
@@ -1835,7 +1510,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Drake Douglas looks like a OF/RHP option who throws enough strikes.",
+        "summary": "Bryson Morman looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -1869,7 +1544,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         ],
         "metaLine": "JR / N/A",
         "detailBadges": [
-          "OF/RHP",
+          "RHP",
           "JR",
           "N/A",
           "Pitcher"
@@ -1878,24 +1553,112 @@ window.__BASEBALL_DATASETS__.uab2026 = {
       }
     },
     {
-      "id": "uab-11494",
+      "id": "uab-12333",
+      "schoolSlug": "uab",
+      "school": "UAB",
+      "schoolLongName": "UAB",
+      "name": "Isaiah Ludlow",
+      "normalizedName": "isaiah ludlow",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "",
+      "classYear": "FR",
+      "handedness": "N/A",
+      "jersey": "16",
+      "hometown": "Memphis, Tenn.",
+      "highSchool": "Houston HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Memphis, Tenn. / Houston HS",
+      "profileUrl": "https://uabsports.com/sports/baseball/roster/isaiah-ludlow/12333",
+      "imageUrl": "https://uabsports.com/images/2026/8/26/Ludlow_xq1XN.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12333",
+      "sources": [
+        "UAB Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Isaiah Ludlow looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "LHP",
+          "FR",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "UAB Athletics roster"
+      }
+    },
+    {
+      "id": "uab-12304",
       "schoolSlug": "uab",
       "school": "UAB",
       "schoolLongName": "UAB",
       "name": "Alex Dupuy",
       "normalizedName": "alex dupuy",
-      "compositeRole": "Two-Way",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "INF",
       "positionLong": "",
-      "classYear": "JR",
+      "classYear": "SR",
       "handedness": "N/A",
       "jersey": "17",
       "hometown": "Natchitoches, La.",
       "highSchool": "Natchitoches Central",
       "previousSchool": "LSU Eunice",
       "hometownHighSchool": "Natchitoches, La. / Natchitoches Central",
-      "profileUrl": "https://uabsports.com/sports/baseball/roster/alex-dupuy/11494",
+      "profileUrl": "https://uabsports.com/sports/baseball/roster/alex-dupuy/12304",
       "imageUrl": "https://uabsports.com/images/2026/1/16/Alex_Dupuy.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -1903,614 +1666,95 @@ window.__BASEBALL_DATASETS__.uab2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "11494",
+      "rosterBioId": "12304",
       "sources": [
-        "UAB Athletics roster",
-        "UAB cumulative stats"
+        "UAB Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "11494",
-        "name": "Alex Dupuy",
-        "normalizedName": "alex dupuy",
-        "jersey": "17",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/alex-dupuy/11494",
-        "imageUrl": "https://uabsports.com/images/2026/1/16/Alex_Dupuy.jpg",
-        "gamesPlayed": 58,
-        "gamesStarted": 58,
-        "battingAverage": 0.272,
-        "onBasePercentage": 0.383,
-        "sluggingPercentage": 0.465,
-        "ops": 0.848,
-        "atBats": 217,
-        "runs": 54,
-        "hits": 59,
-        "doubles": 12,
-        "triples": 0,
-        "homeRuns": 10,
-        "runsBattedIn": 41,
-        "totalBases": 101,
-        "walks": 23,
-        "hitByPitch": 19,
-        "strikeouts": 57,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 2,
-        "sacrificeFlies": 5,
-        "sacrificeHits": 4,
-        "stolenBases": 10,
-        "stolenBasesAttempts": 13,
-        "putouts": 43,
-        "assists": 0,
-        "errors": 5,
-        "plateAppearances": 284,
-        "caughtStealing": 3,
-        "pickedOff": 0
-      },
-      "pitchingStats": {
-        "rosterBioId": "11494",
-        "name": "Alex Dupuy",
-        "normalizedName": "alex dupuy",
-        "jersey": "17",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/alex-dupuy/11494",
-        "imageUrl": "https://uabsports.com/images/2026/1/16/Alex_Dupuy.jpg",
-        "gamesPlayed": 4,
-        "gamesStarted": 0,
-        "appearances": 4,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 0,
-        "whip": 0.55,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 3.6666666666666665,
-        "inningsPitchedDisplay": "3.2",
-        "hitsAllowed": 1,
-        "runsAllowed": 0,
-        "earnedRunsAllowed": 0,
-        "walksAllowed": 1,
-        "strikeouts": 3,
-        "doublesAllowed": 0,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 12,
-        "wildPitches": 0,
-        "hitBatters": 2,
-        "balks": 0,
-        "opponentsBattingAverage": 0.083,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "11494",
-        "name": "Alex Dupuy",
-        "normalizedName": "alex dupuy",
-        "jersey": "17",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/alex-dupuy/11494",
-        "imageUrl": "https://uabsports.com/images/2026/1/16/Alex_Dupuy.jpg",
-        "gamesPlayed": 53,
-        "gamesStarted": 53,
-        "putouts": 43,
-        "assists": 119,
-        "errors": 5,
-        "fieldingPercentage": 0.97,
-        "doublePlays": 10,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 167
-      },
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 41,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 57.22222222222222,
-          "Power": 38.15789473684211,
-          "Contact": 32.500000000000014,
-          "Discipline": 22.6120857699805,
-          "Speed": 33.33333333333333
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "summary": "Alex Dupuy profiles as a INF piece who adds running-game pressure.",
+        "summary": "Alex Dupuy gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .272",
-          "OBP .383",
-          "SLG .465"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".272"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".383"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".465"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "10"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "41"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "10"
-          }
-        ],
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "INF",
-          "JR",
-          "N/A",
-          "Two-Way"
-        ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats"
-      }
-    },
-    {
-      "id": "uab-11521",
-      "schoolSlug": "uab",
-      "school": "UAB",
-      "schoolLongName": "UAB",
-      "name": "Braxton Shelton",
-      "normalizedName": "braxton shelton",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "SR",
-      "handedness": "N/A",
-      "jersey": "18",
-      "hometown": "Fort Morgan, Colo.",
-      "highSchool": "Brush",
-      "previousSchool": "",
-      "hometownHighSchool": "Fort Morgan, Colo. / Brush",
-      "profileUrl": "https://uabsports.com/sports/baseball/roster/braxton-shelton/11521",
-      "imageUrl": "https://uabsports.com/images/2026/1/16/Braxton_Shelton_J5bOU.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "11521",
-      "sources": [
-        "UAB Athletics roster",
-        "UAB cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "11521",
-        "name": "Braxton Shelton",
-        "normalizedName": "braxton shelton",
-        "jersey": "18",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/braxton-shelton/11521",
-        "imageUrl": "https://uabsports.com/images/2026/1/16/Braxton_Shelton_J5bOU.jpg",
-        "gamesPlayed": 17,
-        "gamesStarted": 6,
-        "appearances": 17,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 11.81,
-        "whip": 2.56,
-        "wins": 1,
-        "losses": 2,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 32,
-        "inningsPitchedDisplay": "32.0",
-        "hitsAllowed": 66,
-        "runsAllowed": 50,
-        "earnedRunsAllowed": 42,
-        "walksAllowed": 16,
-        "strikeouts": 19,
-        "doublesAllowed": 18,
-        "triplesAllowed": 2,
-        "homeRunsAllowed": 12,
-        "opponentsAtBats": 152,
-        "wildPitches": 3,
-        "hitBatters": 4,
-        "balks": 1,
-        "opponentsBattingAverage": 0.434,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "11521",
-        "name": "Braxton Shelton",
-        "normalizedName": "braxton shelton",
-        "jersey": "18",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/braxton-shelton/11521",
-        "imageUrl": "https://uabsports.com/images/2026/1/16/Braxton_Shelton_J5bOU.jpg",
-        "gamesPlayed": 6,
-        "gamesStarted": 4,
-        "putouts": 3,
-        "assists": 4,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 1,
-        "caughtStealingBy": 2,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 7
-      },
-      "evaluation": {
-        "score": 3,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 12.215909090909092,
-          "Command": 3.75,
-          "Damage suppression": 0
-        },
-        "summary": "Braxton Shelton gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 11.81",
-          "WHIP 2.56",
-          "K/9 5.3"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "11.81"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.56"
-          },
-          {
-            "label": "K/9",
-            "value": "5.3"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.5"
-          },
-          {
-            "label": "HR/9",
-            "value": "3.38"
-          },
-          {
-            "label": "IP",
-            "value": "32.0"
+            "value": "0"
           }
         ],
         "metaLine": "SR / N/A",
         "detailBadges": [
-          "RHP",
+          "INF",
           "SR",
           "N/A",
-          "Pitcher"
+          "Rostered"
         ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats"
+        "sourceSummary": "UAB Athletics roster"
       }
     },
     {
-      "id": "uab-11506",
+      "id": "uab-12332",
       "schoolSlug": "uab",
       "school": "UAB",
       "schoolLongName": "UAB",
-      "name": "Hunter Hyatt",
-      "normalizedName": "hunter hyatt",
+      "name": "Eli Hubbert",
+      "normalizedName": "eli hubbert",
       "compositeRole": "Pitcher",
       "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "",
-      "classYear": "R-SO",
-      "handedness": "N/A",
-      "jersey": "19",
-      "hometown": "Clyde Hill, Wash.",
-      "highSchool": "Bellevue",
-      "previousSchool": "Oregon",
-      "hometownHighSchool": "Clyde Hill, Wash. / Bellevue",
-      "profileUrl": "https://uabsports.com/sports/baseball/roster/hunter-hyatt/11506",
-      "imageUrl": "https://uabsports.com/images/2026/1/16/Hunter_i1EZu.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "11506",
-      "sources": [
-        "UAB Athletics roster",
-        "UAB cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "11506",
-        "name": "Hunter Hyatt",
-        "normalizedName": "hunter hyatt",
-        "jersey": "19",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/hunter-hyatt/11506",
-        "imageUrl": "https://uabsports.com/images/2026/1/16/Hunter_i1EZu.jpg",
-        "gamesPlayed": 10,
-        "gamesStarted": 0,
-        "appearances": 10,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 11.12,
-        "whip": 2.65,
-        "wins": 1,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 5.666666666666667,
-        "inningsPitchedDisplay": "5.2",
-        "hitsAllowed": 6,
-        "runsAllowed": 8,
-        "earnedRunsAllowed": 7,
-        "walksAllowed": 9,
-        "strikeouts": 3,
-        "doublesAllowed": 1,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 22,
-        "wildPitches": 0,
-        "hitBatters": 2,
-        "balks": 0,
-        "opponentsBattingAverage": 0.273,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "11506",
-        "name": "Hunter Hyatt",
-        "normalizedName": "hunter hyatt",
-        "jersey": "19",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/hunter-hyatt/11506",
-        "imageUrl": "https://uabsports.com/images/2026/1/16/Hunter_i1EZu.jpg",
-        "gamesPlayed": 3,
-        "gamesStarted": 0,
-        "putouts": 0,
-        "assists": 1,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 2,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 1
-      },
-      "evaluation": {
-        "score": 1,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 6.951871657754011,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Hunter Hyatt gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 11.12",
-          "WHIP 2.65",
-          "K/9 4.8"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "11.12"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.65"
-          },
-          {
-            "label": "K/9",
-            "value": "4.8"
-          },
-          {
-            "label": "BB/9",
-            "value": "14.3"
-          },
-          {
-            "label": "HR/9",
-            "value": "3.18"
-          },
-          {
-            "label": "IP",
-            "value": "5.7"
-          }
-        ],
-        "metaLine": "R-SO / N/A",
-        "detailBadges": [
-          "LHP",
-          "R-SO",
-          "N/A",
-          "Pitcher"
-        ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats"
-      }
-    },
-    {
-      "id": "uab-11518",
-      "schoolSlug": "uab",
-      "school": "UAB",
-      "schoolLongName": "UAB",
-      "name": "Baylor Roberts",
-      "normalizedName": "baylor roberts",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "INF",
+      "position": "RHP",
       "positionLong": "",
       "classYear": "FR",
       "handedness": "N/A",
-      "jersey": "20",
-      "hometown": "Baldwyn, Miss.",
-      "highSchool": "Saltillo",
+      "jersey": "18",
+      "hometown": "Maplesville, Ala.",
+      "highSchool": "Maplesville",
       "previousSchool": "",
-      "hometownHighSchool": "Baldwyn, Miss. / Saltillo",
-      "profileUrl": "https://uabsports.com/sports/baseball/roster/baylor-roberts/11518",
-      "imageUrl": "https://uabsports.com/images/2026/1/16/Baylor_Roberts_K1GnJ.jpg",
+      "hometownHighSchool": "Maplesville, Ala. / Maplesville",
+      "profileUrl": "https://uabsports.com/sports/baseball/roster/eli-hubbert/12332",
+      "imageUrl": "https://uabsports.com/images/2026/8/26/Hubbert.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "11518",
-      "sources": [
-        "UAB Athletics roster",
-        "UAB cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "11518",
-        "name": "Baylor Roberts",
-        "normalizedName": "baylor roberts",
-        "jersey": "20",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/baylor-roberts/11518",
-        "imageUrl": "https://uabsports.com/images/2026/1/16/Baylor_Roberts_K1GnJ.jpg",
-        "gamesPlayed": 57,
-        "gamesStarted": 56,
-        "battingAverage": 0.226,
-        "onBasePercentage": 0.294,
-        "sluggingPercentage": 0.347,
-        "ops": 0.641,
-        "atBats": 190,
-        "runs": 31,
-        "hits": 43,
-        "doubles": 5,
-        "triples": 3,
-        "homeRuns": 4,
-        "runsBattedIn": 31,
-        "totalBases": 66,
-        "walks": 14,
-        "hitByPitch": 6,
-        "strikeouts": 53,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 3,
-        "sacrificeFlies": 4,
-        "sacrificeHits": 8,
-        "stolenBases": 11,
-        "stolenBasesAttempts": 13,
-        "putouts": 88,
-        "assists": 0,
-        "errors": 15,
-        "plateAppearances": 237,
-        "caughtStealing": 2,
-        "pickedOff": 2
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "11518",
-        "name": "Baylor Roberts",
-        "normalizedName": "baylor roberts",
-        "jersey": "20",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/baylor-roberts/11518",
-        "imageUrl": "https://uabsports.com/images/2026/1/16/Baylor_Roberts_K1GnJ.jpg",
-        "gamesPlayed": 55,
-        "gamesStarted": 55,
-        "putouts": 88,
-        "assists": 144,
-        "errors": 15,
-        "fieldingPercentage": 0.939,
-        "doublePlays": 27,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 247
-      },
-      "evaluation": {
-        "score": 10,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 7.777777777777755,
-          "Power": 7.10526315789473,
-          "Contact": 3.7500000000000036,
-          "Discipline": 7.127882599580711,
-          "Speed": 36.666666666666664
-        },
-        "summary": "Baylor Roberts profiles as a INF piece who adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .226",
-          "OBP .294",
-          "SLG .347"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".226"
-          },
-          {
-            "label": "OBP",
-            "value": ".294"
-          },
-          {
-            "label": "SLG",
-            "value": ".347"
-          },
-          {
-            "label": "HR",
-            "value": "4"
-          },
-          {
-            "label": "RBI",
-            "value": "31"
-          },
-          {
-            "label": "SB",
-            "value": "11"
-          }
-        ],
-        "metaLine": "FR / N/A",
-        "detailBadges": [
-          "INF",
-          "FR",
-          "N/A",
-          "Hitter"
-        ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats"
-      }
-    },
-    {
-      "id": "uab-11510",
-      "schoolSlug": "uab",
-      "school": "UAB",
-      "schoolLongName": "UAB",
-      "name": "Bradley Loftin",
-      "normalizedName": "bradley loftin",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "",
-      "classYear": "R-JR",
-      "handedness": "N/A",
-      "jersey": "21",
-      "hometown": "Southaven, Miss.",
-      "highSchool": "Desoto Central",
-      "previousSchool": "Mississippi State",
-      "hometownHighSchool": "Southaven, Miss. / Desoto Central",
-      "profileUrl": "https://uabsports.com/sports/baseball/roster/bradley-loftin/11510",
-      "imageUrl": "https://uabsports.com/images/2026/1/16/Bradley_Loftin_gFXG9.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "11510",
+      "rosterBioId": "12332",
       "sources": [
         "UAB Athletics roster"
       ],
@@ -2530,7 +1774,95 @@ window.__BASEBALL_DATASETS__.uab2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Bradley Loftin looks like a LHP option who throws enough strikes.",
+        "summary": "Eli Hubbert looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "UAB Athletics roster"
+      }
+    },
+    {
+      "id": "uab-12324",
+      "schoolSlug": "uab",
+      "school": "UAB",
+      "schoolLongName": "UAB",
+      "name": "Noah Cribb",
+      "normalizedName": "noah cribb",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "",
+      "classYear": "R-JR",
+      "handedness": "N/A",
+      "jersey": "19",
+      "hometown": "Marion, S.C.",
+      "highSchool": "Lake View",
+      "previousSchool": "Florence-Darlington Tech",
+      "hometownHighSchool": "Marion, S.C. / Lake View",
+      "profileUrl": "https://uabsports.com/sports/baseball/roster/noah-cribb/12324",
+      "imageUrl": "https://uabsports.com/images/2026/8/26/Cribb.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12324",
+      "sources": [
+        "UAB Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Noah Cribb looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -2573,24 +1905,200 @@ window.__BASEBALL_DATASETS__.uab2026 = {
       }
     },
     {
-      "id": "uab-11505",
+      "id": "uab-12320",
+      "schoolSlug": "uab",
+      "school": "UAB",
+      "schoolLongName": "UAB",
+      "name": "Baylor Roberts",
+      "normalizedName": "baylor roberts",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "",
+      "classYear": "SO",
+      "handedness": "N/A",
+      "jersey": "20",
+      "hometown": "Baldwyn, Miss.",
+      "highSchool": "Saltillo",
+      "previousSchool": "",
+      "hometownHighSchool": "Baldwyn, Miss. / Saltillo",
+      "profileUrl": "https://uabsports.com/sports/baseball/roster/baylor-roberts/12320",
+      "imageUrl": "https://uabsports.com/images/2026/1/16/Baylor_Roberts_K1GnJ.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12320",
+      "sources": [
+        "UAB Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Baylor Roberts gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "SO / N/A",
+        "detailBadges": [
+          "INF",
+          "SO",
+          "N/A",
+          "Rostered"
+        ],
+        "sourceSummary": "UAB Athletics roster"
+      }
+    },
+    {
+      "id": "uab-12325",
+      "schoolSlug": "uab",
+      "school": "UAB",
+      "schoolLongName": "UAB",
+      "name": "Alex Davis",
+      "normalizedName": "alex davis",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "N/A",
+      "jersey": "21",
+      "hometown": "Little Rock, Ark.",
+      "highSchool": "Sylvan Hills",
+      "previousSchool": "South Arkansas College",
+      "hometownHighSchool": "Little Rock, Ark. / Sylvan Hills",
+      "profileUrl": "https://uabsports.com/sports/baseball/roster/alex-davis/12325",
+      "imageUrl": "https://uabsports.com/images/2026/8/26/Davis.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12325",
+      "sources": [
+        "UAB Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Alex Davis looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "LHP",
+          "JR",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "UAB Athletics roster"
+      }
+    },
+    {
+      "id": "uab-12312",
       "schoolSlug": "uab",
       "school": "UAB",
       "schoolLongName": "UAB",
       "name": "Andrew Hunt",
       "normalizedName": "andrew hunt",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "OF",
       "positionLong": "",
-      "classYear": "R-JR",
+      "classYear": "GR",
       "handedness": "N/A",
       "jersey": "22",
       "hometown": "Birmingham, Ala.",
       "highSchool": "Oak Mountain",
       "previousSchool": "Wallace State CC",
       "hometownHighSchool": "Birmingham, Ala. / Oak Mountain",
-      "profileUrl": "https://uabsports.com/sports/baseball/roster/andrew-hunt/11505",
+      "profileUrl": "https://uabsports.com/sports/baseball/roster/andrew-hunt/12312",
       "imageUrl": "https://uabsports.com/images/2026/1/16/Andrew_Hunt_W6rqq.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -2598,144 +2106,87 @@ window.__BASEBALL_DATASETS__.uab2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "11505",
+      "rosterBioId": "12312",
       "sources": [
-        "UAB Athletics roster",
-        "UAB cumulative stats"
+        "UAB Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "11505",
-        "name": "Andrew Hunt",
-        "normalizedName": "andrew hunt",
-        "jersey": "22",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/andrew-hunt/11505",
-        "imageUrl": "https://uabsports.com/images/2026/1/16/Andrew_Hunt_W6rqq.jpg",
-        "gamesPlayed": 56,
-        "gamesStarted": 54,
-        "battingAverage": 0.32,
-        "onBasePercentage": 0.453,
-        "sluggingPercentage": 0.5,
-        "ops": 0.953,
-        "atBats": 194,
-        "runs": 51,
-        "hits": 62,
-        "doubles": 14,
-        "triples": 0,
-        "homeRuns": 7,
-        "runsBattedIn": 46,
-        "totalBases": 97,
-        "walks": 41,
-        "hitByPitch": 9,
-        "strikeouts": 37,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 6,
-        "sacrificeFlies": 3,
-        "sacrificeHits": 0,
-        "stolenBases": 11,
-        "stolenBasesAttempts": 16,
-        "putouts": 102,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 268,
-        "caughtStealing": 5,
-        "pickedOff": 1
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "11505",
-        "name": "Andrew Hunt",
-        "normalizedName": "andrew hunt",
-        "jersey": "22",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/andrew-hunt/11505",
-        "imageUrl": "https://uabsports.com/images/2026/1/16/Andrew_Hunt_W6rqq.jpg",
-        "gamesPlayed": 46,
-        "gamesStarted": 45,
-        "putouts": 102,
-        "assists": 2,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 104
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 72,
+        "score": 0,
         "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
+          "label": "Depth",
+          "className": "fit-depth"
         },
         "components": {
-          "On-base": 96.1111111111111,
-          "Power": 47.36842105263158,
-          "Contact": 62.5,
-          "Discipline": 100,
-          "Speed": 36.666666666666664
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "summary": "Andrew Hunt profiles as a OF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
+        "summary": "Andrew Hunt gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .320",
-          "OBP .453",
-          "SLG .500"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".320"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".453"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".500"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "7"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "46"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "11"
+            "value": "0"
           }
         ],
-        "metaLine": "R-JR / N/A",
+        "metaLine": "GR / N/A",
         "detailBadges": [
           "OF",
-          "R-JR",
+          "GR",
           "N/A",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats"
+        "sourceSummary": "UAB Athletics roster"
       }
     },
     {
-      "id": "uab-11515",
+      "id": "uab-12317",
       "schoolSlug": "uab",
       "school": "UAB",
       "schoolLongName": "UAB",
       "name": "Austin Pierzynski",
       "normalizedName": "austin pierzynski",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "C",
       "positionLong": "",
-      "classYear": "FR",
+      "classYear": "SO",
       "handedness": "N/A",
       "jersey": "23",
       "hometown": "Orlando, Fla.",
       "highSchool": "The First Academy",
       "previousSchool": "",
       "hometownHighSchool": "Orlando, Fla. / The First Academy",
-      "profileUrl": "https://uabsports.com/sports/baseball/roster/austin-pierzynski/11515",
+      "profileUrl": "https://uabsports.com/sports/baseball/roster/austin-pierzynski/12317",
       "imageUrl": "https://uabsports.com/images/2026/1/16/Austin_Pierzynski_9F1hq.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -2743,127 +2194,70 @@ window.__BASEBALL_DATASETS__.uab2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "11515",
+      "rosterBioId": "12317",
       "sources": [
-        "UAB Athletics roster",
-        "UAB cumulative stats"
+        "UAB Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "11515",
-        "name": "Austin Pierzynski",
-        "normalizedName": "austin pierzynski",
-        "jersey": "23",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/austin-pierzynski/11515",
-        "imageUrl": "https://uabsports.com/images/2026/1/16/Austin_Pierzynski_9F1hq.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 36,
-        "battingAverage": 0.24,
-        "onBasePercentage": 0.34,
-        "sluggingPercentage": 0.448,
-        "ops": 0.788,
-        "atBats": 125,
-        "runs": 21,
-        "hits": 30,
-        "doubles": 3,
-        "triples": 1,
-        "homeRuns": 7,
-        "runsBattedIn": 18,
-        "totalBases": 56,
-        "walks": 14,
-        "hitByPitch": 5,
-        "strikeouts": 23,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 3,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 8,
-        "stolenBases": 3,
-        "stolenBasesAttempts": 3,
-        "putouts": 224,
-        "assists": 0,
-        "errors": 10,
-        "plateAppearances": 155,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "11515",
-        "name": "Austin Pierzynski",
-        "normalizedName": "austin pierzynski",
-        "jersey": "23",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/austin-pierzynski/11515",
-        "imageUrl": "https://uabsports.com/images/2026/1/16/Austin_Pierzynski_9F1hq.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 36,
-        "putouts": 224,
-        "assists": 21,
-        "errors": 10,
-        "fieldingPercentage": 0.961,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 46,
-        "caughtStealingBy": 7,
-        "stolenBasesPercentage": null,
-        "passedBalls": 4,
-        "catchersInterference": 2,
-        "totalChances": 255
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 29,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 33.33333333333333,
-          "Power": 33.684210526315795,
-          "Contact": 12.499999999999993,
-          "Discipline": 45.41062801932367,
-          "Speed": 10
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
         "summary": "Austin Pierzynski gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .240",
-          "OBP .340",
-          "SLG .448"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".240"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".340"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".448"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "7"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "18"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "3"
+            "value": "0"
           }
         ],
-        "metaLine": "FR / N/A",
+        "metaLine": "SO / N/A",
         "detailBadges": [
           "C",
-          "FR",
+          "SO",
           "N/A",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats"
+        "sourceSummary": "UAB Athletics roster"
       }
     },
     {
-      "id": "uab-11502",
+      "id": "uab-12309",
       "schoolSlug": "uab",
       "school": "UAB",
       "schoolLongName": "UAB",
@@ -2873,14 +2267,14 @@ window.__BASEBALL_DATASETS__.uab2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
-      "classYear": "SO",
+      "classYear": "JR",
       "handedness": "N/A",
       "jersey": "24",
       "hometown": "Jasper, Ala.",
       "highSchool": "Sumiton Christian",
       "previousSchool": "",
       "hometownHighSchool": "Jasper, Ala. / Sumiton Christian",
-      "profileUrl": "https://uabsports.com/sports/baseball/roster/justin-hicks/11502",
+      "profileUrl": "https://uabsports.com/sports/baseball/roster/justin-hicks/12309",
       "imageUrl": "https://uabsports.com/images/2026/1/16/Justin_HB2vC.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -2888,69 +2282,15 @@ window.__BASEBALL_DATASETS__.uab2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "11502",
+      "rosterBioId": "12309",
       "sources": [
-        "UAB Athletics roster",
-        "UAB cumulative stats"
+        "UAB Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "11502",
-        "name": "Justin Hicks",
-        "normalizedName": "justin hicks",
-        "jersey": "24",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/justin-hicks/11502",
-        "imageUrl": "https://uabsports.com/images/2026/1/16/Justin_HB2vC.jpg",
-        "gamesPlayed": 19,
-        "gamesStarted": 8,
-        "appearances": 19,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 8.51,
-        "whip": 1.78,
-        "wins": 2,
-        "losses": 4,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 37,
-        "inningsPitchedDisplay": "37.0",
-        "hitsAllowed": 54,
-        "runsAllowed": 39,
-        "earnedRunsAllowed": 35,
-        "walksAllowed": 12,
-        "strikeouts": 29,
-        "doublesAllowed": 11,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 6,
-        "opponentsAtBats": 159,
-        "wildPitches": 0,
-        "hitBatters": 7,
-        "balks": 0,
-        "opponentsBattingAverage": 0.34,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "11502",
-        "name": "Justin Hicks",
-        "normalizedName": "justin hicks",
-        "jersey": "24",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/justin-hicks/11502",
-        "imageUrl": "https://uabsports.com/images/2026/1/16/Justin_HB2vC.jpg",
-        "gamesPlayed": 9,
-        "gamesStarted": 5,
-        "putouts": 2,
-        "assists": 5,
-        "errors": 1,
-        "fieldingPercentage": 0.875,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 7,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 8
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 10,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2958,54 +2298,54 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 27.764127764127768,
-          "Command": 28.33333333333334,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
         "summary": "Justin Hicks looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 8.51",
-          "WHIP 1.78",
-          "K/9 7.1"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "8.51"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.78"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "7.1"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "2.9"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.46"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "37.0"
+            "value": "0.0"
           }
         ],
-        "metaLine": "SO / N/A",
+        "metaLine": "JR / N/A",
         "detailBadges": [
           "RHP",
-          "SO",
+          "JR",
           "N/A",
           "Pitcher"
         ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats"
+        "sourceSummary": "UAB Athletics roster"
       }
     },
     {
-      "id": "uab-11520",
+      "id": "uab-12321",
       "schoolSlug": "uab",
       "school": "UAB",
       "schoolLongName": "UAB",
@@ -3015,14 +2355,14 @@ window.__BASEBALL_DATASETS__.uab2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
-      "classYear": "FR",
+      "classYear": "SO",
       "handedness": "N/A",
       "jersey": "25",
       "hometown": "Springville, Ala.",
       "highSchool": "Springville",
       "previousSchool": "",
       "hometownHighSchool": "Springville, Ala. / Springville",
-      "profileUrl": "https://uabsports.com/sports/baseball/roster/carter-samuelson/11520",
+      "profileUrl": "https://uabsports.com/sports/baseball/roster/carter-samuelson/12321",
       "imageUrl": "https://uabsports.com/images/2026/1/16/Carter_Samuelson_5Cc3v.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -3030,69 +2370,15 @@ window.__BASEBALL_DATASETS__.uab2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "11520",
+      "rosterBioId": "12321",
       "sources": [
-        "UAB Athletics roster",
-        "UAB cumulative stats"
+        "UAB Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "11520",
-        "name": "Carter Samuelson",
-        "normalizedName": "carter samuelson",
-        "jersey": "25",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/carter-samuelson/11520",
-        "imageUrl": "https://uabsports.com/images/2026/1/16/Carter_Samuelson_5Cc3v.jpg",
-        "gamesPlayed": 20,
-        "gamesStarted": 11,
-        "appearances": 20,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 7.05,
-        "whip": 1.88,
-        "wins": 5,
-        "losses": 3,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 60,
-        "inningsPitchedDisplay": "60.0",
-        "hitsAllowed": 74,
-        "runsAllowed": 55,
-        "earnedRunsAllowed": 47,
-        "walksAllowed": 39,
-        "strikeouts": 37,
-        "doublesAllowed": 10,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 8,
-        "opponentsAtBats": 237,
-        "wildPitches": 1,
-        "hitBatters": 10,
-        "balks": 0,
-        "opponentsBattingAverage": 0.312,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "11520",
-        "name": "Carter Samuelson",
-        "normalizedName": "carter samuelson",
-        "jersey": "25",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/carter-samuelson/11520",
-        "imageUrl": "https://uabsports.com/images/2026/1/16/Carter_Samuelson_5Cc3v.jpg",
-        "gamesPlayed": 12,
-        "gamesStarted": 7,
-        "putouts": 2,
-        "assists": 12,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 1,
-        "stolenBasesAgainst": 4,
-        "caughtStealingBy": 3,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 14
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 3,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3100,54 +2386,54 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 14.09090909090909,
+          "Miss bats": 0,
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Carter Samuelson gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Carter Samuelson looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 7.05",
-          "WHIP 1.88",
-          "K/9 5.5"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.05"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.88"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "5.5"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "5.8"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.20"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "60.0"
+            "value": "0.0"
           }
         ],
-        "metaLine": "FR / N/A",
+        "metaLine": "SO / N/A",
         "detailBadges": [
           "RHP",
-          "FR",
+          "SO",
           "N/A",
           "Pitcher"
         ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats"
+        "sourceSummary": "UAB Athletics roster"
       }
     },
     {
-      "id": "uab-11513",
+      "id": "uab-12315",
       "schoolSlug": "uab",
       "school": "UAB",
       "schoolLongName": "UAB",
@@ -3157,14 +2443,14 @@ window.__BASEBALL_DATASETS__.uab2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
-      "classYear": "R-FR",
+      "classYear": "R-SO",
       "handedness": "N/A",
       "jersey": "26",
       "hometown": "Athens, Ala.",
       "highSchool": "Athens",
       "previousSchool": "",
       "hometownHighSchool": "Athens, Ala. / Athens",
-      "profileUrl": "https://uabsports.com/sports/baseball/roster/riley-miller/11513",
+      "profileUrl": "https://uabsports.com/sports/baseball/roster/riley-miller/12315",
       "imageUrl": "https://uabsports.com/images/2026/1/16/Riley_Miller_Xafvj.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -3172,69 +2458,15 @@ window.__BASEBALL_DATASETS__.uab2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "11513",
+      "rosterBioId": "12315",
       "sources": [
-        "UAB Athletics roster",
-        "UAB cumulative stats"
+        "UAB Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "11513",
-        "name": "Riley Miller",
-        "normalizedName": "riley miller",
-        "jersey": "26",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/riley-miller/11513",
-        "imageUrl": "https://uabsports.com/images/2026/1/16/Riley_Miller_Xafvj.jpg",
-        "gamesPlayed": 25,
-        "gamesStarted": 0,
-        "appearances": 25,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 6.09,
-        "whip": 1.67,
-        "wins": 5,
-        "losses": 1,
-        "saves": 3,
-        "shutouts": 0,
-        "inningsPitched": 44.333333333333336,
-        "inningsPitchedDisplay": "44.1",
-        "hitsAllowed": 52,
-        "runsAllowed": 30,
-        "earnedRunsAllowed": 30,
-        "walksAllowed": 22,
-        "strikeouts": 30,
-        "doublesAllowed": 11,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 7,
-        "opponentsAtBats": 173,
-        "wildPitches": 4,
-        "hitBatters": 1,
-        "balks": 1,
-        "opponentsBattingAverage": 0.301,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "11513",
-        "name": "Riley Miller",
-        "normalizedName": "riley miller",
-        "jersey": "26",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/riley-miller/11513",
-        "imageUrl": "https://uabsports.com/images/2026/1/16/Riley_Miller_Xafvj.jpg",
-        "gamesPlayed": 11,
-        "gamesStarted": 0,
-        "putouts": 3,
-        "assists": 3,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 11,
-        "caughtStealingBy": 1,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 6
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 5,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3242,199 +2474,142 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 19.00205058099795,
-          "Command": 7.272727272727275,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Riley Miller gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Riley Miller looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 6.09",
-          "WHIP 1.67",
-          "K/9 6.1"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.09"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.67"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "6.1"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "4.5"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.42"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "44.3"
+            "value": "0.0"
           }
         ],
-        "metaLine": "R-FR / N/A",
+        "metaLine": "R-SO / N/A",
         "detailBadges": [
           "RHP",
-          "R-FR",
+          "R-SO",
           "N/A",
           "Pitcher"
         ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats"
+        "sourceSummary": "UAB Athletics roster"
       }
     },
     {
-      "id": "uab-11525",
+      "id": "uab-12337",
       "schoolSlug": "uab",
       "school": "UAB",
       "schoolLongName": "UAB",
-      "name": "Brady Waugh",
-      "normalizedName": "brady waugh",
-      "compositeRole": "Hitter",
+      "name": "Jake Brown",
+      "normalizedName": "jake brown",
+      "compositeRole": "Rostered",
       "role": "Hitter",
-      "position": "INF",
+      "position": "C",
       "positionLong": "",
-      "classYear": "JR",
+      "classYear": "FR",
       "handedness": "N/A",
       "jersey": "27",
-      "hometown": "Hoover, Ala.",
-      "highSchool": "Briarwood Christian",
-      "previousSchool": "Shelton State CC",
-      "hometownHighSchool": "Hoover, Ala. / Briarwood Christian",
-      "profileUrl": "https://uabsports.com/sports/baseball/roster/brady-waugh/11525",
-      "imageUrl": "https://uabsports.com/images/2026/1/16/Brady_xXqTd.jpg",
+      "hometown": "Atlanta, Ga.",
+      "highSchool": "Druid Hills",
+      "previousSchool": "",
+      "hometownHighSchool": "Atlanta, Ga. / Druid Hills",
+      "profileUrl": "https://uabsports.com/sports/baseball/roster/jake-brown/12337",
+      "imageUrl": "https://uabsports.com/images/2026/8/26/Brown_9ec2Y.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "11525",
+      "rosterBioId": "12337",
       "sources": [
-        "UAB Athletics roster",
-        "UAB cumulative stats"
+        "UAB Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "11525",
-        "name": "Brady Waugh",
-        "normalizedName": "brady waugh",
-        "jersey": "27",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/brady-waugh/11525",
-        "imageUrl": "https://uabsports.com/images/2026/1/16/Brady_xXqTd.jpg",
-        "gamesPlayed": 58,
-        "gamesStarted": 58,
-        "battingAverage": 0.322,
-        "onBasePercentage": 0.431,
-        "sluggingPercentage": 0.49,
-        "ops": 0.921,
-        "atBats": 208,
-        "runs": 44,
-        "hits": 67,
-        "doubles": 12,
-        "triples": 1,
-        "homeRuns": 7,
-        "runsBattedIn": 49,
-        "totalBases": 102,
-        "walks": 40,
-        "hitByPitch": 3,
-        "strikeouts": 33,
-        "intentionalWalks": 1,
-        "groundedIntoDoublePlay": 5,
-        "sacrificeFlies": 4,
-        "sacrificeHits": 3,
-        "stolenBases": 7,
-        "stolenBasesAttempts": 7,
-        "putouts": 87,
-        "assists": 0,
-        "errors": 7,
-        "plateAppearances": 265,
-        "caughtStealing": 0,
-        "pickedOff": 1
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "11525",
-        "name": "Brady Waugh",
-        "normalizedName": "brady waugh",
-        "jersey": "27",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/brady-waugh/11525",
-        "imageUrl": "https://uabsports.com/images/2026/1/16/Brady_xXqTd.jpg",
-        "gamesPlayed": 54,
-        "gamesStarted": 54,
-        "putouts": 87,
-        "assists": 142,
-        "errors": 7,
-        "fieldingPercentage": 0.97,
-        "doublePlays": 23,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 236
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 66,
+        "score": 0,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
         "components": {
-          "On-base": 83.88888888888889,
-          "Power": 44.73684210526316,
-          "Contact": 63.75000000000001,
-          "Discipline": 100,
-          "Speed": 23.333333333333332
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "summary": "Brady Waugh profiles as a INF piece who gets on base at a high clip and controls at-bats.",
+        "summary": "Jake Brown gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .322",
-          "OBP .431",
-          "SLG .490"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".322"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".431"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".490"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "7"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "49"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "7"
+            "value": "0"
           }
         ],
-        "metaLine": "JR / N/A",
+        "metaLine": "FR / N/A",
         "detailBadges": [
-          "INF",
-          "JR",
+          "C",
+          "FR",
           "N/A",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats"
+        "sourceSummary": "UAB Athletics roster"
       }
     },
     {
-      "id": "uab-11507",
+      "id": "uab-12372",
       "schoolSlug": "uab",
       "school": "UAB",
       "schoolLongName": "UAB",
@@ -3444,14 +2619,14 @@ window.__BASEBALL_DATASETS__.uab2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
-      "classYear": "SR",
+      "classYear": "GR",
       "handedness": "N/A",
       "jersey": "30",
       "hometown": "Pleasant Hill, Calif.",
       "highSchool": "IMG Academy",
       "previousSchool": "",
       "hometownHighSchool": "Pleasant Hill, Calif. / IMG Academy",
-      "profileUrl": "https://uabsports.com/sports/baseball/roster/chase-ingram/11507",
+      "profileUrl": "https://uabsports.com/sports/baseball/roster/chase-ingram/12372",
       "imageUrl": "https://uabsports.com/images/2026/1/16/Chase_Ingram_Ejjbv.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -3459,69 +2634,15 @@ window.__BASEBALL_DATASETS__.uab2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "11507",
+      "rosterBioId": "12372",
       "sources": [
-        "UAB Athletics roster",
-        "UAB cumulative stats"
+        "UAB Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "11507",
-        "name": "Chase Ingram",
-        "normalizedName": "chase ingram",
-        "jersey": "30",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/chase-ingram/11507",
-        "imageUrl": "https://uabsports.com/images/2026/1/16/Chase_Ingram_Ejjbv.jpg",
-        "gamesPlayed": 24,
-        "gamesStarted": 9,
-        "appearances": 24,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 6.37,
-        "whip": 1.51,
-        "wins": 2,
-        "losses": 5,
-        "saves": 3,
-        "shutouts": 0,
-        "inningsPitched": 70.66666666666667,
-        "inningsPitchedDisplay": "70.2",
-        "hitsAllowed": 91,
-        "runsAllowed": 55,
-        "earnedRunsAllowed": 50,
-        "walksAllowed": 16,
-        "strikeouts": 50,
-        "doublesAllowed": 17,
-        "triplesAllowed": 4,
-        "homeRunsAllowed": 17,
-        "opponentsAtBats": 298,
-        "wildPitches": 2,
-        "hitBatters": 3,
-        "balks": 0,
-        "opponentsBattingAverage": 0.305,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "11507",
-        "name": "Chase Ingram",
-        "normalizedName": "chase ingram",
-        "jersey": "30",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/chase-ingram/11507",
-        "imageUrl": "https://uabsports.com/images/2026/1/16/Chase_Ingram_Ejjbv.jpg",
-        "gamesPlayed": 15,
-        "gamesStarted": 9,
-        "putouts": 9,
-        "assists": 8,
-        "errors": 1,
-        "fieldingPercentage": 0.944,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 12,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 18
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 11,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3529,182 +2650,40 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 21.52658662092624,
-          "Command": 42.49999999999999,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
         "summary": "Chase Ingram looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 6.37",
-          "WHIP 1.51",
-          "K/9 6.4"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.37"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.51"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "6.4"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "2.0"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "2.17"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "70.7"
-          }
-        ],
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "N/A",
-          "Pitcher"
-        ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats"
-      }
-    },
-    {
-      "id": "uab-11497",
-      "schoolSlug": "uab",
-      "school": "UAB",
-      "schoolLongName": "UAB",
-      "name": "Tyler Haines",
-      "normalizedName": "tyler haines",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "GR",
-      "handedness": "N/A",
-      "jersey": "31",
-      "hometown": "Phenix City, Ala.",
-      "highSchool": "Central Phenix City",
-      "previousSchool": "Mississippi State",
-      "hometownHighSchool": "Phenix City, Ala. / Central Phenix City",
-      "profileUrl": "https://uabsports.com/sports/baseball/roster/tyler-haines/11497",
-      "imageUrl": "https://uabsports.com/images/2026/1/16/Tyler_Haines_F0LxG.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "11497",
-      "sources": [
-        "UAB Athletics roster",
-        "UAB cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "11497",
-        "name": "Tyler Haines",
-        "normalizedName": "tyler haines",
-        "jersey": "31",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/tyler-haines/11497",
-        "imageUrl": "https://uabsports.com/images/2026/1/16/Tyler_Haines_F0LxG.jpg",
-        "gamesPlayed": 11,
-        "gamesStarted": 0,
-        "appearances": 11,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 15.12,
-        "whip": 2.88,
-        "wins": 2,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 8.333333333333334,
-        "inningsPitchedDisplay": "8.1",
-        "hitsAllowed": 18,
-        "runsAllowed": 14,
-        "earnedRunsAllowed": 14,
-        "walksAllowed": 6,
-        "strikeouts": 7,
-        "doublesAllowed": 2,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 3,
-        "opponentsAtBats": 39,
-        "wildPitches": 3,
-        "hitBatters": 2,
-        "balks": 0,
-        "opponentsBattingAverage": 0.462,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "11497",
-        "name": "Tyler Haines",
-        "normalizedName": "tyler haines",
-        "jersey": "31",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/tyler-haines/11497",
-        "imageUrl": "https://uabsports.com/images/2026/1/16/Tyler_Haines_F0LxG.jpg",
-        "gamesPlayed": 2,
-        "gamesStarted": 0,
-        "putouts": 0,
-        "assists": 2,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 1,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 2
-      },
-      "evaluation": {
-        "score": 7,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 32.36363636363636,
-          "Command": 3.333333333333335,
-          "Damage suppression": 0
-        },
-        "summary": "Tyler Haines gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 15.12",
-          "WHIP 2.88",
-          "K/9 7.6"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "15.12"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.88"
-          },
-          {
-            "label": "K/9",
-            "value": "7.6"
-          },
-          {
-            "label": "BB/9",
-            "value": "6.5"
-          },
-          {
-            "label": "HR/9",
-            "value": "3.24"
-          },
-          {
-            "label": "IP",
-            "value": "8.3"
+            "value": "0.0"
           }
         ],
         "metaLine": "GR / N/A",
@@ -3714,28 +2693,116 @@ window.__BASEBALL_DATASETS__.uab2026 = {
           "N/A",
           "Pitcher"
         ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats"
+        "sourceSummary": "UAB Athletics roster"
       }
     },
     {
-      "id": "uab-11517",
+      "id": "uab-12334",
+      "schoolSlug": "uab",
+      "school": "UAB",
+      "schoolLongName": "UAB",
+      "name": "Cutter Smith",
+      "normalizedName": "cutter smith",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "",
+      "classYear": "FR",
+      "handedness": "N/A",
+      "jersey": "31",
+      "hometown": "Naples, Fla.",
+      "highSchool": "Community School of Naples",
+      "previousSchool": "",
+      "hometownHighSchool": "Naples, Fla. / Community School of Naples",
+      "profileUrl": "https://uabsports.com/sports/baseball/roster/cutter-smith/12334",
+      "imageUrl": "https://uabsports.com/images/2026/8/26/Smith_QdMmY.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12334",
+      "sources": [
+        "UAB Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Cutter Smith gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "INF",
+          "FR",
+          "N/A",
+          "Rostered"
+        ],
+        "sourceSummary": "UAB Athletics roster"
+      }
+    },
+    {
+      "id": "uab-12319",
       "schoolSlug": "uab",
       "school": "UAB",
       "schoolLongName": "UAB",
       "name": "Max Price",
       "normalizedName": "max price",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "C",
       "positionLong": "",
-      "classYear": "R-JR",
+      "classYear": "R-SR",
       "handedness": "N/A",
       "jersey": "32",
       "hometown": "Northridge, Calif.",
       "highSchool": "Agoura",
       "previousSchool": "Glendale (CA) CC",
       "hometownHighSchool": "Northridge, Calif. / Agoura",
-      "profileUrl": "https://uabsports.com/sports/baseball/roster/max-price/11517",
+      "profileUrl": "https://uabsports.com/sports/baseball/roster/max-price/12319",
       "imageUrl": "https://uabsports.com/images/2026/1/16/Max_qfqx2.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -3743,127 +2810,70 @@ window.__BASEBALL_DATASETS__.uab2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "11517",
+      "rosterBioId": "12319",
       "sources": [
-        "UAB Athletics roster",
-        "UAB cumulative stats"
+        "UAB Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "11517",
-        "name": "Max Price",
-        "normalizedName": "max price",
-        "jersey": "32",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/max-price/11517",
-        "imageUrl": "https://uabsports.com/images/2026/1/16/Max_qfqx2.jpg",
-        "gamesPlayed": 34,
-        "gamesStarted": 26,
-        "battingAverage": 0.263,
-        "onBasePercentage": 0.395,
-        "sluggingPercentage": 0.526,
-        "ops": 0.921,
-        "atBats": 95,
-        "runs": 20,
-        "hits": 25,
-        "doubles": 5,
-        "triples": 1,
-        "homeRuns": 6,
-        "runsBattedIn": 24,
-        "totalBases": 50,
-        "walks": 13,
-        "hitByPitch": 9,
-        "strikeouts": 29,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 3,
-        "sacrificeFlies": 2,
-        "sacrificeHits": 0,
-        "stolenBases": 1,
-        "stolenBasesAttempts": 1,
-        "putouts": 136,
-        "assists": 0,
-        "errors": 2,
-        "plateAppearances": 120,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "11517",
-        "name": "Max Price",
-        "normalizedName": "max price",
-        "jersey": "32",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/max-price/11517",
-        "imageUrl": "https://uabsports.com/images/2026/1/16/Max_qfqx2.jpg",
-        "gamesPlayed": 23,
-        "gamesStarted": 22,
-        "putouts": 136,
-        "assists": 10,
-        "errors": 2,
-        "fieldingPercentage": 0.986,
-        "doublePlays": 1,
-        "stolenBasesAgainst": 26,
-        "caughtStealingBy": 6,
-        "stolenBasesPercentage": null,
-        "passedBalls": 4,
-        "catchersInterference": 1,
-        "totalChances": 148
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 44,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 63.888888888888886,
-          "Power": 54.21052631578949,
-          "Contact": 26.875000000000004,
-          "Discipline": 27.58620689655172,
-          "Speed": 3.3333333333333335
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
         "summary": "Max Price gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .263",
-          "OBP .395",
-          "SLG .526"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".263"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".395"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".526"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "6"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "24"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "1"
+            "value": "0"
           }
         ],
-        "metaLine": "R-JR / N/A",
+        "metaLine": "R-SR / N/A",
         "detailBadges": [
           "C",
-          "R-JR",
+          "R-SR",
           "N/A",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats"
+        "sourceSummary": "UAB Athletics roster"
       }
     },
     {
-      "id": "uab-11503",
+      "id": "uab-12310",
       "schoolSlug": "uab",
       "school": "UAB",
       "schoolLongName": "UAB",
@@ -3873,14 +2883,14 @@ window.__BASEBALL_DATASETS__.uab2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
-      "classYear": "JR",
+      "classYear": "R-JR",
       "handedness": "N/A",
       "jersey": "33",
       "hometown": "Demopolis, Ala.",
       "highSchool": "Demopolis",
       "previousSchool": "Southern Union CC",
       "hometownHighSchool": "Demopolis, Ala. / Demopolis",
-      "profileUrl": "https://uabsports.com/sports/baseball/roster/josh-holley/11503",
+      "profileUrl": "https://uabsports.com/sports/baseball/roster/josh-holley/12310",
       "imageUrl": "https://uabsports.com/images/2026/1/16/Josh_Holley_CbwIa.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -3888,7 +2898,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "11503",
+      "rosterBioId": "12310",
       "sources": [
         "UAB Athletics roster"
       ],
@@ -3940,10 +2950,10 @@ window.__BASEBALL_DATASETS__.uab2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "JR / N/A",
+        "metaLine": "R-JR / N/A",
         "detailBadges": [
           "RHP",
-          "JR",
+          "R-JR",
           "N/A",
           "Pitcher"
         ],
@@ -3951,7 +2961,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
       }
     },
     {
-      "id": "uab-11516",
+      "id": "uab-12318",
       "schoolSlug": "uab",
       "school": "UAB",
       "schoolLongName": "UAB",
@@ -3961,14 +2971,14 @@ window.__BASEBALL_DATASETS__.uab2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
-      "classYear": "JR",
+      "classYear": "R-JR",
       "handedness": "N/A",
       "jersey": "34",
       "hometown": "Alexandria, La.",
       "highSchool": "Holy Savior Menard Central",
       "previousSchool": "Meridian CC",
       "hometownHighSchool": "Alexandria, La. / Holy Savior Menard Central",
-      "profileUrl": "https://uabsports.com/sports/baseball/roster/andrew-prejean/11516",
+      "profileUrl": "https://uabsports.com/sports/baseball/roster/andrew-prejean/12318",
       "imageUrl": "https://uabsports.com/images/2026/1/16/Andrew_Prejean_3KCs3.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -3976,7 +2986,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "11516",
+      "rosterBioId": "12318",
       "sources": [
         "UAB Athletics roster"
       ],
@@ -4028,6 +3038,182 @@ window.__BASEBALL_DATASETS__.uab2026 = {
             "value": "0.0"
           }
         ],
+        "metaLine": "R-JR / N/A",
+        "detailBadges": [
+          "RHP",
+          "R-JR",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "UAB Athletics roster"
+      }
+    },
+    {
+      "id": "uab-12308",
+      "schoolSlug": "uab",
+      "school": "UAB",
+      "schoolLongName": "UAB",
+      "name": "Christian Helmers",
+      "normalizedName": "christian helmers",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "SO",
+      "handedness": "N/A",
+      "jersey": "35",
+      "hometown": "Trussville, Ala.",
+      "highSchool": "Hewitt-Trussville",
+      "previousSchool": "",
+      "hometownHighSchool": "Trussville, Ala. / Hewitt-Trussville",
+      "profileUrl": "https://uabsports.com/sports/baseball/roster/christian-helmers/12308",
+      "imageUrl": "https://uabsports.com/images/2026/1/16/Christian_Helmers_oKlaZ.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12308",
+      "sources": [
+        "UAB Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Christian Helmers looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "SO / N/A",
+        "detailBadges": [
+          "RHP",
+          "SO",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "UAB Athletics roster"
+      }
+    },
+    {
+      "id": "uab-12303",
+      "schoolSlug": "uab",
+      "school": "UAB",
+      "schoolLongName": "UAB",
+      "name": "Brendan Conner",
+      "normalizedName": "brendan conner",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "N/A",
+      "jersey": "36",
+      "hometown": "Corner, Ala.",
+      "highSchool": "Corner",
+      "previousSchool": "",
+      "hometownHighSchool": "Corner, Ala. / Corner",
+      "profileUrl": "https://uabsports.com/sports/baseball/roster/brendan-conner/12303",
+      "imageUrl": "https://uabsports.com/images/2026/1/16/Brendan_Conner_IM37I.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12303",
+      "sources": [
+        "UAB Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Brendan Conner looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
         "metaLine": "JR / N/A",
         "detailBadges": [
           "RHP",
@@ -4039,94 +3225,40 @@ window.__BASEBALL_DATASETS__.uab2026 = {
       }
     },
     {
-      "id": "uab-11500",
+      "id": "uab-12323",
       "schoolSlug": "uab",
       "school": "UAB",
       "schoolLongName": "UAB",
-      "name": "Christian Helmers",
-      "normalizedName": "christian helmers",
+      "name": "Payton Armour",
+      "normalizedName": "payton armour",
       "compositeRole": "Pitcher",
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
-      "classYear": "FR",
+      "classYear": "SR",
       "handedness": "N/A",
-      "jersey": "35",
-      "hometown": "Trussville, Ala.",
-      "highSchool": "Hewitt-Trussville",
-      "previousSchool": "",
-      "hometownHighSchool": "Trussville, Ala. / Hewitt-Trussville",
-      "profileUrl": "https://uabsports.com/sports/baseball/roster/christian-helmers/11500",
-      "imageUrl": "https://uabsports.com/images/2026/1/16/Christian_Helmers_oKlaZ.jpg",
+      "jersey": "41",
+      "hometown": "Decatur, Tenn.",
+      "highSchool": "Meigs County",
+      "previousSchool": "Lincoln Memorial",
+      "hometownHighSchool": "Decatur, Tenn. / Meigs County",
+      "profileUrl": "https://uabsports.com/sports/baseball/roster/payton-armour/12323",
+      "imageUrl": "https://uabsports.com/images/2026/8/26/Armour.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "11500",
+      "rosterBioId": "12323",
       "sources": [
-        "UAB Athletics roster",
-        "UAB cumulative stats"
+        "UAB Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "11500",
-        "name": "Christian Helmers",
-        "normalizedName": "christian helmers",
-        "jersey": "35",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/christian-helmers/11500",
-        "imageUrl": "https://uabsports.com/images/2026/1/16/Christian_Helmers_oKlaZ.jpg",
-        "gamesPlayed": 21,
-        "gamesStarted": 3,
-        "appearances": 21,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 10.98,
-        "whip": 2.18,
-        "wins": 1,
-        "losses": 2,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 30.333333333333332,
-        "inningsPitchedDisplay": "30.1",
-        "hitsAllowed": 44,
-        "runsAllowed": 44,
-        "earnedRunsAllowed": 37,
-        "walksAllowed": 22,
-        "strikeouts": 29,
-        "doublesAllowed": 12,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 6,
-        "opponentsAtBats": 134,
-        "wildPitches": 6,
-        "hitBatters": 7,
-        "balks": 0,
-        "opponentsBattingAverage": 0.328,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "11500",
-        "name": "Christian Helmers",
-        "normalizedName": "christian helmers",
-        "jersey": "35",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/christian-helmers/11500",
-        "imageUrl": "https://uabsports.com/images/2026/1/16/Christian_Helmers_oKlaZ.jpg",
-        "gamesPlayed": 10,
-        "gamesStarted": 2,
-        "putouts": 3,
-        "assists": 5,
-        "errors": 2,
-        "fieldingPercentage": 0.8,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 3,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 10
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 9,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4134,40 +3266,128 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 41.858141858141856,
-          "Command": 6.363636363636363,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Christian Helmers gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Payton Armour looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 10.98",
-          "WHIP 2.18",
-          "K/9 8.6"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "10.98"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "2.18"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "8.6"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "6.5"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.78"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "30.3"
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "SR / N/A",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "UAB Athletics roster"
+      }
+    },
+    {
+      "id": "uab-12330",
+      "schoolSlug": "uab",
+      "school": "UAB",
+      "schoolLongName": "UAB",
+      "name": "Caiden Caldera",
+      "normalizedName": "caiden caldera",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "FR",
+      "handedness": "N/A",
+      "jersey": "42",
+      "hometown": "Memphis, Tenn.",
+      "highSchool": "Evangelical Christian School",
+      "previousSchool": "",
+      "hometownHighSchool": "Memphis, Tenn. / Evangelical Christian School",
+      "profileUrl": "https://uabsports.com/sports/baseball/roster/caiden-caldera/12330",
+      "imageUrl": "https://uabsports.com/images/2026/8/26/Caldera_iyxyY.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "12330",
+      "sources": [
+        "UAB Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Caiden Caldera looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
           }
         ],
         "metaLine": "FR / N/A",
@@ -4177,98 +3397,44 @@ window.__BASEBALL_DATASETS__.uab2026 = {
           "N/A",
           "Pitcher"
         ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats"
+        "sourceSummary": "UAB Athletics roster"
       }
     },
     {
-      "id": "uab-11492",
+      "id": "uab-12311",
       "schoolSlug": "uab",
       "school": "UAB",
       "schoolLongName": "UAB",
-      "name": "Brendan Conner",
-      "normalizedName": "brendan conner",
+      "name": "Brooks House",
+      "normalizedName": "brooks house",
       "compositeRole": "Pitcher",
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
-      "classYear": "SO",
+      "classYear": "R-JR",
       "handedness": "N/A",
-      "jersey": "36",
-      "hometown": "Corner, Ala.",
-      "highSchool": "Corner",
+      "jersey": "43",
+      "hometown": "Winder, Ga.",
+      "highSchool": "Winder Barrow",
       "previousSchool": "",
-      "hometownHighSchool": "Corner, Ala. / Corner",
-      "profileUrl": "https://uabsports.com/sports/baseball/roster/brendan-conner/11492",
-      "imageUrl": "https://uabsports.com/images/2026/1/16/Brendan_Conner_IM37I.jpg",
+      "hometownHighSchool": "Winder, Ga. / Winder Barrow",
+      "profileUrl": "https://uabsports.com/sports/baseball/roster/brooks-house/12311",
+      "imageUrl": "https://uabsports.com/images/2026/1/16/Brooks_axyqT.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "11492",
+      "rosterBioId": "12311",
       "sources": [
-        "UAB Athletics roster",
-        "UAB cumulative stats"
+        "UAB Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "11492",
-        "name": "Brendan Conner",
-        "normalizedName": "brendan conner",
-        "jersey": "36",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/brendan-conner/11492",
-        "imageUrl": "https://uabsports.com/images/2026/1/16/Brendan_Conner_IM37I.jpg",
-        "gamesPlayed": 24,
-        "gamesStarted": 3,
-        "appearances": 24,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 4.35,
-        "whip": 1.45,
-        "wins": 4,
-        "losses": 3,
-        "saves": 2,
-        "shutouts": 0,
-        "inningsPitched": 60,
-        "inningsPitchedDisplay": "60.0",
-        "hitsAllowed": 58,
-        "runsAllowed": 33,
-        "earnedRunsAllowed": 29,
-        "walksAllowed": 29,
-        "strikeouts": 39,
-        "doublesAllowed": 11,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 5,
-        "opponentsAtBats": 236,
-        "wildPitches": 1,
-        "hitBatters": 2,
-        "balks": 0,
-        "opponentsBattingAverage": 0.246,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "11492",
-        "name": "Brendan Conner",
-        "normalizedName": "brendan conner",
-        "jersey": "36",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/brendan-conner/11492",
-        "imageUrl": "https://uabsports.com/images/2026/1/16/Brendan_Conner_IM37I.jpg",
-        "gamesPlayed": 14,
-        "gamesStarted": 2,
-        "putouts": 5,
-        "assists": 10,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 7,
-        "caughtStealingBy": 1,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 15
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 4,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4276,79 +3442,79 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 16.818181818181817,
-          "Command": 6.896551724137931,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Brendan Conner gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Brooks House looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 4.35",
-          "WHIP 1.45",
-          "K/9 5.8"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.35"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.45"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "5.8"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "4.3"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "0.75"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "60.0"
+            "value": "0.0"
           }
         ],
-        "metaLine": "SO / N/A",
+        "metaLine": "R-JR / N/A",
         "detailBadges": [
           "RHP",
-          "SO",
+          "R-JR",
           "N/A",
           "Pitcher"
         ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats"
+        "sourceSummary": "UAB Athletics roster"
       }
     },
     {
-      "id": "uab-11496",
+      "id": "uab-12301",
       "schoolSlug": "uab",
       "school": "UAB",
       "schoolLongName": "UAB",
-      "name": "Jay Fuller",
-      "normalizedName": "jay fuller",
+      "name": "Landon Beaver",
+      "normalizedName": "landon beaver",
       "compositeRole": "Rostered",
       "role": "Hitter",
-      "position": "OF",
+      "position": "UTIL",
       "positionLong": "",
-      "classYear": "FR",
+      "classYear": "JR",
       "handedness": "N/A",
-      "jersey": "42",
-      "hometown": "Adger, Ala.",
-      "highSchool": "Oak Grove",
+      "jersey": "44",
+      "hometown": "Phenix City, Ala.",
+      "highSchool": "Central Phenix City",
       "previousSchool": "",
-      "hometownHighSchool": "Adger, Ala. / Oak Grove",
-      "profileUrl": "https://uabsports.com/sports/baseball/roster/jay-fuller/11496",
-      "imageUrl": "https://uabsports.com/images/2026/1/16/Jay_Fuller.jpg",
+      "hometownHighSchool": "Phenix City, Ala. / Central Phenix City",
+      "profileUrl": "https://uabsports.com/sports/baseball/roster/landon-beaver/12301",
+      "imageUrl": "https://uabsports.com/images/2026/1/16/Landon_Beaver_lwHL3.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "11496",
+      "rosterBioId": "12301",
       "sources": [
         "UAB Athletics roster"
       ],
@@ -4368,7 +3534,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "summary": "Jay Fuller gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Landon Beaver gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG --",
           "OBP --",
@@ -4400,10 +3566,10 @@ window.__BASEBALL_DATASETS__.uab2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "FR / N/A",
+        "metaLine": "JR / N/A",
         "detailBadges": [
-          "OF",
-          "FR",
+          "UTIL",
+          "JR",
           "N/A",
           "Rostered"
         ],
@@ -4411,294 +3577,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
       }
     },
     {
-      "id": "uab-11504",
-      "schoolSlug": "uab",
-      "school": "UAB",
-      "schoolLongName": "UAB",
-      "name": "Brooks House",
-      "normalizedName": "brooks house",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "R-SO",
-      "handedness": "N/A",
-      "jersey": "43",
-      "hometown": "Winder, Ga.",
-      "highSchool": "Winder Barrow",
-      "previousSchool": "",
-      "hometownHighSchool": "Winder, Ga. / Winder Barrow",
-      "profileUrl": "https://uabsports.com/sports/baseball/roster/brooks-house/11504",
-      "imageUrl": "https://uabsports.com/images/2026/1/16/Brooks_axyqT.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "11504",
-      "sources": [
-        "UAB Athletics roster",
-        "UAB cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "11504",
-        "name": "Brooks House",
-        "normalizedName": "brooks house",
-        "jersey": "43",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/brooks-house/11504",
-        "imageUrl": "https://uabsports.com/images/2026/1/16/Brooks_axyqT.jpg",
-        "gamesPlayed": 12,
-        "gamesStarted": 0,
-        "appearances": 12,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 13.5,
-        "whip": 2.53,
-        "wins": 0,
-        "losses": 1,
-        "saves": 1,
-        "shutouts": 0,
-        "inningsPitched": 12.666666666666666,
-        "inningsPitchedDisplay": "12.2",
-        "hitsAllowed": 15,
-        "runsAllowed": 22,
-        "earnedRunsAllowed": 19,
-        "walksAllowed": 17,
-        "strikeouts": 7,
-        "doublesAllowed": 2,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 52,
-        "wildPitches": 2,
-        "hitBatters": 3,
-        "balks": 0,
-        "opponentsBattingAverage": 0.288,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "11504",
-        "name": "Brooks House",
-        "normalizedName": "brooks house",
-        "jersey": "43",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/brooks-house/11504",
-        "imageUrl": "https://uabsports.com/images/2026/1/16/Brooks_axyqT.jpg",
-        "gamesPlayed": 5,
-        "gamesStarted": 0,
-        "putouts": 0,
-        "assists": 2,
-        "errors": 1,
-        "fieldingPercentage": 0.667,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 3,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 3
-      },
-      "evaluation": {
-        "score": 2,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 8.851674641148326,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Brooks House gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 13.50",
-          "WHIP 2.53",
-          "K/9 5.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "13.50"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.53"
-          },
-          {
-            "label": "K/9",
-            "value": "5.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "12.1"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.42"
-          },
-          {
-            "label": "IP",
-            "value": "12.7"
-          }
-        ],
-        "metaLine": "R-SO / N/A",
-        "detailBadges": [
-          "RHP",
-          "R-SO",
-          "N/A",
-          "Pitcher"
-        ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats"
-      }
-    },
-    {
-      "id": "uab-11490",
-      "schoolSlug": "uab",
-      "school": "UAB",
-      "schoolLongName": "UAB",
-      "name": "Landon Beaver",
-      "normalizedName": "landon beaver",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "OF/1B",
-      "positionLong": "",
-      "classYear": "SO",
-      "handedness": "N/A",
-      "jersey": "44",
-      "hometown": "Phenix City, Ala.",
-      "highSchool": "Central Phenix City",
-      "previousSchool": "",
-      "hometownHighSchool": "Phenix City, Ala. / Central Phenix City",
-      "profileUrl": "https://uabsports.com/sports/baseball/roster/landon-beaver/11490",
-      "imageUrl": "https://uabsports.com/images/2026/1/16/Landon_Beaver_lwHL3.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "11490",
-      "sources": [
-        "UAB Athletics roster",
-        "UAB cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "11490",
-        "name": "Landon Beaver",
-        "normalizedName": "landon beaver",
-        "jersey": "44",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/landon-beaver/11490",
-        "imageUrl": "https://uabsports.com/images/2026/1/16/Landon_Beaver_lwHL3.jpg",
-        "gamesPlayed": 58,
-        "gamesStarted": 58,
-        "battingAverage": 0.31,
-        "onBasePercentage": 0.445,
-        "sluggingPercentage": 0.484,
-        "ops": 0.929,
-        "atBats": 213,
-        "runs": 52,
-        "hits": 66,
-        "doubles": 16,
-        "triples": 0,
-        "homeRuns": 7,
-        "runsBattedIn": 35,
-        "totalBases": 103,
-        "walks": 45,
-        "hitByPitch": 10,
-        "strikeouts": 42,
-        "intentionalWalks": 1,
-        "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 4,
-        "sacrificeHits": 1,
-        "stolenBases": 13,
-        "stolenBasesAttempts": 17,
-        "putouts": 56,
-        "assists": 0,
-        "errors": 1,
-        "plateAppearances": 294,
-        "caughtStealing": 4,
-        "pickedOff": 3
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "11490",
-        "name": "Landon Beaver",
-        "normalizedName": "landon beaver",
-        "jersey": "44",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/landon-beaver/11490",
-        "imageUrl": "https://uabsports.com/images/2026/1/16/Landon_Beaver_lwHL3.jpg",
-        "gamesPlayed": 25,
-        "gamesStarted": 25,
-        "putouts": 56,
-        "assists": 1,
-        "errors": 1,
-        "fieldingPercentage": 0.983,
-        "doublePlays": 1,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 58
-      },
-      "evaluation": {
-        "score": 69,
-        "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
-        },
-        "components": {
-          "On-base": 91.66666666666666,
-          "Power": 43.15789473684211,
-          "Contact": 56.25,
-          "Discipline": 96.82539682539681,
-          "Speed": 43.333333333333336
-        },
-        "summary": "Landon Beaver profiles as a OF/1B piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .310",
-          "OBP .445",
-          "SLG .484"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".310"
-          },
-          {
-            "label": "OBP",
-            "value": ".445"
-          },
-          {
-            "label": "SLG",
-            "value": ".484"
-          },
-          {
-            "label": "HR",
-            "value": "7"
-          },
-          {
-            "label": "RBI",
-            "value": "35"
-          },
-          {
-            "label": "SB",
-            "value": "13"
-          }
-        ],
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "OF/1B",
-          "SO",
-          "N/A",
-          "Hitter"
-        ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats"
-      }
-    },
-    {
-      "id": "uab-11509",
+      "id": "uab-12314",
       "schoolSlug": "uab",
       "school": "UAB",
       "schoolLongName": "UAB",
@@ -4708,14 +3587,14 @@ window.__BASEBALL_DATASETS__.uab2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
-      "classYear": "JR",
+      "classYear": "R-JR",
       "handedness": "N/A",
       "jersey": "45",
       "hometown": "Winter Haven, Fla.",
       "highSchool": "George Jenkins",
       "previousSchool": "St. Johns River State College",
       "hometownHighSchool": "Winter Haven, Fla. / George Jenkins",
-      "profileUrl": "https://uabsports.com/sports/baseball/roster/caden-kok/11509",
+      "profileUrl": "https://uabsports.com/sports/baseball/roster/caden-kok/12314",
       "imageUrl": "https://uabsports.com/images/2026/1/16/Caden_Kok_F2IAZ.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -4723,7 +3602,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "11509",
+      "rosterBioId": "12314",
       "sources": [
         "UAB Athletics roster"
       ],
@@ -4775,10 +3654,10 @@ window.__BASEBALL_DATASETS__.uab2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "JR / N/A",
+        "metaLine": "R-JR / N/A",
         "detailBadges": [
           "RHP",
-          "JR",
+          "R-JR",
           "N/A",
           "Pitcher"
         ],
@@ -4789,153 +3668,219 @@ window.__BASEBALL_DATASETS__.uab2026 = {
   "playerBoard": {
     "source": "UAB Athletics roster + cumulative stats / ESPN roster",
     "note": "This UAB-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but UAB's public ESPN roster feed did not line up cleanly with the current school-site roster.",
-    "totalPlayers": 35,
+    "totalPlayers": 40,
     "roleCounts": {
-      "Hitter": 14,
-      "Pitcher": 21
+      "Hitter": 16,
+      "Pitcher": 24
     },
     "players": [
       {
-        "id": "uab-11498",
-        "name": "Kevin Hall Jr.",
+        "id": "uab-12336",
+        "name": "John Lindsey III",
         "school": "UAB",
         "role": "Hitter",
-        "position": "OF",
-        "classYear": "JR",
+        "position": "INF",
+        "classYear": "FR",
         "handedness": "N/A",
-        "score": 55,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Kevin Hall Jr. profiles as a OF piece who controls at-bats and adds running-game pressure.",
+        "summary": "John Lindsey III gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .277",
-          "OBP .388",
-          "SLG .441"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".277"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".388"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".441"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "9"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "43"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "21"
+            "value": "0"
           }
         ],
         "components": {
-          "On-base": 60,
-          "Power": 31.8421052631579,
-          "Contact": 35.625000000000014,
-          "Discipline": 97.77777777777777,
-          "Speed": 70
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "metaLine": "JR / N/A",
+        "metaLine": "FR / N/A",
         "detailBadges": [
-          "OF",
-          "JR",
+          "INF",
+          "FR",
           "N/A",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "UAB Athletics roster",
-          "UAB cumulative stats"
+          "UAB Athletics roster"
         ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats",
+        "sourceSummary": "UAB Athletics roster",
         "schoolSlug": "uab",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/kevin-hall-jr/11498",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://uabsports.com/sports/baseball/roster/john-lindsey-iii/12336",
         "espnAthleteId": ""
       },
       {
-        "id": "uab-11522",
-        "name": "Mason Steele",
+        "id": "uab-12306",
+        "name": "Kevin Hall Jr.",
         "school": "UAB",
-        "role": "Pitcher",
-        "position": "OF/RHP",
-        "classYear": "JR",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "SR",
         "handedness": "N/A",
-        "score": 13,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Mason Steele looks like a OF/RHP option who keeps traffic under control.",
+        "summary": "Kevin Hall Jr. gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.66",
-          "WHIP 1.15",
-          "K/9 8.1"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
-            "label": "ERA",
-            "value": "4.66"
+            "label": "AVG",
+            "value": "--"
           },
           {
-            "label": "WHIP",
-            "value": "1.15"
+            "label": "OBP",
+            "value": "--"
           },
           {
-            "label": "K/9",
-            "value": "8.1"
+            "label": "SLG",
+            "value": "--"
           },
           {
-            "label": "BB/9",
-            "value": "3.1"
+            "label": "HR",
+            "value": "0"
           },
           {
-            "label": "HR/9",
-            "value": "1.31"
+            "label": "RBI",
+            "value": "0"
           },
           {
-            "label": "IP",
-            "value": "75.3"
+            "label": "SB",
+            "value": "0"
           }
         ],
         "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 37.48994368463395,
-          "Command": 32.3076923076923,
-          "Damage suppression": 0
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "metaLine": "JR / N/A",
+        "metaLine": "SR / N/A",
         "detailBadges": [
-          "OF/RHP",
-          "JR",
+          "OF",
+          "SR",
           "N/A",
-          "Two-Way"
+          "Rostered"
         ],
         "leaderboards": [
-          "UAB Athletics roster",
-          "UAB cumulative stats"
+          "UAB Athletics roster"
         ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats",
+        "sourceSummary": "UAB Athletics roster",
         "schoolSlug": "uab",
-        "compositeRole": "Two-Way",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/mason-steele/11522",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://uabsports.com/sports/baseball/roster/kevin-hall-jr/12306",
         "espnAthleteId": ""
       },
       {
-        "id": "uab-11523",
-        "name": "Drew Thompson",
+        "id": "uab-12335",
+        "name": "Rhys Jones",
+        "school": "UAB",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "FR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Rhys Jones gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "INF",
+          "FR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "UAB Athletics roster"
+        ],
+        "sourceSummary": "UAB Athletics roster",
+        "schoolSlug": "uab",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://uabsports.com/sports/baseball/roster/rhys-jones/12335",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "uab-12326",
+        "name": "Gunner Dodd",
         "school": "UAB",
         "role": "Pitcher",
         "position": "RHP",
@@ -4946,20 +3891,20 @@ window.__BASEBALL_DATASETS__.uab2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Drew Thompson looks like a RHP option who limits runs and throws enough strikes and keeps traffic under control.",
+        "summary": "Gunner Dodd looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 0.00",
-          "WHIP 0.00",
+          "ERA --",
+          "WHIP --",
           "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "0.00"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "0.00"
+            "value": "--"
           },
           {
             "label": "K/9",
@@ -4993,46 +3938,45 @@ window.__BASEBALL_DATASETS__.uab2026 = {
           "Pitcher"
         ],
         "leaderboards": [
-          "UAB Athletics roster",
-          "UAB cumulative stats"
+          "UAB Athletics roster"
         ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats",
+        "sourceSummary": "UAB Athletics roster",
         "schoolSlug": "uab",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/drew-thompson/11523",
+        "profileUrl": "https://uabsports.com/sports/baseball/roster/gunner-dodd/12326",
         "espnAthleteId": ""
       },
       {
-        "id": "uab-11512",
-        "name": "Jake Merrick",
+        "id": "uab-12338",
+        "name": "Kent Collier",
         "school": "UAB",
         "role": "Hitter",
-        "position": "INF",
-        "classYear": "SO",
+        "position": "OF",
+        "classYear": "R-JR",
         "handedness": "N/A",
         "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Jake Merrick gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Kent Collier gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .000",
-          "OBP .000",
-          "SLG .000"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -5054,99 +3998,97 @@ window.__BASEBALL_DATASETS__.uab2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "SO / N/A",
+        "metaLine": "R-JR / N/A",
         "detailBadges": [
-          "INF",
-          "SO",
+          "OF",
+          "R-JR",
           "N/A",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "UAB Athletics roster",
-          "UAB cumulative stats"
+          "UAB Athletics roster"
         ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats",
+        "sourceSummary": "UAB Athletics roster",
         "schoolSlug": "uab",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/jake-merrick/11512",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://uabsports.com/sports/baseball/roster/kent-collier/12338",
         "espnAthleteId": ""
       },
       {
-        "id": "uab-11524",
+        "id": "uab-12322",
         "name": "Isaac Warrick",
         "school": "UAB",
         "role": "Pitcher",
         "position": "LHP",
-        "classYear": "R-JR",
+        "classYear": "GR",
         "handedness": "N/A",
-        "score": 11,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Isaac Warrick gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Isaac Warrick looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 4.29",
-          "WHIP 1.48",
-          "K/9 8.6"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.29"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.48"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "8.6"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "4.7"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.71"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "21.0"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 41.55844155844156,
-          "Command": 16.363636363636363,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "R-JR / N/A",
+        "metaLine": "GR / N/A",
         "detailBadges": [
           "LHP",
-          "R-JR",
+          "GR",
           "N/A",
           "Pitcher"
         ],
         "leaderboards": [
-          "UAB Athletics roster",
-          "UAB cumulative stats"
+          "UAB Athletics roster"
         ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats",
+        "sourceSummary": "UAB Athletics roster",
         "schoolSlug": "uab",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/isaac-warrick/11524",
+        "profileUrl": "https://uabsports.com/sports/baseball/roster/isaac-warrick/12322",
         "espnAthleteId": ""
       },
       {
-        "id": "uab-11514",
+        "id": "uab-12316",
         "name": "Ryan Olson",
         "school": "UAB",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "SR",
+        "classYear": "GR",
         "handedness": "N/A",
         "score": 0,
         "fit": {
@@ -5192,10 +4134,10 @@ window.__BASEBALL_DATASETS__.uab2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SR / N/A",
+        "metaLine": "GR / N/A",
         "detailBadges": [
           "RHP",
-          "SR",
+          "GR",
           "N/A",
           "Pitcher"
         ],
@@ -5205,109 +4147,108 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "sourceSummary": "UAB Athletics roster",
         "schoolSlug": "uab",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/ryan-olson/11514",
+        "profileUrl": "https://uabsports.com/sports/baseball/roster/ryan-olson/12316",
         "espnAthleteId": ""
       },
       {
-        "id": "uab-11511",
-        "name": "Patrick McGlon",
+        "id": "uab-12329",
+        "name": "Ashton Blair",
         "school": "UAB",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "R-JR",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "FR",
         "handedness": "N/A",
-        "score": 11,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Patrick McGlon gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Ashton Blair looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "AVG .250",
-          "OBP .286",
-          "SLG .417"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
-            "label": "AVG",
-            "value": ".250"
+            "label": "ERA",
+            "value": "--"
           },
           {
-            "label": "OBP",
-            "value": ".286"
+            "label": "WHIP",
+            "value": "--"
           },
           {
-            "label": "SLG",
-            "value": ".417"
+            "label": "K/9",
+            "value": "0.0"
           },
           {
-            "label": "HR",
-            "value": "0"
+            "label": "BB/9",
+            "value": "0.0"
           },
           {
-            "label": "RBI",
-            "value": "3"
+            "label": "HR/9",
+            "value": "0.00"
           },
           {
-            "label": "SB",
-            "value": "0"
+            "label": "IP",
+            "value": "0.0"
           }
         ],
         "components": {
-          "On-base": 3.3333333333333055,
-          "Power": 25.52631578947368,
-          "Contact": 18.75,
-          "Discipline": 0,
-          "Speed": 0
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
         },
-        "metaLine": "R-JR / N/A",
+        "metaLine": "FR / N/A",
         "detailBadges": [
-          "INF",
-          "R-JR",
+          "RHP",
+          "FR",
           "N/A",
-          "Hitter"
+          "Pitcher"
         ],
         "leaderboards": [
-          "UAB Athletics roster",
-          "UAB cumulative stats"
+          "UAB Athletics roster"
         ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats",
+        "sourceSummary": "UAB Athletics roster",
         "schoolSlug": "uab",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/patrick-mcglon/11511",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://uabsports.com/sports/baseball/roster/ashton-blair/12329",
         "espnAthleteId": ""
       },
       {
-        "id": "uab-11491",
+        "id": "uab-12302",
         "name": "Alex Cheeseman",
         "school": "UAB",
         "role": "Hitter",
         "position": "INF",
-        "classYear": "JR",
+        "classYear": "SR",
         "handedness": "N/A",
-        "score": 28,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Alex Cheeseman profiles as a INF piece who gets on base at a high clip.",
+        "summary": "Alex Cheeseman gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .190",
-          "OBP .414",
-          "SLG .238"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".190"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".414"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".238"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -5315,44 +4256,43 @@ window.__BASEBALL_DATASETS__.uab2026 = {
           },
           {
             "label": "RBI",
-            "value": "3"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "5"
+            "value": "0"
           }
         ],
         "components": {
-          "On-base": 74.44444444444443,
+          "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 19.44444444444444,
-          "Speed": 16.666666666666664
+          "Discipline": 0,
+          "Speed": 0
         },
-        "metaLine": "JR / N/A",
+        "metaLine": "SR / N/A",
         "detailBadges": [
           "INF",
-          "JR",
+          "SR",
           "N/A",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "UAB Athletics roster",
-          "UAB cumulative stats"
+          "UAB Athletics roster"
         ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats",
+        "sourceSummary": "UAB Athletics roster",
         "schoolSlug": "uab",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/alex-cheeseman/11491",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://uabsports.com/sports/baseball/roster/alex-cheeseman/12302",
         "espnAthleteId": ""
       },
       {
-        "id": "uab-11495",
+        "id": "uab-12305",
         "name": "Jacob Francis",
         "school": "UAB",
         "role": "Pitcher",
         "position": "LHP",
-        "classYear": "FR",
+        "classYear": "R-FR",
         "handedness": "N/A",
         "score": 0,
         "fit": {
@@ -5398,10 +4338,10 @@ window.__BASEBALL_DATASETS__.uab2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "FR / N/A",
+        "metaLine": "R-FR / N/A",
         "detailBadges": [
           "LHP",
-          "FR",
+          "R-FR",
           "N/A",
           "Pitcher"
         ],
@@ -5411,222 +4351,219 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "sourceSummary": "UAB Athletics roster",
         "schoolSlug": "uab",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/jacob-francis/11495",
+        "profileUrl": "https://uabsports.com/sports/baseball/roster/jacob-francis/12305",
         "espnAthleteId": ""
       },
       {
-        "id": "uab-11501",
-        "name": "Wesley Helms",
+        "id": "uab-12331",
+        "name": "Steven Cavaco",
         "school": "UAB",
         "role": "Hitter",
-        "position": "INF",
-        "classYear": "R-SR",
+        "position": "UTIL",
+        "classYear": "SO",
         "handedness": "N/A",
-        "score": 59,
+        "score": 0,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
-        "summary": "Wesley Helms profiles as a INF piece who gets on base at a high clip and controls at-bats.",
+        "summary": "Steven Cavaco gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .327",
-          "OBP .407",
-          "SLG .447"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".327"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".407"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".447"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "6"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "41"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "5"
+            "value": "0"
           }
         ],
         "components": {
-          "On-base": 70.55555555555553,
-          "Power": 33.42105263157895,
-          "Contact": 66.875,
-          "Discipline": 100,
-          "Speed": 16.666666666666664
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "metaLine": "R-SR / N/A",
+        "metaLine": "SO / N/A",
         "detailBadges": [
-          "INF",
-          "R-SR",
+          "UTIL",
+          "SO",
           "N/A",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "UAB Athletics roster",
-          "UAB cumulative stats"
+          "UAB Athletics roster"
         ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats",
+        "sourceSummary": "UAB Athletics roster",
         "schoolSlug": "uab",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/wesley-helms/11501",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://uabsports.com/sports/baseball/roster/steven-cavaco/12331",
         "espnAthleteId": ""
       },
       {
-        "id": "uab-11508",
+        "id": "uab-12327",
+        "name": "Blaze Gerhart",
+        "school": "UAB",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Blaze Gerhart looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "UAB Athletics roster"
+        ],
+        "sourceSummary": "UAB Athletics roster",
+        "schoolSlug": "uab",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://uabsports.com/sports/baseball/roster/blaze-gerhart/12327",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "uab-12313",
         "name": "Konner Keplinger",
         "school": "UAB",
         "role": "Pitcher",
         "position": "LHP",
-        "classYear": "R-SO",
+        "classYear": "R-JR",
         "handedness": "N/A",
-        "score": 4,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Konner Keplinger gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Konner Keplinger looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 8.65",
-          "WHIP 2.01",
-          "K/9 5.8"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "8.65"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "2.01"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "5.8"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "5.0"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "2.88"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "34.3"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 16.063548102383045,
-          "Command": 3.1578947368421018,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "R-SO / N/A",
+        "metaLine": "R-JR / N/A",
         "detailBadges": [
           "LHP",
-          "R-SO",
+          "R-JR",
           "N/A",
           "Pitcher"
         ],
         "leaderboards": [
-          "UAB Athletics roster",
-          "UAB cumulative stats"
+          "UAB Athletics roster"
         ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats",
+        "sourceSummary": "UAB Athletics roster",
         "schoolSlug": "uab",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/konner-keplinger/11508",
+        "profileUrl": "https://uabsports.com/sports/baseball/roster/konner-keplinger/12313",
         "espnAthleteId": ""
       },
       {
-        "id": "uab-11499",
+        "id": "uab-12307",
         "name": "John Paul Head",
         "school": "UAB",
         "role": "Hitter",
         "position": "OF",
-        "classYear": "SO",
-        "handedness": "N/A",
-        "score": 85,
-        "fit": {
-          "label": "Priority",
-          "className": "fit-priority"
-        },
-        "summary": "John Paul Head profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .329",
-          "OBP .457",
-          "SLG .710"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".329"
-          },
-          {
-            "label": "OBP",
-            "value": ".457"
-          },
-          {
-            "label": "SLG",
-            "value": ".710"
-          },
-          {
-            "label": "HR",
-            "value": "22"
-          },
-          {
-            "label": "RBI",
-            "value": "56"
-          },
-          {
-            "label": "SB",
-            "value": "11"
-          }
-        ],
-        "components": {
-          "On-base": 98.33333333333333,
-          "Power": 100,
-          "Contact": 68.125,
-          "Discipline": 81.64251207729467,
-          "Speed": 36.666666666666664
-        },
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "OF",
-          "SO",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "UAB Athletics roster",
-          "UAB cumulative stats"
-        ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats",
-        "schoolSlug": "uab",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/john-paul-head/11499",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "uab-11493",
-        "name": "Drake Douglas",
-        "school": "UAB",
-        "role": "Pitcher",
-        "position": "OF/RHP",
         "classYear": "JR",
         "handedness": "N/A",
         "score": 0,
@@ -5634,7 +4571,143 @@ window.__BASEBALL_DATASETS__.uab2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Drake Douglas looks like a OF/RHP option who throws enough strikes.",
+        "summary": "John Paul Head gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "OF",
+          "JR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "UAB Athletics roster"
+        ],
+        "sourceSummary": "UAB Athletics roster",
+        "schoolSlug": "uab",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://uabsports.com/sports/baseball/roster/john-paul-head/12307",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "uab-12348",
+        "name": "Jace Norton",
+        "school": "UAB",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "R-JR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jace Norton gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "R-JR / N/A",
+        "detailBadges": [
+          "INF",
+          "R-JR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "UAB Athletics roster"
+        ],
+        "sourceSummary": "UAB Athletics roster",
+        "schoolSlug": "uab",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://uabsports.com/sports/baseball/roster/jace-norton/12348",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "uab-12328",
+        "name": "Bryson Morman",
+        "school": "UAB",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Bryson Morman looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -5675,7 +4748,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         },
         "metaLine": "JR / N/A",
         "detailBadges": [
-          "OF/RHP",
+          "RHP",
           "JR",
           "N/A",
           "Pitcher"
@@ -5686,288 +4759,216 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "sourceSummary": "UAB Athletics roster",
         "schoolSlug": "uab",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/drake-douglas/11493",
+        "profileUrl": "https://uabsports.com/sports/baseball/roster/bryson-morman/12328",
         "espnAthleteId": ""
       },
       {
-        "id": "uab-11494",
+        "id": "uab-12333",
+        "name": "Isaiah Ludlow",
+        "school": "UAB",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "FR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Isaiah Ludlow looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "LHP",
+          "FR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "UAB Athletics roster"
+        ],
+        "sourceSummary": "UAB Athletics roster",
+        "schoolSlug": "uab",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://uabsports.com/sports/baseball/roster/isaiah-ludlow/12333",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "uab-12304",
         "name": "Alex Dupuy",
         "school": "UAB",
         "role": "Hitter",
         "position": "INF",
-        "classYear": "JR",
+        "classYear": "SR",
         "handedness": "N/A",
-        "score": 41,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Alex Dupuy profiles as a INF piece who adds running-game pressure.",
+        "summary": "Alex Dupuy gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .272",
-          "OBP .383",
-          "SLG .465"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".272"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".383"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".465"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "10"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "41"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "10"
+            "value": "0"
           }
         ],
         "components": {
-          "On-base": 57.22222222222222,
-          "Power": 38.15789473684211,
-          "Contact": 32.500000000000014,
-          "Discipline": 22.6120857699805,
-          "Speed": 33.33333333333333
-        },
-        "metaLine": "JR / N/A",
-        "detailBadges": [
-          "INF",
-          "JR",
-          "N/A",
-          "Two-Way"
-        ],
-        "leaderboards": [
-          "UAB Athletics roster",
-          "UAB cumulative stats"
-        ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats",
-        "schoolSlug": "uab",
-        "compositeRole": "Two-Way",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/alex-dupuy/11494",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "uab-11521",
-        "name": "Braxton Shelton",
-        "school": "UAB",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "N/A",
-        "score": 3,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Braxton Shelton gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 11.81",
-          "WHIP 2.56",
-          "K/9 5.3"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "11.81"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.56"
-          },
-          {
-            "label": "K/9",
-            "value": "5.3"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.5"
-          },
-          {
-            "label": "HR/9",
-            "value": "3.38"
-          },
-          {
-            "label": "IP",
-            "value": "32.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 12.215909090909092,
-          "Command": 3.75,
-          "Damage suppression": 0
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
         "metaLine": "SR / N/A",
         "detailBadges": [
-          "RHP",
+          "INF",
           "SR",
           "N/A",
-          "Pitcher"
+          "Rostered"
         ],
         "leaderboards": [
-          "UAB Athletics roster",
-          "UAB cumulative stats"
+          "UAB Athletics roster"
         ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats",
+        "sourceSummary": "UAB Athletics roster",
         "schoolSlug": "uab",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/braxton-shelton/11521",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://uabsports.com/sports/baseball/roster/alex-dupuy/12304",
         "espnAthleteId": ""
       },
       {
-        "id": "uab-11506",
-        "name": "Hunter Hyatt",
+        "id": "uab-12332",
+        "name": "Eli Hubbert",
         "school": "UAB",
         "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "R-SO",
+        "position": "RHP",
+        "classYear": "FR",
         "handedness": "N/A",
-        "score": 1,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Hunter Hyatt gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Eli Hubbert looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 11.12",
-          "WHIP 2.65",
-          "K/9 4.8"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "11.12"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "2.65"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "4.8"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "14.3"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "3.18"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "5.7"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 6.951871657754011,
+          "Miss bats": 0,
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "R-SO / N/A",
+        "metaLine": "FR / N/A",
         "detailBadges": [
-          "LHP",
-          "R-SO",
+          "RHP",
+          "FR",
           "N/A",
           "Pitcher"
         ],
         "leaderboards": [
-          "UAB Athletics roster",
-          "UAB cumulative stats"
+          "UAB Athletics roster"
         ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats",
+        "sourceSummary": "UAB Athletics roster",
         "schoolSlug": "uab",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/hunter-hyatt/11506",
+        "profileUrl": "https://uabsports.com/sports/baseball/roster/eli-hubbert/12332",
         "espnAthleteId": ""
       },
       {
-        "id": "uab-11518",
-        "name": "Baylor Roberts",
-        "school": "UAB",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "FR",
-        "handedness": "N/A",
-        "score": 10,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Baylor Roberts profiles as a INF piece who adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .226",
-          "OBP .294",
-          "SLG .347"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".226"
-          },
-          {
-            "label": "OBP",
-            "value": ".294"
-          },
-          {
-            "label": "SLG",
-            "value": ".347"
-          },
-          {
-            "label": "HR",
-            "value": "4"
-          },
-          {
-            "label": "RBI",
-            "value": "31"
-          },
-          {
-            "label": "SB",
-            "value": "11"
-          }
-        ],
-        "components": {
-          "On-base": 7.777777777777755,
-          "Power": 7.10526315789473,
-          "Contact": 3.7500000000000036,
-          "Discipline": 7.127882599580711,
-          "Speed": 36.666666666666664
-        },
-        "metaLine": "FR / N/A",
-        "detailBadges": [
-          "INF",
-          "FR",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "UAB Athletics roster",
-          "UAB cumulative stats"
-        ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats",
-        "schoolSlug": "uab",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/baylor-roberts/11518",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "uab-11510",
-        "name": "Bradley Loftin",
+        "id": "uab-12324",
+        "name": "Noah Cribb",
         "school": "UAB",
         "role": "Pitcher",
         "position": "LHP",
@@ -5978,7 +4979,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Bradley Loftin looks like a LHP option who throws enough strikes.",
+        "summary": "Noah Cribb looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -6030,197 +5031,399 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "sourceSummary": "UAB Athletics roster",
         "schoolSlug": "uab",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/bradley-loftin/11510",
+        "profileUrl": "https://uabsports.com/sports/baseball/roster/noah-cribb/12324",
         "espnAthleteId": ""
       },
       {
-        "id": "uab-11505",
-        "name": "Andrew Hunt",
+        "id": "uab-12320",
+        "name": "Baylor Roberts",
         "school": "UAB",
         "role": "Hitter",
-        "position": "OF",
-        "classYear": "R-JR",
+        "position": "INF",
+        "classYear": "SO",
         "handedness": "N/A",
-        "score": 72,
+        "score": 0,
         "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
+          "label": "Depth",
+          "className": "fit-depth"
         },
-        "summary": "Andrew Hunt profiles as a OF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
+        "summary": "Baylor Roberts gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .320",
-          "OBP .453",
-          "SLG .500"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".320"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".453"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".500"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "7"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "46"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "11"
+            "value": "0"
           }
         ],
         "components": {
-          "On-base": 96.1111111111111,
-          "Power": 47.36842105263158,
-          "Contact": 62.5,
-          "Discipline": 100,
-          "Speed": 36.666666666666664
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "metaLine": "R-JR / N/A",
+        "metaLine": "SO / N/A",
         "detailBadges": [
-          "OF",
-          "R-JR",
+          "INF",
+          "SO",
           "N/A",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "UAB Athletics roster",
-          "UAB cumulative stats"
+          "UAB Athletics roster"
         ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats",
+        "sourceSummary": "UAB Athletics roster",
         "schoolSlug": "uab",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/andrew-hunt/11505",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://uabsports.com/sports/baseball/roster/baylor-roberts/12320",
         "espnAthleteId": ""
       },
       {
-        "id": "uab-11515",
+        "id": "uab-12325",
+        "name": "Alex Davis",
+        "school": "UAB",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "JR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Alex Davis looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "LHP",
+          "JR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "UAB Athletics roster"
+        ],
+        "sourceSummary": "UAB Athletics roster",
+        "schoolSlug": "uab",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://uabsports.com/sports/baseball/roster/alex-davis/12325",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "uab-12312",
+        "name": "Andrew Hunt",
+        "school": "UAB",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "GR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Andrew Hunt gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "GR / N/A",
+        "detailBadges": [
+          "OF",
+          "GR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "UAB Athletics roster"
+        ],
+        "sourceSummary": "UAB Athletics roster",
+        "schoolSlug": "uab",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://uabsports.com/sports/baseball/roster/andrew-hunt/12312",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "uab-12317",
         "name": "Austin Pierzynski",
         "school": "UAB",
         "role": "Hitter",
         "position": "C",
-        "classYear": "FR",
+        "classYear": "SO",
         "handedness": "N/A",
-        "score": 29,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Austin Pierzynski gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .240",
-          "OBP .340",
-          "SLG .448"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".240"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".340"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".448"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "7"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "18"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "3"
+            "value": "0"
           }
         ],
         "components": {
-          "On-base": 33.33333333333333,
-          "Power": 33.684210526315795,
-          "Contact": 12.499999999999993,
-          "Discipline": 45.41062801932367,
-          "Speed": 10
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "metaLine": "FR / N/A",
+        "metaLine": "SO / N/A",
         "detailBadges": [
           "C",
-          "FR",
+          "SO",
           "N/A",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "UAB Athletics roster",
-          "UAB cumulative stats"
+          "UAB Athletics roster"
         ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats",
+        "sourceSummary": "UAB Athletics roster",
         "schoolSlug": "uab",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/austin-pierzynski/11515",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://uabsports.com/sports/baseball/roster/austin-pierzynski/12317",
         "espnAthleteId": ""
       },
       {
-        "id": "uab-11502",
+        "id": "uab-12309",
         "name": "Justin Hicks",
         "school": "UAB",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "SO",
+        "classYear": "JR",
         "handedness": "N/A",
-        "score": 10,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Justin Hicks looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 8.51",
-          "WHIP 1.78",
-          "K/9 7.1"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "8.51"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.78"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "7.1"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "2.9"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.46"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "37.0"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 27.764127764127768,
-          "Command": 28.33333333333334,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "UAB Athletics roster"
+        ],
+        "sourceSummary": "UAB Athletics roster",
+        "schoolSlug": "uab",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://uabsports.com/sports/baseball/roster/justin-hicks/12309",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "uab-12321",
+        "name": "Carter Samuelson",
+        "school": "UAB",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SO",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Carter Samuelson looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
         "metaLine": "SO / N/A",
@@ -6231,341 +5434,200 @@ window.__BASEBALL_DATASETS__.uab2026 = {
           "Pitcher"
         ],
         "leaderboards": [
-          "UAB Athletics roster",
-          "UAB cumulative stats"
+          "UAB Athletics roster"
         ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats",
+        "sourceSummary": "UAB Athletics roster",
         "schoolSlug": "uab",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/justin-hicks/11502",
+        "profileUrl": "https://uabsports.com/sports/baseball/roster/carter-samuelson/12321",
         "espnAthleteId": ""
       },
       {
-        "id": "uab-11520",
-        "name": "Carter Samuelson",
-        "school": "UAB",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "FR",
-        "handedness": "N/A",
-        "score": 3,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Carter Samuelson gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 7.05",
-          "WHIP 1.88",
-          "K/9 5.5"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "7.05"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.88"
-          },
-          {
-            "label": "K/9",
-            "value": "5.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.8"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.20"
-          },
-          {
-            "label": "IP",
-            "value": "60.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 14.09090909090909,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / N/A",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "UAB Athletics roster",
-          "UAB cumulative stats"
-        ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats",
-        "schoolSlug": "uab",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/carter-samuelson/11520",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "uab-11513",
+        "id": "uab-12315",
         "name": "Riley Miller",
         "school": "UAB",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "R-FR",
+        "classYear": "R-SO",
         "handedness": "N/A",
-        "score": 5,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Riley Miller gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Riley Miller looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 6.09",
-          "WHIP 1.67",
-          "K/9 6.1"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.09"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.67"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "6.1"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "4.5"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.42"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "44.3"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 19.00205058099795,
-          "Command": 7.272727272727275,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "R-FR / N/A",
+        "metaLine": "R-SO / N/A",
         "detailBadges": [
           "RHP",
-          "R-FR",
+          "R-SO",
           "N/A",
           "Pitcher"
         ],
         "leaderboards": [
-          "UAB Athletics roster",
-          "UAB cumulative stats"
+          "UAB Athletics roster"
         ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats",
+        "sourceSummary": "UAB Athletics roster",
         "schoolSlug": "uab",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/riley-miller/11513",
+        "profileUrl": "https://uabsports.com/sports/baseball/roster/riley-miller/12315",
         "espnAthleteId": ""
       },
       {
-        "id": "uab-11525",
-        "name": "Brady Waugh",
+        "id": "uab-12337",
+        "name": "Jake Brown",
         "school": "UAB",
         "role": "Hitter",
-        "position": "INF",
-        "classYear": "JR",
+        "position": "C",
+        "classYear": "FR",
         "handedness": "N/A",
-        "score": 66,
+        "score": 0,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
-        "summary": "Brady Waugh profiles as a INF piece who gets on base at a high clip and controls at-bats.",
+        "summary": "Jake Brown gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .322",
-          "OBP .431",
-          "SLG .490"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".322"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".431"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".490"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "7"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "49"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "7"
+            "value": "0"
           }
         ],
         "components": {
-          "On-base": 83.88888888888889,
-          "Power": 44.73684210526316,
-          "Contact": 63.75000000000001,
-          "Discipline": 100,
-          "Speed": 23.333333333333332
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "metaLine": "JR / N/A",
+        "metaLine": "FR / N/A",
         "detailBadges": [
-          "INF",
-          "JR",
+          "C",
+          "FR",
           "N/A",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "UAB Athletics roster",
-          "UAB cumulative stats"
+          "UAB Athletics roster"
         ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats",
+        "sourceSummary": "UAB Athletics roster",
         "schoolSlug": "uab",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/brady-waugh/11525",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://uabsports.com/sports/baseball/roster/jake-brown/12337",
         "espnAthleteId": ""
       },
       {
-        "id": "uab-11507",
+        "id": "uab-12372",
         "name": "Chase Ingram",
         "school": "UAB",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "SR",
+        "classYear": "GR",
         "handedness": "N/A",
-        "score": 11,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Chase Ingram looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 6.37",
-          "WHIP 1.51",
-          "K/9 6.4"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.37"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.51"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "6.4"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "2.0"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "2.17"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "70.7"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 21.52658662092624,
-          "Command": 42.49999999999999,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "UAB Athletics roster",
-          "UAB cumulative stats"
-        ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats",
-        "schoolSlug": "uab",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/chase-ingram/11507",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "uab-11497",
-        "name": "Tyler Haines",
-        "school": "UAB",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "GR",
-        "handedness": "N/A",
-        "score": 7,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Tyler Haines gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 15.12",
-          "WHIP 2.88",
-          "K/9 7.6"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "15.12"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.88"
-          },
-          {
-            "label": "K/9",
-            "value": "7.6"
-          },
-          {
-            "label": "BB/9",
-            "value": "6.5"
-          },
-          {
-            "label": "HR/9",
-            "value": "3.24"
-          },
-          {
-            "label": "IP",
-            "value": "8.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 32.36363636363636,
-          "Command": 3.333333333333335,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
         "metaLine": "GR / N/A",
@@ -6576,91 +5638,157 @@ window.__BASEBALL_DATASETS__.uab2026 = {
           "Pitcher"
         ],
         "leaderboards": [
-          "UAB Athletics roster",
-          "UAB cumulative stats"
+          "UAB Athletics roster"
         ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats",
+        "sourceSummary": "UAB Athletics roster",
         "schoolSlug": "uab",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/tyler-haines/11497",
+        "profileUrl": "https://uabsports.com/sports/baseball/roster/chase-ingram/12372",
         "espnAthleteId": ""
       },
       {
-        "id": "uab-11517",
+        "id": "uab-12334",
+        "name": "Cutter Smith",
+        "school": "UAB",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "FR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Cutter Smith gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "INF",
+          "FR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "UAB Athletics roster"
+        ],
+        "sourceSummary": "UAB Athletics roster",
+        "schoolSlug": "uab",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://uabsports.com/sports/baseball/roster/cutter-smith/12334",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "uab-12319",
         "name": "Max Price",
         "school": "UAB",
         "role": "Hitter",
         "position": "C",
-        "classYear": "R-JR",
+        "classYear": "R-SR",
         "handedness": "N/A",
-        "score": 44,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Max Price gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .263",
-          "OBP .395",
-          "SLG .526"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".263"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".395"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".526"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "6"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "24"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "1"
+            "value": "0"
           }
         ],
         "components": {
-          "On-base": 63.888888888888886,
-          "Power": 54.21052631578949,
-          "Contact": 26.875000000000004,
-          "Discipline": 27.58620689655172,
-          "Speed": 3.3333333333333335
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "metaLine": "R-JR / N/A",
+        "metaLine": "R-SR / N/A",
         "detailBadges": [
           "C",
-          "R-JR",
+          "R-SR",
           "N/A",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "UAB Athletics roster",
-          "UAB cumulative stats"
+          "UAB Athletics roster"
         ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats",
+        "sourceSummary": "UAB Athletics roster",
         "schoolSlug": "uab",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/max-price/11517",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://uabsports.com/sports/baseball/roster/max-price/12319",
         "espnAthleteId": ""
       },
       {
-        "id": "uab-11503",
+        "id": "uab-12310",
         "name": "Josh Holley",
         "school": "UAB",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "JR",
+        "classYear": "R-JR",
         "handedness": "N/A",
         "score": 0,
         "fit": {
@@ -6706,10 +5834,10 @@ window.__BASEBALL_DATASETS__.uab2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "JR / N/A",
+        "metaLine": "R-JR / N/A",
         "detailBadges": [
           "RHP",
-          "JR",
+          "R-JR",
           "N/A",
           "Pitcher"
         ],
@@ -6719,16 +5847,16 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "sourceSummary": "UAB Athletics roster",
         "schoolSlug": "uab",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/josh-holley/11503",
+        "profileUrl": "https://uabsports.com/sports/baseball/roster/josh-holley/12310",
         "espnAthleteId": ""
       },
       {
-        "id": "uab-11516",
+        "id": "uab-12318",
         "name": "Andrew Prejean",
         "school": "UAB",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "JR",
+        "classYear": "R-JR",
         "handedness": "N/A",
         "score": 0,
         "fit": {
@@ -6774,10 +5902,10 @@ window.__BASEBALL_DATASETS__.uab2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "JR / N/A",
+        "metaLine": "R-JR / N/A",
         "detailBadges": [
           "RHP",
-          "JR",
+          "R-JR",
           "N/A",
           "Pitcher"
         ],
@@ -6787,356 +5915,80 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "sourceSummary": "UAB Athletics roster",
         "schoolSlug": "uab",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/andrew-prejean/11516",
+        "profileUrl": "https://uabsports.com/sports/baseball/roster/andrew-prejean/12318",
         "espnAthleteId": ""
       },
       {
-        "id": "uab-11500",
+        "id": "uab-12308",
         "name": "Christian Helmers",
         "school": "UAB",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "FR",
-        "handedness": "N/A",
-        "score": 9,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Christian Helmers gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 10.98",
-          "WHIP 2.18",
-          "K/9 8.6"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "10.98"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.18"
-          },
-          {
-            "label": "K/9",
-            "value": "8.6"
-          },
-          {
-            "label": "BB/9",
-            "value": "6.5"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.78"
-          },
-          {
-            "label": "IP",
-            "value": "30.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 41.858141858141856,
-          "Command": 6.363636363636363,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / N/A",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "UAB Athletics roster",
-          "UAB cumulative stats"
-        ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats",
-        "schoolSlug": "uab",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/christian-helmers/11500",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "uab-11492",
-        "name": "Brendan Conner",
-        "school": "UAB",
-        "role": "Pitcher",
-        "position": "RHP",
         "classYear": "SO",
-        "handedness": "N/A",
-        "score": 4,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Brendan Conner gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 4.35",
-          "WHIP 1.45",
-          "K/9 5.8"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.35"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.45"
-          },
-          {
-            "label": "K/9",
-            "value": "5.8"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.3"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.75"
-          },
-          {
-            "label": "IP",
-            "value": "60.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 16.818181818181817,
-          "Command": 6.896551724137931,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "UAB Athletics roster",
-          "UAB cumulative stats"
-        ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats",
-        "schoolSlug": "uab",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/brendan-conner/11492",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "uab-11496",
-        "name": "Jay Fuller",
-        "school": "UAB",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "FR",
         "handedness": "N/A",
         "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Jay Fuller gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Christian Helmers looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
-            "label": "AVG",
+            "label": "ERA",
             "value": "--"
           },
           {
-            "label": "OBP",
+            "label": "WHIP",
             "value": "--"
           },
           {
-            "label": "SLG",
-            "value": "--"
+            "label": "K/9",
+            "value": "0.0"
           },
           {
-            "label": "HR",
-            "value": "0"
+            "label": "BB/9",
+            "value": "0.0"
           },
           {
-            "label": "RBI",
-            "value": "0"
+            "label": "HR/9",
+            "value": "0.00"
           },
           {
-            "label": "SB",
-            "value": "0"
+            "label": "IP",
+            "value": "0.0"
           }
         ],
         "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
         },
-        "metaLine": "FR / N/A",
+        "metaLine": "SO / N/A",
         "detailBadges": [
-          "OF",
-          "FR",
+          "RHP",
+          "SO",
           "N/A",
-          "Rostered"
+          "Pitcher"
         ],
         "leaderboards": [
           "UAB Athletics roster"
         ],
         "sourceSummary": "UAB Athletics roster",
         "schoolSlug": "uab",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/jay-fuller/11496",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "uab-11504",
-        "name": "Brooks House",
-        "school": "UAB",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "R-SO",
-        "handedness": "N/A",
-        "score": 2,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Brooks House gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 13.50",
-          "WHIP 2.53",
-          "K/9 5.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "13.50"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.53"
-          },
-          {
-            "label": "K/9",
-            "value": "5.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "12.1"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.42"
-          },
-          {
-            "label": "IP",
-            "value": "12.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 8.851674641148326,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-SO / N/A",
-        "detailBadges": [
-          "RHP",
-          "R-SO",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "UAB Athletics roster",
-          "UAB cumulative stats"
-        ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats",
-        "schoolSlug": "uab",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/brooks-house/11504",
+        "profileUrl": "https://uabsports.com/sports/baseball/roster/christian-helmers/12308",
         "espnAthleteId": ""
       },
       {
-        "id": "uab-11490",
-        "name": "Landon Beaver",
-        "school": "UAB",
-        "role": "Hitter",
-        "position": "OF/1B",
-        "classYear": "SO",
-        "handedness": "N/A",
-        "score": 69,
-        "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
-        },
-        "summary": "Landon Beaver profiles as a OF/1B piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .310",
-          "OBP .445",
-          "SLG .484"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".310"
-          },
-          {
-            "label": "OBP",
-            "value": ".445"
-          },
-          {
-            "label": "SLG",
-            "value": ".484"
-          },
-          {
-            "label": "HR",
-            "value": "7"
-          },
-          {
-            "label": "RBI",
-            "value": "35"
-          },
-          {
-            "label": "SB",
-            "value": "13"
-          }
-        ],
-        "components": {
-          "On-base": 91.66666666666666,
-          "Power": 43.15789473684211,
-          "Contact": 56.25,
-          "Discipline": 96.82539682539681,
-          "Speed": 43.333333333333336
-        },
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "OF/1B",
-          "SO",
-          "N/A",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "UAB Athletics roster",
-          "UAB cumulative stats"
-        ],
-        "sourceSummary": "UAB Athletics roster + UAB cumulative stats",
-        "schoolSlug": "uab",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/landon-beaver/11490",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "uab-11509",
-        "name": "Caden Kok",
+        "id": "uab-12303",
+        "name": "Brendan Conner",
         "school": "UAB",
         "role": "Pitcher",
         "position": "RHP",
@@ -7147,7 +5999,7 @@ window.__BASEBALL_DATASETS__.uab2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Caden Kok looks like a RHP option who throws enough strikes.",
+        "summary": "Brendan Conner looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -7199,7 +6051,347 @@ window.__BASEBALL_DATASETS__.uab2026 = {
         "sourceSummary": "UAB Athletics roster",
         "schoolSlug": "uab",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://uabsports.com/sports/baseball/roster/caden-kok/11509",
+        "profileUrl": "https://uabsports.com/sports/baseball/roster/brendan-conner/12303",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "uab-12323",
+        "name": "Payton Armour",
+        "school": "UAB",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Payton Armour looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / N/A",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "UAB Athletics roster"
+        ],
+        "sourceSummary": "UAB Athletics roster",
+        "schoolSlug": "uab",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://uabsports.com/sports/baseball/roster/payton-armour/12323",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "uab-12330",
+        "name": "Caiden Caldera",
+        "school": "UAB",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "FR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Caiden Caldera looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "UAB Athletics roster"
+        ],
+        "sourceSummary": "UAB Athletics roster",
+        "schoolSlug": "uab",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://uabsports.com/sports/baseball/roster/caiden-caldera/12330",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "uab-12311",
+        "name": "Brooks House",
+        "school": "UAB",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "R-JR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Brooks House looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "R-JR / N/A",
+        "detailBadges": [
+          "RHP",
+          "R-JR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "UAB Athletics roster"
+        ],
+        "sourceSummary": "UAB Athletics roster",
+        "schoolSlug": "uab",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://uabsports.com/sports/baseball/roster/brooks-house/12311",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "uab-12301",
+        "name": "Landon Beaver",
+        "school": "UAB",
+        "role": "Hitter",
+        "position": "UTIL",
+        "classYear": "JR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Landon Beaver gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "UTIL",
+          "JR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "UAB Athletics roster"
+        ],
+        "sourceSummary": "UAB Athletics roster",
+        "schoolSlug": "uab",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://uabsports.com/sports/baseball/roster/landon-beaver/12301",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "uab-12314",
+        "name": "Caden Kok",
+        "school": "UAB",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "R-JR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Caden Kok looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "R-JR / N/A",
+        "detailBadges": [
+          "RHP",
+          "R-JR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "UAB Athletics roster"
+        ],
+        "sourceSummary": "UAB Athletics roster",
+        "schoolSlug": "uab",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://uabsports.com/sports/baseball/roster/caden-kok/12314",
         "espnAthleteId": ""
       }
     ]

@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.xavier2026 = {
-  "generatedAt": "2026-07-30T10:57:30.122Z",
+  "generatedAt": "2026-11-18T10:19:09.794Z",
   "season": 2026,
   "school": {
     "slug": "xavier",
@@ -25,17 +25,43 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
     "ncaa": "NCAA school index"
   },
   "coverage": {
-    "rosterPlayers": 42,
+    "rosterPlayers": 45,
     "espnRosterPlayers": 0,
-    "playersWithHittingStats": 18,
-    "playersWithPitchingStats": 21,
-    "playersWithFieldingStats": 32,
-    "mergedPlayersWithAnyStats": 37,
+    "playersWithHittingStats": 0,
+    "playersWithPitchingStats": 0,
+    "playersWithFieldingStats": 0,
+    "mergedPlayersWithAnyStats": 0,
     "matchedEspnPlayers": 0,
     "unmatchedStatRows": {
-      "hitting": [],
-      "pitching": [],
-      "fielding": []
+      "hitting": [
+        "Clay Burdette",
+        "Luke Hammond",
+        "Landon Mensik",
+        "Tanner Thomas",
+        "JD Crisp",
+        "Jason Jelic"
+      ],
+      "pitching": [
+        "Ryan Piech",
+        "Evan Vasiliou",
+        "Trevor Geddes",
+        "Nick Boyle",
+        "Eli Bridenthal",
+        "Jon Wylie"
+      ],
+      "fielding": [
+        "Clay Burdette",
+        "Evan Vasiliou",
+        "Ryan Piech",
+        "Eli Bridenthal",
+        "Nick Boyle",
+        "JD Crisp",
+        "Jason Jelic",
+        "Luke Hammond",
+        "Landon Mensik",
+        "Tanner Thomas",
+        "Jon Wylie"
+      ]
     }
   },
   "teamSummary": {
@@ -124,877 +150,623 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
   },
   "players": [
     {
-      "id": "xavier-12724",
+      "id": "xavier-13134",
       "schoolSlug": "xavier",
       "school": "Xavier",
       "schoolLongName": "Xavier University",
-      "name": "JD Crisp",
-      "normalizedName": "jd crisp",
-      "compositeRole": "Hitter",
+      "name": "Jorge Valdes",
+      "normalizedName": "jorge valdes",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "OF",
       "positionLong": "Outfielder",
-      "classYear": "SO",
-      "handedness": "S/L",
+      "classYear": "JR",
+      "handedness": "L/L",
       "jersey": "1",
-      "hometown": "Cypress, Texas",
-      "highSchool": "Second Baptist",
-      "previousSchool": "",
-      "hometownHighSchool": "Cypress, Texas / Second Baptist",
-      "profileUrl": "https://goxavier.com/sports/baseball/roster/jd-crisp/12724",
-      "imageUrl": "https://goxavier.com/images/2025/10/15/Crisp_J_000002.jpg",
+      "hometown": "Milton, Ontario, Canada",
+      "highSchool": "Bishop Reding",
+      "previousSchool": "West Virginia",
+      "hometownHighSchool": "Milton, Ontario, Canada / Bishop Reding",
+      "profileUrl": "https://goxavier.com/sports/baseball/roster/jorge-valdes/13134",
+      "imageUrl": "https://goxavier.com/images/2026/10/14/Valdes_J_0002.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "12724",
+      "rosterBioId": "13134",
       "sources": [
-        "Xavier Athletics roster",
-        "Xavier cumulative stats"
+        "Xavier Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "12724",
-        "name": "JD Crisp",
-        "normalizedName": "jd crisp",
-        "jersey": "1",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/jd-crisp/12724",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Crisp_J_000002.jpg",
-        "gamesPlayed": 52,
-        "gamesStarted": 29,
-        "battingAverage": 0.216,
-        "onBasePercentage": 0.298,
-        "sluggingPercentage": 0.315,
-        "ops": 0.613,
-        "atBats": 111,
-        "runs": 18,
-        "hits": 24,
-        "doubles": 2,
-        "triples": 0,
-        "homeRuns": 3,
-        "runsBattedIn": 9,
-        "totalBases": 35,
-        "walks": 11,
-        "hitByPitch": 2,
-        "strikeouts": 47,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 2,
-        "stolenBases": 6,
-        "stolenBasesAttempts": 8,
-        "putouts": 107,
-        "assists": 0,
-        "errors": 2,
-        "plateAppearances": 136,
-        "caughtStealing": 2,
-        "pickedOff": 1
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "12724",
-        "name": "JD Crisp",
-        "normalizedName": "jd crisp",
-        "jersey": "1",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/jd-crisp/12724",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Crisp_J_000002.jpg",
-        "gamesPlayed": 43,
-        "gamesStarted": 28,
-        "putouts": 107,
-        "assists": 1,
-        "errors": 2,
-        "fieldingPercentage": 0.982,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 110
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 6,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 9.999999999999979,
+          "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 3.782505910165483,
-          "Speed": 20
+          "Discipline": 0,
+          "Speed": 0
         },
-        "summary": "JD Crisp gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Jorge Valdes gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .216",
-          "OBP .298",
-          "SLG .315"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".216"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".298"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".315"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "3"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "9"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "6"
+            "value": "0"
           }
         ],
-        "metaLine": "SO / S/L",
+        "metaLine": "JR / L/L",
         "detailBadges": [
           "OF",
-          "SO",
-          "S/L",
-          "Hitter"
+          "JR",
+          "L/L",
+          "Rostered"
         ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats"
+        "sourceSummary": "Xavier Athletics roster"
       }
     },
     {
-      "id": "xavier-12728",
+      "id": "xavier-13143",
       "schoolSlug": "xavier",
       "school": "Xavier",
       "schoolLongName": "Xavier University",
-      "name": "Luke Hammond",
-      "normalizedName": "luke hammond",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "IF",
-      "positionLong": "Infielder",
-      "classYear": "GR",
+      "name": "Alex King",
+      "normalizedName": "alex king",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "FR",
       "handedness": "R/R",
-      "jersey": "3",
-      "hometown": "Cincinnati, Ohio",
-      "highSchool": "Indian Hill",
-      "previousSchool": "Arizona State",
-      "hometownHighSchool": "Cincinnati, Ohio / Indian Hill",
-      "profileUrl": "https://goxavier.com/sports/baseball/roster/luke-hammond/12728",
-      "imageUrl": "https://goxavier.com/images/2025/10/15/Hammond_L_000002.jpg",
+      "jersey": "2",
+      "hometown": "Highlands Ranch, Colo.",
+      "highSchool": "Mountain Vista",
+      "previousSchool": "",
+      "hometownHighSchool": "Highlands Ranch, Colo. / Mountain Vista",
+      "profileUrl": "https://goxavier.com/sports/baseball/roster/alex-king/13143",
+      "imageUrl": "https://goxavier.com/images/2026/10/14/King_A_0002.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "12728",
+      "rosterBioId": "13143",
       "sources": [
-        "Xavier Athletics roster",
-        "Xavier cumulative stats"
+        "Xavier Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "12728",
-        "name": "Luke Hammond",
-        "normalizedName": "luke hammond",
-        "jersey": "3",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/luke-hammond/12728",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Hammond_L_000002.jpg",
-        "gamesPlayed": 58,
-        "gamesStarted": 58,
-        "battingAverage": 0.295,
-        "onBasePercentage": 0.347,
-        "sluggingPercentage": 0.459,
-        "ops": 0.806,
-        "atBats": 220,
-        "runs": 31,
-        "hits": 65,
-        "doubles": 8,
-        "triples": 2,
-        "homeRuns": 8,
-        "runsBattedIn": 41,
-        "totalBases": 101,
-        "walks": 10,
-        "hitByPitch": 9,
-        "strikeouts": 31,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 2,
-        "sacrificeFlies": 3,
-        "sacrificeHits": 7,
-        "stolenBases": 2,
-        "stolenBasesAttempts": 3,
-        "putouts": 53,
-        "assists": 0,
-        "errors": 5,
-        "plateAppearances": 253,
-        "caughtStealing": 1,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "12728",
-        "name": "Luke Hammond",
-        "normalizedName": "luke hammond",
-        "jersey": "3",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/luke-hammond/12728",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Hammond_L_000002.jpg",
-        "gamesPlayed": 53,
-        "gamesStarted": 53,
-        "putouts": 53,
-        "assists": 89,
-        "errors": 5,
-        "fieldingPercentage": 0.966,
-        "doublePlays": 10,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 147
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 32,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 37.22222222222219,
-          "Power": 36.57894736842106,
-          "Contact": 46.874999999999986,
-          "Discipline": 13.62007168458781,
-          "Speed": 6.666666666666667
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
         },
-        "summary": "Luke Hammond gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Alex King looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "AVG .295",
-          "OBP .347",
-          "SLG .459"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Xavier Athletics roster"
+      }
+    },
+    {
+      "id": "xavier-13138",
+      "schoolSlug": "xavier",
+      "school": "Xavier",
+      "schoolLongName": "Xavier University",
+      "name": "Josh Donna",
+      "normalizedName": "josh donna",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "IF",
+      "positionLong": "Infielder",
+      "classYear": "JR",
+      "handedness": "R/R",
+      "jersey": "3",
+      "hometown": "Hugo, Minn.",
+      "highSchool": "Mahtomedi",
+      "previousSchool": "Iowa Western",
+      "hometownHighSchool": "Hugo, Minn. / Mahtomedi",
+      "profileUrl": "https://goxavier.com/sports/baseball/roster/josh-donna/13138",
+      "imageUrl": "https://goxavier.com/images/2026/10/14/Donna_J_0002.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "13138",
+      "sources": [
+        "Xavier Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Josh Donna gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".295"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".347"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".459"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "8"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "41"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "2"
+            "value": "0"
           }
         ],
-        "metaLine": "GR / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "IF",
-          "GR",
+          "JR",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats"
+        "sourceSummary": "Xavier Athletics roster"
       }
     },
     {
-      "id": "xavier-12758",
+      "id": "xavier-13121",
       "schoolSlug": "xavier",
       "school": "Xavier",
       "schoolLongName": "Xavier University",
       "name": "Peter Johnson",
       "normalizedName": "peter johnson",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "OF",
       "positionLong": "Outfielder",
-      "classYear": "JR",
+      "classYear": "SR",
       "handedness": "L/R",
       "jersey": "4",
       "hometown": "Minnetonka, Minn.",
       "highSchool": "Blake",
       "previousSchool": "Bradley/Iowa Central CC/Liberty",
       "hometownHighSchool": "Minnetonka, Minn. / Blake",
-      "profileUrl": "https://goxavier.com/sports/baseball/roster/peter-johnson/12758",
-      "imageUrl": "https://goxavier.com/images/2025/10/15/Johnson_P_000003.jpg",
+      "profileUrl": "https://goxavier.com/sports/baseball/roster/peter-johnson/13121",
+      "imageUrl": "https://goxavier.com/images/2026/10/14/Johnson_P_0002.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "12758",
+      "rosterBioId": "13121",
       "sources": [
-        "Xavier Athletics roster",
-        "Xavier cumulative stats"
+        "Xavier Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "12758",
-        "name": "Peter Johnson",
-        "normalizedName": "peter johnson",
-        "jersey": "4",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/peter-johnson/12758",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Johnson_P_000003.jpg",
-        "gamesPlayed": 48,
-        "gamesStarted": 36,
-        "battingAverage": 0.239,
-        "onBasePercentage": 0.35,
-        "sluggingPercentage": 0.348,
-        "ops": 0.698,
-        "atBats": 138,
-        "runs": 14,
-        "hits": 33,
-        "doubles": 6,
-        "triples": 0,
-        "homeRuns": 3,
-        "runsBattedIn": 16,
-        "totalBases": 48,
-        "walks": 18,
-        "hitByPitch": 6,
-        "strikeouts": 51,
-        "intentionalWalks": 2,
-        "groundedIntoDoublePlay": 3,
-        "sacrificeFlies": 1,
-        "sacrificeHits": 1,
-        "stolenBases": 2,
-        "stolenBasesAttempts": 2,
-        "putouts": 5,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 166,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "12758",
-        "name": "Peter Johnson",
-        "normalizedName": "peter johnson",
-        "jersey": "4",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/peter-johnson/12758",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Johnson_P_000003.jpg",
-        "gamesPlayed": 3,
-        "gamesStarted": 2,
-        "putouts": 5,
-        "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 5
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 20,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 38.888888888888864,
-          "Power": 7.368421052631572,
-          "Contact": 11.874999999999993,
-          "Discipline": 16.993464052287578,
-          "Speed": 6.666666666666667
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
         "summary": "Peter Johnson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .239",
-          "OBP .350",
-          "SLG .348"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".239"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".350"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".348"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "3"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "16"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "2"
+            "value": "0"
           }
         ],
-        "metaLine": "JR / L/R",
+        "metaLine": "SR / L/R",
         "detailBadges": [
           "OF",
-          "JR",
+          "SR",
           "L/R",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats"
+        "sourceSummary": "Xavier Athletics roster"
       }
     },
     {
-      "id": "xavier-12721",
+      "id": "xavier-13145",
       "schoolSlug": "xavier",
       "school": "Xavier",
       "schoolLongName": "Xavier University",
-      "name": "Clay Burdette",
-      "normalizedName": "clay burdette",
-      "compositeRole": "Hitter",
+      "name": "James Layman",
+      "normalizedName": "james layman",
+      "compositeRole": "Rostered",
       "role": "Hitter",
-      "position": "OF",
-      "positionLong": "Outfielder",
-      "classYear": "JR",
-      "handedness": "R/R",
+      "position": "IF",
+      "positionLong": "Infielder",
+      "classYear": "GR",
+      "handedness": "L/R",
       "jersey": "5",
-      "hometown": "Cincinnati, Ohio",
-      "highSchool": "Moeller",
-      "previousSchool": "Ohio State",
-      "hometownHighSchool": "Cincinnati, Ohio / Moeller",
-      "profileUrl": "https://goxavier.com/sports/baseball/roster/clay-burdette/12721",
-      "imageUrl": "https://goxavier.com/images/2025/10/15/Burdette_C_000002.jpg",
+      "hometown": "Bluffton, S.C.",
+      "highSchool": "May River",
+      "previousSchool": "Wofford",
+      "hometownHighSchool": "Bluffton, S.C. / May River",
+      "profileUrl": "https://goxavier.com/sports/baseball/roster/james-layman/13145",
+      "imageUrl": "https://goxavier.com/images/2026/10/14/Layman_J_0002.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "12721",
+      "rosterBioId": "13145",
       "sources": [
-        "Xavier Athletics roster",
-        "Xavier cumulative stats"
+        "Xavier Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "12721",
-        "name": "Clay Burdette",
-        "normalizedName": "clay burdette",
-        "jersey": "5",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/clay-burdette/12721",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Burdette_C_000002.jpg",
-        "gamesPlayed": 51,
-        "gamesStarted": 51,
-        "battingAverage": 0.343,
-        "onBasePercentage": 0.438,
-        "sluggingPercentage": 0.701,
-        "ops": 1.139,
-        "atBats": 201,
-        "runs": 43,
-        "hits": 69,
-        "doubles": 17,
-        "triples": 2,
-        "homeRuns": 17,
-        "runsBattedIn": 45,
-        "totalBases": 141,
-        "walks": 23,
-        "hitByPitch": 14,
-        "strikeouts": 50,
-        "intentionalWalks": 7,
-        "groundedIntoDoublePlay": 2,
-        "sacrificeFlies": 4,
-        "sacrificeHits": 0,
-        "stolenBases": 10,
-        "stolenBasesAttempts": 12,
-        "putouts": 103,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 256,
-        "caughtStealing": 2,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "12721",
-        "name": "Clay Burdette",
-        "normalizedName": "clay burdette",
-        "jersey": "5",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/clay-burdette/12721",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Burdette_C_000002.jpg",
-        "gamesPlayed": 45,
-        "gamesStarted": 45,
-        "putouts": 103,
-        "assists": 7,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 2,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 110
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 75,
+        "score": 0,
         "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
+          "label": "Depth",
+          "className": "fit-depth"
         },
         "components": {
-          "On-base": 87.77777777777777,
-          "Power": 100,
-          "Contact": 76.87500000000001,
-          "Discipline": 28.888888888888886,
-          "Speed": 33.33333333333333
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "summary": "Clay Burdette profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
+        "summary": "James Layman gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .343",
-          "OBP .438",
-          "SLG .701"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".343"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".438"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".701"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "17"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "45"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "10"
+            "value": "0"
+          }
+        ],
+        "metaLine": "GR / L/R",
+        "detailBadges": [
+          "IF",
+          "GR",
+          "L/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Xavier Athletics roster"
+      }
+    },
+    {
+      "id": "xavier-13148",
+      "schoolSlug": "xavier",
+      "school": "Xavier",
+      "schoolLongName": "Xavier University",
+      "name": "Thomas Matuszewski",
+      "normalizedName": "thomas matuszewski",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "IF",
+      "positionLong": "Infielder",
+      "classYear": "JR",
+      "handedness": "R/R",
+      "jersey": "6",
+      "hometown": "Oxford, Pa.",
+      "highSchool": "Avon Grove",
+      "previousSchool": "Mount St. Mary's/Jefferson",
+      "hometownHighSchool": "Oxford, Pa. / Avon Grove",
+      "profileUrl": "https://goxavier.com/sports/baseball/roster/thomas-matuszewski/13148",
+      "imageUrl": "https://goxavier.com/images/2026/10/14/Matuszewski_T_0002.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "13148",
+      "sources": [
+        "Xavier Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Thomas Matuszewski gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
           }
         ],
         "metaLine": "JR / R/R",
         "detailBadges": [
-          "OF",
+          "IF",
           "JR",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats"
+        "sourceSummary": "Xavier Athletics roster"
       }
     },
     {
-      "id": "xavier-12732",
+      "id": "xavier-13152",
       "schoolSlug": "xavier",
       "school": "Xavier",
       "schoolLongName": "Xavier University",
-      "name": "Landon Mensik",
-      "normalizedName": "landon mensik",
-      "compositeRole": "Hitter",
+      "name": "Whit Thomas",
+      "normalizedName": "whit thomas",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "IF",
       "positionLong": "Infielder",
-      "classYear": "SO",
-      "handedness": "R/R",
-      "jersey": "6",
-      "hometown": "Mokena, Ill.",
-      "highSchool": "Lincoln-Way Central",
-      "previousSchool": "",
-      "hometownHighSchool": "Mokena, Ill. / Lincoln-Way Central",
-      "profileUrl": "https://goxavier.com/sports/baseball/roster/landon-mensik/12732",
-      "imageUrl": "https://goxavier.com/images/2025/10/15/Mensik_L_000002.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "12732",
-      "sources": [
-        "Xavier Athletics roster",
-        "Xavier cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "12732",
-        "name": "Landon Mensik",
-        "normalizedName": "landon mensik",
-        "jersey": "6",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/landon-mensik/12732",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Mensik_L_000002.jpg",
-        "gamesPlayed": 49,
-        "gamesStarted": 43,
-        "battingAverage": 0.225,
-        "onBasePercentage": 0.343,
-        "sluggingPercentage": 0.464,
-        "ops": 0.807,
-        "atBats": 151,
-        "runs": 21,
-        "hits": 34,
-        "doubles": 9,
-        "triples": 0,
-        "homeRuns": 9,
-        "runsBattedIn": 24,
-        "totalBases": 70,
-        "walks": 19,
-        "hitByPitch": 9,
-        "strikeouts": 60,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 2,
-        "sacrificeFlies": 2,
-        "sacrificeHits": 0,
-        "stolenBases": 3,
-        "stolenBasesAttempts": 5,
-        "putouts": 36,
-        "assists": 0,
-        "errors": 2,
-        "plateAppearances": 188,
-        "caughtStealing": 2,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "12732",
-        "name": "Landon Mensik",
-        "normalizedName": "landon mensik",
-        "jersey": "6",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/landon-mensik/12732",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Mensik_L_000002.jpg",
-        "gamesPlayed": 16,
-        "gamesStarted": 16,
-        "putouts": 36,
-        "assists": 2,
-        "errors": 2,
-        "fieldingPercentage": 0.95,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 40
-      },
-      "evaluation": {
-        "score": 24,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 35,
-          "Power": 37.89473684210527,
-          "Contact": 3.1250000000000027,
-          "Discipline": 12.96296296296296,
-          "Speed": 10
-        },
-        "summary": "Landon Mensik gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .225",
-          "OBP .343",
-          "SLG .464"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".225"
-          },
-          {
-            "label": "OBP",
-            "value": ".343"
-          },
-          {
-            "label": "SLG",
-            "value": ".464"
-          },
-          {
-            "label": "HR",
-            "value": "9"
-          },
-          {
-            "label": "RBI",
-            "value": "24"
-          },
-          {
-            "label": "SB",
-            "value": "3"
-          }
-        ],
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "IF",
-          "SO",
-          "R/R",
-          "Hitter"
-        ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats"
-      }
-    },
-    {
-      "id": "xavier-12756",
-      "schoolSlug": "xavier",
-      "school": "Xavier",
-      "schoolLongName": "Xavier University",
-      "name": "Tanner Thomas",
-      "normalizedName": "tanner thomas",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "IF",
-      "positionLong": "Infielder",
-      "classYear": "SR",
-      "handedness": "R/R",
+      "classYear": "FR",
+      "handedness": "L/R",
       "jersey": "7",
-      "hometown": "Lynchburg, Va.",
-      "highSchool": "Liberty Christian",
-      "previousSchool": "Longwood/Gardner-Webb",
-      "hometownHighSchool": "Lynchburg, Va. / Liberty Christian",
-      "profileUrl": "https://goxavier.com/sports/baseball/roster/tanner-thomas/12756",
-      "imageUrl": "https://goxavier.com/images/2025/10/15/Thomas_T_000002.jpg",
+      "hometown": "Oklahoma City, OK",
+      "highSchool": "Heritage Hall",
+      "previousSchool": "",
+      "hometownHighSchool": "Oklahoma City, OK / Heritage Hall",
+      "profileUrl": "https://goxavier.com/sports/baseball/roster/whit-thomas/13152",
+      "imageUrl": "https://goxavier.com/images/2026/10/14/Thomas_W_0002.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "12756",
+      "rosterBioId": "13152",
       "sources": [
-        "Xavier Athletics roster",
-        "Xavier cumulative stats"
+        "Xavier Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "12756",
-        "name": "Tanner Thomas",
-        "normalizedName": "tanner thomas",
-        "jersey": "7",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/tanner-thomas/12756",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Thomas_T_000002.jpg",
-        "gamesPlayed": 45,
-        "gamesStarted": 28,
-        "battingAverage": 0.221,
-        "onBasePercentage": 0.314,
-        "sluggingPercentage": 0.365,
-        "ops": 0.679,
-        "atBats": 104,
-        "runs": 13,
-        "hits": 23,
-        "doubles": 3,
-        "triples": 0,
-        "homeRuns": 4,
-        "runsBattedIn": 13,
-        "totalBases": 38,
-        "walks": 11,
-        "hitByPitch": 4,
-        "strikeouts": 20,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 4,
-        "sacrificeFlies": 2,
-        "sacrificeHits": 2,
-        "stolenBases": 1,
-        "stolenBasesAttempts": 1,
-        "putouts": 52,
-        "assists": 0,
-        "errors": 7,
-        "plateAppearances": 124,
-        "caughtStealing": 0,
-        "pickedOff": 1
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "12756",
-        "name": "Tanner Thomas",
-        "normalizedName": "tanner thomas",
-        "jersey": "7",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/tanner-thomas/12756",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Thomas_T_000002.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 28,
-        "putouts": 52,
-        "assists": 56,
-        "errors": 7,
-        "fieldingPercentage": 0.939,
-        "doublePlays": 9,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 115
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 15,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 18.888888888888875,
-          "Power": 11.842105263157892,
-          "Contact": 0.6250000000000006,
-          "Discipline": 38.88888888888889,
-          "Speed": 3.3333333333333335
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "summary": "Tanner Thomas gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Whit Thomas gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .221",
-          "OBP .314",
-          "SLG .365"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".221"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".314"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".365"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "4"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "13"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "1"
+            "value": "0"
           }
         ],
-        "metaLine": "SR / R/R",
+        "metaLine": "FR / L/R",
         "detailBadges": [
           "IF",
-          "SR",
-          "R/R",
-          "Hitter"
+          "FR",
+          "L/R",
+          "Rostered"
         ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats"
+        "sourceSummary": "Xavier Athletics roster"
       }
     },
     {
-      "id": "xavier-12726",
+      "id": "xavier-13115",
       "schoolSlug": "xavier",
       "school": "Xavier",
       "schoolLongName": "Xavier University",
@@ -1004,64 +776,30 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Right-Handed Pitcher",
-      "classYear": "SO",
+      "classYear": "JR",
       "handedness": "R/R",
       "jersey": "8",
       "hometown": "Union, Ky.",
       "highSchool": "Ryle",
       "previousSchool": "",
       "hometownHighSchool": "Union, Ky. / Ryle",
-      "profileUrl": "https://goxavier.com/sports/baseball/roster/sam-eppley/12726",
-      "imageUrl": "https://goxavier.com/images/2025/10/15/Eppley_S_000002.jpg",
+      "profileUrl": "https://goxavier.com/sports/baseball/roster/sam-eppley/13115",
+      "imageUrl": "https://goxavier.com/images/2026/10/14/Eppley_S_0002.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "12726",
+      "rosterBioId": "13115",
       "sources": [
-        "Xavier Athletics roster",
-        "Xavier cumulative stats"
+        "Xavier Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "12726",
-        "name": "Sam Eppley",
-        "normalizedName": "sam eppley",
-        "jersey": "8",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/sam-eppley/12726",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Eppley_S_000002.jpg",
-        "gamesPlayed": 3,
-        "gamesStarted": 0,
-        "appearances": 3,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 0,
-        "whip": 1.5,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 2.6666666666666665,
-        "inningsPitchedDisplay": "2.2",
-        "hitsAllowed": 3,
-        "runsAllowed": 0,
-        "earnedRunsAllowed": 0,
-        "walksAllowed": 1,
-        "strikeouts": 2,
-        "doublesAllowed": 1,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 11,
-        "wildPitches": 1,
-        "hitBatters": 2,
-        "balks": 0,
-        "opponentsBattingAverage": 0.273,
-        "walksHits": 0
-      },
+      "pitchingStats": null,
       "fieldingStats": null,
       "evaluation": {
-        "score": 8,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -1069,32 +807,32 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 25,
-          "Command": 20,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Sam Eppley looks like a RHP option who limits runs.",
+        "summary": "Sam Eppley looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 0.00",
-          "WHIP 1.50",
-          "K/9 6.8"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "0.00"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.50"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "6.8"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "3.4"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
@@ -1102,140 +840,83 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
           },
           {
             "label": "IP",
-            "value": "2.7"
+            "value": "0.0"
           }
         ],
-        "metaLine": "SO / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "RHP",
-          "SO",
+          "JR",
           "R/R",
           "Pitcher"
         ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats"
+        "sourceSummary": "Xavier Athletics roster"
       }
     },
     {
-      "id": "xavier-12722",
+      "id": "xavier-13110",
       "schoolSlug": "xavier",
       "school": "Xavier",
       "schoolLongName": "Xavier University",
       "name": "Donavan Canterberry",
       "normalizedName": "donavan canterberry",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "IF",
       "positionLong": "Infielder",
-      "classYear": "SR",
+      "classYear": "GR",
       "handedness": "R/R",
       "jersey": "9",
       "hometown": "Wyandotte, Mich.",
       "highSchool": "Wyandotte",
       "previousSchool": "",
       "hometownHighSchool": "Wyandotte, Mich. / Wyandotte",
-      "profileUrl": "https://goxavier.com/sports/baseball/roster/donavan-canterberry/12722",
-      "imageUrl": "https://goxavier.com/images/2025/10/15/Canterberry_D_000013.jpg",
+      "profileUrl": "https://goxavier.com/sports/baseball/roster/donavan-canterberry/13110",
+      "imageUrl": "https://goxavier.com/images/2026/10/14/Canterberry_D_0002.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "12722",
+      "rosterBioId": "13110",
       "sources": [
-        "Xavier Athletics roster",
-        "Xavier cumulative stats"
+        "Xavier Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "12722",
-        "name": "Donavan Canterberry",
-        "normalizedName": "donavan canterberry",
-        "jersey": "9",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/donavan-canterberry/12722",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Canterberry_D_000013.jpg",
-        "gamesPlayed": 49,
-        "gamesStarted": 45,
-        "battingAverage": 0.261,
-        "onBasePercentage": 0.346,
-        "sluggingPercentage": 0.306,
-        "ops": 0.652,
-        "atBats": 157,
-        "runs": 28,
-        "hits": 41,
-        "doubles": 7,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 11,
-        "totalBases": 48,
-        "walks": 13,
-        "hitByPitch": 8,
-        "strikeouts": 34,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 3,
-        "sacrificeFlies": 1,
-        "sacrificeHits": 1,
-        "stolenBases": 1,
-        "stolenBasesAttempts": 2,
-        "putouts": 59,
-        "assists": 0,
-        "errors": 8,
-        "plateAppearances": 183,
-        "caughtStealing": 1,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "12722",
-        "name": "Donavan Canterberry",
-        "normalizedName": "donavan canterberry",
-        "jersey": "9",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/donavan-canterberry/12722",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Canterberry_D_000013.jpg",
-        "gamesPlayed": 45,
-        "gamesStarted": 43,
-        "putouts": 59,
-        "assists": 99,
-        "errors": 8,
-        "fieldingPercentage": 0.952,
-        "doublePlays": 18,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 166
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 20,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 36.666666666666636,
+          "On-base": 0,
           "Power": 0,
-          "Contact": 25.625000000000004,
-          "Discipline": 20.261437908496724,
-          "Speed": 3.3333333333333335
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
         "summary": "Donavan Canterberry gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .261",
-          "OBP .346",
-          "SLG .306"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".261"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".346"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".306"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -1243,170 +924,113 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
           },
           {
             "label": "RBI",
-            "value": "11"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "1"
+            "value": "0"
           }
         ],
-        "metaLine": "SR / R/R",
+        "metaLine": "GR / R/R",
         "detailBadges": [
           "IF",
-          "SR",
+          "GR",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats"
+        "sourceSummary": "Xavier Athletics roster"
       }
     },
     {
-      "id": "xavier-12760",
+      "id": "xavier-13133",
       "schoolSlug": "xavier",
       "school": "Xavier",
       "schoolLongName": "Xavier University",
       "name": "Tommy Townsend",
       "normalizedName": "tommy townsend",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
-      "position": "OF",
+      "position": "IF",
       "positionLong": "Outfielder",
-      "classYear": "JR",
+      "classYear": "SR",
       "handedness": "L/L",
       "jersey": "10",
       "hometown": "Sycamore, Ill.",
       "highSchool": "Sycamore",
       "previousSchool": "Butler",
       "hometownHighSchool": "Sycamore, Ill. / Sycamore",
-      "profileUrl": "https://goxavier.com/sports/baseball/roster/tommy-townsend/12760",
-      "imageUrl": "https://goxavier.com/images/2025/10/15/Townsend_T_000002.jpg",
+      "profileUrl": "https://goxavier.com/sports/baseball/roster/tommy-townsend/13133",
+      "imageUrl": "https://goxavier.com/images/2026/10/14/Townsend_T_0001.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "12760",
+      "rosterBioId": "13133",
       "sources": [
-        "Xavier Athletics roster",
-        "Xavier cumulative stats"
+        "Xavier Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "12760",
-        "name": "Tommy Townsend",
-        "normalizedName": "tommy townsend",
-        "jersey": "10",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/tommy-townsend/12760",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Townsend_T_000002.jpg",
-        "gamesPlayed": 46,
-        "gamesStarted": 29,
-        "battingAverage": 0.231,
-        "onBasePercentage": 0.319,
-        "sluggingPercentage": 0.488,
-        "ops": 0.807,
-        "atBats": 121,
-        "runs": 18,
-        "hits": 28,
-        "doubles": 5,
-        "triples": 1,
-        "homeRuns": 8,
-        "runsBattedIn": 20,
-        "totalBases": 59,
-        "walks": 15,
-        "hitByPitch": 1,
-        "strikeouts": 35,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 1,
-        "sacrificeHits": 0,
-        "stolenBases": 1,
-        "stolenBasesAttempts": 2,
-        "putouts": 219,
-        "assists": 0,
-        "errors": 2,
-        "plateAppearances": 141,
-        "caughtStealing": 1,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "12760",
-        "name": "Tommy Townsend",
-        "normalizedName": "tommy townsend",
-        "jersey": "10",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/tommy-townsend/12760",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Townsend_T_000002.jpg",
-        "gamesPlayed": 33,
-        "gamesStarted": 28,
-        "putouts": 219,
-        "assists": 6,
-        "errors": 2,
-        "fieldingPercentage": 0.991,
-        "doublePlays": 20,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 227
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 24,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 21.666666666666657,
-          "Power": 44.21052631578947,
-          "Contact": 6.875000000000006,
-          "Discipline": 25.39682539682539,
-          "Speed": 3.3333333333333335
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
         "summary": "Tommy Townsend gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .231",
-          "OBP .319",
-          "SLG .488"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".231"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".319"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".488"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "8"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "20"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "1"
+            "value": "0"
           }
         ],
-        "metaLine": "JR / L/L",
+        "metaLine": "SR / L/L",
         "detailBadges": [
-          "OF",
-          "JR",
+          "IF",
+          "SR",
           "L/L",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats"
+        "sourceSummary": "Xavier Athletics roster"
       }
     },
     {
-      "id": "xavier-12738",
+      "id": "xavier-13131",
       "schoolSlug": "xavier",
       "school": "Xavier",
       "schoolLongName": "Xavier University",
@@ -1416,64 +1040,30 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Right-Handed Pitcher",
-      "classYear": "SO",
+      "classYear": "JR",
       "handedness": "R/R",
       "jersey": "11",
       "hometown": "Austin, Texas",
       "highSchool": "McCallum",
       "previousSchool": "",
       "hometownHighSchool": "Austin, Texas / McCallum",
-      "profileUrl": "https://goxavier.com/sports/baseball/roster/sam-stevens/12738",
-      "imageUrl": "https://goxavier.com/images/2025/10/15/Stevens_S_000002.jpg",
+      "profileUrl": "https://goxavier.com/sports/baseball/roster/sam-stevens/13131",
+      "imageUrl": "https://goxavier.com/images/2026/10/14/Stevens_S_0002.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "12738",
+      "rosterBioId": "13131",
       "sources": [
-        "Xavier Athletics roster",
-        "Xavier cumulative stats"
+        "Xavier Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "12738",
-        "name": "Sam Stevens",
-        "normalizedName": "sam stevens",
-        "jersey": "11",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/sam-stevens/12738",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Stevens_S_000002.jpg",
-        "gamesPlayed": 4,
-        "gamesStarted": 0,
-        "appearances": 4,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 5.14,
-        "whip": 1.86,
-        "wins": 1,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 7,
-        "inningsPitchedDisplay": "7.0",
-        "hitsAllowed": 11,
-        "runsAllowed": 5,
-        "earnedRunsAllowed": 4,
-        "walksAllowed": 2,
-        "strikeouts": 5,
-        "doublesAllowed": 4,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 1,
-        "opponentsAtBats": 33,
-        "wildPitches": 1,
-        "hitBatters": 0,
-        "balks": 0,
-        "opponentsBattingAverage": 0.333,
-        "walksHits": 0
-      },
+      "pitchingStats": null,
       "fieldingStats": null,
       "evaluation": {
-        "score": 9,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -1481,173 +1071,116 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 22.07792207792208,
-          "Command": 30,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
         "summary": "Sam Stevens looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 5.14",
-          "WHIP 1.86",
-          "K/9 6.4"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.14"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.86"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "6.4"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "2.6"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.29"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "7.0"
+            "value": "0.0"
           }
         ],
-        "metaLine": "SO / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "RHP",
-          "SO",
+          "JR",
           "R/R",
           "Pitcher"
         ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats"
+        "sourceSummary": "Xavier Athletics roster"
       }
     },
     {
-      "id": "xavier-12731",
+      "id": "xavier-13151",
       "schoolSlug": "xavier",
       "school": "Xavier",
       "schoolLongName": "Xavier University",
-      "name": "Jason Jelic",
-      "normalizedName": "jason jelic",
-      "compositeRole": "Hitter",
+      "name": "Gabe Natividad",
+      "normalizedName": "gabe natividad",
+      "compositeRole": "Rostered",
       "role": "Hitter",
-      "position": "C",
-      "positionLong": "Catcher",
+      "position": "IF",
+      "positionLong": "Infielder",
       "classYear": "SR",
-      "handedness": "L/R",
+      "handedness": "R/R",
       "jersey": "12",
-      "hometown": "Chapel Hill, N.C.",
-      "highSchool": "IMG",
-      "previousSchool": "Wake Tech",
-      "hometownHighSchool": "Chapel Hill, N.C. / IMG",
-      "profileUrl": "https://goxavier.com/sports/baseball/roster/jason-jelic/12731",
-      "imageUrl": "https://goxavier.com/images/2025/10/15/Jelic_J_000002.jpg",
+      "hometown": "Gardnerville, Nev.",
+      "highSchool": "Douglas",
+      "previousSchool": "SJ Delta/Winthrop",
+      "hometownHighSchool": "Gardnerville, Nev. / Douglas",
+      "profileUrl": "https://goxavier.com/sports/baseball/roster/gabe-natividad/13151",
+      "imageUrl": "https://goxavier.com/images/2026/10/14/Natividad_G_0002.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "12731",
+      "rosterBioId": "13151",
       "sources": [
-        "Xavier Athletics roster",
-        "Xavier cumulative stats"
+        "Xavier Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "12731",
-        "name": "Jason Jelic",
-        "normalizedName": "jason jelic",
-        "jersey": "12",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/jason-jelic/12731",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Jelic_J_000002.jpg",
-        "gamesPlayed": 24,
-        "gamesStarted": 7,
-        "battingAverage": 0.25,
-        "onBasePercentage": 0.286,
-        "sluggingPercentage": 0.35,
-        "ops": 0.636,
-        "atBats": 40,
-        "runs": 4,
-        "hits": 10,
-        "doubles": 4,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 1,
-        "totalBases": 14,
-        "walks": 1,
-        "hitByPitch": 1,
-        "strikeouts": 14,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 2,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 39,
-        "assists": 0,
-        "errors": 1,
-        "plateAppearances": 44,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "12731",
-        "name": "Jason Jelic",
-        "normalizedName": "jason jelic",
-        "jersey": "12",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/jason-jelic/12731",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Jelic_J_000002.jpg",
-        "gamesPlayed": 11,
-        "gamesStarted": 5,
-        "putouts": 39,
-        "assists": 2,
-        "errors": 1,
-        "fieldingPercentage": 0.976,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 5,
-        "caughtStealingBy": 1,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 42
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 6,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 3.3333333333333055,
-          "Power": 7.8947368421052575,
-          "Contact": 18.75,
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
           "Discipline": 0,
           "Speed": 0
         },
-        "summary": "Jason Jelic gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Gabe Natividad gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .250",
-          "OBP .286",
-          "SLG .350"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".250"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".286"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".350"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -1655,25 +1188,25 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
           },
           {
             "label": "RBI",
-            "value": "1"
+            "value": "0"
           },
           {
             "label": "SB",
             "value": "0"
           }
         ],
-        "metaLine": "SR / L/R",
+        "metaLine": "SR / R/R",
         "detailBadges": [
-          "C",
+          "IF",
           "SR",
-          "L/R",
-          "Hitter"
+          "R/R",
+          "Rostered"
         ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats"
+        "sourceSummary": "Xavier Athletics roster"
       }
     },
     {
-      "id": "xavier-12759",
+      "id": "xavier-13128",
       "schoolSlug": "xavier",
       "school": "Xavier",
       "schoolLongName": "Xavier University",
@@ -1683,22 +1216,22 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
       "role": "Hitter",
       "position": "OF",
       "positionLong": "Outfielder",
-      "classYear": "FR",
+      "classYear": "SO",
       "handedness": "L/L",
       "jersey": "13",
       "hometown": "Cincinnati, Ohio",
       "highSchool": "Moeller",
       "previousSchool": "",
       "hometownHighSchool": "Cincinnati, Ohio / Moeller",
-      "profileUrl": "https://goxavier.com/sports/baseball/roster/luke-pappano/12759",
-      "imageUrl": "https://goxavier.com/images/2025/10/15/Pappano_L_000002.jpg",
+      "profileUrl": "https://goxavier.com/sports/baseball/roster/luke-pappano/13128",
+      "imageUrl": "https://goxavier.com/images/2026/10/14/Pappano_L_0002.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "12759",
+      "rosterBioId": "13128",
       "sources": [
         "Xavier Athletics roster"
       ],
@@ -1750,10 +1283,10 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "FR / L/L",
+        "metaLine": "SO / L/L",
         "detailBadges": [
           "OF",
-          "FR",
+          "SO",
           "L/L",
           "Rostered"
         ],
@@ -1761,94 +1294,40 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
       }
     },
     {
-      "id": "xavier-12720",
+      "id": "xavier-13136",
       "schoolSlug": "xavier",
       "school": "Xavier",
       "schoolLongName": "Xavier University",
-      "name": "Eli Bridenthal",
-      "normalizedName": "eli bridenthal",
+      "name": "Jack Berg",
+      "normalizedName": "jack berg",
       "compositeRole": "Pitcher",
       "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right-Handed Pitcher",
-      "classYear": "JR",
-      "handedness": "R/R",
+      "position": "LHP",
+      "positionLong": "Left-Handed Pitcher",
+      "classYear": "GR",
+      "handedness": "L/L",
       "jersey": "14",
-      "hometown": "McCordsville, Ind.",
-      "highSchool": "Mt. Vernon",
-      "previousSchool": "",
-      "hometownHighSchool": "McCordsville, Ind. / Mt. Vernon",
-      "profileUrl": "https://goxavier.com/sports/baseball/roster/eli-bridenthal/12720",
-      "imageUrl": "https://goxavier.com/images/2025/10/15/Bridenthal_E_000002.jpg",
+      "hometown": "Everett, Wash.",
+      "highSchool": "Mount Si",
+      "previousSchool": "Tacoma/Arizona/Hawaii",
+      "hometownHighSchool": "Everett, Wash. / Mount Si",
+      "profileUrl": "https://goxavier.com/sports/baseball/roster/jack-berg/13136",
+      "imageUrl": "https://goxavier.com/images/2026/10/14/Berg_J_0002.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "12720",
+      "rosterBioId": "13136",
       "sources": [
-        "Xavier Athletics roster",
-        "Xavier cumulative stats"
+        "Xavier Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "12720",
-        "name": "Eli Bridenthal",
-        "normalizedName": "eli bridenthal",
-        "jersey": "14",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/eli-bridenthal/12720",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Bridenthal_E_000002.jpg",
-        "gamesPlayed": 8,
-        "gamesStarted": 1,
-        "appearances": 8,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 14.85,
-        "whip": 2.4,
-        "wins": 1,
-        "losses": 1,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 6.666666666666667,
-        "inningsPitchedDisplay": "6.2",
-        "hitsAllowed": 7,
-        "runsAllowed": 11,
-        "earnedRunsAllowed": 11,
-        "walksAllowed": 9,
-        "strikeouts": 6,
-        "doublesAllowed": 3,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 1,
-        "opponentsAtBats": 26,
-        "wildPitches": 2,
-        "hitBatters": 2,
-        "balks": 0,
-        "opponentsBattingAverage": 0.269,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "12720",
-        "name": "Eli Bridenthal",
-        "normalizedName": "eli bridenthal",
-        "jersey": "14",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/eli-bridenthal/12720",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Bridenthal_E_000002.jpg",
-        "gamesPlayed": 2,
-        "gamesStarted": 0,
-        "putouts": 1,
-        "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 1,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 1
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 7,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -1856,142 +1335,85 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 37.272727272727266,
+          "Miss bats": 0,
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Eli Bridenthal gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Jack Berg looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 14.85",
-          "WHIP 2.40",
-          "K/9 8.1"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "14.85"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "2.40"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "8.1"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "12.1"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.35"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "6.7"
+            "value": "0.0"
           }
         ],
-        "metaLine": "JR / R/R",
+        "metaLine": "GR / L/L",
         "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
+          "LHP",
+          "GR",
+          "L/L",
           "Pitcher"
         ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats"
+        "sourceSummary": "Xavier Athletics roster"
       }
     },
     {
-      "id": "xavier-12754",
+      "id": "xavier-13122",
       "schoolSlug": "xavier",
       "school": "Xavier",
       "schoolLongName": "Xavier University",
       "name": "Alex Junghans",
       "normalizedName": "alex junghans",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "IF",
       "positionLong": "Infielder",
-      "classYear": "R-FR",
+      "classYear": "R-SO",
       "handedness": "L/R",
       "jersey": "15",
       "hometown": "Franklin, Tenn.",
       "highSchool": "Lipscomb Academy",
       "previousSchool": "Wake Forest",
       "hometownHighSchool": "Franklin, Tenn. / Lipscomb Academy",
-      "profileUrl": "https://goxavier.com/sports/baseball/roster/alex-junghans/12754",
-      "imageUrl": "https://goxavier.com/images/2025/10/15/Junghans_A_000002.jpg",
+      "profileUrl": "https://goxavier.com/sports/baseball/roster/alex-junghans/13122",
+      "imageUrl": "https://goxavier.com/images/2026/10/14/Junghans_A_0002.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "12754",
+      "rosterBioId": "13122",
       "sources": [
-        "Xavier Athletics roster",
-        "Xavier cumulative stats"
+        "Xavier Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "12754",
-        "name": "Alex Junghans",
-        "normalizedName": "alex junghans",
-        "jersey": "15",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/alex-junghans/12754",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Junghans_A_000002.jpg",
-        "gamesPlayed": 9,
-        "gamesStarted": 2,
-        "battingAverage": 0,
-        "onBasePercentage": 0,
-        "sluggingPercentage": 0,
-        "ops": 0,
-        "atBats": 10,
-        "runs": 1,
-        "hits": 0,
-        "doubles": 0,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 0,
-        "totalBases": 0,
-        "walks": 0,
-        "hitByPitch": 0,
-        "strikeouts": 5,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 1,
-        "assists": 0,
-        "errors": 1,
-        "plateAppearances": 10,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "12754",
-        "name": "Alex Junghans",
-        "normalizedName": "alex junghans",
-        "jersey": "15",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/alex-junghans/12754",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Junghans_A_000002.jpg",
-        "gamesPlayed": 5,
-        "gamesStarted": 2,
-        "putouts": 1,
-        "assists": 5,
-        "errors": 1,
-        "fieldingPercentage": 0.857,
-        "doublePlays": 1,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 7
-      },
+      "fieldingStats": null,
       "evaluation": {
         "score": 0,
         "fit": {
@@ -2007,22 +1429,22 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         },
         "summary": "Alex Junghans gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .000",
-          "OBP .000",
-          "SLG .000"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -2037,315 +1459,168 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "R-FR / L/R",
+        "metaLine": "R-SO / L/R",
         "detailBadges": [
           "IF",
-          "R-FR",
+          "R-SO",
           "L/R",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats"
+        "sourceSummary": "Xavier Athletics roster"
       }
     },
     {
-      "id": "xavier-12736",
+      "id": "xavier-13129",
       "schoolSlug": "xavier",
       "school": "Xavier",
       "schoolLongName": "Xavier University",
       "name": "Eddie Peters",
       "normalizedName": "eddie peters",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "IF",
       "positionLong": "Infielder",
-      "classYear": "SO",
+      "classYear": "JR",
       "handedness": "R/R",
       "jersey": "16",
       "hometown": "La Crescent, Minn.",
       "highSchool": "Aquinas",
       "previousSchool": "",
       "hometownHighSchool": "La Crescent, Minn. / Aquinas",
-      "profileUrl": "https://goxavier.com/sports/baseball/roster/eddie-peters/12736",
-      "imageUrl": "https://goxavier.com/images/2025/10/15/Peters_E_000002.jpg",
+      "profileUrl": "https://goxavier.com/sports/baseball/roster/eddie-peters/13129",
+      "imageUrl": "https://goxavier.com/images/2026/10/14/Peters_E_0002.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "12736",
+      "rosterBioId": "13129",
       "sources": [
-        "Xavier Athletics roster",
-        "Xavier cumulative stats"
+        "Xavier Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "12736",
-        "name": "Eddie Peters",
-        "normalizedName": "eddie peters",
-        "jersey": "16",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/eddie-peters/12736",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Peters_E_000002.jpg",
-        "gamesPlayed": 17,
-        "gamesStarted": 17,
-        "battingAverage": 0.308,
-        "onBasePercentage": 0.366,
-        "sluggingPercentage": 0.462,
-        "ops": 0.828,
-        "atBats": 65,
-        "runs": 9,
-        "hits": 20,
-        "doubles": 7,
-        "triples": 0,
-        "homeRuns": 1,
-        "runsBattedIn": 4,
-        "totalBases": 30,
-        "walks": 3,
-        "hitByPitch": 3,
-        "strikeouts": 16,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 1,
-        "stolenBasesAttempts": 2,
-        "putouts": 23,
-        "assists": 0,
-        "errors": 10,
-        "plateAppearances": 74,
-        "caughtStealing": 1,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "12736",
-        "name": "Eddie Peters",
-        "normalizedName": "eddie peters",
-        "jersey": "16",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/eddie-peters/12736",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Peters_E_000002.jpg",
-        "gamesPlayed": 16,
-        "gamesStarted": 16,
-        "putouts": 23,
-        "assists": 45,
-        "errors": 10,
-        "fieldingPercentage": 0.872,
-        "doublePlays": 7,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 78
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 35,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 47.77777777777776,
-          "Power": 37.36842105263159,
-          "Contact": 54.99999999999999,
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
           "Discipline": 0,
-          "Speed": 3.3333333333333335
+          "Speed": 0
         },
         "summary": "Eddie Peters gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .308",
-          "OBP .366",
-          "SLG .462"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".308"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".366"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".462"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "1"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "4"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "1"
+            "value": "0"
           }
         ],
-        "metaLine": "SO / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "IF",
-          "SO",
+          "JR",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats"
+        "sourceSummary": "Xavier Athletics roster"
       }
     },
     {
-      "id": "xavier-12757",
+      "id": "xavier-13109",
       "schoolSlug": "xavier",
       "school": "Xavier",
       "schoolLongName": "Xavier University",
       "name": "Joey Arend",
       "normalizedName": "joey arend",
-      "compositeRole": "Two-Way",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "OF",
       "positionLong": "Outfielder",
-      "classYear": "FR",
+      "classYear": "SO",
       "handedness": "L/L",
       "jersey": "17",
       "hometown": "St. Charles, Ill.",
       "highSchool": "St. Charles East",
       "previousSchool": "",
       "hometownHighSchool": "St. Charles, Ill. / St. Charles East",
-      "profileUrl": "https://goxavier.com/sports/baseball/roster/joey-arend/12757",
-      "imageUrl": "https://goxavier.com/images/2025/10/15/Arend_J_000002.jpg",
+      "profileUrl": "https://goxavier.com/sports/baseball/roster/joey-arend/13109",
+      "imageUrl": "https://goxavier.com/images/2026/10/14/Arend_J_0002.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "12757",
+      "rosterBioId": "13109",
       "sources": [
-        "Xavier Athletics roster",
-        "Xavier cumulative stats"
+        "Xavier Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "12757",
-        "name": "Joey Arend",
-        "normalizedName": "joey arend",
-        "jersey": "17",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/joey-arend/12757",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Arend_J_000002.jpg",
-        "gamesPlayed": 20,
-        "gamesStarted": 1,
-        "battingAverage": 0,
-        "onBasePercentage": 0.429,
-        "sluggingPercentage": 0,
-        "ops": 0.429,
-        "atBats": 4,
-        "runs": 1,
-        "hits": 0,
-        "doubles": 0,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 0,
-        "totalBases": 0,
-        "walks": 1,
-        "hitByPitch": 2,
-        "strikeouts": 0,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 2,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 7,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": {
-        "rosterBioId": "12757",
-        "name": "Joey Arend",
-        "normalizedName": "joey arend",
-        "jersey": "17",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/joey-arend/12757",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Arend_J_000002.jpg",
-        "gamesPlayed": 15,
-        "gamesStarted": 1,
-        "appearances": 15,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 7.62,
-        "whip": 1.91,
-        "wins": 1,
-        "losses": 1,
-        "saves": 1,
-        "shutouts": 0,
-        "inningsPitched": 28.333333333333332,
-        "inningsPitchedDisplay": "28.1",
-        "hitsAllowed": 40,
-        "runsAllowed": 26,
-        "earnedRunsAllowed": 24,
-        "walksAllowed": 14,
-        "strikeouts": 27,
-        "doublesAllowed": 4,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 121,
-        "wildPitches": 2,
-        "hitBatters": 6,
-        "balks": 0,
-        "opponentsBattingAverage": 0.331,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "12757",
-        "name": "Joey Arend",
-        "normalizedName": "joey arend",
-        "jersey": "17",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/joey-arend/12757",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Arend_J_000002.jpg",
-        "gamesPlayed": 5,
-        "gamesStarted": 1,
-        "putouts": 2,
-        "assists": 3,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 1,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 5
-      },
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 39,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 82.77777777777776,
+          "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 88.88888888888889,
+          "Discipline": 0,
           "Speed": 0
         },
-        "summary": "Joey Arend profiles as a OF piece who gets on base at a high clip and controls at-bats.",
+        "summary": "Joey Arend gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .000",
-          "OBP .429",
-          "SLG .000"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".429"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -2360,163 +1635,106 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "FR / L/L",
+        "metaLine": "SO / L/L",
         "detailBadges": [
           "OF",
-          "FR",
+          "SO",
           "L/L",
-          "Two-Way"
+          "Rostered"
         ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats"
+        "sourceSummary": "Xavier Athletics roster"
       }
     },
     {
-      "id": "xavier-12751",
+      "id": "xavier-13116",
       "schoolSlug": "xavier",
       "school": "Xavier",
       "schoolLongName": "Xavier University",
       "name": "Jonathan Fitz",
       "normalizedName": "jonathan fitz",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "C",
       "positionLong": "Catcher",
-      "classYear": "JR",
+      "classYear": "SR",
       "handedness": "R/R",
       "jersey": "18",
       "hometown": "Edgewood, Ky.",
       "highSchool": "Covington Catholic",
       "previousSchool": "San Diego",
       "hometownHighSchool": "Edgewood, Ky. / Covington Catholic",
-      "profileUrl": "https://goxavier.com/sports/baseball/roster/jonathan-fitz/12751",
-      "imageUrl": "https://goxavier.com/images/2025/10/15/Fitz_J_000002.jpg",
+      "profileUrl": "https://goxavier.com/sports/baseball/roster/jonathan-fitz/13116",
+      "imageUrl": "https://goxavier.com/images/2026/10/14/Fitz_J_0002.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "12751",
+      "rosterBioId": "13116",
       "sources": [
-        "Xavier Athletics roster",
-        "Xavier cumulative stats"
+        "Xavier Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "12751",
-        "name": "Jonathan Fitz",
-        "normalizedName": "jonathan fitz",
-        "jersey": "18",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/jonathan-fitz/12751",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Fitz_J_000002.jpg",
-        "gamesPlayed": 53,
-        "gamesStarted": 50,
-        "battingAverage": 0.289,
-        "onBasePercentage": 0.402,
-        "sluggingPercentage": 0.428,
-        "ops": 0.83,
-        "atBats": 187,
-        "runs": 29,
-        "hits": 54,
-        "doubles": 11,
-        "triples": 0,
-        "homeRuns": 5,
-        "runsBattedIn": 34,
-        "totalBases": 80,
-        "walks": 32,
-        "hitByPitch": 4,
-        "strikeouts": 28,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 1,
-        "sacrificeHits": 1,
-        "stolenBases": 2,
-        "stolenBasesAttempts": 2,
-        "putouts": 342,
-        "assists": 0,
-        "errors": 5,
-        "plateAppearances": 228,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "12751",
-        "name": "Jonathan Fitz",
-        "normalizedName": "jonathan fitz",
-        "jersey": "18",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/jonathan-fitz/12751",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Fitz_J_000002.jpg",
-        "gamesPlayed": 50,
-        "gamesStarted": 49,
-        "putouts": 342,
-        "assists": 33,
-        "errors": 5,
-        "fieldingPercentage": 0.987,
-        "doublePlays": 3,
-        "stolenBasesAgainst": 26,
-        "caughtStealingBy": 19,
-        "stolenBasesPercentage": null,
-        "passedBalls": 2,
-        "catchersInterference": 0,
-        "totalChances": 380
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 52,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 67.77777777777779,
-          "Power": 28.421052631578945,
-          "Contact": 43.124999999999986,
-          "Discipline": 100,
-          "Speed": 6.666666666666667
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "summary": "Jonathan Fitz profiles as a C piece who gets on base at a high clip and controls at-bats.",
+        "summary": "Jonathan Fitz gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .289",
-          "OBP .402",
-          "SLG .428"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".289"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".402"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".428"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "5"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "34"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "2"
+            "value": "0"
           }
         ],
-        "metaLine": "JR / R/R",
+        "metaLine": "SR / R/R",
         "detailBadges": [
           "C",
-          "JR",
+          "SR",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats"
+        "sourceSummary": "Xavier Athletics roster"
       }
     },
     {
-      "id": "xavier-12742",
+      "id": "xavier-13117",
       "schoolSlug": "xavier",
       "school": "Xavier",
       "schoolLongName": "Xavier University",
@@ -2526,84 +1744,30 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
       "role": "Pitcher",
       "position": "LHP",
       "positionLong": "Left-Handed Pitcher",
-      "classYear": "SR",
+      "classYear": "GR",
       "handedness": "L/L",
       "jersey": "19",
       "hometown": "Blacklick, Ohio",
       "highSchool": "Gahanna Lincoln",
       "previousSchool": "SIUE",
       "hometownHighSchool": "Blacklick, Ohio / Gahanna Lincoln",
-      "profileUrl": "https://goxavier.com/sports/baseball/roster/garrett-helsel/12742",
-      "imageUrl": "https://goxavier.com/images/2025/10/15/Helsel_G_000002.jpg",
+      "profileUrl": "https://goxavier.com/sports/baseball/roster/garrett-helsel/13117",
+      "imageUrl": "https://goxavier.com/images/2026/10/14/Helsel_G_0002.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "12742",
+      "rosterBioId": "13117",
       "sources": [
-        "Xavier Athletics roster",
-        "Xavier cumulative stats"
+        "Xavier Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "12742",
-        "name": "Garrett Helsel",
-        "normalizedName": "garrett helsel",
-        "jersey": "19",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/garrett-helsel/12742",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Helsel_G_000002.jpg",
-        "gamesPlayed": 24,
-        "gamesStarted": 1,
-        "appearances": 24,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 4.74,
-        "whip": 1.47,
-        "wins": 4,
-        "losses": 2,
-        "saves": 6,
-        "shutouts": 0,
-        "inningsPitched": 43.666666666666664,
-        "inningsPitchedDisplay": "43.2",
-        "hitsAllowed": 47,
-        "runsAllowed": 23,
-        "earnedRunsAllowed": 23,
-        "walksAllowed": 17,
-        "strikeouts": 43,
-        "doublesAllowed": 11,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 8,
-        "opponentsAtBats": 171,
-        "wildPitches": 2,
-        "hitBatters": 5,
-        "balks": 0,
-        "opponentsBattingAverage": 0.275,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "12742",
-        "name": "Garrett Helsel",
-        "normalizedName": "garrett helsel",
-        "jersey": "19",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/garrett-helsel/12742",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Helsel_G_000002.jpg",
-        "gamesPlayed": 12,
-        "gamesStarted": 0,
-        "putouts": 1,
-        "assists": 3,
-        "errors": 1,
-        "fieldingPercentage": 0.8,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 6,
-        "caughtStealingBy": 4,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 5
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 14,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2611,196 +1775,142 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 44.20541290770299,
-          "Command": 30.588235294117656,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Garrett Helsel gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Garrett Helsel looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 4.74",
-          "WHIP 1.47",
-          "K/9 8.9"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.74"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.47"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "8.9"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "3.5"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.65"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "43.7"
+            "value": "0.0"
           }
         ],
-        "metaLine": "SR / L/L",
+        "metaLine": "GR / L/L",
         "detailBadges": [
           "LHP",
-          "SR",
+          "GR",
           "L/L",
           "Pitcher"
         ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats"
+        "sourceSummary": "Xavier Athletics roster"
       }
     },
     {
-      "id": "xavier-12737",
+      "id": "xavier-13150",
       "schoolSlug": "xavier",
       "school": "Xavier",
       "schoolLongName": "Xavier University",
-      "name": "Ryan Piech",
-      "normalizedName": "ryan piech",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right-Handed Pitcher",
-      "classYear": "JR",
+      "name": "Joe Mennella",
+      "normalizedName": "joe mennella",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "IF",
+      "positionLong": "Infielder",
+      "classYear": "SR",
       "handedness": "R/R",
       "jersey": "20",
-      "hometown": "Aurora, Ohio",
-      "highSchool": "Walsh Jesuit",
-      "previousSchool": "",
-      "hometownHighSchool": "Aurora, Ohio / Walsh Jesuit",
-      "profileUrl": "https://goxavier.com/sports/baseball/roster/ryan-piech/12737",
-      "imageUrl": "https://goxavier.com/images/2025/10/15/Piech_R_000002.jpg",
+      "hometown": "Staten Island, N.Y.",
+      "highSchool": "St. Peter's",
+      "previousSchool": "Hofstra/Wagner",
+      "hometownHighSchool": "Staten Island, N.Y. / St. Peter's",
+      "profileUrl": "https://goxavier.com/sports/baseball/roster/joe-mennella/13150",
+      "imageUrl": "https://goxavier.com/images/2026/10/14/Mennella_J_0002.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "12737",
+      "rosterBioId": "13150",
       "sources": [
-        "Xavier Athletics roster",
-        "Xavier cumulative stats"
+        "Xavier Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "12737",
-        "name": "Ryan Piech",
-        "normalizedName": "ryan piech",
-        "jersey": "20",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/ryan-piech/12737",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Piech_R_000002.jpg",
-        "gamesPlayed": 14,
-        "gamesStarted": 14,
-        "appearances": 14,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 3.18,
-        "whip": 1.14,
-        "wins": 8,
-        "losses": 3,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 76.33333333333333,
-        "inningsPitchedDisplay": "76.1",
-        "hitsAllowed": 56,
-        "runsAllowed": 28,
-        "earnedRunsAllowed": 27,
-        "walksAllowed": 31,
-        "strikeouts": 98,
-        "doublesAllowed": 15,
-        "triplesAllowed": 2,
-        "homeRunsAllowed": 6,
-        "opponentsAtBats": 279,
-        "wildPitches": 2,
-        "hitBatters": 5,
-        "balks": 1,
-        "opponentsBattingAverage": 0.201,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "12737",
-        "name": "Ryan Piech",
-        "normalizedName": "ryan piech",
-        "jersey": "20",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/ryan-piech/12737",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Piech_R_000002.jpg",
-        "gamesPlayed": 9,
-        "gamesStarted": 9,
-        "putouts": 2,
-        "assists": 5,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 6,
-        "caughtStealingBy": 5,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 7
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 21,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 68.67804684398571,
-          "Command": 43.225806451612904,
-          "Damage suppression": 0
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "summary": "Ryan Piech looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
+        "summary": "Joe Mennella gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 3.18",
-          "WHIP 1.14",
-          "K/9 11.6"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
-            "label": "ERA",
-            "value": "3.18"
+            "label": "AVG",
+            "value": "--"
           },
           {
-            "label": "WHIP",
-            "value": "1.14"
+            "label": "OBP",
+            "value": "--"
           },
           {
-            "label": "K/9",
-            "value": "11.6"
+            "label": "SLG",
+            "value": "--"
           },
           {
-            "label": "BB/9",
-            "value": "3.7"
+            "label": "HR",
+            "value": "0"
           },
           {
-            "label": "HR/9",
-            "value": "0.71"
+            "label": "RBI",
+            "value": "0"
           },
           {
-            "label": "IP",
-            "value": "76.3"
+            "label": "SB",
+            "value": "0"
           }
         ],
-        "metaLine": "JR / R/R",
+        "metaLine": "SR / R/R",
         "detailBadges": [
-          "RHP",
-          "JR",
+          "IF",
+          "SR",
           "R/R",
-          "Pitcher"
+          "Rostered"
         ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats"
+        "sourceSummary": "Xavier Athletics roster"
       }
     },
     {
-      "id": "xavier-12730",
+      "id": "xavier-13120",
       "schoolSlug": "xavier",
       "school": "Xavier",
       "schoolLongName": "Xavier University",
@@ -2810,22 +1920,22 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Right-Handed Pitcher",
-      "classYear": "JR",
+      "classYear": "SR",
       "handedness": "R/R",
       "jersey": "21",
       "hometown": "Mokena, Ill.",
       "highSchool": "Providence Catholic",
-      "previousSchool": "",
+      "previousSchool": "Ohio State",
       "hometownHighSchool": "Mokena, Ill. / Providence Catholic",
-      "profileUrl": "https://goxavier.com/sports/baseball/roster/ryan-hussey/12730",
-      "imageUrl": "https://goxavier.com/images/2025/10/15/Hussey_R_000002.jpg",
+      "profileUrl": "https://goxavier.com/sports/baseball/roster/ryan-hussey/13120",
+      "imageUrl": "https://goxavier.com/images/2026/10/14/Hussey_R_0002.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "12730",
+      "rosterBioId": "13120",
       "sources": [
         "Xavier Athletics roster"
       ],
@@ -2877,10 +1987,10 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "JR / R/R",
+        "metaLine": "SR / R/R",
         "detailBadges": [
           "RHP",
-          "JR",
+          "SR",
           "R/R",
           "Pitcher"
         ],
@@ -2888,7 +1998,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
       }
     },
     {
-      "id": "xavier-12729",
+      "id": "xavier-13119",
       "schoolSlug": "xavier",
       "school": "Xavier",
       "schoolLongName": "Xavier University",
@@ -2898,82 +2008,28 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Right-Handed Pitcher",
-      "classYear": "JR",
+      "classYear": "SR",
       "handedness": "R/R",
       "jersey": "22",
       "hometown": "Zionsville, Ind.",
       "highSchool": "University",
       "previousSchool": "",
       "hometownHighSchool": "Zionsville, Ind. / University",
-      "profileUrl": "https://goxavier.com/sports/baseball/roster/jake-hooker/12729",
-      "imageUrl": "https://goxavier.com/images/2025/10/15/Hooker_J_000002.jpg",
+      "profileUrl": "https://goxavier.com/sports/baseball/roster/jake-hooker/13119",
+      "imageUrl": "https://goxavier.com/images/2026/10/14/Hooker_J_0002.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "12729",
+      "rosterBioId": "13119",
       "sources": [
-        "Xavier Athletics roster",
-        "Xavier cumulative stats"
+        "Xavier Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "12729",
-        "name": "Jake Hooker",
-        "normalizedName": "jake hooker",
-        "jersey": "22",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/jake-hooker/12729",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Hooker_J_000002.jpg",
-        "gamesPlayed": 20,
-        "gamesStarted": 0,
-        "appearances": 20,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 11.79,
-        "whip": 2.41,
-        "wins": 0,
-        "losses": 1,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 23.666666666666668,
-        "inningsPitchedDisplay": "23.2",
-        "hitsAllowed": 40,
-        "runsAllowed": 33,
-        "earnedRunsAllowed": 31,
-        "walksAllowed": 17,
-        "strikeouts": 10,
-        "doublesAllowed": 6,
-        "triplesAllowed": 3,
-        "homeRunsAllowed": 6,
-        "opponentsAtBats": 105,
-        "wildPitches": 2,
-        "hitBatters": 6,
-        "balks": 2,
-        "opponentsBattingAverage": 0.381,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "12729",
-        "name": "Jake Hooker",
-        "normalizedName": "jake hooker",
-        "jersey": "22",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/jake-hooker/12729",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Hooker_J_000002.jpg",
-        "gamesPlayed": 6,
-        "gamesStarted": 0,
-        "putouts": 0,
-        "assists": 7,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 1,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 7
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
         "score": 0,
         "fit": {
@@ -2987,50 +2043,50 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Jake Hooker gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Jake Hooker looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 11.79",
-          "WHIP 2.41",
-          "K/9 3.8"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "11.79"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "2.41"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "3.8"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "6.5"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "2.28"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "23.7"
+            "value": "0.0"
           }
         ],
-        "metaLine": "JR / R/R",
+        "metaLine": "SR / R/R",
         "detailBadges": [
           "RHP",
-          "JR",
+          "SR",
           "R/R",
           "Pitcher"
         ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats"
+        "sourceSummary": "Xavier Athletics roster"
       }
     },
     {
-      "id": "xavier-12734",
+      "id": "xavier-13125",
       "schoolSlug": "xavier",
       "school": "Xavier",
       "schoolLongName": "Xavier University",
@@ -3040,164 +2096,22 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Right-Handed Pitcher",
-      "classYear": "JR",
+      "classYear": "SR",
       "handedness": "R/R",
       "jersey": "23",
       "hometown": "Mason, Ohio",
       "highSchool": "Mason",
       "previousSchool": "Michigan",
       "hometownHighSchool": "Mason, Ohio / Mason",
-      "profileUrl": "https://goxavier.com/sports/baseball/roster/michael-murphy/12734",
-      "imageUrl": "https://goxavier.com/images/2025/10/15/Murphy_M_000002.jpg",
+      "profileUrl": "https://goxavier.com/sports/baseball/roster/michael-murphy/13125",
+      "imageUrl": "https://goxavier.com/images/2026/10/14/Murphy_M_0002.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "12734",
-      "sources": [
-        "Xavier Athletics roster",
-        "Xavier cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "12734",
-        "name": "Michael Murphy",
-        "normalizedName": "michael murphy",
-        "jersey": "23",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/michael-murphy/12734",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Murphy_M_000002.jpg",
-        "gamesPlayed": 21,
-        "gamesStarted": 2,
-        "appearances": 21,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 5.04,
-        "whip": 1.41,
-        "wins": 3,
-        "losses": 2,
-        "saves": 1,
-        "shutouts": 0,
-        "inningsPitched": 55.333333333333336,
-        "inningsPitchedDisplay": "55.1",
-        "hitsAllowed": 60,
-        "runsAllowed": 33,
-        "earnedRunsAllowed": 31,
-        "walksAllowed": 18,
-        "strikeouts": 47,
-        "doublesAllowed": 15,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 9,
-        "opponentsAtBats": 207,
-        "wildPitches": 2,
-        "hitBatters": 11,
-        "balks": 2,
-        "opponentsBattingAverage": 0.29,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "12734",
-        "name": "Michael Murphy",
-        "normalizedName": "michael murphy",
-        "jersey": "23",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/michael-murphy/12734",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Murphy_M_000002.jpg",
-        "gamesPlayed": 11,
-        "gamesStarted": 2,
-        "putouts": 2,
-        "assists": 6,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 4,
-        "caughtStealingBy": 2,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 8
-      },
-      "evaluation": {
-        "score": 12,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 33.13253012048193,
-          "Command": 32.22222222222222,
-          "Damage suppression": 0
-        },
-        "summary": "Michael Murphy looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA 5.04",
-          "WHIP 1.41",
-          "K/9 7.6"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.04"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.41"
-          },
-          {
-            "label": "K/9",
-            "value": "7.6"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.9"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.46"
-          },
-          {
-            "label": "IP",
-            "value": "55.3"
-          }
-        ],
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats"
-      }
-    },
-    {
-      "id": "xavier-12748",
-      "schoolSlug": "xavier",
-      "school": "Xavier",
-      "schoolLongName": "Xavier University",
-      "name": "Cooper Robinson",
-      "normalizedName": "cooper robinson",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right-Handed Pitcher",
-      "classYear": "GR",
-      "handedness": "R/R",
-      "jersey": "24",
-      "hometown": "Folsom, Calif.",
-      "highSchool": "Folsom",
-      "previousSchool": "UCI/Kentucky",
-      "hometownHighSchool": "Folsom, Calif. / Folsom",
-      "profileUrl": "https://goxavier.com/sports/baseball/roster/cooper-robinson/12748",
-      "imageUrl": "https://goxavier.com/images/2025/10/15/Robinson_C_000002.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "12748",
+      "rosterBioId": "13125",
       "sources": [
         "Xavier Athletics roster"
       ],
@@ -3217,7 +2131,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Cooper Robinson looks like a RHP option who throws enough strikes.",
+        "summary": "Michael Murphy looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -3249,10 +2163,10 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "GR / R/R",
+        "metaLine": "SR / R/R",
         "detailBadges": [
           "RHP",
-          "GR",
+          "SR",
           "R/R",
           "Pitcher"
         ],
@@ -3260,94 +2174,40 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
       }
     },
     {
-      "id": "xavier-12749",
+      "id": "xavier-13144",
       "schoolSlug": "xavier",
       "school": "Xavier",
       "schoolLongName": "Xavier University",
-      "name": "Evan Vasiliou",
-      "normalizedName": "evan vasiliou",
+      "name": "Zach Kwasny",
+      "normalizedName": "zach kwasny",
       "compositeRole": "Pitcher",
       "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "Left-Handed Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
       "classYear": "SR",
-      "handedness": "R/L",
-      "jersey": "25",
-      "hometown": "El Cajon, Calif.",
-      "highSchool": "Grossmont",
-      "previousSchool": "UC Irvine/Utah Tech/UNLV",
-      "hometownHighSchool": "El Cajon, Calif. / Grossmont",
-      "profileUrl": "https://goxavier.com/sports/baseball/roster/evan-vasiliou/12749",
-      "imageUrl": "https://goxavier.com/images/2025/10/15/Vasiliou_E_000002.jpg",
+      "handedness": "R/R",
+      "jersey": "24",
+      "hometown": "Mokena, Ill.",
+      "highSchool": "Lincoln-Way East",
+      "previousSchool": "Ball State",
+      "hometownHighSchool": "Mokena, Ill. / Lincoln-Way East",
+      "profileUrl": "https://goxavier.com/sports/baseball/roster/zach-kwasny/13144",
+      "imageUrl": "https://goxavier.com/images/2026/10/14/Kwasny_Z_0002.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "12749",
+      "rosterBioId": "13144",
       "sources": [
-        "Xavier Athletics roster",
-        "Xavier cumulative stats"
+        "Xavier Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "12749",
-        "name": "Evan Vasiliou",
-        "normalizedName": "evan vasiliou",
-        "jersey": "25",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/evan-vasiliou/12749",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Vasiliou_E_000002.jpg",
-        "gamesPlayed": 14,
-        "gamesStarted": 6,
-        "appearances": 14,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 5.4,
-        "whip": 1.56,
-        "wins": 2,
-        "losses": 2,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 46.666666666666664,
-        "inningsPitchedDisplay": "46.2",
-        "hitsAllowed": 58,
-        "runsAllowed": 30,
-        "earnedRunsAllowed": 28,
-        "walksAllowed": 15,
-        "strikeouts": 27,
-        "doublesAllowed": 9,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 8,
-        "opponentsAtBats": 185,
-        "wildPitches": 2,
-        "hitBatters": 3,
-        "balks": 0,
-        "opponentsBattingAverage": 0.314,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "12749",
-        "name": "Evan Vasiliou",
-        "normalizedName": "evan vasiliou",
-        "jersey": "25",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/evan-vasiliou/12749",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Vasiliou_E_000002.jpg",
-        "gamesPlayed": 8,
-        "gamesStarted": 4,
-        "putouts": 3,
-        "assists": 13,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 1,
-        "stolenBasesAgainst": 1,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 16
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 5,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3355,54 +2215,142 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 10.974025974025976,
-          "Command": 16,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Evan Vasiliou looks like a LHP option who throws enough strikes.",
+        "summary": "Zach Kwasny looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 5.40",
-          "WHIP 1.56",
-          "K/9 5.2"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.40"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.56"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "5.2"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "2.9"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.54"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "46.7"
+            "value": "0.0"
           }
         ],
-        "metaLine": "SR / R/L",
+        "metaLine": "SR / R/R",
         "detailBadges": [
-          "LHP",
+          "RHP",
           "SR",
-          "R/L",
+          "R/R",
           "Pitcher"
         ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats"
+        "sourceSummary": "Xavier Athletics roster"
       }
     },
     {
-      "id": "xavier-12747",
+      "id": "xavier-13137",
+      "schoolSlug": "xavier",
+      "school": "Xavier",
+      "schoolLongName": "Xavier University",
+      "name": "Braden Curry",
+      "normalizedName": "braden curry",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "JR",
+      "handedness": "R/R",
+      "jersey": "25",
+      "hometown": "Whitehouse, Ohio",
+      "highSchool": "Anthony Wayne",
+      "previousSchool": "Toledo",
+      "hometownHighSchool": "Whitehouse, Ohio / Anthony Wayne",
+      "profileUrl": "https://goxavier.com/sports/baseball/roster/braden-curry/13137",
+      "imageUrl": "https://goxavier.com/images/2026/10/14/Curry_B_0002.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "13137",
+      "sources": [
+        "Xavier Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Braden Curry looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Xavier Athletics roster"
+      }
+    },
+    {
+      "id": "xavier-13130",
       "schoolSlug": "xavier",
       "school": "Xavier",
       "schoolLongName": "Xavier University",
@@ -3412,306 +2360,22 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Right-Handed Pitcher",
-      "classYear": "JR",
+      "classYear": "SR",
       "handedness": "R/R",
       "jersey": "26",
       "hometown": "Newark, Ohio",
       "highSchool": "Newark",
       "previousSchool": "Bowling Green",
       "hometownHighSchool": "Newark, Ohio / Newark",
-      "profileUrl": "https://goxavier.com/sports/baseball/roster/owen-poole/12747",
-      "imageUrl": "https://goxavier.com/images/2025/10/15/Poole_O_000002.jpg",
+      "profileUrl": "https://goxavier.com/sports/baseball/roster/owen-poole/13130",
+      "imageUrl": "https://goxavier.com/images/2026/10/14/Poole_O_0002.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "12747",
-      "sources": [
-        "Xavier Athletics roster",
-        "Xavier cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "12747",
-        "name": "Owen Poole",
-        "normalizedName": "owen poole",
-        "jersey": "26",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/owen-poole/12747",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Poole_O_000002.jpg",
-        "gamesPlayed": 24,
-        "gamesStarted": 3,
-        "appearances": 24,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 6.45,
-        "whip": 1.67,
-        "wins": 1,
-        "losses": 5,
-        "saves": 4,
-        "shutouts": 0,
-        "inningsPitched": 37.666666666666664,
-        "inningsPitchedDisplay": "37.2",
-        "hitsAllowed": 42,
-        "runsAllowed": 31,
-        "earnedRunsAllowed": 27,
-        "walksAllowed": 21,
-        "strikeouts": 36,
-        "doublesAllowed": 6,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 3,
-        "opponentsAtBats": 148,
-        "wildPitches": 4,
-        "hitBatters": 10,
-        "balks": 0,
-        "opponentsBattingAverage": 0.284,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "12747",
-        "name": "Owen Poole",
-        "normalizedName": "owen poole",
-        "jersey": "26",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/owen-poole/12747",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Poole_O_000002.jpg",
-        "gamesPlayed": 5,
-        "gamesStarted": 0,
-        "putouts": 2,
-        "assists": 2,
-        "errors": 1,
-        "fieldingPercentage": 0.8,
-        "doublePlays": 2,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 5
-      },
-      "evaluation": {
-        "score": 11,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 41.8342719227675,
-          "Command": 14.285714285714285,
-          "Damage suppression": 0
-        },
-        "summary": "Owen Poole gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 6.45",
-          "WHIP 1.67",
-          "K/9 8.6"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "6.45"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.67"
-          },
-          {
-            "label": "K/9",
-            "value": "8.6"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.72"
-          },
-          {
-            "label": "IP",
-            "value": "37.7"
-          }
-        ],
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats"
-      }
-    },
-    {
-      "id": "xavier-12744",
-      "schoolSlug": "xavier",
-      "school": "Xavier",
-      "schoolLongName": "Xavier University",
-      "name": "Sam Hoeft",
-      "normalizedName": "sam hoeft",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right-Handed Pitcher",
-      "classYear": "FR",
-      "handedness": "R/R",
-      "jersey": "27",
-      "hometown": "Port Washington, Wis.",
-      "highSchool": "Port Washington",
-      "previousSchool": "",
-      "hometownHighSchool": "Port Washington, Wis. / Port Washington",
-      "profileUrl": "https://goxavier.com/sports/baseball/roster/sam-hoeft/12744",
-      "imageUrl": "https://goxavier.com/images/2025/10/15/Hoeft_S_000002.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "12744",
-      "sources": [
-        "Xavier Athletics roster",
-        "Xavier cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "12744",
-        "name": "Sam Hoeft",
-        "normalizedName": "sam hoeft",
-        "jersey": "27",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/sam-hoeft/12744",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Hoeft_S_000002.jpg",
-        "gamesPlayed": 7,
-        "gamesStarted": 0,
-        "appearances": 7,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 25.2,
-        "whip": 3.4,
-        "wins": 1,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 5,
-        "inningsPitchedDisplay": "5.0",
-        "hitsAllowed": 12,
-        "runsAllowed": 16,
-        "earnedRunsAllowed": 14,
-        "walksAllowed": 5,
-        "strikeouts": 4,
-        "doublesAllowed": 4,
-        "triplesAllowed": 2,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 27,
-        "wildPitches": 2,
-        "hitBatters": 2,
-        "balks": 0,
-        "opponentsBattingAverage": 0.444,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "12744",
-        "name": "Sam Hoeft",
-        "normalizedName": "sam hoeft",
-        "jersey": "27",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/sam-hoeft/12744",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Hoeft_S_000002.jpg",
-        "gamesPlayed": 2,
-        "gamesStarted": 0,
-        "putouts": 0,
-        "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 0,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 2,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 0
-      },
-      "evaluation": {
-        "score": 6,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 29.090909090909093,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Sam Hoeft gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 25.20",
-          "WHIP 3.40",
-          "K/9 7.2"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "25.20"
-          },
-          {
-            "label": "WHIP",
-            "value": "3.40"
-          },
-          {
-            "label": "K/9",
-            "value": "7.2"
-          },
-          {
-            "label": "BB/9",
-            "value": "9.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "5.0"
-          }
-        ],
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats"
-      }
-    },
-    {
-      "id": "xavier-12740",
-      "schoolSlug": "xavier",
-      "school": "Xavier",
-      "schoolLongName": "Xavier University",
-      "name": "Lincoln Causero",
-      "normalizedName": "lincoln causero",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right-Handed Pitcher",
-      "classYear": "FR",
-      "handedness": "R/R",
-      "jersey": "28",
-      "hometown": "Arlington Heights, Ill.",
-      "highSchool": "Hersey",
-      "previousSchool": "",
-      "hometownHighSchool": "Arlington Heights, Ill. / Hersey",
-      "profileUrl": "https://goxavier.com/sports/baseball/roster/lincoln-causero/12740",
-      "imageUrl": "https://goxavier.com/images/2025/10/15/Causero_L_000002.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "12740",
+      "rosterBioId": "13130",
       "sources": [
         "Xavier Athletics roster"
       ],
@@ -3731,7 +2395,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Lincoln Causero looks like a RHP option who throws enough strikes.",
+        "summary": "Owen Poole looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -3763,10 +2427,10 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "FR / R/R",
+        "metaLine": "SR / R/R",
         "detailBadges": [
           "RHP",
-          "FR",
+          "SR",
           "R/R",
           "Pitcher"
         ],
@@ -3774,95 +2438,214 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
       }
     },
     {
-      "id": "xavier-12752",
+      "id": "xavier-13118",
       "schoolSlug": "xavier",
       "school": "Xavier",
       "schoolLongName": "Xavier University",
-      "name": "Mitchell Morton",
-      "normalizedName": "mitchell morton",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "C",
-      "positionLong": "Catcher",
-      "classYear": "FR",
+      "name": "Sam Hoeft",
+      "normalizedName": "sam hoeft",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "SO",
       "handedness": "R/R",
-      "jersey": "29",
-      "hometown": "Plano, Texas",
-      "highSchool": "Plano West",
+      "jersey": "27",
+      "hometown": "Port Washington, Wis.",
+      "highSchool": "Port Washington",
       "previousSchool": "",
-      "hometownHighSchool": "Plano, Texas / Plano West",
-      "profileUrl": "https://goxavier.com/sports/baseball/roster/mitchell-morton/12752",
-      "imageUrl": "https://goxavier.com/images/2025/10/15/Morton_M_000002.jpg",
+      "hometownHighSchool": "Port Washington, Wis. / Port Washington",
+      "profileUrl": "https://goxavier.com/sports/baseball/roster/sam-hoeft/13118",
+      "imageUrl": "https://goxavier.com/images/2026/10/14/Hoeft_S_0002.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "12752",
+      "rosterBioId": "13118",
       "sources": [
-        "Xavier Athletics roster",
-        "Xavier cumulative stats"
+        "Xavier Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "12752",
-        "name": "Mitchell Morton",
-        "normalizedName": "mitchell morton",
-        "jersey": "29",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/mitchell-morton/12752",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Morton_M_000002.jpg",
-        "gamesPlayed": 24,
-        "gamesStarted": 6,
-        "battingAverage": 0.174,
-        "onBasePercentage": 0.208,
-        "sluggingPercentage": 0.217,
-        "ops": 0.425,
-        "atBats": 23,
-        "runs": 2,
-        "hits": 4,
-        "doubles": 1,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 1,
-        "totalBases": 5,
-        "walks": 1,
-        "hitByPitch": 0,
-        "strikeouts": 11,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 61,
-        "assists": 0,
-        "errors": 2,
-        "plateAppearances": 24,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "12752",
-        "name": "Mitchell Morton",
-        "normalizedName": "mitchell morton",
-        "jersey": "29",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/mitchell-morton/12752",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Morton_M_000002.jpg",
-        "gamesPlayed": 16,
-        "gamesStarted": 6,
-        "putouts": 61,
-        "assists": 4,
-        "errors": 2,
-        "fieldingPercentage": 0.97,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 3,
-        "caughtStealingBy": 3,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 67
-      },
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Sam Hoeft looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "RHP",
+          "SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Xavier Athletics roster"
+      }
+    },
+    {
+      "id": "xavier-13147",
+      "schoolSlug": "xavier",
+      "school": "Xavier",
+      "schoolLongName": "Xavier University",
+      "name": "Titus Lotz",
+      "normalizedName": "titus lotz",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "Left-Handed Pitcher",
+      "classYear": "SR",
+      "handedness": "L/L",
+      "jersey": "28",
+      "hometown": "Washington Court House, Ohio",
+      "highSchool": "Washington",
+      "previousSchool": "Bowling Green",
+      "hometownHighSchool": "Washington Court House, Ohio / Washington",
+      "profileUrl": "https://goxavier.com/sports/baseball/roster/titus-lotz/13147",
+      "imageUrl": "https://goxavier.com/images/2026/10/14/Lotz_T_0002.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "13147",
+      "sources": [
+        "Xavier Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Titus Lotz looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "SR / L/L",
+        "detailBadges": [
+          "LHP",
+          "SR",
+          "L/L",
+          "Pitcher"
+        ],
+        "sourceSummary": "Xavier Athletics roster"
+      }
+    },
+    {
+      "id": "xavier-13123",
+      "schoolSlug": "xavier",
+      "school": "Xavier",
+      "schoolLongName": "Xavier University",
+      "name": "Mitchell Morton",
+      "normalizedName": "mitchell morton",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "C",
+      "positionLong": "Catcher",
+      "classYear": "SO",
+      "handedness": "R/R",
+      "jersey": "29",
+      "hometown": "Plano, Texas",
+      "highSchool": "Plano West",
+      "previousSchool": "",
+      "hometownHighSchool": "Plano, Texas / Plano West",
+      "profileUrl": "https://goxavier.com/sports/baseball/roster/mitchell-morton/13123",
+      "imageUrl": "https://goxavier.com/images/2026/10/14/Morton_M_0002.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "13123",
+      "sources": [
+        "Xavier Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
         "score": 0,
         "fit": {
@@ -3877,378 +2660,6 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
           "Speed": 0
         },
         "summary": "Mitchell Morton gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .174",
-          "OBP .208",
-          "SLG .217"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".174"
-          },
-          {
-            "label": "OBP",
-            "value": ".208"
-          },
-          {
-            "label": "SLG",
-            "value": ".217"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "1"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "C",
-          "FR",
-          "R/R",
-          "Hitter"
-        ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats"
-      }
-    },
-    {
-      "id": "xavier-12723",
-      "schoolSlug": "xavier",
-      "school": "Xavier",
-      "schoolLongName": "Xavier University",
-      "name": "Ashton Chronister",
-      "normalizedName": "ashton chronister",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "Left-Handed Pitcher",
-      "classYear": "JR",
-      "handedness": "L/L",
-      "jersey": "30",
-      "hometown": "Rogers, Ark.",
-      "highSchool": "Rogers",
-      "previousSchool": "",
-      "hometownHighSchool": "Rogers, Ark. / Rogers",
-      "profileUrl": "https://goxavier.com/sports/baseball/roster/ashton-chronister/12723",
-      "imageUrl": "https://goxavier.com/images/2025/10/15/Chronister_A_000002.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "12723",
-      "sources": [
-        "Xavier Athletics roster",
-        "Xavier cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "12723",
-        "name": "Ashton Chronister",
-        "normalizedName": "ashton chronister",
-        "jersey": "30",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/ashton-chronister/12723",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Chronister_A_000002.jpg",
-        "gamesPlayed": 17,
-        "gamesStarted": 13,
-        "appearances": 17,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 4.79,
-        "whip": 1.37,
-        "wins": 3,
-        "losses": 3,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 67.66666666666667,
-        "inningsPitchedDisplay": "67.2",
-        "hitsAllowed": 75,
-        "runsAllowed": 38,
-        "earnedRunsAllowed": 36,
-        "walksAllowed": 18,
-        "strikeouts": 41,
-        "doublesAllowed": 9,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 8,
-        "opponentsAtBats": 262,
-        "wildPitches": 3,
-        "hitBatters": 4,
-        "balks": 0,
-        "opponentsBattingAverage": 0.286,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "12723",
-        "name": "Ashton Chronister",
-        "normalizedName": "ashton chronister",
-        "jersey": "30",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/ashton-chronister/12723",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Chronister_A_000002.jpg",
-        "gamesPlayed": 11,
-        "gamesStarted": 10,
-        "putouts": 0,
-        "assists": 19,
-        "errors": 1,
-        "fieldingPercentage": 0.95,
-        "doublePlays": 1,
-        "stolenBasesAgainst": 3,
-        "caughtStealingBy": 1,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 20
-      },
-      "evaluation": {
-        "score": 7,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 13.21092700403045,
-          "Command": 25.555555555555554,
-          "Damage suppression": 0
-        },
-        "summary": "Ashton Chronister looks like a LHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA 4.79",
-          "WHIP 1.37",
-          "K/9 5.5"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.79"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.37"
-          },
-          {
-            "label": "K/9",
-            "value": "5.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.4"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.06"
-          },
-          {
-            "label": "IP",
-            "value": "67.7"
-          }
-        ],
-        "metaLine": "JR / L/L",
-        "detailBadges": [
-          "LHP",
-          "JR",
-          "L/L",
-          "Pitcher"
-        ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats"
-      }
-    },
-    {
-      "id": "xavier-12750",
-      "schoolSlug": "xavier",
-      "school": "Xavier",
-      "schoolLongName": "Xavier University",
-      "name": "Joey Young",
-      "normalizedName": "joey young",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right-Handed Pitcher",
-      "classYear": "JR",
-      "handedness": "R/R",
-      "jersey": "31",
-      "hometown": "Decatur, Ill.",
-      "highSchool": "Warrensburg-Latham",
-      "previousSchool": "Black Hawk",
-      "hometownHighSchool": "Decatur, Ill. / Warrensburg-Latham",
-      "profileUrl": "https://goxavier.com/sports/baseball/roster/joey-young/12750",
-      "imageUrl": "https://goxavier.com/images/2025/10/15/Young_J_000002.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "12750",
-      "sources": [
-        "Xavier Athletics roster",
-        "Xavier cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "12750",
-        "name": "Joey Young",
-        "normalizedName": "joey young",
-        "jersey": "31",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/joey-young/12750",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Young_J_000002.jpg",
-        "gamesPlayed": 10,
-        "gamesStarted": 2,
-        "appearances": 10,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 10.38,
-        "whip": 2.54,
-        "wins": 0,
-        "losses": 1,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 13,
-        "inningsPitchedDisplay": "13.0",
-        "hitsAllowed": 24,
-        "runsAllowed": 15,
-        "earnedRunsAllowed": 15,
-        "walksAllowed": 9,
-        "strikeouts": 21,
-        "doublesAllowed": 6,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 3,
-        "opponentsAtBats": 63,
-        "wildPitches": 0,
-        "hitBatters": 2,
-        "balks": 0,
-        "opponentsBattingAverage": 0.381,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "12750",
-        "name": "Joey Young",
-        "normalizedName": "joey young",
-        "jersey": "31",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/joey-young/12750",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Young_J_000002.jpg",
-        "gamesPlayed": 1,
-        "gamesStarted": 0,
-        "putouts": 0,
-        "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 0,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 1,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 0
-      },
-      "evaluation": {
-        "score": 23,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 95.8041958041958,
-          "Command": 26.66666666666667,
-          "Damage suppression": 0
-        },
-        "summary": "Joey Young looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 10.38",
-          "WHIP 2.54",
-          "K/9 14.5"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "10.38"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.54"
-          },
-          {
-            "label": "K/9",
-            "value": "14.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "6.2"
-          },
-          {
-            "label": "HR/9",
-            "value": "2.08"
-          },
-          {
-            "label": "IP",
-            "value": "13.0"
-          }
-        ],
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats"
-      }
-    },
-    {
-      "id": "xavier-12733",
-      "schoolSlug": "xavier",
-      "school": "Xavier",
-      "schoolLongName": "Xavier University",
-      "name": "Connor Misch",
-      "normalizedName": "connor misch",
-      "compositeRole": "Rostered",
-      "role": "Hitter",
-      "position": "IF",
-      "positionLong": "Infielder",
-      "classYear": "SR",
-      "handedness": "R/L",
-      "jersey": "32",
-      "hometown": "Dyer, Ind.",
-      "highSchool": "Lake Central",
-      "previousSchool": "",
-      "hometownHighSchool": "Dyer, Ind. / Lake Central",
-      "profileUrl": "https://goxavier.com/sports/baseball/roster/connor-misch/12733",
-      "imageUrl": "https://goxavier.com/images/2025/10/15/Misch_C_000002.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "12733",
-      "sources": [
-        "Xavier Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "summary": "Connor Misch gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG --",
           "OBP --",
@@ -4280,85 +2691,51 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "SR / R/L",
+        "metaLine": "SO / R/R",
         "detailBadges": [
-          "IF",
-          "SR",
-          "R/L",
+          "C",
+          "SO",
+          "R/R",
           "Rostered"
         ],
         "sourceSummary": "Xavier Athletics roster"
       }
     },
     {
-      "id": "xavier-12727",
+      "id": "xavier-13112",
       "schoolSlug": "xavier",
       "school": "Xavier",
       "schoolLongName": "Xavier University",
-      "name": "Trevor Geddes",
-      "normalizedName": "trevor geddes",
+      "name": "Ashton Chronister",
+      "normalizedName": "ashton chronister",
       "compositeRole": "Pitcher",
       "role": "Pitcher",
       "position": "LHP",
       "positionLong": "Left-Handed Pitcher",
       "classYear": "SR",
       "handedness": "L/L",
-      "jersey": "33",
-      "hometown": "Louisville, Ky.",
-      "highSchool": "Highlands Latin",
-      "previousSchool": "Southern Indiana",
-      "hometownHighSchool": "Louisville, Ky. / Highlands Latin",
-      "profileUrl": "https://goxavier.com/sports/baseball/roster/trevor-geddes/12727",
-      "imageUrl": "https://goxavier.com/images/2025/10/15/Geddes_T_000002.jpg",
+      "jersey": "30",
+      "hometown": "Rogers, Ark.",
+      "highSchool": "Rogers",
+      "previousSchool": "",
+      "hometownHighSchool": "Rogers, Ark. / Rogers",
+      "profileUrl": "https://goxavier.com/sports/baseball/roster/ashton-chronister/13112",
+      "imageUrl": "https://goxavier.com/images/2026/10/14/Chronister_A_0002.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "12727",
+      "rosterBioId": "13112",
       "sources": [
-        "Xavier Athletics roster",
-        "Xavier cumulative stats"
+        "Xavier Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "12727",
-        "name": "Trevor Geddes",
-        "normalizedName": "trevor geddes",
-        "jersey": "33",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/trevor-geddes/12727",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Geddes_T_000002.jpg",
-        "gamesPlayed": 11,
-        "gamesStarted": 0,
-        "appearances": 11,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 9.31,
-        "whip": 3,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 9.666666666666666,
-        "inningsPitchedDisplay": "9.2",
-        "hitsAllowed": 21,
-        "runsAllowed": 11,
-        "earnedRunsAllowed": 10,
-        "walksAllowed": 8,
-        "strikeouts": 9,
-        "doublesAllowed": 5,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 50,
-        "wildPitches": 3,
-        "hitBatters": 2,
-        "balks": 0,
-        "opponentsBattingAverage": 0.42,
-        "walksHits": 0
-      },
+      "pitchingStats": null,
       "fieldingStats": null,
       "evaluation": {
-        "score": 8,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4366,32 +2743,32 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 39.811912225705335,
-          "Command": 2.5,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Trevor Geddes gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Ashton Chronister looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 9.31",
-          "WHIP 3.00",
-          "K/9 8.4"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "9.31"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "3.00"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "8.4"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "7.4"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
@@ -4399,7 +2776,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
           },
           {
             "label": "IP",
-            "value": "9.7"
+            "value": "0.0"
           }
         ],
         "metaLine": "SR / L/L",
@@ -4409,11 +2786,275 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
           "L/L",
           "Pitcher"
         ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats"
+        "sourceSummary": "Xavier Athletics roster"
       }
     },
     {
-      "id": "xavier-12741",
+      "id": "xavier-13135",
+      "schoolSlug": "xavier",
+      "school": "Xavier",
+      "schoolLongName": "Xavier University",
+      "name": "Joey Young",
+      "normalizedName": "joey young",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "SR",
+      "handedness": "R/R",
+      "jersey": "31",
+      "hometown": "Decatur, Ill.",
+      "highSchool": "Warrensburg-Latham",
+      "previousSchool": "Black Hawk",
+      "hometownHighSchool": "Decatur, Ill. / Warrensburg-Latham",
+      "profileUrl": "https://goxavier.com/sports/baseball/roster/joey-young/13135",
+      "imageUrl": "https://goxavier.com/images/2026/10/14/Young_J_0002.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "13135",
+      "sources": [
+        "Xavier Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Joey Young looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Xavier Athletics roster"
+      }
+    },
+    {
+      "id": "xavier-13139",
+      "schoolSlug": "xavier",
+      "school": "Xavier",
+      "schoolLongName": "Xavier University",
+      "name": "Canyon Geren",
+      "normalizedName": "canyon geren",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "SR",
+      "handedness": "R/R",
+      "jersey": "32",
+      "hometown": "Knoxville, Tenn.",
+      "highSchool": "Knoxville Catholic",
+      "previousSchool": "Milligan",
+      "hometownHighSchool": "Knoxville, Tenn. / Knoxville Catholic",
+      "profileUrl": "https://goxavier.com/sports/baseball/roster/canyon-geren/13139",
+      "imageUrl": "https://goxavier.com/images/2026/10/14/Geren_C_0002.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "13139",
+      "sources": [
+        "Xavier Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Canyon Geren looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Xavier Athletics roster"
+      }
+    },
+    {
+      "id": "xavier-13149",
+      "schoolSlug": "xavier",
+      "school": "Xavier",
+      "schoolLongName": "Xavier University",
+      "name": "Caleb Mecurio",
+      "normalizedName": "caleb mecurio",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "33",
+      "hometown": "Reminderville, Ohio",
+      "highSchool": "Walsh Jesuit",
+      "previousSchool": "",
+      "hometownHighSchool": "Reminderville, Ohio / Walsh Jesuit",
+      "profileUrl": "https://goxavier.com/sports/baseball/roster/caleb-mecurio/13149",
+      "imageUrl": "https://goxavier.com/images/2026/10/14/Mecurio_C_0002.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "13149",
+      "sources": [
+        "Xavier Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Caleb Mecurio looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Xavier Athletics roster"
+      }
+    },
+    {
+      "id": "xavier-13113",
       "schoolSlug": "xavier",
       "school": "Xavier",
       "schoolLongName": "Xavier University",
@@ -4423,61 +3064,27 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Right-Handed Pitcher",
-      "classYear": "JR",
+      "classYear": "SR",
       "handedness": "R/R",
       "jersey": "34",
       "hometown": "Bothell, Wa.",
       "highSchool": "Bothell",
       "previousSchool": "Everett CC",
       "hometownHighSchool": "Bothell, Wa. / Bothell",
-      "profileUrl": "https://goxavier.com/sports/baseball/roster/asher-deleo/12741",
-      "imageUrl": "https://goxavier.com/images/2025/10/15/DeLeo_A_000002.jpg",
+      "profileUrl": "https://goxavier.com/sports/baseball/roster/asher-deleo/13113",
+      "imageUrl": "https://goxavier.com/images/2026/10/14/DeLeo_A_0002.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "12741",
+      "rosterBioId": "13113",
       "sources": [
-        "Xavier Athletics roster",
-        "Xavier cumulative stats"
+        "Xavier Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "12741",
-        "name": "Asher DeLeo",
-        "normalizedName": "asher deleo",
-        "jersey": "34",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/asher-deleo/12741",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/DeLeo_A_000002.jpg",
-        "gamesPlayed": 3,
-        "gamesStarted": 0,
-        "appearances": 3,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 34.71,
-        "whip": 3.43,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 2.3333333333333335,
-        "inningsPitchedDisplay": "2.1",
-        "hitsAllowed": 6,
-        "runsAllowed": 9,
-        "earnedRunsAllowed": 9,
-        "walksAllowed": 2,
-        "strikeouts": 1,
-        "doublesAllowed": 1,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 11,
-        "wildPitches": 0,
-        "hitBatters": 2,
-        "balks": 1,
-        "opponentsBattingAverage": 0.545,
-        "walksHits": 0
-      },
+      "pitchingStats": null,
       "fieldingStats": null,
       "evaluation": {
         "score": 0,
@@ -4492,137 +3099,83 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Asher DeLeo gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Asher DeLeo looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 34.71",
-          "WHIP 3.43",
-          "K/9 3.9"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "34.71"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "3.43"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "3.9"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "7.7"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "7.71"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "2.3"
+            "value": "0.0"
           }
         ],
-        "metaLine": "JR / R/R",
+        "metaLine": "SR / R/R",
         "detailBadges": [
           "RHP",
-          "JR",
+          "SR",
           "R/R",
           "Pitcher"
         ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats"
+        "sourceSummary": "Xavier Athletics roster"
       }
     },
     {
-      "id": "xavier-12739",
+      "id": "xavier-13153",
       "schoolSlug": "xavier",
       "school": "Xavier",
       "schoolLongName": "Xavier University",
-      "name": "Jon Wylie",
-      "normalizedName": "jon wylie",
+      "name": "Brady Louck",
+      "normalizedName": "brady louck",
       "compositeRole": "Pitcher",
       "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right-Handed Pitcher",
-      "classYear": "SO",
+      "position": "LHP",
+      "positionLong": "Left-Handed Pitcher",
+      "classYear": "SR",
       "handedness": "R/R",
       "jersey": "35",
-      "hometown": "Ironton, Ohio",
-      "highSchool": "Ironton",
-      "previousSchool": "",
-      "hometownHighSchool": "Ironton, Ohio / Ironton",
-      "profileUrl": "https://goxavier.com/sports/baseball/roster/jon-wylie/12739",
-      "imageUrl": "https://goxavier.com/images/2025/10/15/Wylie_J_000002.jpg",
+      "hometown": "Plainfield, Ill.",
+      "highSchool": "Plainfield East",
+      "previousSchool": "FSU/Arizona State",
+      "hometownHighSchool": "Plainfield, Ill. / Plainfield East",
+      "profileUrl": "https://goxavier.com/sports/baseball/roster/brady-louck/13153",
+      "imageUrl": "https://goxavier.com/images/2026/10/14/Louck_B_0002.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "12739",
+      "rosterBioId": "13153",
       "sources": [
-        "Xavier Athletics roster",
-        "Xavier cumulative stats"
+        "Xavier Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "12739",
-        "name": "Jon Wylie",
-        "normalizedName": "jon wylie",
-        "jersey": "35",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/jon-wylie/12739",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Wylie_J_000002.jpg",
-        "gamesPlayed": 3,
-        "gamesStarted": 0,
-        "appearances": 3,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 15.43,
-        "whip": 3,
-        "wins": 1,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 2.3333333333333335,
-        "inningsPitchedDisplay": "2.1",
-        "hitsAllowed": 6,
-        "runsAllowed": 4,
-        "earnedRunsAllowed": 4,
-        "walksAllowed": 1,
-        "strikeouts": 3,
-        "doublesAllowed": 0,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 11,
-        "wildPitches": 0,
-        "hitBatters": 1,
-        "balks": 0,
-        "opponentsBattingAverage": 0.545,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "12739",
-        "name": "Jon Wylie",
-        "normalizedName": "jon wylie",
-        "jersey": "35",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/jon-wylie/12739",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Wylie_J_000002.jpg",
-        "gamesPlayed": 1,
-        "gamesStarted": 0,
-        "putouts": 0,
-        "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 0,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 1,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 0
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 20,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4630,199 +3183,142 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 68.83116883116884,
-          "Command": 40.00000000000001,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Jon Wylie looks like a RHP option who misses bats.",
+        "summary": "Brady Louck looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 15.43",
-          "WHIP 3.00",
-          "K/9 11.6"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "15.43"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "3.00"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "11.6"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "3.9"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "7.71"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "2.3"
+            "value": "0.0"
           }
         ],
-        "metaLine": "SO / R/R",
+        "metaLine": "SR / R/R",
         "detailBadges": [
-          "RHP",
-          "SO",
+          "LHP",
+          "SR",
           "R/R",
           "Pitcher"
         ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats"
+        "sourceSummary": "Xavier Athletics roster"
       }
     },
     {
-      "id": "xavier-12755",
+      "id": "xavier-13132",
       "schoolSlug": "xavier",
       "school": "Xavier",
       "schoolLongName": "Xavier University",
       "name": "Josh Stonehouse",
       "normalizedName": "josh stonehouse",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "IF",
       "positionLong": "Infielder",
-      "classYear": "FR",
+      "classYear": "SO",
       "handedness": "L/L",
       "jersey": "36",
       "hometown": "Camarillo, Calif.",
       "highSchool": "Crespi",
       "previousSchool": "",
       "hometownHighSchool": "Camarillo, Calif. / Crespi",
-      "profileUrl": "https://goxavier.com/sports/baseball/roster/josh-stonehouse/12755",
-      "imageUrl": "https://goxavier.com/images/2025/10/15/Stonehouse_J_000002.jpg",
+      "profileUrl": "https://goxavier.com/sports/baseball/roster/josh-stonehouse/13132",
+      "imageUrl": "https://goxavier.com/images/2026/10/14/Stonehouse_J_0002.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "12755",
+      "rosterBioId": "13132",
       "sources": [
-        "Xavier Athletics roster",
-        "Xavier cumulative stats"
+        "Xavier Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "12755",
-        "name": "Josh Stonehouse",
-        "normalizedName": "josh stonehouse",
-        "jersey": "36",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/josh-stonehouse/12755",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Stonehouse_J_000002.jpg",
-        "gamesPlayed": 57,
-        "gamesStarted": 54,
-        "battingAverage": 0.251,
-        "onBasePercentage": 0.371,
-        "sluggingPercentage": 0.483,
-        "ops": 0.854,
-        "atBats": 203,
-        "runs": 41,
-        "hits": 51,
-        "doubles": 8,
-        "triples": 0,
-        "homeRuns": 13,
-        "runsBattedIn": 41,
-        "totalBases": 98,
-        "walks": 14,
-        "hitByPitch": 27,
-        "strikeouts": 64,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 2,
-        "sacrificeFlies": 4,
-        "sacrificeHits": 0,
-        "stolenBases": 6,
-        "stolenBasesAttempts": 6,
-        "putouts": 255,
-        "assists": 0,
-        "errors": 4,
-        "plateAppearances": 254,
-        "caughtStealing": 0,
-        "pickedOff": 2
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "12755",
-        "name": "Josh Stonehouse",
-        "normalizedName": "josh stonehouse",
-        "jersey": "36",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/josh-stonehouse/12755",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Stonehouse_J_000002.jpg",
-        "gamesPlayed": 54,
-        "gamesStarted": 52,
-        "putouts": 255,
-        "assists": 16,
-        "errors": 4,
-        "fieldingPercentage": 0.985,
-        "doublePlays": 13,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 275
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 33,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 50.55555555555554,
-          "Power": 42.89473684210526,
-          "Contact": 19.375,
-          "Discipline": 2.0833333333333317,
-          "Speed": 20
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
         "summary": "Josh Stonehouse gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .251",
-          "OBP .371",
-          "SLG .483"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".251"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".371"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".483"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "13"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "41"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "6"
+            "value": "0"
           }
         ],
-        "metaLine": "FR / L/L",
+        "metaLine": "SO / L/L",
         "detailBadges": [
           "IF",
-          "FR",
+          "SO",
           "L/L",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats"
+        "sourceSummary": "Xavier Athletics roster"
       }
     },
     {
-      "id": "xavier-12746",
+      "id": "xavier-13126",
       "schoolSlug": "xavier",
       "school": "Xavier",
       "schoolLongName": "Xavier University",
@@ -4832,61 +3328,27 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Right-Handed Pitcher",
-      "classYear": "FR",
+      "classYear": "SO",
       "handedness": "R/R",
       "jersey": "37",
       "hometown": "Glenview, Ill.",
       "highSchool": "Glenbrook South",
       "previousSchool": "",
       "hometownHighSchool": "Glenview, Ill. / Glenbrook South",
-      "profileUrl": "https://goxavier.com/sports/baseball/roster/roger-niedermaier/12746",
-      "imageUrl": "https://goxavier.com/images/2025/10/15/Niedermaier_R_000002.jpg",
+      "profileUrl": "https://goxavier.com/sports/baseball/roster/roger-niedermaier/13126",
+      "imageUrl": "https://goxavier.com/images/2026/10/14/Niedermaier_R_0002.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "12746",
+      "rosterBioId": "13126",
       "sources": [
-        "Xavier Athletics roster",
-        "Xavier cumulative stats"
+        "Xavier Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "12746",
-        "name": "Roger Niedermaier",
-        "normalizedName": "roger niedermaier",
-        "jersey": "37",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/roger-niedermaier/12746",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Niedermaier_R_000002.jpg",
-        "gamesPlayed": 1,
-        "gamesStarted": 0,
-        "appearances": 1,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 0,
-        "whip": 0,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 0,
-        "inningsPitchedDisplay": "0.0",
-        "hitsAllowed": 0,
-        "runsAllowed": 0,
-        "earnedRunsAllowed": 0,
-        "walksAllowed": 2,
-        "strikeouts": 0,
-        "doublesAllowed": 0,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 0,
-        "wildPitches": 0,
-        "hitBatters": 0,
-        "balks": 0,
-        "opponentsBattingAverage": 0,
-        "walksHits": 0
-      },
+      "pitchingStats": null,
       "fieldingStats": null,
       "evaluation": {
         "score": 0,
@@ -4901,20 +3363,20 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Roger Niedermaier looks like a RHP option who limits runs and throws enough strikes and keeps traffic under control.",
+        "summary": "Roger Niedermaier looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 0.00",
-          "WHIP 0.00",
+          "ERA --",
+          "WHIP --",
           "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "0.00"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "0.00"
+            "value": "--"
           },
           {
             "label": "K/9",
@@ -4933,18 +3395,18 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "FR / R/R",
+        "metaLine": "SO / R/R",
         "detailBadges": [
           "RHP",
-          "FR",
+          "SO",
           "R/R",
           "Pitcher"
         ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats"
+        "sourceSummary": "Xavier Athletics roster"
       }
     },
     {
-      "id": "xavier-12735",
+      "id": "xavier-13127",
       "schoolSlug": "xavier",
       "school": "Xavier",
       "schoolLongName": "Xavier University",
@@ -4954,84 +3416,30 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Right-Handed Pitcher",
-      "classYear": "SO",
+      "classYear": "JR",
       "handedness": "L/R",
       "jersey": "38",
       "hometown": "Washington, Mo.",
       "highSchool": "St. Francis Borgia",
       "previousSchool": "",
       "hometownHighSchool": "Washington, Mo. / St. Francis Borgia",
-      "profileUrl": "https://goxavier.com/sports/baseball/roster/jack-nobe/12735",
-      "imageUrl": "https://goxavier.com/images/2025/10/15/Nobe_J_000002.jpg",
+      "profileUrl": "https://goxavier.com/sports/baseball/roster/jack-nobe/13127",
+      "imageUrl": "https://goxavier.com/images/2026/10/14/Nobe_J_0002.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "12735",
+      "rosterBioId": "13127",
       "sources": [
-        "Xavier Athletics roster",
-        "Xavier cumulative stats"
+        "Xavier Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "12735",
-        "name": "Jack Nobe",
-        "normalizedName": "jack nobe",
-        "jersey": "38",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/jack-nobe/12735",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Nobe_J_000002.jpg",
-        "gamesPlayed": 5,
-        "gamesStarted": 5,
-        "appearances": 5,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 5.04,
-        "whip": 1.68,
-        "wins": 1,
-        "losses": 2,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 25,
-        "inningsPitchedDisplay": "25.0",
-        "hitsAllowed": 32,
-        "runsAllowed": 17,
-        "earnedRunsAllowed": 14,
-        "walksAllowed": 10,
-        "strikeouts": 23,
-        "doublesAllowed": 5,
-        "triplesAllowed": 3,
-        "homeRunsAllowed": 5,
-        "opponentsAtBats": 108,
-        "wildPitches": 1,
-        "hitBatters": 4,
-        "balks": 0,
-        "opponentsBattingAverage": 0.296,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "12735",
-        "name": "Jack Nobe",
-        "normalizedName": "jack nobe",
-        "jersey": "38",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/jack-nobe/12735",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Nobe_J_000002.jpg",
-        "gamesPlayed": 3,
-        "gamesStarted": 3,
-        "putouts": 1,
-        "assists": 6,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 2,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 7
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 12,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5039,54 +3447,142 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 38.90909090909091,
-          "Command": 25.999999999999996,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Jack Nobe gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Jack Nobe looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 5.04",
-          "WHIP 1.68",
-          "K/9 8.3"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.04"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.68"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "8.3"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "3.6"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.80"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "25.0"
+            "value": "0.0"
           }
         ],
-        "metaLine": "SO / L/R",
+        "metaLine": "JR / L/R",
         "detailBadges": [
           "RHP",
-          "SO",
+          "JR",
           "L/R",
           "Pitcher"
         ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats"
+        "sourceSummary": "Xavier Athletics roster"
       }
     },
     {
-      "id": "xavier-12745",
+      "id": "xavier-13140",
+      "schoolSlug": "xavier",
+      "school": "Xavier",
+      "schoolLongName": "Xavier University",
+      "name": "Luke Hanahan",
+      "normalizedName": "luke hanahan",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "Outfielder",
+      "classYear": "FR",
+      "handedness": "L/R",
+      "jersey": "39",
+      "hometown": "Overland Park, Kan.",
+      "highSchool": "Blue Valley Southwest",
+      "previousSchool": "",
+      "hometownHighSchool": "Overland Park, Kan. / Blue Valley Southwest",
+      "profileUrl": "https://goxavier.com/sports/baseball/roster/luke-hanahan/13140",
+      "imageUrl": "https://goxavier.com/images/2026/10/14/Hanahan_L_0002.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "13140",
+      "sources": [
+        "Xavier Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Luke Hanahan gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "FR / L/R",
+        "detailBadges": [
+          "OF",
+          "FR",
+          "L/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Xavier Athletics roster"
+      }
+    },
+    {
+      "id": "xavier-13124",
       "schoolSlug": "xavier",
       "school": "Xavier",
       "schoolLongName": "Xavier University",
@@ -5096,84 +3592,30 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Right-Handed Pitcher",
-      "classYear": "SR",
+      "classYear": "GR",
       "handedness": "R/R",
       "jersey": "40",
       "hometown": "Parkville, Mo.",
       "highSchool": "St. Pius X",
       "previousSchool": "Kansas/C. Arizona/Arizona",
       "hometownHighSchool": "Parkville, Mo. / St. Pius X",
-      "profileUrl": "https://goxavier.com/sports/baseball/roster/karter-muck/12745",
-      "imageUrl": "https://goxavier.com/images/2025/10/15/Muck_K_000002.jpg",
+      "profileUrl": "https://goxavier.com/sports/baseball/roster/karter-muck/13124",
+      "imageUrl": "https://goxavier.com/images/2026/10/14/Muck_K_0002.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "12745",
+      "rosterBioId": "13124",
       "sources": [
-        "Xavier Athletics roster",
-        "Xavier cumulative stats"
+        "Xavier Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "12745",
-        "name": "Karter Muck",
-        "normalizedName": "karter muck",
-        "jersey": "40",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/karter-muck/12745",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Muck_K_000002.jpg",
-        "gamesPlayed": 10,
-        "gamesStarted": 0,
-        "appearances": 10,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 9.53,
-        "whip": 2.03,
-        "wins": 1,
-        "losses": 1,
-        "saves": 3,
-        "shutouts": 0,
-        "inningsPitched": 11.333333333333334,
-        "inningsPitchedDisplay": "11.1",
-        "hitsAllowed": 13,
-        "runsAllowed": 13,
-        "earnedRunsAllowed": 12,
-        "walksAllowed": 10,
-        "strikeouts": 12,
-        "doublesAllowed": 2,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 3,
-        "opponentsAtBats": 44,
-        "wildPitches": 4,
-        "hitBatters": 6,
-        "balks": 0,
-        "opponentsBattingAverage": 0.295,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "12745",
-        "name": "Karter Muck",
-        "normalizedName": "karter muck",
-        "jersey": "40",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/karter-muck/12745",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Muck_K_000002.jpg",
-        "gamesPlayed": 2,
-        "gamesStarted": 0,
-        "putouts": 1,
-        "assists": 2,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 1,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 3
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 11,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5181,472 +3623,40 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 50.26737967914438,
-          "Command": 4.0000000000000036,
-          "Damage suppression": 0
-        },
-        "summary": "Karter Muck looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 9.53",
-          "WHIP 2.03",
-          "K/9 9.5"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "9.53"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.03"
-          },
-          {
-            "label": "K/9",
-            "value": "9.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "7.9"
-          },
-          {
-            "label": "HR/9",
-            "value": "2.38"
-          },
-          {
-            "label": "IP",
-            "value": "11.3"
-          }
-        ],
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats"
-      }
-    },
-    {
-      "id": "xavier-12753",
-      "schoolSlug": "xavier",
-      "school": "Xavier",
-      "schoolLongName": "Xavier University",
-      "name": "Carter Christenson",
-      "normalizedName": "carter christenson",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "IF",
-      "positionLong": "Infielder",
-      "classYear": "FR",
-      "handedness": "R/R",
-      "jersey": "41",
-      "hometown": "Cincinnati, Ohio",
-      "highSchool": "Moeller",
-      "previousSchool": "",
-      "hometownHighSchool": "Cincinnati, Ohio / Moeller",
-      "profileUrl": "https://goxavier.com/sports/baseball/roster/carter-christenson/12753",
-      "imageUrl": "https://goxavier.com/images/2025/10/15/Christenson_C_000002.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "12753",
-      "sources": [
-        "Xavier Athletics roster",
-        "Xavier cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "12753",
-        "name": "Carter Christenson",
-        "normalizedName": "carter christenson",
-        "jersey": "41",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/carter-christenson/12753",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Christenson_C_000002.jpg",
-        "gamesPlayed": 37,
-        "gamesStarted": 24,
-        "battingAverage": 0.226,
-        "onBasePercentage": 0.305,
-        "sluggingPercentage": 0.321,
-        "ops": 0.626,
-        "atBats": 84,
-        "runs": 15,
-        "hits": 19,
-        "doubles": 5,
-        "triples": 0,
-        "homeRuns": 1,
-        "runsBattedIn": 10,
-        "totalBases": 27,
-        "walks": 10,
-        "hitByPitch": 0,
-        "strikeouts": 23,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 2,
-        "sacrificeFlies": 1,
-        "sacrificeHits": 0,
-        "stolenBases": 4,
-        "stolenBasesAttempts": 6,
-        "putouts": 40,
-        "assists": 0,
-        "errors": 4,
-        "plateAppearances": 103,
-        "caughtStealing": 2,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "12753",
-        "name": "Carter Christenson",
-        "normalizedName": "carter christenson",
-        "jersey": "41",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/carter-christenson/12753",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Christenson_C_000002.jpg",
-        "gamesPlayed": 30,
-        "gamesStarted": 24,
-        "putouts": 40,
-        "assists": 47,
-        "errors": 4,
-        "fieldingPercentage": 0.956,
-        "doublePlays": 11,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 91
-      },
-      "evaluation": {
-        "score": 10,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 13.88888888888887,
-          "Power": 0.26315789473684237,
-          "Contact": 3.7500000000000036,
-          "Discipline": 26.086956521739125,
-          "Speed": 13.333333333333334
-        },
-        "summary": "Carter Christenson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .226",
-          "OBP .305",
-          "SLG .321"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".226"
-          },
-          {
-            "label": "OBP",
-            "value": ".305"
-          },
-          {
-            "label": "SLG",
-            "value": ".321"
-          },
-          {
-            "label": "HR",
-            "value": "1"
-          },
-          {
-            "label": "RBI",
-            "value": "10"
-          },
-          {
-            "label": "SB",
-            "value": "4"
-          }
-        ],
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "IF",
-          "FR",
-          "R/R",
-          "Hitter"
-        ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats"
-      }
-    },
-    {
-      "id": "xavier-12761",
-      "schoolSlug": "xavier",
-      "school": "Xavier",
-      "schoolLongName": "Xavier University",
-      "name": "Jorge Valdes",
-      "normalizedName": "jorge valdes",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "OF",
-      "positionLong": "Outfielder",
-      "classYear": "SO",
-      "handedness": "L/L",
-      "jersey": "44",
-      "hometown": "Milton, Ontario, Canada",
-      "highSchool": "Bishop Reding",
-      "previousSchool": "West Virginia",
-      "hometownHighSchool": "Milton, Ontario, Canada / Bishop Reding",
-      "profileUrl": "https://goxavier.com/sports/baseball/roster/jorge-valdes/12761",
-      "imageUrl": "https://goxavier.com/images/2025/10/15/Valdes_J_000002.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "12761",
-      "sources": [
-        "Xavier Athletics roster",
-        "Xavier cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "12761",
-        "name": "Jorge Valdes",
-        "normalizedName": "jorge valdes",
-        "jersey": "44",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/jorge-valdes/12761",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Valdes_J_000002.jpg",
-        "gamesPlayed": 44,
-        "gamesStarted": 43,
-        "battingAverage": 0.301,
-        "onBasePercentage": 0.41,
-        "sluggingPercentage": 0.335,
-        "ops": 0.745,
-        "atBats": 176,
-        "runs": 32,
-        "hits": 53,
-        "doubles": 3,
-        "triples": 0,
-        "homeRuns": 1,
-        "runsBattedIn": 20,
-        "totalBases": 59,
-        "walks": 32,
-        "hitByPitch": 1,
-        "strikeouts": 30,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 1,
-        "sacrificeHits": 4,
-        "stolenBases": 5,
-        "stolenBasesAttempts": 8,
-        "putouts": 98,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 225,
-        "caughtStealing": 3,
-        "pickedOff": 1
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "12761",
-        "name": "Jorge Valdes",
-        "normalizedName": "jorge valdes",
-        "jersey": "44",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/jorge-valdes/12761",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Valdes_J_000002.jpg",
-        "gamesPlayed": 38,
-        "gamesStarted": 37,
-        "putouts": 98,
-        "assists": 2,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 100
-      },
-      "evaluation": {
-        "score": 48,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 72.2222222222222,
-          "Power": 3.9473684210526354,
-          "Contact": 50.624999999999986,
-          "Discipline": 96.29629629629628,
-          "Speed": 16.666666666666664
-        },
-        "summary": "Jorge Valdes profiles as a OF piece who gets on base at a high clip and controls at-bats.",
-        "summaryMetrics": [
-          "AVG .301",
-          "OBP .410",
-          "SLG .335"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".301"
-          },
-          {
-            "label": "OBP",
-            "value": ".410"
-          },
-          {
-            "label": "SLG",
-            "value": ".335"
-          },
-          {
-            "label": "HR",
-            "value": "1"
-          },
-          {
-            "label": "RBI",
-            "value": "20"
-          },
-          {
-            "label": "SB",
-            "value": "5"
-          }
-        ],
-        "metaLine": "SO / L/L",
-        "detailBadges": [
-          "OF",
-          "SO",
-          "L/L",
-          "Hitter"
-        ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats"
-      }
-    },
-    {
-      "id": "xavier-12719",
-      "schoolSlug": "xavier",
-      "school": "Xavier",
-      "schoolLongName": "Xavier University",
-      "name": "Nick Boyle",
-      "normalizedName": "nick boyle",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right-Handed Pitcher",
-      "classYear": "GR",
-      "handedness": "R/R",
-      "jersey": "45",
-      "hometown": "Goshen, Ky.",
-      "highSchool": "North Oldham",
-      "previousSchool": "",
-      "hometownHighSchool": "Goshen, Ky. / North Oldham",
-      "profileUrl": "https://goxavier.com/sports/baseball/roster/nick-boyle/12719",
-      "imageUrl": "https://goxavier.com/images/2025/10/15/Boyle_N_000002.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "12719",
-      "sources": [
-        "Xavier Athletics roster",
-        "Xavier cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "12719",
-        "name": "Nick Boyle",
-        "normalizedName": "nick boyle",
-        "jersey": "45",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/nick-boyle/12719",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Boyle_N_000002.jpg",
-        "gamesPlayed": 7,
-        "gamesStarted": 5,
-        "appearances": 7,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 9.82,
-        "whip": 2,
-        "wins": 0,
-        "losses": 1,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 11,
-        "inningsPitchedDisplay": "11.0",
-        "hitsAllowed": 10,
-        "runsAllowed": 15,
-        "earnedRunsAllowed": 12,
-        "walksAllowed": 12,
-        "strikeouts": 12,
-        "doublesAllowed": 1,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 3,
-        "opponentsAtBats": 41,
-        "wildPitches": 1,
-        "hitBatters": 1,
-        "balks": 0,
-        "opponentsBattingAverage": 0.244,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "12719",
-        "name": "Nick Boyle",
-        "normalizedName": "nick boyle",
-        "jersey": "45",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/nick-boyle/12719",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/Boyle_N_000002.jpg",
-        "gamesPlayed": 1,
-        "gamesStarted": 1,
-        "putouts": 0,
-        "assists": 1,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 1,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 1
-      },
-      "evaluation": {
-        "score": 11,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 52.892561983471076,
+          "Miss bats": 0,
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Nick Boyle looks like a RHP option who misses bats.",
+        "summary": "Karter Muck looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 9.82",
-          "WHIP 2.00",
-          "K/9 9.8"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "9.82"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "2.00"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "9.8"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "9.8"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "2.45"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "11.0"
+            "value": "0.0"
           }
         ],
         "metaLine": "GR / R/R",
@@ -5656,11 +3666,363 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
           "R/R",
           "Pitcher"
         ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats"
+        "sourceSummary": "Xavier Athletics roster"
       }
     },
     {
-      "id": "xavier-12725",
+      "id": "xavier-13111",
+      "schoolSlug": "xavier",
+      "school": "Xavier",
+      "schoolLongName": "Xavier University",
+      "name": "Carter Christenson",
+      "normalizedName": "carter christenson",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "IF",
+      "positionLong": "Infielder",
+      "classYear": "SO",
+      "handedness": "R/R",
+      "jersey": "41",
+      "hometown": "Cincinnati, Ohio",
+      "highSchool": "Moeller",
+      "previousSchool": "",
+      "hometownHighSchool": "Cincinnati, Ohio / Moeller",
+      "profileUrl": "https://goxavier.com/sports/baseball/roster/carter-christenson/13111",
+      "imageUrl": "https://goxavier.com/images/2026/10/14/Christenson_C_0002.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "13111",
+      "sources": [
+        "Xavier Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Carter Christenson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "IF",
+          "SO",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Xavier Athletics roster"
+      }
+    },
+    {
+      "id": "xavier-13146",
+      "schoolSlug": "xavier",
+      "school": "Xavier",
+      "schoolLongName": "Xavier University",
+      "name": "Peter Lopez",
+      "normalizedName": "peter lopez",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "Outfielder",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "43",
+      "hometown": "Coral Gables, Fla.",
+      "highSchool": "Belen Jesuit",
+      "previousSchool": "",
+      "hometownHighSchool": "Coral Gables, Fla. / Belen Jesuit",
+      "profileUrl": "https://goxavier.com/sports/baseball/roster/peter-lopez/13146",
+      "imageUrl": "https://goxavier.com/images/2026/10/14/Lopez_P_0002.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "13146",
+      "sources": [
+        "Xavier Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Peter Lopez gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "OF",
+          "FR",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Xavier Athletics roster"
+      }
+    },
+    {
+      "id": "xavier-13142",
+      "schoolSlug": "xavier",
+      "school": "Xavier",
+      "schoolLongName": "Xavier University",
+      "name": "Ben Weber",
+      "normalizedName": "ben weber",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "GR",
+      "handedness": "R/R",
+      "jersey": "44",
+      "hometown": "St. Paul, Minn.",
+      "highSchool": "Cretin Derham Hall",
+      "previousSchool": "Air Force/Xavier/Virginia Tech",
+      "hometownHighSchool": "St. Paul, Minn. / Cretin Derham Hall",
+      "profileUrl": "https://goxavier.com/sports/baseball/roster/ben-weber/13142",
+      "imageUrl": "https://goxavier.com/images/2026/10/14/Weber_B_0002.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "13142",
+      "sources": [
+        "Xavier Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Ben Weber looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "GR / R/R",
+        "detailBadges": [
+          "RHP",
+          "GR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Xavier Athletics roster"
+      }
+    },
+    {
+      "id": "xavier-13141",
+      "schoolSlug": "xavier",
+      "school": "Xavier",
+      "schoolLongName": "Xavier University",
+      "name": "Carter Jeffries",
+      "normalizedName": "carter jeffries",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "C",
+      "positionLong": "Catcher",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "45",
+      "hometown": "Lee's Summit, Mo.",
+      "highSchool": "Summit Christian",
+      "previousSchool": "",
+      "hometownHighSchool": "Lee's Summit, Mo. / Summit Christian",
+      "profileUrl": "https://goxavier.com/sports/baseball/roster/carter-jeffries/13141",
+      "imageUrl": "https://goxavier.com/images/2026/10/14/Jeffries_C_0002.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "13141",
+      "sources": [
+        "Xavier Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Carter Jeffries gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "C",
+          "FR",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Xavier Athletics roster"
+      }
+    },
+    {
+      "id": "xavier-13114",
       "schoolSlug": "xavier",
       "school": "Xavier",
       "schoolLongName": "Xavier University",
@@ -5670,120 +4032,30 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Right-Handed Pitcher",
-      "classYear": "SO",
+      "classYear": "JR",
       "handedness": "R/R",
       "jersey": "54",
       "hometown": "Verona, Wisc.",
       "highSchool": "Verona Area",
       "previousSchool": "",
       "hometownHighSchool": "Verona, Wisc. / Verona Area",
-      "profileUrl": "https://goxavier.com/sports/baseball/roster/jack-detienne/12725",
-      "imageUrl": "https://goxavier.com/images/2025/10/15/DeTienne_J_000002.jpg",
+      "profileUrl": "https://goxavier.com/sports/baseball/roster/jack-detienne/13114",
+      "imageUrl": "https://goxavier.com/images/2026/10/14/DeTienne_J_0002.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "12725",
+      "rosterBioId": "13114",
       "sources": [
-        "Xavier Athletics roster",
-        "Xavier cumulative stats"
+        "Xavier Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "12725",
-        "name": "Jack DeTienne",
-        "normalizedName": "jack detienne",
-        "jersey": "54",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/jack-detienne/12725",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/DeTienne_J_000002.jpg",
-        "gamesPlayed": 16,
-        "gamesStarted": 3,
-        "battingAverage": 0,
-        "onBasePercentage": 0,
-        "sluggingPercentage": 0,
-        "ops": 0,
-        "atBats": 0,
-        "runs": 2,
-        "hits": 0,
-        "doubles": 0,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 0,
-        "totalBases": 0,
-        "walks": 0,
-        "hitByPitch": 0,
-        "strikeouts": 0,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 1,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 0,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": {
-        "rosterBioId": "12725",
-        "name": "Jack DeTienne",
-        "normalizedName": "jack detienne",
-        "jersey": "54",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/jack-detienne/12725",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/DeTienne_J_000002.jpg",
-        "gamesPlayed": 15,
-        "gamesStarted": 5,
-        "appearances": 15,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 10.93,
-        "whip": 2.32,
-        "wins": 0,
-        "losses": 5,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 28,
-        "inningsPitchedDisplay": "28.0",
-        "hitsAllowed": 46,
-        "runsAllowed": 37,
-        "earnedRunsAllowed": 34,
-        "walksAllowed": 19,
-        "strikeouts": 14,
-        "doublesAllowed": 8,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 10,
-        "opponentsAtBats": 122,
-        "wildPitches": 2,
-        "hitBatters": 3,
-        "balks": 2,
-        "opponentsBattingAverage": 0.377,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "12725",
-        "name": "Jack DeTienne",
-        "normalizedName": "jack detienne",
-        "jersey": "54",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/jack-detienne/12725",
-        "imageUrl": "https://goxavier.com/images/2025/10/15/DeTienne_J_000002.jpg",
-        "gamesPlayed": 8,
-        "gamesStarted": 2,
-        "putouts": 1,
-        "assists": 5,
-        "errors": 1,
-        "fieldingPercentage": 0.857,
-        "doublePlays": 1,
-        "stolenBasesAgainst": 1,
-        "caughtStealingBy": 4,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 7
-      },
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 1,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5791,576 +4063,93 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 4.545454545454546,
+          "Miss bats": 0,
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Jack DeTienne gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Jack DeTienne looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 10.93",
-          "WHIP 2.32",
-          "K/9 4.5"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "10.93"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "2.32"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "4.5"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "6.1"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "3.21"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "28.0"
+            "value": "0.0"
           }
         ],
-        "metaLine": "SO / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "RHP",
-          "SO",
+          "JR",
           "R/R",
           "Pitcher"
         ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats"
+        "sourceSummary": "Xavier Athletics roster"
       }
     }
   ],
   "playerBoard": {
     "source": "Xavier Athletics roster + cumulative stats / ESPN roster",
     "note": "This Xavier-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but Xavier's public ESPN roster feed did not line up cleanly with the current school-site roster.",
-    "totalPlayers": 42,
+    "totalPlayers": 45,
     "roleCounts": {
-      "Hitter": 19,
-      "Pitcher": 23
+      "Hitter": 21,
+      "Pitcher": 24
     },
     "players": [
       {
-        "id": "xavier-12724",
-        "name": "JD Crisp",
-        "school": "Xavier",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "SO",
-        "handedness": "S/L",
-        "score": 6,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "JD Crisp gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .216",
-          "OBP .298",
-          "SLG .315"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".216"
-          },
-          {
-            "label": "OBP",
-            "value": ".298"
-          },
-          {
-            "label": "SLG",
-            "value": ".315"
-          },
-          {
-            "label": "HR",
-            "value": "3"
-          },
-          {
-            "label": "RBI",
-            "value": "9"
-          },
-          {
-            "label": "SB",
-            "value": "6"
-          }
-        ],
-        "components": {
-          "On-base": 9.999999999999979,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 3.782505910165483,
-          "Speed": 20
-        },
-        "metaLine": "SO / S/L",
-        "detailBadges": [
-          "OF",
-          "SO",
-          "S/L",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Xavier Athletics roster",
-          "Xavier cumulative stats"
-        ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats",
-        "schoolSlug": "xavier",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/jd-crisp/12724",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "xavier-12728",
-        "name": "Luke Hammond",
-        "school": "Xavier",
-        "role": "Hitter",
-        "position": "IF",
-        "classYear": "GR",
-        "handedness": "R/R",
-        "score": 32,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Luke Hammond gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .295",
-          "OBP .347",
-          "SLG .459"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".295"
-          },
-          {
-            "label": "OBP",
-            "value": ".347"
-          },
-          {
-            "label": "SLG",
-            "value": ".459"
-          },
-          {
-            "label": "HR",
-            "value": "8"
-          },
-          {
-            "label": "RBI",
-            "value": "41"
-          },
-          {
-            "label": "SB",
-            "value": "2"
-          }
-        ],
-        "components": {
-          "On-base": 37.22222222222219,
-          "Power": 36.57894736842106,
-          "Contact": 46.874999999999986,
-          "Discipline": 13.62007168458781,
-          "Speed": 6.666666666666667
-        },
-        "metaLine": "GR / R/R",
-        "detailBadges": [
-          "IF",
-          "GR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Xavier Athletics roster",
-          "Xavier cumulative stats"
-        ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats",
-        "schoolSlug": "xavier",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/luke-hammond/12728",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "xavier-12758",
-        "name": "Peter Johnson",
+        "id": "xavier-13134",
+        "name": "Jorge Valdes",
         "school": "Xavier",
         "role": "Hitter",
         "position": "OF",
         "classYear": "JR",
-        "handedness": "L/R",
-        "score": 20,
+        "handedness": "L/L",
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Peter Johnson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Jorge Valdes gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .239",
-          "OBP .350",
-          "SLG .348"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".239"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".350"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".348"
-          },
-          {
-            "label": "HR",
-            "value": "3"
-          },
-          {
-            "label": "RBI",
-            "value": "16"
-          },
-          {
-            "label": "SB",
-            "value": "2"
-          }
-        ],
-        "components": {
-          "On-base": 38.888888888888864,
-          "Power": 7.368421052631572,
-          "Contact": 11.874999999999993,
-          "Discipline": 16.993464052287578,
-          "Speed": 6.666666666666667
-        },
-        "metaLine": "JR / L/R",
-        "detailBadges": [
-          "OF",
-          "JR",
-          "L/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Xavier Athletics roster",
-          "Xavier cumulative stats"
-        ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats",
-        "schoolSlug": "xavier",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/peter-johnson/12758",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "xavier-12721",
-        "name": "Clay Burdette",
-        "school": "Xavier",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 75,
-        "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
-        },
-        "summary": "Clay Burdette profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .343",
-          "OBP .438",
-          "SLG .701"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".343"
-          },
-          {
-            "label": "OBP",
-            "value": ".438"
-          },
-          {
-            "label": "SLG",
-            "value": ".701"
-          },
-          {
-            "label": "HR",
-            "value": "17"
-          },
-          {
-            "label": "RBI",
-            "value": "45"
-          },
-          {
-            "label": "SB",
-            "value": "10"
-          }
-        ],
-        "components": {
-          "On-base": 87.77777777777777,
-          "Power": 100,
-          "Contact": 76.87500000000001,
-          "Discipline": 28.888888888888886,
-          "Speed": 33.33333333333333
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "OF",
-          "JR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Xavier Athletics roster",
-          "Xavier cumulative stats"
-        ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats",
-        "schoolSlug": "xavier",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/clay-burdette/12721",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "xavier-12732",
-        "name": "Landon Mensik",
-        "school": "Xavier",
-        "role": "Hitter",
-        "position": "IF",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 24,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Landon Mensik gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .225",
-          "OBP .343",
-          "SLG .464"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".225"
-          },
-          {
-            "label": "OBP",
-            "value": ".343"
-          },
-          {
-            "label": "SLG",
-            "value": ".464"
-          },
-          {
-            "label": "HR",
-            "value": "9"
-          },
-          {
-            "label": "RBI",
-            "value": "24"
-          },
-          {
-            "label": "SB",
-            "value": "3"
-          }
-        ],
-        "components": {
-          "On-base": 35,
-          "Power": 37.89473684210527,
-          "Contact": 3.1250000000000027,
-          "Discipline": 12.96296296296296,
-          "Speed": 10
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "IF",
-          "SO",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Xavier Athletics roster",
-          "Xavier cumulative stats"
-        ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats",
-        "schoolSlug": "xavier",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/landon-mensik/12732",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "xavier-12756",
-        "name": "Tanner Thomas",
-        "school": "Xavier",
-        "role": "Hitter",
-        "position": "IF",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 15,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Tanner Thomas gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .221",
-          "OBP .314",
-          "SLG .365"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".221"
-          },
-          {
-            "label": "OBP",
-            "value": ".314"
-          },
-          {
-            "label": "SLG",
-            "value": ".365"
-          },
-          {
-            "label": "HR",
-            "value": "4"
-          },
-          {
-            "label": "RBI",
-            "value": "13"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
-        "components": {
-          "On-base": 18.888888888888875,
-          "Power": 11.842105263157892,
-          "Contact": 0.6250000000000006,
-          "Discipline": 38.88888888888889,
-          "Speed": 3.3333333333333335
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "IF",
-          "SR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Xavier Athletics roster",
-          "Xavier cumulative stats"
-        ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats",
-        "schoolSlug": "xavier",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/tanner-thomas/12756",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "xavier-12726",
-        "name": "Sam Eppley",
-        "school": "Xavier",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 8,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Sam Eppley looks like a RHP option who limits runs.",
-        "summaryMetrics": [
-          "ERA 0.00",
-          "WHIP 1.50",
-          "K/9 6.8"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "0.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.50"
-          },
-          {
-            "label": "K/9",
-            "value": "6.8"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.4"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "2.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 25,
-          "Command": 20,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Xavier Athletics roster",
-          "Xavier cumulative stats"
-        ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats",
-        "schoolSlug": "xavier",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/sam-eppley/12726",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "xavier-12722",
-        "name": "Donavan Canterberry",
-        "school": "Xavier",
-        "role": "Hitter",
-        "position": "IF",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 20,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Donavan Canterberry gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .261",
-          "OBP .346",
-          "SLG .306"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".261"
-          },
-          {
-            "label": "OBP",
-            "value": ".346"
-          },
-          {
-            "label": "SLG",
-            "value": ".306"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -6368,206 +4157,135 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
           },
           {
             "label": "RBI",
-            "value": "11"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "1"
+            "value": "0"
           }
         ],
         "components": {
-          "On-base": 36.666666666666636,
+          "On-base": 0,
           "Power": 0,
-          "Contact": 25.625000000000004,
-          "Discipline": 20.261437908496724,
-          "Speed": 3.3333333333333335
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "IF",
-          "SR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Xavier Athletics roster",
-          "Xavier cumulative stats"
-        ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats",
-        "schoolSlug": "xavier",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/donavan-canterberry/12722",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "xavier-12760",
-        "name": "Tommy Townsend",
-        "school": "Xavier",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "JR",
-        "handedness": "L/L",
-        "score": 24,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Tommy Townsend gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .231",
-          "OBP .319",
-          "SLG .488"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".231"
-          },
-          {
-            "label": "OBP",
-            "value": ".319"
-          },
-          {
-            "label": "SLG",
-            "value": ".488"
-          },
-          {
-            "label": "HR",
-            "value": "8"
-          },
-          {
-            "label": "RBI",
-            "value": "20"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
-        "components": {
-          "On-base": 21.666666666666657,
-          "Power": 44.21052631578947,
-          "Contact": 6.875000000000006,
-          "Discipline": 25.39682539682539,
-          "Speed": 3.3333333333333335
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
         "metaLine": "JR / L/L",
         "detailBadges": [
           "OF",
           "JR",
           "L/L",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "Xavier Athletics roster",
-          "Xavier cumulative stats"
+          "Xavier Athletics roster"
         ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats",
+        "sourceSummary": "Xavier Athletics roster",
         "schoolSlug": "xavier",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/tommy-townsend/12760",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://goxavier.com/sports/baseball/roster/jorge-valdes/13134",
         "espnAthleteId": ""
       },
       {
-        "id": "xavier-12738",
-        "name": "Sam Stevens",
+        "id": "xavier-13143",
+        "name": "Alex King",
         "school": "Xavier",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "SO",
+        "classYear": "FR",
         "handedness": "R/R",
-        "score": 9,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Sam Stevens looks like a RHP option who throws enough strikes.",
+        "summary": "Alex King looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 5.14",
-          "WHIP 1.86",
-          "K/9 6.4"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.14"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.86"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "6.4"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "2.6"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.29"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "7.0"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 22.07792207792208,
-          "Command": 30,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SO / R/R",
+        "metaLine": "FR / R/R",
         "detailBadges": [
           "RHP",
-          "SO",
+          "FR",
           "R/R",
           "Pitcher"
         ],
         "leaderboards": [
-          "Xavier Athletics roster",
-          "Xavier cumulative stats"
+          "Xavier Athletics roster"
         ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats",
+        "sourceSummary": "Xavier Athletics roster",
         "schoolSlug": "xavier",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/sam-stevens/12738",
+        "profileUrl": "https://goxavier.com/sports/baseball/roster/alex-king/13143",
         "espnAthleteId": ""
       },
       {
-        "id": "xavier-12731",
-        "name": "Jason Jelic",
+        "id": "xavier-13138",
+        "name": "Josh Donna",
         "school": "Xavier",
         "role": "Hitter",
-        "position": "C",
-        "classYear": "SR",
-        "handedness": "L/R",
-        "score": 6,
+        "position": "IF",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Jason Jelic gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Josh Donna gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .250",
-          "OBP .286",
-          "SLG .350"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".250"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".286"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".350"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -6575,7 +4293,7 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
           },
           {
             "label": "RBI",
-            "value": "1"
+            "value": "0"
           },
           {
             "label": "SB",
@@ -6583,36 +4301,647 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
           }
         ],
         "components": {
-          "On-base": 3.3333333333333055,
-          "Power": 7.8947368421052575,
-          "Contact": 18.75,
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "IF",
+          "JR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Xavier Athletics roster"
+        ],
+        "sourceSummary": "Xavier Athletics roster",
+        "schoolSlug": "xavier",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://goxavier.com/sports/baseball/roster/josh-donna/13138",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "xavier-13121",
+        "name": "Peter Johnson",
+        "school": "Xavier",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "SR",
+        "handedness": "L/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Peter Johnson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
           "Discipline": 0,
           "Speed": 0
         },
         "metaLine": "SR / L/R",
         "detailBadges": [
-          "C",
+          "OF",
           "SR",
           "L/R",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "Xavier Athletics roster",
-          "Xavier cumulative stats"
+          "Xavier Athletics roster"
         ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats",
+        "sourceSummary": "Xavier Athletics roster",
         "schoolSlug": "xavier",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/jason-jelic/12731",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://goxavier.com/sports/baseball/roster/peter-johnson/13121",
         "espnAthleteId": ""
       },
       {
-        "id": "xavier-12759",
+        "id": "xavier-13145",
+        "name": "James Layman",
+        "school": "Xavier",
+        "role": "Hitter",
+        "position": "IF",
+        "classYear": "GR",
+        "handedness": "L/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "James Layman gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "GR / L/R",
+        "detailBadges": [
+          "IF",
+          "GR",
+          "L/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Xavier Athletics roster"
+        ],
+        "sourceSummary": "Xavier Athletics roster",
+        "schoolSlug": "xavier",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://goxavier.com/sports/baseball/roster/james-layman/13145",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "xavier-13148",
+        "name": "Thomas Matuszewski",
+        "school": "Xavier",
+        "role": "Hitter",
+        "position": "IF",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Thomas Matuszewski gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "IF",
+          "JR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Xavier Athletics roster"
+        ],
+        "sourceSummary": "Xavier Athletics roster",
+        "schoolSlug": "xavier",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://goxavier.com/sports/baseball/roster/thomas-matuszewski/13148",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "xavier-13152",
+        "name": "Whit Thomas",
+        "school": "Xavier",
+        "role": "Hitter",
+        "position": "IF",
+        "classYear": "FR",
+        "handedness": "L/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Whit Thomas gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / L/R",
+        "detailBadges": [
+          "IF",
+          "FR",
+          "L/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Xavier Athletics roster"
+        ],
+        "sourceSummary": "Xavier Athletics roster",
+        "schoolSlug": "xavier",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://goxavier.com/sports/baseball/roster/whit-thomas/13152",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "xavier-13115",
+        "name": "Sam Eppley",
+        "school": "Xavier",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Sam Eppley looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Xavier Athletics roster"
+        ],
+        "sourceSummary": "Xavier Athletics roster",
+        "schoolSlug": "xavier",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://goxavier.com/sports/baseball/roster/sam-eppley/13115",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "xavier-13110",
+        "name": "Donavan Canterberry",
+        "school": "Xavier",
+        "role": "Hitter",
+        "position": "IF",
+        "classYear": "GR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Donavan Canterberry gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "GR / R/R",
+        "detailBadges": [
+          "IF",
+          "GR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Xavier Athletics roster"
+        ],
+        "sourceSummary": "Xavier Athletics roster",
+        "schoolSlug": "xavier",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://goxavier.com/sports/baseball/roster/donavan-canterberry/13110",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "xavier-13133",
+        "name": "Tommy Townsend",
+        "school": "Xavier",
+        "role": "Hitter",
+        "position": "IF",
+        "classYear": "SR",
+        "handedness": "L/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Tommy Townsend gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "SR / L/L",
+        "detailBadges": [
+          "IF",
+          "SR",
+          "L/L",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Xavier Athletics roster"
+        ],
+        "sourceSummary": "Xavier Athletics roster",
+        "schoolSlug": "xavier",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://goxavier.com/sports/baseball/roster/tommy-townsend/13133",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "xavier-13131",
+        "name": "Sam Stevens",
+        "school": "Xavier",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Sam Stevens looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Xavier Athletics roster"
+        ],
+        "sourceSummary": "Xavier Athletics roster",
+        "schoolSlug": "xavier",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://goxavier.com/sports/baseball/roster/sam-stevens/13131",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "xavier-13151",
+        "name": "Gabe Natividad",
+        "school": "Xavier",
+        "role": "Hitter",
+        "position": "IF",
+        "classYear": "SR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Gabe Natividad gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "IF",
+          "SR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Xavier Athletics roster"
+        ],
+        "sourceSummary": "Xavier Athletics roster",
+        "schoolSlug": "xavier",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://goxavier.com/sports/baseball/roster/gabe-natividad/13151",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "xavier-13128",
         "name": "Luke Pappano",
         "school": "Xavier",
         "role": "Hitter",
         "position": "OF",
-        "classYear": "FR",
+        "classYear": "SO",
         "handedness": "L/L",
         "score": 0,
         "fit": {
@@ -6658,10 +4987,10 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "FR / L/L",
+        "metaLine": "SO / L/L",
         "detailBadges": [
           "OF",
-          "FR",
+          "SO",
           "L/L",
           "Rostered"
         ],
@@ -6671,85 +5000,84 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "sourceSummary": "Xavier Athletics roster",
         "schoolSlug": "xavier",
         "compositeRole": "Rostered",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/luke-pappano/12759",
+        "profileUrl": "https://goxavier.com/sports/baseball/roster/luke-pappano/13128",
         "espnAthleteId": ""
       },
       {
-        "id": "xavier-12720",
-        "name": "Eli Bridenthal",
+        "id": "xavier-13136",
+        "name": "Jack Berg",
         "school": "Xavier",
         "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 7,
+        "position": "LHP",
+        "classYear": "GR",
+        "handedness": "L/L",
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Eli Bridenthal gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Jack Berg looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 14.85",
-          "WHIP 2.40",
-          "K/9 8.1"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "14.85"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "2.40"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "8.1"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "12.1"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.35"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "6.7"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 37.272727272727266,
+          "Miss bats": 0,
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "JR / R/R",
+        "metaLine": "GR / L/L",
         "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
+          "LHP",
+          "GR",
+          "L/L",
           "Pitcher"
         ],
         "leaderboards": [
-          "Xavier Athletics roster",
-          "Xavier cumulative stats"
+          "Xavier Athletics roster"
         ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats",
+        "sourceSummary": "Xavier Athletics roster",
         "schoolSlug": "xavier",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/eli-bridenthal/12720",
+        "profileUrl": "https://goxavier.com/sports/baseball/roster/jack-berg/13136",
         "espnAthleteId": ""
       },
       {
-        "id": "xavier-12754",
+        "id": "xavier-13122",
         "name": "Alex Junghans",
         "school": "Xavier",
         "role": "Hitter",
         "position": "IF",
-        "classYear": "R-FR",
+        "classYear": "R-SO",
         "handedness": "L/R",
         "score": 0,
         "fit": {
@@ -6758,22 +5086,22 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         },
         "summary": "Alex Junghans gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .000",
-          "OBP .000",
-          "SLG .000"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -6795,123 +5123,121 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "R-FR / L/R",
+        "metaLine": "R-SO / L/R",
         "detailBadges": [
           "IF",
-          "R-FR",
+          "R-SO",
           "L/R",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "Xavier Athletics roster",
-          "Xavier cumulative stats"
+          "Xavier Athletics roster"
         ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats",
+        "sourceSummary": "Xavier Athletics roster",
         "schoolSlug": "xavier",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/alex-junghans/12754",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://goxavier.com/sports/baseball/roster/alex-junghans/13122",
         "espnAthleteId": ""
       },
       {
-        "id": "xavier-12736",
+        "id": "xavier-13129",
         "name": "Eddie Peters",
         "school": "Xavier",
         "role": "Hitter",
         "position": "IF",
-        "classYear": "SO",
+        "classYear": "JR",
         "handedness": "R/R",
-        "score": 35,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Eddie Peters gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .308",
-          "OBP .366",
-          "SLG .462"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".308"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".366"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".462"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "1"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "4"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "1"
+            "value": "0"
           }
         ],
         "components": {
-          "On-base": 47.77777777777776,
-          "Power": 37.36842105263159,
-          "Contact": 54.99999999999999,
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
           "Discipline": 0,
-          "Speed": 3.3333333333333335
+          "Speed": 0
         },
-        "metaLine": "SO / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "IF",
-          "SO",
+          "JR",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "Xavier Athletics roster",
-          "Xavier cumulative stats"
+          "Xavier Athletics roster"
         ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats",
+        "sourceSummary": "Xavier Athletics roster",
         "schoolSlug": "xavier",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/eddie-peters/12736",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://goxavier.com/sports/baseball/roster/eddie-peters/13129",
         "espnAthleteId": ""
       },
       {
-        "id": "xavier-12757",
+        "id": "xavier-13109",
         "name": "Joey Arend",
         "school": "Xavier",
         "role": "Hitter",
         "position": "OF",
-        "classYear": "FR",
+        "classYear": "SO",
         "handedness": "L/L",
-        "score": 39,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Joey Arend profiles as a OF piece who gets on base at a high clip and controls at-bats.",
+        "summary": "Joey Arend gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .000",
-          "OBP .429",
-          "SLG .000"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".429"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -6927,243 +5253,239 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
           }
         ],
         "components": {
-          "On-base": 82.77777777777776,
+          "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 88.88888888888889,
+          "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "FR / L/L",
+        "metaLine": "SO / L/L",
         "detailBadges": [
           "OF",
-          "FR",
+          "SO",
           "L/L",
-          "Two-Way"
+          "Rostered"
         ],
         "leaderboards": [
-          "Xavier Athletics roster",
-          "Xavier cumulative stats"
+          "Xavier Athletics roster"
         ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats",
+        "sourceSummary": "Xavier Athletics roster",
         "schoolSlug": "xavier",
-        "compositeRole": "Two-Way",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/joey-arend/12757",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://goxavier.com/sports/baseball/roster/joey-arend/13109",
         "espnAthleteId": ""
       },
       {
-        "id": "xavier-12751",
+        "id": "xavier-13116",
         "name": "Jonathan Fitz",
         "school": "Xavier",
         "role": "Hitter",
         "position": "C",
-        "classYear": "JR",
+        "classYear": "SR",
         "handedness": "R/R",
-        "score": 52,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Jonathan Fitz profiles as a C piece who gets on base at a high clip and controls at-bats.",
+        "summary": "Jonathan Fitz gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .289",
-          "OBP .402",
-          "SLG .428"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".289"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".402"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".428"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "5"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "34"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "2"
+            "value": "0"
           }
         ],
         "components": {
-          "On-base": 67.77777777777779,
-          "Power": 28.421052631578945,
-          "Contact": 43.124999999999986,
-          "Discipline": 100,
-          "Speed": 6.666666666666667
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "metaLine": "JR / R/R",
+        "metaLine": "SR / R/R",
         "detailBadges": [
           "C",
-          "JR",
+          "SR",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "Xavier Athletics roster",
-          "Xavier cumulative stats"
+          "Xavier Athletics roster"
         ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats",
+        "sourceSummary": "Xavier Athletics roster",
         "schoolSlug": "xavier",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/jonathan-fitz/12751",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://goxavier.com/sports/baseball/roster/jonathan-fitz/13116",
         "espnAthleteId": ""
       },
       {
-        "id": "xavier-12742",
+        "id": "xavier-13117",
         "name": "Garrett Helsel",
         "school": "Xavier",
         "role": "Pitcher",
         "position": "LHP",
-        "classYear": "SR",
+        "classYear": "GR",
         "handedness": "L/L",
-        "score": 14,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Garrett Helsel gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Garrett Helsel looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 4.74",
-          "WHIP 1.47",
-          "K/9 8.9"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.74"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.47"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "8.9"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "3.5"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.65"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "43.7"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 44.20541290770299,
-          "Command": 30.588235294117656,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SR / L/L",
+        "metaLine": "GR / L/L",
         "detailBadges": [
           "LHP",
-          "SR",
+          "GR",
           "L/L",
           "Pitcher"
         ],
         "leaderboards": [
-          "Xavier Athletics roster",
-          "Xavier cumulative stats"
+          "Xavier Athletics roster"
         ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats",
+        "sourceSummary": "Xavier Athletics roster",
         "schoolSlug": "xavier",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/garrett-helsel/12742",
+        "profileUrl": "https://goxavier.com/sports/baseball/roster/garrett-helsel/13117",
         "espnAthleteId": ""
       },
       {
-        "id": "xavier-12737",
-        "name": "Ryan Piech",
+        "id": "xavier-13150",
+        "name": "Joe Mennella",
         "school": "Xavier",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
+        "role": "Hitter",
+        "position": "IF",
+        "classYear": "SR",
         "handedness": "R/R",
-        "score": 21,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Ryan Piech looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
+        "summary": "Joe Mennella gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 3.18",
-          "WHIP 1.14",
-          "K/9 11.6"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
-            "label": "ERA",
-            "value": "3.18"
+            "label": "AVG",
+            "value": "--"
           },
           {
-            "label": "WHIP",
-            "value": "1.14"
+            "label": "OBP",
+            "value": "--"
           },
           {
-            "label": "K/9",
-            "value": "11.6"
+            "label": "SLG",
+            "value": "--"
           },
           {
-            "label": "BB/9",
-            "value": "3.7"
+            "label": "HR",
+            "value": "0"
           },
           {
-            "label": "HR/9",
-            "value": "0.71"
+            "label": "RBI",
+            "value": "0"
           },
           {
-            "label": "IP",
-            "value": "76.3"
+            "label": "SB",
+            "value": "0"
           }
         ],
         "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 68.67804684398571,
-          "Command": 43.225806451612904,
-          "Damage suppression": 0
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "metaLine": "JR / R/R",
+        "metaLine": "SR / R/R",
         "detailBadges": [
-          "RHP",
-          "JR",
+          "IF",
+          "SR",
           "R/R",
-          "Pitcher"
+          "Rostered"
         ],
         "leaderboards": [
-          "Xavier Athletics roster",
-          "Xavier cumulative stats"
+          "Xavier Athletics roster"
         ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats",
+        "sourceSummary": "Xavier Athletics roster",
         "schoolSlug": "xavier",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/ryan-piech/12737",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://goxavier.com/sports/baseball/roster/joe-mennella/13150",
         "espnAthleteId": ""
       },
       {
-        "id": "xavier-12730",
+        "id": "xavier-13120",
         "name": "Ryan Hussey",
         "school": "Xavier",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "JR",
+        "classYear": "SR",
         "handedness": "R/R",
         "score": 0,
         "fit": {
@@ -7209,10 +5531,10 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "JR / R/R",
+        "metaLine": "SR / R/R",
         "detailBadges": [
           "RHP",
-          "JR",
+          "SR",
           "R/R",
           "Pitcher"
         ],
@@ -7222,52 +5544,52 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "sourceSummary": "Xavier Athletics roster",
         "schoolSlug": "xavier",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/ryan-hussey/12730",
+        "profileUrl": "https://goxavier.com/sports/baseball/roster/ryan-hussey/13120",
         "espnAthleteId": ""
       },
       {
-        "id": "xavier-12729",
+        "id": "xavier-13119",
         "name": "Jake Hooker",
         "school": "Xavier",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "JR",
+        "classYear": "SR",
         "handedness": "R/R",
         "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Jake Hooker gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Jake Hooker looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 11.79",
-          "WHIP 2.41",
-          "K/9 3.8"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "11.79"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "2.41"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "3.8"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "6.5"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "2.28"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "23.7"
+            "value": "0.0"
           }
         ],
         "components": {
@@ -7277,106 +5599,104 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "JR / R/R",
+        "metaLine": "SR / R/R",
         "detailBadges": [
           "RHP",
-          "JR",
+          "SR",
           "R/R",
           "Pitcher"
         ],
         "leaderboards": [
-          "Xavier Athletics roster",
-          "Xavier cumulative stats"
+          "Xavier Athletics roster"
         ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats",
+        "sourceSummary": "Xavier Athletics roster",
         "schoolSlug": "xavier",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/jake-hooker/12729",
+        "profileUrl": "https://goxavier.com/sports/baseball/roster/jake-hooker/13119",
         "espnAthleteId": ""
       },
       {
-        "id": "xavier-12734",
+        "id": "xavier-13125",
         "name": "Michael Murphy",
         "school": "Xavier",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "JR",
+        "classYear": "SR",
         "handedness": "R/R",
-        "score": 12,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Michael Murphy looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 5.04",
-          "WHIP 1.41",
-          "K/9 7.6"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.04"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.41"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "7.6"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "2.9"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.46"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "55.3"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 33.13253012048193,
-          "Command": 32.22222222222222,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "JR / R/R",
+        "metaLine": "SR / R/R",
         "detailBadges": [
           "RHP",
-          "JR",
+          "SR",
           "R/R",
           "Pitcher"
         ],
         "leaderboards": [
-          "Xavier Athletics roster",
-          "Xavier cumulative stats"
+          "Xavier Athletics roster"
         ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats",
+        "sourceSummary": "Xavier Athletics roster",
         "schoolSlug": "xavier",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/michael-murphy/12734",
+        "profileUrl": "https://goxavier.com/sports/baseball/roster/michael-murphy/13125",
         "espnAthleteId": ""
       },
       {
-        "id": "xavier-12748",
-        "name": "Cooper Robinson",
+        "id": "xavier-13144",
+        "name": "Zach Kwasny",
         "school": "Xavier",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "GR",
+        "classYear": "SR",
         "handedness": "R/R",
         "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Cooper Robinson looks like a RHP option who throws enough strikes.",
+        "summary": "Zach Kwasny looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -7415,10 +5735,10 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "GR / R/R",
+        "metaLine": "SR / R/R",
         "detailBadges": [
           "RHP",
-          "GR",
+          "SR",
           "R/R",
           "Pitcher"
         ],
@@ -7428,230 +5748,23 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "sourceSummary": "Xavier Athletics roster",
         "schoolSlug": "xavier",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/cooper-robinson/12748",
+        "profileUrl": "https://goxavier.com/sports/baseball/roster/zach-kwasny/13144",
         "espnAthleteId": ""
       },
       {
-        "id": "xavier-12749",
-        "name": "Evan Vasiliou",
-        "school": "Xavier",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "SR",
-        "handedness": "R/L",
-        "score": 5,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Evan Vasiliou looks like a LHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA 5.40",
-          "WHIP 1.56",
-          "K/9 5.2"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.40"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.56"
-          },
-          {
-            "label": "K/9",
-            "value": "5.2"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.9"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.54"
-          },
-          {
-            "label": "IP",
-            "value": "46.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 10.974025974025976,
-          "Command": 16,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / R/L",
-        "detailBadges": [
-          "LHP",
-          "SR",
-          "R/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Xavier Athletics roster",
-          "Xavier cumulative stats"
-        ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats",
-        "schoolSlug": "xavier",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/evan-vasiliou/12749",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "xavier-12747",
-        "name": "Owen Poole",
+        "id": "xavier-13137",
+        "name": "Braden Curry",
         "school": "Xavier",
         "role": "Pitcher",
         "position": "RHP",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 11,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Owen Poole gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 6.45",
-          "WHIP 1.67",
-          "K/9 8.6"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "6.45"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.67"
-          },
-          {
-            "label": "K/9",
-            "value": "8.6"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.72"
-          },
-          {
-            "label": "IP",
-            "value": "37.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 41.8342719227675,
-          "Command": 14.285714285714285,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Xavier Athletics roster",
-          "Xavier cumulative stats"
-        ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats",
-        "schoolSlug": "xavier",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/owen-poole/12747",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "xavier-12744",
-        "name": "Sam Hoeft",
-        "school": "Xavier",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 6,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Sam Hoeft gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 25.20",
-          "WHIP 3.40",
-          "K/9 7.2"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "25.20"
-          },
-          {
-            "label": "WHIP",
-            "value": "3.40"
-          },
-          {
-            "label": "K/9",
-            "value": "7.2"
-          },
-          {
-            "label": "BB/9",
-            "value": "9.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "5.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 29.090909090909093,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Xavier Athletics roster",
-          "Xavier cumulative stats"
-        ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats",
-        "schoolSlug": "xavier",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/sam-hoeft/12744",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "xavier-12740",
-        "name": "Lincoln Causero",
-        "school": "Xavier",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "FR",
-        "handedness": "R/R",
         "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Lincoln Causero looks like a RHP option who throws enough strikes.",
+        "summary": "Braden Curry looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -7690,10 +5803,10 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "FR / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "RHP",
-          "FR",
+          "JR",
           "R/R",
           "Pitcher"
         ],
@@ -7703,16 +5816,220 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "sourceSummary": "Xavier Athletics roster",
         "schoolSlug": "xavier",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/lincoln-causero/12740",
+        "profileUrl": "https://goxavier.com/sports/baseball/roster/braden-curry/13137",
         "espnAthleteId": ""
       },
       {
-        "id": "xavier-12752",
+        "id": "xavier-13130",
+        "name": "Owen Poole",
+        "school": "Xavier",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Owen Poole looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Xavier Athletics roster"
+        ],
+        "sourceSummary": "Xavier Athletics roster",
+        "schoolSlug": "xavier",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://goxavier.com/sports/baseball/roster/owen-poole/13130",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "xavier-13118",
+        "name": "Sam Hoeft",
+        "school": "Xavier",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SO",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Sam Hoeft looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "RHP",
+          "SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Xavier Athletics roster"
+        ],
+        "sourceSummary": "Xavier Athletics roster",
+        "schoolSlug": "xavier",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://goxavier.com/sports/baseball/roster/sam-hoeft/13118",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "xavier-13147",
+        "name": "Titus Lotz",
+        "school": "Xavier",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "SR",
+        "handedness": "L/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Titus Lotz looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / L/L",
+        "detailBadges": [
+          "LHP",
+          "SR",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Xavier Athletics roster"
+        ],
+        "sourceSummary": "Xavier Athletics roster",
+        "schoolSlug": "xavier",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://goxavier.com/sports/baseball/roster/titus-lotz/13147",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "xavier-13123",
         "name": "Mitchell Morton",
         "school": "Xavier",
         "role": "Hitter",
         "position": "C",
-        "classYear": "FR",
+        "classYear": "SO",
         "handedness": "R/R",
         "score": 0,
         "fit": {
@@ -7720,213 +6037,6 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
           "className": "fit-depth"
         },
         "summary": "Mitchell Morton gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .174",
-          "OBP .208",
-          "SLG .217"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".174"
-          },
-          {
-            "label": "OBP",
-            "value": ".208"
-          },
-          {
-            "label": "SLG",
-            "value": ".217"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "1"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "C",
-          "FR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Xavier Athletics roster",
-          "Xavier cumulative stats"
-        ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats",
-        "schoolSlug": "xavier",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/mitchell-morton/12752",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "xavier-12723",
-        "name": "Ashton Chronister",
-        "school": "Xavier",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "JR",
-        "handedness": "L/L",
-        "score": 7,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Ashton Chronister looks like a LHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA 4.79",
-          "WHIP 1.37",
-          "K/9 5.5"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.79"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.37"
-          },
-          {
-            "label": "K/9",
-            "value": "5.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.4"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.06"
-          },
-          {
-            "label": "IP",
-            "value": "67.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 13.21092700403045,
-          "Command": 25.555555555555554,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / L/L",
-        "detailBadges": [
-          "LHP",
-          "JR",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Xavier Athletics roster",
-          "Xavier cumulative stats"
-        ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats",
-        "schoolSlug": "xavier",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/ashton-chronister/12723",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "xavier-12750",
-        "name": "Joey Young",
-        "school": "Xavier",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 23,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Joey Young looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 10.38",
-          "WHIP 2.54",
-          "K/9 14.5"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "10.38"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.54"
-          },
-          {
-            "label": "K/9",
-            "value": "14.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "6.2"
-          },
-          {
-            "label": "HR/9",
-            "value": "2.08"
-          },
-          {
-            "label": "IP",
-            "value": "13.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 95.8041958041958,
-          "Command": 26.66666666666667,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Xavier Athletics roster",
-          "Xavier cumulative stats"
-        ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats",
-        "schoolSlug": "xavier",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/joey-young/12750",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "xavier-12733",
-        "name": "Connor Misch",
-        "school": "Xavier",
-        "role": "Hitter",
-        "position": "IF",
-        "classYear": "SR",
-        "handedness": "R/L",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Connor Misch gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG --",
           "OBP --",
@@ -7965,11 +6075,11 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "SR / R/L",
+        "metaLine": "SO / R/R",
         "detailBadges": [
-          "IF",
-          "SR",
-          "R/L",
+          "C",
+          "SO",
+          "R/R",
           "Rostered"
         ],
         "leaderboards": [
@@ -7978,44 +6088,44 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
         "sourceSummary": "Xavier Athletics roster",
         "schoolSlug": "xavier",
         "compositeRole": "Rostered",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/connor-misch/12733",
+        "profileUrl": "https://goxavier.com/sports/baseball/roster/mitchell-morton/13123",
         "espnAthleteId": ""
       },
       {
-        "id": "xavier-12727",
-        "name": "Trevor Geddes",
+        "id": "xavier-13112",
+        "name": "Ashton Chronister",
         "school": "Xavier",
         "role": "Pitcher",
         "position": "LHP",
         "classYear": "SR",
         "handedness": "L/L",
-        "score": 8,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Trevor Geddes gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Ashton Chronister looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 9.31",
-          "WHIP 3.00",
-          "K/9 8.4"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "9.31"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "3.00"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "8.4"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "7.4"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
@@ -8023,14 +6133,14 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
           },
           {
             "label": "IP",
-            "value": "9.7"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 39.811912225705335,
-          "Command": 2.5,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
         "metaLine": "SR / L/L",
@@ -8041,18 +6151,969 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
           "Pitcher"
         ],
         "leaderboards": [
-          "Xavier Athletics roster",
-          "Xavier cumulative stats"
+          "Xavier Athletics roster"
         ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats",
+        "sourceSummary": "Xavier Athletics roster",
         "schoolSlug": "xavier",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/trevor-geddes/12727",
+        "profileUrl": "https://goxavier.com/sports/baseball/roster/ashton-chronister/13112",
         "espnAthleteId": ""
       },
       {
-        "id": "xavier-12741",
+        "id": "xavier-13135",
+        "name": "Joey Young",
+        "school": "Xavier",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Joey Young looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Xavier Athletics roster"
+        ],
+        "sourceSummary": "Xavier Athletics roster",
+        "schoolSlug": "xavier",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://goxavier.com/sports/baseball/roster/joey-young/13135",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "xavier-13139",
+        "name": "Canyon Geren",
+        "school": "Xavier",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Canyon Geren looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Xavier Athletics roster"
+        ],
+        "sourceSummary": "Xavier Athletics roster",
+        "schoolSlug": "xavier",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://goxavier.com/sports/baseball/roster/canyon-geren/13139",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "xavier-13149",
+        "name": "Caleb Mecurio",
+        "school": "Xavier",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Caleb Mecurio looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Xavier Athletics roster"
+        ],
+        "sourceSummary": "Xavier Athletics roster",
+        "schoolSlug": "xavier",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://goxavier.com/sports/baseball/roster/caleb-mecurio/13149",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "xavier-13113",
         "name": "Asher DeLeo",
+        "school": "Xavier",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Asher DeLeo looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Xavier Athletics roster"
+        ],
+        "sourceSummary": "Xavier Athletics roster",
+        "schoolSlug": "xavier",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://goxavier.com/sports/baseball/roster/asher-deleo/13113",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "xavier-13153",
+        "name": "Brady Louck",
+        "school": "Xavier",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "SR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Brady Louck looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "LHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Xavier Athletics roster"
+        ],
+        "sourceSummary": "Xavier Athletics roster",
+        "schoolSlug": "xavier",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://goxavier.com/sports/baseball/roster/brady-louck/13153",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "xavier-13132",
+        "name": "Josh Stonehouse",
+        "school": "Xavier",
+        "role": "Hitter",
+        "position": "IF",
+        "classYear": "SO",
+        "handedness": "L/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Josh Stonehouse gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "SO / L/L",
+        "detailBadges": [
+          "IF",
+          "SO",
+          "L/L",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Xavier Athletics roster"
+        ],
+        "sourceSummary": "Xavier Athletics roster",
+        "schoolSlug": "xavier",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://goxavier.com/sports/baseball/roster/josh-stonehouse/13132",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "xavier-13126",
+        "name": "Roger Niedermaier",
+        "school": "Xavier",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SO",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Roger Niedermaier looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "RHP",
+          "SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Xavier Athletics roster"
+        ],
+        "sourceSummary": "Xavier Athletics roster",
+        "schoolSlug": "xavier",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://goxavier.com/sports/baseball/roster/roger-niedermaier/13126",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "xavier-13127",
+        "name": "Jack Nobe",
+        "school": "Xavier",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "L/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jack Nobe looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / L/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "L/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Xavier Athletics roster"
+        ],
+        "sourceSummary": "Xavier Athletics roster",
+        "schoolSlug": "xavier",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://goxavier.com/sports/baseball/roster/jack-nobe/13127",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "xavier-13140",
+        "name": "Luke Hanahan",
+        "school": "Xavier",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "FR",
+        "handedness": "L/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Luke Hanahan gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / L/R",
+        "detailBadges": [
+          "OF",
+          "FR",
+          "L/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Xavier Athletics roster"
+        ],
+        "sourceSummary": "Xavier Athletics roster",
+        "schoolSlug": "xavier",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://goxavier.com/sports/baseball/roster/luke-hanahan/13140",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "xavier-13124",
+        "name": "Karter Muck",
+        "school": "Xavier",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "GR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Karter Muck looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "GR / R/R",
+        "detailBadges": [
+          "RHP",
+          "GR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Xavier Athletics roster"
+        ],
+        "sourceSummary": "Xavier Athletics roster",
+        "schoolSlug": "xavier",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://goxavier.com/sports/baseball/roster/karter-muck/13124",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "xavier-13111",
+        "name": "Carter Christenson",
+        "school": "Xavier",
+        "role": "Hitter",
+        "position": "IF",
+        "classYear": "SO",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Carter Christenson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "IF",
+          "SO",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Xavier Athletics roster"
+        ],
+        "sourceSummary": "Xavier Athletics roster",
+        "schoolSlug": "xavier",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://goxavier.com/sports/baseball/roster/carter-christenson/13111",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "xavier-13146",
+        "name": "Peter Lopez",
+        "school": "Xavier",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Peter Lopez gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "OF",
+          "FR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Xavier Athletics roster"
+        ],
+        "sourceSummary": "Xavier Athletics roster",
+        "schoolSlug": "xavier",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://goxavier.com/sports/baseball/roster/peter-lopez/13146",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "xavier-13142",
+        "name": "Ben Weber",
+        "school": "Xavier",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "GR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Ben Weber looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "GR / R/R",
+        "detailBadges": [
+          "RHP",
+          "GR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Xavier Athletics roster"
+        ],
+        "sourceSummary": "Xavier Athletics roster",
+        "schoolSlug": "xavier",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://goxavier.com/sports/baseball/roster/ben-weber/13142",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "xavier-13141",
+        "name": "Carter Jeffries",
+        "school": "Xavier",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Carter Jeffries gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "C",
+          "FR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Xavier Athletics roster"
+        ],
+        "sourceSummary": "Xavier Athletics roster",
+        "schoolSlug": "xavier",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://goxavier.com/sports/baseball/roster/carter-jeffries/13141",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "xavier-13114",
+        "name": "Jack DeTienne",
         "school": "Xavier",
         "role": "Pitcher",
         "position": "RHP",
@@ -8063,36 +7124,36 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Asher DeLeo gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Jack DeTienne looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 34.71",
-          "WHIP 3.43",
-          "K/9 3.9"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "34.71"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "3.43"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "3.9"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "7.7"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "7.71"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "2.3"
+            "value": "0.0"
           }
         ],
         "components": {
@@ -8110,634 +7171,12 @@ window.__BASEBALL_DATASETS__.xavier2026 = {
           "Pitcher"
         ],
         "leaderboards": [
-          "Xavier Athletics roster",
-          "Xavier cumulative stats"
+          "Xavier Athletics roster"
         ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats",
+        "sourceSummary": "Xavier Athletics roster",
         "schoolSlug": "xavier",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/asher-deleo/12741",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "xavier-12739",
-        "name": "Jon Wylie",
-        "school": "Xavier",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 20,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jon Wylie looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 15.43",
-          "WHIP 3.00",
-          "K/9 11.6"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "15.43"
-          },
-          {
-            "label": "WHIP",
-            "value": "3.00"
-          },
-          {
-            "label": "K/9",
-            "value": "11.6"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.9"
-          },
-          {
-            "label": "HR/9",
-            "value": "7.71"
-          },
-          {
-            "label": "IP",
-            "value": "2.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 68.83116883116884,
-          "Command": 40.00000000000001,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Xavier Athletics roster",
-          "Xavier cumulative stats"
-        ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats",
-        "schoolSlug": "xavier",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/jon-wylie/12739",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "xavier-12755",
-        "name": "Josh Stonehouse",
-        "school": "Xavier",
-        "role": "Hitter",
-        "position": "IF",
-        "classYear": "FR",
-        "handedness": "L/L",
-        "score": 33,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Josh Stonehouse gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .251",
-          "OBP .371",
-          "SLG .483"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".251"
-          },
-          {
-            "label": "OBP",
-            "value": ".371"
-          },
-          {
-            "label": "SLG",
-            "value": ".483"
-          },
-          {
-            "label": "HR",
-            "value": "13"
-          },
-          {
-            "label": "RBI",
-            "value": "41"
-          },
-          {
-            "label": "SB",
-            "value": "6"
-          }
-        ],
-        "components": {
-          "On-base": 50.55555555555554,
-          "Power": 42.89473684210526,
-          "Contact": 19.375,
-          "Discipline": 2.0833333333333317,
-          "Speed": 20
-        },
-        "metaLine": "FR / L/L",
-        "detailBadges": [
-          "IF",
-          "FR",
-          "L/L",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Xavier Athletics roster",
-          "Xavier cumulative stats"
-        ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats",
-        "schoolSlug": "xavier",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/josh-stonehouse/12755",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "xavier-12746",
-        "name": "Roger Niedermaier",
-        "school": "Xavier",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Roger Niedermaier looks like a RHP option who limits runs and throws enough strikes and keeps traffic under control.",
-        "summaryMetrics": [
-          "ERA 0.00",
-          "WHIP 0.00",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "0.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "0.00"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Xavier Athletics roster",
-          "Xavier cumulative stats"
-        ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats",
-        "schoolSlug": "xavier",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/roger-niedermaier/12746",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "xavier-12735",
-        "name": "Jack Nobe",
-        "school": "Xavier",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "L/R",
-        "score": 12,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jack Nobe gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 5.04",
-          "WHIP 1.68",
-          "K/9 8.3"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.04"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.68"
-          },
-          {
-            "label": "K/9",
-            "value": "8.3"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.6"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.80"
-          },
-          {
-            "label": "IP",
-            "value": "25.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 38.90909090909091,
-          "Command": 25.999999999999996,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / L/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "L/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Xavier Athletics roster",
-          "Xavier cumulative stats"
-        ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats",
-        "schoolSlug": "xavier",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/jack-nobe/12735",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "xavier-12745",
-        "name": "Karter Muck",
-        "school": "Xavier",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 11,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Karter Muck looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 9.53",
-          "WHIP 2.03",
-          "K/9 9.5"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "9.53"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.03"
-          },
-          {
-            "label": "K/9",
-            "value": "9.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "7.9"
-          },
-          {
-            "label": "HR/9",
-            "value": "2.38"
-          },
-          {
-            "label": "IP",
-            "value": "11.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 50.26737967914438,
-          "Command": 4.0000000000000036,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Xavier Athletics roster",
-          "Xavier cumulative stats"
-        ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats",
-        "schoolSlug": "xavier",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/karter-muck/12745",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "xavier-12753",
-        "name": "Carter Christenson",
-        "school": "Xavier",
-        "role": "Hitter",
-        "position": "IF",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 10,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Carter Christenson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .226",
-          "OBP .305",
-          "SLG .321"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".226"
-          },
-          {
-            "label": "OBP",
-            "value": ".305"
-          },
-          {
-            "label": "SLG",
-            "value": ".321"
-          },
-          {
-            "label": "HR",
-            "value": "1"
-          },
-          {
-            "label": "RBI",
-            "value": "10"
-          },
-          {
-            "label": "SB",
-            "value": "4"
-          }
-        ],
-        "components": {
-          "On-base": 13.88888888888887,
-          "Power": 0.26315789473684237,
-          "Contact": 3.7500000000000036,
-          "Discipline": 26.086956521739125,
-          "Speed": 13.333333333333334
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "IF",
-          "FR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Xavier Athletics roster",
-          "Xavier cumulative stats"
-        ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats",
-        "schoolSlug": "xavier",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/carter-christenson/12753",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "xavier-12761",
-        "name": "Jorge Valdes",
-        "school": "Xavier",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "SO",
-        "handedness": "L/L",
-        "score": 48,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jorge Valdes profiles as a OF piece who gets on base at a high clip and controls at-bats.",
-        "summaryMetrics": [
-          "AVG .301",
-          "OBP .410",
-          "SLG .335"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".301"
-          },
-          {
-            "label": "OBP",
-            "value": ".410"
-          },
-          {
-            "label": "SLG",
-            "value": ".335"
-          },
-          {
-            "label": "HR",
-            "value": "1"
-          },
-          {
-            "label": "RBI",
-            "value": "20"
-          },
-          {
-            "label": "SB",
-            "value": "5"
-          }
-        ],
-        "components": {
-          "On-base": 72.2222222222222,
-          "Power": 3.9473684210526354,
-          "Contact": 50.624999999999986,
-          "Discipline": 96.29629629629628,
-          "Speed": 16.666666666666664
-        },
-        "metaLine": "SO / L/L",
-        "detailBadges": [
-          "OF",
-          "SO",
-          "L/L",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Xavier Athletics roster",
-          "Xavier cumulative stats"
-        ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats",
-        "schoolSlug": "xavier",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/jorge-valdes/12761",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "xavier-12719",
-        "name": "Nick Boyle",
-        "school": "Xavier",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "GR",
-        "handedness": "R/R",
-        "score": 11,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Nick Boyle looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 9.82",
-          "WHIP 2.00",
-          "K/9 9.8"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "9.82"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.00"
-          },
-          {
-            "label": "K/9",
-            "value": "9.8"
-          },
-          {
-            "label": "BB/9",
-            "value": "9.8"
-          },
-          {
-            "label": "HR/9",
-            "value": "2.45"
-          },
-          {
-            "label": "IP",
-            "value": "11.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 52.892561983471076,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "GR / R/R",
-        "detailBadges": [
-          "RHP",
-          "GR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Xavier Athletics roster",
-          "Xavier cumulative stats"
-        ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats",
-        "schoolSlug": "xavier",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/nick-boyle/12719",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "xavier-12725",
-        "name": "Jack DeTienne",
-        "school": "Xavier",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 1,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jack DeTienne gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 10.93",
-          "WHIP 2.32",
-          "K/9 4.5"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "10.93"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.32"
-          },
-          {
-            "label": "K/9",
-            "value": "4.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "6.1"
-          },
-          {
-            "label": "HR/9",
-            "value": "3.21"
-          },
-          {
-            "label": "IP",
-            "value": "28.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 4.545454545454546,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Xavier Athletics roster",
-          "Xavier cumulative stats"
-        ],
-        "sourceSummary": "Xavier Athletics roster + Xavier cumulative stats",
-        "schoolSlug": "xavier",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://goxavier.com/sports/baseball/roster/jack-detienne/12725",
+        "profileUrl": "https://goxavier.com/sports/baseball/roster/jack-detienne/13114",
         "espnAthleteId": ""
       }
     ]

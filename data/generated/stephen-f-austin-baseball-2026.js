@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
-  "generatedAt": "2026-07-30T10:57:16.868Z",
+  "generatedAt": "2026-11-18T10:18:56.500Z",
   "season": 2026,
   "school": {
     "slug": "stephen-f-austin",
@@ -27,15 +27,69 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
   "coverage": {
     "rosterPlayers": 41,
     "espnRosterPlayers": 0,
-    "playersWithHittingStats": 19,
-    "playersWithPitchingStats": 19,
-    "playersWithFieldingStats": 36,
-    "mergedPlayersWithAnyStats": 37,
+    "playersWithHittingStats": 5,
+    "playersWithPitchingStats": 6,
+    "playersWithFieldingStats": 10,
+    "mergedPlayersWithAnyStats": 10,
     "matchedEspnPlayers": 0,
     "unmatchedStatRows": {
-      "hitting": [],
-      "pitching": [],
-      "fielding": []
+      "hitting": [
+        "Julian Swift",
+        "Mark Henning",
+        "Josh Ibe",
+        "Cooper Schneider",
+        "Evan Aslaksen",
+        "Coby DeJesus",
+        "Ethan Adkisson",
+        "Jackson Benattar",
+        "Rodric Black",
+        "Trey Acreman",
+        "Brigden Smith",
+        "Remington Roff",
+        "Mason Poppen"
+      ],
+      "pitching": [
+        "Cody Templeton",
+        "Jack James",
+        "Kadin Munson",
+        "Reid Bowyer",
+        "Elian Balmaceda",
+        "Dylan Mulcahy",
+        "Nate Vidlak",
+        "Gabe LeBlanc",
+        "Nate Bergeron",
+        "Noah O'Farrell",
+        "Hayden Tronson",
+        "Jonathan Valdez",
+        "Adrian Rubio"
+      ],
+      "fielding": [
+        "Evan Aslaksen",
+        "Josh Ibe",
+        "Brigden Smith",
+        "Elian Balmaceda",
+        "Kadin Munson",
+        "Gabe LeBlanc",
+        "Noah O'Farrell",
+        "Dylan Mulcahy",
+        "Hayden Tronson",
+        "Adrian Rubio",
+        "Nate Bergeron",
+        "Mason Poppen",
+        "Mark Henning",
+        "Ethan Adkisson",
+        "Coby DeJesus",
+        "Cooper Schneider",
+        "Julian Swift",
+        "Cody Templeton",
+        "Rodric Black",
+        "Jackson Benattar",
+        "Trey Acreman",
+        "Nate Vidlak",
+        "Jonathan Valdez",
+        "Jack James",
+        "Reid Bowyer"
+      ]
     }
   },
   "teamSummary": {
@@ -124,6 +178,446 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
   },
   "players": [
     {
+      "id": "stephen-f-austin-8492",
+      "schoolSlug": "stephen-f-austin",
+      "school": "Stephen F. Austin",
+      "schoolLongName": "Stephen F. Austin State University",
+      "name": "Peyton Adams",
+      "normalizedName": "peyton adams",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "L/L",
+      "jersey": "",
+      "hometown": "Friendswood, Texas",
+      "highSchool": "Friendswood HS",
+      "previousSchool": "UTSA",
+      "hometownHighSchool": "Friendswood, Texas / Friendswood HS",
+      "profileUrl": "https://sfajacks.com/sports/baseball/roster/peyton-adams/8492",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "8492",
+      "sources": [
+        "Stephen F. Austin Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Peyton Adams gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "JR / L/L",
+        "detailBadges": [
+          "OF",
+          "JR",
+          "L/L",
+          "Rostered"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster"
+      }
+    },
+    {
+      "id": "stephen-f-austin-8461",
+      "schoolSlug": "stephen-f-austin",
+      "school": "Stephen F. Austin",
+      "schoolLongName": "Stephen F. Austin State University",
+      "name": "Brady Baker",
+      "normalizedName": "brady baker",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "RS",
+      "handedness": "R/R",
+      "jersey": "",
+      "hometown": "Sachse, Texas",
+      "highSchool": "",
+      "previousSchool": "Tyler Junior College",
+      "hometownHighSchool": "Sachse, Texas",
+      "profileUrl": "https://sfajacks.com/sports/baseball/roster/brady-baker/8461",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "8461",
+      "sources": [
+        "Stephen F. Austin Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Brady Baker looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "RS / R/R",
+        "detailBadges": [
+          "RHP",
+          "RS",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster"
+      }
+    },
+    {
+      "id": "stephen-f-austin-8484",
+      "schoolSlug": "stephen-f-austin",
+      "school": "Stephen F. Austin",
+      "schoolLongName": "Stephen F. Austin State University",
+      "name": "Ashton Bassett",
+      "normalizedName": "ashton bassett",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "L/L",
+      "jersey": "",
+      "hometown": "Magnolia, Texas",
+      "highSchool": "",
+      "previousSchool": "Tarleton",
+      "hometownHighSchool": "Magnolia, Texas",
+      "profileUrl": "https://sfajacks.com/sports/baseball/roster/ashton-bassett/8484",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "8484",
+      "sources": [
+        "Stephen F. Austin Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Ashton Bassett looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "JR / L/L",
+        "detailBadges": [
+          "LHP",
+          "JR",
+          "L/L",
+          "Pitcher"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster"
+      }
+    },
+    {
+      "id": "stephen-f-austin-8471",
+      "schoolSlug": "stephen-f-austin",
+      "school": "Stephen F. Austin",
+      "schoolLongName": "Stephen F. Austin State University",
+      "name": "Ethan Beede",
+      "normalizedName": "ethan beede",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "R/R",
+      "jersey": "",
+      "hometown": "Reno, Nevada",
+      "highSchool": "",
+      "previousSchool": "Lassen CC",
+      "hometownHighSchool": "Reno, Nevada",
+      "profileUrl": "https://sfajacks.com/sports/baseball/roster/ethan-beede/8471",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "8471",
+      "sources": [
+        "Stephen F. Austin Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Ethan Beede gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "INF",
+          "JR",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster"
+      }
+    },
+    {
+      "id": "stephen-f-austin-8477",
+      "schoolSlug": "stephen-f-austin",
+      "school": "Stephen F. Austin",
+      "schoolLongName": "Stephen F. Austin State University",
+      "name": "Gael Bernal",
+      "normalizedName": "gael bernal",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "",
+      "classYear": "RS",
+      "handedness": "R/R",
+      "jersey": "",
+      "hometown": "El Paso, Texas",
+      "highSchool": "",
+      "previousSchool": "UT-Permian Basin",
+      "hometownHighSchool": "El Paso, Texas",
+      "profileUrl": "https://sfajacks.com/sports/baseball/roster/gael-bernal/8477",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "8477",
+      "sources": [
+        "Stephen F. Austin Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Gael Bernal gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "RS / R/R",
+        "detailBadges": [
+          "INF",
+          "RS",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster"
+      }
+    },
+    {
       "id": "stephen-f-austin-7822",
       "schoolSlug": "stephen-f-austin",
       "school": "Stephen F. Austin",
@@ -133,14 +627,14 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
       "compositeRole": "Hitter",
       "role": "Hitter",
       "position": "OF",
-      "positionLong": "Outfield",
-      "classYear": "SO",
+      "positionLong": "",
+      "classYear": "RS",
       "handedness": "R/R",
       "jersey": "1",
-      "hometown": "Nacogdoches, TX",
+      "hometown": "Nacogdoches, Texas",
       "highSchool": "Nacogdoches HS",
       "previousSchool": "",
-      "hometownHighSchool": "Nacogdoches, TX / Nacogdoches HS",
+      "hometownHighSchool": "Nacogdoches, Texas / Nacogdoches HS",
       "profileUrl": "https://sfajacks.com/sports/baseball/roster/cermodrick-bland/7822",
       "imageUrl": "https://sfajacks.com/images/2025/10/14/Cermodrick_Bland_vbsiw.jpg",
       "espnAthleteId": "",
@@ -258,10 +752,10 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
             "value": "27"
           }
         ],
-        "metaLine": "SO / R/R",
+        "metaLine": "RS / R/R",
         "detailBadges": [
           "OF",
-          "SO",
+          "RS",
           "R/R",
           "Hitter"
         ],
@@ -269,3567 +763,32 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
       }
     },
     {
-      "id": "stephen-f-austin-7819",
+      "id": "stephen-f-austin-8481",
       "schoolSlug": "stephen-f-austin",
       "school": "Stephen F. Austin",
       "schoolLongName": "Stephen F. Austin State University",
-      "name": "Ethan Adkisson",
-      "normalizedName": "ethan adkisson",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "C",
-      "positionLong": "Catcher",
-      "classYear": "SR",
-      "handedness": "R/R",
-      "jersey": "2",
-      "hometown": "New Diana, Texas",
-      "highSchool": "New Diana HS",
-      "previousSchool": "Hill College",
-      "hometownHighSchool": "New Diana, Texas / New Diana HS",
-      "profileUrl": "https://sfajacks.com/sports/baseball/roster/ethan-adkisson/7819",
-      "imageUrl": "https://sfajacks.com/images/2025/10/14/Ethan_Adkisson_Vzekb.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "7819",
-      "sources": [
-        "Stephen F. Austin Athletics roster",
-        "Stephen F. Austin cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "7819",
-        "name": "Ethan Adkisson",
-        "normalizedName": "ethan adkisson",
-        "jersey": "2",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/ethan-adkisson/7819",
-        "imageUrl": "https://sfajacks.com/images/2025/10/14/Ethan_Adkisson_Vzekb.jpg",
-        "gamesPlayed": 33,
-        "gamesStarted": 26,
-        "battingAverage": 0.25,
-        "onBasePercentage": 0.278,
-        "sluggingPercentage": 0.315,
-        "ops": 0.593,
-        "atBats": 92,
-        "runs": 16,
-        "hits": 23,
-        "doubles": 4,
-        "triples": 1,
-        "homeRuns": 0,
-        "runsBattedIn": 11,
-        "totalBases": 29,
-        "walks": 3,
-        "hitByPitch": 1,
-        "strikeouts": 9,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 2,
-        "sacrificeFlies": 1,
-        "sacrificeHits": 3,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 212,
-        "assists": 0,
-        "errors": 1,
-        "plateAppearances": 100,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "7819",
-        "name": "Ethan Adkisson",
-        "normalizedName": "ethan adkisson",
-        "jersey": "2",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/ethan-adkisson/7819",
-        "imageUrl": "https://sfajacks.com/images/2025/10/14/Ethan_Adkisson_Vzekb.jpg",
-        "gamesPlayed": 30,
-        "gamesStarted": 26,
-        "putouts": 212,
-        "assists": 19,
-        "errors": 1,
-        "fieldingPercentage": 0.996,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 21,
-        "caughtStealingBy": 6,
-        "stolenBasesPercentage": null,
-        "passedBalls": 2,
-        "catchersInterference": 0,
-        "totalChances": 232
-      },
-      "evaluation": {
-        "score": 5,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 18.75,
-          "Discipline": 14.814814814814808,
-          "Speed": 0
-        },
-        "summary": "Ethan Adkisson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .250",
-          "OBP .278",
-          "SLG .315"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".250"
-          },
-          {
-            "label": "OBP",
-            "value": ".278"
-          },
-          {
-            "label": "SLG",
-            "value": ".315"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "11"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "C",
-          "SR",
-          "R/R",
-          "Hitter"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats"
-      }
-    },
-    {
-      "id": "stephen-f-austin-7850",
-      "schoolSlug": "stephen-f-austin",
-      "school": "Stephen F. Austin",
-      "schoolLongName": "Stephen F. Austin State University",
-      "name": "Coby DeJesus",
-      "normalizedName": "coby dejesus",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "INF",
-      "positionLong": "Infielder",
-      "classYear": "SR",
-      "handedness": "R/R",
-      "jersey": "3",
-      "hometown": "Diboll, Texas",
-      "highSchool": "Diboll HS",
-      "previousSchool": "Houston",
-      "hometownHighSchool": "Diboll, Texas / Diboll HS",
-      "profileUrl": "https://sfajacks.com/sports/baseball/roster/coby-dejesus/7850",
-      "imageUrl": "https://sfajacks.com/images/2025/10/16/Coby_DeJesus_eDYky.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "7850",
-      "sources": [
-        "Stephen F. Austin Athletics roster",
-        "Stephen F. Austin cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "7850",
-        "name": "Coby DeJesus",
-        "normalizedName": "coby dejesus",
-        "jersey": "3",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/coby-dejesus/7850",
-        "imageUrl": "https://sfajacks.com/images/2025/10/16/Coby_DeJesus_eDYky.jpg",
-        "gamesPlayed": 35,
-        "gamesStarted": 33,
-        "battingAverage": 0.301,
-        "onBasePercentage": 0.385,
-        "sluggingPercentage": 0.336,
-        "ops": 0.721,
-        "atBats": 113,
-        "runs": 17,
-        "hits": 34,
-        "doubles": 2,
-        "triples": 1,
-        "homeRuns": 0,
-        "runsBattedIn": 14,
-        "totalBases": 38,
-        "walks": 15,
-        "hitByPitch": 1,
-        "strikeouts": 16,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 3,
-        "sacrificeFlies": 1,
-        "sacrificeHits": 0,
-        "stolenBases": 3,
-        "stolenBasesAttempts": 3,
-        "putouts": 52,
-        "assists": 0,
-        "errors": 2,
-        "plateAppearances": 133,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "7850",
-        "name": "Coby DeJesus",
-        "normalizedName": "coby dejesus",
-        "jersey": "3",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/coby-dejesus/7850",
-        "imageUrl": "https://sfajacks.com/images/2025/10/16/Coby_DeJesus_eDYky.jpg",
-        "gamesPlayed": 33,
-        "gamesStarted": 33,
-        "putouts": 52,
-        "assists": 98,
-        "errors": 2,
-        "fieldingPercentage": 0.987,
-        "doublePlays": 19,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 152
-      },
-      "evaluation": {
-        "score": 41,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 58.33333333333333,
-          "Power": 4.210526315789478,
-          "Contact": 50.624999999999986,
-          "Discipline": 81.94444444444444,
-          "Speed": 10
-        },
-        "summary": "Coby DeJesus gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .301",
-          "OBP .385",
-          "SLG .336"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".301"
-          },
-          {
-            "label": "OBP",
-            "value": ".385"
-          },
-          {
-            "label": "SLG",
-            "value": ".336"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "14"
-          },
-          {
-            "label": "SB",
-            "value": "3"
-          }
-        ],
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "INF",
-          "SR",
-          "R/R",
-          "Hitter"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats"
-      }
-    },
-    {
-      "id": "stephen-f-austin-7842",
-      "schoolSlug": "stephen-f-austin",
-      "school": "Stephen F. Austin",
-      "schoolLongName": "Stephen F. Austin State University",
-      "name": "Jhett Creel",
-      "normalizedName": "jhett creel",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "C",
-      "positionLong": "Catcher",
-      "classYear": "JR",
-      "handedness": "L/R",
-      "jersey": "4",
-      "hometown": "Sachse, Texas",
-      "highSchool": "Sachse HS",
-      "previousSchool": "NOC-Enid",
-      "hometownHighSchool": "Sachse, Texas / Sachse HS",
-      "profileUrl": "https://sfajacks.com/sports/baseball/roster/jhett-creel/7842",
-      "imageUrl": "https://sfajacks.com/images/2025/10/16/Jhett_Creel_csoFE.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "7842",
-      "sources": [
-        "Stephen F. Austin Athletics roster",
-        "Stephen F. Austin cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "7842",
-        "name": "Jhett Creel",
-        "normalizedName": "jhett creel",
-        "jersey": "4",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/jhett-creel/7842",
-        "imageUrl": "https://sfajacks.com/images/2025/10/16/Jhett_Creel_csoFE.jpg",
-        "gamesPlayed": 55,
-        "gamesStarted": 52,
-        "battingAverage": 0.303,
-        "onBasePercentage": 0.441,
-        "sluggingPercentage": 0.4,
-        "ops": 0.841,
-        "atBats": 185,
-        "runs": 39,
-        "hits": 56,
-        "doubles": 9,
-        "triples": 0,
-        "homeRuns": 3,
-        "runsBattedIn": 26,
-        "totalBases": 74,
-        "walks": 44,
-        "hitByPitch": 4,
-        "strikeouts": 33,
-        "intentionalWalks": 1,
-        "groundedIntoDoublePlay": 2,
-        "sacrificeFlies": 3,
-        "sacrificeHits": 0,
-        "stolenBases": 4,
-        "stolenBasesAttempts": 4,
-        "putouts": 226,
-        "assists": 0,
-        "errors": 7,
-        "plateAppearances": 240,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "7842",
-        "name": "Jhett Creel",
-        "normalizedName": "jhett creel",
-        "jersey": "4",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/jhett-creel/7842",
-        "imageUrl": "https://sfajacks.com/images/2025/10/16/Jhett_Creel_csoFE.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 28,
-        "putouts": 226,
-        "assists": 12,
-        "errors": 7,
-        "fieldingPercentage": 0.971,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 34,
-        "caughtStealingBy": 6,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 245
-      },
-      "evaluation": {
-        "score": 59,
-        "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
-        },
-        "components": {
-          "On-base": 89.44444444444444,
-          "Power": 21.052631578947377,
-          "Contact": 51.87499999999999,
-          "Discipline": 100,
-          "Speed": 13.333333333333334
-        },
-        "summary": "Jhett Creel profiles as a C piece who gets on base at a high clip and controls at-bats.",
-        "summaryMetrics": [
-          "AVG .303",
-          "OBP .441",
-          "SLG .400"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".303"
-          },
-          {
-            "label": "OBP",
-            "value": ".441"
-          },
-          {
-            "label": "SLG",
-            "value": ".400"
-          },
-          {
-            "label": "HR",
-            "value": "3"
-          },
-          {
-            "label": "RBI",
-            "value": "26"
-          },
-          {
-            "label": "SB",
-            "value": "4"
-          }
-        ],
-        "metaLine": "JR / L/R",
-        "detailBadges": [
-          "C",
-          "JR",
-          "L/R",
-          "Hitter"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats"
-      }
-    },
-    {
-      "id": "stephen-f-austin-7845",
-      "schoolSlug": "stephen-f-austin",
-      "school": "Stephen F. Austin",
-      "schoolLongName": "Stephen F. Austin State University",
-      "name": "Peyton Adams",
-      "normalizedName": "peyton adams",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "OF",
-      "positionLong": "Outfielder",
-      "classYear": "FR",
-      "handedness": "L/L",
-      "jersey": "5",
-      "hometown": "Friendswood, Texas",
-      "highSchool": "Friendswood HS",
-      "previousSchool": "UTSA",
-      "hometownHighSchool": "Friendswood, Texas / Friendswood HS",
-      "profileUrl": "https://sfajacks.com/sports/baseball/roster/peyton-adams/7845",
-      "imageUrl": "https://sfajacks.com/images/2025/10/16/Peyton_Adams_ZFgO3.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "7845",
-      "sources": [
-        "Stephen F. Austin Athletics roster",
-        "Stephen F. Austin cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "7845",
-        "name": "Peyton Adams",
-        "normalizedName": "peyton adams",
-        "jersey": "5",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/peyton-adams/7845",
-        "imageUrl": "https://sfajacks.com/images/2025/10/16/Peyton_Adams_ZFgO3.jpg",
-        "gamesPlayed": 12,
-        "gamesStarted": 3,
-        "battingAverage": 0.2,
-        "onBasePercentage": 0.455,
-        "sluggingPercentage": 0.4,
-        "ops": 0.855,
-        "atBats": 15,
-        "runs": 5,
-        "hits": 3,
-        "doubles": 0,
-        "triples": 0,
-        "homeRuns": 1,
-        "runsBattedIn": 1,
-        "totalBases": 6,
-        "walks": 6,
-        "hitByPitch": 1,
-        "strikeouts": 6,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 2,
-        "stolenBasesAttempts": 2,
-        "putouts": 7,
-        "assists": 0,
-        "errors": 1,
-        "plateAppearances": 24,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "7845",
-        "name": "Peyton Adams",
-        "normalizedName": "peyton adams",
-        "jersey": "5",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/peyton-adams/7845",
-        "imageUrl": "https://sfajacks.com/images/2025/10/16/Peyton_Adams_ZFgO3.jpg",
-        "gamesPlayed": 5,
-        "gamesStarted": 3,
-        "putouts": 7,
-        "assists": 0,
-        "errors": 1,
-        "fieldingPercentage": 0.875,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 8
-      },
-      "evaluation": {
-        "score": 50,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 97.22222222222221,
-          "Power": 21.052631578947377,
-          "Contact": 0,
-          "Discipline": 88.88888888888889,
-          "Speed": 6.666666666666667
-        },
-        "summary": "Peyton Adams profiles as a OF piece who gets on base at a high clip and controls at-bats.",
-        "summaryMetrics": [
-          "AVG .200",
-          "OBP .455",
-          "SLG .400"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".200"
-          },
-          {
-            "label": "OBP",
-            "value": ".455"
-          },
-          {
-            "label": "SLG",
-            "value": ".400"
-          },
-          {
-            "label": "HR",
-            "value": "1"
-          },
-          {
-            "label": "RBI",
-            "value": "1"
-          },
-          {
-            "label": "SB",
-            "value": "2"
-          }
-        ],
-        "metaLine": "FR / L/L",
-        "detailBadges": [
-          "OF",
-          "FR",
-          "L/L",
-          "Hitter"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats"
-      }
-    },
-    {
-      "id": "stephen-f-austin-7820",
-      "schoolSlug": "stephen-f-austin",
-      "school": "Stephen F. Austin",
-      "schoolLongName": "Stephen F. Austin State University",
-      "name": "Elian Balmaceda",
-      "normalizedName": "elian balmaceda",
+      "name": "Brock Bracher",
+      "normalizedName": "brock bracher",
       "compositeRole": "Pitcher",
       "role": "Pitcher",
       "position": "LHP",
-      "positionLong": "Left Handed Pitcher",
-      "classYear": "SR",
+      "positionLong": "",
+      "classYear": "RS",
       "handedness": "L/L",
-      "jersey": "7",
-      "hometown": "Rama, Nicaragua",
-      "highSchool": "Cypress Falls HS",
-      "previousSchool": "Angelina College",
-      "hometownHighSchool": "Rama, Nicaragua / Cypress Falls HS",
-      "profileUrl": "https://sfajacks.com/sports/baseball/roster/elian-balmaceda/7820",
-      "imageUrl": "https://sfajacks.com/images/2025/10/14/Elian_Balmaceda_ycNHC.jpg",
+      "jersey": "",
+      "hometown": "Spring Branch, Texas",
+      "highSchool": "",
+      "previousSchool": "Howard Junior College",
+      "hometownHighSchool": "Spring Branch, Texas",
+      "profileUrl": "https://sfajacks.com/sports/baseball/roster/brock-bracher/8481",
+      "imageUrl": "",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "7820",
-      "sources": [
-        "Stephen F. Austin Athletics roster",
-        "Stephen F. Austin cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "7820",
-        "name": "Elian Balmaceda",
-        "normalizedName": "elian balmaceda",
-        "jersey": "7",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/elian-balmaceda/7820",
-        "imageUrl": "https://sfajacks.com/images/2025/10/14/Elian_Balmaceda_ycNHC.jpg",
-        "gamesPlayed": 18,
-        "gamesStarted": 3,
-        "appearances": 18,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 4.73,
-        "whip": 1.76,
-        "wins": 3,
-        "losses": 1,
-        "saves": 1,
-        "shutouts": 0,
-        "inningsPitched": 32.333333333333336,
-        "inningsPitchedDisplay": "32.1",
-        "hitsAllowed": 43,
-        "runsAllowed": 23,
-        "earnedRunsAllowed": 17,
-        "walksAllowed": 14,
-        "strikeouts": 33,
-        "doublesAllowed": 6,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 6,
-        "opponentsAtBats": 137,
-        "wildPitches": 1,
-        "hitBatters": 1,
-        "balks": 0,
-        "opponentsBattingAverage": 0.314,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "7820",
-        "name": "Elian Balmaceda",
-        "normalizedName": "elian balmaceda",
-        "jersey": "7",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/elian-balmaceda/7820",
-        "imageUrl": "https://sfajacks.com/images/2025/10/14/Elian_Balmaceda_ycNHC.jpg",
-        "gamesPlayed": 4,
-        "gamesStarted": 2,
-        "putouts": 1,
-        "assists": 7,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 8
-      },
-      "evaluation": {
-        "score": 14,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 47.14151827553889,
-          "Command": 27.142857142857146,
-          "Damage suppression": 0
-        },
-        "summary": "Elian Balmaceda looks like a LHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 4.73",
-          "WHIP 1.76",
-          "K/9 9.2"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.73"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.76"
-          },
-          {
-            "label": "K/9",
-            "value": "9.2"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.9"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.67"
-          },
-          {
-            "label": "IP",
-            "value": "32.3"
-          }
-        ],
-        "metaLine": "SR / L/L",
-        "detailBadges": [
-          "LHP",
-          "SR",
-          "L/L",
-          "Pitcher"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats"
-      }
-    },
-    {
-      "id": "stephen-f-austin-7867",
-      "schoolSlug": "stephen-f-austin",
-      "school": "Stephen F. Austin",
-      "schoolLongName": "Stephen F. Austin State University",
-      "name": "Rodric Black",
-      "normalizedName": "rodric black",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "INF",
-      "positionLong": "Infielder",
-      "classYear": "SR",
-      "handedness": "R/R",
-      "jersey": "8",
-      "hometown": "Fort Worth, Texas",
-      "highSchool": "L.D. Bell HS",
-      "previousSchool": "West Texas A&M",
-      "hometownHighSchool": "Fort Worth, Texas / L.D. Bell HS",
-      "profileUrl": "https://sfajacks.com/sports/baseball/roster/rodric-black/7867",
-      "imageUrl": "https://sfajacks.com/images/2026/2/16/DSC01784.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "7867",
-      "sources": [
-        "Stephen F. Austin Athletics roster",
-        "Stephen F. Austin cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "7867",
-        "name": "Rodric Black",
-        "normalizedName": "rodric black",
-        "jersey": "8",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/rodric-black/7867",
-        "imageUrl": "https://sfajacks.com/images/2026/2/16/DSC01784.jpg",
-        "gamesPlayed": 33,
-        "gamesStarted": 23,
-        "battingAverage": 0.23,
-        "onBasePercentage": 0.352,
-        "sluggingPercentage": 0.311,
-        "ops": 0.663,
-        "atBats": 74,
-        "runs": 14,
-        "hits": 17,
-        "doubles": 1,
-        "triples": 1,
-        "homeRuns": 1,
-        "runsBattedIn": 11,
-        "totalBases": 23,
-        "walks": 14,
-        "hitByPitch": 0,
-        "strikeouts": 26,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 2,
-        "stolenBases": 7,
-        "stolenBasesAttempts": 7,
-        "putouts": 30,
-        "assists": 0,
-        "errors": 8,
-        "plateAppearances": 97,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "7867",
-        "name": "Rodric Black",
-        "normalizedName": "rodric black",
-        "jersey": "8",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/rodric-black/7867",
-        "imageUrl": "https://sfajacks.com/images/2026/2/16/DSC01784.jpg",
-        "gamesPlayed": 26,
-        "gamesStarted": 23,
-        "putouts": 30,
-        "assists": 69,
-        "errors": 8,
-        "fieldingPercentage": 0.925,
-        "doublePlays": 15,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 107
-      },
-      "evaluation": {
-        "score": 22,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 39.99999999999997,
-          "Power": 0,
-          "Contact": 6.250000000000005,
-          "Discipline": 37.606837606837594,
-          "Speed": 23.333333333333332
-        },
-        "summary": "Rodric Black gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .230",
-          "OBP .352",
-          "SLG .311"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".230"
-          },
-          {
-            "label": "OBP",
-            "value": ".352"
-          },
-          {
-            "label": "SLG",
-            "value": ".311"
-          },
-          {
-            "label": "HR",
-            "value": "1"
-          },
-          {
-            "label": "RBI",
-            "value": "11"
-          },
-          {
-            "label": "SB",
-            "value": "7"
-          }
-        ],
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "INF",
-          "SR",
-          "R/R",
-          "Hitter"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats"
-      }
-    },
-    {
-      "id": "stephen-f-austin-7821",
-      "schoolSlug": "stephen-f-austin",
-      "school": "Stephen F. Austin",
-      "schoolLongName": "Stephen F. Austin State University",
-      "name": "Jackson Benattar",
-      "normalizedName": "jackson benattar",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "OF",
-      "positionLong": "Outfield",
-      "classYear": "SR",
-      "handedness": "R/R",
-      "jersey": "9",
-      "hometown": "Los Angeles, CA",
-      "highSchool": "Crespi Carmelite HS",
-      "previousSchool": "Glendale CC",
-      "hometownHighSchool": "Los Angeles, CA / Crespi Carmelite HS",
-      "profileUrl": "https://sfajacks.com/sports/baseball/roster/jackson-benattar/7821",
-      "imageUrl": "https://sfajacks.com/images/2025/10/14/Jackson_Benattar_QybAX.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "7821",
-      "sources": [
-        "Stephen F. Austin Athletics roster",
-        "Stephen F. Austin cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "7821",
-        "name": "Jackson Benattar",
-        "normalizedName": "jackson benattar",
-        "jersey": "9",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/jackson-benattar/7821",
-        "imageUrl": "https://sfajacks.com/images/2025/10/14/Jackson_Benattar_QybAX.jpg",
-        "gamesPlayed": 13,
-        "gamesStarted": 3,
-        "battingAverage": 0.25,
-        "onBasePercentage": 0.308,
-        "sluggingPercentage": 0.292,
-        "ops": 0.6,
-        "atBats": 24,
-        "runs": 4,
-        "hits": 6,
-        "doubles": 1,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 3,
-        "totalBases": 7,
-        "walks": 2,
-        "hitByPitch": 0,
-        "strikeouts": 6,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 2,
-        "stolenBasesAttempts": 3,
-        "putouts": 6,
-        "assists": 0,
-        "errors": 1,
-        "plateAppearances": 30,
-        "caughtStealing": 1,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "7821",
-        "name": "Jackson Benattar",
-        "normalizedName": "jackson benattar",
-        "jersey": "9",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/jackson-benattar/7821",
-        "imageUrl": "https://sfajacks.com/images/2025/10/14/Jackson_Benattar_QybAX.jpg",
-        "gamesPlayed": 5,
-        "gamesStarted": 2,
-        "putouts": 6,
-        "assists": 2,
-        "errors": 1,
-        "fieldingPercentage": 0.889,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 9
-      },
-      "evaluation": {
-        "score": 11,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 15.55555555555554,
-          "Power": 0,
-          "Contact": 18.75,
-          "Discipline": 14.814814814814808,
-          "Speed": 6.666666666666667
-        },
-        "summary": "Jackson Benattar gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .250",
-          "OBP .308",
-          "SLG .292"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".250"
-          },
-          {
-            "label": "OBP",
-            "value": ".308"
-          },
-          {
-            "label": "SLG",
-            "value": ".292"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "3"
-          },
-          {
-            "label": "SB",
-            "value": "2"
-          }
-        ],
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "OF",
-          "SR",
-          "R/R",
-          "Hitter"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats"
-      }
-    },
-    {
-      "id": "stephen-f-austin-7826",
-      "schoolSlug": "stephen-f-austin",
-      "school": "Stephen F. Austin",
-      "schoolLongName": "Stephen F. Austin State University",
-      "name": "Owen Hooper",
-      "normalizedName": "owen hooper",
-      "compositeRole": "Rostered",
-      "role": "Hitter",
-      "position": "C",
-      "positionLong": "Catcher",
-      "classYear": "SO",
-      "handedness": "R/R",
-      "jersey": "10",
-      "hometown": "Wichita Falls, Texas",
-      "highSchool": "Rider HS",
-      "previousSchool": "",
-      "hometownHighSchool": "Wichita Falls, Texas / Rider HS",
-      "profileUrl": "https://sfajacks.com/sports/baseball/roster/owen-hooper/7826",
-      "imageUrl": "https://sfajacks.com/images/2025/10/14/Owen_Hooper_w1Bzg.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "7826",
-      "sources": [
-        "Stephen F. Austin Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "summary": "Owen Hooper gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "C",
-          "SO",
-          "R/R",
-          "Rostered"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster"
-      }
-    },
-    {
-      "id": "stephen-f-austin-7831",
-      "schoolSlug": "stephen-f-austin",
-      "school": "Stephen F. Austin",
-      "schoolLongName": "Stephen F. Austin State University",
-      "name": "Dylan Mulcahy",
-      "normalizedName": "dylan mulcahy",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right Handed Pitcher",
-      "classYear": "JR",
-      "handedness": "R/R",
-      "jersey": "11",
-      "hometown": "Austin, TX",
-      "highSchool": "Vandegrift HS",
-      "previousSchool": "",
-      "hometownHighSchool": "Austin, TX / Vandegrift HS",
-      "profileUrl": "https://sfajacks.com/sports/baseball/roster/dylan-mulcahy/7831",
-      "imageUrl": "https://sfajacks.com/images/2025/10/14/Dylan_Mulcahy_YS5Uc.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "7831",
-      "sources": [
-        "Stephen F. Austin Athletics roster",
-        "Stephen F. Austin cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "7831",
-        "name": "Dylan Mulcahy",
-        "normalizedName": "dylan mulcahy",
-        "jersey": "11",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/dylan-mulcahy/7831",
-        "imageUrl": "https://sfajacks.com/images/2025/10/14/Dylan_Mulcahy_YS5Uc.jpg",
-        "gamesPlayed": 13,
-        "gamesStarted": 11,
-        "appearances": 13,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 5.23,
-        "whip": 1.45,
-        "wins": 3,
-        "losses": 6,
-        "saves": 0,
-        "shutouts": 1,
-        "inningsPitched": 51.666666666666664,
-        "inningsPitchedDisplay": "51.2",
-        "hitsAllowed": 52,
-        "runsAllowed": 33,
-        "earnedRunsAllowed": 30,
-        "walksAllowed": 23,
-        "strikeouts": 63,
-        "doublesAllowed": 5,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 5,
-        "opponentsAtBats": 197,
-        "wildPitches": 2,
-        "hitBatters": 2,
-        "balks": 3,
-        "opponentsBattingAverage": 0.264,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "7831",
-        "name": "Dylan Mulcahy",
-        "normalizedName": "dylan mulcahy",
-        "jersey": "11",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/dylan-mulcahy/7831",
-        "imageUrl": "https://sfajacks.com/images/2025/10/14/Dylan_Mulcahy_YS5Uc.jpg",
-        "gamesPlayed": 3,
-        "gamesStarted": 3,
-        "putouts": 1,
-        "assists": 4,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 3,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 5
-      },
-      "evaluation": {
-        "score": 18,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 63.40175953079179,
-          "Command": 34.782608695652165,
-          "Damage suppression": 0
-        },
-        "summary": "Dylan Mulcahy looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 5.23",
-          "WHIP 1.45",
-          "K/9 11.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.23"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.45"
-          },
-          {
-            "label": "K/9",
-            "value": "11.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.87"
-          },
-          {
-            "label": "IP",
-            "value": "51.7"
-          }
-        ],
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats"
-      }
-    },
-    {
-      "id": "stephen-f-austin-7861",
-      "schoolSlug": "stephen-f-austin",
-      "school": "Stephen F. Austin",
-      "schoolLongName": "Stephen F. Austin State University",
-      "name": "Ethan Peña",
-      "normalizedName": "ethan pena",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "INF",
-      "positionLong": "Infielder",
-      "classYear": "JR",
-      "handedness": "R/R",
-      "jersey": "13",
-      "hometown": "Simi Valley, California",
-      "highSchool": "Simi Valley HS",
-      "previousSchool": "Glendale College",
-      "hometownHighSchool": "Simi Valley, California / Simi Valley HS",
-      "profileUrl": "https://sfajacks.com/sports/baseball/roster/ethan-pea/7861",
-      "imageUrl": "https://sfajacks.com/images/2025/10/16/Ethan_Pena_sfq3F.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "7861",
-      "sources": [
-        "Stephen F. Austin Athletics roster",
-        "Stephen F. Austin cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "7861",
-        "name": "Ethan Peña",
-        "normalizedName": "ethan pena",
-        "jersey": "13",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/ethan-pe-a/7861",
-        "imageUrl": "https://sfajacks.com/images/2025/10/16/Ethan_Pena_sfq3F.jpg",
-        "gamesPlayed": 48,
-        "gamesStarted": 48,
-        "battingAverage": 0.27,
-        "onBasePercentage": 0.302,
-        "sluggingPercentage": 0.413,
-        "ops": 0.715,
-        "atBats": 189,
-        "runs": 22,
-        "hits": 51,
-        "doubles": 12,
-        "triples": 0,
-        "homeRuns": 5,
-        "runsBattedIn": 32,
-        "totalBases": 78,
-        "walks": 9,
-        "hitByPitch": 1,
-        "strikeouts": 35,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 4,
-        "sacrificeFlies": 3,
-        "sacrificeHits": 0,
-        "stolenBases": 1,
-        "stolenBasesAttempts": 1,
-        "putouts": 36,
-        "assists": 0,
-        "errors": 16,
-        "plateAppearances": 203,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "7861",
-        "name": "Ethan Peña",
-        "normalizedName": "ethan pena",
-        "jersey": "13",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/ethan-pe-a/7861",
-        "imageUrl": "https://sfajacks.com/images/2025/10/16/Ethan_Pena_sfq3F.jpg",
-        "gamesPlayed": 45,
-        "gamesStarted": 45,
-        "putouts": 36,
-        "assists": 69,
-        "errors": 16,
-        "fieldingPercentage": 0.868,
-        "doublePlays": 7,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 121
-      },
-      "evaluation": {
-        "score": 17,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 12.222222222222202,
-          "Power": 24.47368421052631,
-          "Contact": 31.25000000000001,
-          "Discipline": 6.349206349206344,
-          "Speed": 3.3333333333333335
-        },
-        "summary": "Ethan Peña gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .270",
-          "OBP .302",
-          "SLG .413"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".270"
-          },
-          {
-            "label": "OBP",
-            "value": ".302"
-          },
-          {
-            "label": "SLG",
-            "value": ".413"
-          },
-          {
-            "label": "HR",
-            "value": "5"
-          },
-          {
-            "label": "RBI",
-            "value": "32"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "INF",
-          "JR",
-          "R/R",
-          "Hitter"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats"
-      }
-    },
-    {
-      "id": "stephen-f-austin-7834",
-      "schoolSlug": "stephen-f-austin",
-      "school": "Stephen F. Austin",
-      "schoolLongName": "Stephen F. Austin State University",
-      "name": "Cooper Schneider",
-      "normalizedName": "cooper schneider",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "OF",
-      "positionLong": "Outfield",
-      "classYear": "SR",
-      "handedness": "R/R",
-      "jersey": "14",
-      "hometown": "Cleburne, Texas",
-      "highSchool": "Cleburne HS",
-      "previousSchool": "Dodge City CC",
-      "hometownHighSchool": "Cleburne, Texas / Cleburne HS",
-      "profileUrl": "https://sfajacks.com/sports/baseball/roster/cooper-schneider/7834",
-      "imageUrl": "https://sfajacks.com/images/2025/10/14/Cooper_Schneider_uPaDm.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "7834",
-      "sources": [
-        "Stephen F. Austin Athletics roster",
-        "Stephen F. Austin cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "7834",
-        "name": "Cooper Schneider",
-        "normalizedName": "cooper schneider",
-        "jersey": "14",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/cooper-schneider/7834",
-        "imageUrl": "https://sfajacks.com/images/2025/10/14/Cooper_Schneider_uPaDm.jpg",
-        "gamesPlayed": 42,
-        "gamesStarted": 39,
-        "battingAverage": 0.215,
-        "onBasePercentage": 0.364,
-        "sluggingPercentage": 0.223,
-        "ops": 0.587,
-        "atBats": 121,
-        "runs": 28,
-        "hits": 26,
-        "doubles": 1,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 16,
-        "totalBases": 27,
-        "walks": 25,
-        "hitByPitch": 4,
-        "strikeouts": 26,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 2,
-        "sacrificeFlies": 1,
-        "sacrificeHits": 5,
-        "stolenBases": 9,
-        "stolenBasesAttempts": 9,
-        "putouts": 99,
-        "assists": 0,
-        "errors": 3,
-        "plateAppearances": 165,
-        "caughtStealing": 0,
-        "pickedOff": 1
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "7834",
-        "name": "Cooper Schneider",
-        "normalizedName": "cooper schneider",
-        "jersey": "14",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/cooper-schneider/7834",
-        "imageUrl": "https://sfajacks.com/images/2025/10/14/Cooper_Schneider_uPaDm.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 38,
-        "putouts": 99,
-        "assists": 3,
-        "errors": 3,
-        "fieldingPercentage": 0.971,
-        "doublePlays": 3,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 105
-      },
-      "evaluation": {
-        "score": 30,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 46.66666666666665,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 84.6153846153846,
-          "Speed": 30
-        },
-        "summary": "Cooper Schneider profiles as a OF piece who adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .215",
-          "OBP .364",
-          "SLG .223"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".215"
-          },
-          {
-            "label": "OBP",
-            "value": ".364"
-          },
-          {
-            "label": "SLG",
-            "value": ".223"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "16"
-          },
-          {
-            "label": "SB",
-            "value": "9"
-          }
-        ],
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "OF",
-          "SR",
-          "R/R",
-          "Hitter"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats"
-      }
-    },
-    {
-      "id": "stephen-f-austin-7864",
-      "schoolSlug": "stephen-f-austin",
-      "school": "Stephen F. Austin",
-      "schoolLongName": "Stephen F. Austin State University",
-      "name": "Nate Vidlak",
-      "normalizedName": "nate vidlak",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right Handed Pitcher",
-      "classYear": "SR",
-      "handedness": "R/R",
-      "jersey": "15",
-      "hometown": "Applegate, Oregon",
-      "highSchool": "Hidden Valley HS",
-      "previousSchool": "The College of Idaho",
-      "hometownHighSchool": "Applegate, Oregon / Hidden Valley HS",
-      "profileUrl": "https://sfajacks.com/sports/baseball/roster/nate-vidlak/7864",
-      "imageUrl": "https://sfajacks.com/images/2025/10/16/Nate_Vidlak_SFqRg.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "7864",
-      "sources": [
-        "Stephen F. Austin Athletics roster",
-        "Stephen F. Austin cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "7864",
-        "name": "Nate Vidlak",
-        "normalizedName": "nate vidlak",
-        "jersey": "15",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/nate-vidlak/7864",
-        "imageUrl": "https://sfajacks.com/images/2025/10/16/Nate_Vidlak_SFqRg.jpg",
-        "gamesPlayed": 15,
-        "gamesStarted": 2,
-        "appearances": 15,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 5.96,
-        "whip": 1.76,
-        "wins": 1,
-        "losses": 1,
-        "saves": 0,
-        "shutouts": 1,
-        "inningsPitched": 22.666666666666668,
-        "inningsPitchedDisplay": "22.2",
-        "hitsAllowed": 25,
-        "runsAllowed": 17,
-        "earnedRunsAllowed": 15,
-        "walksAllowed": 15,
-        "strikeouts": 30,
-        "doublesAllowed": 4,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 1,
-        "opponentsAtBats": 91,
-        "wildPitches": 4,
-        "hitBatters": 5,
-        "balks": 0,
-        "opponentsBattingAverage": 0.275,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "7864",
-        "name": "Nate Vidlak",
-        "normalizedName": "nate vidlak",
-        "jersey": "15",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/nate-vidlak/7864",
-        "imageUrl": "https://sfajacks.com/images/2025/10/16/Nate_Vidlak_SFqRg.jpg",
-        "gamesPlayed": 4,
-        "gamesStarted": 1,
-        "putouts": 1,
-        "assists": 4,
-        "errors": 1,
-        "fieldingPercentage": 0.833,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 1,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 6
-      },
-      "evaluation": {
-        "score": 18,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 71.92513368983956,
-          "Command": 20,
-          "Damage suppression": 0
-        },
-        "summary": "Nate Vidlak looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 5.96",
-          "WHIP 1.76",
-          "K/9 11.9"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.96"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.76"
-          },
-          {
-            "label": "K/9",
-            "value": "11.9"
-          },
-          {
-            "label": "BB/9",
-            "value": "6.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.40"
-          },
-          {
-            "label": "IP",
-            "value": "22.7"
-          }
-        ],
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats"
-      }
-    },
-    {
-      "id": "stephen-f-austin-7836",
-      "schoolSlug": "stephen-f-austin",
-      "school": "Stephen F. Austin",
-      "schoolLongName": "Stephen F. Austin State University",
-      "name": "Cody Templeton",
-      "normalizedName": "cody templeton",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "Left Handed Pitcher",
-      "classYear": "SR",
-      "handedness": "L/L",
-      "jersey": "16",
-      "hometown": "Buda, Texas",
-      "highSchool": "Johnson HS",
-      "previousSchool": "Texas A&M International",
-      "hometownHighSchool": "Buda, Texas / Johnson HS",
-      "profileUrl": "https://sfajacks.com/sports/baseball/roster/cody-templeton/7836",
-      "imageUrl": "https://sfajacks.com/images/2025/10/14/Cody_Templeton_YPQiN.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "7836",
-      "sources": [
-        "Stephen F. Austin Athletics roster",
-        "Stephen F. Austin cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "7836",
-        "name": "Cody Templeton",
-        "normalizedName": "cody templeton",
-        "jersey": "16",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/cody-templeton/7836",
-        "imageUrl": "https://sfajacks.com/images/2025/10/14/Cody_Templeton_YPQiN.jpg",
-        "gamesPlayed": 14,
-        "gamesStarted": 14,
-        "appearances": 14,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 4.36,
-        "whip": 1.52,
-        "wins": 6,
-        "losses": 1,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 74.33333333333333,
-        "inningsPitchedDisplay": "74.1",
-        "hitsAllowed": 83,
-        "runsAllowed": 41,
-        "earnedRunsAllowed": 36,
-        "walksAllowed": 30,
-        "strikeouts": 72,
-        "doublesAllowed": 15,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 4,
-        "opponentsAtBats": 293,
-        "wildPitches": 3,
-        "hitBatters": 7,
-        "balks": 0,
-        "opponentsBattingAverage": 0.283,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "7836",
-        "name": "Cody Templeton",
-        "normalizedName": "cody templeton",
-        "jersey": "16",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/cody-templeton/7836",
-        "imageUrl": "https://sfajacks.com/images/2025/10/14/Cody_Templeton_YPQiN.jpg",
-        "gamesPlayed": 10,
-        "gamesStarted": 10,
-        "putouts": 5,
-        "assists": 9,
-        "errors": 1,
-        "fieldingPercentage": 0.933,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 2,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 15
-      },
-      "evaluation": {
-        "score": 13,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 42.88626172034244,
-          "Command": 27.999999999999996,
-          "Damage suppression": 0
-        },
-        "summary": "Cody Templeton gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 4.36",
-          "WHIP 1.52",
-          "K/9 8.7"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.36"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.52"
-          },
-          {
-            "label": "K/9",
-            "value": "8.7"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.6"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.48"
-          },
-          {
-            "label": "IP",
-            "value": "74.3"
-          }
-        ],
-        "metaLine": "SR / L/L",
-        "detailBadges": [
-          "LHP",
-          "SR",
-          "L/L",
-          "Pitcher"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats"
-      }
-    },
-    {
-      "id": "stephen-f-austin-7825",
-      "schoolSlug": "stephen-f-austin",
-      "school": "Stephen F. Austin",
-      "schoolLongName": "Stephen F. Austin State University",
-      "name": "Mark Henning",
-      "normalizedName": "mark henning",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "INF",
-      "positionLong": "Infield",
-      "classYear": "SR",
-      "handedness": "L/R",
-      "jersey": "17",
-      "hometown": "Houston, Texas",
-      "highSchool": "Houston Christian HS",
-      "previousSchool": "UTSA/New Mexico JC",
-      "hometownHighSchool": "Houston, Texas / Houston Christian HS",
-      "profileUrl": "https://sfajacks.com/sports/baseball/roster/mark-henning/7825",
-      "imageUrl": "https://sfajacks.com/images/2025/10/14/Mark_Henning_mZGFP.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "7825",
-      "sources": [
-        "Stephen F. Austin Athletics roster",
-        "Stephen F. Austin cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "7825",
-        "name": "Mark Henning",
-        "normalizedName": "mark henning",
-        "jersey": "17",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/mark-henning/7825",
-        "imageUrl": "https://sfajacks.com/images/2025/10/14/Mark_Henning_mZGFP.jpg",
-        "gamesPlayed": 53,
-        "gamesStarted": 53,
-        "battingAverage": 0.316,
-        "onBasePercentage": 0.417,
-        "sluggingPercentage": 0.456,
-        "ops": 0.873,
-        "atBats": 193,
-        "runs": 36,
-        "hits": 61,
-        "doubles": 15,
-        "triples": 0,
-        "homeRuns": 4,
-        "runsBattedIn": 33,
-        "totalBases": 88,
-        "walks": 28,
-        "hitByPitch": 6,
-        "strikeouts": 22,
-        "intentionalWalks": 1,
-        "groundedIntoDoublePlay": 2,
-        "sacrificeFlies": 1,
-        "sacrificeHits": 1,
-        "stolenBases": 7,
-        "stolenBasesAttempts": 9,
-        "putouts": 432,
-        "assists": 0,
-        "errors": 2,
-        "plateAppearances": 240,
-        "caughtStealing": 2,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "7825",
-        "name": "Mark Henning",
-        "normalizedName": "mark henning",
-        "jersey": "17",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/mark-henning/7825",
-        "imageUrl": "https://sfajacks.com/images/2025/10/14/Mark_Henning_mZGFP.jpg",
-        "gamesPlayed": 53,
-        "gamesStarted": 53,
-        "putouts": 432,
-        "assists": 25,
-        "errors": 2,
-        "fieldingPercentage": 0.996,
-        "doublePlays": 37,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 459
-      },
-      "evaluation": {
-        "score": 61,
-        "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
-        },
-        "components": {
-          "On-base": 76.11111111111109,
-          "Power": 35.789473684210535,
-          "Contact": 60,
-          "Discipline": 100,
-          "Speed": 23.333333333333332
-        },
-        "summary": "Mark Henning profiles as a INF piece who gets on base at a high clip and controls at-bats.",
-        "summaryMetrics": [
-          "AVG .316",
-          "OBP .417",
-          "SLG .456"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".316"
-          },
-          {
-            "label": "OBP",
-            "value": ".417"
-          },
-          {
-            "label": "SLG",
-            "value": ".456"
-          },
-          {
-            "label": "HR",
-            "value": "4"
-          },
-          {
-            "label": "RBI",
-            "value": "33"
-          },
-          {
-            "label": "SB",
-            "value": "7"
-          }
-        ],
-        "metaLine": "SR / L/R",
-        "detailBadges": [
-          "INF",
-          "SR",
-          "L/R",
-          "Hitter"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats"
-      }
-    },
-    {
-      "id": "stephen-f-austin-7832",
-      "schoolSlug": "stephen-f-austin",
-      "school": "Stephen F. Austin",
-      "schoolLongName": "Stephen F. Austin State University",
-      "name": "Kadin Munson",
-      "normalizedName": "kadin munson",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "Left Handed Pitcher",
-      "classYear": "SR",
-      "handedness": "L/L",
-      "jersey": "18",
-      "hometown": "Danbury, Texas",
-      "highSchool": "Danbury HS",
-      "previousSchool": "University of St. Thomas-Houston",
-      "hometownHighSchool": "Danbury, Texas / Danbury HS",
-      "profileUrl": "https://sfajacks.com/sports/baseball/roster/kadin-munson/7832",
-      "imageUrl": "https://sfajacks.com/images/2025/10/14/Kadin_Munson_tI3tG.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "7832",
-      "sources": [
-        "Stephen F. Austin Athletics roster",
-        "Stephen F. Austin cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "7832",
-        "name": "Kadin Munson",
-        "normalizedName": "kadin munson",
-        "jersey": "18",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/kadin-munson/7832",
-        "imageUrl": "https://sfajacks.com/images/2025/10/14/Kadin_Munson_tI3tG.jpg",
-        "gamesPlayed": 21,
-        "gamesStarted": 0,
-        "appearances": 21,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 3.32,
-        "whip": 1.58,
-        "wins": 2,
-        "losses": 1,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 19,
-        "inningsPitchedDisplay": "19.0",
-        "hitsAllowed": 20,
-        "runsAllowed": 7,
-        "earnedRunsAllowed": 7,
-        "walksAllowed": 10,
-        "strikeouts": 14,
-        "doublesAllowed": 1,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 71,
-        "wildPitches": 3,
-        "hitBatters": 1,
-        "balks": 0,
-        "opponentsBattingAverage": 0.282,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "7832",
-        "name": "Kadin Munson",
-        "normalizedName": "kadin munson",
-        "jersey": "18",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/kadin-munson/7832",
-        "imageUrl": "https://sfajacks.com/images/2025/10/14/Kadin_Munson_tI3tG.jpg",
-        "gamesPlayed": 7,
-        "gamesStarted": 0,
-        "putouts": 0,
-        "assists": 7,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 7
-      },
-      "evaluation": {
-        "score": 6,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 23.923444976076556,
-          "Command": 8.000000000000004,
-          "Damage suppression": 0
-        },
-        "summary": "Kadin Munson looks like a LHP option who limits runs.",
-        "summaryMetrics": [
-          "ERA 3.32",
-          "WHIP 1.58",
-          "K/9 6.6"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.32"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.58"
-          },
-          {
-            "label": "K/9",
-            "value": "6.6"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.7"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.95"
-          },
-          {
-            "label": "IP",
-            "value": "19.0"
-          }
-        ],
-        "metaLine": "SR / L/L",
-        "detailBadges": [
-          "LHP",
-          "SR",
-          "L/L",
-          "Pitcher"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats"
-      }
-    },
-    {
-      "id": "stephen-f-austin-7824",
-      "schoolSlug": "stephen-f-austin",
-      "school": "Stephen F. Austin",
-      "schoolLongName": "Stephen F. Austin State University",
-      "name": "Seanan Farney",
-      "normalizedName": "seanan farney",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right Handed Pitcher",
-      "classYear": "JR",
-      "handedness": "R/R",
-      "jersey": "19",
-      "hometown": "Litchfield Park, AZ",
-      "highSchool": "Millennium HS",
-      "previousSchool": "Pima CC",
-      "hometownHighSchool": "Litchfield Park, AZ / Millennium HS",
-      "profileUrl": "https://sfajacks.com/sports/baseball/roster/seanan-farney/7824",
-      "imageUrl": "https://sfajacks.com/images/2025/10/14/Sean_Farney_kL4yB.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "7824",
-      "sources": [
-        "Stephen F. Austin Athletics roster",
-        "Stephen F. Austin cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "7824",
-        "name": "Seanan Farney",
-        "normalizedName": "seanan farney",
-        "jersey": "19",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/seanan-farney/7824",
-        "imageUrl": "https://sfajacks.com/images/2025/10/14/Sean_Farney_kL4yB.jpg",
-        "gamesPlayed": 11,
-        "gamesStarted": 4,
-        "appearances": 11,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 6.41,
-        "whip": 1.53,
-        "wins": 0,
-        "losses": 4,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 19.666666666666668,
-        "inningsPitchedDisplay": "19.2",
-        "hitsAllowed": 19,
-        "runsAllowed": 14,
-        "earnedRunsAllowed": 14,
-        "walksAllowed": 11,
-        "strikeouts": 25,
-        "doublesAllowed": 2,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 4,
-        "opponentsAtBats": 74,
-        "wildPitches": 2,
-        "hitBatters": 2,
-        "balks": 0,
-        "opponentsBattingAverage": 0.257,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "7824",
-        "name": "Seanan Farney",
-        "normalizedName": "seanan farney",
-        "jersey": "19",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/seanan-farney/7824",
-        "imageUrl": "https://sfajacks.com/images/2025/10/14/Sean_Farney_kL4yB.jpg",
-        "gamesPlayed": 3,
-        "gamesStarted": 2,
-        "putouts": 1,
-        "assists": 1,
-        "errors": 1,
-        "fieldingPercentage": 0.667,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 3
-      },
-      "evaluation": {
-        "score": 18,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 67.64252696456086,
-          "Command": 25.454545454545453,
-          "Damage suppression": 0
-        },
-        "summary": "Seanan Farney looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 6.41",
-          "WHIP 1.53",
-          "K/9 11.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "6.41"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.53"
-          },
-          {
-            "label": "K/9",
-            "value": "11.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.83"
-          },
-          {
-            "label": "IP",
-            "value": "19.7"
-          }
-        ],
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats"
-      }
-    },
-    {
-      "id": "stephen-f-austin-7849",
-      "schoolSlug": "stephen-f-austin",
-      "school": "Stephen F. Austin",
-      "schoolLongName": "Stephen F. Austin State University",
-      "name": "Trey Acreman",
-      "normalizedName": "trey acreman",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "INF",
-      "positionLong": "Infielder",
-      "classYear": "JR",
-      "handedness": "R/R",
-      "jersey": "20",
-      "hometown": "Montgomery, Texas",
-      "highSchool": "Montgomery HS",
-      "previousSchool": "Cisco JC",
-      "hometownHighSchool": "Montgomery, Texas / Montgomery HS",
-      "profileUrl": "https://sfajacks.com/sports/baseball/roster/trey-acreman/7849",
-      "imageUrl": "https://sfajacks.com/images/2025/10/16/Trey_Acreman_wJuj1.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "7849",
-      "sources": [
-        "Stephen F. Austin Athletics roster",
-        "Stephen F. Austin cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "7849",
-        "name": "Trey Acreman",
-        "normalizedName": "trey acreman",
-        "jersey": "20",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/trey-acreman/7849",
-        "imageUrl": "https://sfajacks.com/images/2025/10/16/Trey_Acreman_wJuj1.jpg",
-        "gamesPlayed": 19,
-        "gamesStarted": 12,
-        "battingAverage": 0.214,
-        "onBasePercentage": 0.37,
-        "sluggingPercentage": 0.31,
-        "ops": 0.68,
-        "atBats": 42,
-        "runs": 9,
-        "hits": 9,
-        "doubles": 1,
-        "triples": 0,
-        "homeRuns": 1,
-        "runsBattedIn": 6,
-        "totalBases": 13,
-        "walks": 9,
-        "hitByPitch": 2,
-        "strikeouts": 7,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 2,
-        "sacrificeFlies": 1,
-        "sacrificeHits": 1,
-        "stolenBases": 3,
-        "stolenBasesAttempts": 3,
-        "putouts": 18,
-        "assists": 0,
-        "errors": 5,
-        "plateAppearances": 58,
-        "caughtStealing": 0,
-        "pickedOff": 1
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "7849",
-        "name": "Trey Acreman",
-        "normalizedName": "trey acreman",
-        "jersey": "20",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/trey-acreman/7849",
-        "imageUrl": "https://sfajacks.com/images/2025/10/16/Trey_Acreman_wJuj1.jpg",
-        "gamesPlayed": 17,
-        "gamesStarted": 12,
-        "putouts": 18,
-        "assists": 18,
-        "errors": 5,
-        "fieldingPercentage": 0.878,
-        "doublePlays": 4,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 41
-      },
-      "evaluation": {
-        "score": 31,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 49.999999999999986,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 100,
-          "Speed": 10
-        },
-        "summary": "Trey Acreman profiles as a INF piece who controls at-bats.",
-        "summaryMetrics": [
-          "AVG .214",
-          "OBP .370",
-          "SLG .310"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".214"
-          },
-          {
-            "label": "OBP",
-            "value": ".370"
-          },
-          {
-            "label": "SLG",
-            "value": ".310"
-          },
-          {
-            "label": "HR",
-            "value": "1"
-          },
-          {
-            "label": "RBI",
-            "value": "6"
-          },
-          {
-            "label": "SB",
-            "value": "3"
-          }
-        ],
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "INF",
-          "JR",
-          "R/R",
-          "Hitter"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats"
-      }
-    },
-    {
-      "id": "stephen-f-austin-7865",
-      "schoolSlug": "stephen-f-austin",
-      "school": "Stephen F. Austin",
-      "schoolLongName": "Stephen F. Austin State University",
-      "name": "Drew Wenske",
-      "normalizedName": "drew wenske",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right Handed Pitcher",
-      "classYear": "JR",
-      "handedness": "R/R",
-      "jersey": "21",
-      "hometown": "Shiner, Texas",
-      "highSchool": "Shiner HS",
-      "previousSchool": "Wharton County JC",
-      "hometownHighSchool": "Shiner, Texas / Shiner HS",
-      "profileUrl": "https://sfajacks.com/sports/baseball/roster/drew-wenske/7865",
-      "imageUrl": "https://sfajacks.com/images/2025/10/16/Drew_Wenske_MlsXm.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "7865",
-      "sources": [
-        "Stephen F. Austin Athletics roster",
-        "Stephen F. Austin cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "7865",
-        "name": "Drew Wenske",
-        "normalizedName": "drew wenske",
-        "jersey": "21",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/drew-wenske/7865",
-        "imageUrl": "https://sfajacks.com/images/2025/10/16/Drew_Wenske_MlsXm.jpg",
-        "gamesPlayed": 11,
-        "gamesStarted": 0,
-        "appearances": 11,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 12.71,
-        "whip": 3.35,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 5.666666666666667,
-        "inningsPitchedDisplay": "5.2",
-        "hitsAllowed": 9,
-        "runsAllowed": 9,
-        "earnedRunsAllowed": 8,
-        "walksAllowed": 10,
-        "strikeouts": 9,
-        "doublesAllowed": 1,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 25,
-        "wildPitches": 1,
-        "hitBatters": 4,
-        "balks": 0,
-        "opponentsBattingAverage": 0.36,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "7865",
-        "name": "Drew Wenske",
-        "normalizedName": "drew wenske",
-        "jersey": "21",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/drew-wenske/7865",
-        "imageUrl": "https://sfajacks.com/images/2025/10/16/Drew_Wenske_MlsXm.jpg",
-        "gamesPlayed": 1,
-        "gamesStarted": 0,
-        "putouts": 0,
-        "assists": 2,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 2
-      },
-      "evaluation": {
-        "score": 19,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 93.58288770053474,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Drew Wenske looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 12.71",
-          "WHIP 3.35",
-          "K/9 14.3"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "12.71"
-          },
-          {
-            "label": "WHIP",
-            "value": "3.35"
-          },
-          {
-            "label": "K/9",
-            "value": "14.3"
-          },
-          {
-            "label": "BB/9",
-            "value": "15.9"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "5.7"
-          }
-        ],
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats"
-      }
-    },
-    {
-      "id": "stephen-f-austin-7827",
-      "schoolSlug": "stephen-f-austin",
-      "school": "Stephen F. Austin",
-      "schoolLongName": "Stephen F. Austin State University",
-      "name": "Josh Ibe",
-      "normalizedName": "josh ibe",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "INF",
-      "positionLong": "Infield",
-      "classYear": "SR",
-      "handedness": "R/R",
-      "jersey": "22",
-      "hometown": "Cypress, Texas",
-      "highSchool": "Cypress Ranch HS",
-      "previousSchool": "Hill College",
-      "hometownHighSchool": "Cypress, Texas / Cypress Ranch HS",
-      "profileUrl": "https://sfajacks.com/sports/baseball/roster/josh-ibe/7827",
-      "imageUrl": "https://sfajacks.com/images/2025/10/14/Josh_Ibe_0Y2Ht.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "7827",
-      "sources": [
-        "Stephen F. Austin Athletics roster",
-        "Stephen F. Austin cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "7827",
-        "name": "Josh Ibe",
-        "normalizedName": "josh ibe",
-        "jersey": "22",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/josh-ibe/7827",
-        "imageUrl": "https://sfajacks.com/images/2025/10/14/Josh_Ibe_0Y2Ht.jpg",
-        "gamesPlayed": 44,
-        "gamesStarted": 42,
-        "battingAverage": 0.25,
-        "onBasePercentage": 0.359,
-        "sluggingPercentage": 0.451,
-        "ops": 0.81,
-        "atBats": 144,
-        "runs": 33,
-        "hits": 36,
-        "doubles": 8,
-        "triples": 0,
-        "homeRuns": 7,
-        "runsBattedIn": 27,
-        "totalBases": 65,
-        "walks": 23,
-        "hitByPitch": 2,
-        "strikeouts": 44,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 9,
-        "sacrificeFlies": 1,
-        "sacrificeHits": 1,
-        "stolenBases": 2,
-        "stolenBasesAttempts": 3,
-        "putouts": 19,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 175,
-        "caughtStealing": 1,
-        "pickedOff": 1
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "7827",
-        "name": "Josh Ibe",
-        "normalizedName": "josh ibe",
-        "jersey": "22",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/josh-ibe/7827",
-        "imageUrl": "https://sfajacks.com/images/2025/10/14/Josh_Ibe_0Y2Ht.jpg",
-        "gamesPlayed": 10,
-        "gamesStarted": 10,
-        "putouts": 19,
-        "assists": 2,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 21
-      },
-      "evaluation": {
-        "score": 32,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 43.888888888888864,
-          "Power": 34.47368421052632,
-          "Contact": 18.75,
-          "Discipline": 35.85858585858585,
-          "Speed": 6.666666666666667
-        },
-        "summary": "Josh Ibe gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .250",
-          "OBP .359",
-          "SLG .451"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".250"
-          },
-          {
-            "label": "OBP",
-            "value": ".359"
-          },
-          {
-            "label": "SLG",
-            "value": ".451"
-          },
-          {
-            "label": "HR",
-            "value": "7"
-          },
-          {
-            "label": "RBI",
-            "value": "27"
-          },
-          {
-            "label": "SB",
-            "value": "2"
-          }
-        ],
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "INF",
-          "SR",
-          "R/R",
-          "Hitter"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats"
-      }
-    },
-    {
-      "id": "stephen-f-austin-7823",
-      "schoolSlug": "stephen-f-austin",
-      "school": "Stephen F. Austin",
-      "schoolLongName": "Stephen F. Austin State University",
-      "name": "Reid Bowyer",
-      "normalizedName": "reid bowyer",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right Handed Pitcher",
-      "classYear": "SR",
-      "handedness": "R/R",
-      "jersey": "23",
-      "hometown": "Nacogdoches, Texas",
-      "highSchool": "Nacogdoches HS",
-      "previousSchool": "",
-      "hometownHighSchool": "Nacogdoches, Texas / Nacogdoches HS",
-      "profileUrl": "https://sfajacks.com/sports/baseball/roster/reid-bowyer/7823",
-      "imageUrl": "https://sfajacks.com/images/2025/10/14/Reid_Bowyer_HP0hV.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "7823",
-      "sources": [
-        "Stephen F. Austin Athletics roster",
-        "Stephen F. Austin cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "7823",
-        "name": "Reid Bowyer",
-        "normalizedName": "reid bowyer",
-        "jersey": "23",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/reid-bowyer/7823",
-        "imageUrl": "https://sfajacks.com/images/2025/10/14/Reid_Bowyer_HP0hV.jpg",
-        "gamesPlayed": 20,
-        "gamesStarted": 0,
-        "appearances": 20,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 4.3,
-        "whip": 1.25,
-        "wins": 2,
-        "losses": 2,
-        "saves": 4,
-        "shutouts": 0,
-        "inningsPitched": 37.666666666666664,
-        "inningsPitchedDisplay": "37.2",
-        "hitsAllowed": 36,
-        "runsAllowed": 22,
-        "earnedRunsAllowed": 18,
-        "walksAllowed": 11,
-        "strikeouts": 24,
-        "doublesAllowed": 5,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 139,
-        "wildPitches": 1,
-        "hitBatters": 7,
-        "balks": 0,
-        "opponentsBattingAverage": 0.259,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "7823",
-        "name": "Reid Bowyer",
-        "normalizedName": "reid bowyer",
-        "jersey": "23",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/reid-bowyer/7823",
-        "imageUrl": "https://sfajacks.com/images/2025/10/14/Reid_Bowyer_HP0hV.jpg",
-        "gamesPlayed": 6,
-        "gamesStarted": 0,
-        "putouts": 2,
-        "assists": 3,
-        "errors": 2,
-        "fieldingPercentage": 0.714,
-        "doublePlays": 1,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 7
-      },
-      "evaluation": {
-        "score": 7,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 15.76830249396621,
-          "Command": 23.636363636363633,
-          "Damage suppression": 0
-        },
-        "summary": "Reid Bowyer looks like a RHP option who throws enough strikes and keeps traffic under control.",
-        "summaryMetrics": [
-          "ERA 4.30",
-          "WHIP 1.25",
-          "K/9 5.7"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.30"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.25"
-          },
-          {
-            "label": "K/9",
-            "value": "5.7"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.6"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "37.7"
-          }
-        ],
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats"
-      }
-    },
-    {
-      "id": "stephen-f-austin-7835",
-      "schoolSlug": "stephen-f-austin",
-      "school": "Stephen F. Austin",
-      "schoolLongName": "Stephen F. Austin State University",
-      "name": "Julian Swift",
-      "normalizedName": "julian swift",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "INF",
-      "positionLong": "Infield",
-      "classYear": "SR",
-      "handedness": "R/R",
-      "jersey": "24",
-      "hometown": "Cedar Park, Texas",
-      "highSchool": "Cedar Park HS",
-      "previousSchool": "Concordia-Austin",
-      "hometownHighSchool": "Cedar Park, Texas / Cedar Park HS",
-      "profileUrl": "https://sfajacks.com/sports/baseball/roster/julian-swift/7835",
-      "imageUrl": "https://sfajacks.com/images/2025/10/14/Julian_Swift_QflLg.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "7835",
-      "sources": [
-        "Stephen F. Austin Athletics roster",
-        "Stephen F. Austin cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "7835",
-        "name": "Julian Swift",
-        "normalizedName": "julian swift",
-        "jersey": "24",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/julian-swift/7835",
-        "imageUrl": "https://sfajacks.com/images/2025/10/14/Julian_Swift_QflLg.jpg",
-        "gamesPlayed": 56,
-        "gamesStarted": 56,
-        "battingAverage": 0.325,
-        "onBasePercentage": 0.371,
-        "sluggingPercentage": 0.478,
-        "ops": 0.849,
-        "atBats": 228,
-        "runs": 40,
-        "hits": 74,
-        "doubles": 12,
-        "triples": 4,
-        "homeRuns": 5,
-        "runsBattedIn": 55,
-        "totalBases": 109,
-        "walks": 13,
-        "hitByPitch": 5,
-        "strikeouts": 19,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 8,
-        "sacrificeFlies": 2,
-        "sacrificeHits": 1,
-        "stolenBases": 10,
-        "stolenBasesAttempts": 15,
-        "putouts": 59,
-        "assists": 0,
-        "errors": 11,
-        "plateAppearances": 269,
-        "caughtStealing": 5,
-        "pickedOff": 1
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "7835",
-        "name": "Julian Swift",
-        "normalizedName": "julian swift",
-        "jersey": "24",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/julian-swift/7835",
-        "imageUrl": "https://sfajacks.com/images/2025/10/14/Julian_Swift_QflLg.jpg",
-        "gamesPlayed": 51,
-        "gamesStarted": 51,
-        "putouts": 59,
-        "assists": 126,
-        "errors": 11,
-        "fieldingPercentage": 0.944,
-        "doublePlays": 17,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 196
-      },
-      "evaluation": {
-        "score": 50,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 50.55555555555554,
-          "Power": 41.57894736842105,
-          "Contact": 65.625,
-          "Discipline": 53.80116959064327,
-          "Speed": 33.33333333333333
-        },
-        "summary": "Julian Swift profiles as a INF piece who adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .325",
-          "OBP .371",
-          "SLG .478"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".325"
-          },
-          {
-            "label": "OBP",
-            "value": ".371"
-          },
-          {
-            "label": "SLG",
-            "value": ".478"
-          },
-          {
-            "label": "HR",
-            "value": "5"
-          },
-          {
-            "label": "RBI",
-            "value": "55"
-          },
-          {
-            "label": "SB",
-            "value": "10"
-          }
-        ],
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "INF",
-          "SR",
-          "R/R",
-          "Hitter"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats"
-      }
-    },
-    {
-      "id": "stephen-f-austin-7862",
-      "schoolSlug": "stephen-f-austin",
-      "school": "Stephen F. Austin",
-      "schoolLongName": "Stephen F. Austin State University",
-      "name": "Adrian Rubio",
-      "normalizedName": "adrian rubio",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right Handed Pitcher",
-      "classYear": "SR",
-      "handedness": "R/R",
-      "jersey": "25",
-      "hometown": "El Paso, Texas",
-      "highSchool": "Pebble Hills HS",
-      "previousSchool": "Eastern New Mexico/New Mexico Military",
-      "hometownHighSchool": "El Paso, Texas / Pebble Hills HS",
-      "profileUrl": "https://sfajacks.com/sports/baseball/roster/adrian-rubio/7862",
-      "imageUrl": "https://sfajacks.com/images/2025/10/16/Adrian_Rubio_UkPVL.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "7862",
-      "sources": [
-        "Stephen F. Austin Athletics roster",
-        "Stephen F. Austin cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "7862",
-        "name": "Adrian Rubio",
-        "normalizedName": "adrian rubio",
-        "jersey": "25",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/adrian-rubio/7862",
-        "imageUrl": "https://sfajacks.com/images/2025/10/16/Adrian_Rubio_UkPVL.jpg",
-        "gamesPlayed": 9,
-        "gamesStarted": 1,
-        "appearances": 9,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 16.5,
-        "whip": 3.33,
-        "wins": 0,
-        "losses": 2,
-        "saves": 1,
-        "shutouts": 0,
-        "inningsPitched": 6,
-        "inningsPitchedDisplay": "6.0",
-        "hitsAllowed": 7,
-        "runsAllowed": 13,
-        "earnedRunsAllowed": 11,
-        "walksAllowed": 13,
-        "strikeouts": 7,
-        "doublesAllowed": 2,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 1,
-        "opponentsAtBats": 25,
-        "wildPitches": 2,
-        "hitBatters": 4,
-        "balks": 0,
-        "opponentsBattingAverage": 0.28,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "7862",
-        "name": "Adrian Rubio",
-        "normalizedName": "adrian rubio",
-        "jersey": "25",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/adrian-rubio/7862",
-        "imageUrl": "https://sfajacks.com/images/2025/10/16/Adrian_Rubio_UkPVL.jpg",
-        "gamesPlayed": 1,
-        "gamesStarted": 0,
-        "putouts": 0,
-        "assists": 2,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 1,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 2
-      },
-      "evaluation": {
-        "score": 12,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 59.09090909090909,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Adrian Rubio looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 16.50",
-          "WHIP 3.33",
-          "K/9 10.5"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "16.50"
-          },
-          {
-            "label": "WHIP",
-            "value": "3.33"
-          },
-          {
-            "label": "K/9",
-            "value": "10.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "19.5"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.50"
-          },
-          {
-            "label": "IP",
-            "value": "6.0"
-          }
-        ],
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats"
-      }
-    },
-    {
-      "id": "stephen-f-austin-7843",
-      "schoolSlug": "stephen-f-austin",
-      "school": "Stephen F. Austin",
-      "schoolLongName": "Stephen F. Austin State University",
-      "name": "Evan Aslaksen",
-      "normalizedName": "evan aslaksen",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "C",
-      "positionLong": "Catcher",
-      "classYear": "JR",
-      "handedness": "R/R",
-      "jersey": "26",
-      "hometown": "League City, Texas",
-      "highSchool": "Clear Falls HS",
-      "previousSchool": "UT-Arlington",
-      "hometownHighSchool": "League City, Texas / Clear Falls HS",
-      "profileUrl": "https://sfajacks.com/sports/baseball/roster/evan-aslaksen/7843",
-      "imageUrl": "https://sfajacks.com/images/2025/10/16/Evan_Aslaksen_J4Zk7.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "7843",
-      "sources": [
-        "Stephen F. Austin Athletics roster",
-        "Stephen F. Austin cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "7843",
-        "name": "Evan Aslaksen",
-        "normalizedName": "evan aslaksen",
-        "jersey": "26",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/evan-aslaksen/7843",
-        "imageUrl": "https://sfajacks.com/images/2025/10/16/Evan_Aslaksen_J4Zk7.jpg",
-        "gamesPlayed": 15,
-        "gamesStarted": 5,
-        "battingAverage": 0.333,
-        "onBasePercentage": 0.368,
-        "sluggingPercentage": 0.694,
-        "ops": 1.062,
-        "atBats": 36,
-        "runs": 8,
-        "hits": 12,
-        "doubles": 2,
-        "triples": 1,
-        "homeRuns": 3,
-        "runsBattedIn": 11,
-        "totalBases": 25,
-        "walks": 2,
-        "hitByPitch": 0,
-        "strikeouts": 6,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 26,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 38,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "7843",
-        "name": "Evan Aslaksen",
-        "normalizedName": "evan aslaksen",
-        "jersey": "26",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/evan-aslaksen/7843",
-        "imageUrl": "https://sfajacks.com/images/2025/10/16/Evan_Aslaksen_J4Zk7.jpg",
-        "gamesPlayed": 6,
-        "gamesStarted": 3,
-        "putouts": 26,
-        "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 1,
-        "stolenBasesAgainst": 3,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 26
-      },
-      "evaluation": {
-        "score": 56,
-        "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
-        },
-        "components": {
-          "On-base": 48.88888888888887,
-          "Power": 98.42105263157895,
-          "Contact": 70.625,
-          "Discipline": 14.814814814814808,
-          "Speed": 0
-        },
-        "summary": "Evan Aslaksen profiles as a C piece who brings real extra-base damage.",
-        "summaryMetrics": [
-          "AVG .333",
-          "OBP .368",
-          "SLG .694"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".333"
-          },
-          {
-            "label": "OBP",
-            "value": ".368"
-          },
-          {
-            "label": "SLG",
-            "value": ".694"
-          },
-          {
-            "label": "HR",
-            "value": "3"
-          },
-          {
-            "label": "RBI",
-            "value": "11"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "C",
-          "JR",
-          "R/R",
-          "Hitter"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats"
-      }
-    },
-    {
-      "id": "stephen-f-austin-7856",
-      "schoolSlug": "stephen-f-austin",
-      "school": "Stephen F. Austin",
-      "schoolLongName": "Stephen F. Austin State University",
-      "name": "Brennan Greer",
-      "normalizedName": "brennan greer",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right Handed Pitcher",
-      "classYear": "JR",
-      "handedness": "R/R",
-      "jersey": "28",
-      "hometown": "San Antonio, Texas",
-      "highSchool": "Reagan HS",
-      "previousSchool": "Coastal Bend College",
-      "hometownHighSchool": "San Antonio, Texas / Reagan HS",
-      "profileUrl": "https://sfajacks.com/sports/baseball/roster/brennan-greer/7856",
-      "imageUrl": "https://sfajacks.com/images/2025/10/16/Brennan_Greer_BxLy4.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "7856",
-      "sources": [
-        "Stephen F. Austin Athletics roster",
-        "Stephen F. Austin cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "7856",
-        "name": "Brennan Greer",
-        "normalizedName": "brennan greer",
-        "jersey": "28",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/brennan-greer/7856",
-        "imageUrl": "https://sfajacks.com/images/2025/10/16/Brennan_Greer_BxLy4.jpg",
-        "gamesPlayed": 15,
-        "gamesStarted": 0,
-        "appearances": 15,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 4.43,
-        "whip": 1.39,
-        "wins": 2,
-        "losses": 1,
-        "saves": 2,
-        "shutouts": 0,
-        "inningsPitched": 22.333333333333332,
-        "inningsPitchedDisplay": "22.1",
-        "hitsAllowed": 22,
-        "runsAllowed": 12,
-        "earnedRunsAllowed": 11,
-        "walksAllowed": 9,
-        "strikeouts": 27,
-        "doublesAllowed": 0,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 4,
-        "opponentsAtBats": 87,
-        "wildPitches": 2,
-        "hitBatters": 1,
-        "balks": 0,
-        "opponentsBattingAverage": 0.253,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "7856",
-        "name": "Brennan Greer",
-        "normalizedName": "brennan greer",
-        "jersey": "28",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/brennan-greer/7856",
-        "imageUrl": "https://sfajacks.com/images/2025/10/16/Brennan_Greer_BxLy4.jpg",
-        "gamesPlayed": 4,
-        "gamesStarted": 0,
-        "putouts": 1,
-        "assists": 4,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 1,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 5
-      },
-      "evaluation": {
-        "score": 19,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 62.55088195386704,
-          "Command": 40.00000000000001,
-          "Damage suppression": 0
-        },
-        "summary": "Brennan Greer looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 4.43",
-          "WHIP 1.39",
-          "K/9 10.9"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.43"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.39"
-          },
-          {
-            "label": "K/9",
-            "value": "10.9"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.6"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.61"
-          },
-          {
-            "label": "IP",
-            "value": "22.3"
-          }
-        ],
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats"
-      }
-    },
-    {
-      "id": "stephen-f-austin-7857",
-      "schoolSlug": "stephen-f-austin",
-      "school": "Stephen F. Austin",
-      "schoolLongName": "Stephen F. Austin State University",
-      "name": "Gabe LeBlanc",
-      "normalizedName": "gabe leblanc",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right Handed Pitcher",
-      "classYear": "SR",
-      "handedness": "R/R",
-      "jersey": "29",
-      "hometown": "Nacogdoches, Texas",
-      "highSchool": "Cushing HS",
-      "previousSchool": "Texas A&M-Kingsville/Angelina JC",
-      "hometownHighSchool": "Nacogdoches, Texas / Cushing HS",
-      "profileUrl": "https://sfajacks.com/sports/baseball/roster/gabe-leblanc/7857",
-      "imageUrl": "https://sfajacks.com/images/2025/10/16/Gabriel_LeBlanc_qXgH2.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "7857",
-      "sources": [
-        "Stephen F. Austin Athletics roster",
-        "Stephen F. Austin cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "7857",
-        "name": "Gabe LeBlanc",
-        "normalizedName": "gabe leblanc",
-        "jersey": "29",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/gabe-leblanc/7857",
-        "imageUrl": "https://sfajacks.com/images/2025/10/16/Gabriel_LeBlanc_qXgH2.jpg",
-        "gamesPlayed": 14,
-        "gamesStarted": 13,
-        "appearances": 14,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 6,
-        "whip": 1.43,
-        "wins": 2,
-        "losses": 3,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 51,
-        "inningsPitchedDisplay": "51.0",
-        "hitsAllowed": 65,
-        "runsAllowed": 37,
-        "earnedRunsAllowed": 34,
-        "walksAllowed": 8,
-        "strikeouts": 30,
-        "doublesAllowed": 14,
-        "triplesAllowed": 3,
-        "homeRunsAllowed": 6,
-        "opponentsAtBats": 209,
-        "wildPitches": 4,
-        "hitBatters": 4,
-        "balks": 0,
-        "opponentsBattingAverage": 0.311,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "7857",
-        "name": "Gabe LeBlanc",
-        "normalizedName": "gabe leblanc",
-        "jersey": "29",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/gabe-leblanc/7857",
-        "imageUrl": "https://sfajacks.com/images/2025/10/16/Gabriel_LeBlanc_qXgH2.jpg",
-        "gamesPlayed": 5,
-        "gamesStarted": 5,
-        "putouts": 4,
-        "assists": 3,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 1,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 7
-      },
-      "evaluation": {
-        "score": 11,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 11.76470588235294,
-          "Command": 54.99999999999999,
-          "Damage suppression": 0
-        },
-        "summary": "Gabe LeBlanc looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA 6.00",
-          "WHIP 1.43",
-          "K/9 5.3"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "6.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.43"
-          },
-          {
-            "label": "K/9",
-            "value": "5.3"
-          },
-          {
-            "label": "BB/9",
-            "value": "1.4"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.06"
-          },
-          {
-            "label": "IP",
-            "value": "51.0"
-          }
-        ],
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats"
-      }
-    },
-    {
-      "id": "stephen-f-austin-7854",
-      "schoolSlug": "stephen-f-austin",
-      "school": "Stephen F. Austin",
-      "schoolLongName": "Stephen F. Austin State University",
-      "name": "Aiden Ennis",
-      "normalizedName": "aiden ennis",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right Handed Pitcher",
-      "classYear": "JR",
-      "handedness": "R/R",
-      "jersey": "30",
-      "hometown": "Toronto, Ontario",
-      "highSchool": "Mary Ward Catholic",
-      "previousSchool": "Indian Hills CC",
-      "hometownHighSchool": "Toronto, Ontario / Mary Ward Catholic",
-      "profileUrl": "https://sfajacks.com/sports/baseball/roster/aiden-ennis/7854",
-      "imageUrl": "https://sfajacks.com/images/2025/10/16/Aiden_Ennis_60C7p.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "7854",
+      "rosterBioId": "8481",
       "sources": [
         "Stephen F. Austin Athletics roster"
       ],
@@ -3849,7 +808,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Aiden Ennis looks like a RHP option who throws enough strikes.",
+        "summary": "Brock Bracher looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -3881,105 +840,51 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "JR / R/R",
+        "metaLine": "RS / L/L",
         "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
+          "LHP",
+          "RS",
+          "L/L",
           "Pitcher"
         ],
         "sourceSummary": "Stephen F. Austin Athletics roster"
       }
     },
     {
-      "id": "stephen-f-austin-7852",
+      "id": "stephen-f-austin-8486",
       "schoolSlug": "stephen-f-austin",
       "school": "Stephen F. Austin",
       "schoolLongName": "Stephen F. Austin State University",
-      "name": "Nate Bergeron",
-      "normalizedName": "nate bergeron",
+      "name": "Jordan Bush",
+      "normalizedName": "jordan bush",
       "compositeRole": "Pitcher",
       "role": "Pitcher",
       "position": "RHP",
-      "positionLong": "Right Handed Pitcher",
-      "classYear": "SO",
+      "positionLong": "",
+      "classYear": "RS",
       "handedness": "R/R",
-      "jersey": "31",
-      "hometown": "San Antonio, Texas",
-      "highSchool": "Harlan HS",
-      "previousSchool": "Coastal Bend College",
-      "hometownHighSchool": "San Antonio, Texas / Harlan HS",
-      "profileUrl": "https://sfajacks.com/sports/baseball/roster/nate-bergeron/7852",
-      "imageUrl": "https://sfajacks.com/images/2025/10/16/Nate_Bergeron_yDdqk.jpg",
+      "jersey": "",
+      "hometown": "Livingston, Texas",
+      "highSchool": "",
+      "previousSchool": "UIW",
+      "hometownHighSchool": "Livingston, Texas",
+      "profileUrl": "https://sfajacks.com/sports/baseball/roster/jordan-bush/8486",
+      "imageUrl": "",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "7852",
+      "rosterBioId": "8486",
       "sources": [
-        "Stephen F. Austin Athletics roster",
-        "Stephen F. Austin cumulative stats"
+        "Stephen F. Austin Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "7852",
-        "name": "Nate Bergeron",
-        "normalizedName": "nate bergeron",
-        "jersey": "31",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/nate-bergeron/7852",
-        "imageUrl": "https://sfajacks.com/images/2025/10/16/Nate_Bergeron_yDdqk.jpg",
-        "gamesPlayed": 9,
-        "gamesStarted": 0,
-        "appearances": 9,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 7.5,
-        "whip": 2.67,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 6,
-        "inningsPitchedDisplay": "6.0",
-        "hitsAllowed": 10,
-        "runsAllowed": 10,
-        "earnedRunsAllowed": 5,
-        "walksAllowed": 6,
-        "strikeouts": 4,
-        "doublesAllowed": 1,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 1,
-        "opponentsAtBats": 29,
-        "wildPitches": 3,
-        "hitBatters": 3,
-        "balks": 0,
-        "opponentsBattingAverage": 0.345,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "7852",
-        "name": "Nate Bergeron",
-        "normalizedName": "nate bergeron",
-        "jersey": "31",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/nate-bergeron/7852",
-        "imageUrl": "https://sfajacks.com/images/2025/10/16/Nate_Bergeron_yDdqk.jpg",
-        "gamesPlayed": 2,
-        "gamesStarted": 0,
-        "putouts": 1,
-        "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 1,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 1
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 4,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3987,494 +892,32 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 18.181818181818183,
+          "Miss bats": 0,
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Nate Bergeron gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Jordan Bush looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 7.50",
-          "WHIP 2.67",
-          "K/9 6.0"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.50"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "2.67"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "6.0"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "9.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.50"
-          },
-          {
-            "label": "IP",
-            "value": "6.0"
-          }
-        ],
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats"
-      }
-    },
-    {
-      "id": "stephen-f-austin-7863",
-      "schoolSlug": "stephen-f-austin",
-      "school": "Stephen F. Austin",
-      "schoolLongName": "Stephen F. Austin State University",
-      "name": "Ayden Terry",
-      "normalizedName": "ayden terry",
-      "compositeRole": "Two-Way",
-      "role": "Pitcher",
-      "position": "INF/RHP",
-      "positionLong": "Infielder / Right Handed Pitcher",
-      "classYear": "JR",
-      "handedness": "S/R",
-      "jersey": "32",
-      "hometown": "Lavon, Texas",
-      "highSchool": "Community HS",
-      "previousSchool": "Northeast Texas CC",
-      "hometownHighSchool": "Lavon, Texas / Community HS",
-      "profileUrl": "https://sfajacks.com/sports/baseball/roster/ayden-terry/7863",
-      "imageUrl": "https://sfajacks.com/images/2025/10/16/Ayden_Terry_gcXSV.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "7863",
-      "sources": [
-        "Stephen F. Austin Athletics roster",
-        "Stephen F. Austin cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "7863",
-        "name": "Ayden Terry",
-        "normalizedName": "ayden terry",
-        "jersey": "32",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/ayden-terry/7863",
-        "imageUrl": "https://sfajacks.com/images/2025/10/16/Ayden_Terry_gcXSV.jpg",
-        "gamesPlayed": 8,
-        "gamesStarted": 1,
-        "battingAverage": 0,
-        "onBasePercentage": 0.167,
-        "sluggingPercentage": 0,
-        "ops": 0.167,
-        "atBats": 5,
-        "runs": 0,
-        "hits": 0,
-        "doubles": 0,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 0,
-        "totalBases": 0,
-        "walks": 1,
-        "hitByPitch": 0,
-        "strikeouts": 3,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 1,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 6,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": {
-        "rosterBioId": "7863",
-        "name": "Ayden Terry",
-        "normalizedName": "ayden terry",
-        "jersey": "32",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/ayden-terry/7863",
-        "imageUrl": "https://sfajacks.com/images/2025/10/16/Ayden_Terry_gcXSV.jpg",
-        "gamesPlayed": 11,
-        "gamesStarted": 0,
-        "appearances": 11,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 3.86,
-        "whip": 1.29,
-        "wins": 1,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 16.333333333333332,
-        "inningsPitchedDisplay": "16.1",
-        "hitsAllowed": 15,
-        "runsAllowed": 8,
-        "earnedRunsAllowed": 7,
-        "walksAllowed": 6,
-        "strikeouts": 18,
-        "doublesAllowed": 5,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 64,
-        "wildPitches": 2,
-        "hitBatters": 2,
-        "balks": 0,
-        "opponentsBattingAverage": 0.234,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "7863",
-        "name": "Ayden Terry",
-        "normalizedName": "ayden terry",
-        "jersey": "32",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/ayden-terry/7863",
-        "imageUrl": "https://sfajacks.com/images/2025/10/16/Ayden_Terry_gcXSV.jpg",
-        "gamesPlayed": 4,
-        "gamesStarted": 0,
-        "putouts": 2,
-        "assists": 2,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 4
-      },
-      "evaluation": {
-        "score": 17,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 53.80333951762524,
-          "Command": 40,
-          "Damage suppression": 0
-        },
-        "summary": "Ayden Terry looks like a INF/RHP option who limits runs and misses bats.",
-        "summaryMetrics": [
-          "ERA 3.86",
-          "WHIP 1.29",
-          "K/9 9.9"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.86"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.29"
-          },
-          {
-            "label": "K/9",
-            "value": "9.9"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.3"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.10"
-          },
-          {
-            "label": "IP",
-            "value": "16.3"
-          }
-        ],
-        "metaLine": "JR / S/R",
-        "detailBadges": [
-          "INF/RHP",
-          "JR",
-          "S/R",
-          "Two-Way"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats"
-      }
-    },
-    {
-      "id": "stephen-f-austin-7853",
-      "schoolSlug": "stephen-f-austin",
-      "school": "Stephen F. Austin",
-      "schoolLongName": "Stephen F. Austin State University",
-      "name": "Gage Elliott",
-      "normalizedName": "gage elliott",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right Handed Pitcher",
-      "classYear": "SO",
-      "handedness": "R/R",
-      "jersey": "33",
-      "hometown": "Tulsa, Oklahoma",
-      "highSchool": "Charles Page HS",
-      "previousSchool": "Carl Albert State",
-      "hometownHighSchool": "Tulsa, Oklahoma / Charles Page HS",
-      "profileUrl": "https://sfajacks.com/sports/baseball/roster/gage-elliott/7853",
-      "imageUrl": "https://sfajacks.com/images/2025/10/16/Gage_Elliott_xNZTu.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "7853",
-      "sources": [
-        "Stephen F. Austin Athletics roster",
-        "Stephen F. Austin cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "7853",
-        "name": "Gage Elliott",
-        "normalizedName": "gage elliott",
-        "jersey": "33",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/gage-elliott/7853",
-        "imageUrl": "https://sfajacks.com/images/2025/10/16/Gage_Elliott_xNZTu.jpg",
-        "gamesPlayed": 11,
-        "gamesStarted": 1,
-        "appearances": 11,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 10.12,
-        "whip": 2.06,
-        "wins": 1,
-        "losses": 2,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 10.666666666666666,
-        "inningsPitchedDisplay": "10.2",
-        "hitsAllowed": 13,
-        "runsAllowed": 12,
-        "earnedRunsAllowed": 12,
-        "walksAllowed": 9,
-        "strikeouts": 12,
-        "doublesAllowed": 1,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 44,
-        "wildPitches": 2,
-        "hitBatters": 1,
-        "balks": 0,
-        "opponentsBattingAverage": 0.295,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "7853",
-        "name": "Gage Elliott",
-        "normalizedName": "gage elliott",
-        "jersey": "33",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/gage-elliott/7853",
-        "imageUrl": "https://sfajacks.com/images/2025/10/16/Gage_Elliott_xNZTu.jpg",
-        "gamesPlayed": 3,
-        "gamesStarted": 1,
-        "putouts": 1,
-        "assists": 3,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 4
-      },
-      "evaluation": {
-        "score": 12,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 55.68181818181818,
-          "Command": 6.666666666666665,
-          "Damage suppression": 0
-        },
-        "summary": "Gage Elliott looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 10.12",
-          "WHIP 2.06",
-          "K/9 10.1"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "10.12"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.06"
-          },
-          {
-            "label": "K/9",
-            "value": "10.1"
-          },
-          {
-            "label": "BB/9",
-            "value": "7.6"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.69"
-          },
-          {
-            "label": "IP",
-            "value": "10.7"
-          }
-        ],
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats"
-      }
-    },
-    {
-      "id": "stephen-f-austin-7838",
-      "schoolSlug": "stephen-f-austin",
-      "school": "Stephen F. Austin",
-      "schoolLongName": "Stephen F. Austin State University",
-      "name": "Jonathan Valdez",
-      "normalizedName": "jonathan valdez",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right Handed Pitcher",
-      "classYear": "SR",
-      "handedness": "R/R",
-      "jersey": "34",
-      "hometown": "Cypress, Texas",
-      "highSchool": "Cypress Falls HS",
-      "previousSchool": "Houston Christian",
-      "hometownHighSchool": "Cypress, Texas / Cypress Falls HS",
-      "profileUrl": "https://sfajacks.com/sports/baseball/roster/jonathan-valdez/7838",
-      "imageUrl": "https://sfajacks.com/images/2025/10/14/Jonathan_Valdez_e2kii.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "7838",
-      "sources": [
-        "Stephen F. Austin Athletics roster",
-        "Stephen F. Austin cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "7838",
-        "name": "Jonathan Valdez",
-        "normalizedName": "jonathan valdez",
-        "jersey": "34",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/jonathan-valdez/7838",
-        "imageUrl": "https://sfajacks.com/images/2025/10/14/Jonathan_Valdez_e2kii.jpg",
-        "gamesPlayed": 12,
-        "gamesStarted": 1,
-        "appearances": 12,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 11.37,
-        "whip": 2.76,
-        "wins": 1,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 12.666666666666666,
-        "inningsPitchedDisplay": "12.2",
-        "hitsAllowed": 27,
-        "runsAllowed": 18,
-        "earnedRunsAllowed": 16,
-        "walksAllowed": 8,
-        "strikeouts": 15,
-        "doublesAllowed": 6,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 63,
-        "wildPitches": 1,
-        "hitBatters": 1,
-        "balks": 0,
-        "opponentsBattingAverage": 0.429,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "7838",
-        "name": "Jonathan Valdez",
-        "normalizedName": "jonathan valdez",
-        "jersey": "34",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/jonathan-valdez/7838",
-        "imageUrl": "https://sfajacks.com/images/2025/10/14/Jonathan_Valdez_e2kii.jpg",
-        "gamesPlayed": 3,
-        "gamesStarted": 0,
-        "putouts": 1,
-        "assists": 2,
-        "errors": 1,
-        "fieldingPercentage": 0.75,
-        "doublePlays": 1,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 4
-      },
-      "evaluation": {
-        "score": 15,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 60.52631578947369,
-          "Command": 17.500000000000004,
-          "Damage suppression": 0
-        },
-        "summary": "Jonathan Valdez looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 11.37",
-          "WHIP 2.76",
-          "K/9 10.7"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "11.37"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.76"
-          },
-          {
-            "label": "K/9",
-            "value": "10.7"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.7"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
@@ -4482,446 +925,17 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
           },
           {
             "label": "IP",
-            "value": "12.7"
+            "value": "0.0"
           }
         ],
-        "metaLine": "SR / R/R",
+        "metaLine": "RS / R/R",
         "detailBadges": [
           "RHP",
-          "SR",
+          "RS",
           "R/R",
           "Pitcher"
         ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats"
-      }
-    },
-    {
-      "id": "stephen-f-austin-7830",
-      "schoolSlug": "stephen-f-austin",
-      "school": "Stephen F. Austin",
-      "schoolLongName": "Stephen F. Austin State University",
-      "name": "Jack James",
-      "normalizedName": "jack james",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "Left Handed Pitcher",
-      "classYear": "SR",
-      "handedness": "L/L",
-      "jersey": "35",
-      "hometown": "Tulsa, OK",
-      "highSchool": "Jenks HS",
-      "previousSchool": "Allen County CC",
-      "hometownHighSchool": "Tulsa, OK / Jenks HS",
-      "profileUrl": "https://sfajacks.com/sports/baseball/roster/jack-james/7830",
-      "imageUrl": "https://sfajacks.com/images/2025/10/14/Jack_James_Tn1Y6.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "7830",
-      "sources": [
-        "Stephen F. Austin Athletics roster",
-        "Stephen F. Austin cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "7830",
-        "name": "Jack James",
-        "normalizedName": "jack james",
-        "jersey": "35",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/jack-james/7830",
-        "imageUrl": "https://sfajacks.com/images/2025/10/14/Jack_James_Tn1Y6.jpg",
-        "gamesPlayed": 19,
-        "gamesStarted": 0,
-        "appearances": 19,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 2.83,
-        "whip": 1.23,
-        "wins": 2,
-        "losses": 1,
-        "saves": 3,
-        "shutouts": 0,
-        "inningsPitched": 35,
-        "inningsPitchedDisplay": "35.0",
-        "hitsAllowed": 33,
-        "runsAllowed": 13,
-        "earnedRunsAllowed": 11,
-        "walksAllowed": 10,
-        "strikeouts": 29,
-        "doublesAllowed": 8,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 1,
-        "opponentsAtBats": 130,
-        "wildPitches": 3,
-        "hitBatters": 1,
-        "balks": 0,
-        "opponentsBattingAverage": 0.254,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "7830",
-        "name": "Jack James",
-        "normalizedName": "jack james",
-        "jersey": "35",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/jack-james/7830",
-        "imageUrl": "https://sfajacks.com/images/2025/10/14/Jack_James_Tn1Y6.jpg",
-        "gamesPlayed": 4,
-        "gamesStarted": 0,
-        "putouts": 0,
-        "assists": 3,
-        "errors": 1,
-        "fieldingPercentage": 0.75,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 1,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 4
-      },
-      "evaluation": {
-        "score": 12,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 31.428571428571427,
-          "Command": 38,
-          "Damage suppression": 0
-        },
-        "summary": "Jack James looks like a LHP option who limits runs and throws enough strikes and keeps traffic under control.",
-        "summaryMetrics": [
-          "ERA 2.83",
-          "WHIP 1.23",
-          "K/9 7.5"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "2.83"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.23"
-          },
-          {
-            "label": "K/9",
-            "value": "7.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.6"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.26"
-          },
-          {
-            "label": "IP",
-            "value": "35.0"
-          }
-        ],
-        "metaLine": "SR / L/L",
-        "detailBadges": [
-          "LHP",
-          "SR",
-          "L/L",
-          "Pitcher"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats"
-      }
-    },
-    {
-      "id": "stephen-f-austin-7833",
-      "schoolSlug": "stephen-f-austin",
-      "school": "Stephen F. Austin",
-      "schoolLongName": "Stephen F. Austin State University",
-      "name": "Mason Poppen",
-      "normalizedName": "mason poppen",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "C",
-      "positionLong": "Catcher",
-      "classYear": "SR",
-      "handedness": "L/R",
-      "jersey": "39",
-      "hometown": "Rockwall, Texas",
-      "highSchool": "Rockwall HS",
-      "previousSchool": "NOC-Enid",
-      "hometownHighSchool": "Rockwall, Texas / Rockwall HS",
-      "profileUrl": "https://sfajacks.com/sports/baseball/roster/mason-poppen/7833",
-      "imageUrl": "https://sfajacks.com/images/2025/10/14/Mason_Poppen_7FeRJ.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "7833",
-      "sources": [
-        "Stephen F. Austin Athletics roster",
-        "Stephen F. Austin cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "7833",
-        "name": "Mason Poppen",
-        "normalizedName": "mason poppen",
-        "jersey": "39",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/mason-poppen/7833",
-        "imageUrl": "https://sfajacks.com/images/2025/10/14/Mason_Poppen_7FeRJ.jpg",
-        "gamesPlayed": 7,
-        "gamesStarted": 0,
-        "battingAverage": 0.1,
-        "onBasePercentage": 0.25,
-        "sluggingPercentage": 0.1,
-        "ops": 0.35,
-        "atBats": 10,
-        "runs": 3,
-        "hits": 1,
-        "doubles": 0,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 1,
-        "totalBases": 1,
-        "walks": 2,
-        "hitByPitch": 0,
-        "strikeouts": 5,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 1,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 12,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "7833",
-        "name": "Mason Poppen",
-        "normalizedName": "mason poppen",
-        "jersey": "39",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/mason-poppen/7833",
-        "imageUrl": "https://sfajacks.com/images/2025/10/14/Mason_Poppen_7FeRJ.jpg",
-        "gamesPlayed": 1,
-        "gamesStarted": 0,
-        "putouts": 1,
-        "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 1,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 1
-      },
-      "evaluation": {
-        "score": 3,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 22.22222222222222,
-          "Speed": 0
-        },
-        "summary": "Mason Poppen gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .100",
-          "OBP .250",
-          "SLG .100"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".100"
-          },
-          {
-            "label": "OBP",
-            "value": ".250"
-          },
-          {
-            "label": "SLG",
-            "value": ".100"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "1"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "SR / L/R",
-        "detailBadges": [
-          "C",
-          "SR",
-          "L/R",
-          "Hitter"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats"
-      }
-    },
-    {
-      "id": "stephen-f-austin-7855",
-      "schoolSlug": "stephen-f-austin",
-      "school": "Stephen F. Austin",
-      "schoolLongName": "Stephen F. Austin State University",
-      "name": "Charlie Feris",
-      "normalizedName": "charlie feris",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right Handed Pitcher",
-      "classYear": "JR",
-      "handedness": "R/R",
-      "jersey": "41",
-      "hometown": "Canyon Lake, Texas",
-      "highSchool": "Cypress Ranch HS",
-      "previousSchool": "Texas",
-      "hometownHighSchool": "Canyon Lake, Texas / Cypress Ranch HS",
-      "profileUrl": "https://sfajacks.com/sports/baseball/roster/charlie-feris/7855",
-      "imageUrl": "https://sfajacks.com/images/2025/10/16/Charlie_Feris_mJLfh.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "7855",
-      "sources": [
-        "Stephen F. Austin Athletics roster",
-        "Stephen F. Austin cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "7855",
-        "name": "Charlie Feris",
-        "normalizedName": "charlie feris",
-        "jersey": "41",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/charlie-feris/7855",
-        "imageUrl": "https://sfajacks.com/images/2025/10/16/Charlie_Feris_mJLfh.jpg",
-        "gamesPlayed": 16,
-        "gamesStarted": 0,
-        "appearances": 16,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 9.95,
-        "whip": 2.11,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 19,
-        "inningsPitchedDisplay": "19.0",
-        "hitsAllowed": 29,
-        "runsAllowed": 21,
-        "earnedRunsAllowed": 21,
-        "walksAllowed": 11,
-        "strikeouts": 15,
-        "doublesAllowed": 6,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 3,
-        "opponentsAtBats": 84,
-        "wildPitches": 0,
-        "hitBatters": 2,
-        "balks": 0,
-        "opponentsBattingAverage": 0.345,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "7855",
-        "name": "Charlie Feris",
-        "normalizedName": "charlie feris",
-        "jersey": "41",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/charlie-feris/7855",
-        "imageUrl": "https://sfajacks.com/images/2025/10/16/Charlie_Feris_mJLfh.jpg",
-        "gamesPlayed": 4,
-        "gamesStarted": 0,
-        "putouts": 3,
-        "assists": 2,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 5
-      },
-      "evaluation": {
-        "score": 7,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 28.229665071770338,
-          "Command": 7.272727272727275,
-          "Damage suppression": 0
-        },
-        "summary": "Charlie Feris gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 9.95",
-          "WHIP 2.11",
-          "K/9 7.1"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "9.95"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.11"
-          },
-          {
-            "label": "K/9",
-            "value": "7.1"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.2"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.42"
-          },
-          {
-            "label": "IP",
-            "value": "19.0"
-          }
-        ],
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats"
+        "sourceSummary": "Stephen F. Austin Athletics roster"
       }
     },
     {
@@ -4934,8 +948,8 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
       "compositeRole": "Hitter",
       "role": "Hitter",
       "position": "OF",
-      "positionLong": "Outfielder",
-      "classYear": "JR",
+      "positionLong": "",
+      "classYear": "RS",
       "handedness": "L/L",
       "jersey": "42",
       "hometown": "Forney, Texas",
@@ -5059,10 +1073,10 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
             "value": "7"
           }
         ],
-        "metaLine": "JR / L/L",
+        "metaLine": "RS / L/L",
         "detailBadges": [
           "OF",
-          "JR",
+          "RS",
           "L/L",
           "Hitter"
         ],
@@ -5070,586 +1084,32 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
       }
     },
     {
-      "id": "stephen-f-austin-7837",
+      "id": "stephen-f-austin-8458",
       "schoolSlug": "stephen-f-austin",
       "school": "Stephen F. Austin",
       "schoolLongName": "Stephen F. Austin State University",
-      "name": "Hayden Tronson",
-      "normalizedName": "hayden tronson",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right Handed Pitcher",
-      "classYear": "SR",
-      "handedness": "R/R",
-      "jersey": "43",
-      "hometown": "Deer Park, Texas",
-      "highSchool": "Deer Park HS",
-      "previousSchool": "Alvin CC",
-      "hometownHighSchool": "Deer Park, Texas / Deer Park HS",
-      "profileUrl": "https://sfajacks.com/sports/baseball/roster/hayden-tronson/7837",
-      "imageUrl": "https://sfajacks.com/images/2025/10/14/Hayden_Tronson_PgF0w.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "7837",
-      "sources": [
-        "Stephen F. Austin Athletics roster",
-        "Stephen F. Austin cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "7837",
-        "name": "Hayden Tronson",
-        "normalizedName": "hayden tronson",
-        "jersey": "43",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/hayden-tronson/7837",
-        "imageUrl": "https://sfajacks.com/images/2025/10/14/Hayden_Tronson_PgF0w.jpg",
-        "gamesPlayed": 8,
-        "gamesStarted": 2,
-        "appearances": 8,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 11.37,
-        "whip": 2.13,
-        "wins": 1,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 12.666666666666666,
-        "inningsPitchedDisplay": "12.2",
-        "hitsAllowed": 18,
-        "runsAllowed": 16,
-        "earnedRunsAllowed": 16,
-        "walksAllowed": 9,
-        "strikeouts": 14,
-        "doublesAllowed": 5,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 54,
-        "wildPitches": 5,
-        "hitBatters": 1,
-        "balks": 0,
-        "opponentsBattingAverage": 0.333,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "7837",
-        "name": "Hayden Tronson",
-        "normalizedName": "hayden tronson",
-        "jersey": "43",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/hayden-tronson/7837",
-        "imageUrl": "https://sfajacks.com/images/2025/10/14/Hayden_Tronson_PgF0w.jpg",
-        "gamesPlayed": 3,
-        "gamesStarted": 2,
-        "putouts": 1,
-        "assists": 2,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 1,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 3
-      },
-      "evaluation": {
-        "score": 13,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 54.066985645933016,
-          "Command": 11.111111111111107,
-          "Damage suppression": 0
-        },
-        "summary": "Hayden Tronson looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 11.37",
-          "WHIP 2.13",
-          "K/9 9.9"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "11.37"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.13"
-          },
-          {
-            "label": "K/9",
-            "value": "9.9"
-          },
-          {
-            "label": "BB/9",
-            "value": "6.4"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "12.7"
-          }
-        ],
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats"
-      }
-    },
-    {
-      "id": "stephen-f-austin-7844",
-      "schoolSlug": "stephen-f-austin",
-      "school": "Stephen F. Austin",
-      "schoolLongName": "Stephen F. Austin State University",
-      "name": "Remington Roff",
-      "normalizedName": "remington roff",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "C",
-      "positionLong": "Catcher",
-      "classYear": "JR",
-      "handedness": "R/R",
-      "jersey": "44",
-      "hometown": "Lufkin, Texas",
-      "highSchool": "Hudson HS",
-      "previousSchool": "Clarendon College",
-      "hometownHighSchool": "Lufkin, Texas / Hudson HS",
-      "profileUrl": "https://sfajacks.com/sports/baseball/roster/remington-roff/7844",
-      "imageUrl": "https://sfajacks.com/images/2025/10/16/Remington_Roff_VRlBS.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "7844",
-      "sources": [
-        "Stephen F. Austin Athletics roster",
-        "Stephen F. Austin cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "7844",
-        "name": "Remington Roff",
-        "normalizedName": "remington roff",
-        "jersey": "44",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/remington-roff/7844",
-        "imageUrl": "https://sfajacks.com/images/2025/10/16/Remington_Roff_VRlBS.jpg",
-        "gamesPlayed": 7,
-        "gamesStarted": 0,
-        "battingAverage": 0.167,
-        "onBasePercentage": 0.286,
-        "sluggingPercentage": 0.167,
-        "ops": 0.453,
-        "atBats": 6,
-        "runs": 0,
-        "hits": 1,
-        "doubles": 0,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 0,
-        "totalBases": 1,
-        "walks": 0,
-        "hitByPitch": 1,
-        "strikeouts": 2,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 0,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 7,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 1,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 3.3333333333333055,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "summary": "Remington Roff gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .167",
-          "OBP .286",
-          "SLG .167"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".167"
-          },
-          {
-            "label": "OBP",
-            "value": ".286"
-          },
-          {
-            "label": "SLG",
-            "value": ".167"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "C",
-          "JR",
-          "R/R",
-          "Hitter"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats"
-      }
-    },
-    {
-      "id": "stephen-f-austin-7859",
-      "schoolSlug": "stephen-f-austin",
-      "school": "Stephen F. Austin",
-      "schoolLongName": "Stephen F. Austin State University",
-      "name": "Noah O'Farrell",
-      "normalizedName": "noah o farrell",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right Handed Pitcher",
-      "classYear": "JR",
-      "handedness": "R/R",
-      "jersey": "45",
-      "hometown": "New Caney, Texas",
-      "highSchool": "Grand Oaks HS",
-      "previousSchool": "Wharton County JC",
-      "hometownHighSchool": "New Caney, Texas / Grand Oaks HS",
-      "profileUrl": "https://sfajacks.com/sports/baseball/roster/noah-ofarrell/7859",
-      "imageUrl": "https://sfajacks.com/images/2025/10/16/Noah_O_Farrell_28jrB.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "7859",
-      "sources": [
-        "Stephen F. Austin Athletics roster",
-        "Stephen F. Austin cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "7859",
-        "name": "Noah O'Farrell",
-        "normalizedName": "noah o farrell",
-        "jersey": "45",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/noah-o-farrell/7859",
-        "imageUrl": "https://sfajacks.com/images/2025/10/16/Noah_O_Farrell_28jrB.jpg",
-        "gamesPlayed": 11,
-        "gamesStarted": 4,
-        "appearances": 11,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 7.77,
-        "whip": 1.89,
-        "wins": 2,
-        "losses": 2,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 24.333333333333332,
-        "inningsPitchedDisplay": "24.1",
-        "hitsAllowed": 37,
-        "runsAllowed": 21,
-        "earnedRunsAllowed": 21,
-        "walksAllowed": 9,
-        "strikeouts": 13,
-        "doublesAllowed": 6,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 3,
-        "opponentsAtBats": 106,
-        "wildPitches": 4,
-        "hitBatters": 3,
-        "balks": 0,
-        "opponentsBattingAverage": 0.349,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "7859",
-        "name": "Noah O'Farrell",
-        "normalizedName": "noah o farrell",
-        "jersey": "45",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/noah-o-farrell/7859",
-        "imageUrl": "https://sfajacks.com/images/2025/10/16/Noah_O_Farrell_28jrB.jpg",
-        "gamesPlayed": 4,
-        "gamesStarted": 1,
-        "putouts": 0,
-        "assists": 6,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 6
-      },
-      "evaluation": {
-        "score": 3,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 7.347447073474473,
-          "Command": 8.888888888888888,
-          "Damage suppression": 0
-        },
-        "summary": "Noah O'Farrell gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 7.77",
-          "WHIP 1.89",
-          "K/9 4.8"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "7.77"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.89"
-          },
-          {
-            "label": "K/9",
-            "value": "4.8"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.3"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.11"
-          },
-          {
-            "label": "IP",
-            "value": "24.3"
-          }
-        ],
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats"
-      }
-    },
-    {
-      "id": "stephen-f-austin-7847",
-      "schoolSlug": "stephen-f-austin",
-      "school": "Stephen F. Austin",
-      "schoolLongName": "Stephen F. Austin State University",
-      "name": "Brigden Smith",
-      "normalizedName": "brigden smith",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "OF",
-      "positionLong": "Outfielder",
-      "classYear": "JR",
-      "handedness": "R/R",
-      "jersey": "46",
-      "hometown": "Gilbert, Arizona",
-      "highSchool": "Campo Verde HS",
-      "previousSchool": "Phoenix College",
-      "hometownHighSchool": "Gilbert, Arizona / Campo Verde HS",
-      "profileUrl": "https://sfajacks.com/sports/baseball/roster/brigden-smith/7847",
-      "imageUrl": "https://sfajacks.com/images/2025/10/16/Brigden_Smith_R1zU8.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "7847",
-      "sources": [
-        "Stephen F. Austin Athletics roster",
-        "Stephen F. Austin cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "7847",
-        "name": "Brigden Smith",
-        "normalizedName": "brigden smith",
-        "jersey": "46",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/brigden-smith/7847",
-        "imageUrl": "https://sfajacks.com/images/2025/10/16/Brigden_Smith_R1zU8.jpg",
-        "gamesPlayed": 22,
-        "gamesStarted": 3,
-        "battingAverage": 0.167,
-        "onBasePercentage": 0.348,
-        "sluggingPercentage": 0.222,
-        "ops": 0.57,
-        "atBats": 18,
-        "runs": 3,
-        "hits": 3,
-        "doubles": 1,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 0,
-        "totalBases": 4,
-        "walks": 4,
-        "hitByPitch": 1,
-        "strikeouts": 7,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 1,
-        "stolenBasesAttempts": 1,
-        "putouts": 9,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 24,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "7847",
-        "name": "Brigden Smith",
-        "normalizedName": "brigden smith",
-        "jersey": "46",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/brigden-smith/7847",
-        "imageUrl": "https://sfajacks.com/images/2025/10/16/Brigden_Smith_R1zU8.jpg",
-        "gamesPlayed": 8,
-        "gamesStarted": 2,
-        "putouts": 9,
-        "assists": 1,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 10
-      },
-      "evaluation": {
-        "score": 18,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 37.77777777777775,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 41.26984126984126,
-          "Speed": 3.3333333333333335
-        },
-        "summary": "Brigden Smith gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .167",
-          "OBP .348",
-          "SLG .222"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".167"
-          },
-          {
-            "label": "OBP",
-            "value": ".348"
-          },
-          {
-            "label": "SLG",
-            "value": ".222"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "OF",
-          "JR",
-          "R/R",
-          "Hitter"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats"
-      }
-    },
-    {
-      "id": "stephen-f-austin-7851",
-      "schoolSlug": "stephen-f-austin",
-      "school": "Stephen F. Austin",
-      "schoolLongName": "Stephen F. Austin State University",
-      "name": "Carter Hubbard",
-      "normalizedName": "carter hubbard",
+      "name": "Michael Clarkson",
+      "normalizedName": "michael clarkson",
       "compositeRole": "Rostered",
       "role": "Hitter",
-      "position": "INF",
-      "positionLong": "Infielder",
-      "classYear": "SO",
-      "handedness": "S/R",
+      "position": "C",
+      "positionLong": "",
+      "classYear": "RS",
+      "handedness": "R/R",
       "jersey": "",
-      "hometown": "Austin, Texas",
-      "highSchool": "Vandegrift HS",
-      "previousSchool": "Ranger College",
-      "hometownHighSchool": "Austin, Texas / Vandegrift HS",
-      "profileUrl": "https://sfajacks.com/sports/baseball/roster/carter-hubbard/7851",
-      "imageUrl": "https://sfajacks.com/images/2025/10/16/Carter_Hubbard_n9ZBf.jpg",
+      "hometown": "Lake Forest, Illinois",
+      "highSchool": "",
+      "previousSchool": "Paris Junior College",
+      "hometownHighSchool": "Lake Forest, Illinois",
+      "profileUrl": "https://sfajacks.com/sports/baseball/roster/michael-clarkson/8458",
+      "imageUrl": "",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "7851",
+      "rosterBioId": "8458",
       "sources": [
         "Stephen F. Austin Athletics roster"
       ],
@@ -5669,7 +1129,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "summary": "Carter Hubbard gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Michael Clarkson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG --",
           "OBP --",
@@ -5701,12 +1161,2630 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "SO / S/R",
+        "metaLine": "RS / R/R",
+        "detailBadges": [
+          "C",
+          "RS",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster"
+      }
+    },
+    {
+      "id": "stephen-f-austin-7842",
+      "schoolSlug": "stephen-f-austin",
+      "school": "Stephen F. Austin",
+      "schoolLongName": "Stephen F. Austin State University",
+      "name": "Jhett Creel",
+      "normalizedName": "jhett creel",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "C",
+      "positionLong": "",
+      "classYear": "RS",
+      "handedness": "L/R",
+      "jersey": "4",
+      "hometown": "Sachse, Texas",
+      "highSchool": "Sachse HS",
+      "previousSchool": "NOC-Enid",
+      "hometownHighSchool": "Sachse, Texas / Sachse HS",
+      "profileUrl": "https://sfajacks.com/sports/baseball/roster/jhett-creel/7842",
+      "imageUrl": "https://sfajacks.com/images/2025/10/16/Jhett_Creel_csoFE.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "7842",
+      "sources": [
+        "Stephen F. Austin Athletics roster",
+        "Stephen F. Austin cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "7842",
+        "name": "Jhett Creel",
+        "normalizedName": "jhett creel",
+        "jersey": "4",
+        "profileUrl": "https://sfajacks.com/sports/baseball/roster/jhett-creel/7842",
+        "imageUrl": "https://sfajacks.com/images/2025/10/16/Jhett_Creel_csoFE.jpg",
+        "gamesPlayed": 55,
+        "gamesStarted": 52,
+        "battingAverage": 0.303,
+        "onBasePercentage": 0.441,
+        "sluggingPercentage": 0.4,
+        "ops": 0.841,
+        "atBats": 185,
+        "runs": 39,
+        "hits": 56,
+        "doubles": 9,
+        "triples": 0,
+        "homeRuns": 3,
+        "runsBattedIn": 26,
+        "totalBases": 74,
+        "walks": 44,
+        "hitByPitch": 4,
+        "strikeouts": 33,
+        "intentionalWalks": 1,
+        "groundedIntoDoublePlay": 2,
+        "sacrificeFlies": 3,
+        "sacrificeHits": 0,
+        "stolenBases": 4,
+        "stolenBasesAttempts": 4,
+        "putouts": 226,
+        "assists": 0,
+        "errors": 7,
+        "plateAppearances": 240,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "7842",
+        "name": "Jhett Creel",
+        "normalizedName": "jhett creel",
+        "jersey": "4",
+        "profileUrl": "https://sfajacks.com/sports/baseball/roster/jhett-creel/7842",
+        "imageUrl": "https://sfajacks.com/images/2025/10/16/Jhett_Creel_csoFE.jpg",
+        "gamesPlayed": 31,
+        "gamesStarted": 28,
+        "putouts": 226,
+        "assists": 12,
+        "errors": 7,
+        "fieldingPercentage": 0.971,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 34,
+        "caughtStealingBy": 6,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 245
+      },
+      "evaluation": {
+        "score": 59,
+        "fit": {
+          "label": "Monitor",
+          "className": "fit-monitor"
+        },
+        "components": {
+          "On-base": 89.44444444444444,
+          "Power": 21.052631578947377,
+          "Contact": 51.87499999999999,
+          "Discipline": 100,
+          "Speed": 13.333333333333334
+        },
+        "summary": "Jhett Creel profiles as a C piece who gets on base at a high clip and controls at-bats.",
+        "summaryMetrics": [
+          "AVG .303",
+          "OBP .441",
+          "SLG .400"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".303"
+          },
+          {
+            "label": "OBP",
+            "value": ".441"
+          },
+          {
+            "label": "SLG",
+            "value": ".400"
+          },
+          {
+            "label": "HR",
+            "value": "3"
+          },
+          {
+            "label": "RBI",
+            "value": "26"
+          },
+          {
+            "label": "SB",
+            "value": "4"
+          }
+        ],
+        "metaLine": "RS / L/R",
+        "detailBadges": [
+          "C",
+          "RS",
+          "L/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats"
+      }
+    },
+    {
+      "id": "stephen-f-austin-8478",
+      "schoolSlug": "stephen-f-austin",
+      "school": "Stephen F. Austin",
+      "schoolLongName": "Stephen F. Austin State University",
+      "name": "Dillon Davenport",
+      "normalizedName": "dillon davenport",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "RS",
+      "handedness": "R/R",
+      "jersey": "",
+      "hometown": "Carthage, Texas",
+      "highSchool": "",
+      "previousSchool": "Tyler Junior College",
+      "hometownHighSchool": "Carthage, Texas",
+      "profileUrl": "https://sfajacks.com/sports/baseball/roster/dillon-davenport/8478",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "8478",
+      "sources": [
+        "Stephen F. Austin Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Dillon Davenport looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "RS / R/R",
+        "detailBadges": [
+          "RHP",
+          "RS",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster"
+      }
+    },
+    {
+      "id": "stephen-f-austin-7853",
+      "schoolSlug": "stephen-f-austin",
+      "school": "Stephen F. Austin",
+      "schoolLongName": "Stephen F. Austin State University",
+      "name": "Gage Elliott",
+      "normalizedName": "gage elliott",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "RS",
+      "handedness": "R/R",
+      "jersey": "33",
+      "hometown": "Tulsa, Oklahoma",
+      "highSchool": "Charles Page HS",
+      "previousSchool": "Carl Albert State",
+      "hometownHighSchool": "Tulsa, Oklahoma / Charles Page HS",
+      "profileUrl": "https://sfajacks.com/sports/baseball/roster/gage-elliott/7853",
+      "imageUrl": "https://sfajacks.com/images/2025/10/16/Gage_Elliott_xNZTu.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "7853",
+      "sources": [
+        "Stephen F. Austin Athletics roster",
+        "Stephen F. Austin cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "7853",
+        "name": "Gage Elliott",
+        "normalizedName": "gage elliott",
+        "jersey": "33",
+        "profileUrl": "https://sfajacks.com/sports/baseball/roster/gage-elliott/7853",
+        "imageUrl": "https://sfajacks.com/images/2025/10/16/Gage_Elliott_xNZTu.jpg",
+        "gamesPlayed": 11,
+        "gamesStarted": 1,
+        "appearances": 11,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 10.12,
+        "whip": 2.06,
+        "wins": 1,
+        "losses": 2,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 10.666666666666666,
+        "inningsPitchedDisplay": "10.2",
+        "hitsAllowed": 13,
+        "runsAllowed": 12,
+        "earnedRunsAllowed": 12,
+        "walksAllowed": 9,
+        "strikeouts": 12,
+        "doublesAllowed": 1,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 2,
+        "opponentsAtBats": 44,
+        "wildPitches": 2,
+        "hitBatters": 1,
+        "balks": 0,
+        "opponentsBattingAverage": 0.295,
+        "walksHits": 0
+      },
+      "fieldingStats": {
+        "rosterBioId": "7853",
+        "name": "Gage Elliott",
+        "normalizedName": "gage elliott",
+        "jersey": "33",
+        "profileUrl": "https://sfajacks.com/sports/baseball/roster/gage-elliott/7853",
+        "imageUrl": "https://sfajacks.com/images/2025/10/16/Gage_Elliott_xNZTu.jpg",
+        "gamesPlayed": 3,
+        "gamesStarted": 1,
+        "putouts": 1,
+        "assists": 3,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 4
+      },
+      "evaluation": {
+        "score": 12,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 55.68181818181818,
+          "Command": 6.666666666666665,
+          "Damage suppression": 0
+        },
+        "summary": "Gage Elliott looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 10.12",
+          "WHIP 2.06",
+          "K/9 10.1"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "10.12"
+          },
+          {
+            "label": "WHIP",
+            "value": "2.06"
+          },
+          {
+            "label": "K/9",
+            "value": "10.1"
+          },
+          {
+            "label": "BB/9",
+            "value": "7.6"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.69"
+          },
+          {
+            "label": "IP",
+            "value": "10.7"
+          }
+        ],
+        "metaLine": "RS / R/R",
+        "detailBadges": [
+          "RHP",
+          "RS",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats"
+      }
+    },
+    {
+      "id": "stephen-f-austin-7854",
+      "schoolSlug": "stephen-f-austin",
+      "school": "Stephen F. Austin",
+      "schoolLongName": "Stephen F. Austin State University",
+      "name": "Aiden Ennis",
+      "normalizedName": "aiden ennis",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "RS",
+      "handedness": "R/R",
+      "jersey": "",
+      "hometown": "Toronto, Ontario",
+      "highSchool": "Mary Ward Catholic",
+      "previousSchool": "Indian Hills CC",
+      "hometownHighSchool": "Toronto, Ontario / Mary Ward Catholic",
+      "profileUrl": "https://sfajacks.com/sports/baseball/roster/aiden-ennis/7854",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "7854",
+      "sources": [
+        "Stephen F. Austin Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Aiden Ennis looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "RS / R/R",
+        "detailBadges": [
+          "RHP",
+          "RS",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster"
+      }
+    },
+    {
+      "id": "stephen-f-austin-7824",
+      "schoolSlug": "stephen-f-austin",
+      "school": "Stephen F. Austin",
+      "schoolLongName": "Stephen F. Austin State University",
+      "name": "Seanan Farney",
+      "normalizedName": "seanan farney",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "RS",
+      "handedness": "R/R",
+      "jersey": "19",
+      "hometown": "Litchfield Park, Arizona",
+      "highSchool": "Millennium HS",
+      "previousSchool": "Pima CC",
+      "hometownHighSchool": "Litchfield Park, Arizona / Millennium HS",
+      "profileUrl": "https://sfajacks.com/sports/baseball/roster/seanan-farney/7824",
+      "imageUrl": "https://sfajacks.com/images/2025/10/14/Sean_Farney_kL4yB.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "7824",
+      "sources": [
+        "Stephen F. Austin Athletics roster",
+        "Stephen F. Austin cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "7824",
+        "name": "Seanan Farney",
+        "normalizedName": "seanan farney",
+        "jersey": "19",
+        "profileUrl": "https://sfajacks.com/sports/baseball/roster/seanan-farney/7824",
+        "imageUrl": "https://sfajacks.com/images/2025/10/14/Sean_Farney_kL4yB.jpg",
+        "gamesPlayed": 11,
+        "gamesStarted": 4,
+        "appearances": 11,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 6.41,
+        "whip": 1.53,
+        "wins": 0,
+        "losses": 4,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 19.666666666666668,
+        "inningsPitchedDisplay": "19.2",
+        "hitsAllowed": 19,
+        "runsAllowed": 14,
+        "earnedRunsAllowed": 14,
+        "walksAllowed": 11,
+        "strikeouts": 25,
+        "doublesAllowed": 2,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 4,
+        "opponentsAtBats": 74,
+        "wildPitches": 2,
+        "hitBatters": 2,
+        "balks": 0,
+        "opponentsBattingAverage": 0.257,
+        "walksHits": 0
+      },
+      "fieldingStats": {
+        "rosterBioId": "7824",
+        "name": "Seanan Farney",
+        "normalizedName": "seanan farney",
+        "jersey": "19",
+        "profileUrl": "https://sfajacks.com/sports/baseball/roster/seanan-farney/7824",
+        "imageUrl": "https://sfajacks.com/images/2025/10/14/Sean_Farney_kL4yB.jpg",
+        "gamesPlayed": 3,
+        "gamesStarted": 2,
+        "putouts": 1,
+        "assists": 1,
+        "errors": 1,
+        "fieldingPercentage": 0.667,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 3
+      },
+      "evaluation": {
+        "score": 18,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 67.64252696456086,
+          "Command": 25.454545454545453,
+          "Damage suppression": 0
+        },
+        "summary": "Seanan Farney looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 6.41",
+          "WHIP 1.53",
+          "K/9 11.4"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "6.41"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.53"
+          },
+          {
+            "label": "K/9",
+            "value": "11.4"
+          },
+          {
+            "label": "BB/9",
+            "value": "5.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.83"
+          },
+          {
+            "label": "IP",
+            "value": "19.7"
+          }
+        ],
+        "metaLine": "RS / R/R",
+        "detailBadges": [
+          "RHP",
+          "RS",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats"
+      }
+    },
+    {
+      "id": "stephen-f-austin-7855",
+      "schoolSlug": "stephen-f-austin",
+      "school": "Stephen F. Austin",
+      "schoolLongName": "Stephen F. Austin State University",
+      "name": "Charlie Feris",
+      "normalizedName": "charlie feris",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "RS",
+      "handedness": "L/R",
+      "jersey": "41",
+      "hometown": "Canyon Lake, Texas",
+      "highSchool": "Cypress Ranch HS",
+      "previousSchool": "Texas",
+      "hometownHighSchool": "Canyon Lake, Texas / Cypress Ranch HS",
+      "profileUrl": "https://sfajacks.com/sports/baseball/roster/charlie-feris/7855",
+      "imageUrl": "https://sfajacks.com/images/2025/10/16/Charlie_Feris_mJLfh.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "7855",
+      "sources": [
+        "Stephen F. Austin Athletics roster",
+        "Stephen F. Austin cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "7855",
+        "name": "Charlie Feris",
+        "normalizedName": "charlie feris",
+        "jersey": "41",
+        "profileUrl": "https://sfajacks.com/sports/baseball/roster/charlie-feris/7855",
+        "imageUrl": "https://sfajacks.com/images/2025/10/16/Charlie_Feris_mJLfh.jpg",
+        "gamesPlayed": 16,
+        "gamesStarted": 0,
+        "appearances": 16,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 9.95,
+        "whip": 2.11,
+        "wins": 0,
+        "losses": 0,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 19,
+        "inningsPitchedDisplay": "19.0",
+        "hitsAllowed": 29,
+        "runsAllowed": 21,
+        "earnedRunsAllowed": 21,
+        "walksAllowed": 11,
+        "strikeouts": 15,
+        "doublesAllowed": 6,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 3,
+        "opponentsAtBats": 84,
+        "wildPitches": 0,
+        "hitBatters": 2,
+        "balks": 0,
+        "opponentsBattingAverage": 0.345,
+        "walksHits": 0
+      },
+      "fieldingStats": {
+        "rosterBioId": "7855",
+        "name": "Charlie Feris",
+        "normalizedName": "charlie feris",
+        "jersey": "41",
+        "profileUrl": "https://sfajacks.com/sports/baseball/roster/charlie-feris/7855",
+        "imageUrl": "https://sfajacks.com/images/2025/10/16/Charlie_Feris_mJLfh.jpg",
+        "gamesPlayed": 4,
+        "gamesStarted": 0,
+        "putouts": 3,
+        "assists": 2,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 5
+      },
+      "evaluation": {
+        "score": 7,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 28.229665071770338,
+          "Command": 7.272727272727275,
+          "Damage suppression": 0
+        },
+        "summary": "Charlie Feris gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 9.95",
+          "WHIP 2.11",
+          "K/9 7.1"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "9.95"
+          },
+          {
+            "label": "WHIP",
+            "value": "2.11"
+          },
+          {
+            "label": "K/9",
+            "value": "7.1"
+          },
+          {
+            "label": "BB/9",
+            "value": "5.2"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.42"
+          },
+          {
+            "label": "IP",
+            "value": "19.0"
+          }
+        ],
+        "metaLine": "RS / L/R",
+        "detailBadges": [
+          "RHP",
+          "RS",
+          "L/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats"
+      }
+    },
+    {
+      "id": "stephen-f-austin-8459",
+      "schoolSlug": "stephen-f-austin",
+      "school": "Stephen F. Austin",
+      "schoolLongName": "Stephen F. Austin State University",
+      "name": "Matthew Foley",
+      "normalizedName": "matthew foley",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "RS",
+      "handedness": "R/R",
+      "jersey": "",
+      "hometown": "Pleasanton, California",
+      "highSchool": "",
+      "previousSchool": "Online College",
+      "hometownHighSchool": "Pleasanton, California",
+      "profileUrl": "https://sfajacks.com/sports/baseball/roster/matthew-foley/8459",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "8459",
+      "sources": [
+        "Stephen F. Austin Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Matthew Foley looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "RS / R/R",
+        "detailBadges": [
+          "RHP",
+          "RS",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster"
+      }
+    },
+    {
+      "id": "stephen-f-austin-7856",
+      "schoolSlug": "stephen-f-austin",
+      "school": "Stephen F. Austin",
+      "schoolLongName": "Stephen F. Austin State University",
+      "name": "Brennan Greer",
+      "normalizedName": "brennan greer",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "RS",
+      "handedness": "R/R",
+      "jersey": "28",
+      "hometown": "San Antonio, Texas",
+      "highSchool": "Reagan HS",
+      "previousSchool": "Coastal Bend College",
+      "hometownHighSchool": "San Antonio, Texas / Reagan HS",
+      "profileUrl": "https://sfajacks.com/sports/baseball/roster/brennan-greer/7856",
+      "imageUrl": "https://sfajacks.com/images/2025/10/16/Brennan_Greer_BxLy4.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "7856",
+      "sources": [
+        "Stephen F. Austin Athletics roster",
+        "Stephen F. Austin cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "7856",
+        "name": "Brennan Greer",
+        "normalizedName": "brennan greer",
+        "jersey": "28",
+        "profileUrl": "https://sfajacks.com/sports/baseball/roster/brennan-greer/7856",
+        "imageUrl": "https://sfajacks.com/images/2025/10/16/Brennan_Greer_BxLy4.jpg",
+        "gamesPlayed": 15,
+        "gamesStarted": 0,
+        "appearances": 15,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 4.43,
+        "whip": 1.39,
+        "wins": 2,
+        "losses": 1,
+        "saves": 2,
+        "shutouts": 0,
+        "inningsPitched": 22.333333333333332,
+        "inningsPitchedDisplay": "22.1",
+        "hitsAllowed": 22,
+        "runsAllowed": 12,
+        "earnedRunsAllowed": 11,
+        "walksAllowed": 9,
+        "strikeouts": 27,
+        "doublesAllowed": 0,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 4,
+        "opponentsAtBats": 87,
+        "wildPitches": 2,
+        "hitBatters": 1,
+        "balks": 0,
+        "opponentsBattingAverage": 0.253,
+        "walksHits": 0
+      },
+      "fieldingStats": {
+        "rosterBioId": "7856",
+        "name": "Brennan Greer",
+        "normalizedName": "brennan greer",
+        "jersey": "28",
+        "profileUrl": "https://sfajacks.com/sports/baseball/roster/brennan-greer/7856",
+        "imageUrl": "https://sfajacks.com/images/2025/10/16/Brennan_Greer_BxLy4.jpg",
+        "gamesPlayed": 4,
+        "gamesStarted": 0,
+        "putouts": 1,
+        "assists": 4,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 1,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 5
+      },
+      "evaluation": {
+        "score": 19,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 62.55088195386704,
+          "Command": 40.00000000000001,
+          "Damage suppression": 0
+        },
+        "summary": "Brennan Greer looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 4.43",
+          "WHIP 1.39",
+          "K/9 10.9"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "4.43"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.39"
+          },
+          {
+            "label": "K/9",
+            "value": "10.9"
+          },
+          {
+            "label": "BB/9",
+            "value": "3.6"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.61"
+          },
+          {
+            "label": "IP",
+            "value": "22.3"
+          }
+        ],
+        "metaLine": "RS / R/R",
+        "detailBadges": [
+          "RHP",
+          "RS",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats"
+      }
+    },
+    {
+      "id": "stephen-f-austin-8463",
+      "schoolSlug": "stephen-f-austin",
+      "school": "Stephen F. Austin",
+      "schoolLongName": "Stephen F. Austin State University",
+      "name": "Jack Hanna",
+      "normalizedName": "jack hanna",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "RS",
+      "handedness": "R/R",
+      "jersey": "",
+      "hometown": "Mill Valley, California",
+      "highSchool": "",
+      "previousSchool": "Feather River",
+      "hometownHighSchool": "Mill Valley, California",
+      "profileUrl": "https://sfajacks.com/sports/baseball/roster/jack-hanna/8463",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "8463",
+      "sources": [
+        "Stephen F. Austin Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Jack Hanna looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "RS / R/R",
+        "detailBadges": [
+          "RHP",
+          "RS",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster"
+      }
+    },
+    {
+      "id": "stephen-f-austin-8467",
+      "schoolSlug": "stephen-f-austin",
+      "school": "Stephen F. Austin",
+      "schoolLongName": "Stephen F. Austin State University",
+      "name": "Austin Hardy",
+      "normalizedName": "austin hardy",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "",
+      "classYear": "RS",
+      "handedness": "R/R",
+      "jersey": "",
+      "hometown": "Spring, Texas",
+      "highSchool": "",
+      "previousSchool": "Panola",
+      "hometownHighSchool": "Spring, Texas",
+      "profileUrl": "https://sfajacks.com/sports/baseball/roster/austin-hardy/8467",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "8467",
+      "sources": [
+        "Stephen F. Austin Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Austin Hardy gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "RS / R/R",
         "detailBadges": [
           "INF",
-          "SO",
-          "S/R",
+          "RS",
+          "R/R",
           "Rostered"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster"
+      }
+    },
+    {
+      "id": "stephen-f-austin-8494",
+      "schoolSlug": "stephen-f-austin",
+      "school": "Stephen F. Austin",
+      "schoolLongName": "Stephen F. Austin State University",
+      "name": "Carson Henderson",
+      "normalizedName": "carson henderson",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "",
+      "classYear": "RS",
+      "handedness": "L/L",
+      "jersey": "",
+      "hometown": "Leander, Texas",
+      "highSchool": "",
+      "previousSchool": "Temple College",
+      "hometownHighSchool": "Leander, Texas",
+      "profileUrl": "https://sfajacks.com/sports/baseball/roster/carson-henderson/8494",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "8494",
+      "sources": [
+        "Stephen F. Austin Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Carson Henderson looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "RS / L/L",
+        "detailBadges": [
+          "LHP",
+          "RS",
+          "L/L",
+          "Pitcher"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster"
+      }
+    },
+    {
+      "id": "stephen-f-austin-8479",
+      "schoolSlug": "stephen-f-austin",
+      "school": "Stephen F. Austin",
+      "schoolLongName": "Stephen F. Austin State University",
+      "name": "Louis Hertling",
+      "normalizedName": "louis hertling",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "RS",
+      "handedness": "R/R",
+      "jersey": "",
+      "hometown": "Anoka, Minnesota",
+      "highSchool": "",
+      "previousSchool": "Cisco Junior College",
+      "hometownHighSchool": "Anoka, Minnesota",
+      "profileUrl": "https://sfajacks.com/sports/baseball/roster/louis-hertling/8479",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "8479",
+      "sources": [
+        "Stephen F. Austin Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Louis Hertling looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "RS / R/R",
+        "detailBadges": [
+          "RHP",
+          "RS",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster"
+      }
+    },
+    {
+      "id": "stephen-f-austin-7826",
+      "schoolSlug": "stephen-f-austin",
+      "school": "Stephen F. Austin",
+      "schoolLongName": "Stephen F. Austin State University",
+      "name": "Owen Hooper",
+      "normalizedName": "owen hooper",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "C",
+      "positionLong": "",
+      "classYear": "RS",
+      "handedness": "R/R",
+      "jersey": "",
+      "hometown": "Wichita Falls, Texas",
+      "highSchool": "Rider HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Wichita Falls, Texas / Rider HS",
+      "profileUrl": "https://sfajacks.com/sports/baseball/roster/owen-hooper/7826",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "7826",
+      "sources": [
+        "Stephen F. Austin Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Owen Hooper gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "RS / R/R",
+        "detailBadges": [
+          "C",
+          "RS",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster"
+      }
+    },
+    {
+      "id": "stephen-f-austin-8485",
+      "schoolSlug": "stephen-f-austin",
+      "school": "Stephen F. Austin",
+      "schoolLongName": "Stephen F. Austin State University",
+      "name": "Shane Hopper",
+      "normalizedName": "shane hopper",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "",
+      "classYear": "RS",
+      "handedness": "L/L",
+      "jersey": "",
+      "hometown": "Bagdad, Arizona",
+      "highSchool": "",
+      "previousSchool": "Cochise College",
+      "hometownHighSchool": "Bagdad, Arizona",
+      "profileUrl": "https://sfajacks.com/sports/baseball/roster/shane-hopper/8485",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "8485",
+      "sources": [
+        "Stephen F. Austin Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Shane Hopper looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "RS / L/L",
+        "detailBadges": [
+          "LHP",
+          "RS",
+          "L/L",
+          "Pitcher"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster"
+      }
+    },
+    {
+      "id": "stephen-f-austin-8474",
+      "schoolSlug": "stephen-f-austin",
+      "school": "Stephen F. Austin",
+      "schoolLongName": "Stephen F. Austin State University",
+      "name": "Gustafson Koehn",
+      "normalizedName": "gustafson koehn",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "",
+      "classYear": "RS",
+      "handedness": "L/L",
+      "jersey": "",
+      "hometown": "Buda, Texas",
+      "highSchool": "",
+      "previousSchool": "El Paso CC",
+      "hometownHighSchool": "Buda, Texas",
+      "profileUrl": "https://sfajacks.com/sports/baseball/roster/gustafson-koehn/8474",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "8474",
+      "sources": [
+        "Stephen F. Austin Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Gustafson Koehn gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "RS / L/L",
+        "detailBadges": [
+          "INF",
+          "RS",
+          "L/L",
+          "Rostered"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster"
+      }
+    },
+    {
+      "id": "stephen-f-austin-8470",
+      "schoolSlug": "stephen-f-austin",
+      "school": "Stephen F. Austin",
+      "schoolLongName": "Stephen F. Austin State University",
+      "name": "Sam Lee",
+      "normalizedName": "sam lee",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "",
+      "classYear": "RS",
+      "handedness": "R/R",
+      "jersey": "",
+      "hometown": "Montgomery, Texas",
+      "highSchool": "",
+      "previousSchool": "Wharton County JC",
+      "hometownHighSchool": "Montgomery, Texas",
+      "profileUrl": "https://sfajacks.com/sports/baseball/roster/sam-lee/8470",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "8470",
+      "sources": [
+        "Stephen F. Austin Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Sam Lee gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "RS / R/R",
+        "detailBadges": [
+          "OF",
+          "RS",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster"
+      }
+    },
+    {
+      "id": "stephen-f-austin-8482",
+      "schoolSlug": "stephen-f-austin",
+      "school": "Stephen F. Austin",
+      "schoolLongName": "Stephen F. Austin State University",
+      "name": "Isaiah Leeth",
+      "normalizedName": "isaiah leeth",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "RS",
+      "handedness": "R/R",
+      "jersey": "",
+      "hometown": "Chillicothe, Ohio",
+      "highSchool": "",
+      "previousSchool": "Ohio State",
+      "hometownHighSchool": "Chillicothe, Ohio",
+      "profileUrl": "https://sfajacks.com/sports/baseball/roster/isaiah-leeth/8482",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "8482",
+      "sources": [
+        "Stephen F. Austin Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Isaiah Leeth looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "RS / R/R",
+        "detailBadges": [
+          "RHP",
+          "RS",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster"
+      }
+    },
+    {
+      "id": "stephen-f-austin-8468",
+      "schoolSlug": "stephen-f-austin",
+      "school": "Stephen F. Austin",
+      "schoolLongName": "Stephen F. Austin State University",
+      "name": "Ryan Lewis",
+      "normalizedName": "ryan lewis",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "",
+      "classYear": "RS",
+      "handedness": "L/R",
+      "jersey": "",
+      "hometown": "Columbus, Texas",
+      "highSchool": "",
+      "previousSchool": "Galveston College",
+      "hometownHighSchool": "Columbus, Texas",
+      "profileUrl": "https://sfajacks.com/sports/baseball/roster/ryan-lewis/8468",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "8468",
+      "sources": [
+        "Stephen F. Austin Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Ryan Lewis gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "RS / L/R",
+        "detailBadges": [
+          "INF",
+          "RS",
+          "L/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster"
+      }
+    },
+    {
+      "id": "stephen-f-austin-8460",
+      "schoolSlug": "stephen-f-austin",
+      "school": "Stephen F. Austin",
+      "schoolLongName": "Stephen F. Austin State University",
+      "name": "Noah Massey",
+      "normalizedName": "noah massey",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "C",
+      "positionLong": "",
+      "classYear": "RS",
+      "handedness": "R/R",
+      "jersey": "",
+      "hometown": "Albuquerque, New Mexico",
+      "highSchool": "",
+      "previousSchool": "New Mexico State",
+      "hometownHighSchool": "Albuquerque, New Mexico",
+      "profileUrl": "https://sfajacks.com/sports/baseball/roster/noah-massey/8460",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "8460",
+      "sources": [
+        "Stephen F. Austin Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Noah Massey gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "RS / R/R",
+        "detailBadges": [
+          "C",
+          "RS",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster"
+      }
+    },
+    {
+      "id": "stephen-f-austin-8464",
+      "schoolSlug": "stephen-f-austin",
+      "school": "Stephen F. Austin",
+      "schoolLongName": "Stephen F. Austin State University",
+      "name": "Drew Mattox",
+      "normalizedName": "drew mattox",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "RS",
+      "handedness": "R/R",
+      "jersey": "",
+      "hometown": "Sevierville, Tennessee",
+      "highSchool": "",
+      "previousSchool": "Tennessee Tech",
+      "hometownHighSchool": "Sevierville, Tennessee",
+      "profileUrl": "https://sfajacks.com/sports/baseball/roster/drew-mattox/8464",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "8464",
+      "sources": [
+        "Stephen F. Austin Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Drew Mattox looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "RS / R/R",
+        "detailBadges": [
+          "RHP",
+          "RS",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster"
+      }
+    },
+    {
+      "id": "stephen-f-austin-8483",
+      "schoolSlug": "stephen-f-austin",
+      "school": "Stephen F. Austin",
+      "schoolLongName": "Stephen F. Austin State University",
+      "name": "Kai Parker",
+      "normalizedName": "kai parker",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "RS",
+      "handedness": "R/R",
+      "jersey": "",
+      "hometown": "The Woodlands, Texas",
+      "highSchool": "",
+      "previousSchool": "Grayson College",
+      "hometownHighSchool": "The Woodlands, Texas",
+      "profileUrl": "https://sfajacks.com/sports/baseball/roster/kai-parker/8483",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "8483",
+      "sources": [
+        "Stephen F. Austin Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Kai Parker looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "RS / R/R",
+        "detailBadges": [
+          "RHP",
+          "RS",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster"
+      }
+    },
+    {
+      "id": "stephen-f-austin-8490",
+      "schoolSlug": "stephen-f-austin",
+      "school": "Stephen F. Austin",
+      "schoolLongName": "Stephen F. Austin State University",
+      "name": "Easton Paxton",
+      "normalizedName": "easton paxton",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "",
+      "classYear": "RS",
+      "handedness": "R/R",
+      "jersey": "",
+      "hometown": "West, Texas",
+      "highSchool": "",
+      "previousSchool": "Grayson",
+      "hometownHighSchool": "West, Texas",
+      "profileUrl": "https://sfajacks.com/sports/baseball/roster/easton-paxton/8490",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "8490",
+      "sources": [
+        "Stephen F. Austin Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Easton Paxton gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "RS / R/R",
+        "detailBadges": [
+          "OF",
+          "RS",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster"
+      }
+    },
+    {
+      "id": "stephen-f-austin-7861",
+      "schoolSlug": "stephen-f-austin",
+      "school": "Stephen F. Austin",
+      "schoolLongName": "Stephen F. Austin State University",
+      "name": "Ethan Peña",
+      "normalizedName": "ethan pena",
+      "compositeRole": "Hitter",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "",
+      "classYear": "RS",
+      "handedness": "R/R",
+      "jersey": "13",
+      "hometown": "Simi Valley, California",
+      "highSchool": "Simi Valley HS",
+      "previousSchool": "Glendale College",
+      "hometownHighSchool": "Simi Valley, California / Simi Valley HS",
+      "profileUrl": "https://sfajacks.com/sports/baseball/roster/ethan-pea/7861",
+      "imageUrl": "https://sfajacks.com/images/2025/10/16/Ethan_Pena_sfq3F.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "7861",
+      "sources": [
+        "Stephen F. Austin Athletics roster",
+        "Stephen F. Austin cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "7861",
+        "name": "Ethan Peña",
+        "normalizedName": "ethan pena",
+        "jersey": "13",
+        "profileUrl": "https://sfajacks.com/sports/baseball/roster/ethan-pe-a/7861",
+        "imageUrl": "https://sfajacks.com/images/2025/10/16/Ethan_Pena_sfq3F.jpg",
+        "gamesPlayed": 48,
+        "gamesStarted": 48,
+        "battingAverage": 0.27,
+        "onBasePercentage": 0.302,
+        "sluggingPercentage": 0.413,
+        "ops": 0.715,
+        "atBats": 189,
+        "runs": 22,
+        "hits": 51,
+        "doubles": 12,
+        "triples": 0,
+        "homeRuns": 5,
+        "runsBattedIn": 32,
+        "totalBases": 78,
+        "walks": 9,
+        "hitByPitch": 1,
+        "strikeouts": 35,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 4,
+        "sacrificeFlies": 3,
+        "sacrificeHits": 0,
+        "stolenBases": 1,
+        "stolenBasesAttempts": 1,
+        "putouts": 36,
+        "assists": 0,
+        "errors": 16,
+        "plateAppearances": 203,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "7861",
+        "name": "Ethan Peña",
+        "normalizedName": "ethan pena",
+        "jersey": "13",
+        "profileUrl": "https://sfajacks.com/sports/baseball/roster/ethan-pe-a/7861",
+        "imageUrl": "https://sfajacks.com/images/2025/10/16/Ethan_Pena_sfq3F.jpg",
+        "gamesPlayed": 45,
+        "gamesStarted": 45,
+        "putouts": 36,
+        "assists": 69,
+        "errors": 16,
+        "fieldingPercentage": 0.868,
+        "doublePlays": 7,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 121
+      },
+      "evaluation": {
+        "score": 17,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 12.222222222222202,
+          "Power": 24.47368421052631,
+          "Contact": 31.25000000000001,
+          "Discipline": 6.349206349206344,
+          "Speed": 3.3333333333333335
+        },
+        "summary": "Ethan Peña gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .270",
+          "OBP .302",
+          "SLG .413"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".270"
+          },
+          {
+            "label": "OBP",
+            "value": ".302"
+          },
+          {
+            "label": "SLG",
+            "value": ".413"
+          },
+          {
+            "label": "HR",
+            "value": "5"
+          },
+          {
+            "label": "RBI",
+            "value": "32"
+          },
+          {
+            "label": "SB",
+            "value": "1"
+          }
+        ],
+        "metaLine": "RS / R/R",
+        "detailBadges": [
+          "INF",
+          "RS",
+          "R/R",
+          "Hitter"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats"
+      }
+    },
+    {
+      "id": "stephen-f-austin-8473",
+      "schoolSlug": "stephen-f-austin",
+      "school": "Stephen F. Austin",
+      "schoolLongName": "Stephen F. Austin State University",
+      "name": "Connor Priddy",
+      "normalizedName": "connor priddy",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "RS",
+      "handedness": "S/R",
+      "jersey": "",
+      "hometown": "Lago Vista, Texas",
+      "highSchool": "",
+      "previousSchool": "Wharton County JC",
+      "hometownHighSchool": "Lago Vista, Texas",
+      "profileUrl": "https://sfajacks.com/sports/baseball/roster/connor-priddy/8473",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "8473",
+      "sources": [
+        "Stephen F. Austin Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Connor Priddy looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "RS / S/R",
+        "detailBadges": [
+          "RHP",
+          "RS",
+          "S/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster"
+      }
+    },
+    {
+      "id": "stephen-f-austin-8475",
+      "schoolSlug": "stephen-f-austin",
+      "school": "Stephen F. Austin",
+      "schoolLongName": "Stephen F. Austin State University",
+      "name": "James Reina",
+      "normalizedName": "james reina",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "",
+      "classYear": "RS",
+      "handedness": "R/R",
+      "jersey": "",
+      "hometown": "Lake Charles, Louisiana",
+      "highSchool": "",
+      "previousSchool": "Bossier Parish CC",
+      "hometownHighSchool": "Lake Charles, Louisiana",
+      "profileUrl": "https://sfajacks.com/sports/baseball/roster/james-reina/8475",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "8475",
+      "sources": [
+        "Stephen F. Austin Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "James Reina gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "RS / R/R",
+        "detailBadges": [
+          "INF",
+          "RS",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster"
+      }
+    },
+    {
+      "id": "stephen-f-austin-8491",
+      "schoolSlug": "stephen-f-austin",
+      "school": "Stephen F. Austin",
+      "schoolLongName": "Stephen F. Austin State University",
+      "name": "Easton Roth",
+      "normalizedName": "easton roth",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "",
+      "classYear": "RS",
+      "handedness": "L/L",
+      "jersey": "",
+      "hometown": "Maize, Kansas",
+      "highSchool": "",
+      "previousSchool": "Iowa Western CC",
+      "hometownHighSchool": "Maize, Kansas",
+      "profileUrl": "https://sfajacks.com/sports/baseball/roster/easton-roth/8491",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "8491",
+      "sources": [
+        "Stephen F. Austin Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Easton Roth looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "RS / L/L",
+        "detailBadges": [
+          "LHP",
+          "RS",
+          "L/L",
+          "Pitcher"
         ],
         "sourceSummary": "Stephen F. Austin Athletics roster"
       }
@@ -5720,9 +3798,9 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
       "normalizedName": "gavin shaddix",
       "compositeRole": "Rostered",
       "role": "Hitter",
-      "position": "INF",
-      "positionLong": "Infielder",
-      "classYear": "JR",
+      "position": "UTL",
+      "positionLong": "",
+      "classYear": "RS",
       "handedness": "R/R",
       "jersey": "",
       "hometown": "Austin, Texas",
@@ -5730,7 +3808,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
       "previousSchool": "Ohlone College",
       "hometownHighSchool": "Austin, Texas / Vandegrift HS",
       "profileUrl": "https://sfajacks.com/sports/baseball/roster/gavin-shaddix/7848",
-      "imageUrl": "https://sfajacks.com/images/2025/10/16/Gavin_Shaddix_X0xAb.jpg",
+      "imageUrl": "",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -5789,11 +3867,507 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "JR / R/R",
+        "metaLine": "RS / R/R",
+        "detailBadges": [
+          "UTL",
+          "RS",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster"
+      }
+    },
+    {
+      "id": "stephen-f-austin-7863",
+      "schoolSlug": "stephen-f-austin",
+      "school": "Stephen F. Austin",
+      "schoolLongName": "Stephen F. Austin State University",
+      "name": "Ayden Terry",
+      "normalizedName": "ayden terry",
+      "compositeRole": "Two-Way",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "RS",
+      "handedness": "R/R",
+      "jersey": "32",
+      "hometown": "Lavon, Texas",
+      "highSchool": "Community HS",
+      "previousSchool": "Northeast Texas CC",
+      "hometownHighSchool": "Lavon, Texas / Community HS",
+      "profileUrl": "https://sfajacks.com/sports/baseball/roster/ayden-terry/7863",
+      "imageUrl": "https://sfajacks.com/images/2025/10/16/Ayden_Terry_gcXSV.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "7863",
+      "sources": [
+        "Stephen F. Austin Athletics roster",
+        "Stephen F. Austin cumulative stats"
+      ],
+      "hittingStats": {
+        "rosterBioId": "7863",
+        "name": "Ayden Terry",
+        "normalizedName": "ayden terry",
+        "jersey": "32",
+        "profileUrl": "https://sfajacks.com/sports/baseball/roster/ayden-terry/7863",
+        "imageUrl": "https://sfajacks.com/images/2025/10/16/Ayden_Terry_gcXSV.jpg",
+        "gamesPlayed": 8,
+        "gamesStarted": 1,
+        "battingAverage": 0,
+        "onBasePercentage": 0.167,
+        "sluggingPercentage": 0,
+        "ops": 0.167,
+        "atBats": 5,
+        "runs": 0,
+        "hits": 0,
+        "doubles": 0,
+        "triples": 0,
+        "homeRuns": 0,
+        "runsBattedIn": 0,
+        "totalBases": 0,
+        "walks": 1,
+        "hitByPitch": 0,
+        "strikeouts": 3,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 0,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 0,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 0,
+        "putouts": 1,
+        "assists": 0,
+        "errors": 0,
+        "plateAppearances": 6,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
+      "pitchingStats": {
+        "rosterBioId": "7863",
+        "name": "Ayden Terry",
+        "normalizedName": "ayden terry",
+        "jersey": "32",
+        "profileUrl": "https://sfajacks.com/sports/baseball/roster/ayden-terry/7863",
+        "imageUrl": "https://sfajacks.com/images/2025/10/16/Ayden_Terry_gcXSV.jpg",
+        "gamesPlayed": 11,
+        "gamesStarted": 0,
+        "appearances": 11,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 3.86,
+        "whip": 1.29,
+        "wins": 1,
+        "losses": 0,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 16.333333333333332,
+        "inningsPitchedDisplay": "16.1",
+        "hitsAllowed": 15,
+        "runsAllowed": 8,
+        "earnedRunsAllowed": 7,
+        "walksAllowed": 6,
+        "strikeouts": 18,
+        "doublesAllowed": 5,
+        "triplesAllowed": 0,
+        "homeRunsAllowed": 2,
+        "opponentsAtBats": 64,
+        "wildPitches": 2,
+        "hitBatters": 2,
+        "balks": 0,
+        "opponentsBattingAverage": 0.234,
+        "walksHits": 0
+      },
+      "fieldingStats": {
+        "rosterBioId": "7863",
+        "name": "Ayden Terry",
+        "normalizedName": "ayden terry",
+        "jersey": "32",
+        "profileUrl": "https://sfajacks.com/sports/baseball/roster/ayden-terry/7863",
+        "imageUrl": "https://sfajacks.com/images/2025/10/16/Ayden_Terry_gcXSV.jpg",
+        "gamesPlayed": 4,
+        "gamesStarted": 0,
+        "putouts": 2,
+        "assists": 2,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 4
+      },
+      "evaluation": {
+        "score": 17,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 53.80333951762524,
+          "Command": 40,
+          "Damage suppression": 0
+        },
+        "summary": "Ayden Terry looks like a RHP option who limits runs and misses bats.",
+        "summaryMetrics": [
+          "ERA 3.86",
+          "WHIP 1.29",
+          "K/9 9.9"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "3.86"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.29"
+          },
+          {
+            "label": "K/9",
+            "value": "9.9"
+          },
+          {
+            "label": "BB/9",
+            "value": "3.3"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.10"
+          },
+          {
+            "label": "IP",
+            "value": "16.3"
+          }
+        ],
+        "metaLine": "RS / R/R",
+        "detailBadges": [
+          "RHP",
+          "RS",
+          "R/R",
+          "Two-Way"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats"
+      }
+    },
+    {
+      "id": "stephen-f-austin-8466",
+      "schoolSlug": "stephen-f-austin",
+      "school": "Stephen F. Austin",
+      "schoolLongName": "Stephen F. Austin State University",
+      "name": "Ashton Wagner",
+      "normalizedName": "ashton wagner",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "C",
+      "positionLong": "",
+      "classYear": "RS",
+      "handedness": "R/R",
+      "jersey": "",
+      "hometown": "Nacogdoches, Texas",
+      "highSchool": "",
+      "previousSchool": "Angelo State",
+      "hometownHighSchool": "Nacogdoches, Texas",
+      "profileUrl": "https://sfajacks.com/sports/baseball/roster/ashton-wagner/8466",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "8466",
+      "sources": [
+        "Stephen F. Austin Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Ashton Wagner gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "RS / R/R",
+        "detailBadges": [
+          "C",
+          "RS",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster"
+      }
+    },
+    {
+      "id": "stephen-f-austin-7865",
+      "schoolSlug": "stephen-f-austin",
+      "school": "Stephen F. Austin",
+      "schoolLongName": "Stephen F. Austin State University",
+      "name": "Drew Wenske",
+      "normalizedName": "drew wenske",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "RS",
+      "handedness": "R/R",
+      "jersey": "21",
+      "hometown": "Shiner, Texas",
+      "highSchool": "Shiner HS",
+      "previousSchool": "Wharton County JC",
+      "hometownHighSchool": "Shiner, Texas / Shiner HS",
+      "profileUrl": "https://sfajacks.com/sports/baseball/roster/drew-wenske/7865",
+      "imageUrl": "https://sfajacks.com/images/2025/10/16/Drew_Wenske_MlsXm.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "7865",
+      "sources": [
+        "Stephen F. Austin Athletics roster",
+        "Stephen F. Austin cumulative stats"
+      ],
+      "hittingStats": null,
+      "pitchingStats": {
+        "rosterBioId": "7865",
+        "name": "Drew Wenske",
+        "normalizedName": "drew wenske",
+        "jersey": "21",
+        "profileUrl": "https://sfajacks.com/sports/baseball/roster/drew-wenske/7865",
+        "imageUrl": "https://sfajacks.com/images/2025/10/16/Drew_Wenske_MlsXm.jpg",
+        "gamesPlayed": 11,
+        "gamesStarted": 0,
+        "appearances": 11,
+        "gamesCompleted": 0,
+        "earnedRunAverage": 12.71,
+        "whip": 3.35,
+        "wins": 0,
+        "losses": 0,
+        "saves": 0,
+        "shutouts": 0,
+        "inningsPitched": 5.666666666666667,
+        "inningsPitchedDisplay": "5.2",
+        "hitsAllowed": 9,
+        "runsAllowed": 9,
+        "earnedRunsAllowed": 8,
+        "walksAllowed": 10,
+        "strikeouts": 9,
+        "doublesAllowed": 1,
+        "triplesAllowed": 1,
+        "homeRunsAllowed": 0,
+        "opponentsAtBats": 25,
+        "wildPitches": 1,
+        "hitBatters": 4,
+        "balks": 0,
+        "opponentsBattingAverage": 0.36,
+        "walksHits": 0
+      },
+      "fieldingStats": {
+        "rosterBioId": "7865",
+        "name": "Drew Wenske",
+        "normalizedName": "drew wenske",
+        "jersey": "21",
+        "profileUrl": "https://sfajacks.com/sports/baseball/roster/drew-wenske/7865",
+        "imageUrl": "https://sfajacks.com/images/2025/10/16/Drew_Wenske_MlsXm.jpg",
+        "gamesPlayed": 1,
+        "gamesStarted": 0,
+        "putouts": 0,
+        "assists": 2,
+        "errors": 0,
+        "fieldingPercentage": 1,
+        "doublePlays": 0,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 2
+      },
+      "evaluation": {
+        "score": 19,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 93.58288770053474,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Drew Wenske looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 12.71",
+          "WHIP 3.35",
+          "K/9 14.3"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "12.71"
+          },
+          {
+            "label": "WHIP",
+            "value": "3.35"
+          },
+          {
+            "label": "K/9",
+            "value": "14.3"
+          },
+          {
+            "label": "BB/9",
+            "value": "15.9"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "5.7"
+          }
+        ],
+        "metaLine": "RS / R/R",
+        "detailBadges": [
+          "RHP",
+          "RS",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats"
+      }
+    },
+    {
+      "id": "stephen-f-austin-8489",
+      "schoolSlug": "stephen-f-austin",
+      "school": "Stephen F. Austin",
+      "schoolLongName": "Stephen F. Austin State University",
+      "name": "Chase Womack",
+      "normalizedName": "chase womack",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "",
+      "classYear": "RS",
+      "handedness": "S/R",
+      "jersey": "",
+      "hometown": "Frisco, Texas",
+      "highSchool": "",
+      "previousSchool": "North Dakota State",
+      "hometownHighSchool": "Frisco, Texas",
+      "profileUrl": "https://sfajacks.com/sports/baseball/roster/chase-womack/8489",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "8489",
+      "sources": [
+        "Stephen F. Austin Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Chase Womack gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "RS / S/R",
         "detailBadges": [
           "INF",
-          "JR",
-          "R/R",
+          "RS",
+          "S/R",
           "Rostered"
         ],
         "sourceSummary": "Stephen F. Austin Athletics roster"
@@ -5805,17 +4379,357 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
     "note": "This Stephen F. Austin-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but Stephen F. Austin's public ESPN roster feed did not line up cleanly with the current school-site roster.",
     "totalPlayers": 41,
     "roleCounts": {
-      "Hitter": 21,
-      "Pitcher": 20
+      "Hitter": 19,
+      "Pitcher": 22
     },
     "players": [
+      {
+        "id": "stephen-f-austin-8492",
+        "name": "Peyton Adams",
+        "school": "Stephen F. Austin",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "JR",
+        "handedness": "L/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Peyton Adams gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "JR / L/L",
+        "detailBadges": [
+          "OF",
+          "JR",
+          "L/L",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Stephen F. Austin Athletics roster"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster",
+        "schoolSlug": "stephen-f-austin",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://sfajacks.com/sports/baseball/roster/peyton-adams/8492",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "stephen-f-austin-8461",
+        "name": "Brady Baker",
+        "school": "Stephen F. Austin",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "RS",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Brady Baker looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "RS / R/R",
+        "detailBadges": [
+          "RHP",
+          "RS",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Stephen F. Austin Athletics roster"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster",
+        "schoolSlug": "stephen-f-austin",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://sfajacks.com/sports/baseball/roster/brady-baker/8461",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "stephen-f-austin-8484",
+        "name": "Ashton Bassett",
+        "school": "Stephen F. Austin",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "JR",
+        "handedness": "L/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Ashton Bassett looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / L/L",
+        "detailBadges": [
+          "LHP",
+          "JR",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Stephen F. Austin Athletics roster"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster",
+        "schoolSlug": "stephen-f-austin",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://sfajacks.com/sports/baseball/roster/ashton-bassett/8484",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "stephen-f-austin-8471",
+        "name": "Ethan Beede",
+        "school": "Stephen F. Austin",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Ethan Beede gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "INF",
+          "JR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Stephen F. Austin Athletics roster"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster",
+        "schoolSlug": "stephen-f-austin",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://sfajacks.com/sports/baseball/roster/ethan-beede/8471",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "stephen-f-austin-8477",
+        "name": "Gael Bernal",
+        "school": "Stephen F. Austin",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "RS",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Gael Bernal gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "RS / R/R",
+        "detailBadges": [
+          "INF",
+          "RS",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Stephen F. Austin Athletics roster"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster",
+        "schoolSlug": "stephen-f-austin",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://sfajacks.com/sports/baseball/roster/gael-bernal/8477",
+        "espnAthleteId": ""
+      },
       {
         "id": "stephen-f-austin-7822",
         "name": "Cermodrick Bland",
         "school": "Stephen F. Austin",
         "role": "Hitter",
         "position": "OF",
-        "classYear": "SO",
+        "classYear": "RS",
         "handedness": "R/R",
         "score": 45,
         "fit": {
@@ -5861,10 +4775,10 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
           "Discipline": 29.629629629629623,
           "Speed": 90
         },
-        "metaLine": "SO / R/R",
+        "metaLine": "RS / R/R",
         "detailBadges": [
           "OF",
-          "SO",
+          "RS",
           "R/R",
           "Hitter"
         ],
@@ -5879,1743 +4793,19 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "stephen-f-austin-7819",
-        "name": "Ethan Adkisson",
-        "school": "Stephen F. Austin",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 5,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Ethan Adkisson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .250",
-          "OBP .278",
-          "SLG .315"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".250"
-          },
-          {
-            "label": "OBP",
-            "value": ".278"
-          },
-          {
-            "label": "SLG",
-            "value": ".315"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "11"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 18.75,
-          "Discipline": 14.814814814814808,
-          "Speed": 0
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "C",
-          "SR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Stephen F. Austin Athletics roster",
-          "Stephen F. Austin cumulative stats"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats",
-        "schoolSlug": "stephen-f-austin",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/ethan-adkisson/7819",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "stephen-f-austin-7850",
-        "name": "Coby DeJesus",
-        "school": "Stephen F. Austin",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 41,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Coby DeJesus gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .301",
-          "OBP .385",
-          "SLG .336"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".301"
-          },
-          {
-            "label": "OBP",
-            "value": ".385"
-          },
-          {
-            "label": "SLG",
-            "value": ".336"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "14"
-          },
-          {
-            "label": "SB",
-            "value": "3"
-          }
-        ],
-        "components": {
-          "On-base": 58.33333333333333,
-          "Power": 4.210526315789478,
-          "Contact": 50.624999999999986,
-          "Discipline": 81.94444444444444,
-          "Speed": 10
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "INF",
-          "SR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Stephen F. Austin Athletics roster",
-          "Stephen F. Austin cumulative stats"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats",
-        "schoolSlug": "stephen-f-austin",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/coby-dejesus/7850",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "stephen-f-austin-7842",
-        "name": "Jhett Creel",
-        "school": "Stephen F. Austin",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "JR",
-        "handedness": "L/R",
-        "score": 59,
-        "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
-        },
-        "summary": "Jhett Creel profiles as a C piece who gets on base at a high clip and controls at-bats.",
-        "summaryMetrics": [
-          "AVG .303",
-          "OBP .441",
-          "SLG .400"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".303"
-          },
-          {
-            "label": "OBP",
-            "value": ".441"
-          },
-          {
-            "label": "SLG",
-            "value": ".400"
-          },
-          {
-            "label": "HR",
-            "value": "3"
-          },
-          {
-            "label": "RBI",
-            "value": "26"
-          },
-          {
-            "label": "SB",
-            "value": "4"
-          }
-        ],
-        "components": {
-          "On-base": 89.44444444444444,
-          "Power": 21.052631578947377,
-          "Contact": 51.87499999999999,
-          "Discipline": 100,
-          "Speed": 13.333333333333334
-        },
-        "metaLine": "JR / L/R",
-        "detailBadges": [
-          "C",
-          "JR",
-          "L/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Stephen F. Austin Athletics roster",
-          "Stephen F. Austin cumulative stats"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats",
-        "schoolSlug": "stephen-f-austin",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/jhett-creel/7842",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "stephen-f-austin-7845",
-        "name": "Peyton Adams",
-        "school": "Stephen F. Austin",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "FR",
-        "handedness": "L/L",
-        "score": 50,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Peyton Adams profiles as a OF piece who gets on base at a high clip and controls at-bats.",
-        "summaryMetrics": [
-          "AVG .200",
-          "OBP .455",
-          "SLG .400"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".200"
-          },
-          {
-            "label": "OBP",
-            "value": ".455"
-          },
-          {
-            "label": "SLG",
-            "value": ".400"
-          },
-          {
-            "label": "HR",
-            "value": "1"
-          },
-          {
-            "label": "RBI",
-            "value": "1"
-          },
-          {
-            "label": "SB",
-            "value": "2"
-          }
-        ],
-        "components": {
-          "On-base": 97.22222222222221,
-          "Power": 21.052631578947377,
-          "Contact": 0,
-          "Discipline": 88.88888888888889,
-          "Speed": 6.666666666666667
-        },
-        "metaLine": "FR / L/L",
-        "detailBadges": [
-          "OF",
-          "FR",
-          "L/L",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Stephen F. Austin Athletics roster",
-          "Stephen F. Austin cumulative stats"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats",
-        "schoolSlug": "stephen-f-austin",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/peyton-adams/7845",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "stephen-f-austin-7820",
-        "name": "Elian Balmaceda",
+        "id": "stephen-f-austin-8481",
+        "name": "Brock Bracher",
         "school": "Stephen F. Austin",
         "role": "Pitcher",
         "position": "LHP",
-        "classYear": "SR",
+        "classYear": "RS",
         "handedness": "L/L",
-        "score": 14,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Elian Balmaceda looks like a LHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 4.73",
-          "WHIP 1.76",
-          "K/9 9.2"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.73"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.76"
-          },
-          {
-            "label": "K/9",
-            "value": "9.2"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.9"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.67"
-          },
-          {
-            "label": "IP",
-            "value": "32.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 47.14151827553889,
-          "Command": 27.142857142857146,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / L/L",
-        "detailBadges": [
-          "LHP",
-          "SR",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Stephen F. Austin Athletics roster",
-          "Stephen F. Austin cumulative stats"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats",
-        "schoolSlug": "stephen-f-austin",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/elian-balmaceda/7820",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "stephen-f-austin-7867",
-        "name": "Rodric Black",
-        "school": "Stephen F. Austin",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 22,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Rodric Black gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .230",
-          "OBP .352",
-          "SLG .311"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".230"
-          },
-          {
-            "label": "OBP",
-            "value": ".352"
-          },
-          {
-            "label": "SLG",
-            "value": ".311"
-          },
-          {
-            "label": "HR",
-            "value": "1"
-          },
-          {
-            "label": "RBI",
-            "value": "11"
-          },
-          {
-            "label": "SB",
-            "value": "7"
-          }
-        ],
-        "components": {
-          "On-base": 39.99999999999997,
-          "Power": 0,
-          "Contact": 6.250000000000005,
-          "Discipline": 37.606837606837594,
-          "Speed": 23.333333333333332
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "INF",
-          "SR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Stephen F. Austin Athletics roster",
-          "Stephen F. Austin cumulative stats"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats",
-        "schoolSlug": "stephen-f-austin",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/rodric-black/7867",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "stephen-f-austin-7821",
-        "name": "Jackson Benattar",
-        "school": "Stephen F. Austin",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 11,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jackson Benattar gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .250",
-          "OBP .308",
-          "SLG .292"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".250"
-          },
-          {
-            "label": "OBP",
-            "value": ".308"
-          },
-          {
-            "label": "SLG",
-            "value": ".292"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "3"
-          },
-          {
-            "label": "SB",
-            "value": "2"
-          }
-        ],
-        "components": {
-          "On-base": 15.55555555555554,
-          "Power": 0,
-          "Contact": 18.75,
-          "Discipline": 14.814814814814808,
-          "Speed": 6.666666666666667
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "OF",
-          "SR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Stephen F. Austin Athletics roster",
-          "Stephen F. Austin cumulative stats"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats",
-        "schoolSlug": "stephen-f-austin",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/jackson-benattar/7821",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "stephen-f-austin-7826",
-        "name": "Owen Hooper",
-        "school": "Stephen F. Austin",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "SO",
-        "handedness": "R/R",
         "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Owen Hooper gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "C",
-          "SO",
-          "R/R",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Stephen F. Austin Athletics roster"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster",
-        "schoolSlug": "stephen-f-austin",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/owen-hooper/7826",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "stephen-f-austin-7831",
-        "name": "Dylan Mulcahy",
-        "school": "Stephen F. Austin",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 18,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Dylan Mulcahy looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 5.23",
-          "WHIP 1.45",
-          "K/9 11.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.23"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.45"
-          },
-          {
-            "label": "K/9",
-            "value": "11.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.87"
-          },
-          {
-            "label": "IP",
-            "value": "51.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 63.40175953079179,
-          "Command": 34.782608695652165,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Stephen F. Austin Athletics roster",
-          "Stephen F. Austin cumulative stats"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats",
-        "schoolSlug": "stephen-f-austin",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/dylan-mulcahy/7831",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "stephen-f-austin-7861",
-        "name": "Ethan Peña",
-        "school": "Stephen F. Austin",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 17,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Ethan Peña gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .270",
-          "OBP .302",
-          "SLG .413"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".270"
-          },
-          {
-            "label": "OBP",
-            "value": ".302"
-          },
-          {
-            "label": "SLG",
-            "value": ".413"
-          },
-          {
-            "label": "HR",
-            "value": "5"
-          },
-          {
-            "label": "RBI",
-            "value": "32"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
-        "components": {
-          "On-base": 12.222222222222202,
-          "Power": 24.47368421052631,
-          "Contact": 31.25000000000001,
-          "Discipline": 6.349206349206344,
-          "Speed": 3.3333333333333335
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "INF",
-          "JR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Stephen F. Austin Athletics roster",
-          "Stephen F. Austin cumulative stats"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats",
-        "schoolSlug": "stephen-f-austin",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/ethan-pea/7861",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "stephen-f-austin-7834",
-        "name": "Cooper Schneider",
-        "school": "Stephen F. Austin",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 30,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Cooper Schneider profiles as a OF piece who adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .215",
-          "OBP .364",
-          "SLG .223"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".215"
-          },
-          {
-            "label": "OBP",
-            "value": ".364"
-          },
-          {
-            "label": "SLG",
-            "value": ".223"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "16"
-          },
-          {
-            "label": "SB",
-            "value": "9"
-          }
-        ],
-        "components": {
-          "On-base": 46.66666666666665,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 84.6153846153846,
-          "Speed": 30
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "OF",
-          "SR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Stephen F. Austin Athletics roster",
-          "Stephen F. Austin cumulative stats"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats",
-        "schoolSlug": "stephen-f-austin",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/cooper-schneider/7834",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "stephen-f-austin-7864",
-        "name": "Nate Vidlak",
-        "school": "Stephen F. Austin",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 18,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Nate Vidlak looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 5.96",
-          "WHIP 1.76",
-          "K/9 11.9"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.96"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.76"
-          },
-          {
-            "label": "K/9",
-            "value": "11.9"
-          },
-          {
-            "label": "BB/9",
-            "value": "6.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.40"
-          },
-          {
-            "label": "IP",
-            "value": "22.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 71.92513368983956,
-          "Command": 20,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Stephen F. Austin Athletics roster",
-          "Stephen F. Austin cumulative stats"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats",
-        "schoolSlug": "stephen-f-austin",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/nate-vidlak/7864",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "stephen-f-austin-7836",
-        "name": "Cody Templeton",
-        "school": "Stephen F. Austin",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "SR",
-        "handedness": "L/L",
-        "score": 13,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Cody Templeton gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 4.36",
-          "WHIP 1.52",
-          "K/9 8.7"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.36"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.52"
-          },
-          {
-            "label": "K/9",
-            "value": "8.7"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.6"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.48"
-          },
-          {
-            "label": "IP",
-            "value": "74.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 42.88626172034244,
-          "Command": 27.999999999999996,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / L/L",
-        "detailBadges": [
-          "LHP",
-          "SR",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Stephen F. Austin Athletics roster",
-          "Stephen F. Austin cumulative stats"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats",
-        "schoolSlug": "stephen-f-austin",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/cody-templeton/7836",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "stephen-f-austin-7825",
-        "name": "Mark Henning",
-        "school": "Stephen F. Austin",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SR",
-        "handedness": "L/R",
-        "score": 61,
-        "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
-        },
-        "summary": "Mark Henning profiles as a INF piece who gets on base at a high clip and controls at-bats.",
-        "summaryMetrics": [
-          "AVG .316",
-          "OBP .417",
-          "SLG .456"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".316"
-          },
-          {
-            "label": "OBP",
-            "value": ".417"
-          },
-          {
-            "label": "SLG",
-            "value": ".456"
-          },
-          {
-            "label": "HR",
-            "value": "4"
-          },
-          {
-            "label": "RBI",
-            "value": "33"
-          },
-          {
-            "label": "SB",
-            "value": "7"
-          }
-        ],
-        "components": {
-          "On-base": 76.11111111111109,
-          "Power": 35.789473684210535,
-          "Contact": 60,
-          "Discipline": 100,
-          "Speed": 23.333333333333332
-        },
-        "metaLine": "SR / L/R",
-        "detailBadges": [
-          "INF",
-          "SR",
-          "L/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Stephen F. Austin Athletics roster",
-          "Stephen F. Austin cumulative stats"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats",
-        "schoolSlug": "stephen-f-austin",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/mark-henning/7825",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "stephen-f-austin-7832",
-        "name": "Kadin Munson",
-        "school": "Stephen F. Austin",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "SR",
-        "handedness": "L/L",
-        "score": 6,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Kadin Munson looks like a LHP option who limits runs.",
-        "summaryMetrics": [
-          "ERA 3.32",
-          "WHIP 1.58",
-          "K/9 6.6"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.32"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.58"
-          },
-          {
-            "label": "K/9",
-            "value": "6.6"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.7"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.95"
-          },
-          {
-            "label": "IP",
-            "value": "19.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 23.923444976076556,
-          "Command": 8.000000000000004,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / L/L",
-        "detailBadges": [
-          "LHP",
-          "SR",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Stephen F. Austin Athletics roster",
-          "Stephen F. Austin cumulative stats"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats",
-        "schoolSlug": "stephen-f-austin",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/kadin-munson/7832",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "stephen-f-austin-7824",
-        "name": "Seanan Farney",
-        "school": "Stephen F. Austin",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 18,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Seanan Farney looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 6.41",
-          "WHIP 1.53",
-          "K/9 11.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "6.41"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.53"
-          },
-          {
-            "label": "K/9",
-            "value": "11.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.83"
-          },
-          {
-            "label": "IP",
-            "value": "19.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 67.64252696456086,
-          "Command": 25.454545454545453,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Stephen F. Austin Athletics roster",
-          "Stephen F. Austin cumulative stats"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats",
-        "schoolSlug": "stephen-f-austin",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/seanan-farney/7824",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "stephen-f-austin-7849",
-        "name": "Trey Acreman",
-        "school": "Stephen F. Austin",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 31,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Trey Acreman profiles as a INF piece who controls at-bats.",
-        "summaryMetrics": [
-          "AVG .214",
-          "OBP .370",
-          "SLG .310"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".214"
-          },
-          {
-            "label": "OBP",
-            "value": ".370"
-          },
-          {
-            "label": "SLG",
-            "value": ".310"
-          },
-          {
-            "label": "HR",
-            "value": "1"
-          },
-          {
-            "label": "RBI",
-            "value": "6"
-          },
-          {
-            "label": "SB",
-            "value": "3"
-          }
-        ],
-        "components": {
-          "On-base": 49.999999999999986,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 100,
-          "Speed": 10
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "INF",
-          "JR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Stephen F. Austin Athletics roster",
-          "Stephen F. Austin cumulative stats"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats",
-        "schoolSlug": "stephen-f-austin",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/trey-acreman/7849",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "stephen-f-austin-7865",
-        "name": "Drew Wenske",
-        "school": "Stephen F. Austin",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 19,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Drew Wenske looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 12.71",
-          "WHIP 3.35",
-          "K/9 14.3"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "12.71"
-          },
-          {
-            "label": "WHIP",
-            "value": "3.35"
-          },
-          {
-            "label": "K/9",
-            "value": "14.3"
-          },
-          {
-            "label": "BB/9",
-            "value": "15.9"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "5.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 93.58288770053474,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Stephen F. Austin Athletics roster",
-          "Stephen F. Austin cumulative stats"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats",
-        "schoolSlug": "stephen-f-austin",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/drew-wenske/7865",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "stephen-f-austin-7827",
-        "name": "Josh Ibe",
-        "school": "Stephen F. Austin",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 32,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Josh Ibe gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .250",
-          "OBP .359",
-          "SLG .451"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".250"
-          },
-          {
-            "label": "OBP",
-            "value": ".359"
-          },
-          {
-            "label": "SLG",
-            "value": ".451"
-          },
-          {
-            "label": "HR",
-            "value": "7"
-          },
-          {
-            "label": "RBI",
-            "value": "27"
-          },
-          {
-            "label": "SB",
-            "value": "2"
-          }
-        ],
-        "components": {
-          "On-base": 43.888888888888864,
-          "Power": 34.47368421052632,
-          "Contact": 18.75,
-          "Discipline": 35.85858585858585,
-          "Speed": 6.666666666666667
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "INF",
-          "SR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Stephen F. Austin Athletics roster",
-          "Stephen F. Austin cumulative stats"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats",
-        "schoolSlug": "stephen-f-austin",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/josh-ibe/7827",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "stephen-f-austin-7823",
-        "name": "Reid Bowyer",
-        "school": "Stephen F. Austin",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 7,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Reid Bowyer looks like a RHP option who throws enough strikes and keeps traffic under control.",
-        "summaryMetrics": [
-          "ERA 4.30",
-          "WHIP 1.25",
-          "K/9 5.7"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.30"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.25"
-          },
-          {
-            "label": "K/9",
-            "value": "5.7"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.6"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "37.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 15.76830249396621,
-          "Command": 23.636363636363633,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Stephen F. Austin Athletics roster",
-          "Stephen F. Austin cumulative stats"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats",
-        "schoolSlug": "stephen-f-austin",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/reid-bowyer/7823",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "stephen-f-austin-7835",
-        "name": "Julian Swift",
-        "school": "Stephen F. Austin",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 50,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Julian Swift profiles as a INF piece who adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .325",
-          "OBP .371",
-          "SLG .478"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".325"
-          },
-          {
-            "label": "OBP",
-            "value": ".371"
-          },
-          {
-            "label": "SLG",
-            "value": ".478"
-          },
-          {
-            "label": "HR",
-            "value": "5"
-          },
-          {
-            "label": "RBI",
-            "value": "55"
-          },
-          {
-            "label": "SB",
-            "value": "10"
-          }
-        ],
-        "components": {
-          "On-base": 50.55555555555554,
-          "Power": 41.57894736842105,
-          "Contact": 65.625,
-          "Discipline": 53.80116959064327,
-          "Speed": 33.33333333333333
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "INF",
-          "SR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Stephen F. Austin Athletics roster",
-          "Stephen F. Austin cumulative stats"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats",
-        "schoolSlug": "stephen-f-austin",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/julian-swift/7835",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "stephen-f-austin-7862",
-        "name": "Adrian Rubio",
-        "school": "Stephen F. Austin",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 12,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Adrian Rubio looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 16.50",
-          "WHIP 3.33",
-          "K/9 10.5"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "16.50"
-          },
-          {
-            "label": "WHIP",
-            "value": "3.33"
-          },
-          {
-            "label": "K/9",
-            "value": "10.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "19.5"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.50"
-          },
-          {
-            "label": "IP",
-            "value": "6.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 59.09090909090909,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Stephen F. Austin Athletics roster",
-          "Stephen F. Austin cumulative stats"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats",
-        "schoolSlug": "stephen-f-austin",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/adrian-rubio/7862",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "stephen-f-austin-7843",
-        "name": "Evan Aslaksen",
-        "school": "Stephen F. Austin",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 56,
-        "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
-        },
-        "summary": "Evan Aslaksen profiles as a C piece who brings real extra-base damage.",
-        "summaryMetrics": [
-          "AVG .333",
-          "OBP .368",
-          "SLG .694"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".333"
-          },
-          {
-            "label": "OBP",
-            "value": ".368"
-          },
-          {
-            "label": "SLG",
-            "value": ".694"
-          },
-          {
-            "label": "HR",
-            "value": "3"
-          },
-          {
-            "label": "RBI",
-            "value": "11"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 48.88888888888887,
-          "Power": 98.42105263157895,
-          "Contact": 70.625,
-          "Discipline": 14.814814814814808,
-          "Speed": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "C",
-          "JR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Stephen F. Austin Athletics roster",
-          "Stephen F. Austin cumulative stats"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats",
-        "schoolSlug": "stephen-f-austin",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/evan-aslaksen/7843",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "stephen-f-austin-7856",
-        "name": "Brennan Greer",
-        "school": "Stephen F. Austin",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 19,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Brennan Greer looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 4.43",
-          "WHIP 1.39",
-          "K/9 10.9"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.43"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.39"
-          },
-          {
-            "label": "K/9",
-            "value": "10.9"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.6"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.61"
-          },
-          {
-            "label": "IP",
-            "value": "22.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 62.55088195386704,
-          "Command": 40.00000000000001,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Stephen F. Austin Athletics roster",
-          "Stephen F. Austin cumulative stats"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats",
-        "schoolSlug": "stephen-f-austin",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/brennan-greer/7856",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "stephen-f-austin-7857",
-        "name": "Gabe LeBlanc",
-        "school": "Stephen F. Austin",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 11,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Gabe LeBlanc looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA 6.00",
-          "WHIP 1.43",
-          "K/9 5.3"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "6.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.43"
-          },
-          {
-            "label": "K/9",
-            "value": "5.3"
-          },
-          {
-            "label": "BB/9",
-            "value": "1.4"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.06"
-          },
-          {
-            "label": "IP",
-            "value": "51.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 11.76470588235294,
-          "Command": 54.99999999999999,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Stephen F. Austin Athletics roster",
-          "Stephen F. Austin cumulative stats"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats",
-        "schoolSlug": "stephen-f-austin",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/gabe-leblanc/7857",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "stephen-f-austin-7854",
-        "name": "Aiden Ennis",
-        "school": "Stephen F. Austin",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Aiden Ennis looks like a RHP option who throws enough strikes.",
+        "summary": "Brock Bracher looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -7654,10 +4844,78 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "JR / R/R",
+        "metaLine": "RS / L/L",
+        "detailBadges": [
+          "LHP",
+          "RS",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Stephen F. Austin Athletics roster"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster",
+        "schoolSlug": "stephen-f-austin",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://sfajacks.com/sports/baseball/roster/brock-bracher/8481",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "stephen-f-austin-8486",
+        "name": "Jordan Bush",
+        "school": "Stephen F. Austin",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "RS",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jordan Bush looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "RS / R/R",
         "detailBadges": [
           "RHP",
-          "JR",
+          "RS",
           "R/R",
           "Pitcher"
         ],
@@ -7667,490 +4925,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "sourceSummary": "Stephen F. Austin Athletics roster",
         "schoolSlug": "stephen-f-austin",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/aiden-ennis/7854",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "stephen-f-austin-7852",
-        "name": "Nate Bergeron",
-        "school": "Stephen F. Austin",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 4,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Nate Bergeron gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 7.50",
-          "WHIP 2.67",
-          "K/9 6.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "7.50"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.67"
-          },
-          {
-            "label": "K/9",
-            "value": "6.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "9.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.50"
-          },
-          {
-            "label": "IP",
-            "value": "6.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 18.181818181818183,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Stephen F. Austin Athletics roster",
-          "Stephen F. Austin cumulative stats"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats",
-        "schoolSlug": "stephen-f-austin",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/nate-bergeron/7852",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "stephen-f-austin-7863",
-        "name": "Ayden Terry",
-        "school": "Stephen F. Austin",
-        "role": "Pitcher",
-        "position": "INF/RHP",
-        "classYear": "JR",
-        "handedness": "S/R",
-        "score": 17,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Ayden Terry looks like a INF/RHP option who limits runs and misses bats.",
-        "summaryMetrics": [
-          "ERA 3.86",
-          "WHIP 1.29",
-          "K/9 9.9"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.86"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.29"
-          },
-          {
-            "label": "K/9",
-            "value": "9.9"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.3"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.10"
-          },
-          {
-            "label": "IP",
-            "value": "16.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 53.80333951762524,
-          "Command": 40,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / S/R",
-        "detailBadges": [
-          "INF/RHP",
-          "JR",
-          "S/R",
-          "Two-Way"
-        ],
-        "leaderboards": [
-          "Stephen F. Austin Athletics roster",
-          "Stephen F. Austin cumulative stats"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats",
-        "schoolSlug": "stephen-f-austin",
-        "compositeRole": "Two-Way",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/ayden-terry/7863",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "stephen-f-austin-7853",
-        "name": "Gage Elliott",
-        "school": "Stephen F. Austin",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 12,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Gage Elliott looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 10.12",
-          "WHIP 2.06",
-          "K/9 10.1"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "10.12"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.06"
-          },
-          {
-            "label": "K/9",
-            "value": "10.1"
-          },
-          {
-            "label": "BB/9",
-            "value": "7.6"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.69"
-          },
-          {
-            "label": "IP",
-            "value": "10.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 55.68181818181818,
-          "Command": 6.666666666666665,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Stephen F. Austin Athletics roster",
-          "Stephen F. Austin cumulative stats"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats",
-        "schoolSlug": "stephen-f-austin",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/gage-elliott/7853",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "stephen-f-austin-7838",
-        "name": "Jonathan Valdez",
-        "school": "Stephen F. Austin",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 15,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jonathan Valdez looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 11.37",
-          "WHIP 2.76",
-          "K/9 10.7"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "11.37"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.76"
-          },
-          {
-            "label": "K/9",
-            "value": "10.7"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.7"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "12.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 60.52631578947369,
-          "Command": 17.500000000000004,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Stephen F. Austin Athletics roster",
-          "Stephen F. Austin cumulative stats"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats",
-        "schoolSlug": "stephen-f-austin",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/jonathan-valdez/7838",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "stephen-f-austin-7830",
-        "name": "Jack James",
-        "school": "Stephen F. Austin",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "SR",
-        "handedness": "L/L",
-        "score": 12,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jack James looks like a LHP option who limits runs and throws enough strikes and keeps traffic under control.",
-        "summaryMetrics": [
-          "ERA 2.83",
-          "WHIP 1.23",
-          "K/9 7.5"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "2.83"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.23"
-          },
-          {
-            "label": "K/9",
-            "value": "7.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.6"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.26"
-          },
-          {
-            "label": "IP",
-            "value": "35.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 31.428571428571427,
-          "Command": 38,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / L/L",
-        "detailBadges": [
-          "LHP",
-          "SR",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Stephen F. Austin Athletics roster",
-          "Stephen F. Austin cumulative stats"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats",
-        "schoolSlug": "stephen-f-austin",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/jack-james/7830",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "stephen-f-austin-7833",
-        "name": "Mason Poppen",
-        "school": "Stephen F. Austin",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "SR",
-        "handedness": "L/R",
-        "score": 3,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Mason Poppen gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .100",
-          "OBP .250",
-          "SLG .100"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".100"
-          },
-          {
-            "label": "OBP",
-            "value": ".250"
-          },
-          {
-            "label": "SLG",
-            "value": ".100"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "1"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 22.22222222222222,
-          "Speed": 0
-        },
-        "metaLine": "SR / L/R",
-        "detailBadges": [
-          "C",
-          "SR",
-          "L/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Stephen F. Austin Athletics roster",
-          "Stephen F. Austin cumulative stats"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats",
-        "schoolSlug": "stephen-f-austin",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/mason-poppen/7833",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "stephen-f-austin-7855",
-        "name": "Charlie Feris",
-        "school": "Stephen F. Austin",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 7,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Charlie Feris gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 9.95",
-          "WHIP 2.11",
-          "K/9 7.1"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "9.95"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.11"
-          },
-          {
-            "label": "K/9",
-            "value": "7.1"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.2"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.42"
-          },
-          {
-            "label": "IP",
-            "value": "19.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 28.229665071770338,
-          "Command": 7.272727272727275,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Stephen F. Austin Athletics roster",
-          "Stephen F. Austin cumulative stats"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats",
-        "schoolSlug": "stephen-f-austin",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/charlie-feris/7855",
+        "profileUrl": "https://sfajacks.com/sports/baseball/roster/jordan-bush/8486",
         "espnAthleteId": ""
       },
       {
@@ -8159,7 +4934,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "school": "Stephen F. Austin",
         "role": "Hitter",
         "position": "OF",
-        "classYear": "JR",
+        "classYear": "RS",
         "handedness": "L/L",
         "score": 47,
         "fit": {
@@ -8205,10 +4980,10 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
           "Discipline": 62.43386243386243,
           "Speed": 23.333333333333332
         },
-        "metaLine": "JR / L/L",
+        "metaLine": "RS / L/L",
         "detailBadges": [
           "OF",
-          "JR",
+          "RS",
           "L/L",
           "Hitter"
         ],
@@ -8223,295 +4998,19 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "stephen-f-austin-7837",
-        "name": "Hayden Tronson",
-        "school": "Stephen F. Austin",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 13,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Hayden Tronson looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 11.37",
-          "WHIP 2.13",
-          "K/9 9.9"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "11.37"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.13"
-          },
-          {
-            "label": "K/9",
-            "value": "9.9"
-          },
-          {
-            "label": "BB/9",
-            "value": "6.4"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "12.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 54.066985645933016,
-          "Command": 11.111111111111107,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Stephen F. Austin Athletics roster",
-          "Stephen F. Austin cumulative stats"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats",
-        "schoolSlug": "stephen-f-austin",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/hayden-tronson/7837",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "stephen-f-austin-7844",
-        "name": "Remington Roff",
+        "id": "stephen-f-austin-8458",
+        "name": "Michael Clarkson",
         "school": "Stephen F. Austin",
         "role": "Hitter",
         "position": "C",
-        "classYear": "JR",
+        "classYear": "RS",
         "handedness": "R/R",
-        "score": 1,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Remington Roff gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .167",
-          "OBP .286",
-          "SLG .167"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".167"
-          },
-          {
-            "label": "OBP",
-            "value": ".286"
-          },
-          {
-            "label": "SLG",
-            "value": ".167"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 3.3333333333333055,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "C",
-          "JR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Stephen F. Austin Athletics roster",
-          "Stephen F. Austin cumulative stats"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats",
-        "schoolSlug": "stephen-f-austin",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/remington-roff/7844",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "stephen-f-austin-7859",
-        "name": "Noah O'Farrell",
-        "school": "Stephen F. Austin",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 3,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Noah O'Farrell gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 7.77",
-          "WHIP 1.89",
-          "K/9 4.8"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "7.77"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.89"
-          },
-          {
-            "label": "K/9",
-            "value": "4.8"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.3"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.11"
-          },
-          {
-            "label": "IP",
-            "value": "24.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 7.347447073474473,
-          "Command": 8.888888888888888,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Stephen F. Austin Athletics roster",
-          "Stephen F. Austin cumulative stats"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats",
-        "schoolSlug": "stephen-f-austin",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/noah-ofarrell/7859",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "stephen-f-austin-7847",
-        "name": "Brigden Smith",
-        "school": "Stephen F. Austin",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 18,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Brigden Smith gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .167",
-          "OBP .348",
-          "SLG .222"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".167"
-          },
-          {
-            "label": "OBP",
-            "value": ".348"
-          },
-          {
-            "label": "SLG",
-            "value": ".222"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
-        "components": {
-          "On-base": 37.77777777777775,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 41.26984126984126,
-          "Speed": 3.3333333333333335
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "OF",
-          "JR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Stephen F. Austin Athletics roster",
-          "Stephen F. Austin cumulative stats"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats",
-        "schoolSlug": "stephen-f-austin",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/brigden-smith/7847",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "stephen-f-austin-7851",
-        "name": "Carter Hubbard",
-        "school": "Stephen F. Austin",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SO",
-        "handedness": "S/R",
         "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Carter Hubbard gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Michael Clarkson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG --",
           "OBP --",
@@ -8550,11 +5049,11 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "SO / S/R",
+        "metaLine": "RS / R/R",
         "detailBadges": [
-          "INF",
-          "SO",
-          "S/R",
+          "C",
+          "RS",
+          "R/R",
           "Rostered"
         ],
         "leaderboards": [
@@ -8563,7 +5062,1781 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "sourceSummary": "Stephen F. Austin Athletics roster",
         "schoolSlug": "stephen-f-austin",
         "compositeRole": "Rostered",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/carter-hubbard/7851",
+        "profileUrl": "https://sfajacks.com/sports/baseball/roster/michael-clarkson/8458",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "stephen-f-austin-7842",
+        "name": "Jhett Creel",
+        "school": "Stephen F. Austin",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "RS",
+        "handedness": "L/R",
+        "score": 59,
+        "fit": {
+          "label": "Monitor",
+          "className": "fit-monitor"
+        },
+        "summary": "Jhett Creel profiles as a C piece who gets on base at a high clip and controls at-bats.",
+        "summaryMetrics": [
+          "AVG .303",
+          "OBP .441",
+          "SLG .400"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".303"
+          },
+          {
+            "label": "OBP",
+            "value": ".441"
+          },
+          {
+            "label": "SLG",
+            "value": ".400"
+          },
+          {
+            "label": "HR",
+            "value": "3"
+          },
+          {
+            "label": "RBI",
+            "value": "26"
+          },
+          {
+            "label": "SB",
+            "value": "4"
+          }
+        ],
+        "components": {
+          "On-base": 89.44444444444444,
+          "Power": 21.052631578947377,
+          "Contact": 51.87499999999999,
+          "Discipline": 100,
+          "Speed": 13.333333333333334
+        },
+        "metaLine": "RS / L/R",
+        "detailBadges": [
+          "C",
+          "RS",
+          "L/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Stephen F. Austin Athletics roster",
+          "Stephen F. Austin cumulative stats"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats",
+        "schoolSlug": "stephen-f-austin",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://sfajacks.com/sports/baseball/roster/jhett-creel/7842",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "stephen-f-austin-8478",
+        "name": "Dillon Davenport",
+        "school": "Stephen F. Austin",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "RS",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Dillon Davenport looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "RS / R/R",
+        "detailBadges": [
+          "RHP",
+          "RS",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Stephen F. Austin Athletics roster"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster",
+        "schoolSlug": "stephen-f-austin",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://sfajacks.com/sports/baseball/roster/dillon-davenport/8478",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "stephen-f-austin-7853",
+        "name": "Gage Elliott",
+        "school": "Stephen F. Austin",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "RS",
+        "handedness": "R/R",
+        "score": 12,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Gage Elliott looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 10.12",
+          "WHIP 2.06",
+          "K/9 10.1"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "10.12"
+          },
+          {
+            "label": "WHIP",
+            "value": "2.06"
+          },
+          {
+            "label": "K/9",
+            "value": "10.1"
+          },
+          {
+            "label": "BB/9",
+            "value": "7.6"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.69"
+          },
+          {
+            "label": "IP",
+            "value": "10.7"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 55.68181818181818,
+          "Command": 6.666666666666665,
+          "Damage suppression": 0
+        },
+        "metaLine": "RS / R/R",
+        "detailBadges": [
+          "RHP",
+          "RS",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Stephen F. Austin Athletics roster",
+          "Stephen F. Austin cumulative stats"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats",
+        "schoolSlug": "stephen-f-austin",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://sfajacks.com/sports/baseball/roster/gage-elliott/7853",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "stephen-f-austin-7854",
+        "name": "Aiden Ennis",
+        "school": "Stephen F. Austin",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "RS",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Aiden Ennis looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "RS / R/R",
+        "detailBadges": [
+          "RHP",
+          "RS",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Stephen F. Austin Athletics roster"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster",
+        "schoolSlug": "stephen-f-austin",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://sfajacks.com/sports/baseball/roster/aiden-ennis/7854",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "stephen-f-austin-7824",
+        "name": "Seanan Farney",
+        "school": "Stephen F. Austin",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "RS",
+        "handedness": "R/R",
+        "score": 18,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Seanan Farney looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 6.41",
+          "WHIP 1.53",
+          "K/9 11.4"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "6.41"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.53"
+          },
+          {
+            "label": "K/9",
+            "value": "11.4"
+          },
+          {
+            "label": "BB/9",
+            "value": "5.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.83"
+          },
+          {
+            "label": "IP",
+            "value": "19.7"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 67.64252696456086,
+          "Command": 25.454545454545453,
+          "Damage suppression": 0
+        },
+        "metaLine": "RS / R/R",
+        "detailBadges": [
+          "RHP",
+          "RS",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Stephen F. Austin Athletics roster",
+          "Stephen F. Austin cumulative stats"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats",
+        "schoolSlug": "stephen-f-austin",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://sfajacks.com/sports/baseball/roster/seanan-farney/7824",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "stephen-f-austin-7855",
+        "name": "Charlie Feris",
+        "school": "Stephen F. Austin",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "RS",
+        "handedness": "L/R",
+        "score": 7,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Charlie Feris gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "ERA 9.95",
+          "WHIP 2.11",
+          "K/9 7.1"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "9.95"
+          },
+          {
+            "label": "WHIP",
+            "value": "2.11"
+          },
+          {
+            "label": "K/9",
+            "value": "7.1"
+          },
+          {
+            "label": "BB/9",
+            "value": "5.2"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.42"
+          },
+          {
+            "label": "IP",
+            "value": "19.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 28.229665071770338,
+          "Command": 7.272727272727275,
+          "Damage suppression": 0
+        },
+        "metaLine": "RS / L/R",
+        "detailBadges": [
+          "RHP",
+          "RS",
+          "L/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Stephen F. Austin Athletics roster",
+          "Stephen F. Austin cumulative stats"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats",
+        "schoolSlug": "stephen-f-austin",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://sfajacks.com/sports/baseball/roster/charlie-feris/7855",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "stephen-f-austin-8459",
+        "name": "Matthew Foley",
+        "school": "Stephen F. Austin",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "RS",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Matthew Foley looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "RS / R/R",
+        "detailBadges": [
+          "RHP",
+          "RS",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Stephen F. Austin Athletics roster"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster",
+        "schoolSlug": "stephen-f-austin",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://sfajacks.com/sports/baseball/roster/matthew-foley/8459",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "stephen-f-austin-7856",
+        "name": "Brennan Greer",
+        "school": "Stephen F. Austin",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "RS",
+        "handedness": "R/R",
+        "score": 19,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Brennan Greer looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 4.43",
+          "WHIP 1.39",
+          "K/9 10.9"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "4.43"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.39"
+          },
+          {
+            "label": "K/9",
+            "value": "10.9"
+          },
+          {
+            "label": "BB/9",
+            "value": "3.6"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.61"
+          },
+          {
+            "label": "IP",
+            "value": "22.3"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 62.55088195386704,
+          "Command": 40.00000000000001,
+          "Damage suppression": 0
+        },
+        "metaLine": "RS / R/R",
+        "detailBadges": [
+          "RHP",
+          "RS",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Stephen F. Austin Athletics roster",
+          "Stephen F. Austin cumulative stats"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats",
+        "schoolSlug": "stephen-f-austin",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://sfajacks.com/sports/baseball/roster/brennan-greer/7856",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "stephen-f-austin-8463",
+        "name": "Jack Hanna",
+        "school": "Stephen F. Austin",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "RS",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jack Hanna looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "RS / R/R",
+        "detailBadges": [
+          "RHP",
+          "RS",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Stephen F. Austin Athletics roster"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster",
+        "schoolSlug": "stephen-f-austin",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://sfajacks.com/sports/baseball/roster/jack-hanna/8463",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "stephen-f-austin-8467",
+        "name": "Austin Hardy",
+        "school": "Stephen F. Austin",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "RS",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Austin Hardy gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "RS / R/R",
+        "detailBadges": [
+          "INF",
+          "RS",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Stephen F. Austin Athletics roster"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster",
+        "schoolSlug": "stephen-f-austin",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://sfajacks.com/sports/baseball/roster/austin-hardy/8467",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "stephen-f-austin-8494",
+        "name": "Carson Henderson",
+        "school": "Stephen F. Austin",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "RS",
+        "handedness": "L/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Carson Henderson looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "RS / L/L",
+        "detailBadges": [
+          "LHP",
+          "RS",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Stephen F. Austin Athletics roster"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster",
+        "schoolSlug": "stephen-f-austin",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://sfajacks.com/sports/baseball/roster/carson-henderson/8494",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "stephen-f-austin-8479",
+        "name": "Louis Hertling",
+        "school": "Stephen F. Austin",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "RS",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Louis Hertling looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "RS / R/R",
+        "detailBadges": [
+          "RHP",
+          "RS",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Stephen F. Austin Athletics roster"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster",
+        "schoolSlug": "stephen-f-austin",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://sfajacks.com/sports/baseball/roster/louis-hertling/8479",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "stephen-f-austin-7826",
+        "name": "Owen Hooper",
+        "school": "Stephen F. Austin",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "RS",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Owen Hooper gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "RS / R/R",
+        "detailBadges": [
+          "C",
+          "RS",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Stephen F. Austin Athletics roster"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster",
+        "schoolSlug": "stephen-f-austin",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://sfajacks.com/sports/baseball/roster/owen-hooper/7826",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "stephen-f-austin-8485",
+        "name": "Shane Hopper",
+        "school": "Stephen F. Austin",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "RS",
+        "handedness": "L/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Shane Hopper looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "RS / L/L",
+        "detailBadges": [
+          "LHP",
+          "RS",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Stephen F. Austin Athletics roster"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster",
+        "schoolSlug": "stephen-f-austin",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://sfajacks.com/sports/baseball/roster/shane-hopper/8485",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "stephen-f-austin-8474",
+        "name": "Gustafson Koehn",
+        "school": "Stephen F. Austin",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "RS",
+        "handedness": "L/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Gustafson Koehn gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "RS / L/L",
+        "detailBadges": [
+          "INF",
+          "RS",
+          "L/L",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Stephen F. Austin Athletics roster"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster",
+        "schoolSlug": "stephen-f-austin",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://sfajacks.com/sports/baseball/roster/gustafson-koehn/8474",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "stephen-f-austin-8470",
+        "name": "Sam Lee",
+        "school": "Stephen F. Austin",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "RS",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Sam Lee gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "RS / R/R",
+        "detailBadges": [
+          "OF",
+          "RS",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Stephen F. Austin Athletics roster"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster",
+        "schoolSlug": "stephen-f-austin",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://sfajacks.com/sports/baseball/roster/sam-lee/8470",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "stephen-f-austin-8482",
+        "name": "Isaiah Leeth",
+        "school": "Stephen F. Austin",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "RS",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Isaiah Leeth looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "RS / R/R",
+        "detailBadges": [
+          "RHP",
+          "RS",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Stephen F. Austin Athletics roster"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster",
+        "schoolSlug": "stephen-f-austin",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://sfajacks.com/sports/baseball/roster/isaiah-leeth/8482",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "stephen-f-austin-8468",
+        "name": "Ryan Lewis",
+        "school": "Stephen F. Austin",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "RS",
+        "handedness": "L/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Ryan Lewis gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "RS / L/R",
+        "detailBadges": [
+          "INF",
+          "RS",
+          "L/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Stephen F. Austin Athletics roster"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster",
+        "schoolSlug": "stephen-f-austin",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://sfajacks.com/sports/baseball/roster/ryan-lewis/8468",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "stephen-f-austin-8460",
+        "name": "Noah Massey",
+        "school": "Stephen F. Austin",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "RS",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Noah Massey gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "RS / R/R",
+        "detailBadges": [
+          "C",
+          "RS",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Stephen F. Austin Athletics roster"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster",
+        "schoolSlug": "stephen-f-austin",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://sfajacks.com/sports/baseball/roster/noah-massey/8460",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "stephen-f-austin-8464",
+        "name": "Drew Mattox",
+        "school": "Stephen F. Austin",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "RS",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Drew Mattox looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "RS / R/R",
+        "detailBadges": [
+          "RHP",
+          "RS",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Stephen F. Austin Athletics roster"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster",
+        "schoolSlug": "stephen-f-austin",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://sfajacks.com/sports/baseball/roster/drew-mattox/8464",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "stephen-f-austin-8483",
+        "name": "Kai Parker",
+        "school": "Stephen F. Austin",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "RS",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Kai Parker looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "RS / R/R",
+        "detailBadges": [
+          "RHP",
+          "RS",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Stephen F. Austin Athletics roster"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster",
+        "schoolSlug": "stephen-f-austin",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://sfajacks.com/sports/baseball/roster/kai-parker/8483",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "stephen-f-austin-8490",
+        "name": "Easton Paxton",
+        "school": "Stephen F. Austin",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "RS",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Easton Paxton gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "RS / R/R",
+        "detailBadges": [
+          "OF",
+          "RS",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Stephen F. Austin Athletics roster"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster",
+        "schoolSlug": "stephen-f-austin",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://sfajacks.com/sports/baseball/roster/easton-paxton/8490",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "stephen-f-austin-7861",
+        "name": "Ethan Peña",
+        "school": "Stephen F. Austin",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "RS",
+        "handedness": "R/R",
+        "score": 17,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Ethan Peña gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .270",
+          "OBP .302",
+          "SLG .413"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".270"
+          },
+          {
+            "label": "OBP",
+            "value": ".302"
+          },
+          {
+            "label": "SLG",
+            "value": ".413"
+          },
+          {
+            "label": "HR",
+            "value": "5"
+          },
+          {
+            "label": "RBI",
+            "value": "32"
+          },
+          {
+            "label": "SB",
+            "value": "1"
+          }
+        ],
+        "components": {
+          "On-base": 12.222222222222202,
+          "Power": 24.47368421052631,
+          "Contact": 31.25000000000001,
+          "Discipline": 6.349206349206344,
+          "Speed": 3.3333333333333335
+        },
+        "metaLine": "RS / R/R",
+        "detailBadges": [
+          "INF",
+          "RS",
+          "R/R",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Stephen F. Austin Athletics roster",
+          "Stephen F. Austin cumulative stats"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats",
+        "schoolSlug": "stephen-f-austin",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://sfajacks.com/sports/baseball/roster/ethan-pea/7861",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "stephen-f-austin-8473",
+        "name": "Connor Priddy",
+        "school": "Stephen F. Austin",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "RS",
+        "handedness": "S/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Connor Priddy looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "RS / S/R",
+        "detailBadges": [
+          "RHP",
+          "RS",
+          "S/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Stephen F. Austin Athletics roster"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster",
+        "schoolSlug": "stephen-f-austin",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://sfajacks.com/sports/baseball/roster/connor-priddy/8473",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "stephen-f-austin-8475",
+        "name": "James Reina",
+        "school": "Stephen F. Austin",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "RS",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "James Reina gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "RS / R/R",
+        "detailBadges": [
+          "INF",
+          "RS",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Stephen F. Austin Athletics roster"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster",
+        "schoolSlug": "stephen-f-austin",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://sfajacks.com/sports/baseball/roster/james-reina/8475",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "stephen-f-austin-8491",
+        "name": "Easton Roth",
+        "school": "Stephen F. Austin",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "RS",
+        "handedness": "L/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Easton Roth looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "RS / L/L",
+        "detailBadges": [
+          "LHP",
+          "RS",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Stephen F. Austin Athletics roster"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster",
+        "schoolSlug": "stephen-f-austin",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://sfajacks.com/sports/baseball/roster/easton-roth/8491",
         "espnAthleteId": ""
       },
       {
@@ -8571,8 +6844,8 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "name": "Gavin Shaddix",
         "school": "Stephen F. Austin",
         "role": "Hitter",
-        "position": "INF",
-        "classYear": "JR",
+        "position": "UTL",
+        "classYear": "RS",
         "handedness": "R/R",
         "score": 0,
         "fit": {
@@ -8618,10 +6891,10 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "JR / R/R",
+        "metaLine": "RS / R/R",
         "detailBadges": [
-          "INF",
-          "JR",
+          "UTL",
+          "RS",
           "R/R",
           "Rostered"
         ],
@@ -8632,6 +6905,280 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "schoolSlug": "stephen-f-austin",
         "compositeRole": "Rostered",
         "profileUrl": "https://sfajacks.com/sports/baseball/roster/gavin-shaddix/7848",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "stephen-f-austin-7863",
+        "name": "Ayden Terry",
+        "school": "Stephen F. Austin",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "RS",
+        "handedness": "R/R",
+        "score": 17,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Ayden Terry looks like a RHP option who limits runs and misses bats.",
+        "summaryMetrics": [
+          "ERA 3.86",
+          "WHIP 1.29",
+          "K/9 9.9"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "3.86"
+          },
+          {
+            "label": "WHIP",
+            "value": "1.29"
+          },
+          {
+            "label": "K/9",
+            "value": "9.9"
+          },
+          {
+            "label": "BB/9",
+            "value": "3.3"
+          },
+          {
+            "label": "HR/9",
+            "value": "1.10"
+          },
+          {
+            "label": "IP",
+            "value": "16.3"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 53.80333951762524,
+          "Command": 40,
+          "Damage suppression": 0
+        },
+        "metaLine": "RS / R/R",
+        "detailBadges": [
+          "RHP",
+          "RS",
+          "R/R",
+          "Two-Way"
+        ],
+        "leaderboards": [
+          "Stephen F. Austin Athletics roster",
+          "Stephen F. Austin cumulative stats"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats",
+        "schoolSlug": "stephen-f-austin",
+        "compositeRole": "Two-Way",
+        "profileUrl": "https://sfajacks.com/sports/baseball/roster/ayden-terry/7863",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "stephen-f-austin-8466",
+        "name": "Ashton Wagner",
+        "school": "Stephen F. Austin",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "RS",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Ashton Wagner gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "RS / R/R",
+        "detailBadges": [
+          "C",
+          "RS",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Stephen F. Austin Athletics roster"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster",
+        "schoolSlug": "stephen-f-austin",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://sfajacks.com/sports/baseball/roster/ashton-wagner/8466",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "stephen-f-austin-7865",
+        "name": "Drew Wenske",
+        "school": "Stephen F. Austin",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "RS",
+        "handedness": "R/R",
+        "score": 19,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Drew Wenske looks like a RHP option who misses bats.",
+        "summaryMetrics": [
+          "ERA 12.71",
+          "WHIP 3.35",
+          "K/9 14.3"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "12.71"
+          },
+          {
+            "label": "WHIP",
+            "value": "3.35"
+          },
+          {
+            "label": "K/9",
+            "value": "14.3"
+          },
+          {
+            "label": "BB/9",
+            "value": "15.9"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "5.7"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 93.58288770053474,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "RS / R/R",
+        "detailBadges": [
+          "RHP",
+          "RS",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Stephen F. Austin Athletics roster",
+          "Stephen F. Austin cumulative stats"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats",
+        "schoolSlug": "stephen-f-austin",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://sfajacks.com/sports/baseball/roster/drew-wenske/7865",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "stephen-f-austin-8489",
+        "name": "Chase Womack",
+        "school": "Stephen F. Austin",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "RS",
+        "handedness": "S/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Chase Womack gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "RS / S/R",
+        "detailBadges": [
+          "INF",
+          "RS",
+          "S/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Stephen F. Austin Athletics roster"
+        ],
+        "sourceSummary": "Stephen F. Austin Athletics roster",
+        "schoolSlug": "stephen-f-austin",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://sfajacks.com/sports/baseball/roster/chase-womack/8489",
         "espnAthleteId": ""
       }
     ]

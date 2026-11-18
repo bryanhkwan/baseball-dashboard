@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.brown2026 = {
-  "generatedAt": "2026-07-23T10:56:08.960Z",
+  "generatedAt": "2026-11-18T10:17:59.604Z",
   "season": 2026,
   "school": {
     "slug": "brown",
@@ -2697,6 +2697,94 @@ window.__BASEBALL_DATASETS__.brown2026 = {
       }
     },
     {
+      "id": "brown-24059",
+      "schoolSlug": "brown",
+      "school": "Brown",
+      "schoolLongName": "Brown University",
+      "name": "Nate Kempton",
+      "normalizedName": "nate kempton",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "RHP",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "36",
+      "hometown": "Cheshire, Conn.",
+      "highSchool": "Choate Rosemary Hall",
+      "previousSchool": "",
+      "hometownHighSchool": "Cheshire, Conn. / Choate Rosemary Hall",
+      "profileUrl": "https://brownbears.com/sports/baseball/roster/nate-kempton/24059",
+      "imageUrl": "https://brownbears.com/images/2022/6/28/no_headshot.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "24059",
+      "sources": [
+        "Brown Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Nate Kempton looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Brown Athletics roster"
+      }
+    },
+    {
       "id": "brown-24053",
       "schoolSlug": "brown",
       "school": "Brown",
@@ -2778,94 +2866,6 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "detailBadges": [
           "RHP",
           "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Brown Athletics roster"
-      }
-    },
-    {
-      "id": "brown-24059",
-      "schoolSlug": "brown",
-      "school": "Brown",
-      "schoolLongName": "Brown University",
-      "name": "Nate Kempton",
-      "normalizedName": "nate kempton",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "RHP",
-      "classYear": "FR",
-      "handedness": "R/R",
-      "jersey": "39",
-      "hometown": "Cheshire, Conn.",
-      "highSchool": "Choate Rosemary Hall",
-      "previousSchool": "",
-      "hometownHighSchool": "Cheshire, Conn. / Choate Rosemary Hall",
-      "profileUrl": "https://brownbears.com/sports/baseball/roster/nate-kempton/24059",
-      "imageUrl": "https://brownbears.com/images/2022/6/28/no_headshot.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "24059",
-      "sources": [
-        "Brown Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Nate Kempton looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "RHP",
-          "FR",
           "R/R",
           "Pitcher"
         ],
@@ -5383,74 +5383,6 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "brown-24053",
-        "name": "Matt Wilmarth",
-        "school": "Brown",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Matt Wilmarth looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Brown Athletics roster"
-        ],
-        "sourceSummary": "Brown Athletics roster",
-        "schoolSlug": "brown",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://brownbears.com/sports/baseball/roster/matt-wilmarth/24053",
-        "espnAthleteId": ""
-      },
-      {
         "id": "brown-24059",
         "name": "Nate Kempton",
         "school": "Brown",
@@ -5516,6 +5448,74 @@ window.__BASEBALL_DATASETS__.brown2026 = {
         "schoolSlug": "brown",
         "compositeRole": "Pitcher",
         "profileUrl": "https://brownbears.com/sports/baseball/roster/nate-kempton/24059",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "brown-24053",
+        "name": "Matt Wilmarth",
+        "school": "Brown",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Matt Wilmarth looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Brown Athletics roster"
+        ],
+        "sourceSummary": "Brown Athletics roster",
+        "schoolSlug": "brown",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://brownbears.com/sports/baseball/roster/matt-wilmarth/24053",
         "espnAthleteId": ""
       },
       {

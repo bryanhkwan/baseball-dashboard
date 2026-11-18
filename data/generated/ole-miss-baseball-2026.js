@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.ole-miss2026 = {
-  "generatedAt": "2026-07-30T10:56:51.993Z",
+  "generatedAt": "2026-11-18T10:18:35.976Z",
   "season": 2026,
   "school": {
     "slug": "ole-miss",
@@ -25,17 +25,52 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
     "ncaa": "NCAA school index"
   },
   "coverage": {
-    "rosterPlayers": 38,
+    "rosterPlayers": 42,
     "espnRosterPlayers": 0,
-    "playersWithHittingStats": 16,
-    "playersWithPitchingStats": 17,
-    "playersWithFieldingStats": 32,
-    "mergedPlayersWithAnyStats": 33,
+    "playersWithHittingStats": 0,
+    "playersWithPitchingStats": 0,
+    "playersWithFieldingStats": 0,
+    "mergedPlayersWithAnyStats": 0,
     "matchedEspnPlayers": 0,
     "unmatchedStatRows": {
-      "hitting": [],
-      "pitching": [],
-      "fielding": []
+      "hitting": [
+        "Tristan Bissetta",
+        "Collin Reuter",
+        "Brayden Randle",
+        "Austin Fawley",
+        "Brett Moseley",
+        "Tate Sirmans",
+        "Daniel Pacella"
+      ],
+      "pitching": [
+        "Taylor Rabe",
+        "Cade Townsend",
+        "Patrick Collopy",
+        "Noah Allen",
+        "Landon Waters",
+        "Hudson Calhoun",
+        "Marko Sipila",
+        "Wil Libbert",
+        "Landon Koenig"
+      ],
+      "fielding": [
+        "Collin Reuter",
+        "Taylor Rabe",
+        "Wil Libbert",
+        "Tate Sirmans",
+        "Landon Waters",
+        "Noah Allen",
+        "Patrick Collopy",
+        "Austin Fawley",
+        "Tristan Bissetta",
+        "Brayden Randle",
+        "Brett Moseley",
+        "Daniel Pacella",
+        "Hudson Calhoun",
+        "Cade Townsend",
+        "Landon Koenig",
+        "Marko Sipila"
+      ]
     }
   },
   "teamSummary": {
@@ -124,297 +159,183 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
   },
   "players": [
     {
-      "id": "ole-miss-6159",
+      "id": "ole-miss-6984",
       "schoolSlug": "ole-miss",
       "school": "Mississippi",
       "schoolLongName": "University of Mississippi",
-      "name": "Brayden Randle",
-      "normalizedName": "brayden randle",
-      "compositeRole": "Hitter",
+      "name": "Christian Doty",
+      "normalizedName": "christian doty",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "IF",
       "positionLong": "",
-      "classYear": "JR",
-      "handedness": "2L",
+      "classYear": "FR",
+      "handedness": "HS",
       "jersey": "1",
-      "hometown": "Rockwall, Texas",
-      "highSchool": "Rockwall",
+      "hometown": "Olive Branch, Miss.",
+      "highSchool": "Magnolia Heights",
       "previousSchool": "",
-      "hometownHighSchool": "Rockwall, Texas / Rockwall",
-      "profileUrl": "https://olemisssports.com/sports/baseball/roster/brayden-randle/6159",
-      "imageUrl": "https://olemisssports.com/images/2026/2/6/Brayden_Randle.jpg",
+      "hometownHighSchool": "Olive Branch, Miss. / Magnolia Heights",
+      "profileUrl": "https://olemisssports.com/sports/baseball/roster/christian-doty/6984",
+      "imageUrl": "https://olemisssports.com/images/2018/8/21/om_headshot_logo.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "6159",
+      "rosterBioId": "6984",
       "sources": [
-        "Mississippi Athletics roster",
-        "Mississippi cumulative stats"
+        "Mississippi Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "6159",
-        "name": "Brayden Randle",
-        "normalizedName": "brayden randle",
-        "jersey": "1",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/brayden-randle/6159",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Brayden_Randle.jpg",
-        "gamesPlayed": 51,
-        "gamesStarted": 45,
-        "battingAverage": 0.259,
-        "onBasePercentage": 0.342,
-        "sluggingPercentage": 0.383,
-        "ops": 0.725,
-        "atBats": 162,
-        "runs": 24,
-        "hits": 42,
-        "doubles": 6,
-        "triples": 1,
-        "homeRuns": 4,
-        "runsBattedIn": 23,
-        "totalBases": 62,
-        "walks": 17,
-        "hitByPitch": 5,
-        "strikeouts": 34,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 3,
-        "sacrificeFlies": 3,
-        "sacrificeHits": 2,
-        "stolenBases": 5,
-        "stolenBasesAttempts": 7,
-        "putouts": 44,
-        "assists": 0,
-        "errors": 5,
-        "plateAppearances": 198,
-        "caughtStealing": 2,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "6159",
-        "name": "Brayden Randle",
-        "normalizedName": "brayden randle",
-        "jersey": "1",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/brayden-randle/6159",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Brayden_Randle.jpg",
-        "gamesPlayed": 41,
-        "gamesStarted": 40,
-        "putouts": 44,
-        "assists": 77,
-        "errors": 5,
-        "fieldingPercentage": 0.96,
-        "doublePlays": 16,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 126
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 26,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 34.44444444444444,
-          "Power": 16.578947368421055,
-          "Contact": 24.375000000000004,
-          "Discipline": 33.33333333333333,
-          "Speed": 16.666666666666664
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "summary": "Brayden Randle gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Christian Doty gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .259",
-          "OBP .342",
-          "SLG .383"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".259"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".342"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".383"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "4"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "23"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "5"
+            "value": "0"
           }
         ],
-        "metaLine": "JR / 2L",
+        "metaLine": "FR / HS",
         "detailBadges": [
           "IF",
-          "JR",
-          "2L",
-          "Hitter"
+          "FR",
+          "HS",
+          "Rostered"
         ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats"
+        "sourceSummary": "Mississippi Athletics roster"
       }
     },
     {
-      "id": "ole-miss-6156",
+      "id": "ole-miss-6983",
       "schoolSlug": "ole-miss",
       "school": "Mississippi",
       "schoolLongName": "University of Mississippi",
-      "name": "Brett Moseley",
-      "normalizedName": "brett moseley",
-      "compositeRole": "Hitter",
+      "name": "Winston Pennant",
+      "normalizedName": "winston pennant",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "OF",
       "positionLong": "",
-      "classYear": "R-FR",
-      "handedness": "RS",
+      "classYear": "FR",
+      "handedness": "HS",
       "jersey": "2",
-      "hometown": "Trussville, Ala.",
-      "highSchool": "Trussville",
+      "hometown": "Riverview, Fla.",
+      "highSchool": "Sumner",
       "previousSchool": "",
-      "hometownHighSchool": "Trussville, Ala. / Trussville",
-      "profileUrl": "https://olemisssports.com/sports/baseball/roster/brett-moseley/6156",
-      "imageUrl": "https://olemisssports.com/images/2026/2/6/Brett_Moseley.jpg",
+      "hometownHighSchool": "Riverview, Fla. / Sumner",
+      "profileUrl": "https://olemisssports.com/sports/baseball/roster/winston-pennant/6983",
+      "imageUrl": "https://olemisssports.com/images/2018/8/21/om_headshot_logo.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "6156",
+      "rosterBioId": "6983",
       "sources": [
-        "Mississippi Athletics roster",
-        "Mississippi cumulative stats"
+        "Mississippi Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "6156",
-        "name": "Brett Moseley",
-        "normalizedName": "brett moseley",
-        "jersey": "2",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/brett-moseley/6156",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Brett_Moseley.jpg",
-        "gamesPlayed": 47,
-        "gamesStarted": 3,
-        "battingAverage": 0.212,
-        "onBasePercentage": 0.366,
-        "sluggingPercentage": 0.485,
-        "ops": 0.851,
-        "atBats": 33,
-        "runs": 9,
-        "hits": 7,
-        "doubles": 0,
-        "triples": 0,
-        "homeRuns": 3,
-        "runsBattedIn": 8,
-        "totalBases": 16,
-        "walks": 6,
-        "hitByPitch": 2,
-        "strikeouts": 19,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 1,
-        "stolenBases": 1,
-        "stolenBasesAttempts": 2,
-        "putouts": 19,
-        "assists": 0,
-        "errors": 1,
-        "plateAppearances": 45,
-        "caughtStealing": 1,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "6156",
-        "name": "Brett Moseley",
-        "normalizedName": "brett moseley",
-        "jersey": "2",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/brett-moseley/6156",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Brett_Moseley.jpg",
-        "gamesPlayed": 14,
-        "gamesStarted": 2,
-        "putouts": 19,
-        "assists": 1,
-        "errors": 1,
-        "fieldingPercentage": 0.952,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 21
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 29,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 47.77777777777776,
-          "Power": 43.42105263157895,
+          "On-base": 0,
+          "Power": 0,
           "Contact": 0,
-          "Discipline": 12.865497076023386,
-          "Speed": 3.3333333333333335
+          "Discipline": 0,
+          "Speed": 0
         },
-        "summary": "Brett Moseley gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Winston Pennant gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .212",
-          "OBP .366",
-          "SLG .485"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".212"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".366"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".485"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "3"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "8"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "1"
+            "value": "0"
           }
         ],
-        "metaLine": "R-FR / RS",
+        "metaLine": "FR / HS",
         "detailBadges": [
           "OF",
-          "R-FR",
-          "RS",
-          "Hitter"
+          "FR",
+          "HS",
+          "Rostered"
         ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats"
+        "sourceSummary": "Mississippi Athletics roster"
       }
     },
     {
-      "id": "ole-miss-6167",
+      "id": "ole-miss-6962",
       "schoolSlug": "ole-miss",
       "school": "Mississippi",
       "schoolLongName": "University of Mississippi",
@@ -422,16 +343,16 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
       "normalizedName": "bryden bull",
       "compositeRole": "Rostered",
       "role": "Hitter",
-      "position": "1B/OF",
+      "position": "OF",
       "positionLong": "",
-      "classYear": "FR",
-      "handedness": "HS",
+      "classYear": "SO",
+      "handedness": "RS",
       "jersey": "3",
       "hometown": "Las Vegas, Nev.",
       "highSchool": "Las Vegas",
       "previousSchool": "",
       "hometownHighSchool": "Las Vegas, Nev. / Las Vegas",
-      "profileUrl": "https://olemisssports.com/sports/baseball/roster/bryden-bull/6167",
+      "profileUrl": "https://olemisssports.com/sports/baseball/roster/bryden-bull/6962",
       "imageUrl": "https://olemisssports.com/images/2026/2/6/Bryden_Bull.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -439,7 +360,7 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "6167",
+      "rosterBioId": "6962",
       "sources": [
         "Mississippi Athletics roster"
       ],
@@ -491,9 +412,361 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
             "value": "0"
           }
         ],
+        "metaLine": "SO / RS",
+        "detailBadges": [
+          "OF",
+          "SO",
+          "RS",
+          "Rostered"
+        ],
+        "sourceSummary": "Mississippi Athletics roster"
+      }
+    },
+    {
+      "id": "ole-miss-6969",
+      "schoolSlug": "ole-miss",
+      "school": "Mississippi",
+      "schoolLongName": "University of Mississippi",
+      "name": "Cannon Goldin",
+      "normalizedName": "cannon goldin",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "",
+      "classYear": "SO",
+      "handedness": "1L",
+      "jersey": "4",
+      "hometown": "Buford, Ga.",
+      "highSchool": "Buford",
+      "previousSchool": "",
+      "hometownHighSchool": "Buford, Ga. / Buford",
+      "profileUrl": "https://olemisssports.com/sports/baseball/roster/cannon-goldin/6969",
+      "imageUrl": "https://olemisssports.com/images/2026/2/6/Cannon_Goldin.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "6969",
+      "sources": [
+        "Mississippi Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Cannon Goldin gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "SO / 1L",
+        "detailBadges": [
+          "OF",
+          "SO",
+          "1L",
+          "Rostered"
+        ],
+        "sourceSummary": "Mississippi Athletics roster"
+      }
+    },
+    {
+      "id": "ole-miss-6977",
+      "schoolSlug": "ole-miss",
+      "school": "Mississippi",
+      "schoolLongName": "University of Mississippi",
+      "name": "Owen Paino",
+      "normalizedName": "owen paino",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "IF",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "2L",
+      "jersey": "6",
+      "hometown": "Poughkeepsie, N.Y.",
+      "highSchool": "Roy C. Ketcham",
+      "previousSchool": "",
+      "hometownHighSchool": "Poughkeepsie, N.Y. / Roy C. Ketcham",
+      "profileUrl": "https://olemisssports.com/sports/baseball/roster/owen-paino/6977",
+      "imageUrl": "https://olemisssports.com/images/2026/2/6/Owen_Paino.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "6977",
+      "sources": [
+        "Mississippi Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Owen Paino gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "JR / 2L",
+        "detailBadges": [
+          "IF",
+          "JR",
+          "2L",
+          "Rostered"
+        ],
+        "sourceSummary": "Mississippi Athletics roster"
+      }
+    },
+    {
+      "id": "ole-miss-6974",
+      "schoolSlug": "ole-miss",
+      "school": "Mississippi",
+      "schoolLongName": "University of Mississippi",
+      "name": "Topher Jones",
+      "normalizedName": "topher jones",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "IF",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "1L",
+      "jersey": "7",
+      "hometown": "Hernando, Miss.",
+      "highSchool": "Hernando",
+      "previousSchool": "Pearl River CC",
+      "hometownHighSchool": "Hernando, Miss. / Hernando",
+      "profileUrl": "https://olemisssports.com/sports/baseball/roster/topher-jones/6974",
+      "imageUrl": "https://olemisssports.com/images/2026/2/6/Topher_Jones.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "6974",
+      "sources": [
+        "Mississippi Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Topher Jones gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "JR / 1L",
+        "detailBadges": [
+          "IF",
+          "JR",
+          "1L",
+          "Rostered"
+        ],
+        "sourceSummary": "Mississippi Athletics roster"
+      }
+    },
+    {
+      "id": "ole-miss-6985",
+      "schoolSlug": "ole-miss",
+      "school": "Mississippi",
+      "schoolLongName": "University of Mississippi",
+      "name": "Brody Wilson",
+      "normalizedName": "brody wilson",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "",
+      "classYear": "FR",
+      "handedness": "HS",
+      "jersey": "8",
+      "hometown": "Tupelo, Miss.",
+      "highSchool": "Tupelo",
+      "previousSchool": "",
+      "hometownHighSchool": "Tupelo, Miss. / Tupelo",
+      "profileUrl": "https://olemisssports.com/sports/baseball/roster/brody-wilson/6985",
+      "imageUrl": "https://olemisssports.com/images/2018/8/21/om_headshot_logo.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "6985",
+      "sources": [
+        "Mississippi Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Brody Wilson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
         "metaLine": "FR / HS",
         "detailBadges": [
-          "1B/OF",
+          "OF",
           "FR",
           "HS",
           "Rostered"
@@ -502,604 +775,24 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
       }
     },
     {
-      "id": "ole-miss-6168",
-      "schoolSlug": "ole-miss",
-      "school": "Mississippi",
-      "schoolLongName": "University of Mississippi",
-      "name": "Cannon Goldin",
-      "normalizedName": "cannon goldin",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "OF",
-      "positionLong": "",
-      "classYear": "FR",
-      "handedness": "HS",
-      "jersey": "4",
-      "hometown": "Buford, Ga.",
-      "highSchool": "Buford",
-      "previousSchool": "",
-      "hometownHighSchool": "Buford, Ga. / Buford",
-      "profileUrl": "https://olemisssports.com/sports/baseball/roster/cannon-goldin/6168",
-      "imageUrl": "https://olemisssports.com/images/2026/2/6/Cannon_Goldin.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "6168",
-      "sources": [
-        "Mississippi Athletics roster",
-        "Mississippi cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "6168",
-        "name": "Cannon Goldin",
-        "normalizedName": "cannon goldin",
-        "jersey": "4",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/cannon-goldin/6168",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Cannon_Goldin.jpg",
-        "gamesPlayed": 32,
-        "gamesStarted": 15,
-        "battingAverage": 0.2,
-        "onBasePercentage": 0.308,
-        "sluggingPercentage": 0.218,
-        "ops": 0.526,
-        "atBats": 55,
-        "runs": 9,
-        "hits": 11,
-        "doubles": 1,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 9,
-        "totalBases": 12,
-        "walks": 7,
-        "hitByPitch": 2,
-        "strikeouts": 21,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 1,
-        "sacrificeHits": 1,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 1,
-        "putouts": 24,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 68,
-        "caughtStealing": 1,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "6168",
-        "name": "Cannon Goldin",
-        "normalizedName": "cannon goldin",
-        "jersey": "4",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/cannon-goldin/6168",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Cannon_Goldin.jpg",
-        "gamesPlayed": 14,
-        "gamesStarted": 11,
-        "putouts": 24,
-        "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 24
-      },
-      "evaluation": {
-        "score": 7,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 15.55555555555554,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 14.814814814814808,
-          "Speed": 0
-        },
-        "summary": "Cannon Goldin gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .200",
-          "OBP .308",
-          "SLG .218"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".200"
-          },
-          {
-            "label": "OBP",
-            "value": ".308"
-          },
-          {
-            "label": "SLG",
-            "value": ".218"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "9"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "FR / HS",
-        "detailBadges": [
-          "OF",
-          "FR",
-          "HS",
-          "Hitter"
-        ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats"
-      }
-    },
-    {
-      "id": "ole-miss-6157",
-      "schoolSlug": "ole-miss",
-      "school": "Mississippi",
-      "schoolLongName": "University of Mississippi",
-      "name": "Owen Paino",
-      "normalizedName": "owen paino",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "IF",
-      "positionLong": "",
-      "classYear": "SO",
-      "handedness": "1L",
-      "jersey": "6",
-      "hometown": "Poughkeepsie, N.Y.",
-      "highSchool": "Roy C. Ketcham",
-      "previousSchool": "",
-      "hometownHighSchool": "Poughkeepsie, N.Y. / Roy C. Ketcham",
-      "profileUrl": "https://olemisssports.com/sports/baseball/roster/owen-paino/6157",
-      "imageUrl": "https://olemisssports.com/images/2026/2/6/Owen_Paino.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "6157",
-      "sources": [
-        "Mississippi Athletics roster",
-        "Mississippi cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "6157",
-        "name": "Owen Paino",
-        "normalizedName": "owen paino",
-        "jersey": "6",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/owen-paino/6157",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Owen_Paino.jpg",
-        "gamesPlayed": 46,
-        "gamesStarted": 35,
-        "battingAverage": 0.244,
-        "onBasePercentage": 0.373,
-        "sluggingPercentage": 0.407,
-        "ops": 0.78,
-        "atBats": 123,
-        "runs": 27,
-        "hits": 30,
-        "doubles": 5,
-        "triples": 0,
-        "homeRuns": 5,
-        "runsBattedIn": 24,
-        "totalBases": 50,
-        "walks": 20,
-        "hitByPitch": 6,
-        "strikeouts": 54,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 5,
-        "sacrificeFlies": 1,
-        "sacrificeHits": 0,
-        "stolenBases": 1,
-        "stolenBasesAttempts": 1,
-        "putouts": 34,
-        "assists": 0,
-        "errors": 6,
-        "plateAppearances": 151,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "6157",
-        "name": "Owen Paino",
-        "normalizedName": "owen paino",
-        "jersey": "6",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/owen-paino/6157",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Owen_Paino.jpg",
-        "gamesPlayed": 30,
-        "gamesStarted": 27,
-        "putouts": 34,
-        "assists": 56,
-        "errors": 6,
-        "fieldingPercentage": 0.938,
-        "doublePlays": 9,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 96
-      },
-      "evaluation": {
-        "score": 28,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 51.66666666666665,
-          "Power": 22.894736842105257,
-          "Contact": 14.999999999999996,
-          "Discipline": 18.930041152263367,
-          "Speed": 3.3333333333333335
-        },
-        "summary": "Owen Paino gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .244",
-          "OBP .373",
-          "SLG .407"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".244"
-          },
-          {
-            "label": "OBP",
-            "value": ".373"
-          },
-          {
-            "label": "SLG",
-            "value": ".407"
-          },
-          {
-            "label": "HR",
-            "value": "5"
-          },
-          {
-            "label": "RBI",
-            "value": "24"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
-        "metaLine": "SO / 1L",
-        "detailBadges": [
-          "IF",
-          "SO",
-          "1L",
-          "Hitter"
-        ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats"
-      }
-    },
-    {
-      "id": "ole-miss-6169",
-      "schoolSlug": "ole-miss",
-      "school": "Mississippi",
-      "schoolLongName": "University of Mississippi",
-      "name": "Topher Jones",
-      "normalizedName": "topher jones",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "IF",
-      "positionLong": "",
-      "classYear": "SO",
-      "handedness": "JC",
-      "jersey": "7",
-      "hometown": "Hernando, Miss.",
-      "highSchool": "Hernando",
-      "previousSchool": "Pearl River CC",
-      "hometownHighSchool": "Hernando, Miss. / Hernando",
-      "profileUrl": "https://olemisssports.com/sports/baseball/roster/topher-jones/6169",
-      "imageUrl": "https://olemisssports.com/images/2026/2/6/Topher_Jones.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "6169",
-      "sources": [
-        "Mississippi Athletics roster",
-        "Mississippi cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "6169",
-        "name": "Topher Jones",
-        "normalizedName": "topher jones",
-        "jersey": "7",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/topher-jones/6169",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Topher_Jones.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 20,
-        "battingAverage": 0.217,
-        "onBasePercentage": 0.365,
-        "sluggingPercentage": 0.4,
-        "ops": 0.765,
-        "atBats": 60,
-        "runs": 10,
-        "hits": 13,
-        "doubles": 2,
-        "triples": 0,
-        "homeRuns": 3,
-        "runsBattedIn": 5,
-        "totalBases": 24,
-        "walks": 8,
-        "hitByPitch": 6,
-        "strikeouts": 26,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 21,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 74,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "6169",
-        "name": "Topher Jones",
-        "normalizedName": "topher jones",
-        "jersey": "7",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/topher-jones/6169",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Topher_Jones.jpg",
-        "gamesPlayed": 10,
-        "gamesStarted": 9,
-        "putouts": 21,
-        "assists": 1,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 22
-      },
-      "evaluation": {
-        "score": 22,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 47.22222222222221,
-          "Power": 21.052631578947377,
-          "Contact": 0,
-          "Discipline": 11.965811965811964,
-          "Speed": 0
-        },
-        "summary": "Topher Jones gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .217",
-          "OBP .365",
-          "SLG .400"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".217"
-          },
-          {
-            "label": "OBP",
-            "value": ".365"
-          },
-          {
-            "label": "SLG",
-            "value": ".400"
-          },
-          {
-            "label": "HR",
-            "value": "3"
-          },
-          {
-            "label": "RBI",
-            "value": "5"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "SO / JC",
-        "detailBadges": [
-          "IF",
-          "SO",
-          "JC",
-          "Hitter"
-        ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats"
-      }
-    },
-    {
-      "id": "ole-miss-6163",
-      "schoolSlug": "ole-miss",
-      "school": "Mississippi",
-      "schoolLongName": "University of Mississippi",
-      "name": "Tate Sirmans",
-      "normalizedName": "tate sirmans",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "UT",
-      "positionLong": "",
-      "classYear": "R-FR",
-      "handedness": "RS",
-      "jersey": "8",
-      "hometown": "Valdosta, Ga.",
-      "highSchool": "Lowndes",
-      "previousSchool": "",
-      "hometownHighSchool": "Valdosta, Ga. / Lowndes",
-      "profileUrl": "https://olemisssports.com/sports/baseball/roster/tate-sirmans/6163",
-      "imageUrl": "https://olemisssports.com/images/2026/2/6/Tate_Sirmans.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "6163",
-      "sources": [
-        "Mississippi Athletics roster",
-        "Mississippi cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "6163",
-        "name": "Tate Sirmans",
-        "normalizedName": "tate sirmans",
-        "jersey": "8",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/tate-sirmans/6163",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Tate_Sirmans.jpg",
-        "gamesPlayed": 25,
-        "gamesStarted": 13,
-        "battingAverage": 0.178,
-        "onBasePercentage": 0.275,
-        "sluggingPercentage": 0.356,
-        "ops": 0.631,
-        "atBats": 45,
-        "runs": 4,
-        "hits": 8,
-        "doubles": 2,
-        "triples": 0,
-        "homeRuns": 2,
-        "runsBattedIn": 3,
-        "totalBases": 16,
-        "walks": 6,
-        "hitByPitch": 0,
-        "strikeouts": 15,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 3,
-        "stolenBasesAttempts": 3,
-        "putouts": 11,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 54,
-        "caughtStealing": 0,
-        "pickedOff": 1
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "6163",
-        "name": "Tate Sirmans",
-        "normalizedName": "tate sirmans",
-        "jersey": "8",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/tate-sirmans/6163",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Tate_Sirmans.jpg",
-        "gamesPlayed": 7,
-        "gamesStarted": 7,
-        "putouts": 11,
-        "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 11
-      },
-      "evaluation": {
-        "score": 7,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 0,
-          "Power": 9.47368421052631,
-          "Contact": 0,
-          "Discipline": 22.22222222222222,
-          "Speed": 10
-        },
-        "summary": "Tate Sirmans gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .178",
-          "OBP .275",
-          "SLG .356"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".178"
-          },
-          {
-            "label": "OBP",
-            "value": ".275"
-          },
-          {
-            "label": "SLG",
-            "value": ".356"
-          },
-          {
-            "label": "HR",
-            "value": "2"
-          },
-          {
-            "label": "RBI",
-            "value": "3"
-          },
-          {
-            "label": "SB",
-            "value": "3"
-          }
-        ],
-        "metaLine": "R-FR / RS",
-        "detailBadges": [
-          "UT",
-          "R-FR",
-          "RS",
-          "Hitter"
-        ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats"
-      }
-    },
-    {
-      "id": "ole-miss-6151",
+      "id": "ole-miss-6966",
       "schoolSlug": "ole-miss",
       "school": "Mississippi",
       "schoolLongName": "University of Mississippi",
       "name": "Hayden Federico",
       "normalizedName": "hayden federico",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "OF",
       "positionLong": "",
-      "classYear": "SO",
-      "handedness": "1L",
+      "classYear": "JR",
+      "handedness": "2L",
       "jersey": "9",
       "hometown": "West Monroe, La.",
       "highSchool": "West Monroe",
       "previousSchool": "",
       "hometownHighSchool": "West Monroe, La. / West Monroe",
-      "profileUrl": "https://olemisssports.com/sports/baseball/roster/hayden-federico/6151",
+      "profileUrl": "https://olemisssports.com/sports/baseball/roster/hayden-federico/6966",
       "imageUrl": "https://olemisssports.com/images/2026/2/6/Hayden_Federico.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -1107,286 +800,175 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "6151",
+      "rosterBioId": "6966",
       "sources": [
-        "Mississippi Athletics roster",
-        "Mississippi cumulative stats"
+        "Mississippi Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "6151",
-        "name": "Hayden Federico",
-        "normalizedName": "hayden federico",
-        "jersey": "9",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/hayden-federico/6151",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Hayden_Federico.jpg",
-        "gamesPlayed": 63,
-        "gamesStarted": 60,
-        "battingAverage": 0.302,
-        "onBasePercentage": 0.429,
-        "sluggingPercentage": 0.406,
-        "ops": 0.835,
-        "atBats": 202,
-        "runs": 37,
-        "hits": 61,
-        "doubles": 9,
-        "triples": 0,
-        "homeRuns": 4,
-        "runsBattedIn": 29,
-        "totalBases": 82,
-        "walks": 35,
-        "hitByPitch": 13,
-        "strikeouts": 32,
-        "intentionalWalks": 1,
-        "groundedIntoDoublePlay": 2,
-        "sacrificeFlies": 4,
-        "sacrificeHits": 2,
-        "stolenBases": 5,
-        "stolenBasesAttempts": 5,
-        "putouts": 118,
-        "assists": 0,
-        "errors": 1,
-        "plateAppearances": 261,
-        "caughtStealing": 0,
-        "pickedOff": 1
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "6151",
-        "name": "Hayden Federico",
-        "normalizedName": "hayden federico",
-        "jersey": "9",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/hayden-federico/6151",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Hayden_Federico.jpg",
-        "gamesPlayed": 52,
-        "gamesStarted": 52,
-        "putouts": 118,
-        "assists": 2,
-        "errors": 1,
-        "fieldingPercentage": 0.992,
-        "doublePlays": 2,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 121
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 57,
+        "score": 0,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
         "components": {
-          "On-base": 82.77777777777776,
-          "Power": 22.631578947368432,
-          "Contact": 51.24999999999999,
-          "Discipline": 99.30555555555554,
-          "Speed": 16.666666666666664
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "summary": "Hayden Federico profiles as a OF piece who gets on base at a high clip and controls at-bats.",
+        "summary": "Hayden Federico gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .302",
-          "OBP .429",
-          "SLG .406"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".302"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".429"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".406"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "4"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "29"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "5"
+            "value": "0"
           }
         ],
-        "metaLine": "SO / 1L",
+        "metaLine": "JR / 2L",
         "detailBadges": [
           "OF",
-          "SO",
-          "1L",
-          "Hitter"
+          "JR",
+          "2L",
+          "Rostered"
         ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats"
+        "sourceSummary": "Mississippi Athletics roster"
       }
     },
     {
-      "id": "ole-miss-6164",
+      "id": "ole-miss-6986",
       "schoolSlug": "ole-miss",
       "school": "Mississippi",
       "schoolLongName": "University of Mississippi",
-      "name": "Cade Townsend",
-      "normalizedName": "cade townsend",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
+      "name": "Trey Hawsey",
+      "normalizedName": "trey hawsey",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "1B",
       "positionLong": "",
-      "classYear": "SO",
-      "handedness": "1L",
+      "classYear": "JR",
+      "handedness": "TR",
       "jersey": "10",
-      "hometown": "Aliso Viejo, Calif.",
-      "highSchool": "Santa Margarita Catholic",
-      "previousSchool": "",
-      "hometownHighSchool": "Aliso Viejo, Calif. / Santa Margarita Catholic",
-      "profileUrl": "https://olemisssports.com/sports/baseball/roster/cade-townsend/6164",
-      "imageUrl": "https://olemisssports.com/images/2026/2/6/Cade_Townsend.jpg",
+      "hometown": "West Monroe, La.",
+      "highSchool": "West Monroe",
+      "previousSchool": "Louisiana Tech",
+      "hometownHighSchool": "West Monroe, La. / West Monroe",
+      "profileUrl": "https://olemisssports.com/sports/baseball/roster/trey-hawsey/6986",
+      "imageUrl": "https://olemisssports.com/images/2018/8/21/om_headshot_logo.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "6164",
+      "rosterBioId": "6986",
       "sources": [
-        "Mississippi Athletics roster",
-        "Mississippi cumulative stats"
+        "Mississippi Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "6164",
-        "name": "Cade Townsend",
-        "normalizedName": "cade townsend",
-        "jersey": "10",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/cade-townsend/6164",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Cade_Townsend.jpg",
-        "gamesPlayed": 14,
-        "gamesStarted": 14,
-        "appearances": 14,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 3.94,
-        "whip": 1.2,
-        "wins": 5,
-        "losses": 3,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 64,
-        "inningsPitchedDisplay": "64.0",
-        "hitsAllowed": 55,
-        "runsAllowed": 33,
-        "earnedRunsAllowed": 28,
-        "walksAllowed": 22,
-        "strikeouts": 88,
-        "doublesAllowed": 13,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 10,
-        "opponentsAtBats": 247,
-        "wildPitches": 5,
-        "hitBatters": 4,
-        "balks": 0,
-        "opponentsBattingAverage": 0.223,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "6164",
-        "name": "Cade Townsend",
-        "normalizedName": "cade townsend",
-        "jersey": "10",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/cade-townsend/6164",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Cade_Townsend.jpg",
-        "gamesPlayed": 7,
-        "gamesStarted": 7,
-        "putouts": 2,
-        "assists": 2,
-        "errors": 1,
-        "fieldingPercentage": 0.8,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 7,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 5
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 25,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 76.13636363636364,
-          "Command": 60,
-          "Damage suppression": 0
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "summary": "Cade Townsend looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
+        "summary": "Trey Hawsey gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 3.94",
-          "WHIP 1.20",
-          "K/9 12.4"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
-            "label": "ERA",
-            "value": "3.94"
+            "label": "AVG",
+            "value": "--"
           },
           {
-            "label": "WHIP",
-            "value": "1.20"
+            "label": "OBP",
+            "value": "--"
           },
           {
-            "label": "K/9",
-            "value": "12.4"
+            "label": "SLG",
+            "value": "--"
           },
           {
-            "label": "BB/9",
-            "value": "3.1"
+            "label": "HR",
+            "value": "0"
           },
           {
-            "label": "HR/9",
-            "value": "1.41"
+            "label": "RBI",
+            "value": "0"
           },
           {
-            "label": "IP",
-            "value": "64.0"
+            "label": "SB",
+            "value": "0"
           }
         ],
-        "metaLine": "SO / 1L",
+        "metaLine": "JR / TR",
         "detailBadges": [
-          "RHP",
-          "SO",
-          "1L",
-          "Pitcher"
+          "1B",
+          "JR",
+          "TR",
+          "Rostered"
         ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats"
+        "sourceSummary": "Mississippi Athletics roster"
       }
     },
     {
-      "id": "ole-miss-6170",
+      "id": "ole-miss-6963",
       "schoolSlug": "ole-miss",
       "school": "Mississippi",
       "schoolLongName": "University of Mississippi",
       "name": "Dom Decker",
       "normalizedName": "dom decker",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "IF",
       "positionLong": "",
-      "classYear": "JR",
-      "handedness": "TR",
+      "classYear": "SR",
+      "handedness": "1L",
       "jersey": "12",
       "hometown": "Sellersburg, Ind.",
       "highSchool": "Silver Creek",
       "previousSchool": "Murray State",
       "hometownHighSchool": "Sellersburg, Ind. / Silver Creek",
-      "profileUrl": "https://olemisssports.com/sports/baseball/roster/dom-decker/6170",
+      "profileUrl": "https://olemisssports.com/sports/baseball/roster/dom-decker/6963",
       "imageUrl": "https://olemisssports.com/images/2026/2/6/Dom_Decker.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -1394,127 +976,158 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "6170",
+      "rosterBioId": "6963",
       "sources": [
-        "Mississippi Athletics roster",
-        "Mississippi cumulative stats"
+        "Mississippi Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "6170",
-        "name": "Dom Decker",
-        "normalizedName": "dom decker",
-        "jersey": "12",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/dom-decker/6170",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Dom_Decker.jpg",
-        "gamesPlayed": 64,
-        "gamesStarted": 64,
-        "battingAverage": 0.27,
-        "onBasePercentage": 0.409,
-        "sluggingPercentage": 0.429,
-        "ops": 0.838,
-        "atBats": 233,
-        "runs": 64,
-        "hits": 63,
-        "doubles": 7,
-        "triples": 0,
-        "homeRuns": 10,
-        "runsBattedIn": 34,
-        "totalBases": 100,
-        "walks": 51,
-        "hitByPitch": 8,
-        "strikeouts": 46,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 3,
-        "sacrificeFlies": 6,
-        "sacrificeHits": 1,
-        "stolenBases": 13,
-        "stolenBasesAttempts": 16,
-        "putouts": 73,
-        "assists": 0,
-        "errors": 5,
-        "plateAppearances": 318,
-        "caughtStealing": 3,
-        "pickedOff": 1
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "6170",
-        "name": "Dom Decker",
-        "normalizedName": "dom decker",
-        "jersey": "12",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/dom-decker/6170",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Dom_Decker.jpg",
-        "gamesPlayed": 59,
-        "gamesStarted": 59,
-        "putouts": 73,
-        "assists": 131,
-        "errors": 5,
-        "fieldingPercentage": 0.976,
-        "doublePlays": 18,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 209
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 54,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 71.66666666666664,
-          "Power": 28.68421052631579,
-          "Contact": 31.25000000000001,
-          "Discipline": 100,
-          "Speed": 43.333333333333336
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "summary": "Dom Decker profiles as a IF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
+        "summary": "Dom Decker gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .270",
-          "OBP .409",
-          "SLG .429"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".270"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".409"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".429"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "10"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "34"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "13"
+            "value": "0"
           }
         ],
-        "metaLine": "JR / TR",
+        "metaLine": "SR / 1L",
         "detailBadges": [
           "IF",
-          "JR",
-          "TR",
-          "Hitter"
+          "SR",
+          "1L",
+          "Rostered"
         ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats"
+        "sourceSummary": "Mississippi Athletics roster"
       }
     },
     {
-      "id": "ole-miss-6155",
+      "id": "ole-miss-6987",
+      "schoolSlug": "ole-miss",
+      "school": "Mississippi",
+      "schoolLongName": "University of Mississippi",
+      "name": "Brady Dallimore",
+      "normalizedName": "brady dallimore",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "C",
+      "positionLong": "",
+      "classYear": "SO",
+      "handedness": "TR",
+      "jersey": "13",
+      "hometown": "Las Vegas, Nev.",
+      "highSchool": "Palo Verde",
+      "previousSchool": "TCU",
+      "hometownHighSchool": "Las Vegas, Nev. / Palo Verde",
+      "profileUrl": "https://olemisssports.com/sports/baseball/roster/brady-dallimore/6987",
+      "imageUrl": "https://olemisssports.com/images/2018/8/21/om_headshot_logo.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "6987",
+      "sources": [
+        "Mississippi Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Brady Dallimore gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "SO / TR",
+        "detailBadges": [
+          "C",
+          "SO",
+          "TR",
+          "Rostered"
+        ],
+        "sourceSummary": "Mississippi Athletics roster"
+      }
+    },
+    {
+      "id": "ole-miss-6973",
       "schoolSlug": "ole-miss",
       "school": "Mississippi",
       "schoolLongName": "University of Mississippi",
@@ -1524,14 +1137,14 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
       "role": "Pitcher",
       "position": "LHP",
       "positionLong": "",
-      "classYear": "SO",
+      "classYear": "JR",
       "handedness": "1L",
       "jersey": "14",
       "hometown": "Jefferson, Ga.",
       "highSchool": "Mountain View",
       "previousSchool": "",
       "hometownHighSchool": "Jefferson, Ga. / Mountain View",
-      "profileUrl": "https://olemisssports.com/sports/baseball/roster/cooper-johnson/6155",
+      "profileUrl": "https://olemisssports.com/sports/baseball/roster/cooper-johnson/6973",
       "imageUrl": "https://olemisssports.com/images/2026/2/6/Cooper_Johnson.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -1539,7 +1152,7 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "6155",
+      "rosterBioId": "6973",
       "sources": [
         "Mississippi Athletics roster"
       ],
@@ -1591,10 +1204,10 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "SO / 1L",
+        "metaLine": "JR / 1L",
         "detailBadges": [
           "LHP",
-          "SO",
+          "JR",
           "1L",
           "Pitcher"
         ],
@@ -1602,24 +1215,24 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
       }
     },
     {
-      "id": "ole-miss-6171",
+      "id": "ole-miss-6978",
       "schoolSlug": "ole-miss",
       "school": "Mississippi",
       "schoolLongName": "University of Mississippi",
       "name": "Kelven Perera",
       "normalizedName": "kelven perera",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "C",
       "positionLong": "",
-      "classYear": "FR",
-      "handedness": "HS",
+      "classYear": "SO",
+      "handedness": "1L",
       "jersey": "16",
       "hometown": "Miami, Fla.",
       "highSchool": "Miami Springs Senior",
       "previousSchool": "",
       "hometownHighSchool": "Miami, Fla. / Miami Springs Senior",
-      "profileUrl": "https://olemisssports.com/sports/baseball/roster/kelven-perera/6171",
+      "profileUrl": "https://olemisssports.com/sports/baseball/roster/kelven-perera/6978",
       "imageUrl": "https://olemisssports.com/images/2026/2/6/Kelven_Perera.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -1627,78 +1240,21 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "6171",
+      "rosterBioId": "6978",
       "sources": [
-        "Mississippi Athletics roster",
-        "Mississippi cumulative stats"
+        "Mississippi Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "6171",
-        "name": "Kelven Perera",
-        "normalizedName": "kelven perera",
-        "jersey": "16",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/kelven-perera/6171",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Kelven_Perera.jpg",
-        "gamesPlayed": 10,
-        "gamesStarted": 0,
-        "battingAverage": 0.182,
-        "onBasePercentage": 0.308,
-        "sluggingPercentage": 0.182,
-        "ops": 0.49,
-        "atBats": 11,
-        "runs": 1,
-        "hits": 2,
-        "doubles": 0,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 2,
-        "totalBases": 2,
-        "walks": 1,
-        "hitByPitch": 1,
-        "strikeouts": 8,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 21,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 13,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "6171",
-        "name": "Kelven Perera",
-        "normalizedName": "kelven perera",
-        "jersey": "16",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/kelven-perera/6171",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Kelven_Perera.jpg",
-        "gamesPlayed": 6,
-        "gamesStarted": 0,
-        "putouts": 21,
-        "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 21
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 5,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 15.55555555555554,
+          "On-base": 0,
           "Power": 0,
           "Contact": 0,
           "Discipline": 0,
@@ -1706,22 +1262,22 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         },
         "summary": "Kelven Perera gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .182",
-          "OBP .308",
-          "SLG .182"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".182"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".308"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".182"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -1729,184 +1285,130 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
           },
           {
             "label": "RBI",
-            "value": "2"
+            "value": "0"
           },
           {
             "label": "SB",
             "value": "0"
           }
         ],
-        "metaLine": "FR / HS",
+        "metaLine": "SO / 1L",
         "detailBadges": [
           "C",
-          "FR",
-          "HS",
-          "Hitter"
+          "SO",
+          "1L",
+          "Rostered"
         ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats"
+        "sourceSummary": "Mississippi Athletics roster"
       }
     },
     {
-      "id": "ole-miss-6172",
+      "id": "ole-miss-6988",
       "schoolSlug": "ole-miss",
       "school": "Mississippi",
       "schoolLongName": "University of Mississippi",
-      "name": "Marko Sipila",
-      "normalizedName": "marko sipila",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
+      "name": "Caleb Koskie",
+      "normalizedName": "caleb koskie",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "OF",
       "positionLong": "",
-      "classYear": "SR",
+      "classYear": "JR",
       "handedness": "TR",
       "jersey": "17",
-      "hometown": "Orono, Minn.",
-      "highSchool": "Orono Senior",
-      "previousSchool": "San Diego State",
-      "hometownHighSchool": "Orono, Minn. / Orono Senior",
-      "profileUrl": "https://olemisssports.com/sports/baseball/roster/marko-sipila/6172",
-      "imageUrl": "https://olemisssports.com/images/2026/2/6/Marko_Sipila.jpg",
+      "hometown": "Excelsior, Minn.",
+      "highSchool": "Benilde-St. Margaret's",
+      "previousSchool": "Indiana",
+      "hometownHighSchool": "Excelsior, Minn. / Benilde-St. Margaret's",
+      "profileUrl": "https://olemisssports.com/sports/baseball/roster/caleb-koskie/6988",
+      "imageUrl": "https://olemisssports.com/images/2018/8/21/om_headshot_logo.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "6172",
+      "rosterBioId": "6988",
       "sources": [
-        "Mississippi Athletics roster",
-        "Mississippi cumulative stats"
+        "Mississippi Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "6172",
-        "name": "Marko Sipila",
-        "normalizedName": "marko sipila",
-        "jersey": "17",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/marko-sipila/6172",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Marko_Sipila.jpg",
-        "gamesPlayed": 4,
-        "gamesStarted": 1,
-        "appearances": 4,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 4.5,
-        "whip": 1.17,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 6,
-        "inningsPitchedDisplay": "6.0",
-        "hitsAllowed": 5,
-        "runsAllowed": 3,
-        "earnedRunsAllowed": 3,
-        "walksAllowed": 2,
-        "strikeouts": 9,
-        "doublesAllowed": 1,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 1,
-        "opponentsAtBats": 21,
-        "wildPitches": 0,
-        "hitBatters": 1,
-        "balks": 0,
-        "opponentsBattingAverage": 0.238,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "6172",
-        "name": "Marko Sipila",
-        "normalizedName": "marko sipila",
-        "jersey": "17",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/marko-sipila/6172",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Marko_Sipila.jpg",
-        "gamesPlayed": 2,
-        "gamesStarted": 0,
-        "putouts": 0,
-        "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 0,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 2,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 0
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 28,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 86.36363636363636,
-          "Command": 70,
-          "Damage suppression": 0
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "summary": "Marko Sipila looks like a RHP option who misses bats and throws enough strikes and keeps traffic under control.",
+        "summary": "Caleb Koskie gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.50",
-          "WHIP 1.17",
-          "K/9 13.5"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
-            "label": "ERA",
-            "value": "4.50"
+            "label": "AVG",
+            "value": "--"
           },
           {
-            "label": "WHIP",
-            "value": "1.17"
+            "label": "OBP",
+            "value": "--"
           },
           {
-            "label": "K/9",
-            "value": "13.5"
+            "label": "SLG",
+            "value": "--"
           },
           {
-            "label": "BB/9",
-            "value": "3.0"
+            "label": "HR",
+            "value": "0"
           },
           {
-            "label": "HR/9",
-            "value": "1.50"
+            "label": "RBI",
+            "value": "0"
           },
           {
-            "label": "IP",
-            "value": "6.0"
+            "label": "SB",
+            "value": "0"
           }
         ],
-        "metaLine": "SR / TR",
+        "metaLine": "JR / TR",
         "detailBadges": [
-          "RHP",
-          "SR",
+          "OF",
+          "JR",
           "TR",
-          "Pitcher"
+          "Rostered"
         ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats"
+        "sourceSummary": "Mississippi Athletics roster"
       }
     },
     {
-      "id": "ole-miss-6173",
+      "id": "ole-miss-6981",
       "schoolSlug": "ole-miss",
       "school": "Mississippi",
       "schoolLongName": "University of Mississippi",
       "name": "Luke Romine",
       "normalizedName": "luke romine",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "1B/LHP",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "1B/OF",
       "positionLong": "",
-      "classYear": "FR",
-      "handedness": "HS",
+      "classYear": "SO",
+      "handedness": "1L",
       "jersey": "18",
       "hometown": "Hernando, Miss.",
       "highSchool": "Hernando",
       "previousSchool": "",
       "hometownHighSchool": "Hernando, Miss. / Hernando",
-      "profileUrl": "https://olemisssports.com/sports/baseball/roster/luke-romine/6173",
+      "profileUrl": "https://olemisssports.com/sports/baseball/roster/luke-romine/6981",
       "imageUrl": "https://olemisssports.com/images/2026/2/6/Luke_Romine.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -1914,70 +1416,101 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "6173",
+      "rosterBioId": "6981",
       "sources": [
-        "Mississippi Athletics roster",
-        "Mississippi cumulative stats"
+        "Mississippi Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "6173",
-        "name": "Luke Romine",
-        "normalizedName": "luke romine",
-        "jersey": "18",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/luke-romine/6173",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Luke_Romine.jpg",
-        "gamesPlayed": 18,
-        "gamesStarted": 2,
-        "battingAverage": 0.2,
-        "onBasePercentage": 0.385,
-        "sluggingPercentage": 0.2,
-        "ops": 0.585,
-        "atBats": 20,
-        "runs": 4,
-        "hits": 4,
-        "doubles": 0,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 3,
-        "totalBases": 4,
-        "walks": 6,
-        "hitByPitch": 0,
-        "strikeouts": 10,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 6,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 26,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "6173",
-        "name": "Luke Romine",
-        "normalizedName": "luke romine",
-        "jersey": "18",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/luke-romine/6173",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Luke_Romine.jpg",
-        "gamesPlayed": 1,
-        "gamesStarted": 0,
-        "putouts": 6,
-        "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 1,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 6
-      },
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Luke Romine gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "SO / 1L",
+        "detailBadges": [
+          "1B/OF",
+          "SO",
+          "1L",
+          "Rostered"
+        ],
+        "sourceSummary": "Mississippi Athletics roster"
+      }
+    },
+    {
+      "id": "ole-miss-6972",
+      "schoolSlug": "ole-miss",
+      "school": "Mississippi",
+      "schoolLongName": "University of Mississippi",
+      "name": "Walker Hooks",
+      "normalizedName": "walker hooks",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "2L",
+      "jersey": "19",
+      "hometown": "Brandon, Miss.",
+      "highSchool": "Brandon",
+      "previousSchool": "",
+      "hometownHighSchool": "Brandon, Miss. / Brandon",
+      "profileUrl": "https://olemisssports.com/sports/baseball/roster/walker-hooks/6972",
+      "imageUrl": "https://olemisssports.com/images/2026/2/6/Walker_Hooks.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "6972",
+      "sources": [
+        "Mississippi Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
         "score": 0,
         "fit": {
@@ -1991,7 +1524,7 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Luke Romine looks like a 1B/LHP option who throws enough strikes.",
+        "summary": "Walker Hooks looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -2023,105 +1556,51 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "FR / HS",
+        "metaLine": "JR / 2L",
         "detailBadges": [
-          "1B/LHP",
-          "FR",
-          "HS",
+          "LHP",
+          "JR",
+          "2L",
           "Pitcher"
         ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats"
+        "sourceSummary": "Mississippi Athletics roster"
       }
     },
     {
-      "id": "ole-miss-6154",
+      "id": "ole-miss-6989",
       "schoolSlug": "ole-miss",
       "school": "Mississippi",
       "schoolLongName": "University of Mississippi",
-      "name": "Walker Hooks",
-      "normalizedName": "walker hooks",
+      "name": "Charlie Foster",
+      "normalizedName": "charlie foster",
       "compositeRole": "Pitcher",
       "role": "Pitcher",
       "position": "LHP",
       "positionLong": "",
-      "classYear": "SO",
-      "handedness": "1L",
-      "jersey": "19",
-      "hometown": "Brandon, Miss.",
-      "highSchool": "Brandon",
-      "previousSchool": "",
-      "hometownHighSchool": "Brandon, Miss. / Brandon",
-      "profileUrl": "https://olemisssports.com/sports/baseball/roster/walker-hooks/6154",
-      "imageUrl": "https://olemisssports.com/images/2026/2/6/Walker_Hooks.jpg",
+      "classYear": "JR",
+      "handedness": "TR",
+      "jersey": "20",
+      "hometown": "Snellville, Ga.",
+      "highSchool": "Brookwood",
+      "previousSchool": "Mississippi State",
+      "hometownHighSchool": "Snellville, Ga. / Brookwood",
+      "profileUrl": "https://olemisssports.com/sports/baseball/roster/charlie-foster/6989",
+      "imageUrl": "https://olemisssports.com/images/2018/8/21/om_headshot_logo.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "6154",
+      "rosterBioId": "6989",
       "sources": [
-        "Mississippi Athletics roster",
-        "Mississippi cumulative stats"
+        "Mississippi Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "6154",
-        "name": "Walker Hooks",
-        "normalizedName": "walker hooks",
-        "jersey": "19",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/walker-hooks/6154",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Walker_Hooks.jpg",
-        "gamesPlayed": 28,
-        "gamesStarted": 0,
-        "appearances": 28,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 3.24,
-        "whip": 0.93,
-        "wins": 3,
-        "losses": 1,
-        "saves": 9,
-        "shutouts": 0,
-        "inningsPitched": 58.333333333333336,
-        "inningsPitchedDisplay": "58.1",
-        "hitsAllowed": 42,
-        "runsAllowed": 25,
-        "earnedRunsAllowed": 21,
-        "walksAllowed": 12,
-        "strikeouts": 63,
-        "doublesAllowed": 6,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 8,
-        "opponentsAtBats": 203,
-        "wildPitches": 2,
-        "hitBatters": 5,
-        "balks": 0,
-        "opponentsBattingAverage": 0.207,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "6154",
-        "name": "Walker Hooks",
-        "normalizedName": "walker hooks",
-        "jersey": "19",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/walker-hooks/6154",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Walker_Hooks.jpg",
-        "gamesPlayed": 15,
-        "gamesStarted": 0,
-        "putouts": 4,
-        "assists": 10,
-        "errors": 2,
-        "fieldingPercentage": 0.875,
-        "doublePlays": 2,
-        "stolenBasesAgainst": 10,
-        "caughtStealingBy": 1,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 16
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 24,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2129,199 +1608,54 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 51.99999999999999,
-          "Command": 84.99999999999999,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Walker Hooks looks like a LHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
+        "summary": "Charlie Foster looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 3.24",
-          "WHIP 0.93",
-          "K/9 9.7"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.24"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "0.93"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "9.7"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "1.9"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.23"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "58.3"
+            "value": "0.0"
           }
         ],
-        "metaLine": "SO / 1L",
+        "metaLine": "JR / TR",
         "detailBadges": [
           "LHP",
-          "SO",
-          "1L",
+          "JR",
+          "TR",
           "Pitcher"
         ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats"
+        "sourceSummary": "Mississippi Athletics roster"
       }
     },
     {
-      "id": "ole-miss-6161",
-      "schoolSlug": "ole-miss",
-      "school": "Mississippi",
-      "schoolLongName": "University of Mississippi",
-      "name": "Collin Reuter",
-      "normalizedName": "collin reuter",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "C/IF",
-      "positionLong": "",
-      "classYear": "SR",
-      "handedness": "1L",
-      "jersey": "20",
-      "hometown": "Olive Branch, Miss.",
-      "highSchool": "Magnolia Heights",
-      "previousSchool": "BYU",
-      "hometownHighSchool": "Olive Branch, Miss. / Magnolia Heights",
-      "profileUrl": "https://olemisssports.com/sports/baseball/roster/collin-reuter/6161",
-      "imageUrl": "https://olemisssports.com/images/2026/2/6/Collin_Reuter.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "6161",
-      "sources": [
-        "Mississippi Athletics roster",
-        "Mississippi cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "6161",
-        "name": "Collin Reuter",
-        "normalizedName": "collin reuter",
-        "jersey": "20",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/collin-reuter/6161",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Collin_Reuter.jpg",
-        "gamesPlayed": 56,
-        "gamesStarted": 50,
-        "battingAverage": 0.264,
-        "onBasePercentage": 0.36,
-        "sluggingPercentage": 0.483,
-        "ops": 0.843,
-        "atBats": 178,
-        "runs": 27,
-        "hits": 47,
-        "doubles": 15,
-        "triples": 0,
-        "homeRuns": 8,
-        "runsBattedIn": 40,
-        "totalBases": 86,
-        "walks": 22,
-        "hitByPitch": 7,
-        "strikeouts": 73,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 8,
-        "sacrificeFlies": 4,
-        "sacrificeHits": 0,
-        "stolenBases": 2,
-        "stolenBasesAttempts": 2,
-        "putouts": 69,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 213,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "6161",
-        "name": "Collin Reuter",
-        "normalizedName": "collin reuter",
-        "jersey": "20",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/collin-reuter/6161",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Collin_Reuter.jpg",
-        "gamesPlayed": 10,
-        "gamesStarted": 9,
-        "putouts": 69,
-        "assists": 1,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 17,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 70
-      },
-      "evaluation": {
-        "score": 33,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 44.44444444444443,
-          "Power": 42.89473684210526,
-          "Contact": 27.500000000000007,
-          "Discipline": 11.263318112633176,
-          "Speed": 6.666666666666667
-        },
-        "summary": "Collin Reuter gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .264",
-          "OBP .360",
-          "SLG .483"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".264"
-          },
-          {
-            "label": "OBP",
-            "value": ".360"
-          },
-          {
-            "label": "SLG",
-            "value": ".483"
-          },
-          {
-            "label": "HR",
-            "value": "8"
-          },
-          {
-            "label": "RBI",
-            "value": "40"
-          },
-          {
-            "label": "SB",
-            "value": "2"
-          }
-        ],
-        "metaLine": "SR / 1L",
-        "detailBadges": [
-          "C/IF",
-          "SR",
-          "1L",
-          "Hitter"
-        ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats"
-      }
-    },
-    {
-      "id": "ole-miss-6174",
+      "id": "ole-miss-6975",
       "schoolSlug": "ole-miss",
       "school": "Mississippi",
       "schoolLongName": "University of Mississippi",
@@ -2331,14 +1665,14 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
-      "classYear": "JR",
-      "handedness": "TR",
+      "classYear": "SR",
+      "handedness": "1L",
       "jersey": "21",
       "hometown": "Belleville, Ill.",
       "highSchool": "Belleville East",
       "previousSchool": "Saint Louis",
       "hometownHighSchool": "Belleville, Ill. / Belleville East",
-      "profileUrl": "https://olemisssports.com/sports/baseball/roster/owen-kelly/6174",
+      "profileUrl": "https://olemisssports.com/sports/baseball/roster/owen-kelly/6975",
       "imageUrl": "https://olemisssports.com/images/2026/2/6/Owen_Kelly.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -2346,69 +1680,15 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "6174",
+      "rosterBioId": "6975",
       "sources": [
-        "Mississippi Athletics roster",
-        "Mississippi cumulative stats"
+        "Mississippi Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "6174",
-        "name": "Owen Kelly",
-        "normalizedName": "owen kelly",
-        "jersey": "21",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/owen-kelly/6174",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Owen_Kelly.jpg",
-        "gamesPlayed": 16,
-        "gamesStarted": 6,
-        "appearances": 16,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 4.25,
-        "whip": 1.42,
-        "wins": 3,
-        "losses": 2,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 29.666666666666668,
-        "inningsPitchedDisplay": "29.2",
-        "hitsAllowed": 32,
-        "runsAllowed": 20,
-        "earnedRunsAllowed": 14,
-        "walksAllowed": 10,
-        "strikeouts": 31,
-        "doublesAllowed": 1,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 117,
-        "wildPitches": 0,
-        "hitBatters": 8,
-        "balks": 0,
-        "opponentsBattingAverage": 0.274,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "6174",
-        "name": "Owen Kelly",
-        "normalizedName": "owen kelly",
-        "jersey": "21",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/owen-kelly/6174",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Owen_Kelly.jpg",
-        "gamesPlayed": 7,
-        "gamesStarted": 4,
-        "putouts": 0,
-        "assists": 4,
-        "errors": 1,
-        "fieldingPercentage": 0.8,
-        "doublePlays": 1,
-        "stolenBasesAgainst": 8,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 5
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 17,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2416,40 +1696,216 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 49.1317671092952,
-          "Command": 42.00000000000001,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Owen Kelly looks like a RHP option who misses bats.",
+        "summary": "Owen Kelly looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 4.25",
-          "WHIP 1.42",
-          "K/9 9.4"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.25"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.42"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "9.4"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "3.0"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "0.61"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "29.7"
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "SR / 1L",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "1L",
+          "Pitcher"
+        ],
+        "sourceSummary": "Mississippi Athletics roster"
+      }
+    },
+    {
+      "id": "ole-miss-6968",
+      "schoolSlug": "ole-miss",
+      "school": "Mississippi",
+      "schoolLongName": "University of Mississippi",
+      "name": "Grayson Gibson",
+      "normalizedName": "grayson gibson",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "",
+      "classYear": "SO",
+      "handedness": "1L",
+      "jersey": "22",
+      "hometown": "Tampa, Fla.",
+      "highSchool": "Calvary Christian",
+      "previousSchool": "",
+      "hometownHighSchool": "Tampa, Fla. / Calvary Christian",
+      "profileUrl": "https://olemisssports.com/sports/baseball/roster/grayson-gibson/6968",
+      "imageUrl": "https://olemisssports.com/images/2026/2/6/Grayson_Gibson.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "6968",
+      "sources": [
+        "Mississippi Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Grayson Gibson looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "SO / 1L",
+        "detailBadges": [
+          "LHP",
+          "SO",
+          "1L",
+          "Pitcher"
+        ],
+        "sourceSummary": "Mississippi Athletics roster"
+      }
+    },
+    {
+      "id": "ole-miss-6990",
+      "schoolSlug": "ole-miss",
+      "school": "Mississippi",
+      "schoolLongName": "University of Mississippi",
+      "name": "Andrew Rogovic",
+      "normalizedName": "andrew rogovic",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "TR",
+      "jersey": "23",
+      "hometown": "Rye Brook, N.Y.",
+      "highSchool": "Blind Brook",
+      "previousSchool": "Northeastern",
+      "hometownHighSchool": "Rye Brook, N.Y. / Blind Brook",
+      "profileUrl": "https://olemisssports.com/sports/baseball/roster/andrew-rogovic/6990",
+      "imageUrl": "https://olemisssports.com/images/2018/8/21/om_headshot_logo.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "6990",
+      "sources": [
+        "Mississippi Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Andrew Rogovic looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
           }
         ],
         "metaLine": "JR / TR",
@@ -2459,585 +1915,187 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
           "TR",
           "Pitcher"
         ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats"
+        "sourceSummary": "Mississippi Athletics roster"
       }
     },
     {
-      "id": "ole-miss-6175",
+      "id": "ole-miss-6991",
       "schoolSlug": "ole-miss",
       "school": "Mississippi",
       "schoolLongName": "University of Mississippi",
-      "name": "Patrick Collopy",
-      "normalizedName": "patrick collopy",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "",
-      "classYear": "JR",
-      "handedness": "JC",
-      "jersey": "22",
-      "hometown": "Austin, Texas",
-      "highSchool": "Bowie",
-      "previousSchool": "Temple College",
-      "hometownHighSchool": "Austin, Texas / Bowie",
-      "profileUrl": "https://olemisssports.com/sports/baseball/roster/patrick-collopy/6175",
-      "imageUrl": "https://olemisssports.com/images/2026/2/6/Patrick_Collopy.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "6175",
-      "sources": [
-        "Mississippi Athletics roster",
-        "Mississippi cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "6175",
-        "name": "Patrick Collopy",
-        "normalizedName": "patrick collopy",
-        "jersey": "22",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/patrick-collopy/6175",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Patrick_Collopy.jpg",
-        "gamesPlayed": 3,
-        "gamesStarted": 0,
-        "appearances": 3,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 0,
-        "whip": 1.71,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 2.3333333333333335,
-        "inningsPitchedDisplay": "2.1",
-        "hitsAllowed": 1,
-        "runsAllowed": 0,
-        "earnedRunsAllowed": 0,
-        "walksAllowed": 3,
-        "strikeouts": 3,
-        "doublesAllowed": 0,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 7,
-        "wildPitches": 0,
-        "hitBatters": 0,
-        "balks": 0,
-        "opponentsBattingAverage": 0.143,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "6175",
-        "name": "Patrick Collopy",
-        "normalizedName": "patrick collopy",
-        "jersey": "22",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/patrick-collopy/6175",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Patrick_Collopy.jpg",
-        "gamesPlayed": 1,
-        "gamesStarted": 0,
-        "putouts": 1,
-        "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 1
-      },
-      "evaluation": {
-        "score": 14,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 68.83116883116884,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Patrick Collopy looks like a LHP option who limits runs and misses bats.",
-        "summaryMetrics": [
-          "ERA 0.00",
-          "WHIP 1.71",
-          "K/9 11.6"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "0.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.71"
-          },
-          {
-            "label": "K/9",
-            "value": "11.6"
-          },
-          {
-            "label": "BB/9",
-            "value": "11.6"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "2.3"
-          }
-        ],
-        "metaLine": "JR / JC",
-        "detailBadges": [
-          "LHP",
-          "JR",
-          "JC",
-          "Pitcher"
-        ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats"
-      }
-    },
-    {
-      "id": "ole-miss-6148",
-      "schoolSlug": "ole-miss",
-      "school": "Mississippi",
-      "schoolLongName": "University of Mississippi",
-      "name": "Hudson Calhoun",
-      "normalizedName": "hudson calhoun",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "JR",
-      "handedness": "2L",
-      "jersey": "23",
-      "hometown": "Tupelo, Miss.",
-      "highSchool": "McCallie School",
-      "previousSchool": "",
-      "hometownHighSchool": "Tupelo, Miss. / McCallie School",
-      "profileUrl": "https://olemisssports.com/sports/baseball/roster/hudson-calhoun/6148",
-      "imageUrl": "https://olemisssports.com/images/2026/2/6/Hudson_Calhoun.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "6148",
-      "sources": [
-        "Mississippi Athletics roster",
-        "Mississippi cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "6148",
-        "name": "Hudson Calhoun",
-        "normalizedName": "hudson calhoun",
-        "jersey": "23",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/hudson-calhoun/6148",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Hudson_Calhoun.jpg",
-        "gamesPlayed": 22,
-        "gamesStarted": 2,
-        "appearances": 22,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 4.05,
-        "whip": 1.35,
-        "wins": 5,
-        "losses": 4,
-        "saves": 3,
-        "shutouts": 0,
-        "inningsPitched": 46.666666666666664,
-        "inningsPitchedDisplay": "46.2",
-        "hitsAllowed": 37,
-        "runsAllowed": 24,
-        "earnedRunsAllowed": 21,
-        "walksAllowed": 26,
-        "strikeouts": 67,
-        "doublesAllowed": 4,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 8,
-        "opponentsAtBats": 172,
-        "wildPitches": 3,
-        "hitBatters": 4,
-        "balks": 0,
-        "opponentsBattingAverage": 0.215,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "6148",
-        "name": "Hudson Calhoun",
-        "normalizedName": "hudson calhoun",
-        "jersey": "23",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/hudson-calhoun/6148",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Hudson_Calhoun.jpg",
-        "gamesPlayed": 11,
-        "gamesStarted": 2,
-        "putouts": 1,
-        "assists": 4,
-        "errors": 1,
-        "fieldingPercentage": 0.833,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 8,
-        "caughtStealingBy": 4,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 6
-      },
-      "evaluation": {
-        "score": 21,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 81.1038961038961,
-          "Command": 31.538461538461544,
-          "Damage suppression": 0
-        },
-        "summary": "Hudson Calhoun looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 4.05",
-          "WHIP 1.35",
-          "K/9 12.9"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.05"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.35"
-          },
-          {
-            "label": "K/9",
-            "value": "12.9"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.54"
-          },
-          {
-            "label": "IP",
-            "value": "46.7"
-          }
-        ],
-        "metaLine": "JR / 2L",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "2L",
-          "Pitcher"
-        ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats"
-      }
-    },
-    {
-      "id": "ole-miss-6150",
-      "schoolSlug": "ole-miss",
-      "school": "Mississippi",
-      "schoolLongName": "University of Mississippi",
-      "name": "Austin Fawley",
-      "normalizedName": "austin fawley",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "C",
-      "positionLong": "",
-      "classYear": "JR",
-      "handedness": "1L",
-      "jersey": "24",
-      "hometown": "West Palm Beach, Fla.",
-      "highSchool": "Park Vista",
-      "previousSchool": "Kentucky",
-      "hometownHighSchool": "West Palm Beach, Fla. / Park Vista",
-      "profileUrl": "https://olemisssports.com/sports/baseball/roster/austin-fawley/6150",
-      "imageUrl": "https://olemisssports.com/images/2026/2/6/Austin_Fawley.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "6150",
-      "sources": [
-        "Mississippi Athletics roster",
-        "Mississippi cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "6150",
-        "name": "Austin Fawley",
-        "normalizedName": "austin fawley",
-        "jersey": "24",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/austin-fawley/6150",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Austin_Fawley.jpg",
-        "gamesPlayed": 57,
-        "gamesStarted": 57,
-        "battingAverage": 0.234,
-        "onBasePercentage": 0.356,
-        "sluggingPercentage": 0.489,
-        "ops": 0.845,
-        "atBats": 188,
-        "runs": 31,
-        "hits": 44,
-        "doubles": 9,
-        "triples": 0,
-        "homeRuns": 13,
-        "runsBattedIn": 40,
-        "totalBases": 92,
-        "walks": 30,
-        "hitByPitch": 6,
-        "strikeouts": 79,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 2,
-        "sacrificeFlies": 1,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 615,
-        "assists": 0,
-        "errors": 7,
-        "plateAppearances": 225,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "6150",
-        "name": "Austin Fawley",
-        "normalizedName": "austin fawley",
-        "jersey": "24",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/austin-fawley/6150",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Austin_Fawley.jpg",
-        "gamesPlayed": 56,
-        "gamesStarted": 56,
-        "putouts": 615,
-        "assists": 37,
-        "errors": 7,
-        "fieldingPercentage": 0.989,
-        "doublePlays": 2,
-        "stolenBasesAgainst": 45,
-        "caughtStealingBy": 11,
-        "stolenBasesPercentage": null,
-        "passedBalls": 1,
-        "catchersInterference": 0,
-        "totalChances": 659
-      },
-      "evaluation": {
-        "score": 29,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 42.2222222222222,
-          "Power": 44.473684210526315,
-          "Contact": 8.750000000000007,
-          "Discipline": 19.971870604781998,
-          "Speed": 0
-        },
-        "summary": "Austin Fawley gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .234",
-          "OBP .356",
-          "SLG .489"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".234"
-          },
-          {
-            "label": "OBP",
-            "value": ".356"
-          },
-          {
-            "label": "SLG",
-            "value": ".489"
-          },
-          {
-            "label": "HR",
-            "value": "13"
-          },
-          {
-            "label": "RBI",
-            "value": "40"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "JR / 1L",
-        "detailBadges": [
-          "C",
-          "JR",
-          "1L",
-          "Hitter"
-        ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats"
-      }
-    },
-    {
-      "id": "ole-miss-6176",
-      "schoolSlug": "ole-miss",
-      "school": "Mississippi",
-      "schoolLongName": "University of Mississippi",
-      "name": "Daniel Pacella",
-      "normalizedName": "daniel pacella",
-      "compositeRole": "Hitter",
+      "name": "Blake Fields",
+      "normalizedName": "blake fields",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "OF",
       "positionLong": "",
-      "classYear": "SR",
+      "classYear": "SO",
       "handedness": "TR",
-      "jersey": "25",
-      "hometown": "Mundelein, Ill.",
-      "highSchool": "Mundelein",
-      "previousSchool": "Illinois State",
-      "hometownHighSchool": "Mundelein, Ill. / Mundelein",
-      "profileUrl": "https://olemisssports.com/sports/baseball/roster/daniel-pacella/6176",
-      "imageUrl": "https://olemisssports.com/images/2026/2/6/Daniel_Pacella.jpg",
+      "jersey": "24",
+      "hometown": "Orlando, Fla.",
+      "highSchool": "The First Academy",
+      "previousSchool": "Houston",
+      "hometownHighSchool": "Orlando, Fla. / The First Academy",
+      "profileUrl": "https://olemisssports.com/sports/baseball/roster/blake-fields/6991",
+      "imageUrl": "https://olemisssports.com/images/2018/8/21/om_headshot_logo.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "6176",
+      "rosterBioId": "6991",
       "sources": [
-        "Mississippi Athletics roster",
-        "Mississippi cumulative stats"
+        "Mississippi Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "6176",
-        "name": "Daniel Pacella",
-        "normalizedName": "daniel pacella",
-        "jersey": "25",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/daniel-pacella/6176",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Daniel_Pacella.jpg",
-        "gamesPlayed": 31,
-        "gamesStarted": 20,
-        "battingAverage": 0.152,
-        "onBasePercentage": 0.309,
-        "sluggingPercentage": 0.364,
-        "ops": 0.673,
-        "atBats": 66,
-        "runs": 12,
-        "hits": 10,
-        "doubles": 2,
-        "triples": 0,
-        "homeRuns": 4,
-        "runsBattedIn": 15,
-        "totalBases": 24,
-        "walks": 11,
-        "hitByPitch": 4,
-        "strikeouts": 33,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 1,
-        "putouts": 16,
-        "assists": 0,
-        "errors": 1,
-        "plateAppearances": 83,
-        "caughtStealing": 1,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "6176",
-        "name": "Daniel Pacella",
-        "normalizedName": "daniel pacella",
-        "jersey": "25",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/daniel-pacella/6176",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Daniel_Pacella.jpg",
-        "gamesPlayed": 11,
-        "gamesStarted": 9,
-        "putouts": 16,
-        "assists": 0,
-        "errors": 1,
-        "fieldingPercentage": 0.941,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 17
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 10,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 16.111111111111097,
-          "Power": 11.57894736842105,
+          "On-base": 0,
+          "Power": 0,
           "Contact": 0,
-          "Discipline": 14.814814814814808,
+          "Discipline": 0,
           "Speed": 0
         },
-        "summary": "Daniel Pacella gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Blake Fields gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .152",
-          "OBP .309",
-          "SLG .364"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".152"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".309"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".364"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "4"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "15"
+            "value": "0"
           },
           {
             "label": "SB",
             "value": "0"
           }
         ],
-        "metaLine": "SR / TR",
+        "metaLine": "SO / TR",
         "detailBadges": [
           "OF",
-          "SR",
+          "SO",
           "TR",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats"
+        "sourceSummary": "Mississippi Athletics roster"
       }
     },
     {
-      "id": "ole-miss-5688",
+      "id": "ole-miss-6992",
+      "schoolSlug": "ole-miss",
+      "school": "Mississippi",
+      "schoolLongName": "University of Mississippi",
+      "name": "Jason Fultz",
+      "normalizedName": "jason fultz",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "IF",
+      "positionLong": "",
+      "classYear": "SO",
+      "handedness": "TR",
+      "jersey": "25",
+      "hometown": "Harborcreek, Pa.",
+      "highSchool": "P27 Academy",
+      "previousSchool": "Clemson",
+      "hometownHighSchool": "Harborcreek, Pa. / P27 Academy",
+      "profileUrl": "https://olemisssports.com/sports/baseball/roster/jason-fultz/6992",
+      "imageUrl": "https://olemisssports.com/images/2018/8/21/om_headshot_logo.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "6992",
+      "sources": [
+        "Mississippi Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Jason Fultz gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "SO / TR",
+        "detailBadges": [
+          "IF",
+          "SO",
+          "TR",
+          "Rostered"
+        ],
+        "sourceSummary": "Mississippi Athletics roster"
+      }
+    },
+    {
+      "id": "ole-miss-6964",
       "schoolSlug": "ole-miss",
       "school": "Mississippi",
       "schoolLongName": "University of Mississippi",
@@ -3047,14 +2105,14 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
       "role": "Pitcher",
       "position": "LHP",
       "positionLong": "",
-      "classYear": "JR",
-      "handedness": "3L",
+      "classYear": "SR",
+      "handedness": "4L",
       "jersey": "26",
       "hometown": "Tupelo, Miss.",
       "highSchool": "Tupelo",
       "previousSchool": "",
       "hometownHighSchool": "Tupelo, Miss. / Tupelo",
-      "profileUrl": "https://olemisssports.com/sports/baseball/roster/hunter-elliott/5688",
+      "profileUrl": "https://olemisssports.com/sports/baseball/roster/hunter-elliott/6964",
       "imageUrl": "https://olemisssports.com/images/2026/2/6/Hunter_Elliott.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -3062,7 +2120,7 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "5688",
+      "rosterBioId": "6964",
       "sources": [
         "Mississippi Athletics roster"
       ],
@@ -3114,35 +2172,35 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "JR / 3L",
+        "metaLine": "SR / 4L",
         "detailBadges": [
           "LHP",
-          "JR",
-          "3L",
+          "SR",
+          "4L",
           "Pitcher"
         ],
         "sourceSummary": "Mississippi Athletics roster"
       }
     },
     {
-      "id": "ole-miss-6165",
+      "id": "ole-miss-6982",
       "schoolSlug": "ole-miss",
       "school": "Mississippi",
       "schoolLongName": "University of Mississippi",
       "name": "Judd Utermark",
       "normalizedName": "judd utermark",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "IF",
       "positionLong": "",
-      "classYear": "SR",
-      "handedness": "3L",
+      "classYear": "5TH",
+      "handedness": "4L",
       "jersey": "27",
       "hometown": "Charlotte, N.C.",
       "highSchool": "Charlotte Christian",
       "previousSchool": "",
       "hometownHighSchool": "Charlotte, N.C. / Charlotte Christian",
-      "profileUrl": "https://olemisssports.com/sports/baseball/roster/judd-utermark/6165",
+      "profileUrl": "https://olemisssports.com/sports/baseball/roster/judd-utermark/6982",
       "imageUrl": "https://olemisssports.com/images/2026/2/6/Judd_Utermark.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -3150,1294 +2208,183 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "6165",
+      "rosterBioId": "6982",
       "sources": [
-        "Mississippi Athletics roster",
-        "Mississippi cumulative stats"
+        "Mississippi Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "6165",
-        "name": "Judd Utermark",
-        "normalizedName": "judd utermark",
-        "jersey": "27",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/judd-utermark/6165",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Judd_Utermark.jpg",
-        "gamesPlayed": 64,
-        "gamesStarted": 64,
-        "battingAverage": 0.309,
-        "onBasePercentage": 0.419,
-        "sluggingPercentage": 0.63,
-        "ops": 1.049,
-        "atBats": 243,
-        "runs": 72,
-        "hits": 75,
-        "doubles": 12,
-        "triples": 0,
-        "homeRuns": 22,
-        "runsBattedIn": 55,
-        "totalBases": 153,
-        "walks": 40,
-        "hitByPitch": 7,
-        "strikeouts": 85,
-        "intentionalWalks": 1,
-        "groundedIntoDoublePlay": 4,
-        "sacrificeFlies": 1,
-        "sacrificeHits": 0,
-        "stolenBases": 11,
-        "stolenBasesAttempts": 12,
-        "putouts": 45,
-        "assists": 0,
-        "errors": 13,
-        "plateAppearances": 304,
-        "caughtStealing": 1,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "6165",
-        "name": "Judd Utermark",
-        "normalizedName": "judd utermark",
-        "jersey": "27",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/judd-utermark/6165",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Judd_Utermark.jpg",
-        "gamesPlayed": 60,
-        "gamesStarted": 60,
-        "putouts": 45,
-        "assists": 89,
-        "errors": 13,
-        "fieldingPercentage": 0.912,
-        "doublePlays": 5,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 147
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 64,
-        "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
-        },
-        "components": {
-          "On-base": 77.2222222222222,
-          "Power": 81.57894736842107,
-          "Contact": 55.62499999999999,
-          "Discipline": 30.065359477124176,
-          "Speed": 36.666666666666664
-        },
-        "summary": "Judd Utermark profiles as a IF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .309",
-          "OBP .419",
-          "SLG .630"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".309"
-          },
-          {
-            "label": "OBP",
-            "value": ".419"
-          },
-          {
-            "label": "SLG",
-            "value": ".630"
-          },
-          {
-            "label": "HR",
-            "value": "22"
-          },
-          {
-            "label": "RBI",
-            "value": "55"
-          },
-          {
-            "label": "SB",
-            "value": "11"
-          }
-        ],
-        "metaLine": "SR / 3L",
-        "detailBadges": [
-          "IF",
-          "SR",
-          "3L",
-          "Hitter"
-        ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats"
-      }
-    },
-    {
-      "id": "ole-miss-6177",
-      "schoolSlug": "ole-miss",
-      "school": "Mississippi",
-      "schoolLongName": "University of Mississippi",
-      "name": "Noah Allen",
-      "normalizedName": "noah allen",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "FR",
-      "handedness": "HS",
-      "jersey": "28",
-      "hometown": "Watkinsville, Ga.",
-      "highSchool": "North Oconee",
-      "previousSchool": "",
-      "hometownHighSchool": "Watkinsville, Ga. / North Oconee",
-      "profileUrl": "https://olemisssports.com/sports/baseball/roster/noah-allen/6177",
-      "imageUrl": "https://olemisssports.com/images/2026/2/6/Noah_Allen.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "6177",
-      "sources": [
-        "Mississippi Athletics roster",
-        "Mississippi cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "6177",
-        "name": "Noah Allen",
-        "normalizedName": "noah allen",
-        "jersey": "28",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/noah-allen/6177",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Noah_Allen.jpg",
-        "gamesPlayed": 8,
-        "gamesStarted": 0,
-        "appearances": 8,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 2.89,
-        "whip": 0.96,
-        "wins": 1,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 9.333333333333334,
-        "inningsPitchedDisplay": "9.1",
-        "hitsAllowed": 7,
-        "runsAllowed": 3,
-        "earnedRunsAllowed": 3,
-        "walksAllowed": 2,
-        "strikeouts": 12,
-        "doublesAllowed": 2,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 1,
-        "opponentsAtBats": 35,
-        "wildPitches": 0,
-        "hitBatters": 0,
-        "balks": 0,
-        "opponentsBattingAverage": 0.2,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "6177",
-        "name": "Noah Allen",
-        "normalizedName": "noah allen",
-        "jersey": "28",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/noah-allen/6177",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Noah_Allen.jpg",
-        "gamesPlayed": 2,
-        "gamesStarted": 0,
-        "putouts": 1,
-        "assists": 1,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 2
-      },
-      "evaluation": {
-        "score": 30,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 68.83116883116884,
-          "Command": 100,
-          "Damage suppression": 0
-        },
-        "summary": "Noah Allen looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
-        "summaryMetrics": [
-          "ERA 2.89",
-          "WHIP 0.96",
-          "K/9 11.6"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "2.89"
-          },
-          {
-            "label": "WHIP",
-            "value": "0.96"
-          },
-          {
-            "label": "K/9",
-            "value": "11.6"
-          },
-          {
-            "label": "BB/9",
-            "value": "1.9"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.96"
-          },
-          {
-            "label": "IP",
-            "value": "9.3"
-          }
-        ],
-        "metaLine": "FR / HS",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "HS",
-          "Pitcher"
-        ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats"
-      }
-    },
-    {
-      "id": "ole-miss-6178",
-      "schoolSlug": "ole-miss",
-      "school": "Mississippi",
-      "schoolLongName": "University of Mississippi",
-      "name": "Grayson Gibson",
-      "normalizedName": "grayson gibson",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "",
-      "classYear": "FR",
-      "handedness": "HS",
-      "jersey": "29",
-      "hometown": "Tampa, Fla.",
-      "highSchool": "Calvary Christian",
-      "previousSchool": "",
-      "hometownHighSchool": "Tampa, Fla. / Calvary Christian",
-      "profileUrl": "https://olemisssports.com/sports/baseball/roster/grayson-gibson/6178",
-      "imageUrl": "https://olemisssports.com/images/2026/2/6/Grayson_Gibson.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "6178",
-      "sources": [
-        "Mississippi Athletics roster",
-        "Mississippi cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "6178",
-        "name": "Grayson Gibson",
-        "normalizedName": "grayson gibson",
-        "jersey": "29",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/grayson-gibson/6178",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Grayson_Gibson.jpg",
-        "gamesPlayed": 8,
-        "gamesStarted": 2,
-        "appearances": 8,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 3.38,
-        "whip": 0.94,
-        "wins": 1,
-        "losses": 1,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 16,
-        "inningsPitchedDisplay": "16.0",
-        "hitsAllowed": 11,
-        "runsAllowed": 6,
-        "earnedRunsAllowed": 6,
-        "walksAllowed": 4,
-        "strikeouts": 16,
-        "doublesAllowed": 4,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 55,
-        "wildPitches": 1,
-        "hitBatters": 4,
-        "balks": 0,
-        "opponentsBattingAverage": 0.2,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "6178",
-        "name": "Grayson Gibson",
-        "normalizedName": "grayson gibson",
-        "jersey": "29",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/grayson-gibson/6178",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Grayson_Gibson.jpg",
-        "gamesPlayed": 3,
-        "gamesStarted": 1,
-        "putouts": 0,
-        "assists": 4,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 1,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 4
-      },
-      "evaluation": {
-        "score": 19,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
-          "Command": 60,
-          "Damage suppression": 0
-        },
-        "summary": "Grayson Gibson looks like a LHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
-        "summaryMetrics": [
-          "ERA 3.38",
-          "WHIP 0.94",
-          "K/9 9.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.38"
-          },
-          {
-            "label": "WHIP",
-            "value": "0.94"
-          },
-          {
-            "label": "K/9",
-            "value": "9.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.3"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.13"
-          },
-          {
-            "label": "IP",
-            "value": "16.0"
-          }
-        ],
-        "metaLine": "FR / HS",
-        "detailBadges": [
-          "LHP",
-          "FR",
-          "HS",
-          "Pitcher"
-        ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats"
-      }
-    },
-    {
-      "id": "ole-miss-6179",
-      "schoolSlug": "ole-miss",
-      "school": "Mississippi",
-      "schoolLongName": "University of Mississippi",
-      "name": "Tristan Bissetta",
-      "normalizedName": "tristan bissetta",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "OF",
-      "positionLong": "",
-      "classYear": "SR",
-      "handedness": "TR",
-      "jersey": "32",
-      "hometown": "Greenville, S.C.",
-      "highSchool": "JL Mann",
-      "previousSchool": "Clemson",
-      "hometownHighSchool": "Greenville, S.C. / JL Mann",
-      "profileUrl": "https://olemisssports.com/sports/baseball/roster/tristan-bissetta/6179",
-      "imageUrl": "https://olemisssports.com/images/2026/2/6/Tristan_Bissetta.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "6179",
-      "sources": [
-        "Mississippi Athletics roster",
-        "Mississippi cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "6179",
-        "name": "Tristan Bissetta",
-        "normalizedName": "tristan bissetta",
-        "jersey": "32",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/tristan-bissetta/6179",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Tristan_Bissetta.jpg",
-        "gamesPlayed": 64,
-        "gamesStarted": 64,
-        "battingAverage": 0.272,
-        "onBasePercentage": 0.382,
-        "sluggingPercentage": 0.601,
-        "ops": 0.983,
-        "atBats": 243,
-        "runs": 56,
-        "hits": 66,
-        "doubles": 11,
-        "triples": 0,
-        "homeRuns": 23,
-        "runsBattedIn": 61,
-        "totalBases": 146,
-        "walks": 39,
-        "hitByPitch": 5,
-        "strikeouts": 87,
-        "intentionalWalks": 1,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 1,
-        "sacrificeHits": 0,
-        "stolenBases": 8,
-        "stolenBasesAttempts": 11,
-        "putouts": 112,
-        "assists": 0,
-        "errors": 2,
-        "plateAppearances": 302,
-        "caughtStealing": 3,
-        "pickedOff": 2
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "6179",
-        "name": "Tristan Bissetta",
-        "normalizedName": "tristan bissetta",
-        "jersey": "32",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/tristan-bissetta/6179",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Tristan_Bissetta.jpg",
-        "gamesPlayed": 49,
-        "gamesStarted": 49,
-        "putouts": 112,
-        "assists": 2,
-        "errors": 2,
-        "fieldingPercentage": 0.983,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 116
-      },
-      "evaluation": {
-        "score": 50,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 56.66666666666666,
-          "Power": 73.94736842105264,
-          "Contact": 32.500000000000014,
-          "Discipline": 27.58620689655172,
-          "Speed": 26.666666666666668
-        },
-        "summary": "Tristan Bissetta profiles as a OF piece who brings real extra-base damage and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .272",
-          "OBP .382",
-          "SLG .601"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".272"
-          },
-          {
-            "label": "OBP",
-            "value": ".382"
-          },
-          {
-            "label": "SLG",
-            "value": ".601"
-          },
-          {
-            "label": "HR",
-            "value": "23"
-          },
-          {
-            "label": "RBI",
-            "value": "61"
-          },
-          {
-            "label": "SB",
-            "value": "8"
-          }
-        ],
-        "metaLine": "SR / TR",
-        "detailBadges": [
-          "OF",
-          "SR",
-          "TR",
-          "Hitter"
-        ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats"
-      }
-    },
-    {
-      "id": "ole-miss-6180",
-      "schoolSlug": "ole-miss",
-      "school": "Mississippi",
-      "schoolLongName": "University of Mississippi",
-      "name": "Landon Koenig",
-      "normalizedName": "landon koenig",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "JR",
-      "handedness": "TR",
-      "jersey": "33",
-      "hometown": "Page, N.D.",
-      "highSchool": "May-Port CG",
-      "previousSchool": "North Dakota State",
-      "hometownHighSchool": "Page, N.D. / May-Port CG",
-      "profileUrl": "https://olemisssports.com/sports/baseball/roster/landon-koenig/6180",
-      "imageUrl": "https://olemisssports.com/images/2026/2/6/Landon_Koenig.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "6180",
-      "sources": [
-        "Mississippi Athletics roster",
-        "Mississippi cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "6180",
-        "name": "Landon Koenig",
-        "normalizedName": "landon koenig",
-        "jersey": "33",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/landon-koenig/6180",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Landon_Koenig.jpg",
-        "gamesPlayed": 17,
-        "gamesStarted": 0,
-        "appearances": 17,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 6.35,
-        "whip": 1.85,
-        "wins": 3,
-        "losses": 1,
-        "saves": 2,
-        "shutouts": 0,
-        "inningsPitched": 22.666666666666668,
-        "inningsPitchedDisplay": "22.2",
-        "hitsAllowed": 35,
-        "runsAllowed": 20,
-        "earnedRunsAllowed": 16,
-        "walksAllowed": 7,
-        "strikeouts": 33,
-        "doublesAllowed": 4,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 4,
-        "opponentsAtBats": 101,
-        "wildPitches": 4,
-        "hitBatters": 1,
-        "balks": 0,
-        "opponentsBattingAverage": 0.347,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "6180",
-        "name": "Landon Koenig",
-        "normalizedName": "landon koenig",
-        "jersey": "33",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/landon-koenig/6180",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Landon_Koenig.jpg",
-        "gamesPlayed": 7,
-        "gamesStarted": 0,
-        "putouts": 2,
-        "assists": 2,
-        "errors": 1,
-        "fieldingPercentage": 0.8,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 1,
-        "caughtStealingBy": 1,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 5
-      },
-      "evaluation": {
-        "score": 28,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 82.75401069518715,
-          "Command": 74.28571428571429,
-          "Damage suppression": 0
-        },
-        "summary": "Landon Koenig looks like a RHP option who misses bats and throws enough strikes.",
-        "summaryMetrics": [
-          "ERA 6.35",
-          "WHIP 1.85",
-          "K/9 13.1"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "6.35"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.85"
-          },
-          {
-            "label": "K/9",
-            "value": "13.1"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.8"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.59"
-          },
-          {
-            "label": "IP",
-            "value": "22.7"
-          }
-        ],
-        "metaLine": "JR / TR",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "TR",
-          "Pitcher"
-        ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats"
-      }
-    },
-    {
-      "id": "ole-miss-6166",
-      "schoolSlug": "ole-miss",
-      "school": "Mississippi",
-      "schoolLongName": "University of Mississippi",
-      "name": "Landon Waters",
-      "normalizedName": "landon waters",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "SR",
-      "handedness": "1L",
-      "jersey": "34",
-      "hometown": "Grenada, Miss.",
-      "highSchool": "Grenada",
-      "previousSchool": "Meridian CC",
-      "hometownHighSchool": "Grenada, Miss. / Grenada",
-      "profileUrl": "https://olemisssports.com/sports/baseball/roster/landon-waters/6166",
-      "imageUrl": "https://olemisssports.com/images/2026/2/6/Landon_Waters.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "6166",
-      "sources": [
-        "Mississippi Athletics roster",
-        "Mississippi cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "6166",
-        "name": "Landon Waters",
-        "normalizedName": "landon waters",
-        "jersey": "34",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/landon-waters/6166",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Landon_Waters.jpg",
-        "gamesPlayed": 24,
-        "gamesStarted": 0,
-        "appearances": 24,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 3,
-        "whip": 1.42,
-        "wins": 0,
-        "losses": 1,
-        "saves": 2,
-        "shutouts": 0,
-        "inningsPitched": 24,
-        "inningsPitchedDisplay": "24.0",
-        "hitsAllowed": 22,
-        "runsAllowed": 10,
-        "earnedRunsAllowed": 8,
-        "walksAllowed": 12,
-        "strikeouts": 25,
-        "doublesAllowed": 2,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 5,
-        "opponentsAtBats": 92,
-        "wildPitches": 3,
-        "hitBatters": 0,
-        "balks": 0,
-        "opponentsBattingAverage": 0.239,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "6166",
-        "name": "Landon Waters",
-        "normalizedName": "landon waters",
-        "jersey": "34",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/landon-waters/6166",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Landon_Waters.jpg",
-        "gamesPlayed": 7,
-        "gamesStarted": 0,
-        "putouts": 3,
-        "assists": 2,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 2,
-        "caughtStealingBy": 2,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 5
-      },
-      "evaluation": {
-        "score": 13,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 48.86363636363637,
-          "Command": 21.66666666666667,
-          "Damage suppression": 0
-        },
-        "summary": "Landon Waters looks like a RHP option who limits runs and misses bats.",
-        "summaryMetrics": [
-          "ERA 3.00",
-          "WHIP 1.42",
-          "K/9 9.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.42"
-          },
-          {
-            "label": "K/9",
-            "value": "9.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.5"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.88"
-          },
-          {
-            "label": "IP",
-            "value": "24.0"
-          }
-        ],
-        "metaLine": "SR / 1L",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "1L",
-          "Pitcher"
-        ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats"
-      }
-    },
-    {
-      "id": "ole-miss-6153",
-      "schoolSlug": "ole-miss",
-      "school": "Mississippi",
-      "schoolLongName": "University of Mississippi",
-      "name": "Owen Hancock",
-      "normalizedName": "owen hancock",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "SO",
-      "handedness": "1L",
-      "jersey": "35",
-      "hometown": "Sylvester, Ga.",
-      "highSchool": "Worth County",
-      "previousSchool": "",
-      "hometownHighSchool": "Sylvester, Ga. / Worth County",
-      "profileUrl": "https://olemisssports.com/sports/baseball/roster/owen-hancock/6153",
-      "imageUrl": "https://olemisssports.com/images/2026/2/6/Owen_Hancock.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "6153",
-      "sources": [
-        "Mississippi Athletics roster",
-        "Mississippi cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "6153",
-        "name": "Owen Hancock",
-        "normalizedName": "owen hancock",
-        "jersey": "35",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/owen-hancock/6153",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Owen_Hancock.jpg",
-        "gamesPlayed": 9,
-        "gamesStarted": 0,
-        "appearances": 9,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 3.77,
-        "whip": 1.53,
-        "wins": 2,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 14.333333333333334,
-        "inningsPitchedDisplay": "14.1",
-        "hitsAllowed": 12,
-        "runsAllowed": 8,
-        "earnedRunsAllowed": 6,
-        "walksAllowed": 10,
-        "strikeouts": 19,
-        "doublesAllowed": 2,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 58,
-        "wildPitches": 1,
-        "hitBatters": 1,
-        "balks": 0,
-        "opponentsBattingAverage": 0.207,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "6153",
-        "name": "Owen Hancock",
-        "normalizedName": "owen hancock",
-        "jersey": "35",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/owen-hancock/6153",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Owen_Hancock.jpg",
-        "gamesPlayed": 4,
-        "gamesStarted": 0,
-        "putouts": 2,
-        "assists": 0,
-        "errors": 1,
-        "fieldingPercentage": 0.667,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 2,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 3
-      },
-      "evaluation": {
-        "score": 17,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 72.09302325581395,
-          "Command": 18.000000000000004,
-          "Damage suppression": 0
-        },
-        "summary": "Owen Hancock looks like a RHP option who limits runs and misses bats.",
-        "summaryMetrics": [
-          "ERA 3.77",
-          "WHIP 1.53",
-          "K/9 11.9"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.77"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.53"
-          },
-          {
-            "label": "K/9",
-            "value": "11.9"
-          },
-          {
-            "label": "BB/9",
-            "value": "6.3"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.26"
-          },
-          {
-            "label": "IP",
-            "value": "14.3"
-          }
-        ],
-        "metaLine": "SO / 1L",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "1L",
-          "Pitcher"
-        ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats"
-      }
-    },
-    {
-      "id": "ole-miss-6152",
-      "schoolSlug": "ole-miss",
-      "school": "Mississippi",
-      "schoolLongName": "University of Mississippi",
-      "name": "Will Furniss",
-      "normalizedName": "will furniss",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "IF",
-      "positionLong": "",
-      "classYear": "SR",
-      "handedness": "3L",
-      "jersey": "36",
-      "hometown": "Nacogdoches, Texas",
-      "highSchool": "Nacogdoches",
-      "previousSchool": "",
-      "hometownHighSchool": "Nacogdoches, Texas / Nacogdoches",
-      "profileUrl": "https://olemisssports.com/sports/baseball/roster/will-furniss/6152",
-      "imageUrl": "https://olemisssports.com/images/2026/2/6/Will_Furniss.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "6152",
-      "sources": [
-        "Mississippi Athletics roster",
-        "Mississippi cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "6152",
-        "name": "Will Furniss",
-        "normalizedName": "will furniss",
-        "jersey": "36",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/will-furniss/6152",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Will_Furniss.jpg",
-        "gamesPlayed": 64,
-        "gamesStarted": 64,
-        "battingAverage": 0.306,
-        "onBasePercentage": 0.42,
-        "sluggingPercentage": 0.474,
-        "ops": 0.894,
-        "atBats": 232,
-        "runs": 45,
-        "hits": 71,
-        "doubles": 12,
-        "triples": 0,
-        "homeRuns": 9,
-        "runsBattedIn": 57,
-        "totalBases": 110,
-        "walks": 40,
-        "hitByPitch": 7,
-        "strikeouts": 57,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 9,
-        "sacrificeFlies": 2,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 419,
-        "assists": 0,
-        "errors": 5,
-        "plateAppearances": 281,
-        "caughtStealing": 0,
-        "pickedOff": 1
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "6152",
-        "name": "Will Furniss",
-        "normalizedName": "will furniss",
-        "jersey": "36",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/will-furniss/6152",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Will_Furniss.jpg",
-        "gamesPlayed": 64,
-        "gamesStarted": 64,
-        "putouts": 419,
-        "assists": 40,
-        "errors": 5,
-        "fieldingPercentage": 0.989,
-        "doublePlays": 28,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 464
-      },
-      "evaluation": {
-        "score": 53,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 77.77777777777776,
-          "Power": 40.526315789473685,
-          "Contact": 53.75,
-          "Discipline": 55.7504873294347,
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
           "Speed": 0
         },
-        "summary": "Will Furniss profiles as a IF piece who gets on base at a high clip.",
+        "summary": "Judd Utermark gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .306",
-          "OBP .420",
-          "SLG .474"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".306"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".420"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".474"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "9"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "57"
+            "value": "0"
           },
           {
             "label": "SB",
             "value": "0"
           }
         ],
-        "metaLine": "SR / 3L",
+        "metaLine": "5TH / 4L",
         "detailBadges": [
           "IF",
-          "SR",
-          "3L",
-          "Hitter"
+          "5TH",
+          "4L",
+          "Rostered"
         ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats"
+        "sourceSummary": "Mississippi Athletics roster"
       }
     },
     {
-      "id": "ole-miss-6181",
+      "id": "ole-miss-6993",
       "schoolSlug": "ole-miss",
       "school": "Mississippi",
       "schoolLongName": "University of Mississippi",
-      "name": "Terry Hayes Jr.",
-      "normalizedName": "terry hayes",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
+      "name": "Ayson McIntosh",
+      "normalizedName": "ayson mcintosh",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "C",
       "positionLong": "",
-      "classYear": "SO",
-      "handedness": "JC",
-      "jersey": "38",
-      "hometown": "Renton, Wash.",
-      "highSchool": "Liberty",
-      "previousSchool": "Bellevue College",
-      "hometownHighSchool": "Renton, Wash. / Liberty",
-      "profileUrl": "https://olemisssports.com/sports/baseball/roster/terry-hayes-jr/6181",
-      "imageUrl": "https://olemisssports.com/images/2026/2/6/Terry_Hayes.jpg",
+      "classYear": "FR",
+      "handedness": "HS",
+      "jersey": "28",
+      "hometown": "Vero Beach, Fla.",
+      "highSchool": "IMG Academy",
+      "previousSchool": "",
+      "hometownHighSchool": "Vero Beach, Fla. / IMG Academy",
+      "profileUrl": "https://olemisssports.com/sports/baseball/roster/ayson-mcintosh/6993",
+      "imageUrl": "https://olemisssports.com/images/2018/8/21/om_headshot_logo.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "6181",
+      "rosterBioId": "6993",
       "sources": [
-        "Mississippi Athletics roster",
-        "Mississippi cumulative stats"
+        "Mississippi Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "6181",
-        "name": "Terry Hayes Jr.",
-        "normalizedName": "terry hayes",
-        "jersey": "38",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/terry-hayes-jr/6181",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Terry_Hayes.jpg",
-        "gamesPlayed": 10,
-        "gamesStarted": 2,
-        "appearances": 10,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 10.22,
-        "whip": 1.95,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 12.333333333333334,
-        "inningsPitchedDisplay": "12.1",
-        "hitsAllowed": 19,
-        "runsAllowed": 16,
-        "earnedRunsAllowed": 14,
-        "walksAllowed": 5,
-        "strikeouts": 13,
-        "doublesAllowed": 3,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 1,
-        "opponentsAtBats": 56,
-        "wildPitches": 2,
-        "hitBatters": 2,
-        "balks": 0,
-        "opponentsBattingAverage": 0.339,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "6181",
-        "name": "Terry Hayes Jr.",
-        "normalizedName": "terry hayes",
-        "jersey": "38",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/terry-hayes-jr/6181",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Terry_Hayes.jpg",
-        "gamesPlayed": 4,
-        "gamesStarted": 2,
-        "putouts": 1,
-        "assists": 2,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 1,
-        "stolenBasesAgainst": 3,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 3
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 15,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 49.877149877149876,
-          "Command": 31.999999999999996,
-          "Damage suppression": 0
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "summary": "Terry Hayes Jr. looks like a RHP option who misses bats.",
+        "summary": "Ayson McIntosh gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 10.22",
-          "WHIP 1.95",
-          "K/9 9.5"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
-            "label": "ERA",
-            "value": "10.22"
+            "label": "AVG",
+            "value": "--"
           },
           {
-            "label": "WHIP",
-            "value": "1.95"
+            "label": "OBP",
+            "value": "--"
           },
           {
-            "label": "K/9",
-            "value": "9.5"
+            "label": "SLG",
+            "value": "--"
           },
           {
-            "label": "BB/9",
-            "value": "3.6"
+            "label": "HR",
+            "value": "0"
           },
           {
-            "label": "HR/9",
-            "value": "0.73"
+            "label": "RBI",
+            "value": "0"
           },
           {
-            "label": "IP",
-            "value": "12.3"
+            "label": "SB",
+            "value": "0"
           }
         ],
-        "metaLine": "SO / JC",
+        "metaLine": "FR / HS",
         "detailBadges": [
-          "RHP",
-          "SO",
-          "JC",
-          "Pitcher"
+          "C",
+          "FR",
+          "HS",
+          "Rostered"
         ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats"
+        "sourceSummary": "Mississippi Athletics roster"
       }
     },
     {
-      "id": "ole-miss-6182",
+      "id": "ole-miss-6994",
       "schoolSlug": "ole-miss",
       "school": "Mississippi",
       "schoolLongName": "University of Mississippi",
-      "name": "Blake Ilitch",
-      "normalizedName": "blake ilitch",
+      "name": "Charlie Willcox",
+      "normalizedName": "charlie willcox",
       "compositeRole": "Pitcher",
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
-      "classYear": "FR",
-      "handedness": "HS",
-      "jersey": "39",
-      "hometown": "Detroit, Mich.",
-      "highSchool": "Brother Rice",
-      "previousSchool": "",
-      "hometownHighSchool": "Detroit, Mich. / Brother Rice",
-      "profileUrl": "https://olemisssports.com/sports/baseball/roster/blake-ilitch/6182",
-      "imageUrl": "https://olemisssports.com/images/2026/2/6/Blake_Ilitch.jpg",
+      "classYear": "SO",
+      "handedness": "TR",
+      "jersey": "29",
+      "hometown": "Santa Rosa Beach, Fla.",
+      "highSchool": "South Walton",
+      "previousSchool": "Georgia Tech",
+      "hometownHighSchool": "Santa Rosa Beach, Fla. / South Walton",
+      "profileUrl": "https://olemisssports.com/sports/baseball/roster/charlie-willcox/6994",
+      "imageUrl": "https://olemisssports.com/images/2018/8/21/om_headshot_logo.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "6182",
+      "rosterBioId": "6994",
       "sources": [
         "Mississippi Athletics roster"
       ],
@@ -4457,7 +2404,183 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Blake Ilitch looks like a RHP option who throws enough strikes.",
+        "summary": "Charlie Willcox looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "SO / TR",
+        "detailBadges": [
+          "RHP",
+          "SO",
+          "TR",
+          "Pitcher"
+        ],
+        "sourceSummary": "Mississippi Athletics roster"
+      }
+    },
+    {
+      "id": "ole-miss-6995",
+      "schoolSlug": "ole-miss",
+      "school": "Mississippi",
+      "schoolLongName": "University of Mississippi",
+      "name": "Mavrick Rizy",
+      "normalizedName": "mavrick rizy",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "TR",
+      "jersey": "32",
+      "hometown": "Fiskdale, Mass.",
+      "highSchool": "Worcester Academy",
+      "previousSchool": "LSU",
+      "hometownHighSchool": "Fiskdale, Mass. / Worcester Academy",
+      "profileUrl": "https://olemisssports.com/sports/baseball/roster/mavrick-rizy/6995",
+      "imageUrl": "https://olemisssports.com/images/2018/8/21/om_headshot_logo.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "6995",
+      "sources": [
+        "Mississippi Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Mavrick Rizy looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "JR / TR",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "TR",
+          "Pitcher"
+        ],
+        "sourceSummary": "Mississippi Athletics roster"
+      }
+    },
+    {
+      "id": "ole-miss-6996",
+      "schoolSlug": "ole-miss",
+      "school": "Mississippi",
+      "schoolLongName": "University of Mississippi",
+      "name": "Devin Long",
+      "normalizedName": "devin long",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "FR",
+      "handedness": "HS",
+      "jersey": "33",
+      "hometown": "Scottsdale, Ariz.",
+      "highSchool": "Chaparral",
+      "previousSchool": "",
+      "hometownHighSchool": "Scottsdale, Ariz. / Chaparral",
+      "profileUrl": "https://olemisssports.com/sports/baseball/roster/devin-long/6996",
+      "imageUrl": "https://olemisssports.com/images/2018/8/21/om_headshot_logo.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "6996",
+      "sources": [
+        "Mississippi Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Devin Long looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -4500,7 +2623,447 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
       }
     },
     {
-      "id": "ole-miss-6162",
+      "id": "ole-miss-6997",
+      "schoolSlug": "ole-miss",
+      "school": "Mississippi",
+      "schoolLongName": "University of Mississippi",
+      "name": "McCoy Silicz",
+      "normalizedName": "mccoy silicz",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP/1B",
+      "positionLong": "",
+      "classYear": "FR",
+      "handedness": "HS",
+      "jersey": "34",
+      "hometown": "Bakersfield, Calif.",
+      "highSchool": "Bakersfield Christian",
+      "previousSchool": "",
+      "hometownHighSchool": "Bakersfield, Calif. / Bakersfield Christian",
+      "profileUrl": "https://olemisssports.com/sports/baseball/roster/mccoy-silicz/6997",
+      "imageUrl": "https://olemisssports.com/images/2018/8/21/om_headshot_logo.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "6997",
+      "sources": [
+        "Mississippi Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "McCoy Silicz looks like a RHP/1B option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FR / HS",
+        "detailBadges": [
+          "RHP/1B",
+          "FR",
+          "HS",
+          "Pitcher"
+        ],
+        "sourceSummary": "Mississippi Athletics roster"
+      }
+    },
+    {
+      "id": "ole-miss-6970",
+      "schoolSlug": "ole-miss",
+      "school": "Mississippi",
+      "schoolLongName": "University of Mississippi",
+      "name": "Owen Hancock",
+      "normalizedName": "owen hancock",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "2L",
+      "jersey": "35",
+      "hometown": "Sylvester, Ga.",
+      "highSchool": "Worth County",
+      "previousSchool": "",
+      "hometownHighSchool": "Sylvester, Ga. / Worth County",
+      "profileUrl": "https://olemisssports.com/sports/baseball/roster/owen-hancock/6970",
+      "imageUrl": "https://olemisssports.com/images/2026/2/6/Owen_Hancock.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "6970",
+      "sources": [
+        "Mississippi Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Owen Hancock looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "JR / 2L",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "2L",
+          "Pitcher"
+        ],
+        "sourceSummary": "Mississippi Athletics roster"
+      }
+    },
+    {
+      "id": "ole-miss-6967",
+      "schoolSlug": "ole-miss",
+      "school": "Mississippi",
+      "schoolLongName": "University of Mississippi",
+      "name": "Will Furniss",
+      "normalizedName": "will furniss",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "IF",
+      "positionLong": "",
+      "classYear": "5TH",
+      "handedness": "4L",
+      "jersey": "36",
+      "hometown": "Nacogdoches, Texas",
+      "highSchool": "Nacogdoches",
+      "previousSchool": "",
+      "hometownHighSchool": "Nacogdoches, Texas / Nacogdoches",
+      "profileUrl": "https://olemisssports.com/sports/baseball/roster/will-furniss/6967",
+      "imageUrl": "https://olemisssports.com/images/2026/2/6/Will_Furniss.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "6967",
+      "sources": [
+        "Mississippi Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Will Furniss gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "5TH / 4L",
+        "detailBadges": [
+          "IF",
+          "5TH",
+          "4L",
+          "Rostered"
+        ],
+        "sourceSummary": "Mississippi Athletics roster"
+      }
+    },
+    {
+      "id": "ole-miss-6971",
+      "schoolSlug": "ole-miss",
+      "school": "Mississippi",
+      "schoolLongName": "University of Mississippi",
+      "name": "Terry Hayes Jr.",
+      "normalizedName": "terry hayes",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "1L",
+      "jersey": "38",
+      "hometown": "Renton, Wash.",
+      "highSchool": "Liberty",
+      "previousSchool": "Bellevue College",
+      "hometownHighSchool": "Renton, Wash. / Liberty",
+      "profileUrl": "https://olemisssports.com/sports/baseball/roster/terry-hayes-jr/6971",
+      "imageUrl": "https://olemisssports.com/images/2026/2/6/Terry_Hayes.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "6971",
+      "sources": [
+        "Mississippi Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Terry Hayes Jr. looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "JR / 1L",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "1L",
+          "Pitcher"
+        ],
+        "sourceSummary": "Mississippi Athletics roster"
+      }
+    },
+    {
+      "id": "ole-miss-6998",
+      "schoolSlug": "ole-miss",
+      "school": "Mississippi",
+      "schoolLongName": "University of Mississippi",
+      "name": "Brent Stukes",
+      "normalizedName": "brent stukes",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "TR",
+      "jersey": "39",
+      "hometown": "Gaston, S.C.",
+      "highSchool": "Gray Collegiate Academy",
+      "previousSchool": "USC Upstate",
+      "hometownHighSchool": "Gaston, S.C. / Gray Collegiate Academy",
+      "profileUrl": "https://olemisssports.com/sports/baseball/roster/brent-stukes/6998",
+      "imageUrl": "https://olemisssports.com/images/2018/8/21/om_headshot_logo.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "6998",
+      "sources": [
+        "Mississippi Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Brent Stukes looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "JR / TR",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "TR",
+          "Pitcher"
+        ],
+        "sourceSummary": "Mississippi Athletics roster"
+      }
+    },
+    {
+      "id": "ole-miss-6980",
       "schoolSlug": "ole-miss",
       "school": "Mississippi",
       "schoolLongName": "University of Mississippi",
@@ -4510,14 +3073,14 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
-      "classYear": "R-SO",
-      "handedness": "JC",
+      "classYear": "JR",
+      "handedness": "1L",
       "jersey": "40",
       "hometown": "Madison, Miss.",
       "highSchool": "Germantown",
       "previousSchool": "Pearl River CC",
       "hometownHighSchool": "Madison, Miss. / Germantown",
-      "profileUrl": "https://olemisssports.com/sports/baseball/roster/jp-robertson/6162",
+      "profileUrl": "https://olemisssports.com/sports/baseball/roster/jp-robertson/6980",
       "imageUrl": "https://olemisssports.com/images/2026/2/6/JP_Robertson.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -4525,69 +3088,15 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "6162",
+      "rosterBioId": "6980",
       "sources": [
-        "Mississippi Athletics roster",
-        "Mississippi cumulative stats"
+        "Mississippi Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "6162",
-        "name": "JP Robertson",
-        "normalizedName": "jp robertson",
-        "jersey": "40",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/jp-robertson/6162",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/JP_Robertson.jpg",
-        "gamesPlayed": 22,
-        "gamesStarted": 1,
-        "appearances": 22,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 4.34,
-        "whip": 1.5,
-        "wins": 5,
-        "losses": 2,
-        "saves": 1,
-        "shutouts": 0,
-        "inningsPitched": 37.333333333333336,
-        "inningsPitchedDisplay": "37.1",
-        "hitsAllowed": 35,
-        "runsAllowed": 20,
-        "earnedRunsAllowed": 18,
-        "walksAllowed": 21,
-        "strikeouts": 49,
-        "doublesAllowed": 4,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 4,
-        "opponentsAtBats": 141,
-        "wildPitches": 1,
-        "hitBatters": 2,
-        "balks": 0,
-        "opponentsBattingAverage": 0.248,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "6162",
-        "name": "JP Robertson",
-        "normalizedName": "jp robertson",
-        "jersey": "40",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/jp-robertson/6162",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/JP_Robertson.jpg",
-        "gamesPlayed": 9,
-        "gamesStarted": 0,
-        "putouts": 2,
-        "assists": 5,
-        "errors": 1,
-        "fieldingPercentage": 0.875,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 3,
-        "caughtStealingBy": 2,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 8
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 18,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4595,54 +3104,54 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 71.02272727272727,
-          "Command": 26.66666666666667,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "JP Robertson looks like a RHP option who misses bats.",
+        "summary": "JP Robertson looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 4.34",
-          "WHIP 1.50",
-          "K/9 11.8"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.34"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.50"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "11.8"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "5.1"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "0.96"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "37.3"
+            "value": "0.0"
           }
         ],
-        "metaLine": "R-SO / JC",
+        "metaLine": "JR / 1L",
         "detailBadges": [
           "RHP",
-          "R-SO",
-          "JC",
+          "JR",
+          "1L",
           "Pitcher"
         ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats"
+        "sourceSummary": "Mississippi Athletics roster"
       }
     },
     {
-      "id": "ole-miss-6183",
+      "id": "ole-miss-6965",
       "schoolSlug": "ole-miss",
       "school": "Mississippi",
       "schoolLongName": "University of Mississippi",
@@ -4652,14 +3161,14 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
-      "classYear": "FR",
-      "handedness": "HS",
+      "classYear": "SO",
+      "handedness": "RS",
       "jersey": "43",
       "hometown": "Austin, Texas",
       "highSchool": "Vandegrift",
       "previousSchool": "",
       "hometownHighSchool": "Austin, Texas / Vandegrift",
-      "profileUrl": "https://olemisssports.com/sports/baseball/roster/evan-farrow/6183",
+      "profileUrl": "https://olemisssports.com/sports/baseball/roster/evan-farrow/6965",
       "imageUrl": "https://olemisssports.com/images/2026/2/6/Evan_Farrow.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -4667,7 +3176,7 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "6183",
+      "rosterBioId": "6965",
       "sources": [
         "Mississippi Athletics roster"
       ],
@@ -4719,6 +3228,358 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
             "value": "0.0"
           }
         ],
+        "metaLine": "SO / RS",
+        "detailBadges": [
+          "RHP",
+          "SO",
+          "RS",
+          "Pitcher"
+        ],
+        "sourceSummary": "Mississippi Athletics roster"
+      }
+    },
+    {
+      "id": "ole-miss-6979",
+      "schoolSlug": "ole-miss",
+      "school": "Mississippi",
+      "schoolLongName": "University of Mississippi",
+      "name": "Jake Reigert",
+      "normalizedName": "jake reigert",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "SO",
+      "handedness": "1L",
+      "jersey": "44",
+      "hometown": "Cottage Grove, Minn.",
+      "highSchool": "East Ridge",
+      "previousSchool": "",
+      "hometownHighSchool": "Cottage Grove, Minn. / East Ridge",
+      "profileUrl": "https://olemisssports.com/sports/baseball/roster/jake-reigert/6979",
+      "imageUrl": "https://olemisssports.com/images/2026/2/6/Jake_Reigert.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "6979",
+      "sources": [
+        "Mississippi Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Jake Reigert looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "SO / 1L",
+        "detailBadges": [
+          "RHP",
+          "SO",
+          "1L",
+          "Pitcher"
+        ],
+        "sourceSummary": "Mississippi Athletics roster"
+      }
+    },
+    {
+      "id": "ole-miss-6999",
+      "schoolSlug": "ole-miss",
+      "school": "Mississippi",
+      "schoolLongName": "University of Mississippi",
+      "name": "Eli Pillsbury",
+      "normalizedName": "eli pillsbury",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "",
+      "classYear": "SR",
+      "handedness": "TR",
+      "jersey": "45",
+      "hometown": "Newburgh, Ind.",
+      "highSchool": "Castle",
+      "previousSchool": "Jacksonville State",
+      "hometownHighSchool": "Newburgh, Ind. / Castle",
+      "profileUrl": "https://olemisssports.com/sports/baseball/roster/eli-pillsbury/6999",
+      "imageUrl": "https://olemisssports.com/images/2018/8/21/om_headshot_logo.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "6999",
+      "sources": [
+        "Mississippi Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Eli Pillsbury looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "SR / TR",
+        "detailBadges": [
+          "LHP",
+          "SR",
+          "TR",
+          "Pitcher"
+        ],
+        "sourceSummary": "Mississippi Athletics roster"
+      }
+    },
+    {
+      "id": "ole-miss-7000",
+      "schoolSlug": "ole-miss",
+      "school": "Mississippi",
+      "schoolLongName": "University of Mississippi",
+      "name": "Sean Carey",
+      "normalizedName": "sean carey",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "",
+      "classYear": "SR",
+      "handedness": "TR",
+      "jersey": "46",
+      "hometown": "Folsom, Calif.",
+      "highSchool": "Folsom",
+      "previousSchool": "Sacramento State",
+      "hometownHighSchool": "Folsom, Calif. / Folsom",
+      "profileUrl": "https://olemisssports.com/sports/baseball/roster/sean-carey/7000",
+      "imageUrl": "https://olemisssports.com/images/2018/8/21/om_headshot_logo.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "7000",
+      "sources": [
+        "Mississippi Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Sean Carey looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "SR / TR",
+        "detailBadges": [
+          "LHP",
+          "SR",
+          "TR",
+          "Pitcher"
+        ],
+        "sourceSummary": "Mississippi Athletics roster"
+      }
+    },
+    {
+      "id": "ole-miss-7001",
+      "schoolSlug": "ole-miss",
+      "school": "Mississippi",
+      "schoolLongName": "University of Mississippi",
+      "name": "Tucker Long",
+      "normalizedName": "tucker long",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "FR",
+      "handedness": "HS",
+      "jersey": "47",
+      "hometown": "Ottumwa, Iowa",
+      "highSchool": "Ottumwa",
+      "previousSchool": "",
+      "hometownHighSchool": "Ottumwa, Iowa / Ottumwa",
+      "profileUrl": "https://olemisssports.com/sports/baseball/roster/tucker-long/7001",
+      "imageUrl": "https://olemisssports.com/images/2018/8/21/om_headshot_logo.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "7001",
+      "sources": [
+        "Mississippi Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Tucker Long looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
         "metaLine": "FR / HS",
         "detailBadges": [
           "RHP",
@@ -4730,74 +3591,40 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
       }
     },
     {
-      "id": "ole-miss-6160",
+      "id": "ole-miss-7002",
       "schoolSlug": "ole-miss",
       "school": "Mississippi",
       "schoolLongName": "University of Mississippi",
-      "name": "Jake Reigert",
-      "normalizedName": "jake reigert",
+      "name": "Lucas Lawrence",
+      "normalizedName": "lucas lawrence",
       "compositeRole": "Pitcher",
       "role": "Pitcher",
-      "position": "RHP",
+      "position": "LHP",
       "positionLong": "",
-      "classYear": "R-FR",
-      "handedness": "RS",
-      "jersey": "44",
-      "hometown": "Cottage Grove, Minn.",
-      "highSchool": "East Ridge",
+      "classYear": "FR",
+      "handedness": "HS",
+      "jersey": "54",
+      "hometown": "Baton Rouge, La.",
+      "highSchool": "Catholic",
       "previousSchool": "",
-      "hometownHighSchool": "Cottage Grove, Minn. / East Ridge",
-      "profileUrl": "https://olemisssports.com/sports/baseball/roster/jake-reigert/6160",
-      "imageUrl": "https://olemisssports.com/images/2026/2/6/Jake_Reigert.jpg",
+      "hometownHighSchool": "Baton Rouge, La. / Catholic",
+      "profileUrl": "https://olemisssports.com/sports/baseball/roster/lucas-lawrence/7002",
+      "imageUrl": "https://olemisssports.com/images/2018/8/21/om_headshot_logo.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "6160",
+      "rosterBioId": "7002",
       "sources": [
-        "Mississippi Athletics roster",
-        "Mississippi cumulative stats"
+        "Mississippi Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "6160",
-        "name": "Jake Reigert",
-        "normalizedName": "jake reigert",
-        "jersey": "44",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/jake-reigert/6160",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Jake_Reigert.jpg",
-        "gamesPlayed": 1,
-        "gamesStarted": 0,
-        "appearances": 1,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 18,
-        "whip": 2,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 1,
-        "inningsPitchedDisplay": "1.0",
-        "hitsAllowed": 2,
-        "runsAllowed": 2,
-        "earnedRunsAllowed": 2,
-        "walksAllowed": 0,
-        "strikeouts": 2,
-        "doublesAllowed": 1,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 1,
-        "opponentsAtBats": 5,
-        "wildPitches": 0,
-        "hitBatters": 0,
-        "balks": 0,
-        "opponentsBattingAverage": 0.4,
-        "walksHits": 0
-      },
+      "pitchingStats": null,
       "fieldingStats": null,
       "evaluation": {
-        "score": 36,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4805,28 +3632,28 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 100,
-          "Command": 100,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Jake Reigert looks like a RHP option who misses bats and throws enough strikes.",
+        "summary": "Lucas Lawrence looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 18.00",
-          "WHIP 2.00",
-          "K/9 18.0"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "18.00"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "2.00"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "18.0"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
@@ -4834,309 +3661,25 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
           },
           {
             "label": "HR/9",
-            "value": "9.00"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "1.0"
+            "value": "0.0"
           }
         ],
-        "metaLine": "R-FR / RS",
-        "detailBadges": [
-          "RHP",
-          "R-FR",
-          "RS",
-          "Pitcher"
-        ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats"
-      }
-    },
-    {
-      "id": "ole-miss-6184",
-      "schoolSlug": "ole-miss",
-      "school": "Mississippi",
-      "schoolLongName": "University of Mississippi",
-      "name": "Wil Libbert",
-      "normalizedName": "wil libbert",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "",
-      "classYear": "SO",
-      "handedness": "TR",
-      "jersey": "45",
-      "hometown": "St. Thomas, Mo.",
-      "highSchool": "Blair Oaks",
-      "previousSchool": "Missouri",
-      "hometownHighSchool": "St. Thomas, Mo. / Blair Oaks",
-      "profileUrl": "https://olemisssports.com/sports/baseball/roster/wil-libbert/6184",
-      "imageUrl": "https://olemisssports.com/images/2026/2/6/Wil_Libbert.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "6184",
-      "sources": [
-        "Mississippi Athletics roster",
-        "Mississippi cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "6184",
-        "name": "Wil Libbert",
-        "normalizedName": "wil libbert",
-        "jersey": "45",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/wil-libbert/6184",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Wil_Libbert.jpg",
-        "gamesPlayed": 17,
-        "gamesStarted": 8,
-        "appearances": 17,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 6.19,
-        "whip": 1.65,
-        "wins": 2,
-        "losses": 2,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 48,
-        "inningsPitchedDisplay": "48.0",
-        "hitsAllowed": 56,
-        "runsAllowed": 37,
-        "earnedRunsAllowed": 33,
-        "walksAllowed": 23,
-        "strikeouts": 51,
-        "doublesAllowed": 6,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 10,
-        "opponentsAtBats": 188,
-        "wildPitches": 1,
-        "hitBatters": 3,
-        "balks": 1,
-        "opponentsBattingAverage": 0.298,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "6184",
-        "name": "Wil Libbert",
-        "normalizedName": "wil libbert",
-        "jersey": "45",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/wil-libbert/6184",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Wil_Libbert.jpg",
-        "gamesPlayed": 10,
-        "gamesStarted": 7,
-        "putouts": 4,
-        "assists": 9,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 4,
-        "caughtStealingBy": 4,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 13
-      },
-      "evaluation": {
-        "score": 14,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 50.56818181818182,
-          "Command": 24.347826086956523,
-          "Damage suppression": 0
-        },
-        "summary": "Wil Libbert looks like a LHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 6.19",
-          "WHIP 1.65",
-          "K/9 9.6"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "6.19"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.65"
-          },
-          {
-            "label": "K/9",
-            "value": "9.6"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.3"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.88"
-          },
-          {
-            "label": "IP",
-            "value": "48.0"
-          }
-        ],
-        "metaLine": "SO / TR",
+        "metaLine": "FR / HS",
         "detailBadges": [
           "LHP",
-          "SO",
-          "TR",
+          "FR",
+          "HS",
           "Pitcher"
         ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats"
+        "sourceSummary": "Mississippi Athletics roster"
       }
     },
     {
-      "id": "ole-miss-6158",
-      "schoolSlug": "ole-miss",
-      "school": "Mississippi",
-      "schoolLongName": "University of Mississippi",
-      "name": "Taylor Rabe",
-      "normalizedName": "taylor rabe",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "SO",
-      "handedness": "1L",
-      "jersey": "50",
-      "hometown": "Greenville, S.C.",
-      "highSchool": "Greenville Senior",
-      "previousSchool": "",
-      "hometownHighSchool": "Greenville, S.C. / Greenville Senior",
-      "profileUrl": "https://olemisssports.com/sports/baseball/roster/taylor-rabe/6158",
-      "imageUrl": "https://olemisssports.com/images/2026/2/6/Taylor_Rabe.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "6158",
-      "sources": [
-        "Mississippi Athletics roster",
-        "Mississippi cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "6158",
-        "name": "Taylor Rabe",
-        "normalizedName": "taylor rabe",
-        "jersey": "50",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/taylor-rabe/6158",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Taylor_Rabe.jpg",
-        "gamesPlayed": 17,
-        "gamesStarted": 11,
-        "appearances": 17,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 3.55,
-        "whip": 1.03,
-        "wins": 5,
-        "losses": 3,
-        "saves": 2,
-        "shutouts": 0,
-        "inningsPitched": 76,
-        "inningsPitchedDisplay": "76.0",
-        "hitsAllowed": 63,
-        "runsAllowed": 30,
-        "earnedRunsAllowed": 30,
-        "walksAllowed": 15,
-        "strikeouts": 105,
-        "doublesAllowed": 7,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 12,
-        "opponentsAtBats": 285,
-        "wildPitches": 2,
-        "hitBatters": 6,
-        "balks": 1,
-        "opponentsBattingAverage": 0.221,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "6158",
-        "name": "Taylor Rabe",
-        "normalizedName": "taylor rabe",
-        "jersey": "50",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/taylor-rabe/6158",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Taylor_Rabe.jpg",
-        "gamesPlayed": 12,
-        "gamesStarted": 8,
-        "putouts": 4,
-        "assists": 13,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 5,
-        "caughtStealingBy": 1,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 17
-      },
-      "evaluation": {
-        "score": 31,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 76.67464114832536,
-          "Command": 100,
-          "Damage suppression": 0
-        },
-        "summary": "Taylor Rabe looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
-        "summaryMetrics": [
-          "ERA 3.55",
-          "WHIP 1.03",
-          "K/9 12.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.55"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.03"
-          },
-          {
-            "label": "K/9",
-            "value": "12.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "1.8"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.42"
-          },
-          {
-            "label": "IP",
-            "value": "76.0"
-          }
-        ],
-        "metaLine": "SO / 1L",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "1L",
-          "Pitcher"
-        ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats"
-      }
-    },
-    {
-      "id": "ole-miss-6185",
+      "id": "ole-miss-6976",
       "schoolSlug": "ole-miss",
       "school": "Mississippi",
       "schoolLongName": "University of Mississippi",
@@ -5146,14 +3689,14 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
-      "classYear": "FR",
-      "handedness": "HS",
+      "classYear": "SO",
+      "handedness": "1L",
       "jersey": "55",
       "hometown": "Sumrall, Miss.",
       "highSchool": "Sumrall",
       "previousSchool": "",
       "hometownHighSchool": "Sumrall, Miss. / Sumrall",
-      "profileUrl": "https://olemisssports.com/sports/baseball/roster/leo-odom/6185",
+      "profileUrl": "https://olemisssports.com/sports/baseball/roster/leo-odom/6976",
       "imageUrl": "https://olemisssports.com/images/2026/2/6/Leo_Odom.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -5161,69 +3704,15 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "6185",
+      "rosterBioId": "6976",
       "sources": [
-        "Mississippi Athletics roster",
-        "Mississippi cumulative stats"
+        "Mississippi Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "6185",
-        "name": "Leo Odom",
-        "normalizedName": "leo odom",
-        "jersey": "55",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/leo-odom/6185",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Leo_Odom.jpg",
-        "gamesPlayed": 6,
-        "gamesStarted": 0,
-        "appearances": 6,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 7.5,
-        "whip": 1.33,
-        "wins": 1,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 6,
-        "inningsPitchedDisplay": "6.0",
-        "hitsAllowed": 6,
-        "runsAllowed": 5,
-        "earnedRunsAllowed": 5,
-        "walksAllowed": 2,
-        "strikeouts": 12,
-        "doublesAllowed": 2,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 1,
-        "opponentsAtBats": 24,
-        "wildPitches": 1,
-        "hitBatters": 1,
-        "balks": 0,
-        "opponentsBattingAverage": 0.25,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "6185",
-        "name": "Leo Odom",
-        "normalizedName": "leo odom",
-        "jersey": "55",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/leo-odom/6185",
-        "imageUrl": "https://olemisssports.com/images/2026/2/6/Leo_Odom.jpg",
-        "gamesPlayed": 1,
-        "gamesStarted": 0,
-        "putouts": 1,
-        "assists": 1,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 2
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 36,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5231,206 +3720,156 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 100,
-          "Command": 100,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Leo Odom looks like a RHP option who misses bats and throws enough strikes.",
+        "summary": "Leo Odom looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 7.50",
-          "WHIP 1.33",
-          "K/9 18.0"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.50"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.33"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "18.0"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "3.0"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.50"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "6.0"
+            "value": "0.0"
           }
         ],
-        "metaLine": "FR / HS",
+        "metaLine": "SO / 1L",
         "detailBadges": [
           "RHP",
-          "FR",
-          "HS",
+          "SO",
+          "1L",
           "Pitcher"
         ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats"
+        "sourceSummary": "Mississippi Athletics roster"
+      }
+    },
+    {
+      "id": "ole-miss-7003",
+      "schoolSlug": "ole-miss",
+      "school": "Mississippi",
+      "schoolLongName": "University of Mississippi",
+      "name": "Kendall Hoffman",
+      "normalizedName": "kendall hoffman",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "TR",
+      "jersey": "95",
+      "hometown": "Seminole, Fla.",
+      "highSchool": "Seminole",
+      "previousSchool": "Houston",
+      "hometownHighSchool": "Seminole, Fla. / Seminole",
+      "profileUrl": "https://olemisssports.com/sports/baseball/roster/kendall-hoffman/7003",
+      "imageUrl": "https://olemisssports.com/images/2018/8/21/om_headshot_logo.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "7003",
+      "sources": [
+        "Mississippi Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Kendall Hoffman looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "JR / TR",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "TR",
+          "Pitcher"
+        ],
+        "sourceSummary": "Mississippi Athletics roster"
       }
     }
   ],
   "playerBoard": {
     "source": "Mississippi Athletics roster + cumulative stats / ESPN roster",
     "note": "This Mississippi-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but Mississippi's public ESPN roster feed did not line up cleanly with the current school-site roster.",
-    "totalPlayers": 38,
+    "totalPlayers": 42,
     "roleCounts": {
-      "Hitter": 16,
-      "Pitcher": 22
+      "Hitter": 19,
+      "Pitcher": 23
     },
     "players": [
       {
-        "id": "ole-miss-6159",
-        "name": "Brayden Randle",
+        "id": "ole-miss-6984",
+        "name": "Christian Doty",
         "school": "Mississippi",
         "role": "Hitter",
         "position": "IF",
-        "classYear": "JR",
-        "handedness": "2L",
-        "score": 26,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Brayden Randle gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .259",
-          "OBP .342",
-          "SLG .383"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".259"
-          },
-          {
-            "label": "OBP",
-            "value": ".342"
-          },
-          {
-            "label": "SLG",
-            "value": ".383"
-          },
-          {
-            "label": "HR",
-            "value": "4"
-          },
-          {
-            "label": "RBI",
-            "value": "23"
-          },
-          {
-            "label": "SB",
-            "value": "5"
-          }
-        ],
-        "components": {
-          "On-base": 34.44444444444444,
-          "Power": 16.578947368421055,
-          "Contact": 24.375000000000004,
-          "Discipline": 33.33333333333333,
-          "Speed": 16.666666666666664
-        },
-        "metaLine": "JR / 2L",
-        "detailBadges": [
-          "IF",
-          "JR",
-          "2L",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Mississippi Athletics roster",
-          "Mississippi cumulative stats"
-        ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats",
-        "schoolSlug": "ole-miss",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/brayden-randle/6159",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "ole-miss-6156",
-        "name": "Brett Moseley",
-        "school": "Mississippi",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "R-FR",
-        "handedness": "RS",
-        "score": 29,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Brett Moseley gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .212",
-          "OBP .366",
-          "SLG .485"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".212"
-          },
-          {
-            "label": "OBP",
-            "value": ".366"
-          },
-          {
-            "label": "SLG",
-            "value": ".485"
-          },
-          {
-            "label": "HR",
-            "value": "3"
-          },
-          {
-            "label": "RBI",
-            "value": "8"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
-        "components": {
-          "On-base": 47.77777777777776,
-          "Power": 43.42105263157895,
-          "Contact": 0,
-          "Discipline": 12.865497076023386,
-          "Speed": 3.3333333333333335
-        },
-        "metaLine": "R-FR / RS",
-        "detailBadges": [
-          "OF",
-          "R-FR",
-          "RS",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Mississippi Athletics roster",
-          "Mississippi cumulative stats"
-        ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats",
-        "schoolSlug": "ole-miss",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/brett-moseley/6156",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "ole-miss-6167",
-        "name": "Bryden Bull",
-        "school": "Mississippi",
-        "role": "Hitter",
-        "position": "1B/OF",
         "classYear": "FR",
         "handedness": "HS",
         "score": 0,
@@ -5438,7 +3877,7 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Bryden Bull gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Christian Doty gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG --",
           "OBP --",
@@ -5479,7 +3918,7 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         },
         "metaLine": "FR / HS",
         "detailBadges": [
-          "1B/OF",
+          "IF",
           "FR",
           "HS",
           "Rostered"
@@ -5490,40 +3929,40 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "sourceSummary": "Mississippi Athletics roster",
         "schoolSlug": "ole-miss",
         "compositeRole": "Rostered",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/bryden-bull/6167",
+        "profileUrl": "https://olemisssports.com/sports/baseball/roster/christian-doty/6984",
         "espnAthleteId": ""
       },
       {
-        "id": "ole-miss-6168",
-        "name": "Cannon Goldin",
+        "id": "ole-miss-6983",
+        "name": "Winston Pennant",
         "school": "Mississippi",
         "role": "Hitter",
         "position": "OF",
         "classYear": "FR",
         "handedness": "HS",
-        "score": 7,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Cannon Goldin gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Winston Pennant gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .200",
-          "OBP .308",
-          "SLG .218"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".200"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".308"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".218"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -5531,7 +3970,7 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
           },
           {
             "label": "RBI",
-            "value": "9"
+            "value": "0"
           },
           {
             "label": "SB",
@@ -5539,10 +3978,10 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
           }
         ],
         "components": {
-          "On-base": 15.55555555555554,
+          "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 14.814814814814808,
+          "Discipline": 0,
           "Speed": 0
         },
         "metaLine": "FR / HS",
@@ -5550,126 +3989,56 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
           "OF",
           "FR",
           "HS",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "Mississippi Athletics roster",
-          "Mississippi cumulative stats"
+          "Mississippi Athletics roster"
         ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats",
+        "sourceSummary": "Mississippi Athletics roster",
         "schoolSlug": "ole-miss",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/cannon-goldin/6168",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://olemisssports.com/sports/baseball/roster/winston-pennant/6983",
         "espnAthleteId": ""
       },
       {
-        "id": "ole-miss-6157",
-        "name": "Owen Paino",
+        "id": "ole-miss-6962",
+        "name": "Bryden Bull",
         "school": "Mississippi",
         "role": "Hitter",
-        "position": "IF",
+        "position": "OF",
         "classYear": "SO",
-        "handedness": "1L",
-        "score": 28,
+        "handedness": "RS",
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Owen Paino gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Bryden Bull gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .244",
-          "OBP .373",
-          "SLG .407"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".244"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".373"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".407"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "5"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "24"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
-        "components": {
-          "On-base": 51.66666666666665,
-          "Power": 22.894736842105257,
-          "Contact": 14.999999999999996,
-          "Discipline": 18.930041152263367,
-          "Speed": 3.3333333333333335
-        },
-        "metaLine": "SO / 1L",
-        "detailBadges": [
-          "IF",
-          "SO",
-          "1L",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Mississippi Athletics roster",
-          "Mississippi cumulative stats"
-        ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats",
-        "schoolSlug": "ole-miss",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/owen-paino/6157",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "ole-miss-6169",
-        "name": "Topher Jones",
-        "school": "Mississippi",
-        "role": "Hitter",
-        "position": "IF",
-        "classYear": "SO",
-        "handedness": "JC",
-        "score": 22,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Topher Jones gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .217",
-          "OBP .365",
-          "SLG .400"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".217"
-          },
-          {
-            "label": "OBP",
-            "value": ".365"
-          },
-          {
-            "label": "SLG",
-            "value": ".400"
-          },
-          {
-            "label": "HR",
-            "value": "3"
-          },
-          {
-            "label": "RBI",
-            "value": "5"
+            "value": "0"
           },
           {
             "label": "SB",
@@ -5677,312 +4046,579 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
           }
         ],
         "components": {
-          "On-base": 47.22222222222221,
-          "Power": 21.052631578947377,
+          "On-base": 0,
+          "Power": 0,
           "Contact": 0,
-          "Discipline": 11.965811965811964,
+          "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "SO / JC",
+        "metaLine": "SO / RS",
         "detailBadges": [
-          "IF",
+          "OF",
           "SO",
-          "JC",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Mississippi Athletics roster",
-          "Mississippi cumulative stats"
-        ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats",
-        "schoolSlug": "ole-miss",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/topher-jones/6169",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "ole-miss-6163",
-        "name": "Tate Sirmans",
-        "school": "Mississippi",
-        "role": "Hitter",
-        "position": "UT",
-        "classYear": "R-FR",
-        "handedness": "RS",
-        "score": 7,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Tate Sirmans gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .178",
-          "OBP .275",
-          "SLG .356"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".178"
-          },
-          {
-            "label": "OBP",
-            "value": ".275"
-          },
-          {
-            "label": "SLG",
-            "value": ".356"
-          },
-          {
-            "label": "HR",
-            "value": "2"
-          },
-          {
-            "label": "RBI",
-            "value": "3"
-          },
-          {
-            "label": "SB",
-            "value": "3"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 9.47368421052631,
-          "Contact": 0,
-          "Discipline": 22.22222222222222,
-          "Speed": 10
-        },
-        "metaLine": "R-FR / RS",
-        "detailBadges": [
-          "UT",
-          "R-FR",
           "RS",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "Mississippi Athletics roster",
-          "Mississippi cumulative stats"
+          "Mississippi Athletics roster"
         ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats",
+        "sourceSummary": "Mississippi Athletics roster",
         "schoolSlug": "ole-miss",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/tate-sirmans/6163",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://olemisssports.com/sports/baseball/roster/bryden-bull/6962",
         "espnAthleteId": ""
       },
       {
-        "id": "ole-miss-6151",
-        "name": "Hayden Federico",
+        "id": "ole-miss-6969",
+        "name": "Cannon Goldin",
         "school": "Mississippi",
         "role": "Hitter",
         "position": "OF",
         "classYear": "SO",
         "handedness": "1L",
-        "score": 57,
+        "score": 0,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
-        "summary": "Hayden Federico profiles as a OF piece who gets on base at a high clip and controls at-bats.",
+        "summary": "Cannon Goldin gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .302",
-          "OBP .429",
-          "SLG .406"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".302"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".429"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".406"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "4"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "29"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "5"
+            "value": "0"
           }
         ],
         "components": {
-          "On-base": 82.77777777777776,
-          "Power": 22.631578947368432,
-          "Contact": 51.24999999999999,
-          "Discipline": 99.30555555555554,
-          "Speed": 16.666666666666664
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
         "metaLine": "SO / 1L",
         "detailBadges": [
           "OF",
           "SO",
           "1L",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "Mississippi Athletics roster",
-          "Mississippi cumulative stats"
+          "Mississippi Athletics roster"
         ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats",
+        "sourceSummary": "Mississippi Athletics roster",
         "schoolSlug": "ole-miss",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/hayden-federico/6151",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://olemisssports.com/sports/baseball/roster/cannon-goldin/6969",
         "espnAthleteId": ""
       },
       {
-        "id": "ole-miss-6164",
-        "name": "Cade Townsend",
-        "school": "Mississippi",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "1L",
-        "score": 25,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Cade Townsend looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
-        "summaryMetrics": [
-          "ERA 3.94",
-          "WHIP 1.20",
-          "K/9 12.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.94"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.20"
-          },
-          {
-            "label": "K/9",
-            "value": "12.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.1"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.41"
-          },
-          {
-            "label": "IP",
-            "value": "64.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 76.13636363636364,
-          "Command": 60,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / 1L",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "1L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Mississippi Athletics roster",
-          "Mississippi cumulative stats"
-        ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats",
-        "schoolSlug": "ole-miss",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/cade-townsend/6164",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "ole-miss-6170",
-        "name": "Dom Decker",
+        "id": "ole-miss-6977",
+        "name": "Owen Paino",
         "school": "Mississippi",
         "role": "Hitter",
         "position": "IF",
         "classYear": "JR",
-        "handedness": "TR",
-        "score": 54,
+        "handedness": "2L",
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Dom Decker profiles as a IF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
+        "summary": "Owen Paino gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .270",
-          "OBP .409",
-          "SLG .429"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".270"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".409"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".429"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "10"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "34"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "13"
+            "value": "0"
           }
         ],
         "components": {
-          "On-base": 71.66666666666664,
-          "Power": 28.68421052631579,
-          "Contact": 31.25000000000001,
-          "Discipline": 100,
-          "Speed": 43.333333333333336
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "metaLine": "JR / TR",
+        "metaLine": "JR / 2L",
         "detailBadges": [
           "IF",
           "JR",
-          "TR",
-          "Hitter"
+          "2L",
+          "Rostered"
         ],
         "leaderboards": [
-          "Mississippi Athletics roster",
-          "Mississippi cumulative stats"
+          "Mississippi Athletics roster"
         ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats",
+        "sourceSummary": "Mississippi Athletics roster",
         "schoolSlug": "ole-miss",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/dom-decker/6170",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://olemisssports.com/sports/baseball/roster/owen-paino/6977",
         "espnAthleteId": ""
       },
       {
-        "id": "ole-miss-6155",
+        "id": "ole-miss-6974",
+        "name": "Topher Jones",
+        "school": "Mississippi",
+        "role": "Hitter",
+        "position": "IF",
+        "classYear": "JR",
+        "handedness": "1L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Topher Jones gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "JR / 1L",
+        "detailBadges": [
+          "IF",
+          "JR",
+          "1L",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Mississippi Athletics roster"
+        ],
+        "sourceSummary": "Mississippi Athletics roster",
+        "schoolSlug": "ole-miss",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://olemisssports.com/sports/baseball/roster/topher-jones/6974",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "ole-miss-6985",
+        "name": "Brody Wilson",
+        "school": "Mississippi",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "FR",
+        "handedness": "HS",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Brody Wilson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / HS",
+        "detailBadges": [
+          "OF",
+          "FR",
+          "HS",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Mississippi Athletics roster"
+        ],
+        "sourceSummary": "Mississippi Athletics roster",
+        "schoolSlug": "ole-miss",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://olemisssports.com/sports/baseball/roster/brody-wilson/6985",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "ole-miss-6966",
+        "name": "Hayden Federico",
+        "school": "Mississippi",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "JR",
+        "handedness": "2L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Hayden Federico gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "JR / 2L",
+        "detailBadges": [
+          "OF",
+          "JR",
+          "2L",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Mississippi Athletics roster"
+        ],
+        "sourceSummary": "Mississippi Athletics roster",
+        "schoolSlug": "ole-miss",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://olemisssports.com/sports/baseball/roster/hayden-federico/6966",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "ole-miss-6986",
+        "name": "Trey Hawsey",
+        "school": "Mississippi",
+        "role": "Hitter",
+        "position": "1B",
+        "classYear": "JR",
+        "handedness": "TR",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Trey Hawsey gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "JR / TR",
+        "detailBadges": [
+          "1B",
+          "JR",
+          "TR",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Mississippi Athletics roster"
+        ],
+        "sourceSummary": "Mississippi Athletics roster",
+        "schoolSlug": "ole-miss",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://olemisssports.com/sports/baseball/roster/trey-hawsey/6986",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "ole-miss-6963",
+        "name": "Dom Decker",
+        "school": "Mississippi",
+        "role": "Hitter",
+        "position": "IF",
+        "classYear": "SR",
+        "handedness": "1L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Dom Decker gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "SR / 1L",
+        "detailBadges": [
+          "IF",
+          "SR",
+          "1L",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Mississippi Athletics roster"
+        ],
+        "sourceSummary": "Mississippi Athletics roster",
+        "schoolSlug": "ole-miss",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://olemisssports.com/sports/baseball/roster/dom-decker/6963",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "ole-miss-6987",
+        "name": "Brady Dallimore",
+        "school": "Mississippi",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "SO",
+        "handedness": "TR",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Brady Dallimore gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "SO / TR",
+        "detailBadges": [
+          "C",
+          "SO",
+          "TR",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Mississippi Athletics roster"
+        ],
+        "sourceSummary": "Mississippi Athletics roster",
+        "schoolSlug": "ole-miss",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://olemisssports.com/sports/baseball/roster/brady-dallimore/6987",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "ole-miss-6973",
         "name": "Cooper Johnson",
         "school": "Mississippi",
         "role": "Pitcher",
         "position": "LHP",
-        "classYear": "SO",
+        "classYear": "JR",
         "handedness": "1L",
         "score": 0,
         "fit": {
@@ -6028,10 +4664,10 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SO / 1L",
+        "metaLine": "JR / 1L",
         "detailBadges": [
           "LHP",
-          "SO",
+          "JR",
           "1L",
           "Pitcher"
         ],
@@ -6041,40 +4677,40 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "sourceSummary": "Mississippi Athletics roster",
         "schoolSlug": "ole-miss",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/cooper-johnson/6155",
+        "profileUrl": "https://olemisssports.com/sports/baseball/roster/cooper-johnson/6973",
         "espnAthleteId": ""
       },
       {
-        "id": "ole-miss-6171",
+        "id": "ole-miss-6978",
         "name": "Kelven Perera",
         "school": "Mississippi",
         "role": "Hitter",
         "position": "C",
-        "classYear": "FR",
-        "handedness": "HS",
-        "score": 5,
+        "classYear": "SO",
+        "handedness": "1L",
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Kelven Perera gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .182",
-          "OBP .308",
-          "SLG .182"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".182"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".308"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".182"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -6082,7 +4718,7 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
           },
           {
             "label": "RBI",
-            "value": "2"
+            "value": "0"
           },
           {
             "label": "SB",
@@ -6090,112 +4726,178 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
           }
         ],
         "components": {
-          "On-base": 15.55555555555554,
+          "On-base": 0,
           "Power": 0,
           "Contact": 0,
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "FR / HS",
+        "metaLine": "SO / 1L",
         "detailBadges": [
           "C",
-          "FR",
-          "HS",
-          "Hitter"
+          "SO",
+          "1L",
+          "Rostered"
         ],
         "leaderboards": [
-          "Mississippi Athletics roster",
-          "Mississippi cumulative stats"
+          "Mississippi Athletics roster"
         ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats",
+        "sourceSummary": "Mississippi Athletics roster",
         "schoolSlug": "ole-miss",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/kelven-perera/6171",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://olemisssports.com/sports/baseball/roster/kelven-perera/6978",
         "espnAthleteId": ""
       },
       {
-        "id": "ole-miss-6172",
-        "name": "Marko Sipila",
+        "id": "ole-miss-6988",
+        "name": "Caleb Koskie",
         "school": "Mississippi",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "JR",
         "handedness": "TR",
-        "score": 28,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Marko Sipila looks like a RHP option who misses bats and throws enough strikes and keeps traffic under control.",
-        "summaryMetrics": [
-          "ERA 4.50",
-          "WHIP 1.17",
-          "K/9 13.5"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.50"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.17"
-          },
-          {
-            "label": "K/9",
-            "value": "13.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.50"
-          },
-          {
-            "label": "IP",
-            "value": "6.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 86.36363636363636,
-          "Command": 70,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / TR",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "TR",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Mississippi Athletics roster",
-          "Mississippi cumulative stats"
-        ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats",
-        "schoolSlug": "ole-miss",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/marko-sipila/6172",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "ole-miss-6173",
-        "name": "Luke Romine",
-        "school": "Mississippi",
-        "role": "Pitcher",
-        "position": "1B/LHP",
-        "classYear": "FR",
-        "handedness": "HS",
         "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Luke Romine looks like a 1B/LHP option who throws enough strikes.",
+        "summary": "Caleb Koskie gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "JR / TR",
+        "detailBadges": [
+          "OF",
+          "JR",
+          "TR",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Mississippi Athletics roster"
+        ],
+        "sourceSummary": "Mississippi Athletics roster",
+        "schoolSlug": "ole-miss",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://olemisssports.com/sports/baseball/roster/caleb-koskie/6988",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "ole-miss-6981",
+        "name": "Luke Romine",
+        "school": "Mississippi",
+        "role": "Hitter",
+        "position": "1B/OF",
+        "classYear": "SO",
+        "handedness": "1L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Luke Romine gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "SO / 1L",
+        "detailBadges": [
+          "1B/OF",
+          "SO",
+          "1L",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Mississippi Athletics roster"
+        ],
+        "sourceSummary": "Mississippi Athletics roster",
+        "schoolSlug": "ole-miss",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://olemisssports.com/sports/baseball/roster/luke-romine/6981",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "ole-miss-6972",
+        "name": "Walker Hooks",
+        "school": "Mississippi",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "JR",
+        "handedness": "2L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Walker Hooks looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -6234,73 +4936,208 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "FR / HS",
+        "metaLine": "JR / 2L",
         "detailBadges": [
-          "1B/LHP",
-          "FR",
-          "HS",
+          "LHP",
+          "JR",
+          "2L",
           "Pitcher"
         ],
         "leaderboards": [
-          "Mississippi Athletics roster",
-          "Mississippi cumulative stats"
+          "Mississippi Athletics roster"
         ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats",
+        "sourceSummary": "Mississippi Athletics roster",
         "schoolSlug": "ole-miss",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/luke-romine/6173",
+        "profileUrl": "https://olemisssports.com/sports/baseball/roster/walker-hooks/6972",
         "espnAthleteId": ""
       },
       {
-        "id": "ole-miss-6154",
-        "name": "Walker Hooks",
+        "id": "ole-miss-6989",
+        "name": "Charlie Foster",
         "school": "Mississippi",
         "role": "Pitcher",
         "position": "LHP",
-        "classYear": "SO",
-        "handedness": "1L",
-        "score": 24,
+        "classYear": "JR",
+        "handedness": "TR",
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Walker Hooks looks like a LHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
+        "summary": "Charlie Foster looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 3.24",
-          "WHIP 0.93",
-          "K/9 9.7"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.24"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "0.93"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "9.7"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "1.9"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.23"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "58.3"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 51.99999999999999,
-          "Command": 84.99999999999999,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / TR",
+        "detailBadges": [
+          "LHP",
+          "JR",
+          "TR",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Mississippi Athletics roster"
+        ],
+        "sourceSummary": "Mississippi Athletics roster",
+        "schoolSlug": "ole-miss",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://olemisssports.com/sports/baseball/roster/charlie-foster/6989",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "ole-miss-6975",
+        "name": "Owen Kelly",
+        "school": "Mississippi",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "1L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Owen Kelly looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / 1L",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "1L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Mississippi Athletics roster"
+        ],
+        "sourceSummary": "Mississippi Athletics roster",
+        "schoolSlug": "ole-miss",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://olemisssports.com/sports/baseball/roster/owen-kelly/6975",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "ole-miss-6968",
+        "name": "Grayson Gibson",
+        "school": "Mississippi",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "SO",
+        "handedness": "1L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Grayson Gibson looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
         "metaLine": "SO / 1L",
@@ -6311,134 +5148,64 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
           "Pitcher"
         ],
         "leaderboards": [
-          "Mississippi Athletics roster",
-          "Mississippi cumulative stats"
+          "Mississippi Athletics roster"
         ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats",
+        "sourceSummary": "Mississippi Athletics roster",
         "schoolSlug": "ole-miss",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/walker-hooks/6154",
+        "profileUrl": "https://olemisssports.com/sports/baseball/roster/grayson-gibson/6968",
         "espnAthleteId": ""
       },
       {
-        "id": "ole-miss-6161",
-        "name": "Collin Reuter",
-        "school": "Mississippi",
-        "role": "Hitter",
-        "position": "C/IF",
-        "classYear": "SR",
-        "handedness": "1L",
-        "score": 33,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Collin Reuter gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .264",
-          "OBP .360",
-          "SLG .483"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".264"
-          },
-          {
-            "label": "OBP",
-            "value": ".360"
-          },
-          {
-            "label": "SLG",
-            "value": ".483"
-          },
-          {
-            "label": "HR",
-            "value": "8"
-          },
-          {
-            "label": "RBI",
-            "value": "40"
-          },
-          {
-            "label": "SB",
-            "value": "2"
-          }
-        ],
-        "components": {
-          "On-base": 44.44444444444443,
-          "Power": 42.89473684210526,
-          "Contact": 27.500000000000007,
-          "Discipline": 11.263318112633176,
-          "Speed": 6.666666666666667
-        },
-        "metaLine": "SR / 1L",
-        "detailBadges": [
-          "C/IF",
-          "SR",
-          "1L",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Mississippi Athletics roster",
-          "Mississippi cumulative stats"
-        ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats",
-        "schoolSlug": "ole-miss",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/collin-reuter/6161",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "ole-miss-6174",
-        "name": "Owen Kelly",
+        "id": "ole-miss-6990",
+        "name": "Andrew Rogovic",
         "school": "Mississippi",
         "role": "Pitcher",
         "position": "RHP",
         "classYear": "JR",
         "handedness": "TR",
-        "score": 17,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Owen Kelly looks like a RHP option who misses bats.",
+        "summary": "Andrew Rogovic looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 4.25",
-          "WHIP 1.42",
-          "K/9 9.4"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.25"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.42"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "9.4"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "3.0"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "0.61"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "29.7"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 49.1317671092952,
-          "Command": 42.00000000000001,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
         "metaLine": "JR / TR",
@@ -6449,261 +5216,53 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
           "Pitcher"
         ],
         "leaderboards": [
-          "Mississippi Athletics roster",
-          "Mississippi cumulative stats"
+          "Mississippi Athletics roster"
         ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats",
+        "sourceSummary": "Mississippi Athletics roster",
         "schoolSlug": "ole-miss",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/owen-kelly/6174",
+        "profileUrl": "https://olemisssports.com/sports/baseball/roster/andrew-rogovic/6990",
         "espnAthleteId": ""
       },
       {
-        "id": "ole-miss-6175",
-        "name": "Patrick Collopy",
-        "school": "Mississippi",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "JR",
-        "handedness": "JC",
-        "score": 14,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Patrick Collopy looks like a LHP option who limits runs and misses bats.",
-        "summaryMetrics": [
-          "ERA 0.00",
-          "WHIP 1.71",
-          "K/9 11.6"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "0.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.71"
-          },
-          {
-            "label": "K/9",
-            "value": "11.6"
-          },
-          {
-            "label": "BB/9",
-            "value": "11.6"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "2.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 68.83116883116884,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / JC",
-        "detailBadges": [
-          "LHP",
-          "JR",
-          "JC",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Mississippi Athletics roster",
-          "Mississippi cumulative stats"
-        ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats",
-        "schoolSlug": "ole-miss",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/patrick-collopy/6175",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "ole-miss-6148",
-        "name": "Hudson Calhoun",
-        "school": "Mississippi",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "2L",
-        "score": 21,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Hudson Calhoun looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 4.05",
-          "WHIP 1.35",
-          "K/9 12.9"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.05"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.35"
-          },
-          {
-            "label": "K/9",
-            "value": "12.9"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.54"
-          },
-          {
-            "label": "IP",
-            "value": "46.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 81.1038961038961,
-          "Command": 31.538461538461544,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / 2L",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "2L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Mississippi Athletics roster",
-          "Mississippi cumulative stats"
-        ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats",
-        "schoolSlug": "ole-miss",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/hudson-calhoun/6148",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "ole-miss-6150",
-        "name": "Austin Fawley",
-        "school": "Mississippi",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "JR",
-        "handedness": "1L",
-        "score": 29,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Austin Fawley gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .234",
-          "OBP .356",
-          "SLG .489"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".234"
-          },
-          {
-            "label": "OBP",
-            "value": ".356"
-          },
-          {
-            "label": "SLG",
-            "value": ".489"
-          },
-          {
-            "label": "HR",
-            "value": "13"
-          },
-          {
-            "label": "RBI",
-            "value": "40"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 42.2222222222222,
-          "Power": 44.473684210526315,
-          "Contact": 8.750000000000007,
-          "Discipline": 19.971870604781998,
-          "Speed": 0
-        },
-        "metaLine": "JR / 1L",
-        "detailBadges": [
-          "C",
-          "JR",
-          "1L",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Mississippi Athletics roster",
-          "Mississippi cumulative stats"
-        ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats",
-        "schoolSlug": "ole-miss",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/austin-fawley/6150",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "ole-miss-6176",
-        "name": "Daniel Pacella",
+        "id": "ole-miss-6991",
+        "name": "Blake Fields",
         "school": "Mississippi",
         "role": "Hitter",
         "position": "OF",
-        "classYear": "SR",
+        "classYear": "SO",
         "handedness": "TR",
-        "score": 10,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Daniel Pacella gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Blake Fields gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .152",
-          "OBP .309",
-          "SLG .364"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".152"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".309"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".364"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "4"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "15"
+            "value": "0"
           },
           {
             "label": "SB",
@@ -6711,37 +5270,104 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
           }
         ],
         "components": {
-          "On-base": 16.111111111111097,
-          "Power": 11.57894736842105,
+          "On-base": 0,
+          "Power": 0,
           "Contact": 0,
-          "Discipline": 14.814814814814808,
+          "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "SR / TR",
+        "metaLine": "SO / TR",
         "detailBadges": [
           "OF",
-          "SR",
+          "SO",
           "TR",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "Mississippi Athletics roster",
-          "Mississippi cumulative stats"
+          "Mississippi Athletics roster"
         ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats",
+        "sourceSummary": "Mississippi Athletics roster",
         "schoolSlug": "ole-miss",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/daniel-pacella/6176",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://olemisssports.com/sports/baseball/roster/blake-fields/6991",
         "espnAthleteId": ""
       },
       {
-        "id": "ole-miss-5688",
+        "id": "ole-miss-6992",
+        "name": "Jason Fultz",
+        "school": "Mississippi",
+        "role": "Hitter",
+        "position": "IF",
+        "classYear": "SO",
+        "handedness": "TR",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jason Fultz gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "SO / TR",
+        "detailBadges": [
+          "IF",
+          "SO",
+          "TR",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Mississippi Athletics roster"
+        ],
+        "sourceSummary": "Mississippi Athletics roster",
+        "schoolSlug": "ole-miss",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://olemisssports.com/sports/baseball/roster/jason-fultz/6992",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "ole-miss-6964",
         "name": "Hunter Elliott",
         "school": "Mississippi",
         "role": "Pitcher",
         "position": "LHP",
-        "classYear": "JR",
-        "handedness": "3L",
+        "classYear": "SR",
+        "handedness": "4L",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -6786,11 +5412,11 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "JR / 3L",
+        "metaLine": "SR / 4L",
         "detailBadges": [
           "LHP",
-          "JR",
-          "3L",
+          "SR",
+          "4L",
           "Pitcher"
         ],
         "leaderboards": [
@@ -6799,335 +5425,263 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "sourceSummary": "Mississippi Athletics roster",
         "schoolSlug": "ole-miss",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/hunter-elliott/5688",
+        "profileUrl": "https://olemisssports.com/sports/baseball/roster/hunter-elliott/6964",
         "espnAthleteId": ""
       },
       {
-        "id": "ole-miss-6165",
+        "id": "ole-miss-6982",
         "name": "Judd Utermark",
         "school": "Mississippi",
         "role": "Hitter",
         "position": "IF",
-        "classYear": "SR",
-        "handedness": "3L",
-        "score": 64,
+        "classYear": "5TH",
+        "handedness": "4L",
+        "score": 0,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
-        "summary": "Judd Utermark profiles as a IF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
+        "summary": "Judd Utermark gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .309",
-          "OBP .419",
-          "SLG .630"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".309"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".419"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".630"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "22"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "55"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "11"
+            "value": "0"
           }
         ],
         "components": {
-          "On-base": 77.2222222222222,
-          "Power": 81.57894736842107,
-          "Contact": 55.62499999999999,
-          "Discipline": 30.065359477124176,
-          "Speed": 36.666666666666664
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "metaLine": "SR / 3L",
+        "metaLine": "5TH / 4L",
         "detailBadges": [
           "IF",
-          "SR",
-          "3L",
-          "Hitter"
+          "5TH",
+          "4L",
+          "Rostered"
         ],
         "leaderboards": [
-          "Mississippi Athletics roster",
-          "Mississippi cumulative stats"
+          "Mississippi Athletics roster"
         ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats",
+        "sourceSummary": "Mississippi Athletics roster",
         "schoolSlug": "ole-miss",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/judd-utermark/6165",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://olemisssports.com/sports/baseball/roster/judd-utermark/6982",
         "espnAthleteId": ""
       },
       {
-        "id": "ole-miss-6177",
-        "name": "Noah Allen",
+        "id": "ole-miss-6993",
+        "name": "Ayson McIntosh",
+        "school": "Mississippi",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "FR",
+        "handedness": "HS",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Ayson McIntosh gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / HS",
+        "detailBadges": [
+          "C",
+          "FR",
+          "HS",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Mississippi Athletics roster"
+        ],
+        "sourceSummary": "Mississippi Athletics roster",
+        "schoolSlug": "ole-miss",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://olemisssports.com/sports/baseball/roster/ayson-mcintosh/6993",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "ole-miss-6994",
+        "name": "Charlie Willcox",
         "school": "Mississippi",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "FR",
-        "handedness": "HS",
-        "score": 30,
+        "classYear": "SO",
+        "handedness": "TR",
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Noah Allen looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
+        "summary": "Charlie Willcox looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 2.89",
-          "WHIP 0.96",
-          "K/9 11.6"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.89"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "0.96"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "11.6"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "1.9"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "0.96"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "9.3"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 68.83116883116884,
-          "Command": 100,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "FR / HS",
+        "metaLine": "SO / TR",
         "detailBadges": [
           "RHP",
-          "FR",
-          "HS",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Mississippi Athletics roster",
-          "Mississippi cumulative stats"
-        ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats",
-        "schoolSlug": "ole-miss",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/noah-allen/6177",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "ole-miss-6178",
-        "name": "Grayson Gibson",
-        "school": "Mississippi",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "FR",
-        "handedness": "HS",
-        "score": 19,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Grayson Gibson looks like a LHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
-        "summaryMetrics": [
-          "ERA 3.38",
-          "WHIP 0.94",
-          "K/9 9.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.38"
-          },
-          {
-            "label": "WHIP",
-            "value": "0.94"
-          },
-          {
-            "label": "K/9",
-            "value": "9.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.3"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.13"
-          },
-          {
-            "label": "IP",
-            "value": "16.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
-          "Command": 60,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / HS",
-        "detailBadges": [
-          "LHP",
-          "FR",
-          "HS",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Mississippi Athletics roster",
-          "Mississippi cumulative stats"
-        ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats",
-        "schoolSlug": "ole-miss",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/grayson-gibson/6178",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "ole-miss-6179",
-        "name": "Tristan Bissetta",
-        "school": "Mississippi",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "SR",
-        "handedness": "TR",
-        "score": 50,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Tristan Bissetta profiles as a OF piece who brings real extra-base damage and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .272",
-          "OBP .382",
-          "SLG .601"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".272"
-          },
-          {
-            "label": "OBP",
-            "value": ".382"
-          },
-          {
-            "label": "SLG",
-            "value": ".601"
-          },
-          {
-            "label": "HR",
-            "value": "23"
-          },
-          {
-            "label": "RBI",
-            "value": "61"
-          },
-          {
-            "label": "SB",
-            "value": "8"
-          }
-        ],
-        "components": {
-          "On-base": 56.66666666666666,
-          "Power": 73.94736842105264,
-          "Contact": 32.500000000000014,
-          "Discipline": 27.58620689655172,
-          "Speed": 26.666666666666668
-        },
-        "metaLine": "SR / TR",
-        "detailBadges": [
-          "OF",
-          "SR",
+          "SO",
           "TR",
-          "Hitter"
+          "Pitcher"
         ],
         "leaderboards": [
-          "Mississippi Athletics roster",
-          "Mississippi cumulative stats"
+          "Mississippi Athletics roster"
         ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats",
+        "sourceSummary": "Mississippi Athletics roster",
         "schoolSlug": "ole-miss",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/tristan-bissetta/6179",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://olemisssports.com/sports/baseball/roster/charlie-willcox/6994",
         "espnAthleteId": ""
       },
       {
-        "id": "ole-miss-6180",
-        "name": "Landon Koenig",
+        "id": "ole-miss-6995",
+        "name": "Mavrick Rizy",
         "school": "Mississippi",
         "role": "Pitcher",
         "position": "RHP",
         "classYear": "JR",
         "handedness": "TR",
-        "score": 28,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Landon Koenig looks like a RHP option who misses bats and throws enough strikes.",
+        "summary": "Mavrick Rizy looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 6.35",
-          "WHIP 1.85",
-          "K/9 13.1"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.35"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.85"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "13.1"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "2.8"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.59"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "22.7"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 82.75401069518715,
-          "Command": 74.28571428571429,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
         "metaLine": "JR / TR",
@@ -7138,294 +5692,17 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
           "Pitcher"
         ],
         "leaderboards": [
-          "Mississippi Athletics roster",
-          "Mississippi cumulative stats"
+          "Mississippi Athletics roster"
         ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats",
+        "sourceSummary": "Mississippi Athletics roster",
         "schoolSlug": "ole-miss",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/landon-koenig/6180",
+        "profileUrl": "https://olemisssports.com/sports/baseball/roster/mavrick-rizy/6995",
         "espnAthleteId": ""
       },
       {
-        "id": "ole-miss-6166",
-        "name": "Landon Waters",
-        "school": "Mississippi",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "1L",
-        "score": 13,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Landon Waters looks like a RHP option who limits runs and misses bats.",
-        "summaryMetrics": [
-          "ERA 3.00",
-          "WHIP 1.42",
-          "K/9 9.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.42"
-          },
-          {
-            "label": "K/9",
-            "value": "9.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.5"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.88"
-          },
-          {
-            "label": "IP",
-            "value": "24.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 48.86363636363637,
-          "Command": 21.66666666666667,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / 1L",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "1L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Mississippi Athletics roster",
-          "Mississippi cumulative stats"
-        ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats",
-        "schoolSlug": "ole-miss",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/landon-waters/6166",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "ole-miss-6153",
-        "name": "Owen Hancock",
-        "school": "Mississippi",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "1L",
-        "score": 17,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Owen Hancock looks like a RHP option who limits runs and misses bats.",
-        "summaryMetrics": [
-          "ERA 3.77",
-          "WHIP 1.53",
-          "K/9 11.9"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.77"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.53"
-          },
-          {
-            "label": "K/9",
-            "value": "11.9"
-          },
-          {
-            "label": "BB/9",
-            "value": "6.3"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.26"
-          },
-          {
-            "label": "IP",
-            "value": "14.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 72.09302325581395,
-          "Command": 18.000000000000004,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / 1L",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "1L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Mississippi Athletics roster",
-          "Mississippi cumulative stats"
-        ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats",
-        "schoolSlug": "ole-miss",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/owen-hancock/6153",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "ole-miss-6152",
-        "name": "Will Furniss",
-        "school": "Mississippi",
-        "role": "Hitter",
-        "position": "IF",
-        "classYear": "SR",
-        "handedness": "3L",
-        "score": 53,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Will Furniss profiles as a IF piece who gets on base at a high clip.",
-        "summaryMetrics": [
-          "AVG .306",
-          "OBP .420",
-          "SLG .474"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".306"
-          },
-          {
-            "label": "OBP",
-            "value": ".420"
-          },
-          {
-            "label": "SLG",
-            "value": ".474"
-          },
-          {
-            "label": "HR",
-            "value": "9"
-          },
-          {
-            "label": "RBI",
-            "value": "57"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 77.77777777777776,
-          "Power": 40.526315789473685,
-          "Contact": 53.75,
-          "Discipline": 55.7504873294347,
-          "Speed": 0
-        },
-        "metaLine": "SR / 3L",
-        "detailBadges": [
-          "IF",
-          "SR",
-          "3L",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Mississippi Athletics roster",
-          "Mississippi cumulative stats"
-        ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats",
-        "schoolSlug": "ole-miss",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/will-furniss/6152",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "ole-miss-6181",
-        "name": "Terry Hayes Jr.",
-        "school": "Mississippi",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "JC",
-        "score": 15,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Terry Hayes Jr. looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 10.22",
-          "WHIP 1.95",
-          "K/9 9.5"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "10.22"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.95"
-          },
-          {
-            "label": "K/9",
-            "value": "9.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.6"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.73"
-          },
-          {
-            "label": "IP",
-            "value": "12.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 49.877149877149876,
-          "Command": 31.999999999999996,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / JC",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "JC",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Mississippi Athletics roster",
-          "Mississippi cumulative stats"
-        ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats",
-        "schoolSlug": "ole-miss",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/terry-hayes-jr/6181",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "ole-miss-6182",
-        "name": "Blake Ilitch",
+        "id": "ole-miss-6996",
+        "name": "Devin Long",
         "school": "Mississippi",
         "role": "Pitcher",
         "position": "RHP",
@@ -7436,7 +5713,7 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Blake Ilitch looks like a RHP option who throws enough strikes.",
+        "summary": "Devin Long looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -7488,86 +5765,425 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "sourceSummary": "Mississippi Athletics roster",
         "schoolSlug": "ole-miss",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/blake-ilitch/6182",
+        "profileUrl": "https://olemisssports.com/sports/baseball/roster/devin-long/6996",
         "espnAthleteId": ""
       },
       {
-        "id": "ole-miss-6162",
-        "name": "JP Robertson",
+        "id": "ole-miss-6997",
+        "name": "McCoy Silicz",
         "school": "Mississippi",
         "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "R-SO",
-        "handedness": "JC",
-        "score": 18,
+        "position": "RHP/1B",
+        "classYear": "FR",
+        "handedness": "HS",
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "JP Robertson looks like a RHP option who misses bats.",
+        "summary": "McCoy Silicz looks like a RHP/1B option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 4.34",
-          "WHIP 1.50",
-          "K/9 11.8"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.34"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.50"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "11.8"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "5.1"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "0.96"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "37.3"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 71.02272727272727,
-          "Command": 26.66666666666667,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "R-SO / JC",
+        "metaLine": "FR / HS",
         "detailBadges": [
-          "RHP",
-          "R-SO",
-          "JC",
+          "RHP/1B",
+          "FR",
+          "HS",
           "Pitcher"
         ],
         "leaderboards": [
-          "Mississippi Athletics roster",
-          "Mississippi cumulative stats"
+          "Mississippi Athletics roster"
         ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats",
+        "sourceSummary": "Mississippi Athletics roster",
         "schoolSlug": "ole-miss",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/jp-robertson/6162",
+        "profileUrl": "https://olemisssports.com/sports/baseball/roster/mccoy-silicz/6997",
         "espnAthleteId": ""
       },
       {
-        "id": "ole-miss-6183",
+        "id": "ole-miss-6970",
+        "name": "Owen Hancock",
+        "school": "Mississippi",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "2L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Owen Hancock looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / 2L",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "2L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Mississippi Athletics roster"
+        ],
+        "sourceSummary": "Mississippi Athletics roster",
+        "schoolSlug": "ole-miss",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://olemisssports.com/sports/baseball/roster/owen-hancock/6970",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "ole-miss-6967",
+        "name": "Will Furniss",
+        "school": "Mississippi",
+        "role": "Hitter",
+        "position": "IF",
+        "classYear": "5TH",
+        "handedness": "4L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Will Furniss gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "5TH / 4L",
+        "detailBadges": [
+          "IF",
+          "5TH",
+          "4L",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Mississippi Athletics roster"
+        ],
+        "sourceSummary": "Mississippi Athletics roster",
+        "schoolSlug": "ole-miss",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://olemisssports.com/sports/baseball/roster/will-furniss/6967",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "ole-miss-6971",
+        "name": "Terry Hayes Jr.",
+        "school": "Mississippi",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "1L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Terry Hayes Jr. looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / 1L",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "1L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Mississippi Athletics roster"
+        ],
+        "sourceSummary": "Mississippi Athletics roster",
+        "schoolSlug": "ole-miss",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://olemisssports.com/sports/baseball/roster/terry-hayes-jr/6971",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "ole-miss-6998",
+        "name": "Brent Stukes",
+        "school": "Mississippi",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "TR",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Brent Stukes looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / TR",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "TR",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Mississippi Athletics roster"
+        ],
+        "sourceSummary": "Mississippi Athletics roster",
+        "schoolSlug": "ole-miss",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://olemisssports.com/sports/baseball/roster/brent-stukes/6998",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "ole-miss-6980",
+        "name": "JP Robertson",
+        "school": "Mississippi",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "1L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "JP Robertson looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / 1L",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "1L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Mississippi Athletics roster"
+        ],
+        "sourceSummary": "Mississippi Athletics roster",
+        "schoolSlug": "ole-miss",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://olemisssports.com/sports/baseball/roster/jp-robertson/6980",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "ole-miss-6965",
         "name": "Evan Farrow",
         "school": "Mississippi",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "FR",
-        "handedness": "HS",
+        "classYear": "SO",
+        "handedness": "RS",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -7612,6 +6228,278 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
+        "metaLine": "SO / RS",
+        "detailBadges": [
+          "RHP",
+          "SO",
+          "RS",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Mississippi Athletics roster"
+        ],
+        "sourceSummary": "Mississippi Athletics roster",
+        "schoolSlug": "ole-miss",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://olemisssports.com/sports/baseball/roster/evan-farrow/6965",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "ole-miss-6979",
+        "name": "Jake Reigert",
+        "school": "Mississippi",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SO",
+        "handedness": "1L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jake Reigert looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SO / 1L",
+        "detailBadges": [
+          "RHP",
+          "SO",
+          "1L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Mississippi Athletics roster"
+        ],
+        "sourceSummary": "Mississippi Athletics roster",
+        "schoolSlug": "ole-miss",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://olemisssports.com/sports/baseball/roster/jake-reigert/6979",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "ole-miss-6999",
+        "name": "Eli Pillsbury",
+        "school": "Mississippi",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "SR",
+        "handedness": "TR",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Eli Pillsbury looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / TR",
+        "detailBadges": [
+          "LHP",
+          "SR",
+          "TR",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Mississippi Athletics roster"
+        ],
+        "sourceSummary": "Mississippi Athletics roster",
+        "schoolSlug": "ole-miss",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://olemisssports.com/sports/baseball/roster/eli-pillsbury/6999",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "ole-miss-7000",
+        "name": "Sean Carey",
+        "school": "Mississippi",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "SR",
+        "handedness": "TR",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Sean Carey looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / TR",
+        "detailBadges": [
+          "LHP",
+          "SR",
+          "TR",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Mississippi Athletics roster"
+        ],
+        "sourceSummary": "Mississippi Athletics roster",
+        "schoolSlug": "ole-miss",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://olemisssports.com/sports/baseball/roster/sean-carey/7000",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "ole-miss-7001",
+        "name": "Tucker Long",
+        "school": "Mississippi",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "FR",
+        "handedness": "HS",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Tucker Long looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
         "metaLine": "FR / HS",
         "detailBadges": [
           "RHP",
@@ -7625,40 +6513,40 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
         "sourceSummary": "Mississippi Athletics roster",
         "schoolSlug": "ole-miss",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/evan-farrow/6183",
+        "profileUrl": "https://olemisssports.com/sports/baseball/roster/tucker-long/7001",
         "espnAthleteId": ""
       },
       {
-        "id": "ole-miss-6160",
-        "name": "Jake Reigert",
+        "id": "ole-miss-7002",
+        "name": "Lucas Lawrence",
         "school": "Mississippi",
         "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "R-FR",
-        "handedness": "RS",
-        "score": 36,
+        "position": "LHP",
+        "classYear": "FR",
+        "handedness": "HS",
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Jake Reigert looks like a RHP option who misses bats and throws enough strikes.",
+        "summary": "Lucas Lawrence looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 18.00",
-          "WHIP 2.00",
-          "K/9 18.0"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "18.00"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "2.00"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "18.0"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
@@ -7666,156 +6554,86 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
           },
           {
             "label": "HR/9",
-            "value": "9.00"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "1.0"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 100,
-          "Command": 100,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "R-FR / RS",
-        "detailBadges": [
-          "RHP",
-          "R-FR",
-          "RS",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Mississippi Athletics roster",
-          "Mississippi cumulative stats"
-        ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats",
-        "schoolSlug": "ole-miss",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/jake-reigert/6160",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "ole-miss-6184",
-        "name": "Wil Libbert",
-        "school": "Mississippi",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "SO",
-        "handedness": "TR",
-        "score": 14,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Wil Libbert looks like a LHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 6.19",
-          "WHIP 1.65",
-          "K/9 9.6"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "6.19"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.65"
-          },
-          {
-            "label": "K/9",
-            "value": "9.6"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.3"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.88"
-          },
-          {
-            "label": "IP",
-            "value": "48.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 50.56818181818182,
-          "Command": 24.347826086956523,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / TR",
+        "metaLine": "FR / HS",
         "detailBadges": [
           "LHP",
-          "SO",
-          "TR",
+          "FR",
+          "HS",
           "Pitcher"
         ],
         "leaderboards": [
-          "Mississippi Athletics roster",
-          "Mississippi cumulative stats"
+          "Mississippi Athletics roster"
         ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats",
+        "sourceSummary": "Mississippi Athletics roster",
         "schoolSlug": "ole-miss",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/wil-libbert/6184",
+        "profileUrl": "https://olemisssports.com/sports/baseball/roster/lucas-lawrence/7002",
         "espnAthleteId": ""
       },
       {
-        "id": "ole-miss-6158",
-        "name": "Taylor Rabe",
+        "id": "ole-miss-6976",
+        "name": "Leo Odom",
         "school": "Mississippi",
         "role": "Pitcher",
         "position": "RHP",
         "classYear": "SO",
         "handedness": "1L",
-        "score": 31,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Taylor Rabe looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
+        "summary": "Leo Odom looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 3.55",
-          "WHIP 1.03",
-          "K/9 12.4"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.55"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.03"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "12.4"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "1.8"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.42"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "76.0"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 76.67464114832536,
-          "Command": 100,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
         "metaLine": "SO / 1L",
@@ -7826,82 +6644,80 @@ window.__BASEBALL_DATASETS__.ole-miss2026 = {
           "Pitcher"
         ],
         "leaderboards": [
-          "Mississippi Athletics roster",
-          "Mississippi cumulative stats"
+          "Mississippi Athletics roster"
         ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats",
+        "sourceSummary": "Mississippi Athletics roster",
         "schoolSlug": "ole-miss",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/taylor-rabe/6158",
+        "profileUrl": "https://olemisssports.com/sports/baseball/roster/leo-odom/6976",
         "espnAthleteId": ""
       },
       {
-        "id": "ole-miss-6185",
-        "name": "Leo Odom",
+        "id": "ole-miss-7003",
+        "name": "Kendall Hoffman",
         "school": "Mississippi",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "FR",
-        "handedness": "HS",
-        "score": 36,
+        "classYear": "JR",
+        "handedness": "TR",
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Leo Odom looks like a RHP option who misses bats and throws enough strikes.",
+        "summary": "Kendall Hoffman looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 7.50",
-          "WHIP 1.33",
-          "K/9 18.0"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.50"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.33"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "18.0"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "3.0"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.50"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "6.0"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 100,
-          "Command": 100,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "FR / HS",
+        "metaLine": "JR / TR",
         "detailBadges": [
           "RHP",
-          "FR",
-          "HS",
+          "JR",
+          "TR",
           "Pitcher"
         ],
         "leaderboards": [
-          "Mississippi Athletics roster",
-          "Mississippi cumulative stats"
+          "Mississippi Athletics roster"
         ],
-        "sourceSummary": "Mississippi Athletics roster + Mississippi cumulative stats",
+        "sourceSummary": "Mississippi Athletics roster",
         "schoolSlug": "ole-miss",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://olemisssports.com/sports/baseball/roster/leo-odom/6185",
+        "profileUrl": "https://olemisssports.com/sports/baseball/roster/kendall-hoffman/7003",
         "espnAthleteId": ""
       }
     ]

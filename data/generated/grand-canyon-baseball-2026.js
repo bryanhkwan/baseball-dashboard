@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.grand-canyon2026 = {
-  "generatedAt": "2026-07-29T11:06:11.515Z",
+  "generatedAt": "2026-11-18T10:18:19.147Z",
   "season": 2026,
   "school": {
     "slug": "grand-canyon",
@@ -25,7 +25,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
     "ncaa": "NCAA school index"
   },
   "coverage": {
-    "rosterPlayers": 40,
+    "rosterPlayers": 41,
     "espnRosterPlayers": 0,
     "playersWithHittingStats": 0,
     "playersWithPitchingStats": 0,
@@ -190,14 +190,14 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
       "position": "INF",
       "positionLong": "Infielder",
       "classYear": "SR",
-      "handedness": "N/A",
+      "handedness": "R/R",
       "jersey": "1",
       "hometown": "Washington, Okla.",
       "highSchool": "Washington",
       "previousSchool": "Tennessee » Arizona State",
       "hometownHighSchool": "Washington, Okla. / Washington",
       "profileUrl": "https://gculopes.com/sports/baseball/roster/camden-bates/14833",
-      "imageUrl": "",
+      "imageUrl": "https://gculopes.com/images/2026/9/3/Bates.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -256,11 +256,11 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "SR / N/A",
+        "metaLine": "SR / R/R",
         "detailBadges": [
           "INF",
           "SR",
-          "N/A",
+          "R/R",
           "Rostered"
         ],
         "sourceSummary": "Grand Canyon Athletics roster"
@@ -278,14 +278,14 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
       "position": "RHP",
       "positionLong": "Right-handed pitcher",
       "classYear": "SR",
-      "handedness": "N/A",
+      "handedness": "R/R",
       "jersey": "3",
       "hometown": "Visalia, Calif.",
       "highSchool": "Mt. Whitney",
       "previousSchool": "Fresno State",
       "hometownHighSchool": "Visalia, Calif. / Mt. Whitney",
       "profileUrl": "https://gculopes.com/sports/baseball/roster/jt-guerrero/14829",
-      "imageUrl": "",
+      "imageUrl": "https://gculopes.com/images/2026/9/3/Guerrero.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -344,11 +344,11 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "SR / N/A",
+        "metaLine": "SR / R/R",
         "detailBadges": [
           "RHP",
           "SR",
-          "N/A",
+          "R/R",
           "Pitcher"
         ],
         "sourceSummary": "Grand Canyon Athletics roster"
@@ -366,14 +366,14 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
       "position": "INF",
       "positionLong": "Infielder",
       "classYear": "SO",
-      "handedness": "N/A",
+      "handedness": "R/R",
       "jersey": "4",
       "hometown": "Walnut, Calif.",
       "highSchool": "Bonita",
       "previousSchool": "",
       "hometownHighSchool": "Walnut, Calif. / Bonita",
       "profileUrl": "https://gculopes.com/sports/baseball/roster/austin-owens/14831",
-      "imageUrl": "",
+      "imageUrl": "https://gculopes.com/images/2026/9/3/Owens.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -432,11 +432,11 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "SO / N/A",
+        "metaLine": "SO / R/R",
         "detailBadges": [
           "INF",
           "SO",
-          "N/A",
+          "R/R",
           "Rostered"
         ],
         "sourceSummary": "Grand Canyon Athletics roster"
@@ -454,14 +454,14 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
       "position": "INF",
       "positionLong": "Infielder",
       "classYear": "SR",
-      "handedness": "N/A",
+      "handedness": "L/R",
       "jersey": "5",
       "hometown": "Surprise, Ariz.",
       "highSchool": "Shadow Ridge",
       "previousSchool": "",
       "hometownHighSchool": "Surprise, Ariz. / Shadow Ridge",
       "profileUrl": "https://gculopes.com/sports/baseball/roster/austin-matranga/14951",
-      "imageUrl": "",
+      "imageUrl": "https://gculopes.com/images/2026/9/3/Matranga.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -520,18 +520,18 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "SR / N/A",
+        "metaLine": "SR / L/R",
         "detailBadges": [
           "INF",
           "SR",
-          "N/A",
+          "L/R",
           "Rostered"
         ],
         "sourceSummary": "Grand Canyon Athletics roster"
       }
     },
     {
-      "id": "grand-canyon-14293",
+      "id": "grand-canyon-14830",
       "schoolSlug": "grand-canyon",
       "school": "Grand Canyon",
       "schoolLongName": "Grand Canyon University",
@@ -541,22 +541,22 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
       "role": "Hitter",
       "position": "INF",
       "positionLong": "Infielder",
-      "classYear": "R-FR",
-      "handedness": "N/A",
+      "classYear": "SO",
+      "handedness": "R/R",
       "jersey": "6",
       "hometown": "Lake Stevens, Wash.",
       "highSchool": "Lake Stevens",
       "previousSchool": "",
       "hometownHighSchool": "Lake Stevens, Wash. / Lake Stevens",
-      "profileUrl": "https://gculopes.com/sports/baseball/roster/aspen-alexander/14293",
-      "imageUrl": "",
+      "profileUrl": "https://gculopes.com/sports/baseball/roster/aspen-alexander/14830",
+      "imageUrl": "https://gculopes.com/images/2026/9/3/Alexander.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "14293",
+      "rosterBioId": "14830",
       "sources": [
         "Grand Canyon Athletics roster"
       ],
@@ -608,11 +608,11 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "R-FR / N/A",
+        "metaLine": "SO / R/R",
         "detailBadges": [
           "INF",
-          "R-FR",
-          "N/A",
+          "SO",
+          "R/R",
           "Rostered"
         ],
         "sourceSummary": "Grand Canyon Athletics roster"
@@ -637,7 +637,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
       "previousSchool": "Florida",
       "hometownHighSchool": "St. Augustine, Fla. / St. John's Country Day",
       "profileUrl": "https://gculopes.com/sports/baseball/roster/kolt-myers/14851",
-      "imageUrl": "",
+      "imageUrl": "https://gculopes.com/images/2026/9/3/Myers.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -718,14 +718,14 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
       "position": "INF",
       "positionLong": "Infielder",
       "classYear": "JR",
-      "handedness": "N/A",
+      "handedness": "R/R",
       "jersey": "8",
       "hometown": "Phoenix, Ariz.",
       "highSchool": "Sandra Day O'Connor",
       "previousSchool": "",
       "hometownHighSchool": "Phoenix, Ariz. / Sandra Day O'Connor",
       "profileUrl": "https://gculopes.com/sports/baseball/roster/jake-sanko/14822",
-      "imageUrl": "",
+      "imageUrl": "https://gculopes.com/images/2026/9/3/Sanko.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -784,18 +784,18 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "JR / N/A",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "INF",
           "JR",
-          "N/A",
+          "R/R",
           "Rostered"
         ],
         "sourceSummary": "Grand Canyon Athletics roster"
       }
     },
     {
-      "id": "grand-canyon-14297",
+      "id": "grand-canyon-14823",
       "schoolSlug": "grand-canyon",
       "school": "Grand Canyon",
       "schoolLongName": "Grand Canyon University",
@@ -805,22 +805,22 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Right-handed pitcher",
-      "classYear": "R-FR",
-      "handedness": "N/A",
+      "classYear": "SO",
+      "handedness": "R/R",
       "jersey": "9",
       "hometown": "Santa Clara, Utah",
       "highSchool": "Snow Canyon",
       "previousSchool": "",
       "hometownHighSchool": "Santa Clara, Utah / Snow Canyon",
-      "profileUrl": "https://gculopes.com/sports/baseball/roster/andrew-lyon/14297",
-      "imageUrl": "",
+      "profileUrl": "https://gculopes.com/sports/baseball/roster/andrew-lyon/14823",
+      "imageUrl": "https://gculopes.com/images/2026/9/3/Lyon.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "14297",
+      "rosterBioId": "14823",
       "sources": [
         "Grand Canyon Athletics roster"
       ],
@@ -872,11 +872,11 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "R-FR / N/A",
+        "metaLine": "SO / R/R",
         "detailBadges": [
           "RHP",
-          "R-FR",
-          "N/A",
+          "SO",
+          "R/R",
           "Pitcher"
         ],
         "sourceSummary": "Grand Canyon Athletics roster"
@@ -894,14 +894,14 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
       "position": "INF",
       "positionLong": "Infielder",
       "classYear": "R-JR",
-      "handedness": "N/A",
+      "handedness": "R/R",
       "jersey": "11",
       "hometown": "Las Vegas, Nev.",
       "highSchool": "Bishop Gorman",
       "previousSchool": "",
       "hometownHighSchool": "Las Vegas, Nev. / Bishop Gorman",
       "profileUrl": "https://gculopes.com/sports/baseball/roster/billy-scaldeferri/14824",
-      "imageUrl": "",
+      "imageUrl": "https://gculopes.com/images/2026/9/3/Scaldeferri.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -960,11 +960,11 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "R-JR / N/A",
+        "metaLine": "R-JR / R/R",
         "detailBadges": [
           "INF",
           "R-JR",
-          "N/A",
+          "R/R",
           "Rostered"
         ],
         "sourceSummary": "Grand Canyon Athletics roster"
@@ -982,14 +982,14 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
       "position": "RHP",
       "positionLong": "Right-handed pitcher",
       "classYear": "JR",
-      "handedness": "N/A",
+      "handedness": "R/R",
       "jersey": "13",
       "hometown": "Scottsdale, Ariz.",
       "highSchool": "Saguaro",
       "previousSchool": "",
       "hometownHighSchool": "Scottsdale, Ariz. / Saguaro",
       "profileUrl": "https://gculopes.com/sports/baseball/roster/billy-gregory/14826",
-      "imageUrl": "",
+      "imageUrl": "https://gculopes.com/images/2026/9/3/Gregory.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -1048,11 +1048,11 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "JR / N/A",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "RHP",
           "JR",
-          "N/A",
+          "R/R",
           "Pitcher"
         ],
         "sourceSummary": "Grand Canyon Athletics roster"
@@ -1077,7 +1077,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
       "previousSchool": "",
       "hometownHighSchool": "Corona, Calif. / Norco",
       "profileUrl": "https://gculopes.com/sports/baseball/roster/landon-hovermale/14836",
-      "imageUrl": "",
+      "imageUrl": "https://gculopes.com/images/2026/9/3/Hovermale.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -1158,14 +1158,14 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
       "position": "OF",
       "positionLong": "Outfielder",
       "classYear": "SR",
-      "handedness": "N/A",
+      "handedness": "L/L",
       "jersey": "15",
       "hometown": "Lexington, Ky.",
       "highSchool": "Lexington Catholic",
       "previousSchool": "Kentucky",
       "hometownHighSchool": "Lexington, Ky. / Lexington Catholic",
       "profileUrl": "https://gculopes.com/sports/baseball/roster/griffin-cameron/14827",
-      "imageUrl": "",
+      "imageUrl": "https://gculopes.com/images/2026/9/3/Cameron.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -1224,11 +1224,11 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "SR / N/A",
+        "metaLine": "SR / L/L",
         "detailBadges": [
           "OF",
           "SR",
-          "N/A",
+          "L/L",
           "Rostered"
         ],
         "sourceSummary": "Grand Canyon Athletics roster"
@@ -1246,14 +1246,14 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
       "position": "OF",
       "positionLong": "Outfielder",
       "classYear": "SR",
-      "handedness": "N/A",
+      "handedness": "B/R",
       "jersey": "16",
       "hometown": "Maple Valley, Wash.",
       "highSchool": "Tahoma",
       "previousSchool": "Washington",
       "hometownHighSchool": "Maple Valley, Wash. / Tahoma",
       "profileUrl": "https://gculopes.com/sports/baseball/roster/carson-ohland/14825",
-      "imageUrl": "",
+      "imageUrl": "https://gculopes.com/images/2026/9/3/Ohland.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -1312,11 +1312,11 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "SR / N/A",
+        "metaLine": "SR / B/R",
         "detailBadges": [
           "OF",
           "SR",
-          "N/A",
+          "B/R",
           "Rostered"
         ],
         "sourceSummary": "Grand Canyon Athletics roster"
@@ -1341,7 +1341,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
       "previousSchool": "Arizona",
       "hometownHighSchool": "Queen Creek, Ariz. / Casteel",
       "profileUrl": "https://gculopes.com/sports/baseball/roster/mason-russell/14847",
-      "imageUrl": "",
+      "imageUrl": "https://gculopes.com/images/2026/9/3/Russell.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -1429,7 +1429,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
       "previousSchool": "Cal State LA",
       "hometownHighSchool": "Lancaster, Calif. / Quartz Hill",
       "profileUrl": "https://gculopes.com/sports/baseball/roster/ismael-quintero/14850",
-      "imageUrl": "",
+      "imageUrl": "https://gculopes.com/images/2026/9/3/Quintero.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -1510,14 +1510,14 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
       "position": "RHP",
       "positionLong": "Right-handed pitcher",
       "classYear": "R-SR",
-      "handedness": "N/A",
+      "handedness": "R/R",
       "jersey": "22",
       "hometown": "Liberty, Mo.",
       "highSchool": "Liberty",
       "previousSchool": "Central Missouri",
       "hometownHighSchool": "Liberty, Mo. / Liberty",
       "profileUrl": "https://gculopes.com/sports/baseball/roster/brock-toney/14828",
-      "imageUrl": "",
+      "imageUrl": "https://gculopes.com/images/2026/9/3/Toney.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -1576,11 +1576,11 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "R-SR / N/A",
+        "metaLine": "R-SR / R/R",
         "detailBadges": [
           "RHP",
           "R-SR",
-          "N/A",
+          "R/R",
           "Pitcher"
         ],
         "sourceSummary": "Grand Canyon Athletics roster"
@@ -1605,7 +1605,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
       "previousSchool": "Wichita State » Jacksonville State",
       "hometownHighSchool": "Mundelein, Ill. / Mundelein",
       "profileUrl": "https://gculopes.com/sports/baseball/roster/ryan-geraghty/14844",
-      "imageUrl": "",
+      "imageUrl": "https://gculopes.com/images/2026/9/3/Geraghty.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -1685,7 +1685,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
       "role": "Hitter",
       "position": "INF",
       "positionLong": "Infielder",
-      "classYear": "SO",
+      "classYear": "JR",
       "handedness": "R/R",
       "jersey": "24",
       "hometown": "Richland, Wash.",
@@ -1693,7 +1693,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
       "previousSchool": "New Mexico State",
       "hometownHighSchool": "Richland, Wash. / Richland",
       "profileUrl": "https://gculopes.com/sports/baseball/roster/chris-daniels/14857",
-      "imageUrl": "",
+      "imageUrl": "https://gculopes.com/images/2026/9/3/Daniels.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -1752,10 +1752,10 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "SO / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "INF",
-          "SO",
+          "JR",
           "R/R",
           "Rostered"
         ],
@@ -1781,7 +1781,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
       "previousSchool": "",
       "hometownHighSchool": "Richland, Wash. / Richland",
       "profileUrl": "https://gculopes.com/sports/baseball/roster/michael-revell/14838",
-      "imageUrl": "",
+      "imageUrl": "https://gculopes.com/images/2026/9/3/Revell.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -1862,14 +1862,14 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
       "position": "RHP",
       "positionLong": "Right-handed pitcher",
       "classYear": "SO",
-      "handedness": "N/A",
+      "handedness": "R/R",
       "jersey": "27",
       "hometown": "Studio City, Calif.",
       "highSchool": "Loyola",
       "previousSchool": "",
       "hometownHighSchool": "Studio City, Calif. / Loyola",
       "profileUrl": "https://gculopes.com/sports/baseball/roster/andrew-cohen/14835",
-      "imageUrl": "",
+      "imageUrl": "https://gculopes.com/images/2026/9/3/Cohen.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -1928,11 +1928,11 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "SO / N/A",
+        "metaLine": "SO / R/R",
         "detailBadges": [
           "RHP",
           "SO",
-          "N/A",
+          "R/R",
           "Pitcher"
         ],
         "sourceSummary": "Grand Canyon Athletics roster"
@@ -1950,14 +1950,14 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
       "position": "OF/1B",
       "positionLong": "Outfielder / 1st baseman",
       "classYear": "SO",
-      "handedness": "N/A",
+      "handedness": "L/L",
       "jersey": "28",
       "hometown": "Las Vegas, Nev.",
       "highSchool": "Palo Verde",
       "previousSchool": "",
       "hometownHighSchool": "Las Vegas, Nev. / Palo Verde",
       "profileUrl": "https://gculopes.com/sports/baseball/roster/tanner-johns/14834",
-      "imageUrl": "",
+      "imageUrl": "https://gculopes.com/images/2026/9/3/Johns.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -2016,11 +2016,11 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "SO / N/A",
+        "metaLine": "SO / L/L",
         "detailBadges": [
           "OF/1B",
           "SO",
-          "N/A",
+          "L/L",
           "Rostered"
         ],
         "sourceSummary": "Grand Canyon Athletics roster"
@@ -2045,7 +2045,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
       "previousSchool": "North Florida » Kentucky",
       "hometownHighSchool": "DeLand, Fla. / DeLand",
       "profileUrl": "https://gculopes.com/sports/baseball/roster/bryson-treichel/14852",
-      "imageUrl": "",
+      "imageUrl": "https://gculopes.com/images/2026/9/3/Treichel.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -2133,7 +2133,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
       "previousSchool": "Louisville » Kentucky",
       "hometownHighSchool": "Mount Pleasant, S.C. / Oceanside Collegiate Academy",
       "profileUrl": "https://gculopes.com/sports/baseball/roster/tagger-tyson/14856",
-      "imageUrl": "",
+      "imageUrl": "https://gculopes.com/images/2026/9/3/Tyson.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -2221,7 +2221,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
       "previousSchool": "Baylor » McLennan CC",
       "hometownHighSchool": "Dallas, Texas / Trinity Christian Academy",
       "profileUrl": "https://gculopes.com/sports/baseball/roster/samuel-jenkins/14846",
-      "imageUrl": "",
+      "imageUrl": "https://gculopes.com/images/2026/9/3/Jenkins.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -2309,7 +2309,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
       "previousSchool": "Virginia » Chipola » Pitt",
       "hometownHighSchool": "Palm Beach Gardens, Fla. / The Benjamin School",
       "profileUrl": "https://gculopes.com/sports/baseball/roster/freddy-beruvides-jr/14855",
-      "imageUrl": "",
+      "imageUrl": "https://gculopes.com/images/2026/9/3/Beruvides.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -2397,7 +2397,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
       "previousSchool": "Texas » Jacksonville State",
       "hometownHighSchool": "Olive Branch, Miss. / Lewisburg",
       "profileUrl": "https://gculopes.com/sports/baseball/roster/sam-richardson/14843",
-      "imageUrl": "",
+      "imageUrl": "https://gculopes.com/images/2026/9/3/Richardson.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -2485,7 +2485,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
       "previousSchool": "Florida International",
       "hometownHighSchool": "Miami, Fla. / Archbishop McCarthy",
       "profileUrl": "https://gculopes.com/sports/baseball/roster/andrew-ildefonso/14845",
-      "imageUrl": "",
+      "imageUrl": "https://gculopes.com/images/2026/9/3/Ildefonso.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -2573,7 +2573,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
       "previousSchool": "Notre Dame",
       "hometownHighSchool": "Newton, Mass. / St. Mark's",
       "profileUrl": "https://gculopes.com/sports/baseball/roster/oisin-lee/14854",
-      "imageUrl": "",
+      "imageUrl": "https://gculopes.com/images/2026/9/3/Lee.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -2661,7 +2661,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
       "previousSchool": "Oregon » Bellevue CC » Lewis-Clark State",
       "hometownHighSchool": "Stanwood, Wash. / Stanwood",
       "profileUrl": "https://gculopes.com/sports/baseball/roster/mason-goodson/14858",
-      "imageUrl": "",
+      "imageUrl": "https://gculopes.com/images/2026/9/3/Goodson.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -2749,7 +2749,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
       "previousSchool": "Modesto JC » UC Santa Barbara",
       "hometownHighSchool": "Ripon, Calif. / Ripon",
       "profileUrl": "https://gculopes.com/sports/baseball/roster/dawson-downs/14842",
-      "imageUrl": "",
+      "imageUrl": "https://gculopes.com/images/2026/9/3/Downs.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -2837,7 +2837,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
       "previousSchool": "Eastern Arizona College",
       "hometownHighSchool": "Scottsdale, Ariz. / Chaparral",
       "profileUrl": "https://gculopes.com/sports/baseball/roster/reece-van-devander/14837",
-      "imageUrl": "",
+      "imageUrl": "https://gculopes.com/images/2026/9/3/Van_Devander.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -2925,7 +2925,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
       "previousSchool": "GCU » Yavapai » Oklahoma State",
       "hometownHighSchool": "Simi Valley, Calif. / Thousand Oaks",
       "profileUrl": "https://gculopes.com/sports/baseball/roster/brady-francisco/14841",
-      "imageUrl": "",
+      "imageUrl": "https://gculopes.com/images/2026/9/3/Francisco.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -3013,7 +3013,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
       "previousSchool": "Miami",
       "hometownHighSchool": "Glen Burnie, Md. / TNXL Academy",
       "profileUrl": "https://gculopes.com/sports/baseball/roster/lj-drummond/14859",
-      "imageUrl": "",
+      "imageUrl": "https://gculopes.com/images/2026/9/3/Drummond.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -3083,7 +3083,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
       }
     },
     {
-      "id": "grand-canyon-14298",
+      "id": "grand-canyon-14832",
       "schoolSlug": "grand-canyon",
       "school": "Grand Canyon",
       "schoolLongName": "Grand Canyon University",
@@ -3093,22 +3093,22 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
       "role": "Pitcher",
       "position": "LHP",
       "positionLong": "Left-handed pitcher",
-      "classYear": "R-FR",
-      "handedness": "N/A",
+      "classYear": "SO",
+      "handedness": "L/L",
       "jersey": "44",
       "hometown": "Huntington Beach, Calif.",
       "highSchool": "Ocean View",
       "previousSchool": "",
       "hometownHighSchool": "Huntington Beach, Calif. / Ocean View",
-      "profileUrl": "https://gculopes.com/sports/baseball/roster/jt-lewis/14298",
-      "imageUrl": "",
+      "profileUrl": "https://gculopes.com/sports/baseball/roster/jt-lewis/14832",
+      "imageUrl": "https://gculopes.com/images/2026/9/3/Lewis.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "14298",
+      "rosterBioId": "14832",
       "sources": [
         "Grand Canyon Athletics roster"
       ],
@@ -3160,11 +3160,11 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "R-FR / N/A",
+        "metaLine": "SO / L/L",
         "detailBadges": [
           "LHP",
-          "R-FR",
-          "N/A",
+          "SO",
+          "L/L",
           "Pitcher"
         ],
         "sourceSummary": "Grand Canyon Athletics roster"
@@ -3189,7 +3189,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
       "previousSchool": "Tallahassee State College » Bethune-Cookman",
       "hometownHighSchool": "Oranjestad, Aruba / TNXL Academy",
       "profileUrl": "https://gculopes.com/sports/baseball/roster/justin-morales/14840",
-      "imageUrl": "",
+      "imageUrl": "https://gculopes.com/images/2026/9/3/Morales.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -3277,7 +3277,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
       "previousSchool": "Arizona State",
       "hometownHighSchool": "Phoenix, Ariz. / Sandra Day O'Connor",
       "profileUrl": "https://gculopes.com/sports/baseball/roster/ky-mcgary/14849",
-      "imageUrl": "",
+      "imageUrl": "https://gculopes.com/images/2026/9/3/McGary.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -3365,7 +3365,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
       "previousSchool": "Miami » South Florida",
       "hometownHighSchool": "Trinity, Fla. / Jesuit",
       "profileUrl": "https://gculopes.com/sports/baseball/roster/jake-kulikowski/14848",
-      "imageUrl": "",
+      "imageUrl": "https://gculopes.com/images/2026/9/3/Kulikowski.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -3453,7 +3453,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
       "previousSchool": "",
       "hometownHighSchool": "Washington, Mo. / Washington",
       "profileUrl": "https://gculopes.com/sports/baseball/roster/henry-vedder/14839",
-      "imageUrl": "",
+      "imageUrl": "https://gculopes.com/images/2026/9/3/Vedder.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -3541,7 +3541,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
       "previousSchool": "Polk State College » Florida State",
       "hometownHighSchool": "Orlando, Fla. / Freedom",
       "profileUrl": "https://gculopes.com/sports/baseball/roster/jake-echols/14853",
-      "imageUrl": "",
+      "imageUrl": "https://gculopes.com/images/2026/9/3/Echols.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -3611,6 +3611,94 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
       }
     },
     {
+      "id": "grand-canyon-14953",
+      "schoolSlug": "grand-canyon",
+      "school": "Grand Canyon",
+      "schoolLongName": "Grand Canyon University",
+      "name": "Kahanu Martinez",
+      "normalizedName": "kahanu martinez",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF/C",
+      "positionLong": "Infielder / catcher",
+      "classYear": "FR",
+      "handedness": "L/R",
+      "jersey": "66",
+      "hometown": "Honolulu, Hawaii",
+      "highSchool": "Saint Louis School",
+      "previousSchool": "",
+      "hometownHighSchool": "Honolulu, Hawaii / Saint Louis School",
+      "profileUrl": "https://gculopes.com/sports/baseball/roster/kahanu-martinez/14953",
+      "imageUrl": "https://gculopes.com/images/2026/9/3/Martinez.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "14953",
+      "sources": [
+        "Grand Canyon Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Kahanu Martinez gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "FR / L/R",
+        "detailBadges": [
+          "INF/C",
+          "FR",
+          "L/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Grand Canyon Athletics roster"
+      }
+    },
+    {
       "id": "grand-canyon-14860",
       "schoolSlug": "grand-canyon",
       "school": "Grand Canyon",
@@ -3629,7 +3717,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
       "previousSchool": "Houston » Golden West College",
       "hometownHighSchool": "Hawthorne, Calif. / Mira Costa",
       "profileUrl": "https://gculopes.com/sports/baseball/roster/dillon-despain/14860",
-      "imageUrl": "",
+      "imageUrl": "https://gculopes.com/images/2026/9/3/DeSpain.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -3702,9 +3790,9 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
   "playerBoard": {
     "source": "Grand Canyon Athletics roster + cumulative stats / ESPN roster",
     "note": "This Grand Canyon-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but Grand Canyon's public ESPN roster feed did not line up cleanly with the current school-site roster.",
-    "totalPlayers": 40,
+    "totalPlayers": 41,
     "roleCounts": {
-      "Hitter": 20,
+      "Hitter": 21,
       "Pitcher": 20
     },
     "players": [
@@ -3715,7 +3803,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "role": "Hitter",
         "position": "INF",
         "classYear": "SR",
-        "handedness": "N/A",
+        "handedness": "R/R",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -3760,11 +3848,11 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "SR / N/A",
+        "metaLine": "SR / R/R",
         "detailBadges": [
           "INF",
           "SR",
-          "N/A",
+          "R/R",
           "Rostered"
         ],
         "leaderboards": [
@@ -3783,7 +3871,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "role": "Pitcher",
         "position": "RHP",
         "classYear": "SR",
-        "handedness": "N/A",
+        "handedness": "R/R",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -3828,11 +3916,11 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SR / N/A",
+        "metaLine": "SR / R/R",
         "detailBadges": [
           "RHP",
           "SR",
-          "N/A",
+          "R/R",
           "Pitcher"
         ],
         "leaderboards": [
@@ -3851,7 +3939,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "role": "Hitter",
         "position": "INF",
         "classYear": "SO",
-        "handedness": "N/A",
+        "handedness": "R/R",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -3896,11 +3984,11 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "SO / N/A",
+        "metaLine": "SO / R/R",
         "detailBadges": [
           "INF",
           "SO",
-          "N/A",
+          "R/R",
           "Rostered"
         ],
         "leaderboards": [
@@ -3919,7 +4007,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "role": "Hitter",
         "position": "INF",
         "classYear": "SR",
-        "handedness": "N/A",
+        "handedness": "L/R",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -3964,11 +4052,11 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "SR / N/A",
+        "metaLine": "SR / L/R",
         "detailBadges": [
           "INF",
           "SR",
-          "N/A",
+          "L/R",
           "Rostered"
         ],
         "leaderboards": [
@@ -3981,13 +4069,13 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "grand-canyon-14293",
+        "id": "grand-canyon-14830",
         "name": "Aspen Alexander",
         "school": "Grand Canyon",
         "role": "Hitter",
         "position": "INF",
-        "classYear": "R-FR",
-        "handedness": "N/A",
+        "classYear": "SO",
+        "handedness": "R/R",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -4032,11 +4120,11 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "R-FR / N/A",
+        "metaLine": "SO / R/R",
         "detailBadges": [
           "INF",
-          "R-FR",
-          "N/A",
+          "SO",
+          "R/R",
           "Rostered"
         ],
         "leaderboards": [
@@ -4045,7 +4133,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "sourceSummary": "Grand Canyon Athletics roster",
         "schoolSlug": "grand-canyon",
         "compositeRole": "Rostered",
-        "profileUrl": "https://gculopes.com/sports/baseball/roster/aspen-alexander/14293",
+        "profileUrl": "https://gculopes.com/sports/baseball/roster/aspen-alexander/14830",
         "espnAthleteId": ""
       },
       {
@@ -4123,7 +4211,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "role": "Hitter",
         "position": "INF",
         "classYear": "JR",
-        "handedness": "N/A",
+        "handedness": "R/R",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -4168,11 +4256,11 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "JR / N/A",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "INF",
           "JR",
-          "N/A",
+          "R/R",
           "Rostered"
         ],
         "leaderboards": [
@@ -4185,13 +4273,13 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "grand-canyon-14297",
+        "id": "grand-canyon-14823",
         "name": "Andrew Lyon",
         "school": "Grand Canyon",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "R-FR",
-        "handedness": "N/A",
+        "classYear": "SO",
+        "handedness": "R/R",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -4236,11 +4324,11 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "R-FR / N/A",
+        "metaLine": "SO / R/R",
         "detailBadges": [
           "RHP",
-          "R-FR",
-          "N/A",
+          "SO",
+          "R/R",
           "Pitcher"
         ],
         "leaderboards": [
@@ -4249,7 +4337,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "sourceSummary": "Grand Canyon Athletics roster",
         "schoolSlug": "grand-canyon",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://gculopes.com/sports/baseball/roster/andrew-lyon/14297",
+        "profileUrl": "https://gculopes.com/sports/baseball/roster/andrew-lyon/14823",
         "espnAthleteId": ""
       },
       {
@@ -4259,7 +4347,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "role": "Hitter",
         "position": "INF",
         "classYear": "R-JR",
-        "handedness": "N/A",
+        "handedness": "R/R",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -4304,11 +4392,11 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "R-JR / N/A",
+        "metaLine": "R-JR / R/R",
         "detailBadges": [
           "INF",
           "R-JR",
-          "N/A",
+          "R/R",
           "Rostered"
         ],
         "leaderboards": [
@@ -4327,7 +4415,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "role": "Pitcher",
         "position": "RHP",
         "classYear": "JR",
-        "handedness": "N/A",
+        "handedness": "R/R",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -4372,11 +4460,11 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "JR / N/A",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "RHP",
           "JR",
-          "N/A",
+          "R/R",
           "Pitcher"
         ],
         "leaderboards": [
@@ -4463,7 +4551,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "role": "Hitter",
         "position": "OF",
         "classYear": "SR",
-        "handedness": "N/A",
+        "handedness": "L/L",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -4508,11 +4596,11 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "SR / N/A",
+        "metaLine": "SR / L/L",
         "detailBadges": [
           "OF",
           "SR",
-          "N/A",
+          "L/L",
           "Rostered"
         ],
         "leaderboards": [
@@ -4531,7 +4619,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "role": "Hitter",
         "position": "OF",
         "classYear": "SR",
-        "handedness": "N/A",
+        "handedness": "B/R",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -4576,11 +4664,11 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "SR / N/A",
+        "metaLine": "SR / B/R",
         "detailBadges": [
           "OF",
           "SR",
-          "N/A",
+          "B/R",
           "Rostered"
         ],
         "leaderboards": [
@@ -4735,7 +4823,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "role": "Pitcher",
         "position": "RHP",
         "classYear": "R-SR",
-        "handedness": "N/A",
+        "handedness": "R/R",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -4780,11 +4868,11 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "R-SR / N/A",
+        "metaLine": "R-SR / R/R",
         "detailBadges": [
           "RHP",
           "R-SR",
-          "N/A",
+          "R/R",
           "Pitcher"
         ],
         "leaderboards": [
@@ -4870,7 +4958,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "school": "Grand Canyon",
         "role": "Hitter",
         "position": "INF",
-        "classYear": "SO",
+        "classYear": "JR",
         "handedness": "R/R",
         "score": 0,
         "fit": {
@@ -4916,10 +5004,10 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "SO / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "INF",
-          "SO",
+          "JR",
           "R/R",
           "Rostered"
         ],
@@ -5007,7 +5095,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "role": "Pitcher",
         "position": "RHP",
         "classYear": "SO",
-        "handedness": "N/A",
+        "handedness": "R/R",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -5052,11 +5140,11 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SO / N/A",
+        "metaLine": "SO / R/R",
         "detailBadges": [
           "RHP",
           "SO",
-          "N/A",
+          "R/R",
           "Pitcher"
         ],
         "leaderboards": [
@@ -5075,7 +5163,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "role": "Hitter",
         "position": "OF/1B",
         "classYear": "SO",
-        "handedness": "N/A",
+        "handedness": "L/L",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -5120,11 +5208,11 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "SO / N/A",
+        "metaLine": "SO / L/L",
         "detailBadges": [
           "OF/1B",
           "SO",
-          "N/A",
+          "L/L",
           "Rostered"
         ],
         "leaderboards": [
@@ -5953,13 +6041,13 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "grand-canyon-14298",
+        "id": "grand-canyon-14832",
         "name": "JT Lewis",
         "school": "Grand Canyon",
         "role": "Pitcher",
         "position": "LHP",
-        "classYear": "R-FR",
-        "handedness": "N/A",
+        "classYear": "SO",
+        "handedness": "L/L",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -6004,11 +6092,11 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "R-FR / N/A",
+        "metaLine": "SO / L/L",
         "detailBadges": [
           "LHP",
-          "R-FR",
-          "N/A",
+          "SO",
+          "L/L",
           "Pitcher"
         ],
         "leaderboards": [
@@ -6017,7 +6105,7 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "sourceSummary": "Grand Canyon Athletics roster",
         "schoolSlug": "grand-canyon",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://gculopes.com/sports/baseball/roster/jt-lewis/14298",
+        "profileUrl": "https://gculopes.com/sports/baseball/roster/jt-lewis/14832",
         "espnAthleteId": ""
       },
       {
@@ -6358,6 +6446,74 @@ window.__BASEBALL_DATASETS__.grand-canyon2026 = {
         "schoolSlug": "grand-canyon",
         "compositeRole": "Pitcher",
         "profileUrl": "https://gculopes.com/sports/baseball/roster/jake-echols/14853",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "grand-canyon-14953",
+        "name": "Kahanu Martinez",
+        "school": "Grand Canyon",
+        "role": "Hitter",
+        "position": "INF/C",
+        "classYear": "FR",
+        "handedness": "L/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Kahanu Martinez gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / L/R",
+        "detailBadges": [
+          "INF/C",
+          "FR",
+          "L/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Grand Canyon Athletics roster"
+        ],
+        "sourceSummary": "Grand Canyon Athletics roster",
+        "schoolSlug": "grand-canyon",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gculopes.com/sports/baseball/roster/kahanu-martinez/14953",
         "espnAthleteId": ""
       },
       {

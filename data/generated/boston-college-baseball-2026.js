@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.boston-college2026 = {
-  "generatedAt": "2026-07-16T10:54:47.134Z",
+  "generatedAt": "2026-11-18T10:17:56.973Z",
   "season": 2026,
   "school": {
     "slug": "boston-college",
@@ -25,17 +25,52 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
     "ncaa": "NCAA school index"
   },
   "coverage": {
-    "rosterPlayers": 41,
+    "rosterPlayers": 46,
     "espnRosterPlayers": 0,
-    "playersWithHittingStats": 18,
-    "playersWithPitchingStats": 20,
-    "playersWithFieldingStats": 33,
-    "mergedPlayersWithAnyStats": 37,
+    "playersWithHittingStats": 0,
+    "playersWithPitchingStats": 0,
+    "playersWithFieldingStats": 0,
+    "mergedPlayersWithAnyStats": 0,
     "matchedEspnPlayers": 0,
     "unmatchedStatRows": {
-      "hitting": [],
-      "pitching": [],
-      "fielding": []
+      "hitting": [
+        "Jack Toomey",
+        "Nick Wang",
+        "Gunnar Johnson",
+        "Carter Hendrickson",
+        "Kyle Wolff",
+        "Owen DeShazo",
+        "Jace Roossien"
+      ],
+      "pitching": [
+        "A.J. Colarusso",
+        "Tyler Mudd",
+        "John Mass",
+        "Aidan Gelbsman",
+        "Sean Hard",
+        "John Kwiatkowski",
+        "Peter Schaefer",
+        "Matthew Spada",
+        "John D Mitchell",
+        "Bobby Chicoine"
+      ],
+      "fielding": [
+        "Carter Hendrickson",
+        "Jace Roossien",
+        "Sean Hard",
+        "John D Mitchell",
+        "Peter Schaefer",
+        "Gunnar Johnson",
+        "Nick Wang",
+        "Jack Toomey",
+        "Kyle Wolff",
+        "Owen DeShazo",
+        "Tyler Mudd",
+        "John Kwiatkowski",
+        "A.J. Colarusso",
+        "Bobby Chicoine",
+        "Matthew Spada"
+      ]
     }
   },
   "teamSummary": {
@@ -124,24 +159,112 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
   },
   "players": [
     {
-      "id": "boston-college-26428",
+      "id": "boston-college-27472",
+      "schoolSlug": "boston-college",
+      "school": "Boston College",
+      "schoolLongName": "Boston College",
+      "name": "Will Matuszak",
+      "normalizedName": "will matuszak",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "Infield",
+      "classYear": "JR",
+      "handedness": "R/R",
+      "jersey": "0",
+      "hometown": "Los Angeles, Calif.",
+      "highSchool": "Winward",
+      "previousSchool": "",
+      "hometownHighSchool": "Los Angeles, Calif. / Winward",
+      "profileUrl": "https://bceagles.com/sports/baseball/roster/will-matuszak/27472",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "27472",
+      "sources": [
+        "Boston College Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Will Matuszak gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "INF",
+          "JR",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Boston College Athletics roster"
+      }
+    },
+    {
+      "id": "boston-college-27437",
       "schoolSlug": "boston-college",
       "school": "Boston College",
       "schoolLongName": "Boston College",
       "name": "Sean Martinez",
       "normalizedName": "sean martinez",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "INF",
       "positionLong": "Infield",
-      "classYear": "SO",
+      "classYear": "JR",
       "handedness": "R/R",
       "jersey": "1",
       "hometown": "Perkasie, Pa.",
       "highSchool": "Lansdale Catholic HS",
       "previousSchool": "Saint Peters",
       "hometownHighSchool": "Perkasie, Pa. / Lansdale Catholic HS",
-      "profileUrl": "https://bceagles.com/sports/baseball/roster/sean-martinez/26428",
+      "profileUrl": "https://bceagles.com/sports/baseball/roster/sean-martinez/27437",
       "imageUrl": "https://bceagles.com/images/2026/1/23/Martinez_Uncropped.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -149,70 +272,13 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "26428",
+      "rosterBioId": "27437",
       "sources": [
-        "Boston College Athletics roster",
-        "Boston College cumulative stats"
+        "Boston College Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "26428",
-        "name": "Sean Martinez",
-        "normalizedName": "sean martinez",
-        "jersey": "1",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/sean-martinez/26428",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Martinez_Uncropped.png",
-        "gamesPlayed": 11,
-        "gamesStarted": 10,
-        "battingAverage": 0.152,
-        "onBasePercentage": 0.222,
-        "sluggingPercentage": 0.182,
-        "ops": 0.404,
-        "atBats": 33,
-        "runs": 3,
-        "hits": 5,
-        "doubles": 1,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 3,
-        "totalBases": 6,
-        "walks": 0,
-        "hitByPitch": 3,
-        "strikeouts": 7,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 3,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 15,
-        "assists": 0,
-        "errors": 1,
-        "plateAppearances": 39,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "26428",
-        "name": "Sean Martinez",
-        "normalizedName": "sean martinez",
-        "jersey": "1",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/sean-martinez/26428",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Martinez_Uncropped.png",
-        "gamesPlayed": 10,
-        "gamesStarted": 10,
-        "putouts": 15,
-        "assists": 21,
-        "errors": 1,
-        "fieldingPercentage": 0.973,
-        "doublePlays": 4,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 37
-      },
+      "fieldingStats": null,
       "evaluation": {
         "score": 0,
         "fit": {
@@ -228,22 +294,22 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         },
         "summary": "Sean Martinez gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .152",
-          "OBP .222",
-          "SLG .182"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".152"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".222"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".182"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -251,42 +317,42 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
           },
           {
             "label": "RBI",
-            "value": "3"
+            "value": "0"
           },
           {
             "label": "SB",
             "value": "0"
           }
         ],
-        "metaLine": "SO / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "INF",
-          "SO",
+          "JR",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats"
+        "sourceSummary": "Boston College Athletics roster"
       }
     },
     {
-      "id": "boston-college-26426",
+      "id": "boston-college-27435",
       "schoolSlug": "boston-college",
       "school": "Boston College",
       "schoolLongName": "Boston College",
       "name": "Ty Mainolfi",
       "normalizedName": "ty mainolfi",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "INF",
       "positionLong": "Infield",
-      "classYear": "SO",
+      "classYear": "JR",
       "handedness": "L/R",
       "jersey": "2",
       "hometown": "Staten Island, N.Y.",
       "highSchool": "St. Peter's Boys High School",
       "previousSchool": "Dayton",
       "hometownHighSchool": "Staten Island, N.Y. / St. Peter's Boys High School",
-      "profileUrl": "https://bceagles.com/sports/baseball/roster/ty-mainolfi/26426",
+      "profileUrl": "https://bceagles.com/sports/baseball/roster/ty-mainolfi/27435",
       "imageUrl": "https://bceagles.com/images/2026/1/23/Mainolfi_Uncropped.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -294,144 +360,87 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "26426",
+      "rosterBioId": "27435",
       "sources": [
-        "Boston College Athletics roster",
-        "Boston College cumulative stats"
+        "Boston College Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "26426",
-        "name": "Ty Mainolfi",
-        "normalizedName": "ty mainolfi",
-        "jersey": "2",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/ty-mainolfi/26426",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Mainolfi_Uncropped.png",
-        "gamesPlayed": 60,
-        "gamesStarted": 59,
-        "battingAverage": 0.323,
-        "onBasePercentage": 0.411,
-        "sluggingPercentage": 0.444,
-        "ops": 0.855,
-        "atBats": 232,
-        "runs": 54,
-        "hits": 75,
-        "doubles": 16,
-        "triples": 3,
-        "homeRuns": 2,
-        "runsBattedIn": 51,
-        "totalBases": 103,
-        "walks": 31,
-        "hitByPitch": 5,
-        "strikeouts": 34,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 10,
-        "sacrificeFlies": 2,
-        "sacrificeHits": 4,
-        "stolenBases": 19,
-        "stolenBasesAttempts": 21,
-        "putouts": 106,
-        "assists": 0,
-        "errors": 9,
-        "plateAppearances": 297,
-        "caughtStealing": 2,
-        "pickedOff": 2
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "26426",
-        "name": "Ty Mainolfi",
-        "normalizedName": "ty mainolfi",
-        "jersey": "2",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/ty-mainolfi/26426",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Mainolfi_Uncropped.png",
-        "gamesPlayed": 55,
-        "gamesStarted": 55,
-        "putouts": 106,
-        "assists": 126,
-        "errors": 9,
-        "fieldingPercentage": 0.963,
-        "doublePlays": 27,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 241
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 61,
+        "score": 0,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
         "components": {
-          "On-base": 72.77777777777776,
-          "Power": 32.631578947368425,
-          "Contact": 64.375,
-          "Discipline": 79.08496732026141,
-          "Speed": 63.33333333333333
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "summary": "Ty Mainolfi profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
+        "summary": "Ty Mainolfi gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .323",
-          "OBP .411",
-          "SLG .444"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".323"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".411"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".444"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "2"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "51"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "19"
+            "value": "0"
           }
         ],
-        "metaLine": "SO / L/R",
+        "metaLine": "JR / L/R",
         "detailBadges": [
           "INF",
-          "SO",
+          "JR",
           "L/R",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats"
+        "sourceSummary": "Boston College Athletics roster"
       }
     },
     {
-      "id": "boston-college-26707",
+      "id": "boston-college-27424",
       "schoolSlug": "boston-college",
       "school": "Boston College",
       "schoolLongName": "Boston College",
       "name": "Charlie Comella",
       "normalizedName": "charlie comella",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "OF",
       "positionLong": "Outfield",
-      "classYear": "SO",
+      "classYear": "JR",
       "handedness": "L/L",
       "jersey": "4",
       "hometown": "Wellesley, Mass.",
       "highSchool": "Xaverian Brothers",
       "previousSchool": "",
       "hometownHighSchool": "Wellesley, Mass. / Xaverian Brothers",
-      "profileUrl": "https://bceagles.com/sports/baseball/roster/charlie-comella/26707",
+      "profileUrl": "https://bceagles.com/sports/baseball/roster/charlie-comella/27424",
       "imageUrl": "https://bceagles.com/images/2026/1/23/Comella_Uncropped.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -439,48 +448,11 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "26707",
+      "rosterBioId": "27424",
       "sources": [
-        "Boston College Athletics roster",
-        "Boston College cumulative stats"
+        "Boston College Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "26707",
-        "name": "Charlie Comella",
-        "normalizedName": "charlie comella",
-        "jersey": "4",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/charlie-comella/26707",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Comella_Uncropped.png",
-        "gamesPlayed": 3,
-        "gamesStarted": 0,
-        "battingAverage": 0,
-        "onBasePercentage": 0,
-        "sluggingPercentage": 0,
-        "ops": 0,
-        "atBats": 1,
-        "runs": 1,
-        "hits": 0,
-        "doubles": 0,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 0,
-        "totalBases": 0,
-        "walks": 0,
-        "hitByPitch": 0,
-        "strikeouts": 0,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 0,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 1,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
       "fieldingStats": null,
       "evaluation": {
@@ -498,22 +470,22 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         },
         "summary": "Charlie Comella gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .000",
-          "OBP .000",
-          "SLG .000"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -528,230 +500,51 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "SO / L/L",
+        "metaLine": "JR / L/L",
         "detailBadges": [
           "OF",
-          "SO",
+          "JR",
           "L/L",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats"
+        "sourceSummary": "Boston College Athletics roster"
       }
     },
     {
-      "id": "boston-college-26404",
+      "id": "boston-college-27473",
       "schoolSlug": "boston-college",
       "school": "Boston College",
       "schoolLongName": "Boston College",
-      "name": "John Mass",
-      "normalizedName": "john mass",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP/INF",
-      "positionLong": "Right-Handed Pitcher/Infield",
-      "classYear": "SO",
-      "handedness": "S/R",
-      "jersey": "5",
-      "hometown": "Portsmouth, R.I.",
-      "highSchool": "Portsmouth",
-      "previousSchool": "",
-      "hometownHighSchool": "Portsmouth, R.I. / Portsmouth",
-      "profileUrl": "https://bceagles.com/sports/baseball/roster/john-mass/26404",
-      "imageUrl": "https://bceagles.com/images/2026/1/23/Mass_Uncropped.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "26404",
-      "sources": [
-        "Boston College Athletics roster",
-        "Boston College cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "26404",
-        "name": "John Mass",
-        "normalizedName": "john mass",
-        "jersey": "5",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/john-mass/26404",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Mass_Uncropped.png",
-        "gamesPlayed": 3,
-        "gamesStarted": 0,
-        "appearances": 3,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 0,
-        "whip": 0.75,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 2.6666666666666665,
-        "inningsPitchedDisplay": "2.2",
-        "hitsAllowed": 1,
-        "runsAllowed": 0,
-        "earnedRunsAllowed": 0,
-        "walksAllowed": 1,
-        "strikeouts": 5,
-        "doublesAllowed": 0,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 9,
-        "wildPitches": 0,
-        "hitBatters": 1,
-        "balks": 0,
-        "opponentsBattingAverage": 0.111,
-        "walksHits": 0
-      },
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 33,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 100,
-          "Command": 80,
-          "Damage suppression": 0
-        },
-        "summary": "John Mass looks like a RHP/INF option who limits runs and misses bats and keeps traffic under control.",
-        "summaryMetrics": [
-          "ERA 0.00",
-          "WHIP 0.75",
-          "K/9 16.9"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "0.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "0.75"
-          },
-          {
-            "label": "K/9",
-            "value": "16.9"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.4"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "2.7"
-          }
-        ],
-        "metaLine": "SO / S/R",
-        "detailBadges": [
-          "RHP/INF",
-          "SO",
-          "S/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats"
-      }
-    },
-    {
-      "id": "boston-college-26394",
-      "schoolSlug": "boston-college",
-      "school": "Boston College",
-      "schoolLongName": "Boston College",
-      "name": "Esteban Garcia",
-      "normalizedName": "esteban garcia",
-      "compositeRole": "Hitter",
+      "name": "Chase Massey",
+      "normalizedName": "chase massey",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "INF",
       "positionLong": "Infield",
-      "classYear": "JR",
-      "handedness": "L/R",
-      "jersey": "7",
-      "hometown": "Queens, N.Y.",
-      "highSchool": "Poly Prep Country Day",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "5",
+      "hometown": "Parker, Colo.",
+      "highSchool": "Regis Jesuit High School",
       "previousSchool": "",
-      "hometownHighSchool": "Queens, N.Y. / Poly Prep Country Day",
-      "profileUrl": "https://bceagles.com/sports/baseball/roster/esteban-garcia/26394",
-      "imageUrl": "https://bceagles.com/images/2026/1/23/Garcia_Uncropped.png",
+      "hometownHighSchool": "Parker, Colo. / Regis Jesuit High School",
+      "profileUrl": "https://bceagles.com/sports/baseball/roster/chase-massey/27473",
+      "imageUrl": "",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "26394",
+      "rosterBioId": "27473",
       "sources": [
-        "Boston College Athletics roster",
-        "Boston College cumulative stats"
+        "Boston College Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "26394",
-        "name": "Esteban Garcia",
-        "normalizedName": "esteban garcia",
-        "jersey": "7",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/esteban-garcia/26394",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Garcia_Uncropped.png",
-        "gamesPlayed": 28,
-        "gamesStarted": 7,
-        "battingAverage": 0.167,
-        "onBasePercentage": 0.275,
-        "sluggingPercentage": 0.19,
-        "ops": 0.465,
-        "atBats": 42,
-        "runs": 10,
-        "hits": 7,
-        "doubles": 1,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 7,
-        "totalBases": 8,
-        "walks": 4,
-        "hitByPitch": 3,
-        "strikeouts": 7,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 2,
-        "sacrificeHits": 1,
-        "stolenBases": 2,
-        "stolenBasesAttempts": 4,
-        "putouts": 7,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 58,
-        "caughtStealing": 2,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "26394",
-        "name": "Esteban Garcia",
-        "normalizedName": "esteban garcia",
-        "jersey": "7",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/esteban-garcia/26394",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Garcia_Uncropped.png",
-        "gamesPlayed": 3,
-        "gamesStarted": 1,
-        "putouts": 7,
-        "assists": 2,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 1,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 9
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 6,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -760,27 +553,27 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
           "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 41.26984126984126,
-          "Speed": 6.666666666666667
+          "Discipline": 0,
+          "Speed": 0
         },
-        "summary": "Esteban Garcia gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Chase Massey gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .167",
-          "OBP .275",
-          "SLG .190"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".167"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".275"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".190"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -788,167 +581,201 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
           },
           {
             "label": "RBI",
-            "value": "7"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "2"
+            "value": "0"
           }
         ],
-        "metaLine": "JR / L/R",
+        "metaLine": "FR / R/R",
         "detailBadges": [
           "INF",
-          "JR",
-          "L/R",
-          "Hitter"
+          "FR",
+          "R/R",
+          "Rostered"
         ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats"
+        "sourceSummary": "Boston College Athletics roster"
       }
     },
     {
-      "id": "boston-college-26392",
+      "id": "boston-college-27474",
       "schoolSlug": "boston-college",
       "school": "Boston College",
       "schoolLongName": "Boston College",
-      "name": "A.J. Colarusso",
-      "normalizedName": "a j colarusso",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "Left-Handed Pitcher",
-      "classYear": "SR",
-      "handedness": "L/L",
-      "jersey": "8",
-      "hometown": "Leominster, Mass.",
-      "highSchool": "Groton School",
+      "name": "Patrick Connors",
+      "normalizedName": "patrick connors",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "Outfield",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "6",
+      "hometown": "Chicago, Ill.",
+      "highSchool": "Hinsdale Central High School",
       "previousSchool": "",
-      "hometownHighSchool": "Leominster, Mass. / Groton School",
-      "profileUrl": "https://bceagles.com/sports/baseball/roster/aj-colarusso/26392",
-      "imageUrl": "https://bceagles.com/images/2026/1/23/Colarusso_Uncropped.png",
+      "hometownHighSchool": "Chicago, Ill. / Hinsdale Central High School",
+      "profileUrl": "https://bceagles.com/sports/baseball/roster/patrick-connors/27474",
+      "imageUrl": "",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "26392",
+      "rosterBioId": "27474",
       "sources": [
-        "Boston College Athletics roster",
-        "Boston College cumulative stats"
+        "Boston College Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "26392",
-        "name": "A.J. Colarusso",
-        "normalizedName": "a j colarusso",
-        "jersey": "8",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/aj-colarusso/26392",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Colarusso_Uncropped.png",
-        "gamesPlayed": 16,
-        "gamesStarted": 16,
-        "appearances": 16,
-        "gamesCompleted": 1,
-        "earnedRunAverage": 4.45,
-        "whip": 1.39,
-        "wins": 5,
-        "losses": 4,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 83,
-        "inningsPitchedDisplay": "83.0",
-        "hitsAllowed": 91,
-        "runsAllowed": 52,
-        "earnedRunsAllowed": 41,
-        "walksAllowed": 24,
-        "strikeouts": 77,
-        "doublesAllowed": 13,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 12,
-        "opponentsAtBats": 330,
-        "wildPitches": 3,
-        "hitBatters": 7,
-        "balks": 3,
-        "opponentsBattingAverage": 0.276,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "26392",
-        "name": "A.J. Colarusso",
-        "normalizedName": "a j colarusso",
-        "jersey": "8",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/aj-colarusso/26392",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Colarusso_Uncropped.png",
-        "gamesPlayed": 8,
-        "gamesStarted": 8,
-        "putouts": 3,
-        "assists": 5,
-        "errors": 3,
-        "fieldingPercentage": 0.727,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 1,
-        "caughtStealingBy": 1,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 11
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 15,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 39.539978094194964,
-          "Command": 44.16666666666668,
-          "Damage suppression": 0
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "summary": "A.J. Colarusso looks like a LHP option who throws enough strikes.",
+        "summary": "Patrick Connors gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.45",
-          "WHIP 1.39",
-          "K/9 8.3"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
-            "label": "ERA",
-            "value": "4.45"
+            "label": "AVG",
+            "value": "--"
           },
           {
-            "label": "WHIP",
-            "value": "1.39"
+            "label": "OBP",
+            "value": "--"
           },
           {
-            "label": "K/9",
-            "value": "8.3"
+            "label": "SLG",
+            "value": "--"
           },
           {
-            "label": "BB/9",
-            "value": "2.6"
+            "label": "HR",
+            "value": "0"
           },
           {
-            "label": "HR/9",
-            "value": "1.30"
+            "label": "RBI",
+            "value": "0"
           },
           {
-            "label": "IP",
-            "value": "83.0"
+            "label": "SB",
+            "value": "0"
           }
         ],
-        "metaLine": "SR / L/L",
+        "metaLine": "FR / R/R",
         "detailBadges": [
-          "LHP",
-          "SR",
-          "L/L",
-          "Pitcher"
+          "OF",
+          "FR",
+          "R/R",
+          "Rostered"
         ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats"
+        "sourceSummary": "Boston College Athletics roster"
       }
     },
     {
-      "id": "boston-college-26427",
+      "id": "boston-college-27428",
+      "schoolSlug": "boston-college",
+      "school": "Boston College",
+      "schoolLongName": "Boston College",
+      "name": "Esteban Garcia",
+      "normalizedName": "esteban garcia",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "Infield",
+      "classYear": "SR",
+      "handedness": "L/R",
+      "jersey": "7",
+      "hometown": "Queens, N.Y.",
+      "highSchool": "Poly Prep Country Day",
+      "previousSchool": "",
+      "hometownHighSchool": "Queens, N.Y. / Poly Prep Country Day",
+      "profileUrl": "https://bceagles.com/sports/baseball/roster/esteban-garcia/27428",
+      "imageUrl": "https://bceagles.com/images/2026/1/23/Garcia_Uncropped.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "27428",
+      "sources": [
+        "Boston College Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Esteban Garcia gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "SR / L/R",
+        "detailBadges": [
+          "INF",
+          "SR",
+          "L/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Boston College Athletics roster"
+      }
+    },
+    {
+      "id": "boston-college-27436",
       "schoolSlug": "boston-college",
       "school": "Boston College",
       "schoolLongName": "Boston College",
@@ -958,14 +785,14 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
       "role": "Hitter",
       "position": "OF",
       "positionLong": "Outfield",
-      "classYear": "FR",
+      "classYear": "SO",
       "handedness": "S/R",
       "jersey": "9",
       "hometown": "Boston, Mass.",
       "highSchool": "Dexter Southfield",
       "previousSchool": "",
       "hometownHighSchool": "Boston, Mass. / Dexter Southfield",
-      "profileUrl": "https://bceagles.com/sports/baseball/roster/gabe-malaret/26427",
+      "profileUrl": "https://bceagles.com/sports/baseball/roster/gabe-malaret/27436",
       "imageUrl": "https://bceagles.com/images/2026/1/23/Malaret_Uncropped.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -973,7 +800,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "26427",
+      "rosterBioId": "27436",
       "sources": [
         "Boston College Athletics roster"
       ],
@@ -1025,10 +852,10 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "FR / S/R",
+        "metaLine": "SO / S/R",
         "detailBadges": [
           "OF",
-          "FR",
+          "SO",
           "S/R",
           "Rostered"
         ],
@@ -1036,24 +863,24 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
       }
     },
     {
-      "id": "boston-college-26403",
+      "id": "boston-college-27434",
       "schoolSlug": "boston-college",
       "school": "Boston College",
       "schoolLongName": "Boston College",
       "name": "Colin Larson",
       "normalizedName": "colin larson",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "OF",
       "positionLong": "Outfield",
-      "classYear": "SO",
+      "classYear": "JR",
       "handedness": "L/L",
       "jersey": "10",
       "hometown": "Easthampton, Mass.",
       "highSchool": "Williston Northampton School",
       "previousSchool": "",
       "hometownHighSchool": "Easthampton, Mass. / Williston Northampton School",
-      "profileUrl": "https://bceagles.com/sports/baseball/roster/colin-larson/26403",
+      "profileUrl": "https://bceagles.com/sports/baseball/roster/colin-larson/27434",
       "imageUrl": "https://bceagles.com/images/2026/1/23/Larson_Uncropped.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -1061,362 +888,15 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "26403",
+      "rosterBioId": "27434",
       "sources": [
-        "Boston College Athletics roster",
-        "Boston College cumulative stats"
+        "Boston College Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "26403",
-        "name": "Colin Larson",
-        "normalizedName": "colin larson",
-        "jersey": "10",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/colin-larson/26403",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Larson_Uncropped.png",
-        "gamesPlayed": 58,
-        "gamesStarted": 53,
-        "battingAverage": 0.225,
-        "onBasePercentage": 0.412,
-        "sluggingPercentage": 0.338,
-        "ops": 0.75,
-        "atBats": 142,
-        "runs": 33,
-        "hits": 32,
-        "doubles": 3,
-        "triples": 2,
-        "homeRuns": 3,
-        "runsBattedIn": 21,
-        "totalBases": 48,
-        "walks": 37,
-        "hitByPitch": 8,
-        "strikeouts": 55,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 6,
-        "stolenBases": 21,
-        "stolenBasesAttempts": 22,
-        "putouts": 119,
-        "assists": 0,
-        "errors": 2,
-        "plateAppearances": 216,
-        "caughtStealing": 1,
-        "pickedOff": 3
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "26403",
-        "name": "Colin Larson",
-        "normalizedName": "colin larson",
-        "jersey": "10",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/colin-larson/26403",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Larson_Uncropped.png",
-        "gamesPlayed": 49,
-        "gamesStarted": 47,
-        "putouts": 119,
-        "assists": 3,
-        "errors": 2,
-        "fieldingPercentage": 0.984,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 124
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 40,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 73.3333333333333,
-          "Power": 4.736842105263163,
-          "Contact": 3.1250000000000027,
-          "Discipline": 52.52525252525252,
-          "Speed": 70
-        },
-        "summary": "Colin Larson profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .225",
-          "OBP .412",
-          "SLG .338"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".225"
-          },
-          {
-            "label": "OBP",
-            "value": ".412"
-          },
-          {
-            "label": "SLG",
-            "value": ".338"
-          },
-          {
-            "label": "HR",
-            "value": "3"
-          },
-          {
-            "label": "RBI",
-            "value": "21"
-          },
-          {
-            "label": "SB",
-            "value": "21"
-          }
-        ],
-        "metaLine": "SO / L/L",
-        "detailBadges": [
-          "OF",
-          "SO",
-          "L/L",
-          "Hitter"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats"
-      }
-    },
-    {
-      "id": "boston-college-26400",
-      "schoolSlug": "boston-college",
-      "school": "Boston College",
-      "schoolLongName": "Boston College",
-      "name": "Gunnar Johnson",
-      "normalizedName": "gunnar johnson",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "C",
-      "positionLong": "Catcher",
-      "classYear": "GR",
-      "handedness": "R/R",
-      "jersey": "11",
-      "hometown": "Newington, Conn.",
-      "highSchool": "Newington",
-      "previousSchool": "Wofford",
-      "hometownHighSchool": "Newington, Conn. / Newington",
-      "profileUrl": "https://bceagles.com/sports/baseball/roster/gunnar-johnson/26400",
-      "imageUrl": "https://bceagles.com/images/2026/1/23/Johnson_Uncropped.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "26400",
-      "sources": [
-        "Boston College Athletics roster",
-        "Boston College cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "26400",
-        "name": "Gunnar Johnson",
-        "normalizedName": "gunnar johnson",
-        "jersey": "11",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/gunnar-johnson/26400",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Johnson_Uncropped.png",
-        "gamesPlayed": 48,
-        "gamesStarted": 39,
-        "battingAverage": 0.25,
-        "onBasePercentage": 0.354,
-        "sluggingPercentage": 0.379,
-        "ops": 0.733,
-        "atBats": 140,
-        "runs": 15,
-        "hits": 35,
-        "doubles": 12,
-        "triples": 0,
-        "homeRuns": 2,
-        "runsBattedIn": 32,
-        "totalBases": 53,
-        "walks": 15,
-        "hitByPitch": 8,
-        "strikeouts": 35,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 4,
-        "sacrificeFlies": 1,
-        "sacrificeHits": 5,
-        "stolenBases": 3,
-        "stolenBasesAttempts": 4,
-        "putouts": 293,
-        "assists": 0,
-        "errors": 2,
-        "plateAppearances": 174,
-        "caughtStealing": 1,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "26400",
-        "name": "Gunnar Johnson",
-        "normalizedName": "gunnar johnson",
-        "jersey": "11",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/gunnar-johnson/26400",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Johnson_Uncropped.png",
-        "gamesPlayed": 43,
-        "gamesStarted": 37,
-        "putouts": 293,
-        "assists": 33,
-        "errors": 2,
-        "fieldingPercentage": 0.994,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 22,
-        "caughtStealingBy": 13,
-        "stolenBasesPercentage": null,
-        "passedBalls": 2,
-        "catchersInterference": 0,
-        "totalChances": 328
-      },
-      "evaluation": {
-        "score": 25,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 41.111111111111086,
-          "Power": 15.526315789473685,
-          "Contact": 18.75,
-          "Discipline": 25.39682539682539,
-          "Speed": 10
-        },
-        "summary": "Gunnar Johnson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .250",
-          "OBP .354",
-          "SLG .379"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".250"
-          },
-          {
-            "label": "OBP",
-            "value": ".354"
-          },
-          {
-            "label": "SLG",
-            "value": ".379"
-          },
-          {
-            "label": "HR",
-            "value": "2"
-          },
-          {
-            "label": "RBI",
-            "value": "32"
-          },
-          {
-            "label": "SB",
-            "value": "3"
-          }
-        ],
-        "metaLine": "GR / R/R",
-        "detailBadges": [
-          "C",
-          "GR",
-          "R/R",
-          "Hitter"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats"
-      }
-    },
-    {
-      "id": "boston-college-26393",
-      "schoolSlug": "boston-college",
-      "school": "Boston College",
-      "schoolLongName": "Boston College",
-      "name": "Owen DeShazo",
-      "normalizedName": "owen deshazo",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "OF",
-      "positionLong": "Outfield",
-      "classYear": "SR",
-      "handedness": "R/R",
-      "jersey": "12",
-      "hometown": "Glen Allen, Va.",
-      "highSchool": "Hanover",
-      "previousSchool": "",
-      "hometownHighSchool": "Glen Allen, Va. / Hanover",
-      "profileUrl": "https://bceagles.com/sports/baseball/roster/owen-deshazo/26393",
-      "imageUrl": "https://bceagles.com/images/2026/3/22/Owen_Final.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "26393",
-      "sources": [
-        "Boston College Athletics roster",
-        "Boston College cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "26393",
-        "name": "Owen DeShazo",
-        "normalizedName": "owen deshazo",
-        "jersey": "12",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/owen-deshazo/26393",
-        "imageUrl": "https://bceagles.com/images/2026/3/22/Owen_Final.png",
-        "gamesPlayed": 28,
-        "gamesStarted": 12,
-        "battingAverage": 0.175,
-        "onBasePercentage": 0.239,
-        "sluggingPercentage": 0.3,
-        "ops": 0.539,
-        "atBats": 40,
-        "runs": 12,
-        "hits": 7,
-        "doubles": 2,
-        "triples": 0,
-        "homeRuns": 1,
-        "runsBattedIn": 5,
-        "totalBases": 12,
-        "walks": 3,
-        "hitByPitch": 1,
-        "strikeouts": 16,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 2,
-        "sacrificeFlies": 2,
-        "sacrificeHits": 1,
-        "stolenBases": 2,
-        "stolenBasesAttempts": 3,
-        "putouts": 15,
-        "assists": 0,
-        "errors": 1,
-        "plateAppearances": 51,
-        "caughtStealing": 1,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "26393",
-        "name": "Owen DeShazo",
-        "normalizedName": "owen deshazo",
-        "jersey": "12",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/owen-deshazo/26393",
-        "imageUrl": "https://bceagles.com/images/2026/3/22/Owen_Final.png",
-        "gamesPlayed": 11,
-        "gamesStarted": 7,
-        "putouts": 15,
-        "assists": 1,
-        "errors": 1,
-        "fieldingPercentage": 0.941,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 17
-      },
-      "evaluation": {
-        "score": 1,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -1426,287 +906,85 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
           "Power": 0,
           "Contact": 0,
           "Discipline": 0,
-          "Speed": 6.666666666666667
+          "Speed": 0
         },
-        "summary": "Owen DeShazo gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Colin Larson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .175",
-          "OBP .239",
-          "SLG .300"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".175"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".239"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".300"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "1"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "5"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "2"
+            "value": "0"
           }
         ],
-        "metaLine": "SR / R/R",
+        "metaLine": "JR / L/L",
         "detailBadges": [
           "OF",
-          "SR",
-          "R/R",
-          "Hitter"
+          "JR",
+          "L/L",
+          "Rostered"
         ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats"
+        "sourceSummary": "Boston College Athletics roster"
       }
     },
     {
-      "id": "boston-college-26421",
+      "id": "boston-college-27475",
       "schoolSlug": "boston-college",
       "school": "Boston College",
       "schoolLongName": "Boston College",
-      "name": "Luke Gallo",
-      "normalizedName": "luke gallo",
-      "compositeRole": "Hitter",
+      "name": "Collin Haug",
+      "normalizedName": "collin haug",
+      "compositeRole": "Rostered",
       "role": "Hitter",
-      "position": "INF",
-      "positionLong": "Infield",
+      "position": "OF",
+      "positionLong": "Outfield",
       "classYear": "FR",
       "handedness": "R/R",
-      "jersey": "14",
-      "hometown": "Shrewsbury, Mass.",
-      "highSchool": "Phillips Academy",
+      "jersey": "11",
+      "hometown": "Islip, N.Y.",
+      "highSchool": "Islip High School",
       "previousSchool": "",
-      "hometownHighSchool": "Shrewsbury, Mass. / Phillips Academy",
-      "profileUrl": "https://bceagles.com/sports/baseball/roster/luke-gallo/26421",
-      "imageUrl": "https://bceagles.com/images/2026/1/23/Gallo_Uncropped.png",
+      "hometownHighSchool": "Islip, N.Y. / Islip High School",
+      "profileUrl": "https://bceagles.com/sports/baseball/roster/collin-haug/27475",
+      "imageUrl": "",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "26421",
+      "rosterBioId": "27475",
       "sources": [
-        "Boston College Athletics roster",
-        "Boston College cumulative stats"
+        "Boston College Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "26421",
-        "name": "Luke Gallo",
-        "normalizedName": "luke gallo",
-        "jersey": "14",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/luke-gallo/26421",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Gallo_Uncropped.png",
-        "gamesPlayed": 54,
-        "gamesStarted": 49,
-        "battingAverage": 0.325,
-        "onBasePercentage": 0.434,
-        "sluggingPercentage": 0.429,
-        "ops": 0.863,
-        "atBats": 163,
-        "runs": 26,
-        "hits": 53,
-        "doubles": 9,
-        "triples": 1,
-        "homeRuns": 2,
-        "runsBattedIn": 36,
-        "totalBases": 70,
-        "walks": 20,
-        "hitByPitch": 12,
-        "strikeouts": 23,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 4,
-        "sacrificeFlies": 1,
-        "sacrificeHits": 8,
-        "stolenBases": 9,
-        "stolenBasesAttempts": 11,
-        "putouts": 38,
-        "assists": 0,
-        "errors": 9,
-        "plateAppearances": 218,
-        "caughtStealing": 2,
-        "pickedOff": 1
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "26421",
-        "name": "Luke Gallo",
-        "normalizedName": "luke gallo",
-        "jersey": "14",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/luke-gallo/26421",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Gallo_Uncropped.png",
-        "gamesPlayed": 47,
-        "gamesStarted": 47,
-        "putouts": 38,
-        "assists": 92,
-        "errors": 9,
-        "fieldingPercentage": 0.935,
-        "doublePlays": 13,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 139
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 60,
-        "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
-        },
-        "components": {
-          "On-base": 85.55555555555554,
-          "Power": 28.68421052631579,
-          "Contact": 65.625,
-          "Discipline": 74.39613526570045,
-          "Speed": 30
-        },
-        "summary": "Luke Gallo profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .325",
-          "OBP .434",
-          "SLG .429"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".325"
-          },
-          {
-            "label": "OBP",
-            "value": ".434"
-          },
-          {
-            "label": "SLG",
-            "value": ".429"
-          },
-          {
-            "label": "HR",
-            "value": "2"
-          },
-          {
-            "label": "RBI",
-            "value": "36"
-          },
-          {
-            "label": "SB",
-            "value": "9"
-          }
-        ],
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "INF",
-          "FR",
-          "R/R",
-          "Hitter"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats"
-      }
-    },
-    {
-      "id": "boston-college-26407",
-      "schoolSlug": "boston-college",
-      "school": "Boston College",
-      "schoolLongName": "Boston College",
-      "name": "Jace Roossien",
-      "normalizedName": "jace roossien",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "C/OF",
-      "positionLong": "Catcher/Outfield",
-      "classYear": "SO",
-      "handedness": "S/R",
-      "jersey": "15",
-      "hometown": "Nahant, Mass.",
-      "highSchool": "Phillips Academy",
-      "previousSchool": "",
-      "hometownHighSchool": "Nahant, Mass. / Phillips Academy",
-      "profileUrl": "https://bceagles.com/sports/baseball/roster/jace-roossien/26407",
-      "imageUrl": "https://bceagles.com/images/2026/1/23/Roossien_Uncropped.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "26407",
-      "sources": [
-        "Boston College Athletics roster",
-        "Boston College cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "26407",
-        "name": "Jace Roossien",
-        "normalizedName": "jace roossien",
-        "jersey": "15",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/jace-roossien/26407",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Roossien_Uncropped.png",
-        "gamesPlayed": 18,
-        "gamesStarted": 6,
-        "battingAverage": 0.167,
-        "onBasePercentage": 0.25,
-        "sluggingPercentage": 0.208,
-        "ops": 0.458,
-        "atBats": 24,
-        "runs": 5,
-        "hits": 4,
-        "doubles": 1,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 3,
-        "totalBases": 5,
-        "walks": 3,
-        "hitByPitch": 0,
-        "strikeouts": 9,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 1,
-        "sacrificeHits": 1,
-        "stolenBases": 2,
-        "stolenBasesAttempts": 2,
-        "putouts": 25,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 31,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "26407",
-        "name": "Jace Roossien",
-        "normalizedName": "jace roossien",
-        "jersey": "15",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/jace-roossien/26407",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Roossien_Uncropped.png",
-        "gamesPlayed": 5,
-        "gamesStarted": 4,
-        "putouts": 25,
-        "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 1,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 1,
-        "catchersInterference": 0,
-        "totalChances": 25
-      },
-      "evaluation": {
-        "score": 3,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -1715,27 +993,27 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
           "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 14.814814814814808,
-          "Speed": 6.666666666666667
+          "Discipline": 0,
+          "Speed": 0
         },
-        "summary": "Jace Roossien gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Collin Haug gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .167",
-          "OBP .250",
-          "SLG .208"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".167"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".250"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".208"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -1743,156 +1021,187 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
           },
           {
             "label": "RBI",
-            "value": "3"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "2"
+            "value": "0"
           }
         ],
-        "metaLine": "SO / S/R",
+        "metaLine": "FR / R/R",
         "detailBadges": [
-          "C/OF",
-          "SO",
-          "S/R",
-          "Hitter"
+          "OF",
+          "FR",
+          "R/R",
+          "Rostered"
         ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats"
+        "sourceSummary": "Boston College Athletics roster"
       }
     },
     {
-      "id": "boston-college-26410",
+      "id": "boston-college-27476",
       "schoolSlug": "boston-college",
       "school": "Boston College",
       "schoolLongName": "Boston College",
-      "name": "Julio Solier",
-      "normalizedName": "julio solier",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "INF",
-      "positionLong": "Infield",
-      "classYear": "SO",
+      "name": "Matt Kouser",
+      "normalizedName": "matt kouser",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "JR",
       "handedness": "R/R",
-      "jersey": "16",
-      "hometown": "Guayama, Puerto Rico",
-      "highSchool": "Springfield Central",
+      "jersey": "12",
+      "hometown": "Haddonfield, N.J.",
+      "highSchool": "St. Augustine Prep",
       "previousSchool": "",
-      "hometownHighSchool": "Guayama, Puerto Rico / Springfield Central",
-      "profileUrl": "https://bceagles.com/sports/baseball/roster/julio-solier/26410",
-      "imageUrl": "https://bceagles.com/images/2026/1/23/Solier_Uncropped.png",
+      "hometownHighSchool": "Haddonfield, N.J. / St. Augustine Prep",
+      "profileUrl": "https://bceagles.com/sports/baseball/roster/matt-kouser/27476",
+      "imageUrl": "",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "26410",
+      "rosterBioId": "27476",
       "sources": [
-        "Boston College Athletics roster",
-        "Boston College cumulative stats"
+        "Boston College Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "26410",
-        "name": "Julio Solier",
-        "normalizedName": "julio solier",
-        "jersey": "16",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/julio-solier/26410",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Solier_Uncropped.png",
-        "gamesPlayed": 59,
-        "gamesStarted": 59,
-        "battingAverage": 0.354,
-        "onBasePercentage": 0.434,
-        "sluggingPercentage": 0.498,
-        "ops": 0.932,
-        "atBats": 237,
-        "runs": 57,
-        "hits": 84,
-        "doubles": 15,
-        "triples": 5,
-        "homeRuns": 3,
-        "runsBattedIn": 34,
-        "totalBases": 118,
-        "walks": 30,
-        "hitByPitch": 5,
-        "strikeouts": 45,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 3,
-        "sacrificeFlies": 2,
-        "sacrificeHits": 4,
-        "stolenBases": 28,
-        "stolenBasesAttempts": 32,
-        "putouts": 60,
-        "assists": 0,
-        "errors": 10,
-        "plateAppearances": 314,
-        "caughtStealing": 4,
-        "pickedOff": 1
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "26410",
-        "name": "Julio Solier",
-        "normalizedName": "julio solier",
-        "jersey": "16",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/julio-solier/26410",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Solier_Uncropped.png",
-        "gamesPlayed": 56,
-        "gamesStarted": 56,
-        "putouts": 60,
-        "assists": 129,
-        "errors": 10,
-        "fieldingPercentage": 0.95,
-        "doublePlays": 21,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 199
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 71,
+        "score": 0,
         "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
+          "label": "Depth",
+          "className": "fit-depth"
         },
         "components": {
-          "On-base": 85.55555555555554,
-          "Power": 46.842105263157904,
-          "Contact": 83.74999999999999,
-          "Discipline": 51.85185185185184,
-          "Speed": 93.33333333333333
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
         },
-        "summary": "Julio Solier profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
+        "summary": "Matt Kouser looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "AVG .354",
-          "OBP .434",
-          "SLG .498"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Boston College Athletics roster"
+      }
+    },
+    {
+      "id": "boston-college-27427",
+      "schoolSlug": "boston-college",
+      "school": "Boston College",
+      "schoolLongName": "Boston College",
+      "name": "Luke Gallo",
+      "normalizedName": "luke gallo",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "Infield",
+      "classYear": "SO",
+      "handedness": "R/R",
+      "jersey": "14",
+      "hometown": "Shrewsbury, Mass.",
+      "highSchool": "Phillips Academy",
+      "previousSchool": "",
+      "hometownHighSchool": "Shrewsbury, Mass. / Phillips Academy",
+      "profileUrl": "https://bceagles.com/sports/baseball/roster/luke-gallo/27427",
+      "imageUrl": "https://bceagles.com/images/2026/1/23/Gallo_Uncropped.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "27427",
+      "sources": [
+        "Boston College Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Luke Gallo gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".354"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".434"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".498"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "3"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "34"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "28"
+            "value": "0"
           }
         ],
         "metaLine": "SO / R/R",
@@ -1900,13 +1209,189 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
           "INF",
           "SO",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats"
+        "sourceSummary": "Boston College Athletics roster"
       }
     },
     {
-      "id": "boston-college-26409",
+      "id": "boston-college-27477",
+      "schoolSlug": "boston-college",
+      "school": "Boston College",
+      "schoolLongName": "Boston College",
+      "name": "Nick Quagliato",
+      "normalizedName": "nick quagliato",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "C",
+      "positionLong": "Catcher",
+      "classYear": "JR",
+      "handedness": "R/R",
+      "jersey": "15",
+      "hometown": "Neptune, N.J.",
+      "highSchool": "Neptune",
+      "previousSchool": "",
+      "hometownHighSchool": "Neptune, N.J. / Neptune",
+      "profileUrl": "https://bceagles.com/sports/baseball/roster/nick-quagliato/27477",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "27477",
+      "sources": [
+        "Boston College Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Nick Quagliato gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "C",
+          "JR",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Boston College Athletics roster"
+      }
+    },
+    {
+      "id": "boston-college-27442",
+      "schoolSlug": "boston-college",
+      "school": "Boston College",
+      "schoolLongName": "Boston College",
+      "name": "Julio Solier",
+      "normalizedName": "julio solier",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "Infield",
+      "classYear": "JR",
+      "handedness": "R/R",
+      "jersey": "16",
+      "hometown": "Guayama, Puerto Rico",
+      "highSchool": "Springfield Central",
+      "previousSchool": "",
+      "hometownHighSchool": "Guayama, Puerto Rico / Springfield Central",
+      "profileUrl": "https://bceagles.com/sports/baseball/roster/julio-solier/27442",
+      "imageUrl": "https://bceagles.com/images/2026/1/23/Solier_Uncropped.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "27442",
+      "sources": [
+        "Boston College Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Julio Solier gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "INF",
+          "JR",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Boston College Athletics roster"
+      }
+    },
+    {
+      "id": "boston-college-27441",
       "schoolSlug": "boston-college",
       "school": "Boston College",
       "schoolLongName": "Boston College",
@@ -1916,14 +1401,14 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Right-Handed Pitcher",
-      "classYear": "SO",
+      "classYear": "JR",
       "handedness": "R/R",
       "jersey": "17",
       "hometown": "Ho-Ho-Kus, N.J.",
       "highSchool": "Northern Highlands",
       "previousSchool": "",
       "hometownHighSchool": "Ho-Ho-Kus, N.J. / Northern Highlands",
-      "profileUrl": "https://bceagles.com/sports/baseball/roster/gavin-soares/26409",
+      "profileUrl": "https://bceagles.com/sports/baseball/roster/gavin-soares/27441",
       "imageUrl": "https://bceagles.com/images/2026/1/23/Soares.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -1931,69 +1416,15 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "26409",
+      "rosterBioId": "27441",
       "sources": [
-        "Boston College Athletics roster",
-        "Boston College cumulative stats"
+        "Boston College Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "26409",
-        "name": "Gavin Soares",
-        "normalizedName": "gavin soares",
-        "jersey": "17",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/gavin-soares/26409",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Soares.png",
-        "gamesPlayed": 15,
-        "gamesStarted": 0,
-        "appearances": 15,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 2.96,
-        "whip": 1.24,
-        "wins": 1,
-        "losses": 3,
-        "saves": 5,
-        "shutouts": 0,
-        "inningsPitched": 27.333333333333332,
-        "inningsPitchedDisplay": "27.1",
-        "hitsAllowed": 25,
-        "runsAllowed": 9,
-        "earnedRunsAllowed": 9,
-        "walksAllowed": 9,
-        "strikeouts": 35,
-        "doublesAllowed": 2,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 1,
-        "opponentsAtBats": 102,
-        "wildPitches": 2,
-        "hitBatters": 2,
-        "balks": 0,
-        "opponentsBattingAverage": 0.245,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "26409",
-        "name": "Gavin Soares",
-        "normalizedName": "gavin soares",
-        "jersey": "17",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/gavin-soares/26409",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Soares.png",
-        "gamesPlayed": 4,
-        "gamesStarted": 0,
-        "putouts": 1,
-        "assists": 3,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 4
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 23,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2001,216 +1432,159 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 68.40354767184036,
-          "Command": 57.777777777777786,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Gavin Soares looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
+        "summary": "Gavin Soares looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 2.96",
-          "WHIP 1.24",
-          "K/9 11.5"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.96"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.24"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "11.5"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "3.0"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "0.33"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "27.3"
+            "value": "0.0"
           }
         ],
-        "metaLine": "SO / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "RHP",
-          "SO",
+          "JR",
           "R/R",
           "Pitcher"
         ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats"
+        "sourceSummary": "Boston College Athletics roster"
       }
     },
     {
-      "id": "boston-college-26416",
+      "id": "boston-college-27478",
       "schoolSlug": "boston-college",
       "school": "Boston College",
       "schoolLongName": "Boston College",
-      "name": "Kyle Wolff",
-      "normalizedName": "kyle wolff",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "INF",
-      "positionLong": "Infield",
-      "classYear": "SR",
-      "handedness": "R/L",
+      "name": "Max Goldberg",
+      "normalizedName": "max goldberg",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "Left-Handed Pitcher",
+      "classYear": "FR",
+      "handedness": "L/L",
       "jersey": "18",
-      "hometown": "Andover, Mass.",
-      "highSchool": "Middlesex School",
+      "hometown": "Englewood, Colo.",
+      "highSchool": "Cherry Creek High School",
       "previousSchool": "",
-      "hometownHighSchool": "Andover, Mass. / Middlesex School",
-      "profileUrl": "https://bceagles.com/sports/baseball/roster/kyle-wolff/26416",
-      "imageUrl": "https://bceagles.com/images/2026/1/23/Wolff_Uncropped.png",
+      "hometownHighSchool": "Englewood, Colo. / Cherry Creek High School",
+      "profileUrl": "https://bceagles.com/sports/baseball/roster/max-goldberg/27478",
+      "imageUrl": "",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "26416",
+      "rosterBioId": "27478",
       "sources": [
-        "Boston College Athletics roster",
-        "Boston College cumulative stats"
+        "Boston College Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "26416",
-        "name": "Kyle Wolff",
-        "normalizedName": "kyle wolff",
-        "jersey": "18",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/kyle-wolff/26416",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Wolff_Uncropped.png",
-        "gamesPlayed": 41,
-        "gamesStarted": 33,
-        "battingAverage": 0.232,
-        "onBasePercentage": 0.331,
-        "sluggingPercentage": 0.491,
-        "ops": 0.822,
-        "atBats": 112,
-        "runs": 14,
-        "hits": 26,
-        "doubles": 8,
-        "triples": 0,
-        "homeRuns": 7,
-        "runsBattedIn": 29,
-        "totalBases": 55,
-        "walks": 13,
-        "hitByPitch": 6,
-        "strikeouts": 23,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 2,
-        "sacrificeFlies": 5,
-        "sacrificeHits": 1,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 51,
-        "assists": 0,
-        "errors": 1,
-        "plateAppearances": 137,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "26416",
-        "name": "Kyle Wolff",
-        "normalizedName": "kyle wolff",
-        "jersey": "18",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/kyle-wolff/26416",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Wolff_Uncropped.png",
-        "gamesPlayed": 8,
-        "gamesStarted": 7,
-        "putouts": 51,
-        "assists": 2,
-        "errors": 1,
-        "fieldingPercentage": 0.981,
-        "doublePlays": 5,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 54
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 28,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 28.33333333333333,
-          "Power": 45,
-          "Contact": 7.500000000000007,
-          "Discipline": 40.579710144927525,
-          "Speed": 0
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
         },
-        "summary": "Kyle Wolff gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Max Goldberg looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "AVG .232",
-          "OBP .331",
-          "SLG .491"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
-            "label": "AVG",
-            "value": ".232"
+            "label": "ERA",
+            "value": "--"
           },
           {
-            "label": "OBP",
-            "value": ".331"
+            "label": "WHIP",
+            "value": "--"
           },
           {
-            "label": "SLG",
-            "value": ".491"
+            "label": "K/9",
+            "value": "0.0"
           },
           {
-            "label": "HR",
-            "value": "7"
+            "label": "BB/9",
+            "value": "0.0"
           },
           {
-            "label": "RBI",
-            "value": "29"
+            "label": "HR/9",
+            "value": "0.00"
           },
           {
-            "label": "SB",
-            "value": "0"
+            "label": "IP",
+            "value": "0.0"
           }
         ],
-        "metaLine": "SR / R/L",
+        "metaLine": "FR / L/L",
         "detailBadges": [
-          "INF",
-          "SR",
-          "R/L",
-          "Hitter"
+          "LHP",
+          "FR",
+          "L/L",
+          "Pitcher"
         ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats"
+        "sourceSummary": "Boston College Athletics roster"
       }
     },
     {
-      "id": "boston-college-26415",
+      "id": "boston-college-27444",
       "schoolSlug": "boston-college",
       "school": "Boston College",
       "schoolLongName": "Boston College",
       "name": "Ben Williams",
       "normalizedName": "ben williams",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "OF",
       "positionLong": "Outfield",
-      "classYear": "SO",
+      "classYear": "JR",
       "handedness": "R/R",
       "jersey": "19",
       "hometown": "Hanover, N.H.",
       "highSchool": "Hanover/Avon Old Farms",
       "previousSchool": "",
       "hometownHighSchool": "Hanover, N.H. / Hanover/Avon Old Farms",
-      "profileUrl": "https://bceagles.com/sports/baseball/roster/ben-williams/26415",
+      "profileUrl": "https://bceagles.com/sports/baseball/roster/ben-williams/27444",
       "imageUrl": "https://bceagles.com/images/2026/1/23/Williams_Uncropped.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -2218,101 +1592,44 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "26415",
+      "rosterBioId": "27444",
       "sources": [
-        "Boston College Athletics roster",
-        "Boston College cumulative stats"
+        "Boston College Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "26415",
-        "name": "Ben Williams",
-        "normalizedName": "ben williams",
-        "jersey": "19",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/ben-williams/26415",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Williams_Uncropped.png",
-        "gamesPlayed": 42,
-        "gamesStarted": 21,
-        "battingAverage": 0.189,
-        "onBasePercentage": 0.294,
-        "sluggingPercentage": 0.23,
-        "ops": 0.524,
-        "atBats": 74,
-        "runs": 18,
-        "hits": 14,
-        "doubles": 3,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 8,
-        "totalBases": 17,
-        "walks": 10,
-        "hitByPitch": 1,
-        "strikeouts": 35,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 5,
-        "stolenBases": 7,
-        "stolenBasesAttempts": 10,
-        "putouts": 58,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 103,
-        "caughtStealing": 3,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "26415",
-        "name": "Ben Williams",
-        "normalizedName": "ben williams",
-        "jersey": "19",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/ben-williams/26415",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Williams_Uncropped.png",
-        "gamesPlayed": 27,
-        "gamesStarted": 21,
-        "putouts": 58,
-        "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 58
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 6,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 7.777777777777755,
+          "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 9.523809523809518,
-          "Speed": 23.333333333333332
+          "Discipline": 0,
+          "Speed": 0
         },
         "summary": "Ben Williams gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .189",
-          "OBP .294",
-          "SLG .230"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".189"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".294"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".230"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -2320,112 +1637,146 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
           },
           {
             "label": "RBI",
-            "value": "8"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "7"
+            "value": "0"
           }
         ],
-        "metaLine": "SO / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "OF",
-          "SO",
+          "JR",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats"
+        "sourceSummary": "Boston College Athletics roster"
       }
     },
     {
-      "id": "boston-college-26406",
+      "id": "boston-college-27479",
       "schoolSlug": "boston-college",
       "school": "Boston College",
       "schoolLongName": "Boston College",
-      "name": "Tyler Mudd",
-      "normalizedName": "tyler mudd",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "Left-Handed Pitcher",
-      "classYear": "GR",
-      "handedness": "L/L",
-      "jersey": "21",
-      "hometown": "Shrewsbury, Mass.",
-      "highSchool": "Deerfield Academy",
-      "previousSchool": "Holy Cross",
-      "hometownHighSchool": "Shrewsbury, Mass. / Deerfield Academy",
-      "profileUrl": "https://bceagles.com/sports/baseball/roster/tyler-mudd/26406",
-      "imageUrl": "https://bceagles.com/images/2026/1/23/Mudd_Uncropped.png",
+      "name": "Luke Hewes",
+      "normalizedName": "luke hewes",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "C",
+      "positionLong": "Catcher",
+      "classYear": "JR",
+      "handedness": "R/R",
+      "jersey": "20",
+      "hometown": "Flagstaff, Ariz.",
+      "highSchool": "Flagstaff High School",
+      "previousSchool": "",
+      "hometownHighSchool": "Flagstaff, Ariz. / Flagstaff High School",
+      "profileUrl": "https://bceagles.com/sports/baseball/roster/luke-hewes/27479",
+      "imageUrl": "",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "26406",
+      "rosterBioId": "27479",
       "sources": [
-        "Boston College Athletics roster",
-        "Boston College cumulative stats"
+        "Boston College Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "26406",
-        "name": "Tyler Mudd",
-        "normalizedName": "tyler mudd",
-        "jersey": "21",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/tyler-mudd/26406",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Mudd_Uncropped.png",
-        "gamesPlayed": 17,
-        "gamesStarted": 14,
-        "appearances": 17,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 4.72,
-        "whip": 1.44,
-        "wins": 5,
-        "losses": 4,
-        "saves": 1,
-        "shutouts": 1,
-        "inningsPitched": 66.66666666666667,
-        "inningsPitchedDisplay": "66.2",
-        "hitsAllowed": 75,
-        "runsAllowed": 38,
-        "earnedRunsAllowed": 35,
-        "walksAllowed": 21,
-        "strikeouts": 47,
-        "doublesAllowed": 8,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 13,
-        "opponentsAtBats": 268,
-        "wildPitches": 0,
-        "hitBatters": 6,
-        "balks": 1,
-        "opponentsBattingAverage": 0.28,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "26406",
-        "name": "Tyler Mudd",
-        "normalizedName": "tyler mudd",
-        "jersey": "21",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/tyler-mudd/26406",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Mudd_Uncropped.png",
-        "gamesPlayed": 7,
-        "gamesStarted": 7,
-        "putouts": 2,
-        "assists": 7,
-        "errors": 1,
-        "fieldingPercentage": 0.9,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 1,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 10
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 8,
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Luke Hewes gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "C",
+          "JR",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Boston College Athletics roster"
+      }
+    },
+    {
+      "id": "boston-college-27480",
+      "schoolSlug": "boston-college",
+      "school": "Boston College",
+      "schoolLongName": "Boston College",
+      "name": "Champ Davis",
+      "normalizedName": "champ davis",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "GR",
+      "handedness": "R/R",
+      "jersey": "21",
+      "hometown": "Atlanta, Ga.",
+      "highSchool": "Marist School",
+      "previousSchool": "",
+      "hometownHighSchool": "Atlanta, Ga. / Marist School",
+      "profileUrl": "https://bceagles.com/sports/baseball/roster/champ-davis/27480",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "27480",
+      "sources": [
+        "Boston College Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2433,71 +1784,71 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 21.318181818181817,
-          "Command": 24.761904761904763,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Tyler Mudd looks like a LHP option who throws enough strikes.",
+        "summary": "Champ Davis looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 4.72",
-          "WHIP 1.44",
-          "K/9 6.3"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.72"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.44"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "6.3"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "2.8"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.75"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "66.7"
+            "value": "0.0"
           }
         ],
-        "metaLine": "GR / L/L",
+        "metaLine": "GR / R/R",
         "detailBadges": [
-          "LHP",
+          "RHP",
           "GR",
-          "L/L",
+          "R/R",
           "Pitcher"
         ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats"
+        "sourceSummary": "Boston College Athletics roster"
       }
     },
     {
-      "id": "boston-college-26430",
+      "id": "boston-college-27439",
       "schoolSlug": "boston-college",
       "school": "Boston College",
       "schoolLongName": "Boston College",
       "name": "Easton Masse",
       "normalizedName": "easton masse",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "C",
       "positionLong": "Catcher",
-      "classYear": "FR",
+      "classYear": "SO",
       "handedness": "R/R",
       "jersey": "22",
       "hometown": "Manchester, Conn.",
       "highSchool": "Westminster School",
       "previousSchool": "",
       "hometownHighSchool": "Manchester, Conn. / Westminster School",
-      "profileUrl": "https://bceagles.com/sports/baseball/roster/easton-masse/26430",
+      "profileUrl": "https://bceagles.com/sports/baseball/roster/easton-masse/27439",
       "imageUrl": "https://bceagles.com/images/2026/1/23/Masse_Uncropped.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -2505,70 +1856,13 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "26430",
+      "rosterBioId": "27439",
       "sources": [
-        "Boston College Athletics roster",
-        "Boston College cumulative stats"
+        "Boston College Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "26430",
-        "name": "Easton Masse",
-        "normalizedName": "easton masse",
-        "jersey": "22",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/easton-masse/26430",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Masse_Uncropped.png",
-        "gamesPlayed": 2,
-        "gamesStarted": 2,
-        "battingAverage": 0,
-        "onBasePercentage": 0,
-        "sluggingPercentage": 0,
-        "ops": 0,
-        "atBats": 4,
-        "runs": 0,
-        "hits": 0,
-        "doubles": 0,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 0,
-        "totalBases": 0,
-        "walks": 0,
-        "hitByPitch": 0,
-        "strikeouts": 1,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 1,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 4,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 5,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "26430",
-        "name": "Easton Masse",
-        "normalizedName": "easton masse",
-        "jersey": "22",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/easton-masse/26430",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Masse_Uncropped.png",
-        "gamesPlayed": 2,
-        "gamesStarted": 2,
-        "putouts": 4,
-        "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 4
-      },
+      "fieldingStats": null,
       "evaluation": {
         "score": 0,
         "fit": {
@@ -2584,22 +1878,22 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         },
         "summary": "Easton Masse gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .000",
-          "OBP .000",
-          "SLG .000"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -2614,18 +1908,18 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "FR / R/R",
+        "metaLine": "SO / R/R",
         "detailBadges": [
           "C",
-          "FR",
+          "SO",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats"
+        "sourceSummary": "Boston College Athletics roster"
       }
     },
     {
-      "id": "boston-college-26405",
+      "id": "boston-college-27440",
       "schoolSlug": "boston-college",
       "school": "Boston College",
       "schoolLongName": "Boston College",
@@ -2635,14 +1929,14 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
       "role": "Pitcher",
       "position": "LHP",
       "positionLong": "Left-Handed Pitcher",
-      "classYear": "SO",
+      "classYear": "JR",
       "handedness": "R/L",
       "jersey": "23",
       "hometown": "Harwich, Mass.",
       "highSchool": "Belmont Hill",
       "previousSchool": "",
       "hometownHighSchool": "Harwich, Mass. / Belmont Hill",
-      "profileUrl": "https://bceagles.com/sports/baseball/roster/brady-miller/26405",
+      "profileUrl": "https://bceagles.com/sports/baseball/roster/brady-miller/27440",
       "imageUrl": "https://bceagles.com/images/2026/1/23/Miller_Uncropped.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -2650,69 +1944,15 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "26405",
+      "rosterBioId": "27440",
       "sources": [
-        "Boston College Athletics roster",
-        "Boston College cumulative stats"
+        "Boston College Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "26405",
-        "name": "Brady Miller",
-        "normalizedName": "brady miller",
-        "jersey": "23",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/brady-miller/26405",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Miller_Uncropped.png",
-        "gamesPlayed": 14,
-        "gamesStarted": 13,
-        "appearances": 14,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 6.07,
-        "whip": 1.49,
-        "wins": 2,
-        "losses": 4,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 56.333333333333336,
-        "inningsPitchedDisplay": "56.1",
-        "hitsAllowed": 61,
-        "runsAllowed": 44,
-        "earnedRunsAllowed": 38,
-        "walksAllowed": 23,
-        "strikeouts": 62,
-        "doublesAllowed": 13,
-        "triplesAllowed": 3,
-        "homeRunsAllowed": 7,
-        "opponentsAtBats": 220,
-        "wildPitches": 1,
-        "hitBatters": 6,
-        "balks": 0,
-        "opponentsBattingAverage": 0.277,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "26405",
-        "name": "Brady Miller",
-        "normalizedName": "brady miller",
-        "jersey": "23",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/brady-miller/26405",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Miller_Uncropped.png",
-        "gamesPlayed": 6,
-        "gamesStarted": 6,
-        "putouts": 1,
-        "assists": 4,
-        "errors": 3,
-        "fieldingPercentage": 0.625,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 2,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 8
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 16,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2720,71 +1960,71 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 53.68477676169984,
-          "Command": 33.91304347826087,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Brady Miller looks like a LHP option who misses bats.",
+        "summary": "Brady Miller looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 6.07",
-          "WHIP 1.49",
-          "K/9 9.9"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.07"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.49"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "9.9"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "3.7"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.12"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "56.3"
+            "value": "0.0"
           }
         ],
-        "metaLine": "SO / R/L",
+        "metaLine": "JR / R/L",
         "detailBadges": [
           "LHP",
-          "SO",
+          "JR",
           "R/L",
           "Pitcher"
         ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats"
+        "sourceSummary": "Boston College Athletics roster"
       }
     },
     {
-      "id": "boston-college-26396",
+      "id": "boston-college-27430",
       "schoolSlug": "boston-college",
       "school": "Boston College",
       "schoolLongName": "Boston College",
       "name": "Cesar Gonzalez",
       "normalizedName": "cesar gonzalez",
-      "compositeRole": "Two-Way",
+      "compositeRole": "Pitcher",
       "role": "Pitcher",
       "position": "C/RHP",
       "positionLong": "Catcher/Right-Handed Pitcher",
-      "classYear": "SO",
+      "classYear": "JR",
       "handedness": "R/R",
       "jersey": "24",
       "hometown": "Maracaibo, Venezuela",
       "highSchool": "Springfield Commonwealth",
       "previousSchool": "",
       "hometownHighSchool": "Maracaibo, Venezuela / Springfield Commonwealth",
-      "profileUrl": "https://bceagles.com/sports/baseball/roster/cesar-gonzalez/26396",
+      "profileUrl": "https://bceagles.com/sports/baseball/roster/cesar-gonzalez/27430",
       "imageUrl": "https://bceagles.com/images/2026/1/23/Gonzalez_Uncropped.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -2792,105 +2032,15 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "26396",
+      "rosterBioId": "27430",
       "sources": [
-        "Boston College Athletics roster",
-        "Boston College cumulative stats"
+        "Boston College Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "26396",
-        "name": "Cesar Gonzalez",
-        "normalizedName": "cesar gonzalez",
-        "jersey": "24",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/cesar-gonzalez/26396",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Gonzalez_Uncropped.png",
-        "gamesPlayed": 26,
-        "gamesStarted": 17,
-        "battingAverage": 0.228,
-        "onBasePercentage": 0.274,
-        "sluggingPercentage": 0.316,
-        "ops": 0.59,
-        "atBats": 57,
-        "runs": 4,
-        "hits": 13,
-        "doubles": 2,
-        "triples": 0,
-        "homeRuns": 1,
-        "runsBattedIn": 12,
-        "totalBases": 18,
-        "walks": 3,
-        "hitByPitch": 1,
-        "strikeouts": 8,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 1,
-        "sacrificeHits": 2,
-        "stolenBases": 1,
-        "stolenBasesAttempts": 1,
-        "putouts": 174,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 66,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": {
-        "rosterBioId": "26396",
-        "name": "Cesar Gonzalez",
-        "normalizedName": "cesar gonzalez",
-        "jersey": "24",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/cesar-gonzalez/26396",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Gonzalez_Uncropped.png",
-        "gamesPlayed": 14,
-        "gamesStarted": 0,
-        "appearances": 14,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 3.22,
-        "whip": 1.32,
-        "wins": 3,
-        "losses": 1,
-        "saves": 3,
-        "shutouts": 0,
-        "inningsPitched": 36.333333333333336,
-        "inningsPitchedDisplay": "36.1",
-        "hitsAllowed": 33,
-        "runsAllowed": 13,
-        "earnedRunsAllowed": 13,
-        "walksAllowed": 15,
-        "strikeouts": 40,
-        "doublesAllowed": 6,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 3,
-        "opponentsAtBats": 137,
-        "wildPitches": 2,
-        "hitBatters": 2,
-        "balks": 0,
-        "opponentsBattingAverage": 0.241,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "26396",
-        "name": "Cesar Gonzalez",
-        "normalizedName": "cesar gonzalez",
-        "jersey": "24",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/cesar-gonzalez/26396",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Gonzalez_Uncropped.png",
-        "gamesPlayed": 29,
-        "gamesStarted": 17,
-        "putouts": 176,
-        "assists": 15,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 1,
-        "stolenBasesAgainst": 21,
-        "caughtStealingBy": 9,
-        "stolenBasesPercentage": null,
-        "passedBalls": 5,
-        "catchersInterference": 0,
-        "totalChances": 191
-      },
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 16,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2898,54 +2048,54 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 53.7114261884904,
-          "Command": 33.33333333333333,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Cesar Gonzalez looks like a C/RHP option who limits runs and misses bats.",
+        "summary": "Cesar Gonzalez looks like a C/RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 3.22",
-          "WHIP 1.32",
-          "K/9 9.9"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.22"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.32"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "9.9"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "3.7"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "0.74"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "36.3"
+            "value": "0.0"
           }
         ],
-        "metaLine": "SO / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "C/RHP",
-          "SO",
+          "JR",
           "R/R",
-          "Two-Way"
+          "Pitcher"
         ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats"
+        "sourceSummary": "Boston College Athletics roster"
       }
     },
     {
-      "id": "boston-college-26424",
+      "id": "boston-college-27432",
       "schoolSlug": "boston-college",
       "school": "Boston College",
       "schoolLongName": "Boston College",
@@ -2955,14 +2105,14 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Right-Handed Pitcher",
-      "classYear": "FR",
+      "classYear": "SO",
       "handedness": "R/R",
       "jersey": "25",
       "hometown": "Bridgewater, Mass.",
       "highSchool": "Dexter Southfield",
       "previousSchool": "",
       "hometownHighSchool": "Bridgewater, Mass. / Dexter Southfield",
-      "profileUrl": "https://bceagles.com/sports/baseball/roster/chase-hartsell/26424",
+      "profileUrl": "https://bceagles.com/sports/baseball/roster/chase-hartsell/27432",
       "imageUrl": "https://bceagles.com/images/2026/1/23/Hartsell_Uncropped.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -2970,69 +2120,15 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "26424",
+      "rosterBioId": "27432",
       "sources": [
-        "Boston College Athletics roster",
-        "Boston College cumulative stats"
+        "Boston College Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "26424",
-        "name": "Chase Hartsell",
-        "normalizedName": "chase hartsell",
-        "jersey": "25",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/chase-hartsell/26424",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Hartsell_Uncropped.png",
-        "gamesPlayed": 20,
-        "gamesStarted": 1,
-        "appearances": 20,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 5.74,
-        "whip": 1.65,
-        "wins": 3,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 1,
-        "inningsPitched": 26.666666666666668,
-        "inningsPitchedDisplay": "26.2",
-        "hitsAllowed": 29,
-        "runsAllowed": 18,
-        "earnedRunsAllowed": 17,
-        "walksAllowed": 15,
-        "strikeouts": 28,
-        "doublesAllowed": 13,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 1,
-        "opponentsAtBats": 106,
-        "wildPitches": 3,
-        "hitBatters": 9,
-        "balks": 0,
-        "opponentsBattingAverage": 0.274,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "26424",
-        "name": "Chase Hartsell",
-        "normalizedName": "chase hartsell",
-        "jersey": "25",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/chase-hartsell/26424",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Hartsell_Uncropped.png",
-        "gamesPlayed": 1,
-        "gamesStarted": 0,
-        "putouts": 1,
-        "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 1
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 13,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3040,54 +2136,54 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 49.54545454545454,
-          "Command": 17.33333333333333,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Chase Hartsell looks like a RHP option who misses bats.",
+        "summary": "Chase Hartsell looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 5.74",
-          "WHIP 1.65",
-          "K/9 9.4"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.74"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.65"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "9.4"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "5.1"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "0.34"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "26.7"
+            "value": "0.0"
           }
         ],
-        "metaLine": "FR / R/R",
+        "metaLine": "SO / R/R",
         "detailBadges": [
           "RHP",
-          "FR",
+          "SO",
           "R/R",
           "Pitcher"
         ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats"
+        "sourceSummary": "Boston College Athletics roster"
       }
     },
     {
-      "id": "boston-college-26390",
+      "id": "boston-college-27423",
       "schoolSlug": "boston-college",
       "school": "Boston College",
       "schoolLongName": "Boston College",
@@ -3097,14 +2193,14 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
       "role": "Pitcher",
       "position": "LHP",
       "positionLong": "Left-Handed Pitcher",
-      "classYear": "SO",
+      "classYear": "JR",
       "handedness": "R/L",
       "jersey": "26",
       "hometown": "Key West, Fla.",
       "highSchool": "Key West High School",
       "previousSchool": "",
       "hometownHighSchool": "Key West, Fla. / Key West High School",
-      "profileUrl": "https://bceagles.com/sports/baseball/roster/jacob-burnham/26390",
+      "profileUrl": "https://bceagles.com/sports/baseball/roster/jacob-burnham/27423",
       "imageUrl": "https://bceagles.com/images/2026/1/23/Burnham_Uncropped.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -3112,69 +2208,15 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "26390",
+      "rosterBioId": "27423",
       "sources": [
-        "Boston College Athletics roster",
-        "Boston College cumulative stats"
+        "Boston College Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "26390",
-        "name": "Jacob Burnham",
-        "normalizedName": "jacob burnham",
-        "jersey": "26",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/jacob-burnham/26390",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Burnham_Uncropped.png",
-        "gamesPlayed": 14,
-        "gamesStarted": 6,
-        "appearances": 14,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 5.02,
-        "whip": 1.65,
-        "wins": 2,
-        "losses": 2,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 37.666666666666664,
-        "inningsPitchedDisplay": "37.2",
-        "hitsAllowed": 43,
-        "runsAllowed": 26,
-        "earnedRunsAllowed": 21,
-        "walksAllowed": 19,
-        "strikeouts": 34,
-        "doublesAllowed": 2,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 4,
-        "opponentsAtBats": 155,
-        "wildPitches": 2,
-        "hitBatters": 5,
-        "balks": 0,
-        "opponentsBattingAverage": 0.277,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "26390",
-        "name": "Jacob Burnham",
-        "normalizedName": "jacob burnham",
-        "jersey": "26",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/jacob-burnham/26390",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Burnham_Uncropped.png",
-        "gamesPlayed": 6,
-        "gamesStarted": 3,
-        "putouts": 1,
-        "assists": 2,
-        "errors": 2,
-        "fieldingPercentage": 0.6,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 1,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 5
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 10,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3182,54 +2224,142 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 37.48994368463395,
-          "Command": 15.789473684210522,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Jacob Burnham gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Jacob Burnham looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 5.02",
-          "WHIP 1.65",
-          "K/9 8.1"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.02"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.65"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "8.1"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "4.5"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "0.96"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "37.7"
+            "value": "0.0"
           }
         ],
-        "metaLine": "SO / R/L",
+        "metaLine": "JR / R/L",
         "detailBadges": [
           "LHP",
-          "SO",
+          "JR",
           "R/L",
           "Pitcher"
         ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats"
+        "sourceSummary": "Boston College Athletics roster"
       }
     },
     {
-      "id": "boston-college-26420",
+      "id": "boston-college-27481",
+      "schoolSlug": "boston-college",
+      "school": "Boston College",
+      "schoolLongName": "Boston College",
+      "name": "Matthew DeFilippo",
+      "normalizedName": "matthew defilippo",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "27",
+      "hometown": "Farmington, Conn.",
+      "highSchool": "Avon Old Farms",
+      "previousSchool": "",
+      "hometownHighSchool": "Farmington, Conn. / Avon Old Farms",
+      "profileUrl": "https://bceagles.com/sports/baseball/roster/matthew-defilippo/27481",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "27481",
+      "sources": [
+        "Boston College Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Matthew DeFilippo looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Boston College Athletics roster"
+      }
+    },
+    {
+      "id": "boston-college-27426",
       "schoolSlug": "boston-college",
       "school": "Boston College",
       "schoolLongName": "Boston College",
@@ -3239,14 +2369,14 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
       "role": "Pitcher",
       "position": "LHP",
       "positionLong": "LHP",
-      "classYear": "FR",
+      "classYear": "SO",
       "handedness": "R/L",
       "jersey": "28",
       "hometown": "Annandale, N.J.",
       "highSchool": "North Hunterdon Regional High School",
       "previousSchool": "",
       "hometownHighSchool": "Annandale, N.J. / North Hunterdon Regional High School",
-      "profileUrl": "https://bceagles.com/sports/baseball/roster/zach-fronio/26420",
+      "profileUrl": "https://bceagles.com/sports/baseball/roster/zach-fronio/27426",
       "imageUrl": "https://bceagles.com/images/2026/1/23/Fronio_Uncropped.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -3254,7 +2384,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "26420",
+      "rosterBioId": "27426",
       "sources": [
         "Boston College Athletics roster"
       ],
@@ -3306,6 +2436,270 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
             "value": "0.0"
           }
         ],
+        "metaLine": "SO / R/L",
+        "detailBadges": [
+          "LHP",
+          "SO",
+          "R/L",
+          "Pitcher"
+        ],
+        "sourceSummary": "Boston College Athletics roster"
+      }
+    },
+    {
+      "id": "boston-college-27482",
+      "schoolSlug": "boston-college",
+      "school": "Boston College",
+      "schoolLongName": "Boston College",
+      "name": "Ben Cherico",
+      "normalizedName": "ben cherico",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "GR",
+      "handedness": "R/R",
+      "jersey": "30",
+      "hometown": "Ridgefield, Conn.",
+      "highSchool": "Ridgefield",
+      "previousSchool": "",
+      "hometownHighSchool": "Ridgefield, Conn. / Ridgefield",
+      "profileUrl": "https://bceagles.com/sports/baseball/roster/ben-cherico/27482",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "27482",
+      "sources": [
+        "Boston College Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Ben Cherico looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "GR / R/R",
+        "detailBadges": [
+          "RHP",
+          "GR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Boston College Athletics roster"
+      }
+    },
+    {
+      "id": "boston-college-27483",
+      "schoolSlug": "boston-college",
+      "school": "Boston College",
+      "schoolLongName": "Boston College",
+      "name": "JJ Drennan",
+      "normalizedName": "jj drennan",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "31",
+      "hometown": "Harrison, N.J.",
+      "highSchool": "Seton Hall Preparatory",
+      "previousSchool": "",
+      "hometownHighSchool": "Harrison, N.J. / Seton Hall Preparatory",
+      "profileUrl": "https://bceagles.com/sports/baseball/roster/jj-drennan/27483",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "27483",
+      "sources": [
+        "Boston College Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "JJ Drennan looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Boston College Athletics roster"
+      }
+    },
+    {
+      "id": "boston-college-27484",
+      "schoolSlug": "boston-college",
+      "school": "Boston College",
+      "schoolLongName": "Boston College",
+      "name": "Luke Hillegass",
+      "normalizedName": "luke hillegass",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "Left-Handed Pitcher",
+      "classYear": "FR",
+      "handedness": "R/L",
+      "jersey": "32",
+      "hometown": "Warrington, Pa.",
+      "highSchool": "Central Bucks-South High School",
+      "previousSchool": "",
+      "hometownHighSchool": "Warrington, Pa. / Central Bucks-South High School",
+      "profileUrl": "https://bceagles.com/sports/baseball/roster/luke-hillegass/27484",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "27484",
+      "sources": [
+        "Boston College Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Luke Hillegass looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
         "metaLine": "FR / R/L",
         "detailBadges": [
           "LHP",
@@ -3317,436 +2711,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
       }
     },
     {
-      "id": "boston-college-26431",
-      "schoolSlug": "boston-college",
-      "school": "Boston College",
-      "schoolLongName": "Boston College",
-      "name": "John D Mitchell",
-      "normalizedName": "john d mitchell",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right-Handed Pitcher/Infield",
-      "classYear": "SO",
-      "handedness": "L/R",
-      "jersey": "30",
-      "hometown": "Springs, Texas",
-      "highSchool": "St. John XXIII College Preparatory",
-      "previousSchool": "Air Force",
-      "hometownHighSchool": "Springs, Texas / St. John XXIII College Preparatory",
-      "profileUrl": "https://bceagles.com/sports/baseball/roster/john-d-mitchell/26431",
-      "imageUrl": "https://bceagles.com/images/2026/1/23/Mitchell_Uncropped.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "26431",
-      "sources": [
-        "Boston College Athletics roster",
-        "Boston College cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "26431",
-        "name": "John D Mitchell",
-        "normalizedName": "john d mitchell",
-        "jersey": "30",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/john-d-mitchell/26431",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Mitchell_Uncropped.png",
-        "gamesPlayed": 15,
-        "gamesStarted": 0,
-        "appearances": 15,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 7.17,
-        "whip": 1.97,
-        "wins": 1,
-        "losses": 0,
-        "saves": 1,
-        "shutouts": 0,
-        "inningsPitched": 21.333333333333332,
-        "inningsPitchedDisplay": "21.1",
-        "hitsAllowed": 28,
-        "runsAllowed": 17,
-        "earnedRunsAllowed": 17,
-        "walksAllowed": 14,
-        "strikeouts": 24,
-        "doublesAllowed": 5,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 5,
-        "opponentsAtBats": 88,
-        "wildPitches": 3,
-        "hitBatters": 6,
-        "balks": 2,
-        "opponentsBattingAverage": 0.318,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "26431",
-        "name": "John D Mitchell",
-        "normalizedName": "john d mitchell",
-        "jersey": "30",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/john-d-mitchell/26431",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Mitchell_Uncropped.png",
-        "gamesPlayed": 4,
-        "gamesStarted": 0,
-        "putouts": 0,
-        "assists": 3,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 1,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 3
-      },
-      "evaluation": {
-        "score": 13,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 55.68181818181818,
-          "Command": 14.285714285714285,
-          "Damage suppression": 0
-        },
-        "summary": "John D Mitchell looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 7.17",
-          "WHIP 1.97",
-          "K/9 10.1"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "7.17"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.97"
-          },
-          {
-            "label": "K/9",
-            "value": "10.1"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.9"
-          },
-          {
-            "label": "HR/9",
-            "value": "2.11"
-          },
-          {
-            "label": "IP",
-            "value": "21.3"
-          }
-        ],
-        "metaLine": "SO / L/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "L/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats"
-      }
-    },
-    {
-      "id": "boston-college-26425",
-      "schoolSlug": "boston-college",
-      "school": "Boston College",
-      "schoolLongName": "Boston College",
-      "name": "Carter Hendrickson",
-      "normalizedName": "carter hendrickson",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "OF",
-      "positionLong": "Outfield",
-      "classYear": "GR",
-      "handedness": "R/L",
-      "jersey": "31",
-      "hometown": "Farmington, Minn.",
-      "highSchool": "Farmington",
-      "previousSchool": "Xavier",
-      "hometownHighSchool": "Farmington, Minn. / Farmington",
-      "profileUrl": "https://bceagles.com/sports/baseball/roster/carter-hendrickson/26425",
-      "imageUrl": "https://bceagles.com/images/2026/1/23/Hendrickson_Uncropped.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "26425",
-      "sources": [
-        "Boston College Athletics roster",
-        "Boston College cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "26425",
-        "name": "Carter Hendrickson",
-        "normalizedName": "carter hendrickson",
-        "jersey": "31",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/carter-hendrickson/26425",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Hendrickson_Uncropped.png",
-        "gamesPlayed": 35,
-        "gamesStarted": 34,
-        "battingAverage": 0.235,
-        "onBasePercentage": 0.41,
-        "sluggingPercentage": 0.382,
-        "ops": 0.792,
-        "atBats": 102,
-        "runs": 30,
-        "hits": 24,
-        "doubles": 7,
-        "triples": 1,
-        "homeRuns": 2,
-        "runsBattedIn": 18,
-        "totalBases": 39,
-        "walks": 18,
-        "hitByPitch": 13,
-        "strikeouts": 19,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 3,
-        "sacrificeFlies": 1,
-        "sacrificeHits": 6,
-        "stolenBases": 12,
-        "stolenBasesAttempts": 15,
-        "putouts": 68,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 158,
-        "caughtStealing": 3,
-        "pickedOff": 1
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "26425",
-        "name": "Carter Hendrickson",
-        "normalizedName": "carter hendrickson",
-        "jersey": "31",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/carter-hendrickson/26425",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Hendrickson_Uncropped.png",
-        "gamesPlayed": 30,
-        "gamesStarted": 30,
-        "putouts": 68,
-        "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 68
-      },
-      "evaluation": {
-        "score": 45,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 72.2222222222222,
-          "Power": 16.315789473684212,
-          "Contact": 9.374999999999991,
-          "Discipline": 83.04093567251459,
-          "Speed": 40
-        },
-        "summary": "Carter Hendrickson profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .235",
-          "OBP .410",
-          "SLG .382"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".235"
-          },
-          {
-            "label": "OBP",
-            "value": ".410"
-          },
-          {
-            "label": "SLG",
-            "value": ".382"
-          },
-          {
-            "label": "HR",
-            "value": "2"
-          },
-          {
-            "label": "RBI",
-            "value": "18"
-          },
-          {
-            "label": "SB",
-            "value": "12"
-          }
-        ],
-        "metaLine": "GR / R/L",
-        "detailBadges": [
-          "OF",
-          "GR",
-          "R/L",
-          "Hitter"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats"
-      }
-    },
-    {
-      "id": "boston-college-26397",
-      "schoolSlug": "boston-college",
-      "school": "Boston College",
-      "schoolLongName": "Boston College",
-      "name": "Sean Hard",
-      "normalizedName": "sean hard",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right-Handed Pitcher",
-      "classYear": "GR",
-      "handedness": "R/R",
-      "jersey": "32",
-      "hometown": "Mahwah, N.J.",
-      "highSchool": "St. Joseph's Regional",
-      "previousSchool": "",
-      "hometownHighSchool": "Mahwah, N.J. / St. Joseph's Regional",
-      "profileUrl": "https://bceagles.com/sports/baseball/roster/sean-hard/26397",
-      "imageUrl": "https://bceagles.com/images/2026/1/23/Hard_Uncropped.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "26397",
-      "sources": [
-        "Boston College Athletics roster",
-        "Boston College cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "26397",
-        "name": "Sean Hard",
-        "normalizedName": "sean hard",
-        "jersey": "32",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/sean-hard/26397",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Hard_Uncropped.png",
-        "gamesPlayed": 16,
-        "gamesStarted": 2,
-        "appearances": 16,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 4.67,
-        "whip": 1.7,
-        "wins": 3,
-        "losses": 1,
-        "saves": 1,
-        "shutouts": 0,
-        "inningsPitched": 27,
-        "inningsPitchedDisplay": "27.0",
-        "hitsAllowed": 24,
-        "runsAllowed": 14,
-        "earnedRunsAllowed": 14,
-        "walksAllowed": 22,
-        "strikeouts": 32,
-        "doublesAllowed": 9,
-        "triplesAllowed": 3,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 99,
-        "wildPitches": 7,
-        "hitBatters": 3,
-        "balks": 0,
-        "opponentsBattingAverage": 0.242,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "26397",
-        "name": "Sean Hard",
-        "normalizedName": "sean hard",
-        "jersey": "32",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/sean-hard/26397",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Hard_Uncropped.png",
-        "gamesPlayed": 5,
-        "gamesStarted": 0,
-        "putouts": 0,
-        "assists": 5,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 1,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 5
-      },
-      "evaluation": {
-        "score": 14,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 60.606060606060595,
-          "Command": 9.090909090909092,
-          "Damage suppression": 0
-        },
-        "summary": "Sean Hard looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 4.67",
-          "WHIP 1.70",
-          "K/9 10.7"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.67"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.70"
-          },
-          {
-            "label": "K/9",
-            "value": "10.7"
-          },
-          {
-            "label": "BB/9",
-            "value": "7.3"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.67"
-          },
-          {
-            "label": "IP",
-            "value": "27.0"
-          }
-        ],
-        "metaLine": "GR / R/R",
-        "detailBadges": [
-          "RHP",
-          "GR",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats"
-      }
-    },
-    {
-      "id": "boston-college-26417",
+      "id": "boston-college-27421",
       "schoolSlug": "boston-college",
       "school": "Boston College",
       "schoolLongName": "Boston College",
@@ -3756,14 +2721,14 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Right-Handed Pitcher",
-      "classYear": "FR",
+      "classYear": "SO",
       "handedness": "R/R",
       "jersey": "33",
       "hometown": "Valley Village, Calif.",
       "highSchool": "Notre Dame High School",
       "previousSchool": "",
       "hometownHighSchool": "Valley Village, Calif. / Notre Dame High School",
-      "profileUrl": "https://bceagles.com/sports/baseball/roster/logan-berenson/26417",
+      "profileUrl": "https://bceagles.com/sports/baseball/roster/logan-berenson/27421",
       "imageUrl": "https://bceagles.com/images/2026/1/23/Berenson_Uncropped.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -3771,7 +2736,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "26417",
+      "rosterBioId": "27421",
       "sources": [
         "Boston College Athletics roster"
       ],
@@ -3823,10 +2788,10 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "FR / R/R",
+        "metaLine": "SO / R/R",
         "detailBadges": [
           "RHP",
-          "FR",
+          "SO",
           "R/R",
           "Pitcher"
         ],
@@ -3834,7 +2799,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
       }
     },
     {
-      "id": "boston-college-26419",
+      "id": "boston-college-27425",
       "schoolSlug": "boston-college",
       "school": "Boston College",
       "schoolLongName": "Boston College",
@@ -3844,14 +2809,14 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Right-Handed Pitcher",
-      "classYear": "FR",
+      "classYear": "SO",
       "handedness": "R/R",
       "jersey": "34",
       "hometown": "Swarthmore, Pa.",
       "highSchool": "Strath Haven High School",
       "previousSchool": "",
       "hometownHighSchool": "Swarthmore, Pa. / Strath Haven High School",
-      "profileUrl": "https://bceagles.com/sports/baseball/roster/luke-dancona/26419",
+      "profileUrl": "https://bceagles.com/sports/baseball/roster/luke-dancona/27425",
       "imageUrl": "https://bceagles.com/images/2026/1/23/D_Ancona_Uncropped.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -3859,69 +2824,15 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "26419",
+      "rosterBioId": "27425",
       "sources": [
-        "Boston College Athletics roster",
-        "Boston College cumulative stats"
+        "Boston College Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "26419",
-        "name": "Luke D'Ancona",
-        "normalizedName": "luke d ancona",
-        "jersey": "34",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/luke-d-ancona/26419",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/D_Ancona_Uncropped.png",
-        "gamesPlayed": 13,
-        "gamesStarted": 2,
-        "appearances": 13,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 5.55,
-        "whip": 1.44,
-        "wins": 3,
-        "losses": 1,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 24.333333333333332,
-        "inningsPitchedDisplay": "24.1",
-        "hitsAllowed": 23,
-        "runsAllowed": 16,
-        "earnedRunsAllowed": 15,
-        "walksAllowed": 12,
-        "strikeouts": 25,
-        "doublesAllowed": 7,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 1,
-        "opponentsAtBats": 89,
-        "wildPitches": 2,
-        "hitBatters": 5,
-        "balks": 1,
-        "opponentsBattingAverage": 0.258,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "26419",
-        "name": "Luke D'Ancona",
-        "normalizedName": "luke d ancona",
-        "jersey": "34",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/luke-d-ancona/26419",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/D_Ancona_Uncropped.png",
-        "gamesPlayed": 5,
-        "gamesStarted": 0,
-        "putouts": 4,
-        "assists": 1,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 1,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 5
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 13,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3929,54 +2840,54 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 47.6961394769614,
-          "Command": 21.66666666666667,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Luke D'Ancona looks like a RHP option who misses bats.",
+        "summary": "Luke D'Ancona looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 5.55",
-          "WHIP 1.44",
-          "K/9 9.2"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.55"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.44"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "9.2"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "4.4"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "0.37"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "24.3"
+            "value": "0.0"
           }
         ],
-        "metaLine": "FR / R/R",
+        "metaLine": "SO / R/R",
         "detailBadges": [
           "RHP",
-          "FR",
+          "SO",
           "R/R",
           "Pitcher"
         ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats"
+        "sourceSummary": "Boston College Athletics roster"
       }
     },
     {
-      "id": "boston-college-26395",
+      "id": "boston-college-27429",
       "schoolSlug": "boston-college",
       "school": "Boston College",
       "schoolLongName": "Boston College",
@@ -3986,14 +2897,14 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Right-Handed Pitcher",
-      "classYear": "JR",
+      "classYear": "SR",
       "handedness": "R/R",
       "jersey": "35",
       "hometown": "Ballston Spa, N.Y.",
       "highSchool": "Christian Brothers Academy",
       "previousSchool": "",
       "hometownHighSchool": "Ballston Spa, N.Y. / Christian Brothers Academy",
-      "profileUrl": "https://bceagles.com/sports/baseball/roster/joe-gold/26395",
+      "profileUrl": "https://bceagles.com/sports/baseball/roster/joe-gold/27429",
       "imageUrl": "https://bceagles.com/images/2026/1/23/Gold_Uncropped.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -4001,7 +2912,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "26395",
+      "rosterBioId": "27429",
       "sources": [
         "Boston College Athletics roster"
       ],
@@ -4053,10 +2964,10 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "JR / R/R",
+        "metaLine": "SR / R/R",
         "detailBadges": [
           "RHP",
-          "JR",
+          "SR",
           "R/R",
           "Pitcher"
         ],
@@ -4064,7 +2975,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
       }
     },
     {
-      "id": "boston-college-26418",
+      "id": "boston-college-27422",
       "schoolSlug": "boston-college",
       "school": "Boston College",
       "schoolLongName": "Boston College",
@@ -4074,14 +2985,14 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
       "role": "Pitcher",
       "position": "LHP",
       "positionLong": "Left-Handed Pitcher",
-      "classYear": "FR",
+      "classYear": "SO",
       "handedness": "L/L",
       "jersey": "36",
       "hometown": "Kenilworth, N.J.",
       "highSchool": "David Brearley High School",
       "previousSchool": "",
       "hometownHighSchool": "Kenilworth, N.J. / David Brearley High School",
-      "profileUrl": "https://bceagles.com/sports/baseball/roster/sean-budis/26418",
+      "profileUrl": "https://bceagles.com/sports/baseball/roster/sean-budis/27422",
       "imageUrl": "https://bceagles.com/images/2026/1/23/Budis_Uncropped.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -4089,1452 +3000,12 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "26418",
+      "rosterBioId": "27422",
       "sources": [
-        "Boston College Athletics roster",
-        "Boston College cumulative stats"
+        "Boston College Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "26418",
-        "name": "Sean Budis",
-        "normalizedName": "sean budis",
-        "jersey": "36",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/sean-budis/26418",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Budis_Uncropped.png",
-        "gamesPlayed": 1,
-        "gamesStarted": 0,
-        "appearances": 1,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 9,
-        "whip": 3,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 1,
-        "inningsPitchedDisplay": "1.0",
-        "hitsAllowed": 1,
-        "runsAllowed": 1,
-        "earnedRunsAllowed": 1,
-        "walksAllowed": 2,
-        "strikeouts": 1,
-        "doublesAllowed": 0,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 4,
-        "wildPitches": 1,
-        "hitBatters": 1,
-        "balks": 0,
-        "opponentsBattingAverage": 0.25,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "26418",
-        "name": "Sean Budis",
-        "normalizedName": "sean budis",
-        "jersey": "36",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/sean-budis/26418",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Budis_Uncropped.png",
-        "gamesPlayed": 1,
-        "gamesStarted": 0,
-        "putouts": 0,
-        "assists": 1,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 3,
-        "caughtStealingBy": 1,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 1
-      },
-      "evaluation": {
-        "score": 9,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Sean Budis looks like a LHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 9.00",
-          "WHIP 3.00",
-          "K/9 9.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "9.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "3.00"
-          },
-          {
-            "label": "K/9",
-            "value": "9.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "18.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "1.0"
-          }
-        ],
-        "metaLine": "FR / L/L",
-        "detailBadges": [
-          "LHP",
-          "FR",
-          "L/L",
-          "Pitcher"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats"
-      }
-    },
-    {
-      "id": "boston-college-26402",
-      "schoolSlug": "boston-college",
-      "school": "Boston College",
-      "schoolLongName": "Boston College",
-      "name": "John Kwiatkowski",
-      "normalizedName": "john kwiatkowski",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "Left-Handed Pitcher",
-      "classYear": "SR",
-      "handedness": "L/L",
-      "jersey": "37",
-      "hometown": "Floral Park, N.Y.",
-      "highSchool": "Kellenberg Memorial",
-      "previousSchool": "Manhattan College",
-      "hometownHighSchool": "Floral Park, N.Y. / Kellenberg Memorial",
-      "profileUrl": "https://bceagles.com/sports/baseball/roster/john-kwiatkowski/26402",
-      "imageUrl": "https://bceagles.com/images/2026/1/23/Kwiatkowski_Uncropped.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "26402",
-      "sources": [
-        "Boston College Athletics roster",
-        "Boston College cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "26402",
-        "name": "John Kwiatkowski",
-        "normalizedName": "john kwiatkowski",
-        "jersey": "37",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/john-kwiatkowski/26402",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Kwiatkowski_Uncropped.png",
-        "gamesPlayed": 23,
-        "gamesStarted": 0,
-        "appearances": 23,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 4.91,
-        "whip": 1.64,
-        "wins": 5,
-        "losses": 0,
-        "saves": 1,
-        "shutouts": 0,
-        "inningsPitched": 25.666666666666668,
-        "inningsPitchedDisplay": "25.2",
-        "hitsAllowed": 32,
-        "runsAllowed": 14,
-        "earnedRunsAllowed": 14,
-        "walksAllowed": 10,
-        "strikeouts": 22,
-        "doublesAllowed": 4,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 104,
-        "wildPitches": 2,
-        "hitBatters": 3,
-        "balks": 0,
-        "opponentsBattingAverage": 0.308,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "26402",
-        "name": "John Kwiatkowski",
-        "normalizedName": "john kwiatkowski",
-        "jersey": "37",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/john-kwiatkowski/26402",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Kwiatkowski_Uncropped.png",
-        "gamesPlayed": 7,
-        "gamesStarted": 0,
-        "putouts": 3,
-        "assists": 5,
-        "errors": 1,
-        "fieldingPercentage": 0.889,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 9
-      },
-      "evaluation": {
-        "score": 11,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 33.76623376623376,
-          "Command": 23.999999999999993,
-          "Damage suppression": 0
-        },
-        "summary": "John Kwiatkowski gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 4.91",
-          "WHIP 1.64",
-          "K/9 7.7"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.91"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.64"
-          },
-          {
-            "label": "K/9",
-            "value": "7.7"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.5"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.70"
-          },
-          {
-            "label": "IP",
-            "value": "25.7"
-          }
-        ],
-        "metaLine": "SR / L/L",
-        "detailBadges": [
-          "LHP",
-          "SR",
-          "L/L",
-          "Pitcher"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats"
-      }
-    },
-    {
-      "id": "boston-college-26413",
-      "schoolSlug": "boston-college",
-      "school": "Boston College",
-      "schoolLongName": "Boston College",
-      "name": "Jack Toomey",
-      "normalizedName": "jack toomey",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "OF",
-      "positionLong": "Outfield",
-      "classYear": "SR",
-      "handedness": "R/R",
-      "jersey": "38",
-      "hometown": "Wellesley, Mass.",
-      "highSchool": "St. Sebastian's",
-      "previousSchool": "Holy Cross",
-      "hometownHighSchool": "Wellesley, Mass. / St. Sebastian's",
-      "profileUrl": "https://bceagles.com/sports/baseball/roster/jack-toomey/26413",
-      "imageUrl": "https://bceagles.com/images/2026/1/23/Toomey_Headshot.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "26413",
-      "sources": [
-        "Boston College Athletics roster",
-        "Boston College cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "26413",
-        "name": "Jack Toomey",
-        "normalizedName": "jack toomey",
-        "jersey": "38",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/jack-toomey/26413",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Toomey_Headshot.png",
-        "gamesPlayed": 50,
-        "gamesStarted": 49,
-        "battingAverage": 0.316,
-        "onBasePercentage": 0.445,
-        "sluggingPercentage": 0.552,
-        "ops": 0.997,
-        "atBats": 174,
-        "runs": 52,
-        "hits": 55,
-        "doubles": 14,
-        "triples": 6,
-        "homeRuns": 5,
-        "runsBattedIn": 27,
-        "totalBases": 96,
-        "walks": 38,
-        "hitByPitch": 4,
-        "strikeouts": 41,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 2,
-        "sacrificeFlies": 2,
-        "sacrificeHits": 1,
-        "stolenBases": 18,
-        "stolenBasesAttempts": 19,
-        "putouts": 98,
-        "assists": 0,
-        "errors": 1,
-        "plateAppearances": 239,
-        "caughtStealing": 1,
-        "pickedOff": 1
-      },
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "26413",
-        "name": "Jack Toomey",
-        "normalizedName": "jack toomey",
-        "jersey": "38",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/jack-toomey/26413",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Toomey_Headshot.png",
-        "gamesPlayed": 42,
-        "gamesStarted": 42,
-        "putouts": 98,
-        "assists": 1,
-        "errors": 1,
-        "fieldingPercentage": 0.99,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 100
-      },
-      "evaluation": {
-        "score": 73,
-        "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
-        },
-        "components": {
-          "On-base": 91.66666666666666,
-          "Power": 61.05263157894739,
-          "Contact": 60,
-          "Discipline": 80.75880758807587,
-          "Speed": 60
-        },
-        "summary": "Jack Toomey profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .316",
-          "OBP .445",
-          "SLG .552"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".316"
-          },
-          {
-            "label": "OBP",
-            "value": ".445"
-          },
-          {
-            "label": "SLG",
-            "value": ".552"
-          },
-          {
-            "label": "HR",
-            "value": "5"
-          },
-          {
-            "label": "RBI",
-            "value": "27"
-          },
-          {
-            "label": "SB",
-            "value": "18"
-          }
-        ],
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "OF",
-          "SR",
-          "R/R",
-          "Hitter"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats"
-      }
-    },
-    {
-      "id": "boston-college-26422",
-      "schoolSlug": "boston-college",
-      "school": "Boston College",
-      "schoolLongName": "Boston College",
-      "name": "Aidan Gelbsman",
-      "normalizedName": "aidan gelbsman",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "Left-Handed Pitcher",
-      "classYear": "SO",
-      "handedness": "L/L",
-      "jersey": "40",
-      "hometown": "Oneonta, N.Y.",
-      "highSchool": "Oneonta High School",
-      "previousSchool": "UAlbany",
-      "hometownHighSchool": "Oneonta, N.Y. / Oneonta High School",
-      "profileUrl": "https://bceagles.com/sports/baseball/roster/aidan-gelbsman/26422",
-      "imageUrl": "https://bceagles.com/images/2026/1/23/Gelbsman_Uncropped.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "26422",
-      "sources": [
-        "Boston College Athletics roster",
-        "Boston College cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "26422",
-        "name": "Aidan Gelbsman",
-        "normalizedName": "aidan gelbsman",
-        "jersey": "40",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/aidan-gelbsman/26422",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Gelbsman_Uncropped.png",
-        "gamesPlayed": 2,
-        "gamesStarted": 0,
-        "appearances": 2,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 0,
-        "whip": 1.5,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 1.3333333333333333,
-        "inningsPitchedDisplay": "1.1",
-        "hitsAllowed": 1,
-        "runsAllowed": 0,
-        "earnedRunsAllowed": 0,
-        "walksAllowed": 1,
-        "strikeouts": 2,
-        "doublesAllowed": 1,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 5,
-        "wildPitches": 0,
-        "hitBatters": 2,
-        "balks": 0,
-        "opponentsBattingAverage": 0.2,
-        "walksHits": 0
-      },
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 20,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 86.36363636363636,
-          "Command": 20,
-          "Damage suppression": 0
-        },
-        "summary": "Aidan Gelbsman looks like a LHP option who limits runs and misses bats.",
-        "summaryMetrics": [
-          "ERA 0.00",
-          "WHIP 1.50",
-          "K/9 13.5"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "0.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.50"
-          },
-          {
-            "label": "K/9",
-            "value": "13.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "6.8"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "1.3"
-          }
-        ],
-        "metaLine": "SO / L/L",
-        "detailBadges": [
-          "LHP",
-          "SO",
-          "L/L",
-          "Pitcher"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats"
-      }
-    },
-    {
-      "id": "boston-college-26391",
-      "schoolSlug": "boston-college",
-      "school": "Boston College",
-      "schoolLongName": "Boston College",
-      "name": "Bobby Chicoine",
-      "normalizedName": "bobby chicoine",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right-Handed Pitcher",
-      "classYear": "SR",
-      "handedness": "R/R",
-      "jersey": "43",
-      "hometown": "Armonk, N.Y.",
-      "highSchool": "Byram Hills",
-      "previousSchool": "",
-      "hometownHighSchool": "Armonk, N.Y. / Byram Hills",
-      "profileUrl": "https://bceagles.com/sports/baseball/roster/bobby-chicoine/26391",
-      "imageUrl": "https://bceagles.com/images/2026/1/23/Chicoine_Uncropped.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "26391",
-      "sources": [
-        "Boston College Athletics roster",
-        "Boston College cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "26391",
-        "name": "Bobby Chicoine",
-        "normalizedName": "bobby chicoine",
-        "jersey": "43",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/bobby-chicoine/26391",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Chicoine_Uncropped.png",
-        "gamesPlayed": 5,
-        "gamesStarted": 0,
-        "appearances": 5,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 8.1,
-        "whip": 2.1,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 3.3333333333333335,
-        "inningsPitchedDisplay": "3.1",
-        "hitsAllowed": 4,
-        "runsAllowed": 4,
-        "earnedRunsAllowed": 3,
-        "walksAllowed": 3,
-        "strikeouts": 2,
-        "doublesAllowed": 2,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 11,
-        "wildPitches": 1,
-        "hitBatters": 1,
-        "balks": 0,
-        "opponentsBattingAverage": 0.364,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "26391",
-        "name": "Bobby Chicoine",
-        "normalizedName": "bobby chicoine",
-        "jersey": "43",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/bobby-chicoine/26391",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Chicoine_Uncropped.png",
-        "gamesPlayed": 1,
-        "gamesStarted": 0,
-        "putouts": 0,
-        "assists": 0,
-        "errors": 1,
-        "fieldingPercentage": 0,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 1
-      },
-      "evaluation": {
-        "score": 3,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 12.727272727272723,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Bobby Chicoine gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 8.10",
-          "WHIP 2.10",
-          "K/9 5.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "8.10"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.10"
-          },
-          {
-            "label": "K/9",
-            "value": "5.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "8.1"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "3.3"
-          }
-        ],
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats"
-      }
-    },
-    {
-      "id": "boston-college-26414",
-      "schoolSlug": "boston-college",
-      "school": "Boston College",
-      "schoolLongName": "Boston College",
-      "name": "Nick Wang",
-      "normalizedName": "nick wang",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "INF",
-      "positionLong": "Infield",
-      "classYear": "GR",
-      "handedness": "R/R",
-      "jersey": "44",
-      "hometown": "Newton, Mass.",
-      "highSchool": "Phillips Exeter",
-      "previousSchool": "Holy Cross",
-      "hometownHighSchool": "Newton, Mass. / Phillips Exeter",
-      "profileUrl": "https://bceagles.com/sports/baseball/roster/nick-wang/26414",
-      "imageUrl": "https://bceagles.com/images/2026/1/23/Wang_Uncropped.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "26414",
-      "sources": [
-        "Boston College Athletics roster",
-        "Boston College cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "26414",
-        "name": "Nick Wang",
-        "normalizedName": "nick wang",
-        "jersey": "44",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/nick-wang/26414",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Wang_Uncropped.png",
-        "gamesPlayed": 60,
-        "gamesStarted": 60,
-        "battingAverage": 0.294,
-        "onBasePercentage": 0.404,
-        "sluggingPercentage": 0.57,
-        "ops": 0.974,
-        "atBats": 221,
-        "runs": 46,
-        "hits": 65,
-        "doubles": 11,
-        "triples": 1,
-        "homeRuns": 16,
-        "runsBattedIn": 62,
-        "totalBases": 126,
-        "walks": 39,
-        "hitByPitch": 8,
-        "strikeouts": 47,
-        "intentionalWalks": 4,
-        "groundedIntoDoublePlay": 8,
-        "sacrificeFlies": 9,
-        "sacrificeHits": 0,
-        "stolenBases": 12,
-        "stolenBasesAttempts": 13,
-        "putouts": 302,
-        "assists": 0,
-        "errors": 3,
-        "plateAppearances": 291,
-        "caughtStealing": 1,
-        "pickedOff": 3
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "26414",
-        "name": "Nick Wang",
-        "normalizedName": "nick wang",
-        "jersey": "44",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/nick-wang/26414",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Wang_Uncropped.png",
-        "gamesPlayed": 52,
-        "gamesStarted": 52,
-        "putouts": 302,
-        "assists": 16,
-        "errors": 3,
-        "fieldingPercentage": 0.991,
-        "doublePlays": 29,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 321
-      },
-      "evaluation": {
-        "score": 61,
-        "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
-        },
-        "components": {
-          "On-base": 68.88888888888889,
-          "Power": 65.78947368421052,
-          "Contact": 46.249999999999986,
-          "Discipline": 69.97635933806146,
-          "Speed": 40
-        },
-        "summary": "Nick Wang profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .294",
-          "OBP .404",
-          "SLG .570"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".294"
-          },
-          {
-            "label": "OBP",
-            "value": ".404"
-          },
-          {
-            "label": "SLG",
-            "value": ".570"
-          },
-          {
-            "label": "HR",
-            "value": "16"
-          },
-          {
-            "label": "RBI",
-            "value": "62"
-          },
-          {
-            "label": "SB",
-            "value": "12"
-          }
-        ],
-        "metaLine": "GR / R/R",
-        "detailBadges": [
-          "INF",
-          "GR",
-          "R/R",
-          "Hitter"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats"
-      }
-    },
-    {
-      "id": "boston-college-26423",
-      "schoolSlug": "boston-college",
-      "school": "Boston College",
-      "schoolLongName": "Boston College",
-      "name": "Drew Grumbles",
-      "normalizedName": "drew grumbles",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right-Handed Pitcher",
-      "classYear": "JR",
-      "handedness": "R/R",
-      "jersey": "45",
-      "hometown": "Maumelle, Ark.",
-      "highSchool": "Episcopal Collegiate School",
-      "previousSchool": "Johns Hopkins",
-      "hometownHighSchool": "Maumelle, Ark. / Episcopal Collegiate School",
-      "profileUrl": "https://bceagles.com/sports/baseball/roster/drew-grumbles/26423",
-      "imageUrl": "https://bceagles.com/images/2026/1/23/Grumbles_Uncropped.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "26423",
-      "sources": [
-        "Boston College Athletics roster",
-        "Boston College cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "26423",
-        "name": "Drew Grumbles",
-        "normalizedName": "drew grumbles",
-        "jersey": "45",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/drew-grumbles/26423",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Grumbles_Uncropped.png",
-        "gamesPlayed": 8,
-        "gamesStarted": 6,
-        "appearances": 8,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 3.98,
-        "whip": 1.48,
-        "wins": 1,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 20.333333333333332,
-        "inningsPitchedDisplay": "20.1",
-        "hitsAllowed": 16,
-        "runsAllowed": 11,
-        "earnedRunsAllowed": 9,
-        "walksAllowed": 14,
-        "strikeouts": 16,
-        "doublesAllowed": 6,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 72,
-        "wildPitches": 5,
-        "hitBatters": 6,
-        "balks": 0,
-        "opponentsBattingAverage": 0.222,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "26423",
-        "name": "Drew Grumbles",
-        "normalizedName": "drew grumbles",
-        "jersey": "45",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/drew-grumbles/26423",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Grumbles_Uncropped.png",
-        "gamesPlayed": 5,
-        "gamesStarted": 4,
-        "putouts": 1,
-        "assists": 3,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 2,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 4
-      },
-      "evaluation": {
-        "score": 6,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 28.01788375558868,
-          "Command": 2.8571428571428603,
-          "Damage suppression": 0
-        },
-        "summary": "Drew Grumbles looks like a RHP option who limits runs.",
-        "summaryMetrics": [
-          "ERA 3.98",
-          "WHIP 1.48",
-          "K/9 7.1"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.98"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.48"
-          },
-          {
-            "label": "K/9",
-            "value": "7.1"
-          },
-          {
-            "label": "BB/9",
-            "value": "6.2"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "20.3"
-          }
-        ],
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats"
-      }
-    },
-    {
-      "id": "boston-college-26401",
-      "schoolSlug": "boston-college",
-      "school": "Boston College",
-      "schoolLongName": "Boston College",
-      "name": "Kyle Kipp",
-      "normalizedName": "kyle kipp",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right-Handed Pitcher",
-      "classYear": "JR",
-      "handedness": "R/R",
-      "jersey": "46",
-      "hometown": "Stamford, Conn.",
-      "highSchool": "Westhill High School",
-      "previousSchool": "",
-      "hometownHighSchool": "Stamford, Conn. / Westhill High School",
-      "profileUrl": "https://bceagles.com/sports/baseball/roster/kyle-kipp/26401",
-      "imageUrl": "https://bceagles.com/images/2026/1/23/Kipp_Uncropped.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "26401",
-      "sources": [
-        "Boston College Athletics roster",
-        "Boston College cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "26401",
-        "name": "Kyle Kipp",
-        "normalizedName": "kyle kipp",
-        "jersey": "46",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/kyle-kipp/26401",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Kipp_Uncropped.png",
-        "gamesPlayed": 19,
-        "gamesStarted": 0,
-        "appearances": 19,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 5.08,
-        "whip": 1.31,
-        "wins": 2,
-        "losses": 3,
-        "saves": 5,
-        "shutouts": 0,
-        "inningsPitched": 39,
-        "inningsPitchedDisplay": "39.0",
-        "hitsAllowed": 35,
-        "runsAllowed": 22,
-        "earnedRunsAllowed": 22,
-        "walksAllowed": 16,
-        "strikeouts": 32,
-        "doublesAllowed": 7,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 5,
-        "opponentsAtBats": 146,
-        "wildPitches": 3,
-        "hitBatters": 5,
-        "balks": 0,
-        "opponentsBattingAverage": 0.24,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "26401",
-        "name": "Kyle Kipp",
-        "normalizedName": "kyle kipp",
-        "jersey": "46",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/kyle-kipp/26401",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Kipp_Uncropped.png",
-        "gamesPlayed": 5,
-        "gamesStarted": 0,
-        "putouts": 0,
-        "assists": 6,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 6
-      },
-      "evaluation": {
-        "score": 9,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 30.76923076923077,
-          "Command": 20,
-          "Damage suppression": 0
-        },
-        "summary": "Kyle Kipp gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 5.08",
-          "WHIP 1.31",
-          "K/9 7.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.08"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.31"
-          },
-          {
-            "label": "K/9",
-            "value": "7.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.7"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.15"
-          },
-          {
-            "label": "IP",
-            "value": "39.0"
-          }
-        ],
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats"
-      }
-    },
-    {
-      "id": "boston-college-26411",
-      "schoolSlug": "boston-college",
-      "school": "Boston College",
-      "schoolLongName": "Boston College",
-      "name": "Matthew Spada",
-      "normalizedName": "matthew spada",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "Left-Handed Pitcher",
-      "classYear": "SR",
-      "handedness": "L/L",
-      "jersey": "47",
-      "hometown": "Westport, Conn.",
-      "highSchool": "Staples",
-      "previousSchool": "Wesleyan",
-      "hometownHighSchool": "Westport, Conn. / Staples",
-      "profileUrl": "https://bceagles.com/sports/baseball/roster/matthew-spada/26411",
-      "imageUrl": "https://bceagles.com/images/2026/1/23/Spada_Uncropped.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "26411",
-      "sources": [
-        "Boston College Athletics roster",
-        "Boston College cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "26411",
-        "name": "Matthew Spada",
-        "normalizedName": "matthew spada",
-        "jersey": "47",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/matthew-spada/26411",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Spada_Uncropped.png",
-        "gamesPlayed": 7,
-        "gamesStarted": 0,
-        "appearances": 7,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 6.75,
-        "whip": 2.5,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 4,
-        "inningsPitchedDisplay": "4.0",
-        "hitsAllowed": 4,
-        "runsAllowed": 5,
-        "earnedRunsAllowed": 3,
-        "walksAllowed": 6,
-        "strikeouts": 3,
-        "doublesAllowed": 0,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 13,
-        "wildPitches": 3,
-        "hitBatters": 0,
-        "balks": 0,
-        "opponentsBattingAverage": 0.308,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "26411",
-        "name": "Matthew Spada",
-        "normalizedName": "matthew spada",
-        "jersey": "47",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/matthew-spada/26411",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Spada_Uncropped.png",
-        "gamesPlayed": 1,
-        "gamesStarted": 0,
-        "putouts": 0,
-        "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 0,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 1,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 0
-      },
-      "evaluation": {
-        "score": 5,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 25,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Matthew Spada gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 6.75",
-          "WHIP 2.50",
-          "K/9 6.8"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "6.75"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.50"
-          },
-          {
-            "label": "K/9",
-            "value": "6.8"
-          },
-          {
-            "label": "BB/9",
-            "value": "13.5"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "4.0"
-          }
-        ],
-        "metaLine": "SR / L/L",
-        "detailBadges": [
-          "LHP",
-          "SR",
-          "L/L",
-          "Pitcher"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats"
-      }
-    },
-    {
-      "id": "boston-college-26408",
-      "schoolSlug": "boston-college",
-      "school": "Boston College",
-      "schoolLongName": "Boston College",
-      "name": "Peter Schaefer",
-      "normalizedName": "peter schaefer",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right-Handed Pitcher",
-      "classYear": "GR",
-      "handedness": "L/R",
-      "jersey": "49",
-      "hometown": "Knoxville, Tenn.",
-      "highSchool": "Webb School of Knoxville",
-      "previousSchool": "Johns Hopkins",
-      "hometownHighSchool": "Knoxville, Tenn. / Webb School of Knoxville",
-      "profileUrl": "https://bceagles.com/sports/baseball/roster/peter-schaefer/26408",
-      "imageUrl": "https://bceagles.com/images/2026/1/23/Schaefer_Uncropped.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "26408",
-      "sources": [
-        "Boston College Athletics roster",
-        "Boston College cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "26408",
-        "name": "Peter Schaefer",
-        "normalizedName": "peter schaefer",
-        "jersey": "49",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/peter-schaefer/26408",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Schaefer_Uncropped.png",
-        "gamesPlayed": 9,
-        "gamesStarted": 0,
-        "appearances": 9,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 5.23,
-        "whip": 1.84,
-        "wins": 1,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 10.333333333333334,
-        "inningsPitchedDisplay": "10.1",
-        "hitsAllowed": 5,
-        "runsAllowed": 6,
-        "earnedRunsAllowed": 6,
-        "walksAllowed": 14,
-        "strikeouts": 5,
-        "doublesAllowed": 0,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 33,
-        "wildPitches": 1,
-        "hitBatters": 4,
-        "balks": 0,
-        "opponentsBattingAverage": 0.152,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "26408",
-        "name": "Peter Schaefer",
-        "normalizedName": "peter schaefer",
-        "jersey": "49",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/peter-schaefer/26408",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Schaefer_Uncropped.png",
-        "gamesPlayed": 1,
-        "gamesStarted": 0,
-        "putouts": 0,
-        "assists": 1,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 1,
-        "caughtStealingBy": 1,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 1
-      },
-      "evaluation": {
-        "score": 1,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 3.2258064516129004,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Peter Schaefer gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 5.23",
-          "WHIP 1.84",
-          "K/9 4.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.23"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.84"
-          },
-          {
-            "label": "K/9",
-            "value": "4.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "12.2"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "10.3"
-          }
-        ],
-        "metaLine": "GR / L/R",
-        "detailBadges": [
-          "RHP",
-          "GR",
-          "L/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats"
-      }
-    },
-    {
-      "id": "boston-college-26429",
-      "schoolSlug": "boston-college",
-      "school": "Boston College",
-      "schoolLongName": "Boston College",
-      "name": "Ethan Marzo",
-      "normalizedName": "ethan marzo",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right-Handed Pitcher",
-      "classYear": "SO",
-      "handedness": "R/R",
-      "jersey": "54",
-      "hometown": "Middletown, N.J.",
-      "highSchool": "Red Bank Catholic High School",
-      "previousSchool": "Marist",
-      "hometownHighSchool": "Middletown, N.J. / Red Bank Catholic High School",
-      "profileUrl": "https://bceagles.com/sports/baseball/roster/ethan-marzo/26429",
-      "imageUrl": "https://bceagles.com/images/2026/1/23/Marzo_Uncropped.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "26429",
-      "sources": [
-        "Boston College Athletics roster",
-        "Boston College cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "26429",
-        "name": "Ethan Marzo",
-        "normalizedName": "ethan marzo",
-        "jersey": "54",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/ethan-marzo/26429",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Marzo_Uncropped.png",
-        "gamesPlayed": 1,
-        "gamesStarted": 0,
-        "appearances": 1,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 0,
-        "whip": 2,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 1,
-        "inningsPitchedDisplay": "1.0",
-        "hitsAllowed": 1,
-        "runsAllowed": 0,
-        "earnedRunsAllowed": 0,
-        "walksAllowed": 1,
-        "strikeouts": 0,
-        "doublesAllowed": 0,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 4,
-        "wildPitches": 0,
-        "hitBatters": 1,
-        "balks": 0,
-        "opponentsBattingAverage": 0.25,
-        "walksHits": 0
-      },
       "fieldingStats": null,
       "evaluation": {
         "score": 0,
@@ -5549,20 +3020,20 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Ethan Marzo looks like a RHP option who limits runs.",
+        "summary": "Sean Budis looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 0.00",
-          "WHIP 2.00",
+          "ERA --",
+          "WHIP --",
           "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "0.00"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "2.00"
+            "value": "--"
           },
           {
             "label": "K/9",
@@ -5570,7 +3041,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
           },
           {
             "label": "BB/9",
-            "value": "9.0"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
@@ -5578,38 +3049,1094 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
           },
           {
             "label": "IP",
-            "value": "1.0"
+            "value": "0.0"
           }
         ],
-        "metaLine": "SO / R/R",
+        "metaLine": "SO / L/L",
         "detailBadges": [
-          "RHP",
+          "LHP",
           "SO",
-          "R/R",
+          "L/L",
           "Pitcher"
         ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats"
+        "sourceSummary": "Boston College Athletics roster"
       }
     },
     {
-      "id": "boston-college-26412",
+      "id": "boston-college-27485",
+      "schoolSlug": "boston-college",
+      "school": "Boston College",
+      "schoolLongName": "Boston College",
+      "name": "Asher DeLue",
+      "normalizedName": "asher delue",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "Left-Handed Pitcher",
+      "classYear": "FR",
+      "handedness": "L/L",
+      "jersey": "37",
+      "hometown": "Princeton, N.J.",
+      "highSchool": "The Hun School",
+      "previousSchool": "",
+      "hometownHighSchool": "Princeton, N.J. / The Hun School",
+      "profileUrl": "https://bceagles.com/sports/baseball/roster/asher-delue/27485",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "27485",
+      "sources": [
+        "Boston College Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Asher DeLue looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FR / L/L",
+        "detailBadges": [
+          "LHP",
+          "FR",
+          "L/L",
+          "Pitcher"
+        ],
+        "sourceSummary": "Boston College Athletics roster"
+      }
+    },
+    {
+      "id": "boston-college-27486",
+      "schoolSlug": "boston-college",
+      "school": "Boston College",
+      "schoolLongName": "Boston College",
+      "name": "Will Meehan",
+      "normalizedName": "will meehan",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "Left-Handed Pitcher",
+      "classYear": "FR",
+      "handedness": "L/L",
+      "jersey": "38",
+      "hometown": "Hazlet, N.J.",
+      "highSchool": "Raritan High School",
+      "previousSchool": "",
+      "hometownHighSchool": "Hazlet, N.J. / Raritan High School",
+      "profileUrl": "https://bceagles.com/sports/baseball/roster/will-meehan/27486",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "27486",
+      "sources": [
+        "Boston College Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Will Meehan looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FR / L/L",
+        "detailBadges": [
+          "LHP",
+          "FR",
+          "L/L",
+          "Pitcher"
+        ],
+        "sourceSummary": "Boston College Athletics roster"
+      }
+    },
+    {
+      "id": "boston-college-27487",
+      "schoolSlug": "boston-college",
+      "school": "Boston College",
+      "schoolLongName": "Boston College",
+      "name": "Ford McCarthy",
+      "normalizedName": "ford mccarthy",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "Outfield",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "40",
+      "hometown": "Jacksonville, Fla.",
+      "highSchool": "The Bolles School",
+      "previousSchool": "",
+      "hometownHighSchool": "Jacksonville, Fla. / The Bolles School",
+      "profileUrl": "https://bceagles.com/sports/baseball/roster/ford-mccarthy/27487",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "27487",
+      "sources": [
+        "Boston College Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Ford McCarthy gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "OF",
+          "FR",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Boston College Athletics roster"
+      }
+    },
+    {
+      "id": "boston-college-27488",
+      "schoolSlug": "boston-college",
+      "school": "Boston College",
+      "schoolLongName": "Boston College",
+      "name": "Gus Gregory",
+      "normalizedName": "gus gregory",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "Outfield",
+      "classYear": "GR",
+      "handedness": "L/R",
+      "jersey": "43",
+      "hometown": "Strongsville, Ohio.",
+      "highSchool": "Strongsville High School",
+      "previousSchool": "",
+      "hometownHighSchool": "Strongsville, Ohio. / Strongsville High School",
+      "profileUrl": "https://bceagles.com/sports/baseball/roster/gus-gregory/27488",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "27488",
+      "sources": [
+        "Boston College Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Gus Gregory gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "GR / L/R",
+        "detailBadges": [
+          "OF",
+          "GR",
+          "L/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Boston College Athletics roster"
+      }
+    },
+    {
+      "id": "boston-college-27489",
+      "schoolSlug": "boston-college",
+      "school": "Boston College",
+      "schoolLongName": "Boston College",
+      "name": "Aidan Spagna",
+      "normalizedName": "aidan spagna",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "C",
+      "positionLong": "Catcher",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "44",
+      "hometown": "Ashburn, Va.",
+      "highSchool": "Independence High School",
+      "previousSchool": "",
+      "hometownHighSchool": "Ashburn, Va. / Independence High School",
+      "profileUrl": "https://bceagles.com/sports/baseball/roster/aidan-spagna/27489",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "27489",
+      "sources": [
+        "Boston College Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Aidan Spagna gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "C",
+          "FR",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Boston College Athletics roster"
+      }
+    },
+    {
+      "id": "boston-college-27431",
+      "schoolSlug": "boston-college",
+      "school": "Boston College",
+      "schoolLongName": "Boston College",
+      "name": "Drew Grumbles",
+      "normalizedName": "drew grumbles",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "SR",
+      "handedness": "R/R",
+      "jersey": "45",
+      "hometown": "Maumelle, Ark.",
+      "highSchool": "Episcopal Collegiate School",
+      "previousSchool": "Johns Hopkins",
+      "hometownHighSchool": "Maumelle, Ark. / Episcopal Collegiate School",
+      "profileUrl": "https://bceagles.com/sports/baseball/roster/drew-grumbles/27431",
+      "imageUrl": "https://bceagles.com/images/2026/1/23/Grumbles_Uncropped.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "27431",
+      "sources": [
+        "Boston College Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Drew Grumbles looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Boston College Athletics roster"
+      }
+    },
+    {
+      "id": "boston-college-27433",
+      "schoolSlug": "boston-college",
+      "school": "Boston College",
+      "schoolLongName": "Boston College",
+      "name": "Kyle Kipp",
+      "normalizedName": "kyle kipp",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "SR",
+      "handedness": "R/R",
+      "jersey": "46",
+      "hometown": "Stamford, Conn.",
+      "highSchool": "Westhill High School",
+      "previousSchool": "",
+      "hometownHighSchool": "Stamford, Conn. / Westhill High School",
+      "profileUrl": "https://bceagles.com/sports/baseball/roster/kyle-kipp/27433",
+      "imageUrl": "https://bceagles.com/images/2026/1/23/Kipp_Uncropped.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "27433",
+      "sources": [
+        "Boston College Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Kyle Kipp looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Boston College Athletics roster"
+      }
+    },
+    {
+      "id": "boston-college-27490",
+      "schoolSlug": "boston-college",
+      "school": "Boston College",
+      "schoolLongName": "Boston College",
+      "name": "Brodey Bitove",
+      "normalizedName": "brodey bitove",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "Outfield",
+      "classYear": "JR",
+      "handedness": "L/R",
+      "jersey": "47",
+      "hometown": "Toronto, Ont.",
+      "highSchool": "The Benjamin School",
+      "previousSchool": "",
+      "hometownHighSchool": "Toronto, Ont. / The Benjamin School",
+      "profileUrl": "https://bceagles.com/sports/baseball/roster/brodey-bitove/27490",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "27490",
+      "sources": [
+        "Boston College Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Brodey Bitove gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "JR / L/R",
+        "detailBadges": [
+          "OF",
+          "JR",
+          "L/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Boston College Athletics roster"
+      }
+    },
+    {
+      "id": "boston-college-27491",
+      "schoolSlug": "boston-college",
+      "school": "Boston College",
+      "schoolLongName": "Boston College",
+      "name": "Jeremy Sheffield",
+      "normalizedName": "jeremy sheffield",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "Infield",
+      "classYear": "GR",
+      "handedness": "R/R",
+      "jersey": "48",
+      "hometown": "Chesterfield, Mo.",
+      "highSchool": "Westminster Christian Academy",
+      "previousSchool": "",
+      "hometownHighSchool": "Chesterfield, Mo. / Westminster Christian Academy",
+      "profileUrl": "https://bceagles.com/sports/baseball/roster/jeremy-sheffield/27491",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "27491",
+      "sources": [
+        "Boston College Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Jeremy Sheffield gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "GR / R/R",
+        "detailBadges": [
+          "INF",
+          "GR",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Boston College Athletics roster"
+      }
+    },
+    {
+      "id": "boston-college-27492",
+      "schoolSlug": "boston-college",
+      "school": "Boston College",
+      "schoolLongName": "Boston College",
+      "name": "Brayden Ryan",
+      "normalizedName": "brayden ryan",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "GR",
+      "handedness": "R/R",
+      "jersey": "49",
+      "hometown": "Salem, N.H.",
+      "highSchool": "Lawrence Academy",
+      "previousSchool": "",
+      "hometownHighSchool": "Salem, N.H. / Lawrence Academy",
+      "profileUrl": "https://bceagles.com/sports/baseball/roster/brayden-ryan/27492",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "27492",
+      "sources": [
+        "Boston College Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Brayden Ryan looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "GR / R/R",
+        "detailBadges": [
+          "RHP",
+          "GR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Boston College Athletics roster"
+      }
+    },
+    {
+      "id": "boston-college-27493",
+      "schoolSlug": "boston-college",
+      "school": "Boston College",
+      "schoolLongName": "Boston College",
+      "name": "Jack Ryan",
+      "normalizedName": "jack ryan",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "50",
+      "hometown": "Cincinnati, Ohio",
+      "highSchool": "St. Xavier High School",
+      "previousSchool": "",
+      "hometownHighSchool": "Cincinnati, Ohio / St. Xavier High School",
+      "profileUrl": "https://bceagles.com/sports/baseball/roster/jack-ryan/27493",
+      "imageUrl": "",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "27493",
+      "sources": [
+        "Boston College Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Jack Ryan looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Boston College Athletics roster"
+      }
+    },
+    {
+      "id": "boston-college-27438",
+      "schoolSlug": "boston-college",
+      "school": "Boston College",
+      "schoolLongName": "Boston College",
+      "name": "Ethan Marzo",
+      "normalizedName": "ethan marzo",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Right-Handed Pitcher",
+      "classYear": "JR",
+      "handedness": "R/R",
+      "jersey": "54",
+      "hometown": "Middletown, N.J.",
+      "highSchool": "Red Bank Catholic High School",
+      "previousSchool": "Marist",
+      "hometownHighSchool": "Middletown, N.J. / Red Bank Catholic High School",
+      "profileUrl": "https://bceagles.com/sports/baseball/roster/ethan-marzo/27438",
+      "imageUrl": "https://bceagles.com/images/2026/1/23/Marzo_Uncropped.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "27438",
+      "sources": [
+        "Boston College Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Ethan Marzo looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Boston College Athletics roster"
+      }
+    },
+    {
+      "id": "boston-college-27443",
       "schoolSlug": "boston-college",
       "school": "Boston College",
       "schoolLongName": "Boston College",
       "name": "Danny Surowiec",
       "normalizedName": "danny surowiec",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "INF",
       "positionLong": "Infield",
-      "classYear": "SO",
+      "classYear": "JR",
       "handedness": "L/R",
       "jersey": "55",
       "hometown": "West Chester, Pa.",
       "highSchool": "West Chester Henderson",
       "previousSchool": "",
       "hometownHighSchool": "West Chester, Pa. / West Chester Henderson",
-      "profileUrl": "https://bceagles.com/sports/baseball/roster/danny-surowiec/26412",
+      "profileUrl": "https://bceagles.com/sports/baseball/roster/danny-surowiec/27443",
       "imageUrl": "https://bceagles.com/images/2026/1/23/Suroweic_Uncropped.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -5617,142 +4144,153 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "26412",
+      "rosterBioId": "27443",
       "sources": [
-        "Boston College Athletics roster",
-        "Boston College cumulative stats"
+        "Boston College Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "26412",
-        "name": "Danny Surowiec",
-        "normalizedName": "danny surowiec",
-        "jersey": "55",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/danny-surowiec/26412",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Suroweic_Uncropped.png",
-        "gamesPlayed": 46,
-        "gamesStarted": 30,
-        "battingAverage": 0.227,
-        "onBasePercentage": 0.37,
-        "sluggingPercentage": 0.318,
-        "ops": 0.688,
-        "atBats": 110,
-        "runs": 16,
-        "hits": 25,
-        "doubles": 4,
-        "triples": 0,
-        "homeRuns": 2,
-        "runsBattedIn": 12,
-        "totalBases": 35,
-        "walks": 17,
-        "hitByPitch": 8,
-        "strikeouts": 32,
-        "intentionalWalks": 2,
-        "groundedIntoDoublePlay": 2,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 4,
-        "stolenBasesAttempts": 5,
-        "putouts": 93,
-        "assists": 0,
-        "errors": 1,
-        "plateAppearances": 141,
-        "caughtStealing": 1,
-        "pickedOff": 2
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "26412",
-        "name": "Danny Surowiec",
-        "normalizedName": "danny surowiec",
-        "jersey": "55",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/danny-surowiec/26412",
-        "imageUrl": "https://bceagles.com/images/2026/1/23/Suroweic_Uncropped.png",
-        "gamesPlayed": 17,
-        "gamesStarted": 14,
-        "putouts": 93,
-        "assists": 8,
-        "errors": 1,
-        "fieldingPercentage": 0.99,
-        "doublePlays": 6,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 102
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 23,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 49.999999999999986,
+          "On-base": 0,
           "Power": 0,
-          "Contact": 4.3750000000000036,
-          "Discipline": 36.80555555555555,
-          "Speed": 13.333333333333334
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
         "summary": "Danny Surowiec gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .227",
-          "OBP .370",
-          "SLG .318"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".227"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".370"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".318"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "2"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "12"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "4"
+            "value": "0"
           }
         ],
-        "metaLine": "SO / L/R",
+        "metaLine": "JR / L/R",
         "detailBadges": [
           "INF",
-          "SO",
+          "JR",
           "L/R",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats"
+        "sourceSummary": "Boston College Athletics roster"
       }
     }
   ],
   "playerBoard": {
     "source": "Boston College Athletics roster + cumulative stats / ESPN roster",
     "note": "This Boston College-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but Boston College's public ESPN roster feed did not line up cleanly with the current school-site roster.",
-    "totalPlayers": 41,
+    "totalPlayers": 46,
     "roleCounts": {
-      "Hitter": 18,
-      "Pitcher": 23
+      "Hitter": 22,
+      "Pitcher": 24
     },
     "players": [
       {
-        "id": "boston-college-26428",
+        "id": "boston-college-27472",
+        "name": "Will Matuszak",
+        "school": "Boston College",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Will Matuszak gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "INF",
+          "JR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Boston College Athletics roster"
+        ],
+        "sourceSummary": "Boston College Athletics roster",
+        "schoolSlug": "boston-college",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://bceagles.com/sports/baseball/roster/will-matuszak/27472",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "boston-college-27437",
         "name": "Sean Martinez",
         "school": "Boston College",
         "role": "Hitter",
         "position": "INF",
-        "classYear": "SO",
+        "classYear": "JR",
         "handedness": "R/R",
         "score": 0,
         "fit": {
@@ -5761,22 +4299,22 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         },
         "summary": "Sean Martinez gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .152",
-          "OBP .222",
-          "SLG .182"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".152"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".222"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".182"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -5784,7 +4322,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
           },
           {
             "label": "RBI",
-            "value": "3"
+            "value": "0"
           },
           {
             "label": "SB",
@@ -5798,99 +4336,97 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "SO / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "INF",
-          "SO",
+          "JR",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
+          "Boston College Athletics roster"
         ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
+        "sourceSummary": "Boston College Athletics roster",
         "schoolSlug": "boston-college",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/sean-martinez/26428",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://bceagles.com/sports/baseball/roster/sean-martinez/27437",
         "espnAthleteId": ""
       },
       {
-        "id": "boston-college-26426",
+        "id": "boston-college-27435",
         "name": "Ty Mainolfi",
         "school": "Boston College",
         "role": "Hitter",
         "position": "INF",
-        "classYear": "SO",
+        "classYear": "JR",
         "handedness": "L/R",
-        "score": 61,
+        "score": 0,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
-        "summary": "Ty Mainolfi profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
+        "summary": "Ty Mainolfi gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .323",
-          "OBP .411",
-          "SLG .444"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".323"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".411"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".444"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "2"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "51"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "19"
+            "value": "0"
           }
         ],
         "components": {
-          "On-base": 72.77777777777776,
-          "Power": 32.631578947368425,
-          "Contact": 64.375,
-          "Discipline": 79.08496732026141,
-          "Speed": 63.33333333333333
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "metaLine": "SO / L/R",
+        "metaLine": "JR / L/R",
         "detailBadges": [
           "INF",
-          "SO",
+          "JR",
           "L/R",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
+          "Boston College Athletics roster"
         ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
+        "sourceSummary": "Boston College Athletics roster",
         "schoolSlug": "boston-college",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/ty-mainolfi/26426",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://bceagles.com/sports/baseball/roster/ty-mainolfi/27435",
         "espnAthleteId": ""
       },
       {
-        "id": "boston-college-26707",
+        "id": "boston-college-27424",
         "name": "Charlie Comella",
         "school": "Boston College",
         "role": "Hitter",
         "position": "OF",
-        "classYear": "SO",
+        "classYear": "JR",
         "handedness": "L/L",
         "score": 0,
         "fit": {
@@ -5899,22 +4435,22 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         },
         "summary": "Charlie Comella gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .000",
-          "OBP .000",
-          "SLG .000"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -5936,123 +4472,53 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "SO / L/L",
+        "metaLine": "JR / L/L",
         "detailBadges": [
           "OF",
-          "SO",
+          "JR",
           "L/L",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
+          "Boston College Athletics roster"
         ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
+        "sourceSummary": "Boston College Athletics roster",
         "schoolSlug": "boston-college",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/charlie-comella/26707",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://bceagles.com/sports/baseball/roster/charlie-comella/27424",
         "espnAthleteId": ""
       },
       {
-        "id": "boston-college-26404",
-        "name": "John Mass",
-        "school": "Boston College",
-        "role": "Pitcher",
-        "position": "RHP/INF",
-        "classYear": "SO",
-        "handedness": "S/R",
-        "score": 33,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "John Mass looks like a RHP/INF option who limits runs and misses bats and keeps traffic under control.",
-        "summaryMetrics": [
-          "ERA 0.00",
-          "WHIP 0.75",
-          "K/9 16.9"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "0.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "0.75"
-          },
-          {
-            "label": "K/9",
-            "value": "16.9"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.4"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "2.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 100,
-          "Command": 80,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / S/R",
-        "detailBadges": [
-          "RHP/INF",
-          "SO",
-          "S/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/john-mass/26404",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26394",
-        "name": "Esteban Garcia",
+        "id": "boston-college-27473",
+        "name": "Chase Massey",
         "school": "Boston College",
         "role": "Hitter",
         "position": "INF",
-        "classYear": "JR",
-        "handedness": "L/R",
-        "score": 6,
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Esteban Garcia gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Chase Massey gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .167",
-          "OBP .275",
-          "SLG .190"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".167"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".275"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".190"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -6060,113 +4526,179 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
           },
           {
             "label": "RBI",
-            "value": "7"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "2"
+            "value": "0"
           }
         ],
         "components": {
           "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 41.26984126984126,
-          "Speed": 6.666666666666667
+          "Discipline": 0,
+          "Speed": 0
         },
-        "metaLine": "JR / L/R",
+        "metaLine": "FR / R/R",
         "detailBadges": [
           "INF",
-          "JR",
-          "L/R",
-          "Hitter"
+          "FR",
+          "R/R",
+          "Rostered"
         ],
         "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
+          "Boston College Athletics roster"
         ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
+        "sourceSummary": "Boston College Athletics roster",
         "schoolSlug": "boston-college",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/esteban-garcia/26394",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://bceagles.com/sports/baseball/roster/chase-massey/27473",
         "espnAthleteId": ""
       },
       {
-        "id": "boston-college-26392",
-        "name": "A.J. Colarusso",
-        "school": "Boston College",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "SR",
-        "handedness": "L/L",
-        "score": 15,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "A.J. Colarusso looks like a LHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA 4.45",
-          "WHIP 1.39",
-          "K/9 8.3"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.45"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.39"
-          },
-          {
-            "label": "K/9",
-            "value": "8.3"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.6"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.30"
-          },
-          {
-            "label": "IP",
-            "value": "83.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 39.539978094194964,
-          "Command": 44.16666666666668,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / L/L",
-        "detailBadges": [
-          "LHP",
-          "SR",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/aj-colarusso/26392",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26427",
-        "name": "Gabe Malaret",
+        "id": "boston-college-27474",
+        "name": "Patrick Connors",
         "school": "Boston College",
         "role": "Hitter",
         "position": "OF",
         "classYear": "FR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Patrick Connors gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "OF",
+          "FR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Boston College Athletics roster"
+        ],
+        "sourceSummary": "Boston College Athletics roster",
+        "schoolSlug": "boston-college",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://bceagles.com/sports/baseball/roster/patrick-connors/27474",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "boston-college-27428",
+        "name": "Esteban Garcia",
+        "school": "Boston College",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "SR",
+        "handedness": "L/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Esteban Garcia gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "SR / L/R",
+        "detailBadges": [
+          "INF",
+          "SR",
+          "L/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Boston College Athletics roster"
+        ],
+        "sourceSummary": "Boston College Athletics roster",
+        "schoolSlug": "boston-college",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://bceagles.com/sports/baseball/roster/esteban-garcia/27428",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "boston-college-27436",
+        "name": "Gabe Malaret",
+        "school": "Boston College",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "SO",
         "handedness": "S/R",
         "score": 0,
         "fit": {
@@ -6212,10 +4744,10 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "FR / S/R",
+        "metaLine": "SO / S/R",
         "detailBadges": [
           "OF",
-          "FR",
+          "SO",
           "S/R",
           "Rostered"
         ],
@@ -6225,190 +4757,52 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "sourceSummary": "Boston College Athletics roster",
         "schoolSlug": "boston-college",
         "compositeRole": "Rostered",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/gabe-malaret/26427",
+        "profileUrl": "https://bceagles.com/sports/baseball/roster/gabe-malaret/27436",
         "espnAthleteId": ""
       },
       {
-        "id": "boston-college-26403",
+        "id": "boston-college-27434",
         "name": "Colin Larson",
         "school": "Boston College",
         "role": "Hitter",
         "position": "OF",
-        "classYear": "SO",
+        "classYear": "JR",
         "handedness": "L/L",
-        "score": 40,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Colin Larson profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
+        "summary": "Colin Larson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .225",
-          "OBP .412",
-          "SLG .338"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".225"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".412"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".338"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "3"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "21"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "21"
-          }
-        ],
-        "components": {
-          "On-base": 73.3333333333333,
-          "Power": 4.736842105263163,
-          "Contact": 3.1250000000000027,
-          "Discipline": 52.52525252525252,
-          "Speed": 70
-        },
-        "metaLine": "SO / L/L",
-        "detailBadges": [
-          "OF",
-          "SO",
-          "L/L",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/colin-larson/26403",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26400",
-        "name": "Gunnar Johnson",
-        "school": "Boston College",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "GR",
-        "handedness": "R/R",
-        "score": 25,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Gunnar Johnson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .250",
-          "OBP .354",
-          "SLG .379"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".250"
-          },
-          {
-            "label": "OBP",
-            "value": ".354"
-          },
-          {
-            "label": "SLG",
-            "value": ".379"
-          },
-          {
-            "label": "HR",
-            "value": "2"
-          },
-          {
-            "label": "RBI",
-            "value": "32"
-          },
-          {
-            "label": "SB",
-            "value": "3"
-          }
-        ],
-        "components": {
-          "On-base": 41.111111111111086,
-          "Power": 15.526315789473685,
-          "Contact": 18.75,
-          "Discipline": 25.39682539682539,
-          "Speed": 10
-        },
-        "metaLine": "GR / R/R",
-        "detailBadges": [
-          "C",
-          "GR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/gunnar-johnson/26400",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26393",
-        "name": "Owen DeShazo",
-        "school": "Boston College",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 1,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Owen DeShazo gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .175",
-          "OBP .239",
-          "SLG .300"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".175"
-          },
-          {
-            "label": "OBP",
-            "value": ".239"
-          },
-          {
-            "label": "SLG",
-            "value": ".300"
-          },
-          {
-            "label": "HR",
-            "value": "1"
-          },
-          {
-            "label": "RBI",
-            "value": "5"
-          },
-          {
-            "label": "SB",
-            "value": "2"
+            "value": "0"
           }
         ],
         "components": {
@@ -6416,125 +4810,55 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
           "Power": 0,
           "Contact": 0,
           "Discipline": 0,
-          "Speed": 6.666666666666667
+          "Speed": 0
         },
-        "metaLine": "SR / R/R",
+        "metaLine": "JR / L/L",
         "detailBadges": [
           "OF",
-          "SR",
-          "R/R",
-          "Hitter"
+          "JR",
+          "L/L",
+          "Rostered"
         ],
         "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
+          "Boston College Athletics roster"
         ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
+        "sourceSummary": "Boston College Athletics roster",
         "schoolSlug": "boston-college",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/owen-deshazo/26393",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://bceagles.com/sports/baseball/roster/colin-larson/27434",
         "espnAthleteId": ""
       },
       {
-        "id": "boston-college-26421",
-        "name": "Luke Gallo",
+        "id": "boston-college-27475",
+        "name": "Collin Haug",
         "school": "Boston College",
         "role": "Hitter",
-        "position": "INF",
+        "position": "OF",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 60,
-        "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
-        },
-        "summary": "Luke Gallo profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .325",
-          "OBP .434",
-          "SLG .429"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".325"
-          },
-          {
-            "label": "OBP",
-            "value": ".434"
-          },
-          {
-            "label": "SLG",
-            "value": ".429"
-          },
-          {
-            "label": "HR",
-            "value": "2"
-          },
-          {
-            "label": "RBI",
-            "value": "36"
-          },
-          {
-            "label": "SB",
-            "value": "9"
-          }
-        ],
-        "components": {
-          "On-base": 85.55555555555554,
-          "Power": 28.68421052631579,
-          "Contact": 65.625,
-          "Discipline": 74.39613526570045,
-          "Speed": 30
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "INF",
-          "FR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/luke-gallo/26421",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26407",
-        "name": "Jace Roossien",
-        "school": "Boston College",
-        "role": "Hitter",
-        "position": "C/OF",
-        "classYear": "SO",
-        "handedness": "S/R",
-        "score": 3,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Jace Roossien gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Collin Haug gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .167",
-          "OBP .250",
-          "SLG .208"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".167"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".250"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".208"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -6542,214 +4866,143 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
           },
           {
             "label": "RBI",
-            "value": "3"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "2"
+            "value": "0"
           }
         ],
         "components": {
           "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 14.814814814814808,
-          "Speed": 6.666666666666667
+          "Discipline": 0,
+          "Speed": 0
         },
-        "metaLine": "SO / S/R",
+        "metaLine": "FR / R/R",
         "detailBadges": [
-          "C/OF",
-          "SO",
-          "S/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/jace-roossien/26407",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26410",
-        "name": "Julio Solier",
-        "school": "Boston College",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 71,
-        "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
-        },
-        "summary": "Julio Solier profiles as a INF piece who gets on base at a high clip and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .354",
-          "OBP .434",
-          "SLG .498"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".354"
-          },
-          {
-            "label": "OBP",
-            "value": ".434"
-          },
-          {
-            "label": "SLG",
-            "value": ".498"
-          },
-          {
-            "label": "HR",
-            "value": "3"
-          },
-          {
-            "label": "RBI",
-            "value": "34"
-          },
-          {
-            "label": "SB",
-            "value": "28"
-          }
-        ],
-        "components": {
-          "On-base": 85.55555555555554,
-          "Power": 46.842105263157904,
-          "Contact": 83.74999999999999,
-          "Discipline": 51.85185185185184,
-          "Speed": 93.33333333333333
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "INF",
-          "SO",
+          "OF",
+          "FR",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
+          "Boston College Athletics roster"
         ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
+        "sourceSummary": "Boston College Athletics roster",
         "schoolSlug": "boston-college",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/julio-solier/26410",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://bceagles.com/sports/baseball/roster/collin-haug/27475",
         "espnAthleteId": ""
       },
       {
-        "id": "boston-college-26409",
-        "name": "Gavin Soares",
+        "id": "boston-college-27476",
+        "name": "Matt Kouser",
         "school": "Boston College",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "SO",
+        "classYear": "JR",
         "handedness": "R/R",
-        "score": 23,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Gavin Soares looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
+        "summary": "Matt Kouser looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 2.96",
-          "WHIP 1.24",
-          "K/9 11.5"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.96"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.24"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "11.5"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "3.0"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "0.33"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "27.3"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 68.40354767184036,
-          "Command": 57.777777777777786,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SO / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "RHP",
-          "SO",
+          "JR",
           "R/R",
           "Pitcher"
         ],
         "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
+          "Boston College Athletics roster"
         ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
+        "sourceSummary": "Boston College Athletics roster",
         "schoolSlug": "boston-college",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/gavin-soares/26409",
+        "profileUrl": "https://bceagles.com/sports/baseball/roster/matt-kouser/27476",
         "espnAthleteId": ""
       },
       {
-        "id": "boston-college-26416",
-        "name": "Kyle Wolff",
+        "id": "boston-college-27427",
+        "name": "Luke Gallo",
         "school": "Boston College",
         "role": "Hitter",
         "position": "INF",
-        "classYear": "SR",
-        "handedness": "R/L",
-        "score": 28,
+        "classYear": "SO",
+        "handedness": "R/R",
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Kyle Wolff gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Luke Gallo gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .232",
-          "OBP .331",
-          "SLG .491"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".232"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".331"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".491"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "7"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "29"
+            "value": "0"
           },
           {
             "label": "SB",
@@ -6757,60 +5010,331 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
           }
         ],
         "components": {
-          "On-base": 28.33333333333333,
-          "Power": 45,
-          "Contact": 7.500000000000007,
-          "Discipline": 40.579710144927525,
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "SR / R/L",
+        "metaLine": "SO / R/R",
         "detailBadges": [
           "INF",
-          "SR",
-          "R/L",
-          "Hitter"
+          "SO",
+          "R/R",
+          "Rostered"
         ],
         "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
+          "Boston College Athletics roster"
         ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
+        "sourceSummary": "Boston College Athletics roster",
         "schoolSlug": "boston-college",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/kyle-wolff/26416",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://bceagles.com/sports/baseball/roster/luke-gallo/27427",
         "espnAthleteId": ""
       },
       {
-        "id": "boston-college-26415",
+        "id": "boston-college-27477",
+        "name": "Nick Quagliato",
+        "school": "Boston College",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Nick Quagliato gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "C",
+          "JR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Boston College Athletics roster"
+        ],
+        "sourceSummary": "Boston College Athletics roster",
+        "schoolSlug": "boston-college",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://bceagles.com/sports/baseball/roster/nick-quagliato/27477",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "boston-college-27442",
+        "name": "Julio Solier",
+        "school": "Boston College",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Julio Solier gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "INF",
+          "JR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Boston College Athletics roster"
+        ],
+        "sourceSummary": "Boston College Athletics roster",
+        "schoolSlug": "boston-college",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://bceagles.com/sports/baseball/roster/julio-solier/27442",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "boston-college-27441",
+        "name": "Gavin Soares",
+        "school": "Boston College",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Gavin Soares looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Boston College Athletics roster"
+        ],
+        "sourceSummary": "Boston College Athletics roster",
+        "schoolSlug": "boston-college",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://bceagles.com/sports/baseball/roster/gavin-soares/27441",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "boston-college-27478",
+        "name": "Max Goldberg",
+        "school": "Boston College",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "FR",
+        "handedness": "L/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Max Goldberg looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / L/L",
+        "detailBadges": [
+          "LHP",
+          "FR",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Boston College Athletics roster"
+        ],
+        "sourceSummary": "Boston College Athletics roster",
+        "schoolSlug": "boston-college",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://bceagles.com/sports/baseball/roster/max-goldberg/27478",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "boston-college-27444",
         "name": "Ben Williams",
         "school": "Boston College",
         "role": "Hitter",
         "position": "OF",
-        "classYear": "SO",
+        "classYear": "JR",
         "handedness": "R/R",
-        "score": 6,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Ben Williams gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .189",
-          "OBP .294",
-          "SLG .230"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".189"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".294"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".230"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -6818,113 +5342,179 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
           },
           {
             "label": "RBI",
-            "value": "8"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "7"
+            "value": "0"
           }
         ],
         "components": {
-          "On-base": 7.777777777777755,
+          "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 9.523809523809518,
-          "Speed": 23.333333333333332
+          "Discipline": 0,
+          "Speed": 0
         },
-        "metaLine": "SO / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "OF",
-          "SO",
+          "JR",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
+          "Boston College Athletics roster"
         ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
+        "sourceSummary": "Boston College Athletics roster",
         "schoolSlug": "boston-college",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/ben-williams/26415",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://bceagles.com/sports/baseball/roster/ben-williams/27444",
         "espnAthleteId": ""
       },
       {
-        "id": "boston-college-26406",
-        "name": "Tyler Mudd",
+        "id": "boston-college-27479",
+        "name": "Luke Hewes",
         "school": "Boston College",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "GR",
-        "handedness": "L/L",
-        "score": 8,
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Tyler Mudd looks like a LHP option who throws enough strikes.",
+        "summary": "Luke Hewes gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.72",
-          "WHIP 1.44",
-          "K/9 6.3"
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "C",
+          "JR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Boston College Athletics roster"
+        ],
+        "sourceSummary": "Boston College Athletics roster",
+        "schoolSlug": "boston-college",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://bceagles.com/sports/baseball/roster/luke-hewes/27479",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "boston-college-27480",
+        "name": "Champ Davis",
+        "school": "Boston College",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "GR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Champ Davis looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.72"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.44"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "6.3"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "2.8"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.75"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "66.7"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 21.318181818181817,
-          "Command": 24.761904761904763,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "GR / L/L",
+        "metaLine": "GR / R/R",
         "detailBadges": [
-          "LHP",
+          "RHP",
           "GR",
-          "L/L",
+          "R/R",
           "Pitcher"
         ],
         "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
+          "Boston College Athletics roster"
         ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
+        "sourceSummary": "Boston College Athletics roster",
         "schoolSlug": "boston-college",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/tyler-mudd/26406",
+        "profileUrl": "https://bceagles.com/sports/baseball/roster/champ-davis/27480",
         "espnAthleteId": ""
       },
       {
-        "id": "boston-college-26430",
+        "id": "boston-college-27439",
         "name": "Easton Masse",
         "school": "Boston College",
         "role": "Hitter",
         "position": "C",
-        "classYear": "FR",
+        "classYear": "SO",
         "handedness": "R/R",
         "score": 0,
         "fit": {
@@ -6933,22 +5523,22 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         },
         "summary": "Easton Masse gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .000",
-          "OBP .000",
-          "SLG .000"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -6970,211 +5560,344 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "FR / R/R",
+        "metaLine": "SO / R/R",
         "detailBadges": [
           "C",
-          "FR",
+          "SO",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
+          "Boston College Athletics roster"
         ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
+        "sourceSummary": "Boston College Athletics roster",
         "schoolSlug": "boston-college",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/easton-masse/26430",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://bceagles.com/sports/baseball/roster/easton-masse/27439",
         "espnAthleteId": ""
       },
       {
-        "id": "boston-college-26405",
+        "id": "boston-college-27440",
         "name": "Brady Miller",
         "school": "Boston College",
         "role": "Pitcher",
         "position": "LHP",
-        "classYear": "SO",
+        "classYear": "JR",
         "handedness": "R/L",
-        "score": 16,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Brady Miller looks like a LHP option who misses bats.",
+        "summary": "Brady Miller looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 6.07",
-          "WHIP 1.49",
-          "K/9 9.9"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.07"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.49"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "9.9"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "3.7"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.12"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "56.3"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 53.68477676169984,
-          "Command": 33.91304347826087,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SO / R/L",
+        "metaLine": "JR / R/L",
         "detailBadges": [
           "LHP",
-          "SO",
+          "JR",
           "R/L",
           "Pitcher"
         ],
         "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
+          "Boston College Athletics roster"
         ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
+        "sourceSummary": "Boston College Athletics roster",
         "schoolSlug": "boston-college",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/brady-miller/26405",
+        "profileUrl": "https://bceagles.com/sports/baseball/roster/brady-miller/27440",
         "espnAthleteId": ""
       },
       {
-        "id": "boston-college-26396",
+        "id": "boston-college-27430",
         "name": "Cesar Gonzalez",
         "school": "Boston College",
         "role": "Pitcher",
         "position": "C/RHP",
-        "classYear": "SO",
+        "classYear": "JR",
         "handedness": "R/R",
-        "score": 16,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Cesar Gonzalez looks like a C/RHP option who limits runs and misses bats.",
+        "summary": "Cesar Gonzalez looks like a C/RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 3.22",
-          "WHIP 1.32",
-          "K/9 9.9"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.22"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.32"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "9.9"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "3.7"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "0.74"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "36.3"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 53.7114261884904,
-          "Command": 33.33333333333333,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "C/RHP",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Boston College Athletics roster"
+        ],
+        "sourceSummary": "Boston College Athletics roster",
+        "schoolSlug": "boston-college",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://bceagles.com/sports/baseball/roster/cesar-gonzalez/27430",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "boston-college-27432",
+        "name": "Chase Hartsell",
+        "school": "Boston College",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SO",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Chase Hartsell looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
         "metaLine": "SO / R/R",
         "detailBadges": [
-          "C/RHP",
+          "RHP",
           "SO",
           "R/R",
-          "Two-Way"
+          "Pitcher"
         ],
         "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
+          "Boston College Athletics roster"
         ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
+        "sourceSummary": "Boston College Athletics roster",
         "schoolSlug": "boston-college",
-        "compositeRole": "Two-Way",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/cesar-gonzalez/26396",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://bceagles.com/sports/baseball/roster/chase-hartsell/27432",
         "espnAthleteId": ""
       },
       {
-        "id": "boston-college-26424",
-        "name": "Chase Hartsell",
+        "id": "boston-college-27423",
+        "name": "Jacob Burnham",
+        "school": "Boston College",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "JR",
+        "handedness": "R/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jacob Burnham looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / R/L",
+        "detailBadges": [
+          "LHP",
+          "JR",
+          "R/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Boston College Athletics roster"
+        ],
+        "sourceSummary": "Boston College Athletics roster",
+        "schoolSlug": "boston-college",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://bceagles.com/sports/baseball/roster/jacob-burnham/27423",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "boston-college-27481",
+        "name": "Matthew DeFilippo",
         "school": "Boston College",
         "role": "Pitcher",
         "position": "RHP",
         "classYear": "FR",
         "handedness": "R/R",
-        "score": 13,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Chase Hartsell looks like a RHP option who misses bats.",
+        "summary": "Matthew DeFilippo looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 5.74",
-          "WHIP 1.65",
-          "K/9 9.4"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.74"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.65"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "9.4"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "5.1"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "0.34"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "26.7"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 49.54545454545454,
-          "Command": 17.33333333333333,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
         "metaLine": "FR / R/R",
@@ -7185,65 +5908,64 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
           "Pitcher"
         ],
         "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
+          "Boston College Athletics roster"
         ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
+        "sourceSummary": "Boston College Athletics roster",
         "schoolSlug": "boston-college",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/chase-hartsell/26424",
+        "profileUrl": "https://bceagles.com/sports/baseball/roster/matthew-defilippo/27481",
         "espnAthleteId": ""
       },
       {
-        "id": "boston-college-26390",
-        "name": "Jacob Burnham",
+        "id": "boston-college-27426",
+        "name": "Zach Fronio",
         "school": "Boston College",
         "role": "Pitcher",
         "position": "LHP",
         "classYear": "SO",
         "handedness": "R/L",
-        "score": 10,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Jacob Burnham gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Zach Fronio looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 5.02",
-          "WHIP 1.65",
-          "K/9 8.1"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.02"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.65"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "8.1"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "4.5"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "0.96"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "37.7"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 37.48994368463395,
-          "Command": 15.789473684210522,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
         "metaLine": "SO / R/L",
@@ -7254,18 +5976,153 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
           "Pitcher"
         ],
         "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
+          "Boston College Athletics roster"
         ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
+        "sourceSummary": "Boston College Athletics roster",
         "schoolSlug": "boston-college",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/jacob-burnham/26390",
+        "profileUrl": "https://bceagles.com/sports/baseball/roster/zach-fronio/27426",
         "espnAthleteId": ""
       },
       {
-        "id": "boston-college-26420",
-        "name": "Zach Fronio",
+        "id": "boston-college-27482",
+        "name": "Ben Cherico",
+        "school": "Boston College",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "GR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Ben Cherico looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "GR / R/R",
+        "detailBadges": [
+          "RHP",
+          "GR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Boston College Athletics roster"
+        ],
+        "sourceSummary": "Boston College Athletics roster",
+        "schoolSlug": "boston-college",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://bceagles.com/sports/baseball/roster/ben-cherico/27482",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "boston-college-27483",
+        "name": "JJ Drennan",
+        "school": "Boston College",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "JJ Drennan looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Boston College Athletics roster"
+        ],
+        "sourceSummary": "Boston College Athletics roster",
+        "schoolSlug": "boston-college",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://bceagles.com/sports/baseball/roster/jj-drennan/27483",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "boston-college-27484",
+        "name": "Luke Hillegass",
         "school": "Boston College",
         "role": "Pitcher",
         "position": "LHP",
@@ -7276,7 +6133,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Zach Fronio looks like a LHP option who throws enough strikes.",
+        "summary": "Luke Hillegass looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -7328,223 +6185,16 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "sourceSummary": "Boston College Athletics roster",
         "schoolSlug": "boston-college",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/zach-fronio/26420",
+        "profileUrl": "https://bceagles.com/sports/baseball/roster/luke-hillegass/27484",
         "espnAthleteId": ""
       },
       {
-        "id": "boston-college-26431",
-        "name": "John D Mitchell",
-        "school": "Boston College",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "L/R",
-        "score": 13,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "John D Mitchell looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 7.17",
-          "WHIP 1.97",
-          "K/9 10.1"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "7.17"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.97"
-          },
-          {
-            "label": "K/9",
-            "value": "10.1"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.9"
-          },
-          {
-            "label": "HR/9",
-            "value": "2.11"
-          },
-          {
-            "label": "IP",
-            "value": "21.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 55.68181818181818,
-          "Command": 14.285714285714285,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / L/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "L/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/john-d-mitchell/26431",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26425",
-        "name": "Carter Hendrickson",
-        "school": "Boston College",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "GR",
-        "handedness": "R/L",
-        "score": 45,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Carter Hendrickson profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .235",
-          "OBP .410",
-          "SLG .382"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".235"
-          },
-          {
-            "label": "OBP",
-            "value": ".410"
-          },
-          {
-            "label": "SLG",
-            "value": ".382"
-          },
-          {
-            "label": "HR",
-            "value": "2"
-          },
-          {
-            "label": "RBI",
-            "value": "18"
-          },
-          {
-            "label": "SB",
-            "value": "12"
-          }
-        ],
-        "components": {
-          "On-base": 72.2222222222222,
-          "Power": 16.315789473684212,
-          "Contact": 9.374999999999991,
-          "Discipline": 83.04093567251459,
-          "Speed": 40
-        },
-        "metaLine": "GR / R/L",
-        "detailBadges": [
-          "OF",
-          "GR",
-          "R/L",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/carter-hendrickson/26425",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26397",
-        "name": "Sean Hard",
-        "school": "Boston College",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "GR",
-        "handedness": "R/R",
-        "score": 14,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Sean Hard looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 4.67",
-          "WHIP 1.70",
-          "K/9 10.7"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.67"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.70"
-          },
-          {
-            "label": "K/9",
-            "value": "10.7"
-          },
-          {
-            "label": "BB/9",
-            "value": "7.3"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.67"
-          },
-          {
-            "label": "IP",
-            "value": "27.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 60.606060606060595,
-          "Command": 9.090909090909092,
-          "Damage suppression": 0
-        },
-        "metaLine": "GR / R/R",
-        "detailBadges": [
-          "RHP",
-          "GR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/sean-hard/26397",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26417",
+        "id": "boston-college-27421",
         "name": "Logan Berenson",
         "school": "Boston College",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "FR",
+        "classYear": "SO",
         "handedness": "R/R",
         "score": 0,
         "fit": {
@@ -7590,6 +6240,958 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "RHP",
+          "SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Boston College Athletics roster"
+        ],
+        "sourceSummary": "Boston College Athletics roster",
+        "schoolSlug": "boston-college",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://bceagles.com/sports/baseball/roster/logan-berenson/27421",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "boston-college-27425",
+        "name": "Luke D'Ancona",
+        "school": "Boston College",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SO",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Luke D'Ancona looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "RHP",
+          "SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Boston College Athletics roster"
+        ],
+        "sourceSummary": "Boston College Athletics roster",
+        "schoolSlug": "boston-college",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://bceagles.com/sports/baseball/roster/luke-dancona/27425",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "boston-college-27429",
+        "name": "Joe Gold",
+        "school": "Boston College",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Joe Gold looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Boston College Athletics roster"
+        ],
+        "sourceSummary": "Boston College Athletics roster",
+        "schoolSlug": "boston-college",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://bceagles.com/sports/baseball/roster/joe-gold/27429",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "boston-college-27422",
+        "name": "Sean Budis",
+        "school": "Boston College",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "SO",
+        "handedness": "L/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Sean Budis looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SO / L/L",
+        "detailBadges": [
+          "LHP",
+          "SO",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Boston College Athletics roster"
+        ],
+        "sourceSummary": "Boston College Athletics roster",
+        "schoolSlug": "boston-college",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://bceagles.com/sports/baseball/roster/sean-budis/27422",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "boston-college-27485",
+        "name": "Asher DeLue",
+        "school": "Boston College",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "FR",
+        "handedness": "L/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Asher DeLue looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / L/L",
+        "detailBadges": [
+          "LHP",
+          "FR",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Boston College Athletics roster"
+        ],
+        "sourceSummary": "Boston College Athletics roster",
+        "schoolSlug": "boston-college",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://bceagles.com/sports/baseball/roster/asher-delue/27485",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "boston-college-27486",
+        "name": "Will Meehan",
+        "school": "Boston College",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "FR",
+        "handedness": "L/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Will Meehan looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / L/L",
+        "detailBadges": [
+          "LHP",
+          "FR",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Boston College Athletics roster"
+        ],
+        "sourceSummary": "Boston College Athletics roster",
+        "schoolSlug": "boston-college",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://bceagles.com/sports/baseball/roster/will-meehan/27486",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "boston-college-27487",
+        "name": "Ford McCarthy",
+        "school": "Boston College",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Ford McCarthy gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "OF",
+          "FR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Boston College Athletics roster"
+        ],
+        "sourceSummary": "Boston College Athletics roster",
+        "schoolSlug": "boston-college",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://bceagles.com/sports/baseball/roster/ford-mccarthy/27487",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "boston-college-27488",
+        "name": "Gus Gregory",
+        "school": "Boston College",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "GR",
+        "handedness": "L/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Gus Gregory gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "GR / L/R",
+        "detailBadges": [
+          "OF",
+          "GR",
+          "L/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Boston College Athletics roster"
+        ],
+        "sourceSummary": "Boston College Athletics roster",
+        "schoolSlug": "boston-college",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://bceagles.com/sports/baseball/roster/gus-gregory/27488",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "boston-college-27489",
+        "name": "Aidan Spagna",
+        "school": "Boston College",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Aidan Spagna gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "C",
+          "FR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Boston College Athletics roster"
+        ],
+        "sourceSummary": "Boston College Athletics roster",
+        "schoolSlug": "boston-college",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://bceagles.com/sports/baseball/roster/aidan-spagna/27489",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "boston-college-27431",
+        "name": "Drew Grumbles",
+        "school": "Boston College",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Drew Grumbles looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Boston College Athletics roster"
+        ],
+        "sourceSummary": "Boston College Athletics roster",
+        "schoolSlug": "boston-college",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://bceagles.com/sports/baseball/roster/drew-grumbles/27431",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "boston-college-27433",
+        "name": "Kyle Kipp",
+        "school": "Boston College",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Kyle Kipp looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Boston College Athletics roster"
+        ],
+        "sourceSummary": "Boston College Athletics roster",
+        "schoolSlug": "boston-college",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://bceagles.com/sports/baseball/roster/kyle-kipp/27433",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "boston-college-27490",
+        "name": "Brodey Bitove",
+        "school": "Boston College",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "JR",
+        "handedness": "L/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Brodey Bitove gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "JR / L/R",
+        "detailBadges": [
+          "OF",
+          "JR",
+          "L/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Boston College Athletics roster"
+        ],
+        "sourceSummary": "Boston College Athletics roster",
+        "schoolSlug": "boston-college",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://bceagles.com/sports/baseball/roster/brodey-bitove/27490",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "boston-college-27491",
+        "name": "Jeremy Sheffield",
+        "school": "Boston College",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "GR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jeremy Sheffield gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "GR / R/R",
+        "detailBadges": [
+          "INF",
+          "GR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Boston College Athletics roster"
+        ],
+        "sourceSummary": "Boston College Athletics roster",
+        "schoolSlug": "boston-college",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://bceagles.com/sports/baseball/roster/jeremy-sheffield/27491",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "boston-college-27492",
+        "name": "Brayden Ryan",
+        "school": "Boston College",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "GR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Brayden Ryan looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "GR / R/R",
+        "detailBadges": [
+          "RHP",
+          "GR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Boston College Athletics roster"
+        ],
+        "sourceSummary": "Boston College Athletics roster",
+        "schoolSlug": "boston-college",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://bceagles.com/sports/baseball/roster/brayden-ryan/27492",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "boston-college-27493",
+        "name": "Jack Ryan",
+        "school": "Boston College",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jack Ryan looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
         "metaLine": "FR / R/R",
         "detailBadges": [
           "RHP",
@@ -7603,81 +7205,12 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "sourceSummary": "Boston College Athletics roster",
         "schoolSlug": "boston-college",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/logan-berenson/26417",
+        "profileUrl": "https://bceagles.com/sports/baseball/roster/jack-ryan/27493",
         "espnAthleteId": ""
       },
       {
-        "id": "boston-college-26419",
-        "name": "Luke D'Ancona",
-        "school": "Boston College",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 13,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Luke D'Ancona looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 5.55",
-          "WHIP 1.44",
-          "K/9 9.2"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.55"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.44"
-          },
-          {
-            "label": "K/9",
-            "value": "9.2"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.4"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.37"
-          },
-          {
-            "label": "IP",
-            "value": "24.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 47.6961394769614,
-          "Command": 21.66666666666667,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/luke-dancona/26419",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26395",
-        "name": "Joe Gold",
+        "id": "boston-college-27438",
+        "name": "Ethan Marzo",
         "school": "Boston College",
         "role": "Pitcher",
         "position": "RHP",
@@ -7688,7 +7221,7 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Joe Gold looks like a RHP option who throws enough strikes.",
+        "summary": "Ethan Marzo looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -7740,835 +7273,75 @@ window.__BASEBALL_DATASETS__.boston-college2026 = {
         "sourceSummary": "Boston College Athletics roster",
         "schoolSlug": "boston-college",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/joe-gold/26395",
+        "profileUrl": "https://bceagles.com/sports/baseball/roster/ethan-marzo/27438",
         "espnAthleteId": ""
       },
       {
-        "id": "boston-college-26418",
-        "name": "Sean Budis",
-        "school": "Boston College",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "FR",
-        "handedness": "L/L",
-        "score": 9,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Sean Budis looks like a LHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 9.00",
-          "WHIP 3.00",
-          "K/9 9.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "9.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "3.00"
-          },
-          {
-            "label": "K/9",
-            "value": "9.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "18.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "1.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / L/L",
-        "detailBadges": [
-          "LHP",
-          "FR",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/sean-budis/26418",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26402",
-        "name": "John Kwiatkowski",
-        "school": "Boston College",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "SR",
-        "handedness": "L/L",
-        "score": 11,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "John Kwiatkowski gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 4.91",
-          "WHIP 1.64",
-          "K/9 7.7"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.91"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.64"
-          },
-          {
-            "label": "K/9",
-            "value": "7.7"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.5"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.70"
-          },
-          {
-            "label": "IP",
-            "value": "25.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 33.76623376623376,
-          "Command": 23.999999999999993,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / L/L",
-        "detailBadges": [
-          "LHP",
-          "SR",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/john-kwiatkowski/26402",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26413",
-        "name": "Jack Toomey",
-        "school": "Boston College",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 73,
-        "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
-        },
-        "summary": "Jack Toomey profiles as a OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .316",
-          "OBP .445",
-          "SLG .552"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".316"
-          },
-          {
-            "label": "OBP",
-            "value": ".445"
-          },
-          {
-            "label": "SLG",
-            "value": ".552"
-          },
-          {
-            "label": "HR",
-            "value": "5"
-          },
-          {
-            "label": "RBI",
-            "value": "27"
-          },
-          {
-            "label": "SB",
-            "value": "18"
-          }
-        ],
-        "components": {
-          "On-base": 91.66666666666666,
-          "Power": 61.05263157894739,
-          "Contact": 60,
-          "Discipline": 80.75880758807587,
-          "Speed": 60
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "OF",
-          "SR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/jack-toomey/26413",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26422",
-        "name": "Aidan Gelbsman",
-        "school": "Boston College",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "SO",
-        "handedness": "L/L",
-        "score": 20,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Aidan Gelbsman looks like a LHP option who limits runs and misses bats.",
-        "summaryMetrics": [
-          "ERA 0.00",
-          "WHIP 1.50",
-          "K/9 13.5"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "0.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.50"
-          },
-          {
-            "label": "K/9",
-            "value": "13.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "6.8"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "1.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 86.36363636363636,
-          "Command": 20,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / L/L",
-        "detailBadges": [
-          "LHP",
-          "SO",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/aidan-gelbsman/26422",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26391",
-        "name": "Bobby Chicoine",
-        "school": "Boston College",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 3,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Bobby Chicoine gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 8.10",
-          "WHIP 2.10",
-          "K/9 5.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "8.10"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.10"
-          },
-          {
-            "label": "K/9",
-            "value": "5.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "8.1"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "3.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 12.727272727272723,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/bobby-chicoine/26391",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26414",
-        "name": "Nick Wang",
-        "school": "Boston College",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "GR",
-        "handedness": "R/R",
-        "score": 61,
-        "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
-        },
-        "summary": "Nick Wang profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .294",
-          "OBP .404",
-          "SLG .570"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".294"
-          },
-          {
-            "label": "OBP",
-            "value": ".404"
-          },
-          {
-            "label": "SLG",
-            "value": ".570"
-          },
-          {
-            "label": "HR",
-            "value": "16"
-          },
-          {
-            "label": "RBI",
-            "value": "62"
-          },
-          {
-            "label": "SB",
-            "value": "12"
-          }
-        ],
-        "components": {
-          "On-base": 68.88888888888889,
-          "Power": 65.78947368421052,
-          "Contact": 46.249999999999986,
-          "Discipline": 69.97635933806146,
-          "Speed": 40
-        },
-        "metaLine": "GR / R/R",
-        "detailBadges": [
-          "INF",
-          "GR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/nick-wang/26414",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26423",
-        "name": "Drew Grumbles",
-        "school": "Boston College",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 6,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Drew Grumbles looks like a RHP option who limits runs.",
-        "summaryMetrics": [
-          "ERA 3.98",
-          "WHIP 1.48",
-          "K/9 7.1"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.98"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.48"
-          },
-          {
-            "label": "K/9",
-            "value": "7.1"
-          },
-          {
-            "label": "BB/9",
-            "value": "6.2"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "20.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 28.01788375558868,
-          "Command": 2.8571428571428603,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/drew-grumbles/26423",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26401",
-        "name": "Kyle Kipp",
-        "school": "Boston College",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 9,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Kyle Kipp gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 5.08",
-          "WHIP 1.31",
-          "K/9 7.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.08"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.31"
-          },
-          {
-            "label": "K/9",
-            "value": "7.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.7"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.15"
-          },
-          {
-            "label": "IP",
-            "value": "39.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 30.76923076923077,
-          "Command": 20,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/kyle-kipp/26401",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26411",
-        "name": "Matthew Spada",
-        "school": "Boston College",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "SR",
-        "handedness": "L/L",
-        "score": 5,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Matthew Spada gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 6.75",
-          "WHIP 2.50",
-          "K/9 6.8"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "6.75"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.50"
-          },
-          {
-            "label": "K/9",
-            "value": "6.8"
-          },
-          {
-            "label": "BB/9",
-            "value": "13.5"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "4.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 25,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / L/L",
-        "detailBadges": [
-          "LHP",
-          "SR",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/matthew-spada/26411",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26408",
-        "name": "Peter Schaefer",
-        "school": "Boston College",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "GR",
-        "handedness": "L/R",
-        "score": 1,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Peter Schaefer gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 5.23",
-          "WHIP 1.84",
-          "K/9 4.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.23"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.84"
-          },
-          {
-            "label": "K/9",
-            "value": "4.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "12.2"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "10.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 3.2258064516129004,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "GR / L/R",
-        "detailBadges": [
-          "RHP",
-          "GR",
-          "L/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/peter-schaefer/26408",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26429",
-        "name": "Ethan Marzo",
-        "school": "Boston College",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Ethan Marzo looks like a RHP option who limits runs.",
-        "summaryMetrics": [
-          "ERA 0.00",
-          "WHIP 2.00",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "0.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.00"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "9.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "1.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
-        ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
-        "schoolSlug": "boston-college",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/ethan-marzo/26429",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "boston-college-26412",
+        "id": "boston-college-27443",
         "name": "Danny Surowiec",
         "school": "Boston College",
         "role": "Hitter",
         "position": "INF",
-        "classYear": "SO",
+        "classYear": "JR",
         "handedness": "L/R",
-        "score": 23,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Danny Surowiec gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .227",
-          "OBP .370",
-          "SLG .318"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".227"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".370"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".318"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "2"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "12"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "4"
+            "value": "0"
           }
         ],
         "components": {
-          "On-base": 49.999999999999986,
+          "On-base": 0,
           "Power": 0,
-          "Contact": 4.3750000000000036,
-          "Discipline": 36.80555555555555,
-          "Speed": 13.333333333333334
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "metaLine": "SO / L/R",
+        "metaLine": "JR / L/R",
         "detailBadges": [
           "INF",
-          "SO",
+          "JR",
           "L/R",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "Boston College Athletics roster",
-          "Boston College cumulative stats"
+          "Boston College Athletics roster"
         ],
-        "sourceSummary": "Boston College Athletics roster + Boston College cumulative stats",
+        "sourceSummary": "Boston College Athletics roster",
         "schoolSlug": "boston-college",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bceagles.com/sports/baseball/roster/danny-surowiec/26412",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://bceagles.com/sports/baseball/roster/danny-surowiec/27443",
         "espnAthleteId": ""
       }
     ]

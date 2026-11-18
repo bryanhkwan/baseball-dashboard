@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.georgia2026 = {
-  "generatedAt": "2026-07-30T10:56:31.771Z",
+  "generatedAt": "2026-11-18T10:18:17.370Z",
   "season": 2026,
   "school": {
     "slug": "georgia",
@@ -25,29 +25,74 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
     "ncaa": "NCAA school index"
   },
   "coverage": {
-    "rosterPlayers": 33,
+    "rosterPlayers": 39,
     "espnRosterPlayers": 0,
-    "playersWithHittingStats": 15,
-    "playersWithPitchingStats": 17,
-    "playersWithFieldingStats": 28,
-    "mergedPlayersWithAnyStats": 30,
+    "playersWithHittingStats": 0,
+    "playersWithPitchingStats": 0,
+    "playersWithFieldingStats": 0,
+    "mergedPlayersWithAnyStats": 0,
     "matchedEspnPlayers": 0,
     "unmatchedStatRows": {
       "hitting": [
+        "Daniel Jackson",
+        "Rylan Lujo",
+        "Tre Phelps",
+        "Ryan Black",
+        "Brennan Hudson",
+        "Kolby Branch",
+        "Michael O'Shaughnessy",
+        "Kenny Ishikawa",
+        "Ryan Wynn",
+        "Cole Koniarsky",
+        "Jordy Oriach",
         "Ty Peeples",
+        "Bryce Calloway",
         "Scott Newman",
         "TL Saxon"
       ],
       "pitching": [
+        "Joey Volchko",
+        "Caden Aoki",
+        "Bryce Calloway",
         "Bradley Stewart",
+        "Justin Byrd",
         "Dylan Wood",
+        "Matt Scott",
+        "Dylan Vigue",
+        "Grant Edwards",
+        "Caleb Jameson",
+        "Mason Kosowick",
+        "Thomas Ellisen",
         "Jordan Stephens",
         "Lucas Morici",
-        "Luke Wiltrakis"
+        "Luke Wiltrakis",
+        "Teddy Brennan",
+        "Kenny Ishikawa"
       ],
       "fielding": [
+        "Jordy Oriach",
         "Scott Newman",
+        "Matt Scott",
+        "Grant Edwards",
+        "Thomas Ellisen",
+        "Cole Koniarsky",
+        "Teddy Brennan",
+        "Daniel Jackson",
+        "Brennan Hudson",
+        "Ryan Black",
+        "Rylan Lujo",
+        "Michael O'Shaughnessy",
+        "Kenny Ishikawa",
+        "Kolby Branch",
+        "Tre Phelps",
+        "Bryce Calloway",
+        "Ryan Wynn",
+        "Dylan Vigue",
+        "Caden Aoki",
+        "Joey Volchko",
         "Ty Peeples",
+        "Justin Byrd",
+        "Caleb Jameson",
         "Jordan Stephens",
         "Lucas Morici"
       ]
@@ -139,714 +184,605 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
   },
   "players": [
     {
-      "id": "georgia-10323",
+      "id": "georgia-11379",
       "schoolSlug": "georgia",
       "school": "Georgia",
       "schoolLongName": "University of Georgia",
-      "name": "Ryan Wynn",
-      "normalizedName": "ryan wynn",
-      "compositeRole": "Hitter",
+      "name": "Graham Mastros",
+      "normalizedName": "graham mastros",
+      "compositeRole": "Rostered",
       "role": "Hitter",
-      "position": "INF",
+      "position": "UTIL",
       "positionLong": "",
-      "classYear": "JR",
+      "classYear": "SR",
       "handedness": "R/R",
       "jersey": "0",
-      "hometown": "Douglasville, Ga.",
+      "hometown": "Northfield, Ill.",
       "highSchool": "",
-      "previousSchool": "Wofford",
-      "hometownHighSchool": "Douglasville, Ga.",
-      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/ryan-wynn/10323",
-      "imageUrl": "https://georgiadogs.com/images/2025/8/19/Wynn__Ryan.JPG",
+      "previousSchool": "Illinois State",
+      "hometownHighSchool": "Northfield, Ill.",
+      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/graham-mastros/11379",
+      "imageUrl": "https://georgiadogs.com/images/2026/9/1/Mastros__Graham.JPG",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "10323",
+      "rosterBioId": "11379",
       "sources": [
-        "Georgia Athletics roster",
-        "Georgia cumulative stats"
+        "Georgia Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "10323",
-        "name": "Ryan Wynn",
-        "normalizedName": "ryan wynn",
-        "jersey": "0",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/ryan-wynn/10323",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Wynn__Ryan.JPG",
-        "gamesPlayed": 50,
-        "gamesStarted": 29,
-        "battingAverage": 0.323,
-        "onBasePercentage": 0.377,
-        "sluggingPercentage": 0.638,
-        "ops": 1.015,
-        "atBats": 130,
-        "runs": 32,
-        "hits": 42,
-        "doubles": 14,
-        "triples": 0,
-        "homeRuns": 9,
-        "runsBattedIn": 37,
-        "totalBases": 83,
-        "walks": 9,
-        "hitByPitch": 4,
-        "strikeouts": 30,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 3,
-        "sacrificeHits": 0,
-        "stolenBases": 4,
-        "stolenBasesAttempts": 5,
-        "putouts": 29,
-        "assists": 0,
-        "errors": 5,
-        "plateAppearances": 152,
-        "caughtStealing": 1,
-        "pickedOff": 1
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "10323",
-        "name": "Ryan Wynn",
-        "normalizedName": "ryan wynn",
-        "jersey": "0",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/ryan-wynn/10323",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Wynn__Ryan.JPG",
-        "gamesPlayed": 35,
-        "gamesStarted": 28,
-        "putouts": 29,
-        "assists": 62,
-        "errors": 5,
-        "fieldingPercentage": 0.948,
-        "doublePlays": 9,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 96
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 53,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 53.88888888888887,
-          "Power": 83.68421052631581,
-          "Contact": 64.375,
-          "Discipline": 11.111111111111107,
-          "Speed": 13.333333333333334
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "summary": "Ryan Wynn profiles as a INF piece who brings real extra-base damage.",
+        "summary": "Graham Mastros gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .323",
-          "OBP .377",
-          "SLG .638"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".323"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".377"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".638"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "9"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "37"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "4"
+            "value": "0"
           }
         ],
-        "metaLine": "JR / R/R",
+        "metaLine": "SR / R/R",
         "detailBadges": [
-          "INF",
-          "JR",
+          "UTIL",
+          "SR",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats"
+        "sourceSummary": "Georgia Athletics roster"
       }
     },
     {
-      "id": "georgia-8933",
+      "id": "georgia-11380",
       "schoolSlug": "georgia",
       "school": "Georgia",
       "schoolLongName": "University of Georgia",
-      "name": "Tre Phelps",
-      "normalizedName": "tre phelps",
-      "compositeRole": "Hitter",
+      "name": "Casey McCoy",
+      "normalizedName": "casey mccoy",
+      "compositeRole": "Rostered",
       "role": "Hitter",
-      "position": "INF/OF",
+      "position": "INF",
       "positionLong": "",
-      "classYear": "JR",
+      "classYear": "SO",
       "handedness": "R/R",
       "jersey": "1",
-      "hometown": "Atlanta, Ga.",
-      "highSchool": "Georgia Premier Academy",
-      "previousSchool": "",
-      "hometownHighSchool": "Atlanta, Ga. / Georgia Premier Academy",
-      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/tre-phelps/8933",
-      "imageUrl": "https://georgiadogs.com/images/2025/8/19/Phelps__Tre.JPG",
+      "hometown": "Prairieville, La.",
+      "highSchool": "",
+      "previousSchool": "La. Tech",
+      "hometownHighSchool": "Prairieville, La.",
+      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/casey-mccoy/11380",
+      "imageUrl": "https://georgiadogs.com/images/2026/9/1/McCoy__Casey.JPG",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "8933",
+      "rosterBioId": "11380",
       "sources": [
-        "Georgia Athletics roster",
-        "Georgia cumulative stats"
+        "Georgia Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "8933",
-        "name": "Tre Phelps",
-        "normalizedName": "tre phelps",
-        "jersey": "1",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/tre-phelps/8933",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Phelps__Tre.JPG",
-        "gamesPlayed": 65,
-        "gamesStarted": 65,
-        "battingAverage": 0.348,
-        "onBasePercentage": 0.468,
-        "sluggingPercentage": 0.628,
-        "ops": 1.096,
-        "atBats": 250,
-        "runs": 81,
-        "hits": 87,
-        "doubles": 11,
-        "triples": 1,
-        "homeRuns": 19,
-        "runsBattedIn": 59,
-        "totalBases": 157,
-        "walks": 24,
-        "hitByPitch": 35,
-        "strikeouts": 46,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 2,
-        "sacrificeFlies": 3,
-        "sacrificeHits": 0,
-        "stolenBases": 8,
-        "stolenBasesAttempts": 8,
-        "putouts": 44,
-        "assists": 0,
-        "errors": 5,
-        "plateAppearances": 321,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "8933",
-        "name": "Tre Phelps",
-        "normalizedName": "tre phelps",
-        "jersey": "1",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/tre-phelps/8933",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Phelps__Tre.JPG",
-        "gamesPlayed": 51,
-        "gamesStarted": 51,
-        "putouts": 44,
-        "assists": 79,
-        "errors": 5,
-        "fieldingPercentage": 0.961,
-        "doublePlays": 12,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 128
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 75,
+        "score": 0,
         "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
+          "label": "Depth",
+          "className": "fit-depth"
         },
         "components": {
-          "On-base": 100,
-          "Power": 81.05263157894737,
-          "Contact": 79.99999999999999,
-          "Discipline": 35.748792270531396,
-          "Speed": 26.666666666666668
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "summary": "Tre Phelps profiles as a INF/OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
+        "summary": "Casey McCoy gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .348",
-          "OBP .468",
-          "SLG .628"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".348"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".468"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".628"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "19"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "59"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "8"
+            "value": "0"
           }
         ],
-        "metaLine": "JR / R/R",
+        "metaLine": "SO / R/R",
         "detailBadges": [
-          "INF/OF",
-          "JR",
+          "INF",
+          "SO",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats"
+        "sourceSummary": "Georgia Athletics roster"
       }
     },
     {
-      "id": "georgia-8944",
+      "id": "georgia-11381",
       "schoolSlug": "georgia",
       "school": "Georgia",
       "schoolLongName": "University of Georgia",
-      "name": "Ryan Black",
-      "normalizedName": "ryan black",
-      "compositeRole": "Hitter",
+      "name": "Gio Colasante",
+      "normalizedName": "gio colasante",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "INF/P",
+      "positionLong": "",
+      "classYear": "GR",
+      "handedness": "R/R",
+      "jersey": "2",
+      "hometown": "New York, N.Y.",
+      "highSchool": "",
+      "previousSchool": "Harvard",
+      "hometownHighSchool": "New York, N.Y.",
+      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/gio-colasante/11381",
+      "imageUrl": "https://georgiadogs.com/images/2026/9/1/Colasante__Gio.JPG",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11381",
+      "sources": [
+        "Georgia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Gio Colasante looks like a INF/P option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "GR / R/R",
+        "detailBadges": [
+          "INF/P",
+          "GR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Georgia Athletics roster"
+      }
+    },
+    {
+      "id": "georgia-11382",
+      "schoolSlug": "georgia",
+      "school": "Georgia",
+      "schoolLongName": "University of Georgia",
+      "name": "Mathew Farner",
+      "normalizedName": "mathew farner",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "INF",
       "positionLong": "",
       "classYear": "SR",
-      "handedness": "L/R",
-      "jersey": "2",
-      "hometown": "Grand Prairie, Texas",
+      "handedness": "R/R",
+      "jersey": "3",
+      "hometown": "Winter Park, Fla.",
       "highSchool": "",
-      "previousSchool": "UT Arlington",
-      "hometownHighSchool": "Grand Prairie, Texas",
-      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/ryan-black/8944",
-      "imageUrl": "https://georgiadogs.com/images/2025/8/19/Black__Ryan.JPG",
+      "previousSchool": "North Florida",
+      "hometownHighSchool": "Winter Park, Fla.",
+      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/mathew-farner/11382",
+      "imageUrl": "https://georgiadogs.com/images/2026/9/1/Farner__Matthew.JPG",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "8944",
+      "rosterBioId": "11382",
       "sources": [
-        "Georgia Athletics roster",
-        "Georgia cumulative stats"
+        "Georgia Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "8944",
-        "name": "Ryan Black",
-        "normalizedName": "ryan black",
-        "jersey": "2",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/ryan-black/8944",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Black__Ryan.JPG",
-        "gamesPlayed": 60,
-        "gamesStarted": 56,
-        "battingAverage": 0.3,
-        "onBasePercentage": 0.418,
-        "sluggingPercentage": 0.505,
-        "ops": 0.923,
-        "atBats": 190,
-        "runs": 42,
-        "hits": 57,
-        "doubles": 10,
-        "triples": 1,
-        "homeRuns": 9,
-        "runsBattedIn": 34,
-        "totalBases": 96,
-        "walks": 31,
-        "hitByPitch": 9,
-        "strikeouts": 50,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 4,
-        "sacrificeFlies": 2,
-        "sacrificeHits": 0,
-        "stolenBases": 5,
-        "stolenBasesAttempts": 6,
-        "putouts": 80,
-        "assists": 0,
-        "errors": 1,
-        "plateAppearances": 239,
-        "caughtStealing": 1,
-        "pickedOff": 2
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "8944",
-        "name": "Ryan Black",
-        "normalizedName": "ryan black",
-        "jersey": "2",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/ryan-black/8944",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Black__Ryan.JPG",
-        "gamesPlayed": 50,
-        "gamesStarted": 49,
-        "putouts": 80,
-        "assists": 61,
-        "errors": 1,
-        "fieldingPercentage": 0.993,
-        "doublePlays": 8,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 142
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 54,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 76.66666666666664,
-          "Power": 48.684210526315795,
-          "Contact": 49.999999999999986,
-          "Discipline": 46.66666666666666,
-          "Speed": 16.666666666666664
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "summary": "Ryan Black profiles as a INF piece who gets on base at a high clip.",
+        "summary": "Mathew Farner gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .300",
-          "OBP .418",
-          "SLG .505"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".300"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".418"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".505"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "9"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "34"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "5"
+            "value": "0"
           }
         ],
-        "metaLine": "SR / L/R",
+        "metaLine": "SR / R/R",
         "detailBadges": [
           "INF",
           "SR",
-          "L/R",
-          "Hitter"
-        ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats"
-      }
-    },
-    {
-      "id": "georgia-8957",
-      "schoolSlug": "georgia",
-      "school": "Georgia",
-      "schoolLongName": "University of Georgia",
-      "name": "Daniel Jackson",
-      "normalizedName": "daniel jackson",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "C/OF",
-      "positionLong": "",
-      "classYear": "JR",
-      "handedness": "R/R",
-      "jersey": "3",
-      "hometown": "Sandy Springs, Ga.",
-      "highSchool": "North Springs HS",
-      "previousSchool": "Wofford",
-      "hometownHighSchool": "Sandy Springs, Ga. / North Springs HS",
-      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/daniel-jackson/8957",
-      "imageUrl": "https://georgiadogs.com/images/2025/8/19/Jackson__Daniel.JPG",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "8957",
-      "sources": [
-        "Georgia Athletics roster",
-        "Georgia cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "8957",
-        "name": "Daniel Jackson",
-        "normalizedName": "daniel jackson",
-        "jersey": "3",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/daniel-jackson/8957",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Jackson__Daniel.JPG",
-        "gamesPlayed": 67,
-        "gamesStarted": 67,
-        "battingAverage": 0.379,
-        "onBasePercentage": 0.473,
-        "sluggingPercentage": 0.803,
-        "ops": 1.276,
-        "atBats": 264,
-        "runs": 88,
-        "hits": 100,
-        "doubles": 14,
-        "triples": 1,
-        "homeRuns": 32,
-        "runsBattedIn": 87,
-        "totalBases": 212,
-        "walks": 44,
-        "hitByPitch": 7,
-        "strikeouts": 64,
-        "intentionalWalks": 2,
-        "groundedIntoDoublePlay": 6,
-        "sacrificeFlies": 4,
-        "sacrificeHits": 0,
-        "stolenBases": 26,
-        "stolenBasesAttempts": 28,
-        "putouts": 549,
-        "assists": 0,
-        "errors": 2,
-        "plateAppearances": 349,
-        "caughtStealing": 2,
-        "pickedOff": 1
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "8957",
-        "name": "Daniel Jackson",
-        "normalizedName": "daniel jackson",
-        "jersey": "3",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/daniel-jackson/8957",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Jackson__Daniel.JPG",
-        "gamesPlayed": 57,
-        "gamesStarted": 57,
-        "putouts": 549,
-        "assists": 42,
-        "errors": 2,
-        "fieldingPercentage": 0.997,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 44,
-        "caughtStealingBy": 15,
-        "stolenBasesPercentage": null,
-        "passedBalls": 8,
-        "catchersInterference": 1,
-        "totalChances": 593
-      },
-      "evaluation": {
-        "score": 92,
-        "fit": {
-          "label": "Priority",
-          "className": "fit-priority"
-        },
-        "components": {
-          "On-base": 100,
-          "Power": 100,
-          "Contact": 99.375,
-          "Discipline": 54.166666666666664,
-          "Speed": 86.66666666666667
-        },
-        "summary": "Daniel Jackson profiles as a C/OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .379",
-          "OBP .473",
-          "SLG .803"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".379"
-          },
-          {
-            "label": "OBP",
-            "value": ".473"
-          },
-          {
-            "label": "SLG",
-            "value": ".803"
-          },
-          {
-            "label": "HR",
-            "value": "32"
-          },
-          {
-            "label": "RBI",
-            "value": "87"
-          },
-          {
-            "label": "SB",
-            "value": "26"
-          }
-        ],
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "C/OF",
-          "JR",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats"
+        "sourceSummary": "Georgia Athletics roster"
       }
     },
     {
-      "id": "georgia-10324",
+      "id": "georgia-11383",
       "schoolSlug": "georgia",
       "school": "Georgia",
       "schoolLongName": "University of Georgia",
-      "name": "Michael O'Shaughnessy",
-      "normalizedName": "michael o shaughnessy",
-      "compositeRole": "Hitter",
+      "name": "Mikey Bell",
+      "normalizedName": "mikey bell",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "INF",
       "positionLong": "",
-      "classYear": "SR",
-      "handedness": "L/R",
-      "jersey": "4",
-      "hometown": "Delmar, N.Y.",
+      "classYear": "GR",
+      "handedness": "R/R",
+      "jersey": "5",
+      "hometown": "Fresno, Calif.",
       "highSchool": "",
-      "previousSchool": "Davidson",
-      "hometownHighSchool": "Delmar, N.Y.",
-      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/michael-oshaughnessy/10324",
-      "imageUrl": "https://georgiadogs.com/images/2025/8/19/O_Shaughnessy__Michael.JPG",
+      "previousSchool": "Gonzaga",
+      "hometownHighSchool": "Fresno, Calif.",
+      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/mikey-bell/11383",
+      "imageUrl": "https://georgiadogs.com/images/2026/9/1/Bell__J55Za.JPG",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "10324",
+      "rosterBioId": "11383",
       "sources": [
-        "Georgia Athletics roster",
-        "Georgia cumulative stats"
+        "Georgia Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "10324",
-        "name": "Michael O'Shaughnessy",
-        "normalizedName": "michael o shaughnessy",
-        "jersey": "4",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/michael-o-shaughnessy/10324",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/O_Shaughnessy__Michael.JPG",
-        "gamesPlayed": 56,
-        "gamesStarted": 45,
-        "battingAverage": 0.28,
-        "onBasePercentage": 0.395,
-        "sluggingPercentage": 0.661,
-        "ops": 1.056,
-        "atBats": 168,
-        "runs": 36,
-        "hits": 47,
-        "doubles": 4,
-        "triples": 0,
-        "homeRuns": 20,
-        "runsBattedIn": 55,
-        "totalBases": 111,
-        "walks": 22,
-        "hitByPitch": 12,
-        "strikeouts": 67,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 3,
-        "sacrificeFlies": 3,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 136,
-        "assists": 0,
-        "errors": 2,
-        "plateAppearances": 205,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "10324",
-        "name": "Michael O'Shaughnessy",
-        "normalizedName": "michael o shaughnessy",
-        "jersey": "4",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/michael-o-shaughnessy/10324",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/O_Shaughnessy__Michael.JPG",
-        "gamesPlayed": 34,
-        "gamesStarted": 29,
-        "putouts": 136,
-        "assists": 35,
-        "errors": 2,
-        "fieldingPercentage": 0.988,
-        "doublePlays": 15,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 173
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 53,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 63.888888888888886,
-          "Power": 89.73684210526318,
-          "Contact": 37.500000000000014,
-          "Discipline": 14.262023217247094,
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
           "Speed": 0
         },
-        "summary": "Michael O'Shaughnessy profiles as a INF piece who brings real extra-base damage.",
+        "summary": "Mikey Bell gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .280",
-          "OBP .395",
-          "SLG .661"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".280"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".395"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".661"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "20"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "55"
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "GR / R/R",
+        "detailBadges": [
+          "INF",
+          "GR",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Georgia Athletics roster"
+      }
+    },
+    {
+      "id": "georgia-11384",
+      "schoolSlug": "georgia",
+      "school": "Georgia",
+      "schoolLongName": "University of Georgia",
+      "name": "Brock Rein",
+      "normalizedName": "brock rein",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "UTIL/P",
+      "positionLong": "",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "6",
+      "hometown": "Fayetteville, Ga.",
+      "highSchool": "Starr's Mill HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Fayetteville, Ga. / Starr's Mill HS",
+      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/brock-rein/11384",
+      "imageUrl": "https://georgiadogs.com/images/2026/9/1/Rein__Brock.JPG",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11384",
+      "sources": [
+        "Georgia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Brock Rein looks like a UTIL/P option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "UTIL/P",
+          "FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Georgia Athletics roster"
+      }
+    },
+    {
+      "id": "georgia-11369",
+      "schoolSlug": "georgia",
+      "school": "Georgia",
+      "schoolLongName": "University of Georgia",
+      "name": "Jack Arcamone",
+      "normalizedName": "jack arcamone",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "C/OF",
+      "positionLong": "",
+      "classYear": "SR",
+      "handedness": "L/R",
+      "jersey": "7",
+      "hometown": "Trumbull, Conn.",
+      "highSchool": "",
+      "previousSchool": "Richmond",
+      "hometownHighSchool": "Trumbull, Conn.",
+      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/jack-arcamone/11369",
+      "imageUrl": "https://georgiadogs.com/images/2026/9/1/Arcamone__Jack.JPG",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11369",
+      "sources": [
+        "Georgia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Jack Arcamone gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
           },
           {
             "label": "SB",
@@ -855,103 +791,49 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         ],
         "metaLine": "SR / L/R",
         "detailBadges": [
-          "INF",
+          "C/OF",
           "SR",
           "L/R",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats"
+        "sourceSummary": "Georgia Athletics roster"
       }
     },
     {
-      "id": "georgia-8965",
+      "id": "georgia-11385",
       "schoolSlug": "georgia",
       "school": "Georgia",
       "schoolLongName": "University of Georgia",
-      "name": "Justin Byrd",
-      "normalizedName": "justin byrd",
+      "name": "Jason Flores",
+      "normalizedName": "jason flores",
       "compositeRole": "Pitcher",
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
-      "classYear": "R-JR",
+      "classYear": "JR",
       "handedness": "R/R",
-      "jersey": "5",
-      "hometown": "Bogart, Ga.",
+      "jersey": "8",
+      "hometown": "Wylie, Texas",
       "highSchool": "",
-      "previousSchool": "USC Aiken",
-      "hometownHighSchool": "Bogart, Ga.",
-      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/justin-byrd/8965",
-      "imageUrl": "https://georgiadogs.com/images/2025/8/19/Byrd__Justin.JPG",
+      "previousSchool": "Texas",
+      "hometownHighSchool": "Wylie, Texas",
+      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/jason-flores/11385",
+      "imageUrl": "https://georgiadogs.com/images/2026/9/1/Flores__Jason.JPG",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "8965",
+      "rosterBioId": "11385",
       "sources": [
-        "Georgia Athletics roster",
-        "Georgia cumulative stats"
+        "Georgia Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "8965",
-        "name": "Justin Byrd",
-        "normalizedName": "justin byrd",
-        "jersey": "5",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/justin-byrd/8965",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Byrd__Justin.JPG",
-        "gamesPlayed": 27,
-        "gamesStarted": 1,
-        "appearances": 27,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 3.73,
-        "whip": 0.94,
-        "wins": 6,
-        "losses": 2,
-        "saves": 8,
-        "shutouts": 0,
-        "inningsPitched": 62.666666666666664,
-        "inningsPitchedDisplay": "62.2",
-        "hitsAllowed": 45,
-        "runsAllowed": 26,
-        "earnedRunsAllowed": 26,
-        "walksAllowed": 14,
-        "strikeouts": 77,
-        "doublesAllowed": 10,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 13,
-        "opponentsAtBats": 232,
-        "wildPitches": 2,
-        "hitBatters": 3,
-        "balks": 0,
-        "opponentsBattingAverage": 0.194,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "8965",
-        "name": "Justin Byrd",
-        "normalizedName": "justin byrd",
-        "jersey": "5",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/justin-byrd/8965",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Byrd__Justin.JPG",
-        "gamesPlayed": 6,
-        "gamesStarted": 0,
-        "putouts": 2,
-        "assists": 3,
-        "errors": 1,
-        "fieldingPercentage": 0.833,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 3,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 6
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 27,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -959,1074 +841,439 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 64.16827852998067,
-          "Command": 90,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Justin Byrd looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
+        "summary": "Jason Flores looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 3.73",
-          "WHIP 0.94",
-          "K/9 11.1"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.73"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "0.94"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "11.1"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "2.0"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.87"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "62.7"
+            "value": "0.0"
           }
         ],
-        "metaLine": "R-JR / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "RHP",
-          "R-JR",
+          "JR",
           "R/R",
           "Pitcher"
         ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats"
+        "sourceSummary": "Georgia Athletics roster"
       }
     },
     {
-      "id": "georgia-10325",
+      "id": "georgia-11386",
       "schoolSlug": "georgia",
       "school": "Georgia",
       "schoolLongName": "University of Georgia",
-      "name": "Jack Arcamone",
-      "normalizedName": "jack arcamone",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "C/OF",
+      "name": "Riley Goodman",
+      "normalizedName": "riley goodman",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
       "positionLong": "",
       "classYear": "JR",
-      "handedness": "L/R",
-      "jersey": "7",
-      "hometown": "Trumbull, Conn.",
+      "handedness": "R/R",
+      "jersey": "9",
+      "hometown": "Memphis, Tenn.",
       "highSchool": "",
-      "previousSchool": "Richmond",
-      "hometownHighSchool": "Trumbull, Conn.",
-      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/jack-arcamone/10325",
-      "imageUrl": "https://georgiadogs.com/images/2025/8/19/Arcamone__Jack.JPG",
+      "previousSchool": "South Carolina",
+      "hometownHighSchool": "Memphis, Tenn.",
+      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/riley-goodman/11386",
+      "imageUrl": "https://georgiadogs.com/images/2026/9/1/Goodman__Riley.JPG",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "10325",
+      "rosterBioId": "11386",
       "sources": [
-        "Georgia Athletics roster",
-        "Georgia cumulative stats"
+        "Georgia Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "10325",
-        "name": "Jack Arcamone",
-        "normalizedName": "jack arcamone",
-        "jersey": "7",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/jack-arcamone/10325",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Arcamone__Jack.JPG",
-        "gamesPlayed": 35,
-        "gamesStarted": 23,
-        "battingAverage": 0.302,
-        "onBasePercentage": 0.38,
-        "sluggingPercentage": 0.465,
-        "ops": 0.845,
-        "atBats": 86,
-        "runs": 18,
-        "hits": 26,
-        "doubles": 2,
-        "triples": 0,
-        "homeRuns": 4,
-        "runsBattedIn": 21,
-        "totalBases": 40,
-        "walks": 10,
-        "hitByPitch": 2,
-        "strikeouts": 26,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 2,
-        "sacrificeHits": 0,
-        "stolenBases": 1,
-        "stolenBasesAttempts": 1,
-        "putouts": 24,
-        "assists": 0,
-        "errors": 1,
-        "plateAppearances": 101,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "10325",
-        "name": "Jack Arcamone",
-        "normalizedName": "jack arcamone",
-        "jersey": "7",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/jack-arcamone/10325",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Arcamone__Jack.JPG",
-        "gamesPlayed": 9,
-        "gamesStarted": 5,
-        "putouts": 24,
-        "assists": 1,
-        "errors": 1,
-        "fieldingPercentage": 0.962,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 26
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 40,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 55.55555555555555,
-          "Power": 38.15789473684211,
-          "Contact": 51.24999999999999,
-          "Discipline": 20.51282051282051,
-          "Speed": 3.3333333333333335
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
         },
-        "summary": "Jack Arcamone gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Riley Goodman looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "AVG .302",
-          "OBP .380",
-          "SLG .465"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Georgia Athletics roster"
+      }
+    },
+    {
+      "id": "georgia-11387",
+      "schoolSlug": "georgia",
+      "school": "Georgia",
+      "schoolLongName": "University of Georgia",
+      "name": "Matthew Sharman",
+      "normalizedName": "matthew sharman",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "10",
+      "hometown": "Woodstock, Ga.",
+      "highSchool": "Etowah HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Woodstock, Ga. / Etowah HS",
+      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/matthew-sharman/11387",
+      "imageUrl": "https://georgiadogs.com/images/2026/9/1/Sharman__Matthew.JPG",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11387",
+      "sources": [
+        "Georgia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Matthew Sharman looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Georgia Athletics roster"
+      }
+    },
+    {
+      "id": "georgia-11388",
+      "schoolSlug": "georgia",
+      "school": "Georgia",
+      "schoolLongName": "University of Georgia",
+      "name": "Hayden Blair",
+      "normalizedName": "hayden blair",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "C",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "L/R",
+      "jersey": "11",
+      "hometown": "Senoia, Ga.",
+      "highSchool": "",
+      "previousSchool": "Walters State CC",
+      "hometownHighSchool": "Senoia, Ga.",
+      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/hayden-blair/11388",
+      "imageUrl": "https://georgiadogs.com/images/2026/9/1/Blair__Hayden.JPG",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11388",
+      "sources": [
+        "Georgia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Hayden Blair gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".302"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".380"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".465"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "4"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "21"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "1"
+            "value": "0"
           }
         ],
         "metaLine": "JR / L/R",
         "detailBadges": [
-          "C/OF",
+          "C",
           "JR",
           "L/R",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats"
+        "sourceSummary": "Georgia Athletics roster"
       }
     },
     {
-      "id": "georgia-10326",
+      "id": "georgia-11389",
       "schoolSlug": "georgia",
       "school": "Georgia",
       "schoolLongName": "University of Georgia",
-      "name": "Rylan Lujo",
-      "normalizedName": "rylan lujo",
-      "compositeRole": "Hitter",
+      "name": "Miles Young",
+      "normalizedName": "miles young",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "INF",
       "positionLong": "",
-      "classYear": "SO",
-      "handedness": "R/R",
-      "jersey": "8",
-      "hometown": "Coconut Creek, Fla.",
-      "highSchool": "",
-      "previousSchool": "Dayton",
-      "hometownHighSchool": "Coconut Creek, Fla.",
-      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/rylan-lujo/10326",
-      "imageUrl": "https://georgiadogs.com/images/2025/8/19/Lujo__Rylan.JPG",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "10326",
-      "sources": [
-        "Georgia Athletics roster",
-        "Georgia cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "10326",
-        "name": "Rylan Lujo",
-        "normalizedName": "rylan lujo",
-        "jersey": "8",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/rylan-lujo/10326",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Lujo__Rylan.JPG",
-        "gamesPlayed": 60,
-        "gamesStarted": 55,
-        "battingAverage": 0.357,
-        "onBasePercentage": 0.427,
-        "sluggingPercentage": 0.629,
-        "ops": 1.056,
-        "atBats": 221,
-        "runs": 59,
-        "hits": 79,
-        "doubles": 16,
-        "triples": 1,
-        "homeRuns": 14,
-        "runsBattedIn": 49,
-        "totalBases": 139,
-        "walks": 19,
-        "hitByPitch": 11,
-        "strikeouts": 22,
-        "intentionalWalks": 2,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 4,
-        "sacrificeHits": 0,
-        "stolenBases": 13,
-        "stolenBasesAttempts": 14,
-        "putouts": 100,
-        "assists": 0,
-        "errors": 1,
-        "plateAppearances": 270,
-        "caughtStealing": 1,
-        "pickedOff": 1
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "10326",
-        "name": "Rylan Lujo",
-        "normalizedName": "rylan lujo",
-        "jersey": "8",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/rylan-lujo/10326",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Lujo__Rylan.JPG",
-        "gamesPlayed": 46,
-        "gamesStarted": 44,
-        "putouts": 100,
-        "assists": 5,
-        "errors": 1,
-        "fieldingPercentage": 0.991,
-        "doublePlays": 2,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 106
-      },
-      "evaluation": {
-        "score": 77,
-        "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
-        },
-        "components": {
-          "On-base": 81.66666666666666,
-          "Power": 81.31578947368422,
-          "Contact": 85.62499999999999,
-          "Discipline": 73.73737373737373,
-          "Speed": 43.333333333333336
-        },
-        "summary": "Rylan Lujo profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .357",
-          "OBP .427",
-          "SLG .629"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".357"
-          },
-          {
-            "label": "OBP",
-            "value": ".427"
-          },
-          {
-            "label": "SLG",
-            "value": ".629"
-          },
-          {
-            "label": "HR",
-            "value": "14"
-          },
-          {
-            "label": "RBI",
-            "value": "49"
-          },
-          {
-            "label": "SB",
-            "value": "13"
-          }
-        ],
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "INF",
-          "SO",
-          "R/R",
-          "Hitter"
-        ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats"
-      }
-    },
-    {
-      "id": "georgia-8895",
-      "schoolSlug": "georgia",
-      "school": "Georgia",
-      "schoolLongName": "University of Georgia",
-      "name": "Kolby Branch",
-      "normalizedName": "kolby branch",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "INF",
-      "positionLong": "",
-      "classYear": "SR",
-      "handedness": "R/R",
-      "jersey": "9",
-      "hometown": "Lucas, Texas",
-      "highSchool": "",
-      "previousSchool": "Baylor",
-      "hometownHighSchool": "Lucas, Texas",
-      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/kolby-branch/8895",
-      "imageUrl": "https://georgiadogs.com/images/2025/8/19/Branch__Kolby.JPG",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "8895",
-      "sources": [
-        "Georgia Athletics roster",
-        "Georgia cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "8895",
-        "name": "Kolby Branch",
-        "normalizedName": "kolby branch",
-        "jersey": "9",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/kolby-branch/8895",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Branch__Kolby.JPG",
-        "gamesPlayed": 67,
-        "gamesStarted": 67,
-        "battingAverage": 0.291,
-        "onBasePercentage": 0.394,
-        "sluggingPercentage": 0.628,
-        "ops": 1.022,
-        "atBats": 234,
-        "runs": 57,
-        "hits": 68,
-        "doubles": 19,
-        "triples": 0,
-        "homeRuns": 20,
-        "runsBattedIn": 60,
-        "totalBases": 147,
-        "walks": 40,
-        "hitByPitch": 2,
-        "strikeouts": 72,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 5,
-        "sacrificeFlies": 3,
-        "sacrificeHits": 1,
-        "stolenBases": 4,
-        "stolenBasesAttempts": 4,
-        "putouts": 79,
-        "assists": 0,
-        "errors": 7,
-        "plateAppearances": 284,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "8895",
-        "name": "Kolby Branch",
-        "normalizedName": "kolby branch",
-        "jersey": "9",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/kolby-branch/8895",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Branch__Kolby.JPG",
-        "gamesPlayed": 65,
-        "gamesStarted": 65,
-        "putouts": 79,
-        "assists": 191,
-        "errors": 7,
-        "fieldingPercentage": 0.975,
-        "doublePlays": 34,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 277
-      },
-      "evaluation": {
-        "score": 56,
-        "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
-        },
-        "components": {
-          "On-base": 63.33333333333333,
-          "Power": 81.05263157894737,
-          "Contact": 44.374999999999986,
-          "Discipline": 39.50617283950617,
-          "Speed": 13.333333333333334
-        },
-        "summary": "Kolby Branch profiles as a INF piece who brings real extra-base damage.",
-        "summaryMetrics": [
-          "AVG .291",
-          "OBP .394",
-          "SLG .628"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".291"
-          },
-          {
-            "label": "OBP",
-            "value": ".394"
-          },
-          {
-            "label": "SLG",
-            "value": ".628"
-          },
-          {
-            "label": "HR",
-            "value": "20"
-          },
-          {
-            "label": "RBI",
-            "value": "60"
-          },
-          {
-            "label": "SB",
-            "value": "4"
-          }
-        ],
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "INF",
-          "SR",
-          "R/R",
-          "Hitter"
-        ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats"
-      }
-    },
-    {
-      "id": "georgia-10327",
-      "schoolSlug": "georgia",
-      "school": "Georgia",
-      "schoolLongName": "University of Georgia",
-      "name": "Matt Scott",
-      "normalizedName": "matt scott",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "SR",
-      "handedness": "R/R",
-      "jersey": "10",
-      "hometown": "Redding, Conn.",
-      "highSchool": "",
-      "previousSchool": "Stanford",
-      "hometownHighSchool": "Redding, Conn.",
-      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/matt-scott/10327",
-      "imageUrl": "https://georgiadogs.com/images/2025/8/19/Scott__Matt.JPG",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "10327",
-      "sources": [
-        "Georgia Athletics roster",
-        "Georgia cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "10327",
-        "name": "Matt Scott",
-        "normalizedName": "matt scott",
-        "jersey": "10",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/matt-scott/10327",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Scott__Matt.JPG",
-        "gamesPlayed": 20,
-        "gamesStarted": 3,
-        "appearances": 20,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 4.22,
-        "whip": 1.32,
-        "wins": 7,
-        "losses": 0,
-        "saves": 5,
-        "shutouts": 0,
-        "inningsPitched": 59.666666666666664,
-        "inningsPitchedDisplay": "59.2",
-        "hitsAllowed": 49,
-        "runsAllowed": 28,
-        "earnedRunsAllowed": 28,
-        "walksAllowed": 30,
-        "strikeouts": 76,
-        "doublesAllowed": 7,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 13,
-        "opponentsAtBats": 229,
-        "wildPitches": 2,
-        "hitBatters": 2,
-        "balks": 0,
-        "opponentsBattingAverage": 0.214,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "10327",
-        "name": "Matt Scott",
-        "normalizedName": "matt scott",
-        "jersey": "10",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/matt-scott/10327",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Scott__Matt.JPG",
-        "gamesPlayed": 8,
-        "gamesStarted": 1,
-        "putouts": 0,
-        "assists": 4,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 8,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 4
-      },
-      "evaluation": {
-        "score": 18,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 67.85170137125445,
-          "Command": 30.666666666666664,
-          "Damage suppression": 0
-        },
-        "summary": "Matt Scott looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 4.22",
-          "WHIP 1.32",
-          "K/9 11.5"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.22"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.32"
-          },
-          {
-            "label": "K/9",
-            "value": "11.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.5"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.96"
-          },
-          {
-            "label": "IP",
-            "value": "59.7"
-          }
-        ],
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats"
-      }
-    },
-    {
-      "id": "georgia-10328",
-      "schoolSlug": "georgia",
-      "school": "Georgia",
-      "schoolLongName": "University of Georgia",
-      "name": "Bryce Calloway",
-      "normalizedName": "bryce calloway",
-      "compositeRole": "Two-Way",
-      "role": "Pitcher",
-      "position": "1B/RHP",
-      "positionLong": "",
-      "classYear": "GR",
-      "handedness": "R/R",
-      "jersey": "11",
-      "hometown": "New Orleans, La.",
-      "highSchool": "",
-      "previousSchool": "New Orleans",
-      "hometownHighSchool": "New Orleans, La.",
-      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/bryce-calloway/10328",
-      "imageUrl": "https://georgiadogs.com/images/2025/8/19/Calloway__Bryce.JPG",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "10328",
-      "sources": [
-        "Georgia Athletics roster",
-        "Georgia cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "10328",
-        "name": "Bryce Calloway",
-        "normalizedName": "bryce calloway",
-        "jersey": "11",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/bryce-calloway/10328",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Calloway__Bryce.JPG",
-        "gamesPlayed": 31,
-        "gamesStarted": 15,
-        "battingAverage": 0.22,
-        "onBasePercentage": 0.418,
-        "sluggingPercentage": 0.441,
-        "ops": 0.859,
-        "atBats": 59,
-        "runs": 12,
-        "hits": 13,
-        "doubles": 1,
-        "triples": 0,
-        "homeRuns": 4,
-        "runsBattedIn": 17,
-        "totalBases": 26,
-        "walks": 15,
-        "hitByPitch": 5,
-        "strikeouts": 17,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 2,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 84,
-        "assists": 0,
-        "errors": 4,
-        "plateAppearances": 79,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": {
-        "rosterBioId": "10328",
-        "name": "Bryce Calloway",
-        "normalizedName": "bryce calloway",
-        "jersey": "11",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/bryce-calloway/10328",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Calloway__Bryce.JPG",
-        "gamesPlayed": 1,
-        "gamesStarted": 0,
-        "appearances": 1,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 0,
-        "whip": 2,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 1,
-        "inningsPitchedDisplay": "1.0",
-        "hitsAllowed": 1,
-        "runsAllowed": 0,
-        "earnedRunsAllowed": 0,
-        "walksAllowed": 1,
-        "strikeouts": 2,
-        "doublesAllowed": 1,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 4,
-        "wildPitches": 0,
-        "hitBatters": 0,
-        "balks": 0,
-        "opponentsBattingAverage": 0.25,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "10328",
-        "name": "Bryce Calloway",
-        "normalizedName": "bryce calloway",
-        "jersey": "11",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/bryce-calloway/10328",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Calloway__Bryce.JPG",
-        "gamesPlayed": 19,
-        "gamesStarted": 10,
-        "putouts": 84,
-        "assists": 4,
-        "errors": 4,
-        "fieldingPercentage": 0.957,
-        "doublePlays": 6,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 92
-      },
-      "evaluation": {
-        "score": 23,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 100,
-          "Command": 20,
-          "Damage suppression": 0
-        },
-        "summary": "Bryce Calloway looks like a 1B/RHP option who limits runs and misses bats.",
-        "summaryMetrics": [
-          "ERA 0.00",
-          "WHIP 2.00",
-          "K/9 18.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "0.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.00"
-          },
-          {
-            "label": "K/9",
-            "value": "18.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "9.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "1.0"
-          }
-        ],
-        "metaLine": "GR / R/R",
-        "detailBadges": [
-          "1B/RHP",
-          "GR",
-          "R/R",
-          "Two-Way"
-        ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats"
-      }
-    },
-    {
-      "id": "georgia-10329",
-      "schoolSlug": "georgia",
-      "school": "Georgia",
-      "schoolLongName": "University of Georgia",
-      "name": "Caden Aoki",
-      "normalizedName": "caden aoki",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "GR",
+      "classYear": "FR",
       "handedness": "R/R",
       "jersey": "12",
-      "hometown": "Huntington Beach, Calif.",
-      "highSchool": "",
-      "previousSchool": "USC",
-      "hometownHighSchool": "Huntington Beach, Calif.",
-      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/caden-aoki/10329",
-      "imageUrl": "https://georgiadogs.com/images/2025/8/19/Aoki__Caden.JPG",
+      "hometown": "Cypress, Texas",
+      "highSchool": "Episcopal HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Cypress, Texas / Episcopal HS",
+      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/miles-young/11389",
+      "imageUrl": "https://georgiadogs.com/images/2026/9/1/Young__Miles.JPG",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "10329",
+      "rosterBioId": "11389",
       "sources": [
-        "Georgia Athletics roster",
-        "Georgia cumulative stats"
+        "Georgia Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "10329",
-        "name": "Caden Aoki",
-        "normalizedName": "caden aoki",
-        "jersey": "12",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/caden-aoki/10329",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Aoki__Caden.JPG",
-        "gamesPlayed": 20,
-        "gamesStarted": 9,
-        "appearances": 20,
-        "gamesCompleted": 1,
-        "earnedRunAverage": 4.08,
-        "whip": 1.31,
-        "wins": 9,
-        "losses": 2,
-        "saves": 3,
-        "shutouts": 0,
-        "inningsPitched": 86,
-        "inningsPitchedDisplay": "86.0",
-        "hitsAllowed": 86,
-        "runsAllowed": 41,
-        "earnedRunsAllowed": 39,
-        "walksAllowed": 27,
-        "strikeouts": 110,
-        "doublesAllowed": 17,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 14,
-        "opponentsAtBats": 336,
-        "wildPitches": 7,
-        "hitBatters": 4,
-        "balks": 0,
-        "opponentsBattingAverage": 0.256,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "10329",
-        "name": "Caden Aoki",
-        "normalizedName": "caden aoki",
-        "jersey": "12",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/caden-aoki/10329",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Aoki__Caden.JPG",
-        "gamesPlayed": 13,
-        "gamesStarted": 8,
-        "putouts": 5,
-        "assists": 9,
-        "errors": 1,
-        "fieldingPercentage": 0.933,
-        "doublePlays": 2,
-        "stolenBasesAgainst": 8,
-        "caughtStealingBy": 2,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 15
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 23,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 68.28752642706131,
-          "Command": 61.48148148148147,
-          "Damage suppression": 0
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "summary": "Caden Aoki looks like a RHP option who misses bats and throws enough strikes.",
+        "summary": "Miles Young gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.08",
-          "WHIP 1.31",
-          "K/9 11.5"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
-            "label": "ERA",
-            "value": "4.08"
+            "label": "AVG",
+            "value": "--"
           },
           {
-            "label": "WHIP",
-            "value": "1.31"
+            "label": "OBP",
+            "value": "--"
           },
           {
-            "label": "K/9",
-            "value": "11.5"
+            "label": "SLG",
+            "value": "--"
           },
           {
-            "label": "BB/9",
-            "value": "2.8"
+            "label": "HR",
+            "value": "0"
           },
           {
-            "label": "HR/9",
-            "value": "1.47"
+            "label": "RBI",
+            "value": "0"
           },
           {
-            "label": "IP",
-            "value": "86.0"
+            "label": "SB",
+            "value": "0"
           }
         ],
-        "metaLine": "GR / R/R",
+        "metaLine": "FR / R/R",
         "detailBadges": [
-          "RHP",
-          "GR",
+          "INF",
+          "FR",
           "R/R",
-          "Pitcher"
+          "Rostered"
         ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats"
+        "sourceSummary": "Georgia Athletics roster"
       }
     },
     {
-      "id": "georgia-10331",
+      "id": "georgia-11390",
       "schoolSlug": "georgia",
       "school": "Georgia",
       "schoolLongName": "University of Georgia",
-      "name": "Kenny Ishikawa",
-      "normalizedName": "kenny ishikawa",
-      "compositeRole": "Two-Way",
+      "name": "Nolan Stevens",
+      "normalizedName": "nolan stevens",
+      "compositeRole": "Pitcher",
       "role": "Pitcher",
-      "position": "LHP/OF",
+      "position": "OF/P",
       "positionLong": "",
-      "classYear": "SO",
+      "classYear": "SR",
       "handedness": "L/L",
-      "jersey": "14",
-      "hometown": "Yokohama, Japan",
+      "jersey": "13",
+      "hometown": "Elk Grove, Calif.",
       "highSchool": "",
-      "previousSchool": "Seattle",
-      "hometownHighSchool": "Yokohama, Japan",
-      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/kenny-ishikawa/10331",
-      "imageUrl": "https://georgiadogs.com/images/2025/8/19/Ishikawa__Kenny.JPG",
+      "previousSchool": "Oklahoma",
+      "hometownHighSchool": "Elk Grove, Calif.",
+      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/nolan-stevens/11390",
+      "imageUrl": "https://georgiadogs.com/images/2026/9/1/Stevens__Nolan.JPG",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "10331",
+      "rosterBioId": "11390",
       "sources": [
-        "Georgia Athletics roster",
-        "Georgia cumulative stats"
+        "Georgia Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "10331",
-        "name": "Kenny Ishikawa",
-        "normalizedName": "kenny ishikawa",
-        "jersey": "14",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/kenny-ishikawa/10331",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Ishikawa__Kenny.JPG",
-        "gamesPlayed": 48,
-        "gamesStarted": 44,
-        "battingAverage": 0.336,
-        "onBasePercentage": 0.475,
-        "sluggingPercentage": 0.472,
-        "ops": 0.947,
-        "atBats": 125,
-        "runs": 36,
-        "hits": 42,
-        "doubles": 6,
-        "triples": 1,
-        "homeRuns": 3,
-        "runsBattedIn": 21,
-        "totalBases": 59,
-        "walks": 28,
-        "hitByPitch": 5,
-        "strikeouts": 11,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 2,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 2,
-        "stolenBases": 4,
-        "stolenBasesAttempts": 5,
-        "putouts": 56,
-        "assists": 0,
-        "errors": 1,
-        "plateAppearances": 167,
-        "caughtStealing": 1,
-        "pickedOff": 1
-      },
-      "pitchingStats": {
-        "rosterBioId": "10331",
-        "name": "Kenny Ishikawa",
-        "normalizedName": "kenny ishikawa",
-        "jersey": "14",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/kenny-ishikawa/10331",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Ishikawa__Kenny.JPG",
-        "gamesPlayed": 10,
-        "gamesStarted": 6,
-        "appearances": 10,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 14.44,
-        "whip": 2.58,
-        "wins": 1,
-        "losses": 1,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 14.333333333333334,
-        "inningsPitchedDisplay": "14.1",
-        "hitsAllowed": 21,
-        "runsAllowed": 24,
-        "earnedRunsAllowed": 23,
-        "walksAllowed": 16,
-        "strikeouts": 20,
-        "doublesAllowed": 5,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 3,
-        "opponentsAtBats": 61,
-        "wildPitches": 5,
-        "hitBatters": 3,
-        "balks": 0,
-        "opponentsBattingAverage": 0.344,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "10331",
-        "name": "Kenny Ishikawa",
-        "normalizedName": "kenny ishikawa",
-        "jersey": "14",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/kenny-ishikawa/10331",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Ishikawa__Kenny.JPG",
-        "gamesPlayed": 32,
-        "gamesStarted": 31,
-        "putouts": 56,
-        "assists": 5,
-        "errors": 1,
-        "fieldingPercentage": 0.984,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 3,
-        "caughtStealingBy": 2,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 62
-      },
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 16,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2034,54 +1281,230 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 77.8012684989429,
-          "Command": 5,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Kenny Ishikawa looks like a LHP/OF option who misses bats.",
+        "summary": "Nolan Stevens looks like a OF/P option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 14.44",
-          "WHIP 2.58",
-          "K/9 12.6"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "14.44"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "2.58"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "12.6"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "10.0"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.88"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "14.3"
+            "value": "0.0"
           }
         ],
-        "metaLine": "SO / L/L",
+        "metaLine": "SR / L/L",
         "detailBadges": [
-          "LHP/OF",
-          "SO",
+          "OF/P",
+          "SR",
           "L/L",
-          "Two-Way"
+          "Pitcher"
         ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats"
+        "sourceSummary": "Georgia Athletics roster"
       }
     },
     {
-      "id": "georgia-8964",
+      "id": "georgia-11391",
+      "schoolSlug": "georgia",
+      "school": "Georgia",
+      "schoolLongName": "University of Georgia",
+      "name": "Wells Grisham",
+      "normalizedName": "wells grisham",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "",
+      "classYear": "FR",
+      "handedness": "L/L",
+      "jersey": "14",
+      "hometown": "Cleveland, Tenn.",
+      "highSchool": "Baylor School",
+      "previousSchool": "",
+      "hometownHighSchool": "Cleveland, Tenn. / Baylor School",
+      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/wells-grisham/11391",
+      "imageUrl": "https://georgiadogs.com/images/2026/9/1/Grisham__Wells.JPG",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11391",
+      "sources": [
+        "Georgia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Wells Grisham looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FR / L/L",
+        "detailBadges": [
+          "LHP",
+          "FR",
+          "L/L",
+          "Pitcher"
+        ],
+        "sourceSummary": "Georgia Athletics roster"
+      }
+    },
+    {
+      "id": "georgia-11392",
+      "schoolSlug": "georgia",
+      "school": "Georgia",
+      "schoolLongName": "University of Georgia",
+      "name": "Rodney Peña",
+      "normalizedName": "rodney pena",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "R/R",
+      "jersey": "15",
+      "hometown": "Paterson, N.J.",
+      "highSchool": "",
+      "previousSchool": "Weatherford College",
+      "hometownHighSchool": "Paterson, N.J.",
+      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/rodney-pea/11392",
+      "imageUrl": "https://georgiadogs.com/images/2026/9/1/Pen_a__Rodney.JPG",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11392",
+      "sources": [
+        "Georgia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Rodney Peña looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Georgia Athletics roster"
+      }
+    },
+    {
+      "id": "georgia-11371",
       "schoolSlug": "georgia",
       "school": "Georgia",
       "schoolLongName": "University of Georgia",
@@ -2091,84 +1514,30 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
-      "classYear": "JR",
+      "classYear": "SR",
       "handedness": "R/R",
       "jersey": "16",
       "hometown": "Santa Ana, Calif.",
       "highSchool": "",
       "previousSchool": "Ohio State",
       "hometownHighSchool": "Santa Ana, Calif.",
-      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/zach-brown/8964",
-      "imageUrl": "https://georgiadogs.com/images/2025/8/19/Brown__Zach.JPG",
+      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/zach-brown/11371",
+      "imageUrl": "https://georgiadogs.com/images/2026/9/1/Brown__Zach.JPG",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "8964",
+      "rosterBioId": "11371",
       "sources": [
-        "Georgia Athletics roster",
-        "Georgia cumulative stats"
+        "Georgia Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "8964",
-        "name": "Zach Brown",
-        "normalizedName": "zach brown",
-        "jersey": "16",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/zach-brown/8964",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Brown__Zach.JPG",
-        "gamesPlayed": 20,
-        "gamesStarted": 5,
-        "appearances": 20,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 4,
-        "whip": 1.14,
-        "wins": 2,
-        "losses": 0,
-        "saves": 2,
-        "shutouts": 0,
-        "inningsPitched": 36,
-        "inningsPitchedDisplay": "36.0",
-        "hitsAllowed": 32,
-        "runsAllowed": 17,
-        "earnedRunsAllowed": 16,
-        "walksAllowed": 9,
-        "strikeouts": 38,
-        "doublesAllowed": 3,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 8,
-        "opponentsAtBats": 135,
-        "wildPitches": 2,
-        "hitBatters": 0,
-        "balks": 0,
-        "opponentsBattingAverage": 0.237,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "8964",
-        "name": "Zach Brown",
-        "normalizedName": "zach brown",
-        "jersey": "16",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/zach-brown/8964",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Brown__Zach.JPG",
-        "gamesPlayed": 5,
-        "gamesStarted": 1,
-        "putouts": 1,
-        "assists": 3,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 2,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 4
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 20,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2176,196 +1545,230 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 50,
-          "Command": 64.44444444444444,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Zach Brown looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
+        "summary": "Zach Brown looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 4.00",
-          "WHIP 1.14",
-          "K/9 9.5"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.00"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.14"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "9.5"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "2.3"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "2.00"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "36.0"
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Georgia Athletics roster"
+      }
+    },
+    {
+      "id": "georgia-11393",
+      "schoolSlug": "georgia",
+      "school": "Georgia",
+      "schoolLongName": "University of Georgia",
+      "name": "Landon Schutte",
+      "normalizedName": "landon schutte",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "FR",
+      "handedness": "R/R",
+      "jersey": "17",
+      "hometown": "Oakdale, Calif.",
+      "highSchool": "Oakdale HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Oakdale, Calif. / Oakdale HS",
+      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/landon-schutte/11393",
+      "imageUrl": "https://georgiadogs.com/images/2026/9/1/Schutte__Landon.JPG",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11393",
+      "sources": [
+        "Georgia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Landon Schutte looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Georgia Athletics roster"
+      }
+    },
+    {
+      "id": "georgia-11394",
+      "schoolSlug": "georgia",
+      "school": "Georgia",
+      "schoolLongName": "University of Georgia",
+      "name": "Naulivou Lauaki, Jr.",
+      "normalizedName": "naulivou lauaki",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "UTIL/P",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "R/R",
+      "jersey": "18",
+      "hometown": "Springville, Utah",
+      "highSchool": "",
+      "previousSchool": "Oregon",
+      "hometownHighSchool": "Springville, Utah",
+      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/naulivou-lauaki-jr/11394",
+      "imageUrl": "https://georgiadogs.com/images/2026/9/1/Lauaki_Jr.__Naulivou.JPG",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11394",
+      "sources": [
+        "Georgia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Naulivou Lauaki, Jr. looks like a UTIL/P option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
           }
         ],
         "metaLine": "JR / R/R",
         "detailBadges": [
-          "RHP",
+          "UTIL/P",
           "JR",
           "R/R",
           "Pitcher"
         ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats"
+        "sourceSummary": "Georgia Athletics roster"
       }
     },
     {
-      "id": "georgia-10333",
-      "schoolSlug": "georgia",
-      "school": "Georgia",
-      "schoolLongName": "University of Georgia",
-      "name": "Teddy Brennan",
-      "normalizedName": "teddy brennan",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "",
-      "classYear": "GR",
-      "handedness": "L/L",
-      "jersey": "17",
-      "hometown": "Southampton, N.Y.",
-      "highSchool": "",
-      "previousSchool": "George Washington",
-      "hometownHighSchool": "Southampton, N.Y.",
-      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/teddy-brennan/10333",
-      "imageUrl": "https://georgiadogs.com/images/2025/8/19/Brennan__Teddy.JPG",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "10333",
-      "sources": [
-        "Georgia Athletics roster",
-        "Georgia cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "10333",
-        "name": "Teddy Brennan",
-        "normalizedName": "teddy brennan",
-        "jersey": "17",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/teddy-brennan/10333",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Brennan__Teddy.JPG",
-        "gamesPlayed": 6,
-        "gamesStarted": 0,
-        "appearances": 6,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 13.5,
-        "whip": 3.3,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 3.3333333333333335,
-        "inningsPitchedDisplay": "3.1",
-        "hitsAllowed": 5,
-        "runsAllowed": 5,
-        "earnedRunsAllowed": 5,
-        "walksAllowed": 6,
-        "strikeouts": 7,
-        "doublesAllowed": 2,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 1,
-        "opponentsAtBats": 15,
-        "wildPitches": 1,
-        "hitBatters": 1,
-        "balks": 0,
-        "opponentsBattingAverage": 0.333,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "10333",
-        "name": "Teddy Brennan",
-        "normalizedName": "teddy brennan",
-        "jersey": "17",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/teddy-brennan/10333",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Brennan__Teddy.JPG",
-        "gamesPlayed": 1,
-        "gamesStarted": 0,
-        "putouts": 1,
-        "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 1
-      },
-      "evaluation": {
-        "score": 21,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 100,
-          "Command": 3.333333333333335,
-          "Damage suppression": 0
-        },
-        "summary": "Teddy Brennan looks like a LHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 13.50",
-          "WHIP 3.30",
-          "K/9 18.9"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "13.50"
-          },
-          {
-            "label": "WHIP",
-            "value": "3.30"
-          },
-          {
-            "label": "K/9",
-            "value": "18.9"
-          },
-          {
-            "label": "BB/9",
-            "value": "16.2"
-          },
-          {
-            "label": "HR/9",
-            "value": "2.70"
-          },
-          {
-            "label": "IP",
-            "value": "3.3"
-          }
-        ],
-        "metaLine": "GR / L/L",
-        "detailBadges": [
-          "LHP",
-          "GR",
-          "L/L",
-          "Pitcher"
-        ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats"
-      }
-    },
-    {
-      "id": "georgia-10334",
+      "id": "georgia-11370",
       "schoolSlug": "georgia",
       "school": "Georgia",
       "schoolLongName": "University of Georgia",
@@ -2382,15 +1785,15 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
       "highSchool": "",
       "previousSchool": "Tennessee",
       "hometownHighSchool": "Nashville, Tenn.",
-      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/andrew-behnke/10334",
-      "imageUrl": "https://georgiadogs.com/images/2025/9/5/Behnke__Andrew.jpg",
+      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/andrew-behnke/11370",
+      "imageUrl": "https://georgiadogs.com/images/2026/9/1/Behnke__Andrew.JPG",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "10334",
+      "rosterBioId": "11370",
       "sources": [
         "Georgia Athletics roster"
       ],
@@ -2453,7 +1856,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
       }
     },
     {
-      "id": "georgia-10335",
+      "id": "georgia-11374",
       "schoolSlug": "georgia",
       "school": "Georgia",
       "schoolLongName": "University of Georgia",
@@ -2463,517 +1866,28 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
-      "classYear": "FR",
+      "classYear": "SO",
       "handedness": "R/R",
       "jersey": "20",
       "hometown": "Windsor Mill, Md.",
       "highSchool": "Loyola Blakefield HS",
       "previousSchool": "",
       "hometownHighSchool": "Windsor Mill, Md. / Loyola Blakefield HS",
-      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/joe-nottingham/10335",
-      "imageUrl": "https://georgiadogs.com/images/2025/8/19/Nottingham__Joe.JPG",
+      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/joe-nottingham/11374",
+      "imageUrl": "https://georgiadogs.com/images/2026/9/1/Nottingham__Joe.JPG",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "10335",
+      "rosterBioId": "11374",
       "sources": [
-        "Georgia Athletics roster",
-        "Georgia cumulative stats"
+        "Georgia Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "10335",
-        "name": "Joe Nottingham",
-        "normalizedName": "joe nottingham",
-        "jersey": "20",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/joe-nottingham/10335",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Nottingham__Joe.JPG",
-        "gamesPlayed": 13,
-        "gamesStarted": 0,
-        "appearances": 13,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 4.73,
-        "whip": 1.28,
-        "wins": 0,
-        "losses": 0,
-        "saves": 1,
-        "shutouts": 0,
-        "inningsPitched": 13.333333333333334,
-        "inningsPitchedDisplay": "13.1",
-        "hitsAllowed": 10,
-        "runsAllowed": 8,
-        "earnedRunsAllowed": 7,
-        "walksAllowed": 7,
-        "strikeouts": 19,
-        "doublesAllowed": 3,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 50,
-        "wildPitches": 1,
-        "hitBatters": 0,
-        "balks": 0,
-        "opponentsBattingAverage": 0.2,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "10335",
-        "name": "Joe Nottingham",
-        "normalizedName": "joe nottingham",
-        "jersey": "20",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/joe-nottingham/10335",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Nottingham__Joe.JPG",
-        "gamesPlayed": 3,
-        "gamesStarted": 0,
-        "putouts": 1,
-        "assists": 2,
-        "errors": 1,
-        "fieldingPercentage": 0.75,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 1,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 4
-      },
-      "evaluation": {
-        "score": 22,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 80.22727272727272,
-          "Command": 34.285714285714285,
-          "Damage suppression": 0
-        },
-        "summary": "Joe Nottingham looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 4.73",
-          "WHIP 1.28",
-          "K/9 12.8"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.73"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.28"
-          },
-          {
-            "label": "K/9",
-            "value": "12.8"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.7"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.35"
-          },
-          {
-            "label": "IP",
-            "value": "13.3"
-          }
-        ],
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats"
-      }
-    },
-    {
-      "id": "georgia-10336",
-      "schoolSlug": "georgia",
-      "school": "Georgia",
-      "schoolLongName": "University of Georgia",
-      "name": "Jordy Oriach",
-      "normalizedName": "jordy oriach",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "UTIL",
-      "positionLong": "",
-      "classYear": "SR",
-      "handedness": "L/L",
-      "jersey": "21",
-      "hometown": "Haverhill, Mass.",
-      "highSchool": "",
-      "previousSchool": "New Mexico",
-      "hometownHighSchool": "Haverhill, Mass.",
-      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/jordy-oriach/10336",
-      "imageUrl": "https://georgiadogs.com/images/2025/8/19/Oriach__Jordy.JPG",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "10336",
-      "sources": [
-        "Georgia Athletics roster",
-        "Georgia cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "10336",
-        "name": "Jordy Oriach",
-        "normalizedName": "jordy oriach",
-        "jersey": "21",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/jordy-oriach/10336",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Oriach__Jordy.JPG",
-        "gamesPlayed": 41,
-        "gamesStarted": 28,
-        "battingAverage": 0.297,
-        "onBasePercentage": 0.428,
-        "sluggingPercentage": 0.541,
-        "ops": 0.969,
-        "atBats": 111,
-        "runs": 19,
-        "hits": 33,
-        "doubles": 6,
-        "triples": 0,
-        "homeRuns": 7,
-        "runsBattedIn": 28,
-        "totalBases": 60,
-        "walks": 20,
-        "hitByPitch": 6,
-        "strikeouts": 20,
-        "intentionalWalks": 1,
-        "groundedIntoDoublePlay": 2,
-        "sacrificeFlies": 1,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 27,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 138,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "10336",
-        "name": "Jordy Oriach",
-        "normalizedName": "jordy oriach",
-        "jersey": "21",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/jordy-oriach/10336",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Oriach__Jordy.JPG",
-        "gamesPlayed": 8,
-        "gamesStarted": 6,
-        "putouts": 27,
-        "assists": 1,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 2,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 28
-      },
-      "evaluation": {
-        "score": 63,
-        "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
-        },
-        "components": {
-          "On-base": 82.22222222222221,
-          "Power": 58.15789473684212,
-          "Contact": 48.12499999999999,
-          "Discipline": 88.88888888888889,
-          "Speed": 0
-        },
-        "summary": "Jordy Oriach profiles as a UTIL piece who gets on base at a high clip and controls at-bats.",
-        "summaryMetrics": [
-          "AVG .297",
-          "OBP .428",
-          "SLG .541"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".297"
-          },
-          {
-            "label": "OBP",
-            "value": ".428"
-          },
-          {
-            "label": "SLG",
-            "value": ".541"
-          },
-          {
-            "label": "HR",
-            "value": "7"
-          },
-          {
-            "label": "RBI",
-            "value": "28"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "SR / L/L",
-        "detailBadges": [
-          "UTIL",
-          "SR",
-          "L/L",
-          "Hitter"
-        ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats"
-      }
-    },
-    {
-      "id": "georgia-10337",
-      "schoolSlug": "georgia",
-      "school": "Georgia",
-      "schoolLongName": "University of Georgia",
-      "name": "Henry Allen",
-      "normalizedName": "henry allen",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "UTIL",
-      "positionLong": "",
-      "classYear": "SO",
-      "handedness": "R/R",
-      "jersey": "22",
-      "hometown": "Auburn, Ala.",
-      "highSchool": "",
-      "previousSchool": "Northwest Florida State College",
-      "hometownHighSchool": "Auburn, Ala.",
-      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/henry-allen/10337",
-      "imageUrl": "https://georgiadogs.com/images/2025/8/19/Allen__TxLjV.JPG",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "10337",
-      "sources": [
-        "Georgia Athletics roster",
-        "Georgia cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "10337",
-        "name": "Henry Allen",
-        "normalizedName": "henry allen",
-        "jersey": "22",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/henry-allen/10337",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Allen__TxLjV.JPG",
-        "gamesPlayed": 46,
-        "gamesStarted": 42,
-        "battingAverage": 0.321,
-        "onBasePercentage": 0.443,
-        "sluggingPercentage": 0.635,
-        "ops": 1.078,
-        "atBats": 156,
-        "runs": 42,
-        "hits": 50,
-        "doubles": 10,
-        "triples": 0,
-        "homeRuns": 13,
-        "runsBattedIn": 41,
-        "totalBases": 99,
-        "walks": 28,
-        "hitByPitch": 8,
-        "strikeouts": 39,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 5,
-        "sacrificeFlies": 2,
-        "sacrificeHits": 0,
-        "stolenBases": 3,
-        "stolenBasesAttempts": 3,
-        "putouts": 50,
-        "assists": 0,
-        "errors": 2,
-        "plateAppearances": 197,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "10337",
-        "name": "Henry Allen",
-        "normalizedName": "henry allen",
-        "jersey": "22",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/henry-allen/10337",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Allen__TxLjV.JPG",
-        "gamesPlayed": 29,
-        "gamesStarted": 26,
-        "putouts": 50,
-        "assists": 7,
-        "errors": 2,
-        "fieldingPercentage": 0.966,
-        "doublePlays": 1,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 59
-      },
-      "evaluation": {
-        "score": 71,
-        "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
-        },
-        "components": {
-          "On-base": 90.55555555555554,
-          "Power": 82.89473684210527,
-          "Contact": 63.125,
-          "Discipline": 57.54985754985753,
-          "Speed": 10
-        },
-        "summary": "Henry Allen profiles as a UTIL piece who gets on base at a high clip and brings real extra-base damage.",
-        "summaryMetrics": [
-          "AVG .321",
-          "OBP .443",
-          "SLG .635"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".321"
-          },
-          {
-            "label": "OBP",
-            "value": ".443"
-          },
-          {
-            "label": "SLG",
-            "value": ".635"
-          },
-          {
-            "label": "HR",
-            "value": "13"
-          },
-          {
-            "label": "RBI",
-            "value": "41"
-          },
-          {
-            "label": "SB",
-            "value": "3"
-          }
-        ],
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "UTIL",
-          "SO",
-          "R/R",
-          "Hitter"
-        ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats"
-      }
-    },
-    {
-      "id": "georgia-10338",
-      "schoolSlug": "georgia",
-      "school": "Georgia",
-      "schoolLongName": "University of Georgia",
-      "name": "Cole Johnson",
-      "normalizedName": "cole johnson",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "OF/LHP",
-      "positionLong": "",
-      "classYear": "FR",
-      "handedness": "L/L",
-      "jersey": "23",
-      "hometown": "Watkinsville, Ga.",
-      "highSchool": "Oconee County HS",
-      "previousSchool": "",
-      "hometownHighSchool": "Watkinsville, Ga. / Oconee County HS",
-      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/cole-johnson/10338",
-      "imageUrl": "https://georgiadogs.com/images/2025/8/19/Johnson__Cole.JPG",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "10338",
-      "sources": [
-        "Georgia Athletics roster",
-        "Georgia cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "10338",
-        "name": "Cole Johnson",
-        "normalizedName": "cole johnson",
-        "jersey": "23",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/cole-johnson/10338",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Johnson__Cole.JPG",
-        "gamesPlayed": 33,
-        "gamesStarted": 18,
-        "battingAverage": 0.31,
-        "onBasePercentage": 0.388,
-        "sluggingPercentage": 0.493,
-        "ops": 0.881,
-        "atBats": 71,
-        "runs": 16,
-        "hits": 22,
-        "doubles": 7,
-        "triples": 0,
-        "homeRuns": 2,
-        "runsBattedIn": 13,
-        "totalBases": 35,
-        "walks": 6,
-        "hitByPitch": 3,
-        "strikeouts": 16,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 1,
-        "stolenBasesAttempts": 1,
-        "putouts": 27,
-        "assists": 0,
-        "errors": 1,
-        "plateAppearances": 81,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "10338",
-        "name": "Cole Johnson",
-        "normalizedName": "cole johnson",
-        "jersey": "23",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/cole-johnson/10338",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Johnson__Cole.JPG",
-        "gamesPlayed": 19,
-        "gamesStarted": 14,
-        "putouts": 27,
-        "assists": 0,
-        "errors": 1,
-        "fieldingPercentage": 0.964,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 28
-      },
+      "fieldingStats": null,
       "evaluation": {
         "score": 0,
         "fit": {
@@ -2987,7 +1901,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Cole Johnson looks like a OF/LHP option who throws enough strikes.",
+        "summary": "Joe Nottingham looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -3019,105 +1933,51 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "FR / L/L",
+        "metaLine": "SO / R/R",
         "detailBadges": [
-          "OF/LHP",
-          "FR",
-          "L/L",
+          "RHP",
+          "SO",
+          "R/R",
           "Pitcher"
         ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats"
+        "sourceSummary": "Georgia Athletics roster"
       }
     },
     {
-      "id": "georgia-10340",
+      "id": "georgia-11395",
       "schoolSlug": "georgia",
       "school": "Georgia",
       "schoolLongName": "University of Georgia",
-      "name": "Dylan Vigue",
-      "normalizedName": "dylan vigue",
+      "name": "Cooper Walls",
+      "normalizedName": "cooper walls",
       "compositeRole": "Pitcher",
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
       "classYear": "JR",
       "handedness": "R/R",
-      "jersey": "27",
-      "hometown": "Leominster, Mass.",
+      "jersey": "21",
+      "hometown": "San Diego, Calif.",
       "highSchool": "",
-      "previousSchool": "Michigan",
-      "hometownHighSchool": "Leominster, Mass.",
-      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/dylan-vigue/10340",
-      "imageUrl": "https://georgiadogs.com/images/2025/8/19/Vigue__Dylan.JPG",
+      "previousSchool": "Florida",
+      "hometownHighSchool": "San Diego, Calif.",
+      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/cooper-walls/11395",
+      "imageUrl": "https://georgiadogs.com/images/2026/9/1/Walls__Cooper.JPG",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "10340",
+      "rosterBioId": "11395",
       "sources": [
-        "Georgia Athletics roster",
-        "Georgia cumulative stats"
+        "Georgia Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "10340",
-        "name": "Dylan Vigue",
-        "normalizedName": "dylan vigue",
-        "jersey": "27",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/dylan-vigue/10340",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Vigue__Dylan.JPG",
-        "gamesPlayed": 18,
-        "gamesStarted": 16,
-        "appearances": 18,
-        "gamesCompleted": 1,
-        "earnedRunAverage": 4.43,
-        "whip": 1.37,
-        "wins": 4,
-        "losses": 1,
-        "saves": 0,
-        "shutouts": 1,
-        "inningsPitched": 63,
-        "inningsPitchedDisplay": "63.0",
-        "hitsAllowed": 50,
-        "runsAllowed": 32,
-        "earnedRunsAllowed": 31,
-        "walksAllowed": 36,
-        "strikeouts": 77,
-        "doublesAllowed": 7,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 5,
-        "opponentsAtBats": 231,
-        "wildPitches": 3,
-        "hitBatters": 11,
-        "balks": 0,
-        "opponentsBattingAverage": 0.216,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "10340",
-        "name": "Dylan Vigue",
-        "normalizedName": "dylan vigue",
-        "jersey": "27",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/dylan-vigue/10340",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Vigue__Dylan.JPG",
-        "gamesPlayed": 14,
-        "gamesStarted": 12,
-        "putouts": 5,
-        "assists": 10,
-        "errors": 1,
-        "fieldingPercentage": 0.938,
-        "doublePlays": 2,
-        "stolenBasesAgainst": 4,
-        "caughtStealingBy": 2,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 16
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 16,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3125,40 +1985,40 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 63.63636363636363,
-          "Command": 22.77777777777778,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Dylan Vigue looks like a RHP option who misses bats.",
+        "summary": "Cooper Walls looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 4.43",
-          "WHIP 1.37",
-          "K/9 11.0"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.43"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.37"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "11.0"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "5.1"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "0.71"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "63.0"
+            "value": "0.0"
           }
         ],
         "metaLine": "JR / R/R",
@@ -3168,1133 +2028,539 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
           "R/R",
           "Pitcher"
         ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats"
+        "sourceSummary": "Georgia Athletics roster"
       }
     },
     {
-      "id": "georgia-8958",
+      "id": "georgia-11368",
       "schoolSlug": "georgia",
       "school": "Georgia",
       "schoolLongName": "University of Georgia",
-      "name": "Brennan Hudson",
-      "normalizedName": "brennan hudson",
-      "compositeRole": "Hitter",
+      "name": "Henry Allen",
+      "normalizedName": "henry allen",
+      "compositeRole": "Rostered",
       "role": "Hitter",
-      "position": "C/INF",
+      "position": "UTIL",
       "positionLong": "",
-      "classYear": "SR",
-      "handedness": "L/R",
-      "jersey": "28",
-      "hometown": "Cumming, Ga.",
+      "classYear": "JR",
+      "handedness": "R/R",
+      "jersey": "22",
+      "hometown": "Auburn, Ala.",
       "highSchool": "",
-      "previousSchool": "Georgia State",
-      "hometownHighSchool": "Cumming, Ga.",
-      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/brennan-hudson/8958",
-      "imageUrl": "https://georgiadogs.com/images/2025/8/19/Hudson__Brennan.JPG",
+      "previousSchool": "Northwest Florida State College",
+      "hometownHighSchool": "Auburn, Ala.",
+      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/henry-allen/11368",
+      "imageUrl": "https://georgiadogs.com/images/2026/9/1/Allen__Henry.JPG",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "8958",
+      "rosterBioId": "11368",
       "sources": [
-        "Georgia Athletics roster",
-        "Georgia cumulative stats"
+        "Georgia Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "8958",
-        "name": "Brennan Hudson",
-        "normalizedName": "brennan hudson",
-        "jersey": "28",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/brennan-hudson/8958",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Hudson__Brennan.JPG",
-        "gamesPlayed": 56,
-        "gamesStarted": 50,
-        "battingAverage": 0.294,
-        "onBasePercentage": 0.466,
-        "sluggingPercentage": 0.73,
-        "ops": 1.196,
-        "atBats": 163,
-        "runs": 52,
-        "hits": 48,
-        "doubles": 5,
-        "triples": 0,
-        "homeRuns": 22,
-        "runsBattedIn": 51,
-        "totalBases": 119,
-        "walks": 39,
-        "hitByPitch": 17,
-        "strikeouts": 46,
-        "intentionalWalks": 2,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 4,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 391,
-        "assists": 0,
-        "errors": 3,
-        "plateAppearances": 223,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "8958",
-        "name": "Brennan Hudson",
-        "normalizedName": "brennan hudson",
-        "jersey": "28",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/brennan-hudson/8958",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Hudson__Brennan.JPG",
-        "gamesPlayed": 53,
-        "gamesStarted": 48,
-        "putouts": 391,
-        "assists": 15,
-        "errors": 3,
-        "fieldingPercentage": 0.993,
-        "doublePlays": 20,
-        "stolenBasesAgainst": 12,
-        "caughtStealingBy": 2,
-        "stolenBasesPercentage": null,
-        "passedBalls": 4,
-        "catchersInterference": 0,
-        "totalChances": 409
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 76,
+        "score": 0,
         "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
+          "label": "Depth",
+          "className": "fit-depth"
         },
         "components": {
-          "On-base": 100,
-          "Power": 100,
-          "Contact": 46.249999999999986,
-          "Discipline": 71.98067632850241,
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
           "Speed": 0
         },
-        "summary": "Brennan Hudson profiles as a C/INF piece who gets on base at a high clip and brings real extra-base damage.",
+        "summary": "Henry Allen gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .294",
-          "OBP .466",
-          "SLG .730"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".294"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".466"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".730"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "22"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "51"
+            "value": "0"
           },
           {
             "label": "SB",
             "value": "0"
           }
         ],
-        "metaLine": "SR / L/R",
-        "detailBadges": [
-          "C/INF",
-          "SR",
-          "L/R",
-          "Hitter"
-        ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats"
-      }
-    },
-    {
-      "id": "georgia-10341",
-      "schoolSlug": "georgia",
-      "school": "Georgia",
-      "schoolLongName": "University of Georgia",
-      "name": "Grant Edwards",
-      "normalizedName": "grant edwards",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "GR",
-      "handedness": "R/R",
-      "jersey": "32",
-      "hometown": "Walker, La.",
-      "highSchool": "",
-      "previousSchool": "New Orleans",
-      "hometownHighSchool": "Walker, La.",
-      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/grant-edwards/10341",
-      "imageUrl": "https://georgiadogs.com/images/2025/8/19/Edwards__Grant.JPG",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "10341",
-      "sources": [
-        "Georgia Athletics roster",
-        "Georgia cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "10341",
-        "name": "Grant Edwards",
-        "normalizedName": "grant edwards",
-        "jersey": "32",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/grant-edwards/10341",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Edwards__Grant.JPG",
-        "gamesPlayed": 19,
-        "gamesStarted": 1,
-        "appearances": 19,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 5.65,
-        "whip": 1.26,
-        "wins": 1,
-        "losses": 1,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 14.333333333333334,
-        "inningsPitchedDisplay": "14.1",
-        "hitsAllowed": 12,
-        "runsAllowed": 9,
-        "earnedRunsAllowed": 9,
-        "walksAllowed": 6,
-        "strikeouts": 11,
-        "doublesAllowed": 2,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 49,
-        "wildPitches": 0,
-        "hitBatters": 5,
-        "balks": 0,
-        "opponentsBattingAverage": 0.245,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "10341",
-        "name": "Grant Edwards",
-        "normalizedName": "grant edwards",
-        "jersey": "32",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/grant-edwards/10341",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Edwards__Grant.JPG",
-        "gamesPlayed": 7,
-        "gamesStarted": 0,
-        "putouts": 2,
-        "assists": 2,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 5,
-        "caughtStealingBy": 1,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 4
-      },
-      "evaluation": {
-        "score": 8,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 26.42706131078224,
-          "Command": 16.666666666666664,
-          "Damage suppression": 0
-        },
-        "summary": "Grant Edwards gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 5.65",
-          "WHIP 1.26",
-          "K/9 6.9"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.65"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.26"
-          },
-          {
-            "label": "K/9",
-            "value": "6.9"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.8"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.26"
-          },
-          {
-            "label": "IP",
-            "value": "14.3"
-          }
-        ],
-        "metaLine": "GR / R/R",
-        "detailBadges": [
-          "RHP",
-          "GR",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats"
-      }
-    },
-    {
-      "id": "georgia-10342",
-      "schoolSlug": "georgia",
-      "school": "Georgia",
-      "schoolLongName": "University of Georgia",
-      "name": "Jackson Peavy",
-      "normalizedName": "jackson peavy",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "",
-      "classYear": "FR",
-      "handedness": "L/L",
-      "jersey": "33",
-      "hometown": "Macon, Ga.",
-      "highSchool": "Peach County HS",
-      "previousSchool": "",
-      "hometownHighSchool": "Macon, Ga. / Peach County HS",
-      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/jackson-peavy/10342",
-      "imageUrl": "https://georgiadogs.com/images/2025/8/19/Peavy__Jackson.JPG",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "10342",
-      "sources": [
-        "Georgia Athletics roster",
-        "Georgia cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "10342",
-        "name": "Jackson Peavy",
-        "normalizedName": "jackson peavy",
-        "jersey": "33",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/jackson-peavy/10342",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Peavy__Jackson.JPG",
-        "gamesPlayed": 3,
-        "gamesStarted": 0,
-        "appearances": 3,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 0,
-        "whip": 0.86,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 2.3333333333333335,
-        "inningsPitchedDisplay": "2.1",
-        "hitsAllowed": 0,
-        "runsAllowed": 1,
-        "earnedRunsAllowed": 0,
-        "walksAllowed": 2,
-        "strikeouts": 3,
-        "doublesAllowed": 0,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 8,
-        "wildPitches": 0,
-        "hitBatters": 1,
-        "balks": 0,
-        "opponentsBattingAverage": 0,
-        "walksHits": 0
-      },
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 15,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 68.83116883116884,
-          "Command": 10.000000000000005,
-          "Damage suppression": 0
-        },
-        "summary": "Jackson Peavy looks like a LHP option who limits runs and misses bats and keeps traffic under control.",
-        "summaryMetrics": [
-          "ERA 0.00",
-          "WHIP 0.86",
-          "K/9 11.6"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "0.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "0.86"
-          },
-          {
-            "label": "K/9",
-            "value": "11.6"
-          },
-          {
-            "label": "BB/9",
-            "value": "7.7"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "2.3"
-          }
-        ],
-        "metaLine": "FR / L/L",
-        "detailBadges": [
-          "LHP",
-          "FR",
-          "L/L",
-          "Pitcher"
-        ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats"
-      }
-    },
-    {
-      "id": "georgia-10343",
-      "schoolSlug": "georgia",
-      "school": "Georgia",
-      "schoolLongName": "University of Georgia",
-      "name": "Caleb Jameson",
-      "normalizedName": "caleb jameson",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "",
-      "classYear": "R-JR",
-      "handedness": "L/L",
-      "jersey": "34",
-      "hometown": "Paris, Texas",
-      "highSchool": "",
-      "previousSchool": "Baylor",
-      "hometownHighSchool": "Paris, Texas",
-      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/caleb-jameson/10343",
-      "imageUrl": "https://georgiadogs.com/images/2025/8/19/Jameson__Caleb.JPG",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "10343",
-      "sources": [
-        "Georgia Athletics roster",
-        "Georgia cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "10343",
-        "name": "Caleb Jameson",
-        "normalizedName": "caleb jameson",
-        "jersey": "34",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/caleb-jameson/10343",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Jameson__Caleb.JPG",
-        "gamesPlayed": 17,
-        "gamesStarted": 1,
-        "appearances": 17,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 6.11,
-        "whip": 1.47,
-        "wins": 2,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 17.666666666666668,
-        "inningsPitchedDisplay": "17.2",
-        "hitsAllowed": 22,
-        "runsAllowed": 14,
-        "earnedRunsAllowed": 12,
-        "walksAllowed": 4,
-        "strikeouts": 26,
-        "doublesAllowed": 7,
-        "triplesAllowed": 2,
-        "homeRunsAllowed": 4,
-        "opponentsAtBats": 72,
-        "wildPitches": 1,
-        "hitBatters": 3,
-        "balks": 0,
-        "opponentsBattingAverage": 0.306,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "10343",
-        "name": "Caleb Jameson",
-        "normalizedName": "caleb jameson",
-        "jersey": "34",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/caleb-jameson/10343",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Jameson__Caleb.JPG",
-        "gamesPlayed": 2,
-        "gamesStarted": 0,
-        "putouts": 0,
-        "assists": 0,
-        "errors": 1,
-        "fieldingPercentage": 0,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 1,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 1
-      },
-      "evaluation": {
-        "score": 33,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 84.04802744425385,
-          "Command": 100,
-          "Damage suppression": 0
-        },
-        "summary": "Caleb Jameson looks like a LHP option who misses bats and throws enough strikes.",
-        "summaryMetrics": [
-          "ERA 6.11",
-          "WHIP 1.47",
-          "K/9 13.2"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "6.11"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.47"
-          },
-          {
-            "label": "K/9",
-            "value": "13.2"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "2.04"
-          },
-          {
-            "label": "IP",
-            "value": "17.7"
-          }
-        ],
-        "metaLine": "R-JR / L/L",
-        "detailBadges": [
-          "LHP",
-          "R-JR",
-          "L/L",
-          "Pitcher"
-        ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats"
-      }
-    },
-    {
-      "id": "georgia-8921",
-      "schoolSlug": "georgia",
-      "school": "Georgia",
-      "schoolLongName": "University of Georgia",
-      "name": "Paul Farley",
-      "normalizedName": "paul farley",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "R-SO",
-      "handedness": "R/R",
-      "jersey": "35",
-      "hometown": "Kennesaw, Ga.",
-      "highSchool": "Mount Paran Christian School",
-      "previousSchool": "",
-      "hometownHighSchool": "Kennesaw, Ga. / Mount Paran Christian School",
-      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/paul-farley/8921",
-      "imageUrl": "https://georgiadogs.com/images/2025/8/19/Farley__Paul.JPG",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "8921",
-      "sources": [
-        "Georgia Athletics roster",
-        "Georgia cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "8921",
-        "name": "Paul Farley",
-        "normalizedName": "paul farley",
-        "jersey": "35",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/paul-farley/8921",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Farley__Paul.JPG",
-        "gamesPlayed": 22,
-        "gamesStarted": 4,
-        "appearances": 22,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 4.98,
-        "whip": 1.62,
-        "wins": 8,
-        "losses": 2,
-        "saves": 1,
-        "shutouts": 0,
-        "inningsPitched": 47,
-        "inningsPitchedDisplay": "47.0",
-        "hitsAllowed": 55,
-        "runsAllowed": 29,
-        "earnedRunsAllowed": 26,
-        "walksAllowed": 21,
-        "strikeouts": 50,
-        "doublesAllowed": 12,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 7,
-        "opponentsAtBats": 187,
-        "wildPitches": 2,
-        "hitBatters": 4,
-        "balks": 1,
-        "opponentsBattingAverage": 0.294,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "8921",
-        "name": "Paul Farley",
-        "normalizedName": "paul farley",
-        "jersey": "35",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/paul-farley/8921",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Farley__Paul.JPG",
-        "gamesPlayed": 10,
-        "gamesStarted": 3,
-        "putouts": 3,
-        "assists": 8,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 1,
-        "stolenBasesAgainst": 2,
-        "caughtStealingBy": 2,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 11
-      },
-      "evaluation": {
-        "score": 15,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 50.67698259187622,
-          "Command": 27.619047619047628,
-          "Damage suppression": 0
-        },
-        "summary": "Paul Farley looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 4.98",
-          "WHIP 1.62",
-          "K/9 9.6"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.98"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.62"
-          },
-          {
-            "label": "K/9",
-            "value": "9.6"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.34"
-          },
-          {
-            "label": "IP",
-            "value": "47.0"
-          }
-        ],
-        "metaLine": "R-SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "R-SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats"
-      }
-    },
-    {
-      "id": "georgia-10344",
-      "schoolSlug": "georgia",
-      "school": "Georgia",
-      "schoolLongName": "University of Georgia",
-      "name": "Joey Volchko",
-      "normalizedName": "joey volchko",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "JR",
-      "handedness": "R/R",
-      "jersey": "37",
-      "hometown": "Visalia, Calif.",
-      "highSchool": "",
-      "previousSchool": "Stanford",
-      "hometownHighSchool": "Visalia, Calif.",
-      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/joey-volchko/10344",
-      "imageUrl": "https://georgiadogs.com/images/2025/8/19/Volchko__Joey.JPG",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "10344",
-      "sources": [
-        "Georgia Athletics roster",
-        "Georgia cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "10344",
-        "name": "Joey Volchko",
-        "normalizedName": "joey volchko",
-        "jersey": "37",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/joey-volchko/10344",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Volchko__Joey.JPG",
-        "gamesPlayed": 18,
-        "gamesStarted": 18,
-        "appearances": 18,
-        "gamesCompleted": 1,
-        "earnedRunAverage": 3.68,
-        "whip": 1.34,
-        "wins": 11,
-        "losses": 2,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 95.33333333333333,
-        "inningsPitchedDisplay": "95.1",
-        "hitsAllowed": 82,
-        "runsAllowed": 46,
-        "earnedRunsAllowed": 39,
-        "walksAllowed": 46,
-        "strikeouts": 119,
-        "doublesAllowed": 8,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 8,
-        "opponentsAtBats": 350,
-        "wildPitches": 8,
-        "hitBatters": 9,
-        "balks": 1,
-        "opponentsBattingAverage": 0.234,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "10344",
-        "name": "Joey Volchko",
-        "normalizedName": "joey volchko",
-        "jersey": "37",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/joey-volchko/10344",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Volchko__Joey.JPG",
-        "gamesPlayed": 12,
-        "gamesStarted": 12,
-        "putouts": 2,
-        "assists": 7,
-        "errors": 1,
-        "fieldingPercentage": 0.9,
-        "doublePlays": 1,
-        "stolenBasesAgainst": 12,
-        "caughtStealingBy": 7,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 10
-      },
-      "evaluation": {
-        "score": 18,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 65.7660521296885,
-          "Command": 31.739130434782613,
-          "Damage suppression": 0
-        },
-        "summary": "Joey Volchko looks like a RHP option who limits runs and misses bats.",
-        "summaryMetrics": [
-          "ERA 3.68",
-          "WHIP 1.34",
-          "K/9 11.2"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.68"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.34"
-          },
-          {
-            "label": "K/9",
-            "value": "11.2"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.3"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.76"
-          },
-          {
-            "label": "IP",
-            "value": "95.3"
-          }
-        ],
         "metaLine": "JR / R/R",
         "detailBadges": [
-          "RHP",
+          "UTIL",
           "JR",
           "R/R",
-          "Pitcher"
+          "Rostered"
         ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats"
+        "sourceSummary": "Georgia Athletics roster"
       }
     },
     {
-      "id": "georgia-10345",
+      "id": "georgia-11373",
       "schoolSlug": "georgia",
       "school": "Georgia",
       "schoolLongName": "University of Georgia",
-      "name": "Brad Pruett",
-      "normalizedName": "brad pruett",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "JR",
-      "handedness": "R/R",
-      "jersey": "42",
-      "hometown": "Corinth, Texas",
-      "highSchool": "",
-      "previousSchool": "East Carolina",
-      "hometownHighSchool": "Corinth, Texas",
-      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/brad-pruett/10345",
-      "imageUrl": "https://georgiadogs.com/images/2025/8/19/Pruett__Brad.JPG",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "10345",
-      "sources": [
-        "Georgia Athletics roster",
-        "Georgia cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "10345",
-        "name": "Brad Pruett",
-        "normalizedName": "brad pruett",
-        "jersey": "42",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/brad-pruett/10345",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Pruett__Brad.JPG",
-        "gamesPlayed": 8,
-        "gamesStarted": 0,
-        "appearances": 8,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 8.22,
-        "whip": 2.22,
-        "wins": 0,
-        "losses": 1,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 7.666666666666667,
-        "inningsPitchedDisplay": "7.2",
-        "hitsAllowed": 9,
-        "runsAllowed": 9,
-        "earnedRunsAllowed": 7,
-        "walksAllowed": 8,
-        "strikeouts": 12,
-        "doublesAllowed": 2,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 30,
-        "wildPitches": 1,
-        "hitBatters": 1,
-        "balks": 0,
-        "opponentsBattingAverage": 0.3,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "10345",
-        "name": "Brad Pruett",
-        "normalizedName": "brad pruett",
-        "jersey": "42",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/brad-pruett/10345",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Pruett__Brad.JPG",
-        "gamesPlayed": 1,
-        "gamesStarted": 0,
-        "putouts": 0,
-        "assists": 1,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 1
-      },
-      "evaluation": {
-        "score": 20,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 91.699604743083,
-          "Command": 10,
-          "Damage suppression": 0
-        },
-        "summary": "Brad Pruett looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 8.22",
-          "WHIP 2.22",
-          "K/9 14.1"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "8.22"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.22"
-          },
-          {
-            "label": "K/9",
-            "value": "14.1"
-          },
-          {
-            "label": "BB/9",
-            "value": "9.4"
-          },
-          {
-            "label": "HR/9",
-            "value": "2.35"
-          },
-          {
-            "label": "IP",
-            "value": "7.7"
-          }
-        ],
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats"
-      }
-    },
-    {
-      "id": "georgia-10346",
-      "schoolSlug": "georgia",
-      "school": "Georgia",
-      "schoolLongName": "University of Georgia",
-      "name": "Cole Koniarsky",
-      "normalizedName": "cole koniarsky",
-      "compositeRole": "Hitter",
+      "name": "Cole Johnson",
+      "normalizedName": "cole johnson",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "OF",
       "positionLong": "",
-      "classYear": "GR",
-      "handedness": "R/R",
-      "jersey": "44",
-      "hometown": "Chino Hills, Calif.",
-      "highSchool": "",
-      "previousSchool": "UNLV",
-      "hometownHighSchool": "Chino Hills, Calif.",
-      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/cole-koniarsky/10346",
-      "imageUrl": "https://georgiadogs.com/images/2025/8/19/Koniarsky__Cole.jpg",
+      "classYear": "SO",
+      "handedness": "L/L",
+      "jersey": "23",
+      "hometown": "Watkinsville, Ga.",
+      "highSchool": "Oconee County HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Watkinsville, Ga. / Oconee County HS",
+      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/cole-johnson/11373",
+      "imageUrl": "https://georgiadogs.com/images/2026/9/1/Johnson__Cole.JPG",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "10346",
+      "rosterBioId": "11373",
       "sources": [
-        "Georgia Athletics roster",
-        "Georgia cumulative stats"
+        "Georgia Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "10346",
-        "name": "Cole Koniarsky",
-        "normalizedName": "cole koniarsky",
-        "jersey": "44",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/cole-koniarsky/10346",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Koniarsky__Cole.jpg",
-        "gamesPlayed": 22,
-        "gamesStarted": 4,
-        "battingAverage": 0.3,
-        "onBasePercentage": 0.353,
-        "sluggingPercentage": 0.433,
-        "ops": 0.786,
-        "atBats": 30,
-        "runs": 5,
-        "hits": 9,
-        "doubles": 1,
-        "triples": 0,
-        "homeRuns": 1,
-        "runsBattedIn": 4,
-        "totalBases": 13,
-        "walks": 2,
-        "hitByPitch": 1,
-        "strikeouts": 5,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 2,
-        "sacrificeFlies": 1,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 2,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 34,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "10346",
-        "name": "Cole Koniarsky",
-        "normalizedName": "cole koniarsky",
-        "jersey": "44",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/cole-koniarsky/10346",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Koniarsky__Cole.jpg",
-        "gamesPlayed": 2,
-        "gamesStarted": 1,
-        "putouts": 2,
-        "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 2
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 33,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 40.555555555555536,
-          "Power": 29.73684210526316,
-          "Contact": 49.999999999999986,
-          "Discipline": 22.22222222222222,
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
           "Speed": 0
         },
-        "summary": "Cole Koniarsky gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Cole Johnson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .300",
-          "OBP .353",
-          "SLG .433"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".300"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".353"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".433"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "1"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "4"
+            "value": "0"
           },
           {
             "label": "SB",
             "value": "0"
           }
         ],
-        "metaLine": "GR / R/R",
+        "metaLine": "SO / L/L",
         "detailBadges": [
           "OF",
-          "GR",
-          "R/R",
-          "Hitter"
+          "SO",
+          "L/L",
+          "Rostered"
         ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats"
+        "sourceSummary": "Georgia Athletics roster"
       }
     },
     {
-      "id": "georgia-10392",
+      "id": "georgia-11396",
+      "schoolSlug": "georgia",
+      "school": "Georgia",
+      "schoolLongName": "University of Georgia",
+      "name": "Hunter Carns",
+      "normalizedName": "hunter carns",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "C",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "R/R",
+      "jersey": "25",
+      "hometown": "Jacksonville, Fla.",
+      "highSchool": "",
+      "previousSchool": "Florida State",
+      "hometownHighSchool": "Jacksonville, Fla.",
+      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/hunter-carns/11396",
+      "imageUrl": "https://georgiadogs.com/images/2026/9/1/Carns__Hunter.JPG",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11396",
+      "sources": [
+        "Georgia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Hunter Carns gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "C",
+          "JR",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Georgia Athletics roster"
+      }
+    },
+    {
+      "id": "georgia-11397",
+      "schoolSlug": "georgia",
+      "school": "Georgia",
+      "schoolLongName": "University of Georgia",
+      "name": "Preston Allen",
+      "normalizedName": "preston allen",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "R/R",
+      "jersey": "26",
+      "hometown": "Knoxville, Tenn.",
+      "highSchool": "",
+      "previousSchool": "Walters State CC",
+      "hometownHighSchool": "Knoxville, Tenn.",
+      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/preston-allen/11397",
+      "imageUrl": "https://georgiadogs.com/images/2026/9/1/Allen__Preston.JPG",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11397",
+      "sources": [
+        "Georgia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Preston Allen looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Georgia Athletics roster"
+      }
+    },
+    {
+      "id": "georgia-11398",
+      "schoolSlug": "georgia",
+      "school": "Georgia",
+      "schoolLongName": "University of Georgia",
+      "name": "Marcos Paz",
+      "normalizedName": "marcos paz",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "SO",
+      "handedness": "R/R",
+      "jersey": "27",
+      "hometown": "Carrollton, Texas",
+      "highSchool": "",
+      "previousSchool": "LSU",
+      "hometownHighSchool": "Carrollton, Texas",
+      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/marcos-paz/11398",
+      "imageUrl": "https://georgiadogs.com/images/2026/9/1/Paz__Marcos.JPG",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11398",
+      "sources": [
+        "Georgia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Marcos Paz looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "RHP",
+          "SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Georgia Athletics roster"
+      }
+    },
+    {
+      "id": "georgia-11399",
+      "schoolSlug": "georgia",
+      "school": "Georgia",
+      "schoolLongName": "University of Georgia",
+      "name": "Zane Coppersmith",
+      "normalizedName": "zane coppersmith",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "GR",
+      "handedness": "R/R",
+      "jersey": "28",
+      "hometown": "Jupiter, Fla.",
+      "highSchool": "",
+      "previousSchool": "Stetson",
+      "hometownHighSchool": "Jupiter, Fla.",
+      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/zane-coppersmith/11399",
+      "imageUrl": "https://georgiadogs.com/images/2026/9/1/Coppersmith__Zane.JPG",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11399",
+      "sources": [
+        "Georgia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Zane Coppersmith looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "GR / R/R",
+        "detailBadges": [
+          "RHP",
+          "GR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Georgia Athletics roster"
+      }
+    },
+    {
+      "id": "georgia-11378",
       "schoolSlug": "georgia",
       "school": "Georgia",
       "schoolLongName": "University of Georgia",
@@ -4304,22 +2570,22 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
-      "classYear": "R-JR",
+      "classYear": "GR",
       "handedness": "R/R",
-      "jersey": "46",
+      "jersey": "32",
       "hometown": "Barnesville, Ga.",
       "highSchool": "Upson-Lee HS",
       "previousSchool": "Georgia Highlands College",
       "hometownHighSchool": "Barnesville, Ga. / Upson-Lee HS",
-      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/logan-spivey/10392",
-      "imageUrl": "https://georgiadogs.com/images/2025/8/19/Spivey__Logan.JPG",
+      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/logan-spivey/11378",
+      "imageUrl": "https://georgiadogs.com/images/2026/9/1/Spivey__Logan.JPG",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "10392",
+      "rosterBioId": "11378",
       "sources": [
         "Georgia Athletics roster"
       ],
@@ -4371,10 +2637,10 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "R-JR / R/R",
+        "metaLine": "GR / R/R",
         "detailBadges": [
           "RHP",
-          "R-JR",
+          "GR",
           "R/R",
           "Pitcher"
         ],
@@ -4382,94 +2648,40 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
       }
     },
     {
-      "id": "georgia-10347",
+      "id": "georgia-11375",
       "schoolSlug": "georgia",
       "school": "Georgia",
       "schoolLongName": "University of Georgia",
-      "name": "Thomas Ellisen",
-      "normalizedName": "thomas ellisen",
+      "name": "Jackson Peavy",
+      "normalizedName": "jackson peavy",
       "compositeRole": "Pitcher",
       "role": "Pitcher",
-      "position": "RHP",
+      "position": "LHP",
       "positionLong": "",
-      "classYear": "GR",
-      "handedness": "R/R",
-      "jersey": "47",
-      "hometown": "Kimberly, Wis.",
-      "highSchool": "",
-      "previousSchool": "UConn",
-      "hometownHighSchool": "Kimberly, Wis.",
-      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/thomas-ellisen/10347",
-      "imageUrl": "https://georgiadogs.com/images/2025/8/19/Ellison__Thomas.JPG",
+      "classYear": "SO",
+      "handedness": "L/L",
+      "jersey": "33",
+      "hometown": "Macon, Ga.",
+      "highSchool": "Peach County HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Macon, Ga. / Peach County HS",
+      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/jackson-peavy/11375",
+      "imageUrl": "https://georgiadogs.com/images/2026/9/1/Peavy__Jackson.JPG",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "10347",
+      "rosterBioId": "11375",
       "sources": [
-        "Georgia Athletics roster",
-        "Georgia cumulative stats"
+        "Georgia Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "10347",
-        "name": "Thomas Ellisen",
-        "normalizedName": "thomas ellisen",
-        "jersey": "47",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/thomas-ellisen/10347",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Ellison__Thomas.JPG",
-        "gamesPlayed": 11,
-        "gamesStarted": 1,
-        "appearances": 11,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 7.71,
-        "whip": 1.41,
-        "wins": 1,
-        "losses": 2,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 16.333333333333332,
-        "inningsPitchedDisplay": "16.1",
-        "hitsAllowed": 18,
-        "runsAllowed": 14,
-        "earnedRunsAllowed": 14,
-        "walksAllowed": 5,
-        "strikeouts": 17,
-        "doublesAllowed": 3,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 5,
-        "opponentsAtBats": 65,
-        "wildPitches": 1,
-        "hitBatters": 2,
-        "balks": 0,
-        "opponentsBattingAverage": 0.277,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "10347",
-        "name": "Thomas Ellisen",
-        "normalizedName": "thomas ellisen",
-        "jersey": "47",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/thomas-ellisen/10347",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Ellison__Thomas.JPG",
-        "gamesPlayed": 6,
-        "gamesStarted": 1,
-        "putouts": 2,
-        "assists": 2,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 4,
-        "caughtStealingBy": 1,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 4
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 17,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4477,40 +2689,216 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 48.79406307977737,
-          "Command": 48,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Thomas Ellisen looks like a RHP option who misses bats and throws enough strikes.",
+        "summary": "Jackson Peavy looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 7.71",
-          "WHIP 1.41",
-          "K/9 9.4"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.71"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.41"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "9.4"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "2.8"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "2.76"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "16.3"
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "SO / L/L",
+        "detailBadges": [
+          "LHP",
+          "SO",
+          "L/L",
+          "Pitcher"
+        ],
+        "sourceSummary": "Georgia Athletics roster"
+      }
+    },
+    {
+      "id": "georgia-11400",
+      "schoolSlug": "georgia",
+      "school": "Georgia",
+      "schoolLongName": "University of Georgia",
+      "name": "Jake Hanley",
+      "normalizedName": "jake hanley",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "UTIL",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "L/R",
+      "jersey": "34",
+      "hometown": "Mason, Ohio",
+      "highSchool": "",
+      "previousSchool": "Indiana",
+      "hometownHighSchool": "Mason, Ohio",
+      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/jake-hanley/11400",
+      "imageUrl": "https://georgiadogs.com/images/2026/9/1/Hanley__Jake.JPG",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11400",
+      "sources": [
+        "Georgia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Jake Hanley gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "JR / L/R",
+        "detailBadges": [
+          "UTIL",
+          "JR",
+          "L/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Georgia Athletics roster"
+      }
+    },
+    {
+      "id": "georgia-11372",
+      "schoolSlug": "georgia",
+      "school": "Georgia",
+      "schoolLongName": "University of Georgia",
+      "name": "Paul Farley",
+      "normalizedName": "paul farley",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "GR",
+      "handedness": "R/R",
+      "jersey": "35",
+      "hometown": "Kennesaw, Ga.",
+      "highSchool": "Mount Paran Christian School",
+      "previousSchool": "",
+      "hometownHighSchool": "Kennesaw, Ga. / Mount Paran Christian School",
+      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/paul-farley/11372",
+      "imageUrl": "https://georgiadogs.com/images/2026/9/1/Farley__Paul.JPG",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11372",
+      "sources": [
+        "Georgia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Paul Farley looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
           }
         ],
         "metaLine": "GR / R/R",
@@ -4520,7 +2908,447 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
           "R/R",
           "Pitcher"
         ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats"
+        "sourceSummary": "Georgia Athletics roster"
+      }
+    },
+    {
+      "id": "georgia-11401",
+      "schoolSlug": "georgia",
+      "school": "Georgia",
+      "schoolLongName": "University of Georgia",
+      "name": "Finn Edwards",
+      "normalizedName": "finn edwards",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "R/R",
+      "jersey": "37",
+      "hometown": "Bend, Ore.",
+      "highSchool": "",
+      "previousSchool": "Arizona State",
+      "hometownHighSchool": "Bend, Ore.",
+      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/finn-edwards/11401",
+      "imageUrl": "https://georgiadogs.com/images/2026/9/1/Edwards__Finn.JPG",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11401",
+      "sources": [
+        "Georgia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Finn Edwards looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Georgia Athletics roster"
+      }
+    },
+    {
+      "id": "georgia-11402",
+      "schoolSlug": "georgia",
+      "school": "Georgia",
+      "schoolLongName": "University of Georgia",
+      "name": "Connor Langdon",
+      "normalizedName": "connor langdon",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "",
+      "classYear": "FR",
+      "handedness": "L/L",
+      "jersey": "40",
+      "hometown": "Perry, Ga.",
+      "highSchool": "Perry HS",
+      "previousSchool": "",
+      "hometownHighSchool": "Perry, Ga. / Perry HS",
+      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/connor-langdon/11402",
+      "imageUrl": "https://georgiadogs.com/images/2026/9/1/Langdon__Connor.JPG",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11402",
+      "sources": [
+        "Georgia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Connor Langdon looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FR / L/L",
+        "detailBadges": [
+          "LHP",
+          "FR",
+          "L/L",
+          "Pitcher"
+        ],
+        "sourceSummary": "Georgia Athletics roster"
+      }
+    },
+    {
+      "id": "georgia-11376",
+      "schoolSlug": "georgia",
+      "school": "Georgia",
+      "schoolLongName": "University of Georgia",
+      "name": "Brad Pruett",
+      "normalizedName": "brad pruett",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "SR",
+      "handedness": "R/R",
+      "jersey": "42",
+      "hometown": "Corinth, Texas",
+      "highSchool": "",
+      "previousSchool": "East Carolina",
+      "hometownHighSchool": "Corinth, Texas",
+      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/brad-pruett/11376",
+      "imageUrl": "https://georgiadogs.com/images/2026/9/1/Pruett__Brad.JPG",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11376",
+      "sources": [
+        "Georgia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Brad Pruett looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Georgia Athletics roster"
+      }
+    },
+    {
+      "id": "georgia-11403",
+      "schoolSlug": "georgia",
+      "school": "Georgia",
+      "schoolLongName": "University of Georgia",
+      "name": "Matthew Cuccias",
+      "normalizedName": "matthew cuccias",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "SR",
+      "handedness": "R/R",
+      "jersey": "44",
+      "hometown": "Simi Valley, Calif.",
+      "highSchool": "",
+      "previousSchool": "Wichita State",
+      "hometownHighSchool": "Simi Valley, Calif.",
+      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/matthew-cuccias/11403",
+      "imageUrl": "https://georgiadogs.com/images/2026/9/1/Cuccias__Matthew.JPG",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11403",
+      "sources": [
+        "Georgia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Matthew Cuccias looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Georgia Athletics roster"
+      }
+    },
+    {
+      "id": "georgia-11404",
+      "schoolSlug": "georgia",
+      "school": "Georgia",
+      "schoolLongName": "University of Georgia",
+      "name": "Luke Howe",
+      "normalizedName": "luke howe",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "SO",
+      "handedness": "R/R",
+      "jersey": "49",
+      "hometown": "Woodland Hills, Calif.",
+      "highSchool": "",
+      "previousSchool": "Long Beach State",
+      "hometownHighSchool": "Woodland Hills, Calif.",
+      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/luke-howe/11404",
+      "imageUrl": "https://georgiadogs.com/images/2026/9/1/Howe__Luke.JPG",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11404",
+      "sources": [
+        "Georgia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Luke Howe looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "RHP",
+          "SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Georgia Athletics roster"
       }
     },
     {
@@ -4534,7 +3362,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
       "role": "Hitter",
       "position": "INF",
       "positionLong": "",
-      "classYear": "R-FR",
+      "classYear": "JR",
       "handedness": "R/R",
       "jersey": "50",
       "hometown": "Nashville, Tenn.",
@@ -4542,7 +3370,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
       "previousSchool": "",
       "hometownHighSchool": "Nashville, Tenn. / The Ensworth School",
       "profileUrl": "https://georgiadogs.com/sports/baseball/roster/alexander-sifford/10391",
-      "imageUrl": "https://georgiadogs.com/images/2025/8/19/Sifford__Alexander.JPG",
+      "imageUrl": "https://georgiadogs.com/images/2026/9/1/Sifford__Alexander.JPG",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -4601,10 +3429,10 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "R-FR / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "INF",
-          "R-FR",
+          "JR",
           "R/R",
           "Rostered"
         ],
@@ -4612,74 +3440,128 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
       }
     },
     {
-      "id": "georgia-10348",
+      "id": "georgia-11405",
       "schoolSlug": "georgia",
       "school": "Georgia",
       "schoolLongName": "University of Georgia",
-      "name": "Mason Kosowick",
-      "normalizedName": "mason kosowick",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
+      "name": "Jet Gilliam",
+      "normalizedName": "jet gilliam",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "OF",
       "positionLong": "",
-      "classYear": "GR",
-      "handedness": "N/A",
-      "jersey": "65",
-      "hometown": "Fort Worth, Texas",
+      "classYear": "SR",
+      "handedness": "R/R",
+      "jersey": "53",
+      "hometown": "Las Vegas, Nev.",
       "highSchool": "",
-      "previousSchool": "University of Texas Rio Grande Valley",
-      "hometownHighSchool": "Fort Worth, Texas",
-      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/mason-kosowick/10348",
-      "imageUrl": "https://georgiadogs.com/images/2025/8/19/Kosowick__Mason.JPG",
+      "previousSchool": "Utah",
+      "hometownHighSchool": "Las Vegas, Nev.",
+      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/jet-gilliam/11405",
+      "imageUrl": "https://georgiadogs.com/images/2026/9/1/Gilliam__Jet.JPG",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "10348",
+      "rosterBioId": "11405",
       "sources": [
-        "Georgia Athletics roster",
-        "Georgia cumulative stats"
+        "Georgia Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "10348",
-        "name": "Mason Kosowick",
-        "normalizedName": "mason kosowick",
-        "jersey": "65",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/mason-kosowick/10348",
-        "imageUrl": "https://georgiadogs.com/images/2025/8/19/Kosowick__Mason.JPG",
-        "gamesPlayed": 7,
-        "gamesStarted": 0,
-        "appearances": 7,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 7.2,
-        "whip": 1.8,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 5,
-        "inningsPitchedDisplay": "5.0",
-        "hitsAllowed": 2,
-        "runsAllowed": 4,
-        "earnedRunsAllowed": 4,
-        "walksAllowed": 7,
-        "strikeouts": 8,
-        "doublesAllowed": 0,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 16,
-        "wildPitches": 2,
-        "hitBatters": 3,
-        "balks": 0,
-        "opponentsBattingAverage": 0.125,
-        "walksHits": 0
-      },
+      "pitchingStats": null,
       "fieldingStats": null,
       "evaluation": {
-        "score": 19,
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Jet Gilliam gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "OF",
+          "SR",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Georgia Athletics roster"
+      }
+    },
+    {
+      "id": "georgia-11406",
+      "schoolSlug": "georgia",
+      "school": "Georgia",
+      "schoolLongName": "University of Georgia",
+      "name": "Cristofer Cespedes",
+      "normalizedName": "cristofer cespedes",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "R/R",
+      "jersey": "78",
+      "hometown": "Haverstraw, N.Y.",
+      "highSchool": "",
+      "previousSchool": "Maryland",
+      "hometownHighSchool": "Haverstraw, N.Y.",
+      "profileUrl": "https://georgiadogs.com/sports/baseball/roster/cristofer-cespedes/11406",
+      "imageUrl": "https://georgiadogs.com/images/2026/9/1/Cespedes__Cristofer.JPG",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "11406",
+      "sources": [
+        "Georgia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4687,32 +3569,32 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 94.54545454545455,
-          "Command": 2.8571428571428603,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Mason Kosowick looks like a RHP option who misses bats.",
+        "summary": "Cristofer Cespedes looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 7.20",
-          "WHIP 1.80",
-          "K/9 14.4"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.20"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.80"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "14.4"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "12.6"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
@@ -4720,344 +3602,68 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
           },
           {
             "label": "IP",
-            "value": "5.0"
+            "value": "0.0"
           }
         ],
-        "metaLine": "GR / N/A",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "RHP",
-          "GR",
-          "N/A",
+          "JR",
+          "R/R",
           "Pitcher"
         ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats"
+        "sourceSummary": "Georgia Athletics roster"
       }
     }
   ],
   "playerBoard": {
     "source": "Georgia Athletics roster + cumulative stats / ESPN roster",
     "note": "This Georgia-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but Georgia's public ESPN roster feed did not line up cleanly with the current school-site roster.",
-    "totalPlayers": 33,
+    "totalPlayers": 39,
     "roleCounts": {
       "Hitter": 13,
-      "Pitcher": 20
+      "Pitcher": 26
     },
     "players": [
       {
-        "id": "georgia-10323",
-        "name": "Ryan Wynn",
+        "id": "georgia-11379",
+        "name": "Graham Mastros",
         "school": "Georgia",
         "role": "Hitter",
-        "position": "INF",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 53,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Ryan Wynn profiles as a INF piece who brings real extra-base damage.",
-        "summaryMetrics": [
-          "AVG .323",
-          "OBP .377",
-          "SLG .638"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".323"
-          },
-          {
-            "label": "OBP",
-            "value": ".377"
-          },
-          {
-            "label": "SLG",
-            "value": ".638"
-          },
-          {
-            "label": "HR",
-            "value": "9"
-          },
-          {
-            "label": "RBI",
-            "value": "37"
-          },
-          {
-            "label": "SB",
-            "value": "4"
-          }
-        ],
-        "components": {
-          "On-base": 53.88888888888887,
-          "Power": 83.68421052631581,
-          "Contact": 64.375,
-          "Discipline": 11.111111111111107,
-          "Speed": 13.333333333333334
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "INF",
-          "JR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Georgia Athletics roster",
-          "Georgia cumulative stats"
-        ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats",
-        "schoolSlug": "georgia",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/ryan-wynn/10323",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "georgia-8933",
-        "name": "Tre Phelps",
-        "school": "Georgia",
-        "role": "Hitter",
-        "position": "INF/OF",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 75,
-        "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
-        },
-        "summary": "Tre Phelps profiles as a INF/OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .348",
-          "OBP .468",
-          "SLG .628"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".348"
-          },
-          {
-            "label": "OBP",
-            "value": ".468"
-          },
-          {
-            "label": "SLG",
-            "value": ".628"
-          },
-          {
-            "label": "HR",
-            "value": "19"
-          },
-          {
-            "label": "RBI",
-            "value": "59"
-          },
-          {
-            "label": "SB",
-            "value": "8"
-          }
-        ],
-        "components": {
-          "On-base": 100,
-          "Power": 81.05263157894737,
-          "Contact": 79.99999999999999,
-          "Discipline": 35.748792270531396,
-          "Speed": 26.666666666666668
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "INF/OF",
-          "JR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Georgia Athletics roster",
-          "Georgia cumulative stats"
-        ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats",
-        "schoolSlug": "georgia",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/tre-phelps/8933",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "georgia-8944",
-        "name": "Ryan Black",
-        "school": "Georgia",
-        "role": "Hitter",
-        "position": "INF",
+        "position": "UTIL",
         "classYear": "SR",
-        "handedness": "L/R",
-        "score": 54,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Ryan Black profiles as a INF piece who gets on base at a high clip.",
-        "summaryMetrics": [
-          "AVG .300",
-          "OBP .418",
-          "SLG .505"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".300"
-          },
-          {
-            "label": "OBP",
-            "value": ".418"
-          },
-          {
-            "label": "SLG",
-            "value": ".505"
-          },
-          {
-            "label": "HR",
-            "value": "9"
-          },
-          {
-            "label": "RBI",
-            "value": "34"
-          },
-          {
-            "label": "SB",
-            "value": "5"
-          }
-        ],
-        "components": {
-          "On-base": 76.66666666666664,
-          "Power": 48.684210526315795,
-          "Contact": 49.999999999999986,
-          "Discipline": 46.66666666666666,
-          "Speed": 16.666666666666664
-        },
-        "metaLine": "SR / L/R",
-        "detailBadges": [
-          "INF",
-          "SR",
-          "L/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Georgia Athletics roster",
-          "Georgia cumulative stats"
-        ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats",
-        "schoolSlug": "georgia",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/ryan-black/8944",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "georgia-8957",
-        "name": "Daniel Jackson",
-        "school": "Georgia",
-        "role": "Hitter",
-        "position": "C/OF",
-        "classYear": "JR",
         "handedness": "R/R",
-        "score": 92,
-        "fit": {
-          "label": "Priority",
-          "className": "fit-priority"
-        },
-        "summary": "Daniel Jackson profiles as a C/OF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .379",
-          "OBP .473",
-          "SLG .803"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".379"
-          },
-          {
-            "label": "OBP",
-            "value": ".473"
-          },
-          {
-            "label": "SLG",
-            "value": ".803"
-          },
-          {
-            "label": "HR",
-            "value": "32"
-          },
-          {
-            "label": "RBI",
-            "value": "87"
-          },
-          {
-            "label": "SB",
-            "value": "26"
-          }
-        ],
-        "components": {
-          "On-base": 100,
-          "Power": 100,
-          "Contact": 99.375,
-          "Discipline": 54.166666666666664,
-          "Speed": 86.66666666666667
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "C/OF",
-          "JR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Georgia Athletics roster",
-          "Georgia cumulative stats"
-        ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats",
-        "schoolSlug": "georgia",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/daniel-jackson/8957",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "georgia-10324",
-        "name": "Michael O'Shaughnessy",
-        "school": "Georgia",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "SR",
-        "handedness": "L/R",
-        "score": 53,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Michael O'Shaughnessy profiles as a INF piece who brings real extra-base damage.",
+        "summary": "Graham Mastros gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .280",
-          "OBP .395",
-          "SLG .661"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".280"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".395"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".661"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "20"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "55"
+            "value": "0"
           },
           {
             "label": "SB",
@@ -5065,631 +3671,486 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
           }
         ],
         "components": {
-          "On-base": 63.888888888888886,
-          "Power": 89.73684210526318,
-          "Contact": 37.500000000000014,
-          "Discipline": 14.262023217247094,
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "SR / L/R",
+        "metaLine": "SR / R/R",
         "detailBadges": [
-          "INF",
+          "UTIL",
           "SR",
-          "L/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Georgia Athletics roster",
-          "Georgia cumulative stats"
-        ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats",
-        "schoolSlug": "georgia",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/michael-oshaughnessy/10324",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "georgia-8965",
-        "name": "Justin Byrd",
-        "school": "Georgia",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "R-JR",
-        "handedness": "R/R",
-        "score": 27,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Justin Byrd looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
-        "summaryMetrics": [
-          "ERA 3.73",
-          "WHIP 0.94",
-          "K/9 11.1"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.73"
-          },
-          {
-            "label": "WHIP",
-            "value": "0.94"
-          },
-          {
-            "label": "K/9",
-            "value": "11.1"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.87"
-          },
-          {
-            "label": "IP",
-            "value": "62.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 64.16827852998067,
-          "Command": 90,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "R-JR",
           "R/R",
-          "Pitcher"
+          "Rostered"
         ],
         "leaderboards": [
-          "Georgia Athletics roster",
-          "Georgia cumulative stats"
+          "Georgia Athletics roster"
         ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats",
+        "sourceSummary": "Georgia Athletics roster",
         "schoolSlug": "georgia",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/justin-byrd/8965",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/graham-mastros/11379",
         "espnAthleteId": ""
       },
       {
-        "id": "georgia-10325",
-        "name": "Jack Arcamone",
-        "school": "Georgia",
-        "role": "Hitter",
-        "position": "C/OF",
-        "classYear": "JR",
-        "handedness": "L/R",
-        "score": 40,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jack Arcamone gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .302",
-          "OBP .380",
-          "SLG .465"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".302"
-          },
-          {
-            "label": "OBP",
-            "value": ".380"
-          },
-          {
-            "label": "SLG",
-            "value": ".465"
-          },
-          {
-            "label": "HR",
-            "value": "4"
-          },
-          {
-            "label": "RBI",
-            "value": "21"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
-        "components": {
-          "On-base": 55.55555555555555,
-          "Power": 38.15789473684211,
-          "Contact": 51.24999999999999,
-          "Discipline": 20.51282051282051,
-          "Speed": 3.3333333333333335
-        },
-        "metaLine": "JR / L/R",
-        "detailBadges": [
-          "C/OF",
-          "JR",
-          "L/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Georgia Athletics roster",
-          "Georgia cumulative stats"
-        ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats",
-        "schoolSlug": "georgia",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/jack-arcamone/10325",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "georgia-10326",
-        "name": "Rylan Lujo",
+        "id": "georgia-11380",
+        "name": "Casey McCoy",
         "school": "Georgia",
         "role": "Hitter",
         "position": "INF",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 77,
+        "score": 0,
         "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
+          "label": "Depth",
+          "className": "fit-depth"
         },
-        "summary": "Rylan Lujo profiles as a INF piece who gets on base at a high clip and brings real extra-base damage and adds running-game pressure.",
+        "summary": "Casey McCoy gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .357",
-          "OBP .427",
-          "SLG .629"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".357"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".427"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".629"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "14"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "49"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "13"
+            "value": "0"
           }
         ],
         "components": {
-          "On-base": 81.66666666666666,
-          "Power": 81.31578947368422,
-          "Contact": 85.62499999999999,
-          "Discipline": 73.73737373737373,
-          "Speed": 43.333333333333336
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
         "metaLine": "SO / R/R",
         "detailBadges": [
           "INF",
           "SO",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "Georgia Athletics roster",
-          "Georgia cumulative stats"
+          "Georgia Athletics roster"
         ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats",
+        "sourceSummary": "Georgia Athletics roster",
         "schoolSlug": "georgia",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/rylan-lujo/10326",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/casey-mccoy/11380",
         "espnAthleteId": ""
       },
       {
-        "id": "georgia-8895",
-        "name": "Kolby Branch",
+        "id": "georgia-11381",
+        "name": "Gio Colasante",
+        "school": "Georgia",
+        "role": "Pitcher",
+        "position": "INF/P",
+        "classYear": "GR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Gio Colasante looks like a INF/P option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "GR / R/R",
+        "detailBadges": [
+          "INF/P",
+          "GR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Georgia Athletics roster"
+        ],
+        "sourceSummary": "Georgia Athletics roster",
+        "schoolSlug": "georgia",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/gio-colasante/11381",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "georgia-11382",
+        "name": "Mathew Farner",
         "school": "Georgia",
         "role": "Hitter",
         "position": "INF",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 56,
+        "score": 0,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
-        "summary": "Kolby Branch profiles as a INF piece who brings real extra-base damage.",
+        "summary": "Mathew Farner gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .291",
-          "OBP .394",
-          "SLG .628"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".291"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".394"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".628"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "20"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "60"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "4"
+            "value": "0"
           }
         ],
         "components": {
-          "On-base": 63.33333333333333,
-          "Power": 81.05263157894737,
-          "Contact": 44.374999999999986,
-          "Discipline": 39.50617283950617,
-          "Speed": 13.333333333333334
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
         "metaLine": "SR / R/R",
         "detailBadges": [
           "INF",
           "SR",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "Georgia Athletics roster",
-          "Georgia cumulative stats"
+          "Georgia Athletics roster"
         ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats",
+        "sourceSummary": "Georgia Athletics roster",
         "schoolSlug": "georgia",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/kolby-branch/8895",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/mathew-farner/11382",
         "espnAthleteId": ""
       },
       {
-        "id": "georgia-10327",
-        "name": "Matt Scott",
+        "id": "georgia-11383",
+        "name": "Mikey Bell",
+        "school": "Georgia",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "GR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Mikey Bell gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "GR / R/R",
+        "detailBadges": [
+          "INF",
+          "GR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Georgia Athletics roster"
+        ],
+        "sourceSummary": "Georgia Athletics roster",
+        "schoolSlug": "georgia",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/mikey-bell/11383",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "georgia-11384",
+        "name": "Brock Rein",
         "school": "Georgia",
         "role": "Pitcher",
-        "position": "RHP",
+        "position": "UTIL/P",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Brock Rein looks like a UTIL/P option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "UTIL/P",
+          "FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Georgia Athletics roster"
+        ],
+        "sourceSummary": "Georgia Athletics roster",
+        "schoolSlug": "georgia",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/brock-rein/11384",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "georgia-11369",
+        "name": "Jack Arcamone",
+        "school": "Georgia",
+        "role": "Hitter",
+        "position": "C/OF",
         "classYear": "SR",
-        "handedness": "R/R",
-        "score": 18,
+        "handedness": "L/R",
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Matt Scott looks like a RHP option who misses bats.",
+        "summary": "Jack Arcamone gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 4.22",
-          "WHIP 1.32",
-          "K/9 11.5"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
-            "label": "ERA",
-            "value": "4.22"
+            "label": "AVG",
+            "value": "--"
           },
           {
-            "label": "WHIP",
-            "value": "1.32"
+            "label": "OBP",
+            "value": "--"
           },
           {
-            "label": "K/9",
-            "value": "11.5"
+            "label": "SLG",
+            "value": "--"
           },
           {
-            "label": "BB/9",
-            "value": "4.5"
+            "label": "HR",
+            "value": "0"
           },
           {
-            "label": "HR/9",
-            "value": "1.96"
+            "label": "RBI",
+            "value": "0"
           },
           {
-            "label": "IP",
-            "value": "59.7"
+            "label": "SB",
+            "value": "0"
           }
         ],
         "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 67.85170137125445,
-          "Command": 30.666666666666664,
-          "Damage suppression": 0
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "metaLine": "SR / R/R",
+        "metaLine": "SR / L/R",
         "detailBadges": [
-          "RHP",
+          "C/OF",
           "SR",
-          "R/R",
-          "Pitcher"
+          "L/R",
+          "Rostered"
         ],
         "leaderboards": [
-          "Georgia Athletics roster",
-          "Georgia cumulative stats"
+          "Georgia Athletics roster"
         ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats",
+        "sourceSummary": "Georgia Athletics roster",
         "schoolSlug": "georgia",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/matt-scott/10327",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/jack-arcamone/11369",
         "espnAthleteId": ""
       },
       {
-        "id": "georgia-10328",
-        "name": "Bryce Calloway",
-        "school": "Georgia",
-        "role": "Pitcher",
-        "position": "1B/RHP",
-        "classYear": "GR",
-        "handedness": "R/R",
-        "score": 23,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Bryce Calloway looks like a 1B/RHP option who limits runs and misses bats.",
-        "summaryMetrics": [
-          "ERA 0.00",
-          "WHIP 2.00",
-          "K/9 18.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "0.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.00"
-          },
-          {
-            "label": "K/9",
-            "value": "18.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "9.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "1.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 100,
-          "Command": 20,
-          "Damage suppression": 0
-        },
-        "metaLine": "GR / R/R",
-        "detailBadges": [
-          "1B/RHP",
-          "GR",
-          "R/R",
-          "Two-Way"
-        ],
-        "leaderboards": [
-          "Georgia Athletics roster",
-          "Georgia cumulative stats"
-        ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats",
-        "schoolSlug": "georgia",
-        "compositeRole": "Two-Way",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/bryce-calloway/10328",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "georgia-10329",
-        "name": "Caden Aoki",
-        "school": "Georgia",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "GR",
-        "handedness": "R/R",
-        "score": 23,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Caden Aoki looks like a RHP option who misses bats and throws enough strikes.",
-        "summaryMetrics": [
-          "ERA 4.08",
-          "WHIP 1.31",
-          "K/9 11.5"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.08"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.31"
-          },
-          {
-            "label": "K/9",
-            "value": "11.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.8"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.47"
-          },
-          {
-            "label": "IP",
-            "value": "86.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 68.28752642706131,
-          "Command": 61.48148148148147,
-          "Damage suppression": 0
-        },
-        "metaLine": "GR / R/R",
-        "detailBadges": [
-          "RHP",
-          "GR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Georgia Athletics roster",
-          "Georgia cumulative stats"
-        ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats",
-        "schoolSlug": "georgia",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/caden-aoki/10329",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "georgia-10331",
-        "name": "Kenny Ishikawa",
-        "school": "Georgia",
-        "role": "Pitcher",
-        "position": "LHP/OF",
-        "classYear": "SO",
-        "handedness": "L/L",
-        "score": 16,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Kenny Ishikawa looks like a LHP/OF option who misses bats.",
-        "summaryMetrics": [
-          "ERA 14.44",
-          "WHIP 2.58",
-          "K/9 12.6"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "14.44"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.58"
-          },
-          {
-            "label": "K/9",
-            "value": "12.6"
-          },
-          {
-            "label": "BB/9",
-            "value": "10.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.88"
-          },
-          {
-            "label": "IP",
-            "value": "14.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 77.8012684989429,
-          "Command": 5,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / L/L",
-        "detailBadges": [
-          "LHP/OF",
-          "SO",
-          "L/L",
-          "Two-Way"
-        ],
-        "leaderboards": [
-          "Georgia Athletics roster",
-          "Georgia cumulative stats"
-        ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats",
-        "schoolSlug": "georgia",
-        "compositeRole": "Two-Way",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/kenny-ishikawa/10331",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "georgia-8964",
-        "name": "Zach Brown",
+        "id": "georgia-11385",
+        "name": "Jason Flores",
         "school": "Georgia",
         "role": "Pitcher",
         "position": "RHP",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 20,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Zach Brown looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
+        "summary": "Jason Flores looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 4.00",
-          "WHIP 1.14",
-          "K/9 9.5"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.00"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.14"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "9.5"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "2.3"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "2.00"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "36.0"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 50,
-          "Command": 64.44444444444444,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
         "metaLine": "JR / R/R",
@@ -5700,86 +4161,696 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
           "Pitcher"
         ],
         "leaderboards": [
-          "Georgia Athletics roster",
-          "Georgia cumulative stats"
+          "Georgia Athletics roster"
         ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats",
+        "sourceSummary": "Georgia Athletics roster",
         "schoolSlug": "georgia",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/zach-brown/8964",
+        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/jason-flores/11385",
         "espnAthleteId": ""
       },
       {
-        "id": "georgia-10333",
-        "name": "Teddy Brennan",
+        "id": "georgia-11386",
+        "name": "Riley Goodman",
         "school": "Georgia",
         "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "GR",
-        "handedness": "L/L",
-        "score": 21,
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Teddy Brennan looks like a LHP option who misses bats.",
+        "summary": "Riley Goodman looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 13.50",
-          "WHIP 3.30",
-          "K/9 18.9"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "13.50"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "3.30"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "18.9"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "16.2"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "2.70"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "3.3"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 100,
-          "Command": 3.333333333333335,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "GR / L/L",
+        "metaLine": "JR / R/R",
         "detailBadges": [
-          "LHP",
-          "GR",
+          "RHP",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Georgia Athletics roster"
+        ],
+        "sourceSummary": "Georgia Athletics roster",
+        "schoolSlug": "georgia",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/riley-goodman/11386",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "georgia-11387",
+        "name": "Matthew Sharman",
+        "school": "Georgia",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Matthew Sharman looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Georgia Athletics roster"
+        ],
+        "sourceSummary": "Georgia Athletics roster",
+        "schoolSlug": "georgia",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/matthew-sharman/11387",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "georgia-11388",
+        "name": "Hayden Blair",
+        "school": "Georgia",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "JR",
+        "handedness": "L/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Hayden Blair gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "JR / L/R",
+        "detailBadges": [
+          "C",
+          "JR",
+          "L/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Georgia Athletics roster"
+        ],
+        "sourceSummary": "Georgia Athletics roster",
+        "schoolSlug": "georgia",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/hayden-blair/11388",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "georgia-11389",
+        "name": "Miles Young",
+        "school": "Georgia",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Miles Young gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "INF",
+          "FR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Georgia Athletics roster"
+        ],
+        "sourceSummary": "Georgia Athletics roster",
+        "schoolSlug": "georgia",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/miles-young/11389",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "georgia-11390",
+        "name": "Nolan Stevens",
+        "school": "Georgia",
+        "role": "Pitcher",
+        "position": "OF/P",
+        "classYear": "SR",
+        "handedness": "L/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Nolan Stevens looks like a OF/P option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / L/L",
+        "detailBadges": [
+          "OF/P",
+          "SR",
           "L/L",
           "Pitcher"
         ],
         "leaderboards": [
-          "Georgia Athletics roster",
-          "Georgia cumulative stats"
+          "Georgia Athletics roster"
         ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats",
+        "sourceSummary": "Georgia Athletics roster",
         "schoolSlug": "georgia",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/teddy-brennan/10333",
+        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/nolan-stevens/11390",
         "espnAthleteId": ""
       },
       {
-        "id": "georgia-10334",
+        "id": "georgia-11391",
+        "name": "Wells Grisham",
+        "school": "Georgia",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "FR",
+        "handedness": "L/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Wells Grisham looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / L/L",
+        "detailBadges": [
+          "LHP",
+          "FR",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Georgia Athletics roster"
+        ],
+        "sourceSummary": "Georgia Athletics roster",
+        "schoolSlug": "georgia",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/wells-grisham/11391",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "georgia-11392",
+        "name": "Rodney Peña",
+        "school": "Georgia",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Rodney Peña looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Georgia Athletics roster"
+        ],
+        "sourceSummary": "Georgia Athletics roster",
+        "schoolSlug": "georgia",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/rodney-pea/11392",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "georgia-11371",
+        "name": "Zach Brown",
+        "school": "Georgia",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Zach Brown looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Georgia Athletics roster"
+        ],
+        "sourceSummary": "Georgia Athletics roster",
+        "schoolSlug": "georgia",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/zach-brown/11371",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "georgia-11393",
+        "name": "Landon Schutte",
+        "school": "Georgia",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "FR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Landon Schutte looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / R/R",
+        "detailBadges": [
+          "RHP",
+          "FR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Georgia Athletics roster"
+        ],
+        "sourceSummary": "Georgia Athletics roster",
+        "schoolSlug": "georgia",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/landon-schutte/11393",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "georgia-11394",
+        "name": "Naulivou Lauaki, Jr.",
+        "school": "Georgia",
+        "role": "Pitcher",
+        "position": "UTIL/P",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Naulivou Lauaki, Jr. looks like a UTIL/P option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "UTIL/P",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Georgia Athletics roster"
+        ],
+        "sourceSummary": "Georgia Athletics roster",
+        "schoolSlug": "georgia",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/naulivou-lauaki-jr/11394",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "georgia-11370",
         "name": "Andrew Behnke",
         "school": "Georgia",
         "role": "Pitcher",
@@ -5843,230 +4914,23 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "sourceSummary": "Georgia Athletics roster",
         "schoolSlug": "georgia",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/andrew-behnke/10334",
+        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/andrew-behnke/11370",
         "espnAthleteId": ""
       },
       {
-        "id": "georgia-10335",
+        "id": "georgia-11374",
         "name": "Joe Nottingham",
         "school": "Georgia",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 22,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Joe Nottingham looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 4.73",
-          "WHIP 1.28",
-          "K/9 12.8"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.73"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.28"
-          },
-          {
-            "label": "K/9",
-            "value": "12.8"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.7"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.35"
-          },
-          {
-            "label": "IP",
-            "value": "13.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 80.22727272727272,
-          "Command": 34.285714285714285,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Georgia Athletics roster",
-          "Georgia cumulative stats"
-        ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats",
-        "schoolSlug": "georgia",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/joe-nottingham/10335",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "georgia-10336",
-        "name": "Jordy Oriach",
-        "school": "Georgia",
-        "role": "Hitter",
-        "position": "UTIL",
-        "classYear": "SR",
-        "handedness": "L/L",
-        "score": 63,
-        "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
-        },
-        "summary": "Jordy Oriach profiles as a UTIL piece who gets on base at a high clip and controls at-bats.",
-        "summaryMetrics": [
-          "AVG .297",
-          "OBP .428",
-          "SLG .541"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".297"
-          },
-          {
-            "label": "OBP",
-            "value": ".428"
-          },
-          {
-            "label": "SLG",
-            "value": ".541"
-          },
-          {
-            "label": "HR",
-            "value": "7"
-          },
-          {
-            "label": "RBI",
-            "value": "28"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 82.22222222222221,
-          "Power": 58.15789473684212,
-          "Contact": 48.12499999999999,
-          "Discipline": 88.88888888888889,
-          "Speed": 0
-        },
-        "metaLine": "SR / L/L",
-        "detailBadges": [
-          "UTIL",
-          "SR",
-          "L/L",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Georgia Athletics roster",
-          "Georgia cumulative stats"
-        ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats",
-        "schoolSlug": "georgia",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/jordy-oriach/10336",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "georgia-10337",
-        "name": "Henry Allen",
-        "school": "Georgia",
-        "role": "Hitter",
-        "position": "UTIL",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 71,
-        "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
-        },
-        "summary": "Henry Allen profiles as a UTIL piece who gets on base at a high clip and brings real extra-base damage.",
-        "summaryMetrics": [
-          "AVG .321",
-          "OBP .443",
-          "SLG .635"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".321"
-          },
-          {
-            "label": "OBP",
-            "value": ".443"
-          },
-          {
-            "label": "SLG",
-            "value": ".635"
-          },
-          {
-            "label": "HR",
-            "value": "13"
-          },
-          {
-            "label": "RBI",
-            "value": "41"
-          },
-          {
-            "label": "SB",
-            "value": "3"
-          }
-        ],
-        "components": {
-          "On-base": 90.55555555555554,
-          "Power": 82.89473684210527,
-          "Contact": 63.125,
-          "Discipline": 57.54985754985753,
-          "Speed": 10
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "UTIL",
-          "SO",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Georgia Athletics roster",
-          "Georgia cumulative stats"
-        ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats",
-        "schoolSlug": "georgia",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/henry-allen/10337",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "georgia-10338",
-        "name": "Cole Johnson",
-        "school": "Georgia",
-        "role": "Pitcher",
-        "position": "OF/LHP",
-        "classYear": "FR",
-        "handedness": "L/L",
         "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Cole Johnson looks like a OF/LHP option who throws enough strikes.",
+        "summary": "Joe Nottingham looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -6105,73 +4969,72 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "FR / L/L",
+        "metaLine": "SO / R/R",
         "detailBadges": [
-          "OF/LHP",
-          "FR",
-          "L/L",
+          "RHP",
+          "SO",
+          "R/R",
           "Pitcher"
         ],
         "leaderboards": [
-          "Georgia Athletics roster",
-          "Georgia cumulative stats"
+          "Georgia Athletics roster"
         ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats",
+        "sourceSummary": "Georgia Athletics roster",
         "schoolSlug": "georgia",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/cole-johnson/10338",
+        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/joe-nottingham/11374",
         "espnAthleteId": ""
       },
       {
-        "id": "georgia-10340",
-        "name": "Dylan Vigue",
+        "id": "georgia-11395",
+        "name": "Cooper Walls",
         "school": "Georgia",
         "role": "Pitcher",
         "position": "RHP",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 16,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Dylan Vigue looks like a RHP option who misses bats.",
+        "summary": "Cooper Walls looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 4.43",
-          "WHIP 1.37",
-          "K/9 11.0"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.43"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.37"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "11.0"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "5.1"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "0.71"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "63.0"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 63.63636363636363,
-          "Command": 22.77777777777778,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
         "metaLine": "JR / R/R",
@@ -6182,54 +5045,53 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
           "Pitcher"
         ],
         "leaderboards": [
-          "Georgia Athletics roster",
-          "Georgia cumulative stats"
+          "Georgia Athletics roster"
         ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats",
+        "sourceSummary": "Georgia Athletics roster",
         "schoolSlug": "georgia",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/dylan-vigue/10340",
+        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/cooper-walls/11395",
         "espnAthleteId": ""
       },
       {
-        "id": "georgia-8958",
-        "name": "Brennan Hudson",
+        "id": "georgia-11368",
+        "name": "Henry Allen",
         "school": "Georgia",
         "role": "Hitter",
-        "position": "C/INF",
-        "classYear": "SR",
-        "handedness": "L/R",
-        "score": 76,
+        "position": "UTIL",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 0,
         "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
+          "label": "Depth",
+          "className": "fit-depth"
         },
-        "summary": "Brennan Hudson profiles as a C/INF piece who gets on base at a high clip and brings real extra-base damage.",
+        "summary": "Henry Allen gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .294",
-          "OBP .466",
-          "SLG .730"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".294"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".466"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".730"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "22"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "51"
+            "value": "0"
           },
           {
             "label": "SB",
@@ -6237,482 +5099,67 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
           }
         ],
         "components": {
-          "On-base": 100,
-          "Power": 100,
-          "Contact": 46.249999999999986,
-          "Discipline": 71.98067632850241,
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "SR / L/R",
-        "detailBadges": [
-          "C/INF",
-          "SR",
-          "L/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Georgia Athletics roster",
-          "Georgia cumulative stats"
-        ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats",
-        "schoolSlug": "georgia",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/brennan-hudson/8958",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "georgia-10341",
-        "name": "Grant Edwards",
-        "school": "Georgia",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "GR",
-        "handedness": "R/R",
-        "score": 8,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Grant Edwards gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 5.65",
-          "WHIP 1.26",
-          "K/9 6.9"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.65"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.26"
-          },
-          {
-            "label": "K/9",
-            "value": "6.9"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.8"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.26"
-          },
-          {
-            "label": "IP",
-            "value": "14.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 26.42706131078224,
-          "Command": 16.666666666666664,
-          "Damage suppression": 0
-        },
-        "metaLine": "GR / R/R",
-        "detailBadges": [
-          "RHP",
-          "GR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Georgia Athletics roster",
-          "Georgia cumulative stats"
-        ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats",
-        "schoolSlug": "georgia",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/grant-edwards/10341",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "georgia-10342",
-        "name": "Jackson Peavy",
-        "school": "Georgia",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "FR",
-        "handedness": "L/L",
-        "score": 15,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jackson Peavy looks like a LHP option who limits runs and misses bats and keeps traffic under control.",
-        "summaryMetrics": [
-          "ERA 0.00",
-          "WHIP 0.86",
-          "K/9 11.6"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "0.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "0.86"
-          },
-          {
-            "label": "K/9",
-            "value": "11.6"
-          },
-          {
-            "label": "BB/9",
-            "value": "7.7"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "2.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 68.83116883116884,
-          "Command": 10.000000000000005,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / L/L",
-        "detailBadges": [
-          "LHP",
-          "FR",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Georgia Athletics roster",
-          "Georgia cumulative stats"
-        ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats",
-        "schoolSlug": "georgia",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/jackson-peavy/10342",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "georgia-10343",
-        "name": "Caleb Jameson",
-        "school": "Georgia",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "R-JR",
-        "handedness": "L/L",
-        "score": 33,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Caleb Jameson looks like a LHP option who misses bats and throws enough strikes.",
-        "summaryMetrics": [
-          "ERA 6.11",
-          "WHIP 1.47",
-          "K/9 13.2"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "6.11"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.47"
-          },
-          {
-            "label": "K/9",
-            "value": "13.2"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "2.04"
-          },
-          {
-            "label": "IP",
-            "value": "17.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 84.04802744425385,
-          "Command": 100,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-JR / L/L",
-        "detailBadges": [
-          "LHP",
-          "R-JR",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Georgia Athletics roster",
-          "Georgia cumulative stats"
-        ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats",
-        "schoolSlug": "georgia",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/caleb-jameson/10343",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "georgia-8921",
-        "name": "Paul Farley",
-        "school": "Georgia",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "R-SO",
-        "handedness": "R/R",
-        "score": 15,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Paul Farley looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 4.98",
-          "WHIP 1.62",
-          "K/9 9.6"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.98"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.62"
-          },
-          {
-            "label": "K/9",
-            "value": "9.6"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.34"
-          },
-          {
-            "label": "IP",
-            "value": "47.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 50.67698259187622,
-          "Command": 27.619047619047628,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "R-SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Georgia Athletics roster",
-          "Georgia cumulative stats"
-        ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats",
-        "schoolSlug": "georgia",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/paul-farley/8921",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "georgia-10344",
-        "name": "Joey Volchko",
-        "school": "Georgia",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 18,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Joey Volchko looks like a RHP option who limits runs and misses bats.",
-        "summaryMetrics": [
-          "ERA 3.68",
-          "WHIP 1.34",
-          "K/9 11.2"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.68"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.34"
-          },
-          {
-            "label": "K/9",
-            "value": "11.2"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.3"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.76"
-          },
-          {
-            "label": "IP",
-            "value": "95.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 65.7660521296885,
-          "Command": 31.739130434782613,
-          "Damage suppression": 0
-        },
         "metaLine": "JR / R/R",
         "detailBadges": [
-          "RHP",
+          "UTIL",
           "JR",
           "R/R",
-          "Pitcher"
+          "Rostered"
         ],
         "leaderboards": [
-          "Georgia Athletics roster",
-          "Georgia cumulative stats"
+          "Georgia Athletics roster"
         ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats",
+        "sourceSummary": "Georgia Athletics roster",
         "schoolSlug": "georgia",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/joey-volchko/10344",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/henry-allen/11368",
         "espnAthleteId": ""
       },
       {
-        "id": "georgia-10345",
-        "name": "Brad Pruett",
-        "school": "Georgia",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 20,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Brad Pruett looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 8.22",
-          "WHIP 2.22",
-          "K/9 14.1"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "8.22"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.22"
-          },
-          {
-            "label": "K/9",
-            "value": "14.1"
-          },
-          {
-            "label": "BB/9",
-            "value": "9.4"
-          },
-          {
-            "label": "HR/9",
-            "value": "2.35"
-          },
-          {
-            "label": "IP",
-            "value": "7.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 91.699604743083,
-          "Command": 10,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Georgia Athletics roster",
-          "Georgia cumulative stats"
-        ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats",
-        "schoolSlug": "georgia",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/brad-pruett/10345",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "georgia-10346",
-        "name": "Cole Koniarsky",
+        "id": "georgia-11373",
+        "name": "Cole Johnson",
         "school": "Georgia",
         "role": "Hitter",
         "position": "OF",
-        "classYear": "GR",
-        "handedness": "R/R",
-        "score": 33,
+        "classYear": "SO",
+        "handedness": "L/L",
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Cole Koniarsky gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Cole Johnson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .300",
-          "OBP .353",
-          "SLG .433"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".300"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".353"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".433"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "1"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "4"
+            "value": "0"
           },
           {
             "label": "SB",
@@ -6720,36 +5167,307 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
           }
         ],
         "components": {
-          "On-base": 40.555555555555536,
-          "Power": 29.73684210526316,
-          "Contact": 49.999999999999986,
-          "Discipline": 22.22222222222222,
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "GR / R/R",
+        "metaLine": "SO / L/L",
         "detailBadges": [
           "OF",
-          "GR",
-          "R/R",
-          "Hitter"
+          "SO",
+          "L/L",
+          "Rostered"
         ],
         "leaderboards": [
-          "Georgia Athletics roster",
-          "Georgia cumulative stats"
+          "Georgia Athletics roster"
         ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats",
+        "sourceSummary": "Georgia Athletics roster",
         "schoolSlug": "georgia",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/cole-koniarsky/10346",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/cole-johnson/11373",
         "espnAthleteId": ""
       },
       {
-        "id": "georgia-10392",
+        "id": "georgia-11396",
+        "name": "Hunter Carns",
+        "school": "Georgia",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Hunter Carns gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "C",
+          "JR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Georgia Athletics roster"
+        ],
+        "sourceSummary": "Georgia Athletics roster",
+        "schoolSlug": "georgia",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/hunter-carns/11396",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "georgia-11397",
+        "name": "Preston Allen",
+        "school": "Georgia",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Preston Allen looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Georgia Athletics roster"
+        ],
+        "sourceSummary": "Georgia Athletics roster",
+        "schoolSlug": "georgia",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/preston-allen/11397",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "georgia-11398",
+        "name": "Marcos Paz",
+        "school": "Georgia",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SO",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Marcos Paz looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "RHP",
+          "SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Georgia Athletics roster"
+        ],
+        "sourceSummary": "Georgia Athletics roster",
+        "schoolSlug": "georgia",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/marcos-paz/11398",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "georgia-11399",
+        "name": "Zane Coppersmith",
+        "school": "Georgia",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "GR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Zane Coppersmith looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "GR / R/R",
+        "detailBadges": [
+          "RHP",
+          "GR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Georgia Athletics roster"
+        ],
+        "sourceSummary": "Georgia Athletics roster",
+        "schoolSlug": "georgia",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/zane-coppersmith/11399",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "georgia-11378",
         "name": "Logan Spivey",
         "school": "Georgia",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "R-JR",
+        "classYear": "GR",
         "handedness": "R/R",
         "score": 0,
         "fit": {
@@ -6795,10 +5513,10 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "R-JR / R/R",
+        "metaLine": "GR / R/R",
         "detailBadges": [
           "RHP",
-          "R-JR",
+          "GR",
           "R/R",
           "Pitcher"
         ],
@@ -6808,59 +5526,195 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "sourceSummary": "Georgia Athletics roster",
         "schoolSlug": "georgia",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/logan-spivey/10392",
+        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/logan-spivey/11378",
         "espnAthleteId": ""
       },
       {
-        "id": "georgia-10347",
-        "name": "Thomas Ellisen",
+        "id": "georgia-11375",
+        "name": "Jackson Peavy",
         "school": "Georgia",
         "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "GR",
-        "handedness": "R/R",
-        "score": 17,
+        "position": "LHP",
+        "classYear": "SO",
+        "handedness": "L/L",
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Thomas Ellisen looks like a RHP option who misses bats and throws enough strikes.",
+        "summary": "Jackson Peavy looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 7.71",
-          "WHIP 1.41",
-          "K/9 9.4"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.71"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.41"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "9.4"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "2.8"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "2.76"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "16.3"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 48.79406307977737,
-          "Command": 48,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SO / L/L",
+        "detailBadges": [
+          "LHP",
+          "SO",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Georgia Athletics roster"
+        ],
+        "sourceSummary": "Georgia Athletics roster",
+        "schoolSlug": "georgia",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/jackson-peavy/11375",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "georgia-11400",
+        "name": "Jake Hanley",
+        "school": "Georgia",
+        "role": "Hitter",
+        "position": "UTIL",
+        "classYear": "JR",
+        "handedness": "L/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jake Hanley gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "JR / L/R",
+        "detailBadges": [
+          "UTIL",
+          "JR",
+          "L/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Georgia Athletics roster"
+        ],
+        "sourceSummary": "Georgia Athletics roster",
+        "schoolSlug": "georgia",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/jake-hanley/11400",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "georgia-11372",
+        "name": "Paul Farley",
+        "school": "Georgia",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "GR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Paul Farley looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
         "metaLine": "GR / R/R",
@@ -6871,13 +5725,352 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
           "Pitcher"
         ],
         "leaderboards": [
-          "Georgia Athletics roster",
-          "Georgia cumulative stats"
+          "Georgia Athletics roster"
         ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats",
+        "sourceSummary": "Georgia Athletics roster",
         "schoolSlug": "georgia",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/thomas-ellisen/10347",
+        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/paul-farley/11372",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "georgia-11401",
+        "name": "Finn Edwards",
+        "school": "Georgia",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Finn Edwards looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Georgia Athletics roster"
+        ],
+        "sourceSummary": "Georgia Athletics roster",
+        "schoolSlug": "georgia",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/finn-edwards/11401",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "georgia-11402",
+        "name": "Connor Langdon",
+        "school": "Georgia",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "FR",
+        "handedness": "L/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Connor Langdon looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FR / L/L",
+        "detailBadges": [
+          "LHP",
+          "FR",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Georgia Athletics roster"
+        ],
+        "sourceSummary": "Georgia Athletics roster",
+        "schoolSlug": "georgia",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/connor-langdon/11402",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "georgia-11376",
+        "name": "Brad Pruett",
+        "school": "Georgia",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Brad Pruett looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Georgia Athletics roster"
+        ],
+        "sourceSummary": "Georgia Athletics roster",
+        "schoolSlug": "georgia",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/brad-pruett/11376",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "georgia-11403",
+        "name": "Matthew Cuccias",
+        "school": "Georgia",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Matthew Cuccias looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Georgia Athletics roster"
+        ],
+        "sourceSummary": "Georgia Athletics roster",
+        "schoolSlug": "georgia",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/matthew-cuccias/11403",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "georgia-11404",
+        "name": "Luke Howe",
+        "school": "Georgia",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SO",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Luke Howe looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "RHP",
+          "SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Georgia Athletics roster"
+        ],
+        "sourceSummary": "Georgia Athletics roster",
+        "schoolSlug": "georgia",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/luke-howe/11404",
         "espnAthleteId": ""
       },
       {
@@ -6886,7 +6079,7 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "school": "Georgia",
         "role": "Hitter",
         "position": "INF",
-        "classYear": "R-FR",
+        "classYear": "JR",
         "handedness": "R/R",
         "score": 0,
         "fit": {
@@ -6932,10 +6125,10 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "R-FR / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "INF",
-          "R-FR",
+          "JR",
           "R/R",
           "Rostered"
         ],
@@ -6949,40 +6142,108 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "georgia-10348",
-        "name": "Mason Kosowick",
+        "id": "georgia-11405",
+        "name": "Jet Gilliam",
         "school": "Georgia",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "GR",
-        "handedness": "N/A",
-        "score": 19,
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "SR",
+        "handedness": "R/R",
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Mason Kosowick looks like a RHP option who misses bats.",
+        "summary": "Jet Gilliam gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 7.20",
-          "WHIP 1.80",
-          "K/9 14.4"
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "OF",
+          "SR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Georgia Athletics roster"
+        ],
+        "sourceSummary": "Georgia Athletics roster",
+        "schoolSlug": "georgia",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/jet-gilliam/11405",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "georgia-11406",
+        "name": "Cristofer Cespedes",
+        "school": "Georgia",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Cristofer Cespedes looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.20"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.80"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "14.4"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "12.6"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
@@ -6990,31 +6251,30 @@ window.__BASEBALL_DATASETS__.georgia2026 = {
           },
           {
             "label": "IP",
-            "value": "5.0"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 94.54545454545455,
-          "Command": 2.8571428571428603,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "GR / N/A",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "RHP",
-          "GR",
-          "N/A",
+          "JR",
+          "R/R",
           "Pitcher"
         ],
         "leaderboards": [
-          "Georgia Athletics roster",
-          "Georgia cumulative stats"
+          "Georgia Athletics roster"
         ],
-        "sourceSummary": "Georgia Athletics roster + Georgia cumulative stats",
+        "sourceSummary": "Georgia Athletics roster",
         "schoolSlug": "georgia",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/mason-kosowick/10348",
+        "profileUrl": "https://georgiadogs.com/sports/baseball/roster/cristofer-cespedes/11406",
         "espnAthleteId": ""
       }
     ]

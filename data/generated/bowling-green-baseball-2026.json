@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T10:54:47.772Z",
+  "generatedAt": "2026-11-18T10:17:58.465Z",
   "season": 2026,
   "school": {
     "slug": "bowling-green",
@@ -26,17 +26,21 @@
   "coverage": {
     "rosterPlayers": 36,
     "espnRosterPlayers": 0,
-    "playersWithHittingStats": 14,
+    "playersWithHittingStats": 15,
     "playersWithPitchingStats": 16,
     "playersWithFieldingStats": 29,
-    "mergedPlayersWithAnyStats": 30,
+    "mergedPlayersWithAnyStats": 31,
     "matchedEspnPlayers": 0,
     "unmatchedStatRows": {
-      "hitting": [],
+      "hitting": [
+        "40"
+      ],
       "pitching": [
         "Tm"
       ],
-      "fielding": []
+      "fielding": [
+        "40"
+      ]
     }
   },
   "teamSummary": {
@@ -125,43 +129,131 @@
   },
   "players": [
     {
-      "id": "bowling-green-19822",
+      "id": "bowling-green-20396",
       "schoolSlug": "bowling-green",
       "school": "Bowling Green",
       "schoolLongName": "Bowling Green State University",
-      "name": "Pauly Mancino",
-      "normalizedName": "pauly mancino",
-      "compositeRole": "Hitter",
+      "name": "Lance Vickers",
+      "normalizedName": "lance vickers",
+      "compositeRole": "Rostered",
       "role": "Hitter",
-      "position": "OF",
-      "positionLong": "OF",
-      "classYear": "JR",
+      "position": "C",
+      "positionLong": "C",
+      "classYear": "SR",
       "handedness": "R/R",
-      "jersey": "3",
-      "hometown": "Westlake, Ohio",
-      "highSchool": "Saint Ignatius",
-      "previousSchool": "Ohio",
-      "hometownHighSchool": "Westlake, Ohio / Saint Ignatius",
-      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/pauly-mancino/19822",
-      "imageUrl": "https://bgsufalcons.com/images/2025/9/1/3_Pauly_Mancino.png",
+      "jersey": "1",
+      "hometown": "Jefferson Hills, Pa.",
+      "highSchool": "Thomas Jefferson",
+      "previousSchool": "Allen CC",
+      "hometownHighSchool": "Jefferson Hills, Pa. / Thomas Jefferson",
+      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/lance-vickers/20396",
+      "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Vickers_cropped_hs.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "19822",
+      "rosterBioId": "20396",
+      "sources": [
+        "Bowling Green Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Lance Vickers gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "C",
+          "SR",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Bowling Green Athletics roster"
+      }
+    },
+    {
+      "id": "bowling-green-20380",
+      "schoolSlug": "bowling-green",
+      "school": "Bowling Green",
+      "schoolLongName": "Bowling Green State University",
+      "name": "Chase Clatur",
+      "normalizedName": "chase clatur",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "RHP",
+      "classYear": "JR",
+      "handedness": "R/R",
+      "jersey": "3",
+      "hometown": "Nolensville, Tenn.",
+      "highSchool": "Nolensville",
+      "previousSchool": "Murray State",
+      "hometownHighSchool": "Nolensville, Tenn. / Nolensville",
+      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/chase-clatur/20380",
+      "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Clatur_cropped_hs.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "20380",
       "sources": [
         "Bowling Green Athletics roster",
         "Bowling Green cumulative stats"
       ],
       "hittingStats": {
-        "rosterBioId": "19822",
-        "name": "Pauly Mancino",
-        "normalizedName": "pauly mancino",
+        "rosterBioId": "20380",
+        "name": "Chase Clatur",
+        "normalizedName": "chase clatur",
         "jersey": "3",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/pauly-mancino/19822",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/3_Pauly_Mancino.png",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/chase-clatur/20380",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Clatur_cropped_hs.png",
         "gamesPlayed": 30,
         "gamesStarted": 26,
         "battingAverage": 0.258,
@@ -194,12 +286,12 @@
       },
       "pitchingStats": null,
       "fieldingStats": {
-        "rosterBioId": "19822",
-        "name": "Pauly Mancino",
-        "normalizedName": "pauly mancino",
+        "rosterBioId": "20380",
+        "name": "Chase Clatur",
+        "normalizedName": "chase clatur",
         "jersey": "3",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/pauly-mancino/19822",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/3_Pauly_Mancino.png",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/chase-clatur/20380",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Clatur_cropped_hs.png",
         "gamesPlayed": 28,
         "gamesStarted": 26,
         "putouts": 75,
@@ -215,68 +307,68 @@
         "totalChances": 80
       },
       "evaluation": {
-        "score": 33,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 53.33333333333332,
-          "Power": 19.21052631578948,
-          "Contact": 23.750000000000004,
-          "Discipline": 29.629629629629623,
-          "Speed": 26.666666666666668
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
         },
-        "summary": "Pauly Mancino profiles as a OF piece who adds running-game pressure.",
+        "summary": "Chase Clatur looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "AVG .258",
-          "OBP .376",
-          "SLG .393"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
-            "label": "AVG",
-            "value": ".258"
+            "label": "ERA",
+            "value": "--"
           },
           {
-            "label": "OBP",
-            "value": ".376"
+            "label": "WHIP",
+            "value": "--"
           },
           {
-            "label": "SLG",
-            "value": ".393"
+            "label": "K/9",
+            "value": "0.0"
           },
           {
-            "label": "HR",
-            "value": "3"
+            "label": "BB/9",
+            "value": "0.0"
           },
           {
-            "label": "RBI",
-            "value": "17"
+            "label": "HR/9",
+            "value": "0.00"
           },
           {
-            "label": "SB",
-            "value": "8"
+            "label": "IP",
+            "value": "0.0"
           }
         ],
         "metaLine": "JR / R/R",
         "detailBadges": [
-          "OF",
+          "RHP",
           "JR",
           "R/R",
-          "Hitter"
+          "Pitcher"
         ],
         "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats"
       }
     },
     {
-      "id": "bowling-green-19263",
+      "id": "bowling-green-20379",
       "schoolSlug": "bowling-green",
       "school": "Bowling Green",
       "schoolLongName": "Bowling Green State University",
       "name": "Chase Chopin",
       "normalizedName": "chase chopin",
-      "compositeRole": "Rostered",
+      "compositeRole": "Hitter",
       "role": "Hitter",
       "position": "OF",
       "positionLong": "OF",
@@ -287,23 +379,80 @@
       "highSchool": "Jonathan Alder",
       "previousSchool": "",
       "hometownHighSchool": "Plain City, Ohio / Jonathan Alder",
-      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/chase-chopin/19263",
-      "imageUrl": "https://bgsufalcons.com/images/2025/9/1/4_Chase_Chopin.png",
+      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/chase-chopin/20379",
+      "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Chopin_cropped_hs.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "19263",
+      "rosterBioId": "20379",
       "sources": [
-        "Bowling Green Athletics roster"
+        "Bowling Green Athletics roster",
+        "Bowling Green cumulative stats"
       ],
-      "hittingStats": null,
+      "hittingStats": {
+        "rosterBioId": "20379",
+        "name": "Chase Chopin",
+        "normalizedName": "chase chopin",
+        "jersey": "4",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/chase-chopin/20379",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Chopin_cropped_hs.png",
+        "gamesPlayed": 15,
+        "gamesStarted": 10,
+        "battingAverage": 0.029,
+        "onBasePercentage": 0.15,
+        "sluggingPercentage": 0.118,
+        "ops": 0.268,
+        "atBats": 34,
+        "runs": 2,
+        "hits": 1,
+        "doubles": 0,
+        "triples": 0,
+        "homeRuns": 1,
+        "runsBattedIn": 5,
+        "totalBases": 4,
+        "walks": 4,
+        "hitByPitch": 1,
+        "strikeouts": 13,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 0,
+        "sacrificeFlies": 1,
+        "sacrificeHits": 2,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 1,
+        "putouts": 18,
+        "assists": 0,
+        "errors": 1,
+        "plateAppearances": 44,
+        "caughtStealing": 1,
+        "pickedOff": 0
+      },
       "pitchingStats": null,
-      "fieldingStats": null,
+      "fieldingStats": {
+        "rosterBioId": "20379",
+        "name": "Chase Chopin",
+        "normalizedName": "chase chopin",
+        "jersey": "4",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/chase-chopin/20379",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Chopin_cropped_hs.png",
+        "gamesPlayed": 9,
+        "gamesStarted": 9,
+        "putouts": 18,
+        "assists": 2,
+        "errors": 1,
+        "fieldingPercentage": 0.952,
+        "doublePlays": 1,
+        "stolenBasesAgainst": 0,
+        "caughtStealingBy": 0,
+        "stolenBasesPercentage": null,
+        "passedBalls": 0,
+        "catchersInterference": 0,
+        "totalChances": 21
+      },
       "evaluation": {
-        "score": 0,
+        "score": 2,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -312,35 +461,35 @@
           "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 0,
+          "Discipline": 11.965811965811964,
           "Speed": 0
         },
         "summary": "Chase Chopin gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
+          "AVG .029",
+          "OBP .150",
+          "SLG .118"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": "--"
+            "value": ".029"
           },
           {
             "label": "OBP",
-            "value": "--"
+            "value": ".150"
           },
           {
             "label": "SLG",
-            "value": "--"
+            "value": ".118"
           },
           {
             "label": "HR",
-            "value": "0"
+            "value": "1"
           },
           {
             "label": "RBI",
-            "value": "0"
+            "value": "5"
           },
           {
             "label": "SB",
@@ -352,13 +501,13 @@
           "OF",
           "R-FR",
           "R/L",
-          "Rostered"
+          "Hitter"
         ],
-        "sourceSummary": "Bowling Green Athletics roster"
+        "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats"
       }
     },
     {
-      "id": "bowling-green-19805",
+      "id": "bowling-green-20381",
       "schoolSlug": "bowling-green",
       "school": "Bowling Green",
       "schoolLongName": "Bowling Green State University",
@@ -368,33 +517,33 @@
       "role": "Hitter",
       "position": "INF",
       "positionLong": "INF",
-      "classYear": "SO",
+      "classYear": "JR",
       "handedness": "R/R",
       "jersey": "7",
       "hometown": "Cincinnati, Ohio",
       "highSchool": "Cincinnati Elder",
       "previousSchool": "",
       "hometownHighSchool": "Cincinnati, Ohio / Cincinnati Elder",
-      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/brayden-curlis/19805",
-      "imageUrl": "https://bgsufalcons.com/images/2025/9/1/7_Brayden_Curlis.png",
+      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/brayden-curlis/20381",
+      "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Curlis_cropped_hs.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "19805",
+      "rosterBioId": "20381",
       "sources": [
         "Bowling Green Athletics roster",
         "Bowling Green cumulative stats"
       ],
       "hittingStats": {
-        "rosterBioId": "19805",
+        "rosterBioId": "20381",
         "name": "Brayden Curlis",
         "normalizedName": "brayden curlis",
         "jersey": "7",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/brayden-curlis/19805",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/7_Brayden_Curlis.png",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/brayden-curlis/20381",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Curlis_cropped_hs.png",
         "gamesPlayed": 34,
         "gamesStarted": 30,
         "battingAverage": 0.26,
@@ -427,12 +576,12 @@
       },
       "pitchingStats": null,
       "fieldingStats": {
-        "rosterBioId": "19805",
+        "rosterBioId": "20381",
         "name": "Brayden Curlis",
         "normalizedName": "brayden curlis",
         "jersey": "7",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/brayden-curlis/19805",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/7_Brayden_Curlis.png",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/brayden-curlis/20381",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Curlis_cropped_hs.png",
         "gamesPlayed": 22,
         "gamesStarted": 22,
         "putouts": 27,
@@ -492,10 +641,10 @@
             "value": "0"
           }
         ],
-        "metaLine": "SO / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "INF",
-          "SO",
+          "JR",
           "R/R",
           "Hitter"
         ],
@@ -503,7 +652,7 @@
       }
     },
     {
-      "id": "bowling-green-19817",
+      "id": "bowling-green-20391",
       "schoolSlug": "bowling-green",
       "school": "Bowling Green",
       "schoolLongName": "Bowling Green State University",
@@ -513,34 +662,34 @@
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "RHP",
-      "classYear": "SO",
+      "classYear": "JR",
       "handedness": "R/R",
       "jersey": "8",
       "hometown": "Flat Rock, Mich.",
       "highSchool": "New Boston Huron",
       "previousSchool": "",
       "hometownHighSchool": "Flat Rock, Mich. / New Boston Huron",
-      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/micah-smith/19817",
-      "imageUrl": "https://bgsufalcons.com/images/2025/9/1/8_Micah_Smith.png",
+      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/micah-smith/20391",
+      "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Smith_cropped_hs.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "19817",
+      "rosterBioId": "20391",
       "sources": [
         "Bowling Green Athletics roster",
         "Bowling Green cumulative stats"
       ],
       "hittingStats": null,
       "pitchingStats": {
-        "rosterBioId": "19817",
+        "rosterBioId": "20391",
         "name": "Micah Smith",
         "normalizedName": "micah smith",
         "jersey": "8",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/micah-smith/19817",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/8_Micah_Smith.png",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/micah-smith/20391",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Smith_cropped_hs.png",
         "gamesPlayed": 11,
         "gamesStarted": 2,
         "appearances": 11,
@@ -569,12 +718,12 @@
         "walksHits": 0
       },
       "fieldingStats": {
-        "rosterBioId": "19817",
+        "rosterBioId": "20391",
         "name": "Micah Smith",
         "normalizedName": "micah smith",
         "jersey": "8",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/micah-smith/19817",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/8_Micah_Smith.png",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/micah-smith/20391",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Smith_cropped_hs.png",
         "gamesPlayed": 4,
         "gamesStarted": 2,
         "putouts": 1,
@@ -634,10 +783,10 @@
             "value": "12.7"
           }
         ],
-        "metaLine": "SO / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "RHP",
-          "SO",
+          "JR",
           "R/R",
           "Pitcher"
         ],
@@ -645,7 +794,7 @@
       }
     },
     {
-      "id": "bowling-green-19818",
+      "id": "bowling-green-20392",
       "schoolSlug": "bowling-green",
       "school": "Bowling Green",
       "schoolLongName": "Bowling Green State University",
@@ -655,34 +804,34 @@
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "RHP",
-      "classYear": "SO",
+      "classYear": "JR",
       "handedness": "R/R",
       "jersey": "9",
       "hometown": "Liberty Township, Ohio",
       "highSchool": "Bishop Fenwick",
       "previousSchool": "",
       "hometownHighSchool": "Liberty Township, Ohio / Bishop Fenwick",
-      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/carrson-sova/19818",
-      "imageUrl": "https://bgsufalcons.com/images/2025/9/1/9_Carrson_Sova.png",
+      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/carrson-sova/20392",
+      "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Sova_cropped_hs.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "19818",
+      "rosterBioId": "20392",
       "sources": [
         "Bowling Green Athletics roster",
         "Bowling Green cumulative stats"
       ],
       "hittingStats": null,
       "pitchingStats": {
-        "rosterBioId": "19818",
+        "rosterBioId": "20392",
         "name": "Carrson Sova",
         "normalizedName": "carrson sova",
         "jersey": "9",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/carrson-sova/19818",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/9_Carrson_Sova.png",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/carrson-sova/20392",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Sova_cropped_hs.png",
         "gamesPlayed": 14,
         "gamesStarted": 6,
         "appearances": 14,
@@ -711,12 +860,12 @@
         "walksHits": 0
       },
       "fieldingStats": {
-        "rosterBioId": "19818",
+        "rosterBioId": "20392",
         "name": "Carrson Sova",
         "normalizedName": "carrson sova",
         "jersey": "9",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/carrson-sova/19818",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/9_Carrson_Sova.png",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/carrson-sova/20392",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Sova_cropped_hs.png",
         "gamesPlayed": 7,
         "gamesStarted": 3,
         "putouts": 0,
@@ -776,10 +925,10 @@
             "value": "38.7"
           }
         ],
-        "metaLine": "SO / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "RHP",
-          "SO",
+          "JR",
           "R/R",
           "Pitcher"
         ],
@@ -787,7 +936,7 @@
       }
     },
     {
-      "id": "bowling-green-19819",
+      "id": "bowling-green-20393",
       "schoolSlug": "bowling-green",
       "school": "Bowling Green",
       "schoolLongName": "Bowling Green State University",
@@ -797,33 +946,33 @@
       "role": "Hitter",
       "position": "1B/OF",
       "positionLong": "1B/OF",
-      "classYear": "JR",
+      "classYear": "SR",
       "handedness": "L/L",
       "jersey": "10",
       "hometown": "Perrysburg, Ohio",
       "highSchool": "Perrysburg",
       "previousSchool": "",
       "hometownHighSchool": "Perrysburg, Ohio / Perrysburg",
-      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/tj-takats/19819",
-      "imageUrl": "https://bgsufalcons.com/images/2025/9/1/10_TJ_Takats.png",
+      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/tj-takats/20393",
+      "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Takas_cropped_hs.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "19819",
+      "rosterBioId": "20393",
       "sources": [
         "Bowling Green Athletics roster",
         "Bowling Green cumulative stats"
       ],
       "hittingStats": {
-        "rosterBioId": "19819",
+        "rosterBioId": "20393",
         "name": "TJ Takats",
         "normalizedName": "tj takats",
         "jersey": "10",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/tj-takats/19819",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/10_TJ_Takats.png",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/tj-takats/20393",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Takas_cropped_hs.png",
         "gamesPlayed": 44,
         "gamesStarted": 44,
         "battingAverage": 0.228,
@@ -856,12 +1005,12 @@
       },
       "pitchingStats": null,
       "fieldingStats": {
-        "rosterBioId": "19819",
+        "rosterBioId": "20393",
         "name": "TJ Takats",
         "normalizedName": "tj takats",
         "jersey": "10",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/tj-takats/19819",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/10_TJ_Takats.png",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/tj-takats/20393",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Takas_cropped_hs.png",
         "gamesPlayed": 31,
         "gamesStarted": 31,
         "putouts": 72,
@@ -921,10 +1070,10 @@
             "value": "6"
           }
         ],
-        "metaLine": "JR / L/L",
+        "metaLine": "SR / L/L",
         "detailBadges": [
           "1B/OF",
-          "JR",
+          "SR",
           "L/L",
           "Hitter"
         ],
@@ -932,7 +1081,7 @@
       }
     },
     {
-      "id": "bowling-green-19807",
+      "id": "bowling-green-20384",
       "schoolSlug": "bowling-green",
       "school": "Bowling Green",
       "schoolLongName": "Bowling Green State University",
@@ -942,34 +1091,34 @@
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "RHP",
-      "classYear": "R-SO",
+      "classYear": "R-JR",
       "handedness": "R/R",
       "jersey": "11",
       "hometown": "Weston, Ohio",
       "highSchool": "Bowling Green",
       "previousSchool": "",
       "hometownHighSchool": "Weston, Ohio / Bowling Green",
-      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/nate-kress/19807",
-      "imageUrl": "https://bgsufalcons.com/images/2025/9/1/11_Nate_Kress.png",
+      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/nate-kress/20384",
+      "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Kress_cropped_hs.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "19807",
+      "rosterBioId": "20384",
       "sources": [
         "Bowling Green Athletics roster",
         "Bowling Green cumulative stats"
       ],
       "hittingStats": null,
       "pitchingStats": {
-        "rosterBioId": "19807",
+        "rosterBioId": "20384",
         "name": "Nate Kress",
         "normalizedName": "nate kress",
         "jersey": "11",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/nate-kress/19807",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/11_Nate_Kress.png",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/nate-kress/20384",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Kress_cropped_hs.png",
         "gamesPlayed": 7,
         "gamesStarted": 4,
         "appearances": 7,
@@ -998,12 +1147,12 @@
         "walksHits": 0
       },
       "fieldingStats": {
-        "rosterBioId": "19807",
+        "rosterBioId": "20384",
         "name": "Nate Kress",
         "normalizedName": "nate kress",
         "jersey": "11",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/nate-kress/19807",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/11_Nate_Kress.png",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/nate-kress/20384",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Kress_cropped_hs.png",
         "gamesPlayed": 4,
         "gamesStarted": 4,
         "putouts": 0,
@@ -1063,10 +1212,10 @@
             "value": "28.3"
           }
         ],
-        "metaLine": "R-SO / R/R",
+        "metaLine": "R-JR / R/R",
         "detailBadges": [
           "RHP",
-          "R-SO",
+          "R-JR",
           "R/R",
           "Pitcher"
         ],
@@ -1074,7 +1223,7 @@
       }
     },
     {
-      "id": "bowling-green-19823",
+      "id": "bowling-green-20383",
       "schoolSlug": "bowling-green",
       "school": "Bowling Green",
       "schoolLongName": "Bowling Green State University",
@@ -1084,22 +1233,22 @@
       "role": "Hitter",
       "position": "OF",
       "positionLong": "OF",
-      "classYear": "FR",
+      "classYear": "SO",
       "handedness": "R/R",
       "jersey": "12",
       "hometown": "Mississauga, Ontario",
       "highSchool": "Applewood Heights Secondary School",
       "previousSchool": "",
       "hometownHighSchool": "Mississauga, Ontario / Applewood Heights Secondary School",
-      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/john-hughes/19823",
-      "imageUrl": "https://bgsufalcons.com/images/2025/9/1/12_John_Hughes.png",
+      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/john-hughes/20383",
+      "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Hughes_cropped_hs.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "19823",
+      "rosterBioId": "20383",
       "sources": [
         "Bowling Green Athletics roster"
       ],
@@ -1151,10 +1300,10 @@
             "value": "0"
           }
         ],
-        "metaLine": "FR / R/R",
+        "metaLine": "SO / R/R",
         "detailBadges": [
           "OF",
-          "FR",
+          "SO",
           "R/R",
           "Rostered"
         ],
@@ -1162,44 +1311,44 @@
       }
     },
     {
-      "id": "bowling-green-19815",
+      "id": "bowling-green-20397",
       "schoolSlug": "bowling-green",
       "school": "Bowling Green",
       "schoolLongName": "Bowling Green State University",
-      "name": "Ty Roder",
-      "normalizedName": "ty roder",
+      "name": "Jaden Saavedre",
+      "normalizedName": "jaden saavedre",
       "compositeRole": "Pitcher",
       "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "RHP",
-      "classYear": "R-SR",
+      "position": "C",
+      "positionLong": "Catcher",
+      "classYear": "FR",
       "handedness": "R/R",
       "jersey": "13",
-      "hometown": "Waterville, Ohio",
-      "highSchool": "Anthony Wayne",
-      "previousSchool": "Wright State",
-      "hometownHighSchool": "Waterville, Ohio / Anthony Wayne",
-      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/ty-roder/19815",
-      "imageUrl": "https://bgsufalcons.com/images/2025/9/1/13_Ty_Roder.png",
+      "hometown": "South Lyon, Mich.",
+      "highSchool": "South Lyon East",
+      "previousSchool": "",
+      "hometownHighSchool": "South Lyon, Mich. / South Lyon East",
+      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/jaden-saavedre/20397",
+      "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Saavedra_cropped_hs.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "19815",
+      "rosterBioId": "20397",
       "sources": [
         "Bowling Green Athletics roster",
         "Bowling Green cumulative stats"
       ],
       "hittingStats": null,
       "pitchingStats": {
-        "rosterBioId": "19815",
-        "name": "Ty Roder",
-        "normalizedName": "ty roder",
+        "rosterBioId": "20397",
+        "name": "Jaden Saavedre",
+        "normalizedName": "jaden saavedre",
         "jersey": "13",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/ty-roder/19815",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/13_Ty_Roder.png",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/jaden-saavedre/20397",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Saavedra_cropped_hs.png",
         "gamesPlayed": 22,
         "gamesStarted": 0,
         "appearances": 22,
@@ -1228,12 +1377,12 @@
         "walksHits": 0
       },
       "fieldingStats": {
-        "rosterBioId": "19815",
-        "name": "Ty Roder",
-        "normalizedName": "ty roder",
+        "rosterBioId": "20397",
+        "name": "Jaden Saavedre",
+        "normalizedName": "jaden saavedre",
         "jersey": "13",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/ty-roder/19815",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/13_Ty_Roder.png",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/jaden-saavedre/20397",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Saavedra_cropped_hs.png",
         "gamesPlayed": 8,
         "gamesStarted": 0,
         "putouts": 1,
@@ -1261,7 +1410,7 @@
           "Command": 34.285714285714285,
           "Damage suppression": 0
         },
-        "summary": "Ty Roder gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Jaden Saavedre gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "ERA 4.46",
           "WHIP 1.57",
@@ -1293,10 +1442,10 @@
             "value": "38.3"
           }
         ],
-        "metaLine": "R-SR / R/R",
+        "metaLine": "FR / R/R",
         "detailBadges": [
-          "RHP",
-          "R-SR",
+          "C",
+          "FR",
           "R/R",
           "Pitcher"
         ],
@@ -1304,44 +1453,44 @@
       }
     },
     {
-      "id": "bowling-green-19824",
+      "id": "bowling-green-20398",
       "schoolSlug": "bowling-green",
       "school": "Bowling Green",
       "schoolLongName": "Bowling Green State University",
-      "name": "Jackson Miller",
-      "normalizedName": "jackson miller",
+      "name": "Jack Andes",
+      "normalizedName": "jack andes",
       "compositeRole": "Pitcher",
       "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "LHP",
+      "position": "OF/RHP",
+      "positionLong": "Outfield/Pitcher",
       "classYear": "FR",
-      "handedness": "R/L",
+      "handedness": "R/R",
       "jersey": "14",
-      "hometown": "White Lake, Mich.",
-      "highSchool": "Lakeland",
+      "hometown": "North Canton, Ohio",
+      "highSchool": "Hoover",
       "previousSchool": "",
-      "hometownHighSchool": "White Lake, Mich. / Lakeland",
-      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/jackson-miller/19824",
-      "imageUrl": "https://bgsufalcons.com/images/2025/9/1/14_Jackson_Miller.png",
+      "hometownHighSchool": "North Canton, Ohio / Hoover",
+      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/jack-andes/20398",
+      "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Andes_cropped_hs.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "19824",
+      "rosterBioId": "20398",
       "sources": [
         "Bowling Green Athletics roster",
         "Bowling Green cumulative stats"
       ],
       "hittingStats": null,
       "pitchingStats": {
-        "rosterBioId": "19824",
-        "name": "Jackson Miller",
-        "normalizedName": "jackson miller",
+        "rosterBioId": "20398",
+        "name": "Jack Andes",
+        "normalizedName": "jack andes",
         "jersey": "14",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/jackson-miller/19824",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/14_Jackson_Miller.png",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/jack-andes/20398",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Andes_cropped_hs.png",
         "gamesPlayed": 14,
         "gamesStarted": 10,
         "appearances": 14,
@@ -1370,12 +1519,12 @@
         "walksHits": 0
       },
       "fieldingStats": {
-        "rosterBioId": "19824",
-        "name": "Jackson Miller",
-        "normalizedName": "jackson miller",
+        "rosterBioId": "20398",
+        "name": "Jack Andes",
+        "normalizedName": "jack andes",
         "jersey": "14",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/jackson-miller/19824",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/14_Jackson_Miller.png",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/jack-andes/20398",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Andes_cropped_hs.png",
         "gamesPlayed": 10,
         "gamesStarted": 8,
         "putouts": 3,
@@ -1403,7 +1552,7 @@
           "Command": 21.73913043478261,
           "Damage suppression": 0
         },
-        "summary": "Jackson Miller looks like a LHP option who misses bats.",
+        "summary": "Jack Andes looks like a OF/RHP option who misses bats.",
         "summaryMetrics": [
           "ERA 5.84",
           "WHIP 1.59",
@@ -1435,55 +1584,55 @@
             "value": "44.7"
           }
         ],
-        "metaLine": "FR / R/L",
+        "metaLine": "FR / R/R",
         "detailBadges": [
-          "LHP",
+          "OF/RHP",
           "FR",
-          "R/L",
+          "R/R",
           "Pitcher"
         ],
         "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats"
       }
     },
     {
-      "id": "bowling-green-19811",
+      "id": "bowling-green-20377",
       "schoolSlug": "bowling-green",
       "school": "Bowling Green",
       "schoolLongName": "Bowling Green State University",
-      "name": "Carson Lumley",
-      "normalizedName": "carson lumley",
+      "name": "Jaxon Brown",
+      "normalizedName": "jaxon brown",
       "compositeRole": "Pitcher",
       "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "RHP",
+      "position": "C",
+      "positionLong": "C",
       "classYear": "R-SO",
-      "handedness": "R/R",
+      "handedness": "S/R",
       "jersey": "15",
-      "hometown": "London, Ontario",
-      "highSchool": "Mother Teresa",
+      "hometown": "Lexington, Ohio",
+      "highSchool": "Lexington",
       "previousSchool": "",
-      "hometownHighSchool": "London, Ontario / Mother Teresa",
-      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/carson-lumley/19811",
-      "imageUrl": "https://bgsufalcons.com/images/2025/9/1/15_Carson_Lumley.png",
+      "hometownHighSchool": "Lexington, Ohio / Lexington",
+      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/jaxon-brown/20377",
+      "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Brown_cropped_hs.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "19811",
+      "rosterBioId": "20377",
       "sources": [
         "Bowling Green Athletics roster",
         "Bowling Green cumulative stats"
       ],
       "hittingStats": null,
       "pitchingStats": {
-        "rosterBioId": "19811",
-        "name": "Carson Lumley",
-        "normalizedName": "carson lumley",
+        "rosterBioId": "20377",
+        "name": "Jaxon Brown",
+        "normalizedName": "jaxon brown",
         "jersey": "15",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/carson-lumley/19811",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/15_Carson_Lumley.png",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/jaxon-brown/20377",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Brown_cropped_hs.png",
         "gamesPlayed": 1,
         "gamesStarted": 0,
         "appearances": 1,
@@ -1525,7 +1674,7 @@
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Carson Lumley looks like a RHP option who throws enough strikes and keeps traffic under control.",
+        "summary": "Jaxon Brown looks like a C option who throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
           "ERA 99.00",
           "WHIP 0.00",
@@ -1557,18 +1706,18 @@
             "value": "0.0"
           }
         ],
-        "metaLine": "R-SO / R/R",
+        "metaLine": "R-SO / S/R",
         "detailBadges": [
-          "RHP",
+          "C",
           "R-SO",
-          "R/R",
+          "S/R",
           "Pitcher"
         ],
         "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats"
       }
     },
     {
-      "id": "bowling-green-19809",
+      "id": "bowling-green-20385",
       "schoolSlug": "bowling-green",
       "school": "Bowling Green",
       "schoolLongName": "Bowling Green State University",
@@ -1578,33 +1727,33 @@
       "role": "Hitter",
       "position": "INF",
       "positionLong": "INF",
-      "classYear": "R-SO",
+      "classYear": "R-JR",
       "handedness": "R/R",
       "jersey": "16",
       "hometown": "Canton, Ohio",
       "highSchool": "GlenOak",
       "previousSchool": "",
       "hometownHighSchool": "Canton, Ohio / GlenOak",
-      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/alex-laird/19809",
-      "imageUrl": "https://bgsufalcons.com/images/2025/9/1/16_Alex_Laird.png",
+      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/alex-laird/20385",
+      "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Laird_cropped_hs.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "19809",
+      "rosterBioId": "20385",
       "sources": [
         "Bowling Green Athletics roster",
         "Bowling Green cumulative stats"
       ],
       "hittingStats": {
-        "rosterBioId": "19809",
+        "rosterBioId": "20385",
         "name": "Alex Laird",
         "normalizedName": "alex laird",
         "jersey": "16",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/alex-laird/19809",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/16_Alex_Laird.png",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/alex-laird/20385",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Laird_cropped_hs.png",
         "gamesPlayed": 26,
         "gamesStarted": 18,
         "battingAverage": 0.172,
@@ -1637,12 +1786,12 @@
       },
       "pitchingStats": null,
       "fieldingStats": {
-        "rosterBioId": "19809",
+        "rosterBioId": "20385",
         "name": "Alex Laird",
         "normalizedName": "alex laird",
         "jersey": "16",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/alex-laird/19809",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/16_Alex_Laird.png",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/alex-laird/20385",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Laird_cropped_hs.png",
         "gamesPlayed": 16,
         "gamesStarted": 14,
         "putouts": 68,
@@ -1702,10 +1851,10 @@
             "value": "18"
           }
         ],
-        "metaLine": "R-SO / R/R",
+        "metaLine": "R-JR / R/R",
         "detailBadges": [
           "INF",
-          "R-SO",
+          "R-JR",
           "R/R",
           "Hitter"
         ],
@@ -1713,7 +1862,7 @@
       }
     },
     {
-      "id": "bowling-green-19814",
+      "id": "bowling-green-20388",
       "schoolSlug": "bowling-green",
       "school": "Bowling Green",
       "schoolLongName": "Bowling Green State University",
@@ -1723,33 +1872,33 @@
       "role": "Hitter",
       "position": "OF",
       "positionLong": "OF",
-      "classYear": "SO",
+      "classYear": "JR",
       "handedness": "L/L",
       "jersey": "17",
       "hometown": "Canal Fulton, Ohio",
       "highSchool": "Massillon Jackson",
       "previousSchool": "",
       "hometownHighSchool": "Canal Fulton, Ohio / Massillon Jackson",
-      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/carter-mottice/19814",
-      "imageUrl": "https://bgsufalcons.com/images/2025/9/1/17_Carter_Mottice.png",
+      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/carter-mottice/20388",
+      "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Mottice_cropped_hs.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "19814",
+      "rosterBioId": "20388",
       "sources": [
         "Bowling Green Athletics roster",
         "Bowling Green cumulative stats"
       ],
       "hittingStats": {
-        "rosterBioId": "19814",
+        "rosterBioId": "20388",
         "name": "Carter Mottice",
         "normalizedName": "carter mottice",
         "jersey": "17",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/carter-mottice/19814",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/17_Carter_Mottice.png",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/carter-mottice/20388",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Mottice_cropped_hs.png",
         "gamesPlayed": 44,
         "gamesStarted": 42,
         "battingAverage": 0.243,
@@ -1782,12 +1931,12 @@
       },
       "pitchingStats": null,
       "fieldingStats": {
-        "rosterBioId": "19814",
+        "rosterBioId": "20388",
         "name": "Carter Mottice",
         "normalizedName": "carter mottice",
         "jersey": "17",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/carter-mottice/19814",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/17_Carter_Mottice.png",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/carter-mottice/20388",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Mottice_cropped_hs.png",
         "gamesPlayed": 34,
         "gamesStarted": 34,
         "putouts": 87,
@@ -1847,10 +1996,10 @@
             "value": "7"
           }
         ],
-        "metaLine": "SO / L/L",
+        "metaLine": "JR / L/L",
         "detailBadges": [
           "OF",
-          "SO",
+          "JR",
           "L/L",
           "Hitter"
         ],
@@ -1858,7 +2007,7 @@
       }
     },
     {
-      "id": "bowling-green-19825",
+      "id": "bowling-green-20390",
       "schoolSlug": "bowling-green",
       "school": "Bowling Green",
       "schoolLongName": "Bowling Green State University",
@@ -1868,33 +2017,33 @@
       "role": "Hitter",
       "position": "INF",
       "positionLong": "INF",
-      "classYear": "FR",
+      "classYear": "SO",
       "handedness": "L/R",
       "jersey": "18",
       "hometown": "Marysville, Ohio",
       "highSchool": "Marysville",
       "previousSchool": "",
       "hometownHighSchool": "Marysville, Ohio / Marysville",
-      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/griffin-scheiderer/19825",
-      "imageUrl": "https://bgsufalcons.com/images/2025/9/1/18_Griffin_Scheiderer.png",
+      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/griffin-scheiderer/20390",
+      "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Griffin_Scheiderer_cropped_hs.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "19825",
+      "rosterBioId": "20390",
       "sources": [
         "Bowling Green Athletics roster",
         "Bowling Green cumulative stats"
       ],
       "hittingStats": {
-        "rosterBioId": "19825",
+        "rosterBioId": "20390",
         "name": "Griffin Scheiderer",
         "normalizedName": "griffin scheiderer",
         "jersey": "18",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/griffin-scheiderer/19825",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/18_Griffin_Scheiderer.png",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/griffin-scheiderer/20390",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Griffin_Scheiderer_cropped_hs.png",
         "gamesPlayed": 47,
         "gamesStarted": 45,
         "battingAverage": 0.221,
@@ -1927,12 +2076,12 @@
       },
       "pitchingStats": null,
       "fieldingStats": {
-        "rosterBioId": "19825",
+        "rosterBioId": "20390",
         "name": "Griffin Scheiderer",
         "normalizedName": "griffin scheiderer",
         "jersey": "18",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/griffin-scheiderer/19825",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/18_Griffin_Scheiderer.png",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/griffin-scheiderer/20390",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Griffin_Scheiderer_cropped_hs.png",
         "gamesPlayed": 39,
         "gamesStarted": 38,
         "putouts": 55,
@@ -1992,10 +2141,10 @@
             "value": "3"
           }
         ],
-        "metaLine": "FR / L/R",
+        "metaLine": "SO / L/R",
         "detailBadges": [
           "INF",
-          "FR",
+          "SO",
           "L/R",
           "Hitter"
         ],
@@ -2003,7 +2152,7 @@
       }
     },
     {
-      "id": "bowling-green-19813",
+      "id": "bowling-green-20386",
       "schoolSlug": "bowling-green",
       "school": "Bowling Green",
       "schoolLongName": "Bowling Green State University",
@@ -2013,22 +2162,22 @@
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "RHP",
-      "classYear": "SR",
+      "classYear": "GR",
       "handedness": "R/R",
       "jersey": "19",
       "hometown": "Avon Lake, Ohio",
       "highSchool": "Avon Lake",
       "previousSchool": "",
       "hometownHighSchool": "Avon Lake, Ohio / Avon Lake",
-      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/perry-miller/19813",
-      "imageUrl": "https://bgsufalcons.com/images/2025/9/1/19_Perry_Miller.png",
+      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/perry-miller/20386",
+      "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Miller_cropped_hs.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "19813",
+      "rosterBioId": "20386",
       "sources": [
         "Bowling Green Athletics roster"
       ],
@@ -2080,10 +2229,10 @@
             "value": "0.0"
           }
         ],
-        "metaLine": "SR / R/R",
+        "metaLine": "GR / R/R",
         "detailBadges": [
           "RHP",
-          "SR",
+          "GR",
           "R/R",
           "Pitcher"
         ],
@@ -2091,44 +2240,44 @@
       }
     },
     {
-      "id": "bowling-green-19800",
+      "id": "bowling-green-20399",
       "schoolSlug": "bowling-green",
       "school": "Bowling Green",
       "schoolLongName": "Bowling Green State University",
-      "name": "Kade Arn",
-      "normalizedName": "kade arn",
+      "name": "Jackson Urenovitch",
+      "normalizedName": "jackson urenovitch",
       "compositeRole": "Pitcher",
       "role": "Pitcher",
       "position": "RHP",
-      "positionLong": "RHP",
-      "classYear": "SR",
+      "positionLong": "Pitcher",
+      "classYear": "FR",
       "handedness": "R/R",
       "jersey": "20",
-      "hometown": "Bellefontaine, Ohio",
-      "highSchool": "Benjamin Logan",
+      "hometown": "Whitehouse, Ohio",
+      "highSchool": "Anthony Wayne",
       "previousSchool": "",
-      "hometownHighSchool": "Bellefontaine, Ohio / Benjamin Logan",
-      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/kade-arn/19800",
-      "imageUrl": "https://bgsufalcons.com/images/2025/9/1/20_Kade_Arn.png",
+      "hometownHighSchool": "Whitehouse, Ohio / Anthony Wayne",
+      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/jackson-urenovitch/20399",
+      "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Urenovitch_cropped_hs.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "19800",
+      "rosterBioId": "20399",
       "sources": [
         "Bowling Green Athletics roster",
         "Bowling Green cumulative stats"
       ],
       "hittingStats": null,
       "pitchingStats": {
-        "rosterBioId": "19800",
-        "name": "Kade Arn",
-        "normalizedName": "kade arn",
+        "rosterBioId": "20399",
+        "name": "Jackson Urenovitch",
+        "normalizedName": "jackson urenovitch",
         "jersey": "20",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/kade-arn/19800",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/20_Kade_Arn.png",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/jackson-urenovitch/20399",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Urenovitch_cropped_hs.png",
         "gamesPlayed": 17,
         "gamesStarted": 0,
         "appearances": 17,
@@ -2157,12 +2306,12 @@
         "walksHits": 0
       },
       "fieldingStats": {
-        "rosterBioId": "19800",
-        "name": "Kade Arn",
-        "normalizedName": "kade arn",
+        "rosterBioId": "20399",
+        "name": "Jackson Urenovitch",
+        "normalizedName": "jackson urenovitch",
         "jersey": "20",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/kade-arn/19800",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/20_Kade_Arn.png",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/jackson-urenovitch/20399",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Urenovitch_cropped_hs.png",
         "gamesPlayed": 9,
         "gamesStarted": 0,
         "putouts": 0,
@@ -2190,7 +2339,7 @@
           "Command": 48.57142857142858,
           "Damage suppression": 0
         },
-        "summary": "Kade Arn looks like a RHP option who misses bats.",
+        "summary": "Jackson Urenovitch looks like a RHP option who misses bats.",
         "summaryMetrics": [
           "ERA 8.55",
           "WHIP 2.05",
@@ -2222,10 +2371,10 @@
             "value": "20.0"
           }
         ],
-        "metaLine": "SR / R/R",
+        "metaLine": "FR / R/R",
         "detailBadges": [
           "RHP",
-          "SR",
+          "FR",
           "R/R",
           "Pitcher"
         ],
@@ -2233,43 +2382,43 @@
       }
     },
     {
-      "id": "bowling-green-19816",
+      "id": "bowling-green-20400",
       "schoolSlug": "bowling-green",
       "school": "Bowling Green",
       "schoolLongName": "Bowling Green State University",
-      "name": "Sam Seidel",
-      "normalizedName": "sam seidel",
+      "name": "Owen McKoon",
+      "normalizedName": "owen mckoon",
       "compositeRole": "Hitter",
       "role": "Hitter",
-      "position": "INF",
-      "positionLong": "INF",
-      "classYear": "SR",
-      "handedness": "L/R",
+      "position": "OF",
+      "positionLong": "Outfield",
+      "classYear": "SO",
+      "handedness": "R/R",
       "jersey": "21",
-      "hometown": "Greenwich, Ohio",
-      "highSchool": "South Central",
-      "previousSchool": "",
-      "hometownHighSchool": "Greenwich, Ohio / South Central",
-      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/sam-seidel/19816",
-      "imageUrl": "https://bgsufalcons.com/images/2025/9/1/21_Sam_Seidel.png",
+      "hometown": "Perry, Ohio",
+      "highSchool": "Perry",
+      "previousSchool": "UL Monroe",
+      "hometownHighSchool": "Perry, Ohio / Perry",
+      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/owen-mckoon/20400",
+      "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Mckoon_cropped_hs.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "19816",
+      "rosterBioId": "20400",
       "sources": [
         "Bowling Green Athletics roster",
         "Bowling Green cumulative stats"
       ],
       "hittingStats": {
-        "rosterBioId": "19816",
-        "name": "Sam Seidel",
-        "normalizedName": "sam seidel",
+        "rosterBioId": "20400",
+        "name": "Owen McKoon",
+        "normalizedName": "owen mckoon",
         "jersey": "21",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/sam-seidel/19816",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/21_Sam_Seidel.png",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/owen-mckoon/20400",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Mckoon_cropped_hs.png",
         "gamesPlayed": 47,
         "gamesStarted": 47,
         "battingAverage": 0.239,
@@ -2302,12 +2451,12 @@
       },
       "pitchingStats": null,
       "fieldingStats": {
-        "rosterBioId": "19816",
-        "name": "Sam Seidel",
-        "normalizedName": "sam seidel",
+        "rosterBioId": "20400",
+        "name": "Owen McKoon",
+        "normalizedName": "owen mckoon",
         "jersey": "21",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/sam-seidel/19816",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/21_Sam_Seidel.png",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/owen-mckoon/20400",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Mckoon_cropped_hs.png",
         "gamesPlayed": 46,
         "gamesStarted": 46,
         "putouts": 77,
@@ -2335,7 +2484,7 @@
           "Discipline": 45.41062801932367,
           "Speed": 60
         },
-        "summary": "Sam Seidel profiles as a INF piece who adds running-game pressure.",
+        "summary": "Owen McKoon profiles as a OF piece who adds running-game pressure.",
         "summaryMetrics": [
           "AVG .239",
           "OBP .363",
@@ -2367,18 +2516,18 @@
             "value": "18"
           }
         ],
-        "metaLine": "SR / L/R",
+        "metaLine": "SO / R/R",
         "detailBadges": [
-          "INF",
-          "SR",
-          "L/R",
+          "OF",
+          "SO",
+          "R/R",
           "Hitter"
         ],
         "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats"
       }
     },
     {
-      "id": "bowling-green-19826",
+      "id": "bowling-green-20387",
       "schoolSlug": "bowling-green",
       "school": "Bowling Green",
       "schoolLongName": "Bowling Green State University",
@@ -2388,22 +2537,22 @@
       "role": "Hitter",
       "position": "INF",
       "positionLong": "INF",
-      "classYear": "FR",
+      "classYear": "SO",
       "handedness": "L/R",
       "jersey": "22",
       "hometown": "Rocky River, Ohio",
       "highSchool": "Rocky River",
       "previousSchool": "",
       "hometownHighSchool": "Rocky River, Ohio / Rocky River",
-      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/josh-mommers/19826",
-      "imageUrl": "https://bgsufalcons.com/images/2025/9/1/22_Josh_Mommers.png",
+      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/josh-mommers/20387",
+      "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Mommers_cropped_hs.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "19826",
+      "rosterBioId": "20387",
       "sources": [
         "Bowling Green Athletics roster"
       ],
@@ -2455,10 +2604,10 @@
             "value": "0"
           }
         ],
-        "metaLine": "FR / L/R",
+        "metaLine": "SO / L/R",
         "detailBadges": [
           "INF",
-          "FR",
+          "SO",
           "L/R",
           "Rostered"
         ],
@@ -2466,43 +2615,43 @@
       }
     },
     {
-      "id": "bowling-green-19827",
+      "id": "bowling-green-20401",
       "schoolSlug": "bowling-green",
       "school": "Bowling Green",
       "schoolLongName": "Bowling Green State University",
-      "name": "Vinny Salvione",
-      "normalizedName": "vinny salvione",
+      "name": "Carson Balls",
+      "normalizedName": "carson balls",
       "compositeRole": "Hitter",
       "role": "Hitter",
-      "position": "INF",
-      "positionLong": "INF",
-      "classYear": "JR",
-      "handedness": "R/R",
+      "position": "C/INF",
+      "positionLong": "Infield",
+      "classYear": "FR",
+      "handedness": "L/R",
       "jersey": "23",
-      "hometown": "Milwaukie, Ore.",
-      "highSchool": "Rex Putnam",
-      "previousSchool": "Portland",
-      "hometownHighSchool": "Milwaukie, Ore. / Rex Putnam",
-      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/vinny-salvione/19827",
-      "imageUrl": "https://bgsufalcons.com/images/2025/9/1/23_Vinny_Salvione.png",
+      "hometown": "Sanford, Fla.",
+      "highSchool": "Orangewood Christian",
+      "previousSchool": "",
+      "hometownHighSchool": "Sanford, Fla. / Orangewood Christian",
+      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/carson-balls/20401",
+      "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Balls_cropped_hs.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "19827",
+      "rosterBioId": "20401",
       "sources": [
         "Bowling Green Athletics roster",
         "Bowling Green cumulative stats"
       ],
       "hittingStats": {
-        "rosterBioId": "19827",
-        "name": "Vinny Salvione",
-        "normalizedName": "vinny salvione",
+        "rosterBioId": "20401",
+        "name": "Carson Balls",
+        "normalizedName": "carson balls",
         "jersey": "23",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/vinny-salvione/19827",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/23_Vinny_Salvione.png",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/carson-balls/20401",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Balls_cropped_hs.png",
         "gamesPlayed": 39,
         "gamesStarted": 35,
         "battingAverage": 0.25,
@@ -2535,12 +2684,12 @@
       },
       "pitchingStats": null,
       "fieldingStats": {
-        "rosterBioId": "19827",
-        "name": "Vinny Salvione",
-        "normalizedName": "vinny salvione",
+        "rosterBioId": "20401",
+        "name": "Carson Balls",
+        "normalizedName": "carson balls",
         "jersey": "23",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/vinny-salvione/19827",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/23_Vinny_Salvione.png",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/carson-balls/20401",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Balls_cropped_hs.png",
         "gamesPlayed": 34,
         "gamesStarted": 33,
         "putouts": 94,
@@ -2568,7 +2717,7 @@
           "Discipline": 1.5873015873015843,
           "Speed": 10
         },
-        "summary": "Vinny Salvione gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Carson Balls gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .250",
           "OBP .287",
@@ -2600,55 +2749,55 @@
             "value": "3"
           }
         ],
-        "metaLine": "JR / R/R",
+        "metaLine": "FR / L/R",
         "detailBadges": [
-          "INF",
-          "JR",
-          "R/R",
+          "C/INF",
+          "FR",
+          "L/R",
           "Hitter"
         ],
         "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats"
       }
     },
     {
-      "id": "bowling-green-19828",
+      "id": "bowling-green-20402",
       "schoolSlug": "bowling-green",
       "school": "Bowling Green",
       "schoolLongName": "Bowling Green State University",
-      "name": "Andrew Heffernan",
-      "normalizedName": "andrew heffernan",
+      "name": "Harrison Schneider",
+      "normalizedName": "harrison schneider",
       "compositeRole": "Pitcher",
       "role": "Pitcher",
       "position": "RHP",
-      "positionLong": "RHP",
-      "classYear": "JR",
+      "positionLong": "Pitcher",
+      "classYear": "FR",
       "handedness": "R/R",
       "jersey": "24",
-      "hometown": "South Portland, Maine",
-      "highSchool": "South Portland",
-      "previousSchool": "Merrimack",
-      "hometownHighSchool": "South Portland, Maine / South Portland",
-      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/andrew-heffernan/19828",
-      "imageUrl": "https://bgsufalcons.com/images/2025/9/1/24_Andrew_Heffernan.png",
+      "hometown": "Amherst, Ohio",
+      "highSchool": "Amherst Steele",
+      "previousSchool": "",
+      "hometownHighSchool": "Amherst, Ohio / Amherst Steele",
+      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/harrison-schneider/20402",
+      "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Harrison_Schneider_cropped_hs.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "19828",
+      "rosterBioId": "20402",
       "sources": [
         "Bowling Green Athletics roster",
         "Bowling Green cumulative stats"
       ],
       "hittingStats": null,
       "pitchingStats": {
-        "rosterBioId": "19828",
-        "name": "Andrew Heffernan",
-        "normalizedName": "andrew heffernan",
+        "rosterBioId": "20402",
+        "name": "Harrison Schneider",
+        "normalizedName": "harrison schneider",
         "jersey": "24",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/andrew-heffernan/19828",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/24_Andrew_Heffernan.png",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/harrison-schneider/20402",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Harrison_Schneider_cropped_hs.png",
         "gamesPlayed": 15,
         "gamesStarted": 10,
         "appearances": 15,
@@ -2677,12 +2826,12 @@
         "walksHits": 0
       },
       "fieldingStats": {
-        "rosterBioId": "19828",
-        "name": "Andrew Heffernan",
-        "normalizedName": "andrew heffernan",
+        "rosterBioId": "20402",
+        "name": "Harrison Schneider",
+        "normalizedName": "harrison schneider",
         "jersey": "24",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/andrew-heffernan/19828",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/24_Andrew_Heffernan.png",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/harrison-schneider/20402",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Harrison_Schneider_cropped_hs.png",
         "gamesPlayed": 9,
         "gamesStarted": 7,
         "putouts": 7,
@@ -2710,7 +2859,7 @@
           "Command": 50,
           "Damage suppression": 0
         },
-        "summary": "Andrew Heffernan looks like a RHP option who throws enough strikes.",
+        "summary": "Harrison Schneider looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA 5.97",
           "WHIP 1.46",
@@ -2742,10 +2891,10 @@
             "value": "60.3"
           }
         ],
-        "metaLine": "JR / R/R",
+        "metaLine": "FR / R/R",
         "detailBadges": [
           "RHP",
-          "JR",
+          "FR",
           "R/R",
           "Pitcher"
         ],
@@ -2753,7 +2902,7 @@
       }
     },
     {
-      "id": "bowling-green-19829",
+      "id": "bowling-green-20382",
       "schoolSlug": "bowling-green",
       "school": "Bowling Green",
       "schoolLongName": "Bowling Green State University",
@@ -2763,33 +2912,33 @@
       "role": "Hitter",
       "position": "C",
       "positionLong": "C",
-      "classYear": "FR",
+      "classYear": "SO",
       "handedness": "R/R",
       "jersey": "25",
       "hometown": "Grosse Pointe Farms, Mich.",
       "highSchool": "Grosse Pointe South",
       "previousSchool": "",
       "hometownHighSchool": "Grosse Pointe Farms, Mich. / Grosse Pointe South",
-      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/andrew-dilodovico/19829",
-      "imageUrl": "https://bgsufalcons.com/images/2025/9/1/25_Andrew_DiLodovico.png",
+      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/andrew-dilodovico/20382",
+      "imageUrl": "https://bgsufalcons.com/images/2026/9/24/DiLodovico_cropped_hs.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "19829",
+      "rosterBioId": "20382",
       "sources": [
         "Bowling Green Athletics roster",
         "Bowling Green cumulative stats"
       ],
       "hittingStats": {
-        "rosterBioId": "19829",
+        "rosterBioId": "20382",
         "name": "Andrew DiLodovico",
         "normalizedName": "andrew dilodovico",
         "jersey": "25",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/andrew-dilodovico/19829",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/25_Andrew_DiLodovico.png",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/andrew-dilodovico/20382",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/DiLodovico_cropped_hs.png",
         "gamesPlayed": 43,
         "gamesStarted": 42,
         "battingAverage": 0.266,
@@ -2822,12 +2971,12 @@
       },
       "pitchingStats": null,
       "fieldingStats": {
-        "rosterBioId": "19829",
+        "rosterBioId": "20382",
         "name": "Andrew DiLodovico",
         "normalizedName": "andrew dilodovico",
         "jersey": "25",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/andrew-dilodovico/19829",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/25_Andrew_DiLodovico.png",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/andrew-dilodovico/20382",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/DiLodovico_cropped_hs.png",
         "gamesPlayed": 35,
         "gamesStarted": 34,
         "putouts": 296,
@@ -2887,10 +3036,10 @@
             "value": "4"
           }
         ],
-        "metaLine": "FR / R/R",
+        "metaLine": "SO / R/R",
         "detailBadges": [
           "C",
-          "FR",
+          "SO",
           "R/R",
           "Hitter"
         ],
@@ -2898,44 +3047,44 @@
       }
     },
     {
-      "id": "bowling-green-19810",
+      "id": "bowling-green-20403",
       "schoolSlug": "bowling-green",
       "school": "Bowling Green",
       "schoolLongName": "Bowling Green State University",
-      "name": "Titus Lotz",
-      "normalizedName": "titus lotz",
+      "name": "Damien Presser",
+      "normalizedName": "damien presser",
       "compositeRole": "Pitcher",
       "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "LHP",
-      "classYear": "R-SO",
-      "handedness": "L/L",
+      "position": "RHP",
+      "positionLong": "Pitcher",
+      "classYear": "FR",
+      "handedness": "N/A",
       "jersey": "26",
-      "hometown": "Washington Court House, Ohio",
-      "highSchool": "Washington",
+      "hometown": "Elyria, Ohio",
+      "highSchool": "Midview",
       "previousSchool": "",
-      "hometownHighSchool": "Washington Court House, Ohio / Washington",
-      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/titus-lotz/19810",
-      "imageUrl": "https://bgsufalcons.com/images/2025/9/1/26_Titus_Lotz.png",
+      "hometownHighSchool": "Elyria, Ohio / Midview",
+      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/damien-presser/20403",
+      "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Presser_cropped_hs.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "19810",
+      "rosterBioId": "20403",
       "sources": [
         "Bowling Green Athletics roster",
         "Bowling Green cumulative stats"
       ],
       "hittingStats": null,
       "pitchingStats": {
-        "rosterBioId": "19810",
-        "name": "Titus Lotz",
-        "normalizedName": "titus lotz",
+        "rosterBioId": "20403",
+        "name": "Damien Presser",
+        "normalizedName": "damien presser",
         "jersey": "26",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/titus-lotz/19810",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/26_Titus_Lotz.png",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/damien-presser/20403",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Presser_cropped_hs.png",
         "gamesPlayed": 18,
         "gamesStarted": 0,
         "appearances": 18,
@@ -2964,12 +3113,12 @@
         "walksHits": 0
       },
       "fieldingStats": {
-        "rosterBioId": "19810",
-        "name": "Titus Lotz",
-        "normalizedName": "titus lotz",
+        "rosterBioId": "20403",
+        "name": "Damien Presser",
+        "normalizedName": "damien presser",
         "jersey": "26",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/titus-lotz/19810",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/26_Titus_Lotz.png",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/damien-presser/20403",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Presser_cropped_hs.png",
         "gamesPlayed": 9,
         "gamesStarted": 0,
         "putouts": 1,
@@ -2997,7 +3146,7 @@
           "Command": 24.705882352941178,
           "Damage suppression": 0
         },
-        "summary": "Titus Lotz looks like a LHP option who misses bats.",
+        "summary": "Damien Presser looks like a RHP option who misses bats.",
         "summaryMetrics": [
           "ERA 8.46",
           "WHIP 2.06",
@@ -3029,55 +3178,55 @@
             "value": "22.3"
           }
         ],
-        "metaLine": "R-SO / L/L",
+        "metaLine": "FR / N/A",
         "detailBadges": [
-          "LHP",
-          "R-SO",
-          "L/L",
+          "RHP",
+          "FR",
+          "N/A",
           "Pitcher"
         ],
         "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats"
       }
     },
     {
-      "id": "bowling-green-19808",
+      "id": "bowling-green-20404",
       "schoolSlug": "bowling-green",
       "school": "Bowling Green",
       "schoolLongName": "Bowling Green State University",
-      "name": "Luke Krouse",
-      "normalizedName": "luke krouse",
+      "name": "Josh Diblasio",
+      "normalizedName": "josh diblasio",
       "compositeRole": "Pitcher",
       "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "LHP",
-      "classYear": "SR",
-      "handedness": "L/L",
+      "position": "OF",
+      "positionLong": "Outfield",
+      "classYear": "FR",
+      "handedness": "N/A",
       "jersey": "27",
-      "hometown": "Antwerp, Ohio",
-      "highSchool": "Antwerp",
+      "hometown": "Dublin, Ohio",
+      "highSchool": "Hillard Davidson",
       "previousSchool": "",
-      "hometownHighSchool": "Antwerp, Ohio / Antwerp",
-      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/luke-krouse/19808",
-      "imageUrl": "https://bgsufalcons.com/images/2025/9/1/27_Luke_Krouse.png",
+      "hometownHighSchool": "Dublin, Ohio / Hillard Davidson",
+      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/josh-diblasio/20404",
+      "imageUrl": "https://bgsufalcons.com/images/2026/9/24/DiBlasio_cropped_hs.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "19808",
+      "rosterBioId": "20404",
       "sources": [
         "Bowling Green Athletics roster",
         "Bowling Green cumulative stats"
       ],
       "hittingStats": null,
       "pitchingStats": {
-        "rosterBioId": "19808",
-        "name": "Luke Krouse",
-        "normalizedName": "luke krouse",
+        "rosterBioId": "20404",
+        "name": "Josh Diblasio",
+        "normalizedName": "josh diblasio",
         "jersey": "27",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/luke-krouse/19808",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/27_Luke_Krouse.png",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/josh-diblasio/20404",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/DiBlasio_cropped_hs.png",
         "gamesPlayed": 18,
         "gamesStarted": 6,
         "appearances": 18,
@@ -3106,12 +3255,12 @@
         "walksHits": 0
       },
       "fieldingStats": {
-        "rosterBioId": "19808",
-        "name": "Luke Krouse",
-        "normalizedName": "luke krouse",
+        "rosterBioId": "20404",
+        "name": "Josh Diblasio",
+        "normalizedName": "josh diblasio",
         "jersey": "27",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/luke-krouse/19808",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/27_Luke_Krouse.png",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/josh-diblasio/20404",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/DiBlasio_cropped_hs.png",
         "gamesPlayed": 7,
         "gamesStarted": 4,
         "putouts": 1,
@@ -3139,7 +3288,7 @@
           "Command": 5,
           "Damage suppression": 0
         },
-        "summary": "Luke Krouse gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Josh Diblasio gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "ERA 7.01",
           "WHIP 2.11",
@@ -3171,55 +3320,55 @@
             "value": "34.7"
           }
         ],
-        "metaLine": "SR / L/L",
+        "metaLine": "FR / N/A",
         "detailBadges": [
-          "LHP",
-          "SR",
-          "L/L",
+          "OF",
+          "FR",
+          "N/A",
           "Pitcher"
         ],
         "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats"
       }
     },
     {
-      "id": "bowling-green-19830",
+      "id": "bowling-green-20405",
       "schoolSlug": "bowling-green",
       "school": "Bowling Green",
       "schoolLongName": "Bowling Green State University",
-      "name": "Chase Clatur",
-      "normalizedName": "chase clatur",
+      "name": "Evan Slawinski",
+      "normalizedName": "evan slawinski",
       "compositeRole": "Pitcher",
       "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "RHP",
-      "classYear": "SO",
+      "position": "INF",
+      "positionLong": "Infield",
+      "classYear": "JR",
       "handedness": "R/R",
       "jersey": "28",
-      "hometown": "Nolensville, Tenn.",
-      "highSchool": "Nolensville",
-      "previousSchool": "Murray State",
-      "hometownHighSchool": "Nolensville, Tenn. / Nolensville",
-      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/chase-clatur/19830",
-      "imageUrl": "https://bgsufalcons.com/images/2025/9/1/28_Chase_Clatur.png",
+      "hometown": "Smithfield, N.C.",
+      "highSchool": "Cleveland",
+      "previousSchool": "",
+      "hometownHighSchool": "Smithfield, N.C. / Cleveland",
+      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/evan-slawinski/20405",
+      "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Slawinski_cropped_hs.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "19830",
+      "rosterBioId": "20405",
       "sources": [
         "Bowling Green Athletics roster",
         "Bowling Green cumulative stats"
       ],
       "hittingStats": null,
       "pitchingStats": {
-        "rosterBioId": "19830",
-        "name": "Chase Clatur",
-        "normalizedName": "chase clatur",
+        "rosterBioId": "20405",
+        "name": "Evan Slawinski",
+        "normalizedName": "evan slawinski",
         "jersey": "28",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/chase-clatur/19830",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/28_Chase_Clatur.png",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/evan-slawinski/20405",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Slawinski_cropped_hs.png",
         "gamesPlayed": 8,
         "gamesStarted": 0,
         "appearances": 8,
@@ -3248,12 +3397,12 @@
         "walksHits": 0
       },
       "fieldingStats": {
-        "rosterBioId": "19830",
-        "name": "Chase Clatur",
-        "normalizedName": "chase clatur",
+        "rosterBioId": "20405",
+        "name": "Evan Slawinski",
+        "normalizedName": "evan slawinski",
         "jersey": "28",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/chase-clatur/19830",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/28_Chase_Clatur.png",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/evan-slawinski/20405",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Slawinski_cropped_hs.png",
         "gamesPlayed": 2,
         "gamesStarted": 0,
         "putouts": 1,
@@ -3281,7 +3430,7 @@
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Chase Clatur looks like a RHP option who misses bats.",
+        "summary": "Evan Slawinski looks like a INF option who misses bats.",
         "summaryMetrics": [
           "ERA 10.13",
           "WHIP 3.19",
@@ -3313,10 +3462,10 @@
             "value": "5.3"
           }
         ],
-        "metaLine": "SO / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
-          "RHP",
-          "SO",
+          "INF",
+          "JR",
           "R/R",
           "Pitcher"
         ],
@@ -3324,43 +3473,43 @@
       }
     },
     {
-      "id": "bowling-green-19831",
+      "id": "bowling-green-20406",
       "schoolSlug": "bowling-green",
       "school": "Bowling Green",
       "schoolLongName": "Bowling Green State University",
-      "name": "Lance Vickers",
-      "normalizedName": "lance vickers",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "C",
-      "positionLong": "C",
-      "classYear": "JR",
-      "handedness": "R/R",
+      "name": "Tate Farquhar",
+      "normalizedName": "tate farquhar",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Pitcher",
+      "classYear": "SR",
+      "handedness": "L/R",
       "jersey": "29",
-      "hometown": "Jefferson Hills, Pa.",
-      "highSchool": "Thomas Jefferson",
-      "previousSchool": "Allen CC",
-      "hometownHighSchool": "Jefferson Hills, Pa. / Thomas Jefferson",
-      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/lance-vickers/19831",
-      "imageUrl": "https://bgsufalcons.com/images/2025/9/1/29_Lance_Vickers.png",
+      "hometown": "Trenton, Mich.",
+      "highSchool": "Lansing",
+      "previousSchool": "Michigan State",
+      "hometownHighSchool": "Trenton, Mich. / Lansing",
+      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/tate-farquhar/20406",
+      "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Farquhar_cropped_hs.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "19831",
+      "rosterBioId": "20406",
       "sources": [
         "Bowling Green Athletics roster",
         "Bowling Green cumulative stats"
       ],
       "hittingStats": {
-        "rosterBioId": "19831",
-        "name": "Lance Vickers",
-        "normalizedName": "lance vickers",
+        "rosterBioId": "20406",
+        "name": "Tate Farquhar",
+        "normalizedName": "tate farquhar",
         "jersey": "29",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/lance-vickers/19831",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/29_Lance_Vickers.png",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/tate-farquhar/20406",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Farquhar_cropped_hs.png",
         "gamesPlayed": 34,
         "gamesStarted": 32,
         "battingAverage": 0.268,
@@ -3393,12 +3542,12 @@
       },
       "pitchingStats": null,
       "fieldingStats": {
-        "rosterBioId": "19831",
-        "name": "Lance Vickers",
-        "normalizedName": "lance vickers",
+        "rosterBioId": "20406",
+        "name": "Tate Farquhar",
+        "normalizedName": "tate farquhar",
         "jersey": "29",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/lance-vickers/19831",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/29_Lance_Vickers.png",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/tate-farquhar/20406",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Farquhar_cropped_hs.png",
         "gamesPlayed": 12,
         "gamesStarted": 12,
         "putouts": 99,
@@ -3414,62 +3563,62 @@
         "totalChances": 110
       },
       "evaluation": {
-        "score": 33,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 61.11111111111111,
-          "Power": 0.26315789473684237,
-          "Contact": 30.00000000000001,
-          "Discipline": 31.54121863799283,
-          "Speed": 36.666666666666664
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
         },
-        "summary": "Lance Vickers profiles as a C piece who adds running-game pressure.",
+        "summary": "Tate Farquhar looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "AVG .268",
-          "OBP .390",
-          "SLG .321"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
-            "label": "AVG",
-            "value": ".268"
+            "label": "ERA",
+            "value": "--"
           },
           {
-            "label": "OBP",
-            "value": ".390"
+            "label": "WHIP",
+            "value": "--"
           },
           {
-            "label": "SLG",
-            "value": ".321"
+            "label": "K/9",
+            "value": "0.0"
           },
           {
-            "label": "HR",
-            "value": "1"
+            "label": "BB/9",
+            "value": "0.0"
           },
           {
-            "label": "RBI",
-            "value": "13"
+            "label": "HR/9",
+            "value": "0.00"
           },
           {
-            "label": "SB",
-            "value": "11"
+            "label": "IP",
+            "value": "0.0"
           }
         ],
-        "metaLine": "JR / R/R",
+        "metaLine": "SR / L/R",
         "detailBadges": [
-          "C",
-          "JR",
-          "R/R",
-          "Hitter"
+          "RHP",
+          "SR",
+          "L/R",
+          "Pitcher"
         ],
         "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats"
       }
     },
     {
-      "id": "bowling-green-19820",
+      "id": "bowling-green-20394",
       "schoolSlug": "bowling-green",
       "school": "Bowling Green",
       "schoolLongName": "Bowling Green State University",
@@ -3479,34 +3628,34 @@
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "RHP",
-      "classYear": "SR",
+      "classYear": "GR",
       "handedness": "R/R",
       "jersey": "30",
       "hometown": "St. Clair, Mich.",
       "highSchool": "St. Clair",
       "previousSchool": "",
       "hometownHighSchool": "St. Clair, Mich. / St. Clair",
-      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/jacob-turner/19820",
-      "imageUrl": "https://bgsufalcons.com/images/2025/9/1/30_Jacob_Turner.png",
+      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/jacob-turner/20394",
+      "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Turner_cropped_hs.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "19820",
+      "rosterBioId": "20394",
       "sources": [
         "Bowling Green Athletics roster",
         "Bowling Green cumulative stats"
       ],
       "hittingStats": null,
       "pitchingStats": {
-        "rosterBioId": "19820",
+        "rosterBioId": "20394",
         "name": "Jacob Turner",
         "normalizedName": "jacob turner",
         "jersey": "30",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/jacob-turner/19820",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/30_Jacob_Turner.png",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/jacob-turner/20394",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Turner_cropped_hs.png",
         "gamesPlayed": 5,
         "gamesStarted": 5,
         "appearances": 5,
@@ -3535,12 +3684,12 @@
         "walksHits": 0
       },
       "fieldingStats": {
-        "rosterBioId": "19820",
+        "rosterBioId": "20394",
         "name": "Jacob Turner",
         "normalizedName": "jacob turner",
         "jersey": "30",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/jacob-turner/19820",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/30_Jacob_Turner.png",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/jacob-turner/20394",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Turner_cropped_hs.png",
         "gamesPlayed": 3,
         "gamesStarted": 3,
         "putouts": 3,
@@ -3600,10 +3749,10 @@
             "value": "24.3"
           }
         ],
-        "metaLine": "SR / R/R",
+        "metaLine": "GR / R/R",
         "detailBadges": [
           "RHP",
-          "SR",
+          "GR",
           "R/R",
           "Pitcher"
         ],
@@ -3611,36 +3760,73 @@
       }
     },
     {
-      "id": "bowling-green-19271",
+      "id": "bowling-green-20407",
       "schoolSlug": "bowling-green",
       "school": "Bowling Green",
       "schoolLongName": "Bowling Green State University",
-      "name": "Jaxon Brown",
-      "normalizedName": "jaxon brown",
-      "compositeRole": "Rostered",
+      "name": "Sebastian Lopez",
+      "normalizedName": "sebastian lopez",
+      "compositeRole": "Hitter",
       "role": "Hitter",
-      "position": "C",
-      "positionLong": "C",
-      "classYear": "R-FR",
-      "handedness": "S/R",
+      "position": "INF",
+      "positionLong": "Infield",
+      "classYear": "R-SR",
+      "handedness": "R/R",
       "jersey": "31",
-      "hometown": "Lexington, Ohio",
-      "highSchool": "Lexington",
+      "hometown": "Henderson, Nev.",
+      "highSchool": "Sparta",
       "previousSchool": "",
-      "hometownHighSchool": "Lexington, Ohio / Lexington",
-      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/jaxon-brown/19271",
-      "imageUrl": "https://bgsufalcons.com/images/2025/9/1/31_Jaxon_Brown.png",
+      "hometownHighSchool": "Henderson, Nev. / Sparta",
+      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/sebastian-lopez/20407",
+      "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Lopez_cropped_hs.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "19271",
+      "rosterBioId": "20407",
       "sources": [
-        "Bowling Green Athletics roster"
+        "Bowling Green Athletics roster",
+        "Bowling Green cumulative stats"
       ],
-      "hittingStats": null,
+      "hittingStats": {
+        "rosterBioId": "20407",
+        "name": "Sebastian Lopez",
+        "normalizedName": "sebastian lopez",
+        "jersey": "31",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/sebastian-lopez/20407",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Lopez_cropped_hs.png",
+        "gamesPlayed": 5,
+        "gamesStarted": 1,
+        "battingAverage": 0.125,
+        "onBasePercentage": 0.125,
+        "sluggingPercentage": 0.25,
+        "ops": 0.375,
+        "atBats": 8,
+        "runs": 1,
+        "hits": 1,
+        "doubles": 1,
+        "triples": 0,
+        "homeRuns": 0,
+        "runsBattedIn": 0,
+        "totalBases": 2,
+        "walks": 0,
+        "hitByPitch": 0,
+        "strikeouts": 4,
+        "intentionalWalks": 0,
+        "groundedIntoDoublePlay": 0,
+        "sacrificeFlies": 0,
+        "sacrificeHits": 0,
+        "stolenBases": 0,
+        "stolenBasesAttempts": 0,
+        "putouts": 0,
+        "assists": 0,
+        "errors": 0,
+        "plateAppearances": 8,
+        "caughtStealing": 0,
+        "pickedOff": 0
+      },
       "pitchingStats": null,
       "fieldingStats": null,
       "evaluation": {
@@ -3656,24 +3842,24 @@
           "Discipline": 0,
           "Speed": 0
         },
-        "summary": "Jaxon Brown gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Sebastian Lopez gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
+          "AVG .125",
+          "OBP .125",
+          "SLG .250"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": "--"
+            "value": ".125"
           },
           {
             "label": "OBP",
-            "value": "--"
+            "value": ".125"
           },
           {
             "label": "SLG",
-            "value": "--"
+            "value": ".250"
           },
           {
             "label": "HR",
@@ -3688,55 +3874,55 @@
             "value": "0"
           }
         ],
-        "metaLine": "R-FR / S/R",
+        "metaLine": "R-SR / R/R",
         "detailBadges": [
-          "C",
-          "R-FR",
-          "S/R",
-          "Rostered"
+          "INF",
+          "R-SR",
+          "R/R",
+          "Hitter"
         ],
-        "sourceSummary": "Bowling Green Athletics roster"
+        "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats"
       }
     },
     {
-      "id": "bowling-green-19832",
+      "id": "bowling-green-20408",
       "schoolSlug": "bowling-green",
       "school": "Bowling Green",
       "schoolLongName": "Bowling Green State University",
-      "name": "Ethan Stade",
-      "normalizedName": "ethan stade",
+      "name": "Drew Jones",
+      "normalizedName": "drew jones",
       "compositeRole": "Pitcher",
       "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "LHP",
-      "classYear": "R-SR",
-      "handedness": "L/L",
+      "position": "INF",
+      "positionLong": "Infield",
+      "classYear": "FR",
+      "handedness": "R/R",
       "jersey": "32",
-      "hometown": "New Ulm, Minn.",
-      "highSchool": "New Ulm",
-      "previousSchool": "Minnesota State",
-      "hometownHighSchool": "New Ulm, Minn. / New Ulm",
-      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/ethan-stade/19832",
-      "imageUrl": "https://bgsufalcons.com/images/2025/9/1/32_Ethan_Stade.png",
+      "hometown": "Lakewood, Ohio",
+      "highSchool": "Lakewood High School",
+      "previousSchool": "",
+      "hometownHighSchool": "Lakewood, Ohio / Lakewood High School",
+      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/drew-jones/20408",
+      "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Jones_cropped_hs.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "19832",
+      "rosterBioId": "20408",
       "sources": [
         "Bowling Green Athletics roster",
         "Bowling Green cumulative stats"
       ],
       "hittingStats": null,
       "pitchingStats": {
-        "rosterBioId": "19832",
-        "name": "Ethan Stade",
-        "normalizedName": "ethan stade",
+        "rosterBioId": "20408",
+        "name": "Drew Jones",
+        "normalizedName": "drew jones",
         "jersey": "32",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/ethan-stade/19832",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/32_Ethan_Stade.png",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/drew-jones/20408",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Jones_cropped_hs.png",
         "gamesPlayed": 14,
         "gamesStarted": 10,
         "appearances": 14,
@@ -3765,12 +3951,12 @@
         "walksHits": 0
       },
       "fieldingStats": {
-        "rosterBioId": "19832",
-        "name": "Ethan Stade",
-        "normalizedName": "ethan stade",
+        "rosterBioId": "20408",
+        "name": "Drew Jones",
+        "normalizedName": "drew jones",
         "jersey": "32",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/ethan-stade/19832",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/32_Ethan_Stade.png",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/drew-jones/20408",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Jones_cropped_hs.png",
         "gamesPlayed": 8,
         "gamesStarted": 7,
         "putouts": 3,
@@ -3798,7 +3984,7 @@
           "Command": 83,
           "Damage suppression": 0
         },
-        "summary": "Ethan Stade looks like a LHP option who misses bats and throws enough strikes and keeps traffic under control.",
+        "summary": "Drew Jones looks like a INF option who misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
           "ERA 4.36",
           "WHIP 1.14",
@@ -3830,18 +4016,18 @@
             "value": "64.0"
           }
         ],
-        "metaLine": "R-SR / L/L",
+        "metaLine": "FR / R/R",
         "detailBadges": [
-          "LHP",
-          "R-SR",
-          "L/L",
+          "INF",
+          "FR",
+          "R/R",
           "Pitcher"
         ],
         "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats"
       }
     },
     {
-      "id": "bowling-green-19833",
+      "id": "bowling-green-20378",
       "schoolSlug": "bowling-green",
       "school": "Bowling Green",
       "schoolLongName": "Bowling Green State University",
@@ -3851,34 +4037,34 @@
       "role": "Pitcher",
       "position": "LHP",
       "positionLong": "LHP",
-      "classYear": "FR",
+      "classYear": "SO",
       "handedness": "L/L",
       "jersey": "33",
       "hometown": "Milford, Ohio",
       "highSchool": "Milford",
       "previousSchool": "",
       "hometownHighSchool": "Milford, Ohio / Milford",
-      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/joey-buchanan/19833",
-      "imageUrl": "https://bgsufalcons.com/images/2025/9/1/33_Joey_Buchanan.png",
+      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/joey-buchanan/20378",
+      "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Buchanan_cropped_hs.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "19833",
+      "rosterBioId": "20378",
       "sources": [
         "Bowling Green Athletics roster",
         "Bowling Green cumulative stats"
       ],
       "hittingStats": null,
       "pitchingStats": {
-        "rosterBioId": "19833",
+        "rosterBioId": "20378",
         "name": "Joey Buchanan",
         "normalizedName": "joey buchanan",
         "jersey": "33",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/joey-buchanan/19833",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/33_Joey_Buchanan.png",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/joey-buchanan/20378",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Buchanan_cropped_hs.png",
         "gamesPlayed": 11,
         "gamesStarted": 1,
         "appearances": 11,
@@ -3907,12 +4093,12 @@
         "walksHits": 0
       },
       "fieldingStats": {
-        "rosterBioId": "19833",
+        "rosterBioId": "20378",
         "name": "Joey Buchanan",
         "normalizedName": "joey buchanan",
         "jersey": "33",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/joey-buchanan/19833",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/33_Joey_Buchanan.png",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/joey-buchanan/20378",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Buchanan_cropped_hs.png",
         "gamesPlayed": 1,
         "gamesStarted": 1,
         "putouts": 0,
@@ -3972,10 +4158,10 @@
             "value": "12.0"
           }
         ],
-        "metaLine": "FR / L/L",
+        "metaLine": "SO / L/L",
         "detailBadges": [
           "LHP",
-          "FR",
+          "SO",
           "L/L",
           "Pitcher"
         ],
@@ -3983,43 +4169,43 @@
       }
     },
     {
-      "id": "bowling-green-19806",
+      "id": "bowling-green-20409",
       "schoolSlug": "bowling-green",
       "school": "Bowling Green",
       "schoolLongName": "Bowling Green State University",
-      "name": "Zack Horky",
-      "normalizedName": "zack horky",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "C/OF",
-      "positionLong": "C/OF",
-      "classYear": "R-SR",
-      "handedness": "R/R",
+      "name": "Ryan Sigale",
+      "normalizedName": "ryan sigale",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "Pitcher",
+      "classYear": "R-JR",
+      "handedness": "L/L",
       "jersey": "34",
-      "hometown": "Blissfield, Mich.",
-      "highSchool": "Blissfield",
+      "hometown": "",
+      "highSchool": "",
       "previousSchool": "",
-      "hometownHighSchool": "Blissfield, Mich. / Blissfield",
-      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/zack-horky/19806",
-      "imageUrl": "https://bgsufalcons.com/images/2025/9/1/34_Zack_Horky.png",
+      "hometownHighSchool": "",
+      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/ryan-sigale/20409",
+      "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Sigale_cropped_hs.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "19806",
+      "rosterBioId": "20409",
       "sources": [
         "Bowling Green Athletics roster",
         "Bowling Green cumulative stats"
       ],
       "hittingStats": {
-        "rosterBioId": "19806",
-        "name": "Zack Horky",
-        "normalizedName": "zack horky",
+        "rosterBioId": "20409",
+        "name": "Ryan Sigale",
+        "normalizedName": "ryan sigale",
         "jersey": "34",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/zack-horky/19806",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/34_Zack_Horky.png",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/ryan-sigale/20409",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Sigale_cropped_hs.png",
         "gamesPlayed": 48,
         "gamesStarted": 44,
         "battingAverage": 0.252,
@@ -4052,12 +4238,12 @@
       },
       "pitchingStats": null,
       "fieldingStats": {
-        "rosterBioId": "19806",
-        "name": "Zack Horky",
-        "normalizedName": "zack horky",
+        "rosterBioId": "20409",
+        "name": "Ryan Sigale",
+        "normalizedName": "ryan sigale",
         "jersey": "34",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/zack-horky/19806",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/34_Zack_Horky.png",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/ryan-sigale/20409",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Sigale_cropped_hs.png",
         "gamesPlayed": 36,
         "gamesStarted": 35,
         "putouts": 84,
@@ -4073,62 +4259,62 @@
         "totalChances": 86
       },
       "evaluation": {
-        "score": 20,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 17.222222222222207,
-          "Power": 30.526315789473685,
-          "Contact": 20,
-          "Discipline": 0,
-          "Speed": 33.33333333333333
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
         },
-        "summary": "Zack Horky profiles as a C/OF piece who adds running-game pressure.",
+        "summary": "Ryan Sigale looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "AVG .252",
-          "OBP .311",
-          "SLG .436"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
-            "label": "AVG",
-            "value": ".252"
+            "label": "ERA",
+            "value": "--"
           },
           {
-            "label": "OBP",
-            "value": ".311"
+            "label": "WHIP",
+            "value": "--"
           },
           {
-            "label": "SLG",
-            "value": ".436"
+            "label": "K/9",
+            "value": "0.0"
           },
           {
-            "label": "HR",
-            "value": "6"
+            "label": "BB/9",
+            "value": "0.0"
           },
           {
-            "label": "RBI",
-            "value": "25"
+            "label": "HR/9",
+            "value": "0.00"
           },
           {
-            "label": "SB",
-            "value": "10"
+            "label": "IP",
+            "value": "0.0"
           }
         ],
-        "metaLine": "R-SR / R/R",
+        "metaLine": "R-JR / L/L",
         "detailBadges": [
-          "C/OF",
-          "R-SR",
-          "R/R",
-          "Hitter"
+          "LHP",
+          "R-JR",
+          "L/L",
+          "Pitcher"
         ],
         "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats"
       }
     },
     {
-      "id": "bowling-green-19834",
+      "id": "bowling-green-20395",
       "schoolSlug": "bowling-green",
       "school": "Bowling Green",
       "schoolLongName": "Bowling Green State University",
@@ -4138,22 +4324,22 @@
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "RHP",
-      "classYear": "FR",
+      "classYear": "SO",
       "handedness": "R/R",
       "jersey": "35",
       "hometown": "St. Clair, Mich.",
       "highSchool": "St. Clair",
       "previousSchool": "",
       "hometownHighSchool": "St. Clair, Mich. / St. Clair",
-      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/joey-turner/19834",
-      "imageUrl": "https://bgsufalcons.com/images/2025/9/1/35_Joey_Turner.png",
+      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/joey-turner/20395",
+      "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Joey_Turner_cropped_hs.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "19834",
+      "rosterBioId": "20395",
       "sources": [
         "Bowling Green Athletics roster"
       ],
@@ -4205,10 +4391,10 @@
             "value": "0.0"
           }
         ],
-        "metaLine": "FR / R/R",
+        "metaLine": "SO / R/R",
         "detailBadges": [
           "RHP",
-          "FR",
+          "SO",
           "R/R",
           "Pitcher"
         ],
@@ -4216,7 +4402,7 @@
       }
     },
     {
-      "id": "bowling-green-19835",
+      "id": "bowling-green-20389",
       "schoolSlug": "bowling-green",
       "school": "Bowling Green",
       "schoolLongName": "Bowling Green State University",
@@ -4226,34 +4412,34 @@
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "RHP",
-      "classYear": "R-JR",
+      "classYear": "R-SR",
       "handedness": "R/R",
       "jersey": "36",
       "hometown": "Rochester, Mich.",
       "highSchool": "Stoney Creek",
       "previousSchool": "Lansing CC",
       "hometownHighSchool": "Rochester, Mich. / Stoney Creek",
-      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/ethan-papacek/19835",
-      "imageUrl": "https://bgsufalcons.com/images/2025/9/1/36_Ethan_Papacek.png",
+      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/ethan-papacek/20389",
+      "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Papacek_cropped_hs.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "19835",
+      "rosterBioId": "20389",
       "sources": [
         "Bowling Green Athletics roster",
         "Bowling Green cumulative stats"
       ],
       "hittingStats": null,
       "pitchingStats": {
-        "rosterBioId": "19835",
+        "rosterBioId": "20389",
         "name": "Ethan Papacek",
         "normalizedName": "ethan papacek",
         "jersey": "36",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/ethan-papacek/19835",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/36_Ethan_Papacek.png",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/ethan-papacek/20389",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Papacek_cropped_hs.png",
         "gamesPlayed": 17,
         "gamesStarted": 0,
         "appearances": 17,
@@ -4282,12 +4468,12 @@
         "walksHits": 0
       },
       "fieldingStats": {
-        "rosterBioId": "19835",
+        "rosterBioId": "20389",
         "name": "Ethan Papacek",
         "normalizedName": "ethan papacek",
         "jersey": "36",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/ethan-papacek/19835",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/36_Ethan_Papacek.png",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/ethan-papacek/20389",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Papacek_cropped_hs.png",
         "gamesPlayed": 7,
         "gamesStarted": 0,
         "putouts": 0,
@@ -4347,10 +4533,10 @@
             "value": "26.7"
           }
         ],
-        "metaLine": "R-JR / R/R",
+        "metaLine": "R-SR / R/R",
         "detailBadges": [
           "RHP",
-          "R-JR",
+          "R-SR",
           "R/R",
           "Pitcher"
         ],
@@ -4358,43 +4544,43 @@
       }
     },
     {
-      "id": "bowling-green-19812",
+      "id": "bowling-green-20410",
       "schoolSlug": "bowling-green",
       "school": "Bowling Green",
       "schoolLongName": "Bowling Green State University",
-      "name": "Cooper McKenzie",
-      "normalizedName": "cooper mckenzie",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "C",
-      "positionLong": "C",
-      "classYear": "SR",
+      "name": "Nate Cunningham",
+      "normalizedName": "nate cunningham",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "Pitcher",
+      "classYear": "JR",
       "handedness": "R/R",
       "jersey": "38",
-      "hometown": "Wheelersburg, Ohio",
-      "highSchool": "Wheelersburg",
+      "hometown": "",
+      "highSchool": "",
       "previousSchool": "",
-      "hometownHighSchool": "Wheelersburg, Ohio / Wheelersburg",
-      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/cooper-mckenzie/19812",
-      "imageUrl": "https://bgsufalcons.com/images/2025/9/1/38_Cooper_McKenzie.png",
+      "hometownHighSchool": "",
+      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/nate-cunningham/20410",
+      "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Cunningham_cropped_hs.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "19812",
+      "rosterBioId": "20410",
       "sources": [
         "Bowling Green Athletics roster",
         "Bowling Green cumulative stats"
       ],
       "hittingStats": {
-        "rosterBioId": "19812",
-        "name": "Cooper McKenzie",
-        "normalizedName": "cooper mckenzie",
+        "rosterBioId": "20410",
+        "name": "Nate Cunningham",
+        "normalizedName": "nate cunningham",
         "jersey": "38",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/cooper-mckenzie/19812",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/38_Cooper_McKenzie.png",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/nate-cunningham/20410",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Cunningham_cropped_hs.png",
         "gamesPlayed": 19,
         "gamesStarted": 10,
         "battingAverage": 0.083,
@@ -4427,12 +4613,12 @@
       },
       "pitchingStats": null,
       "fieldingStats": {
-        "rosterBioId": "19812",
-        "name": "Cooper McKenzie",
-        "normalizedName": "cooper mckenzie",
+        "rosterBioId": "20410",
+        "name": "Nate Cunningham",
+        "normalizedName": "nate cunningham",
         "jersey": "38",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/cooper-mckenzie/19812",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/38_Cooper_McKenzie.png",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/nate-cunningham/20410",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Cunningham_cropped_hs.png",
         "gamesPlayed": 14,
         "gamesStarted": 8,
         "putouts": 82,
@@ -4448,62 +4634,62 @@
         "totalChances": 87
       },
       "evaluation": {
-        "score": 6,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 41.26984126984126,
-          "Speed": 3.3333333333333335
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
         },
-        "summary": "Cooper McKenzie gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Nate Cunningham looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "AVG .083",
-          "OBP .267",
-          "SLG .083"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
-            "label": "AVG",
-            "value": ".083"
+            "label": "ERA",
+            "value": "--"
           },
           {
-            "label": "OBP",
-            "value": ".267"
+            "label": "WHIP",
+            "value": "--"
           },
           {
-            "label": "SLG",
-            "value": ".083"
+            "label": "K/9",
+            "value": "0.0"
           },
           {
-            "label": "HR",
-            "value": "0"
+            "label": "BB/9",
+            "value": "0.0"
           },
           {
-            "label": "RBI",
-            "value": "2"
+            "label": "HR/9",
+            "value": "0.00"
           },
           {
-            "label": "SB",
-            "value": "1"
+            "label": "IP",
+            "value": "0.0"
           }
         ],
-        "metaLine": "SR / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
-          "C",
-          "SR",
+          "RHP",
+          "JR",
           "R/R",
-          "Hitter"
+          "Pitcher"
         ],
         "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats"
       }
     },
     {
-      "id": "bowling-green-19802",
+      "id": "bowling-green-20376",
       "schoolSlug": "bowling-green",
       "school": "Bowling Green",
       "schoolLongName": "Bowling Green State University",
@@ -4513,34 +4699,34 @@
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "RHP",
-      "classYear": "SO",
+      "classYear": "JR",
       "handedness": "R/R",
       "jersey": "39",
       "hometown": "Oregon, Ohio",
       "highSchool": "Oregon Clay",
       "previousSchool": "",
       "hometownHighSchool": "Oregon, Ohio / Oregon Clay",
-      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/cj-boudreaux/19802",
-      "imageUrl": "https://bgsufalcons.com/images/2025/9/1/39_CJ_Boudreaux.png",
+      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/cj-boudreaux/20376",
+      "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Boudreaux_cropped_hs.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "19802",
+      "rosterBioId": "20376",
       "sources": [
         "Bowling Green Athletics roster",
         "Bowling Green cumulative stats"
       ],
       "hittingStats": null,
       "pitchingStats": {
-        "rosterBioId": "19802",
+        "rosterBioId": "20376",
         "name": "CJ Boudreaux",
         "normalizedName": "cj boudreaux",
         "jersey": "39",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/cj-boudreaux/19802",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/39_CJ_Boudreaux.png",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/cj-boudreaux/20376",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Boudreaux_cropped_hs.png",
         "gamesPlayed": 19,
         "gamesStarted": 0,
         "appearances": 19,
@@ -4569,12 +4755,12 @@
         "walksHits": 0
       },
       "fieldingStats": {
-        "rosterBioId": "19802",
+        "rosterBioId": "20376",
         "name": "CJ Boudreaux",
         "normalizedName": "cj boudreaux",
         "jersey": "39",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/cj-boudreaux/19802",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/39_CJ_Boudreaux.png",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/cj-boudreaux/20376",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Boudreaux_cropped_hs.png",
         "gamesPlayed": 8,
         "gamesStarted": 0,
         "putouts": 3,
@@ -4634,10 +4820,10 @@
             "value": "22.7"
           }
         ],
-        "metaLine": "SO / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "RHP",
-          "SO",
+          "JR",
           "R/R",
           "Pitcher"
         ],
@@ -4645,152 +4831,7 @@
       }
     },
     {
-      "id": "bowling-green-19836",
-      "schoolSlug": "bowling-green",
-      "school": "Bowling Green",
-      "schoolLongName": "Bowling Green State University",
-      "name": "Anthony Mitta",
-      "normalizedName": "anthony mitta",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "INF",
-      "positionLong": "INF",
-      "classYear": "R-SR",
-      "handedness": "L/R",
-      "jersey": "40",
-      "hometown": "Raleigh, N.C.",
-      "highSchool": "Leesville Road",
-      "previousSchool": "Mount Olive",
-      "hometownHighSchool": "Raleigh, N.C. / Leesville Road",
-      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/anthony-mitta/19836",
-      "imageUrl": "https://bgsufalcons.com/images/2025/9/1/40_Anthony_Mitta.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "19836",
-      "sources": [
-        "Bowling Green Athletics roster",
-        "Bowling Green cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "19836",
-        "name": "Anthony Mitta",
-        "normalizedName": "anthony mitta",
-        "jersey": "40",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/anthony-mitta/19836",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/40_Anthony_Mitta.png",
-        "gamesPlayed": 50,
-        "gamesStarted": 50,
-        "battingAverage": 0.298,
-        "onBasePercentage": 0.37,
-        "sluggingPercentage": 0.429,
-        "ops": 0.799,
-        "atBats": 191,
-        "runs": 23,
-        "hits": 57,
-        "doubles": 11,
-        "triples": 1,
-        "homeRuns": 4,
-        "runsBattedIn": 24,
-        "totalBases": 82,
-        "walks": 19,
-        "hitByPitch": 4,
-        "strikeouts": 45,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 2,
-        "sacrificeHits": 1,
-        "stolenBases": 6,
-        "stolenBasesAttempts": 10,
-        "putouts": 152,
-        "assists": 0,
-        "errors": 6,
-        "plateAppearances": 231,
-        "caughtStealing": 4,
-        "pickedOff": 1
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "19836",
-        "name": "Anthony Mitta",
-        "normalizedName": "anthony mitta",
-        "jersey": "40",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/anthony-mitta/19836",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/40_Anthony_Mitta.png",
-        "gamesPlayed": 41,
-        "gamesStarted": 41,
-        "putouts": 152,
-        "assists": 48,
-        "errors": 6,
-        "fieldingPercentage": 0.971,
-        "doublePlays": 13,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 206
-      },
-      "evaluation": {
-        "score": 38,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 49.999999999999986,
-          "Power": 28.68421052631579,
-          "Contact": 48.749999999999986,
-          "Discipline": 24.691358024691354,
-          "Speed": 20
-        },
-        "summary": "Anthony Mitta gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .298",
-          "OBP .370",
-          "SLG .429"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".298"
-          },
-          {
-            "label": "OBP",
-            "value": ".370"
-          },
-          {
-            "label": "SLG",
-            "value": ".429"
-          },
-          {
-            "label": "HR",
-            "value": "4"
-          },
-          {
-            "label": "RBI",
-            "value": "24"
-          },
-          {
-            "label": "SB",
-            "value": "6"
-          }
-        ],
-        "metaLine": "R-SR / L/R",
-        "detailBadges": [
-          "INF",
-          "R-SR",
-          "L/R",
-          "Hitter"
-        ],
-        "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats"
-      }
-    },
-    {
-      "id": "bowling-green-19801",
+      "id": "bowling-green-20375",
       "schoolSlug": "bowling-green",
       "school": "Bowling Green",
       "schoolLongName": "Bowling Green State University",
@@ -4800,33 +4841,33 @@
       "role": "Hitter",
       "position": "INF",
       "positionLong": "INF",
-      "classYear": "R-JR",
+      "classYear": "R-SR",
       "handedness": "R/R",
       "jersey": "43",
       "hometown": "New Lothrop, Mich.",
       "highSchool": "New Lothrop",
       "previousSchool": "",
       "hometownHighSchool": "New Lothrop, Mich. / New Lothrop",
-      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/brady-birchmeier/19801",
-      "imageUrl": "https://bgsufalcons.com/images/2025/9/1/43_Brady_Birchmeier.png",
+      "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/brady-birchmeier/20375",
+      "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Birchmeir_cropped_hs.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "19801",
+      "rosterBioId": "20375",
       "sources": [
         "Bowling Green Athletics roster",
         "Bowling Green cumulative stats"
       ],
       "hittingStats": {
-        "rosterBioId": "19801",
+        "rosterBioId": "20375",
         "name": "Brady Birchmeier",
         "normalizedName": "brady birchmeier",
         "jersey": "43",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/brady-birchmeier/19801",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/43_Brady_Birchmeier.png",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/brady-birchmeier/20375",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Birchmeir_cropped_hs.png",
         "gamesPlayed": 10,
         "gamesStarted": 10,
         "battingAverage": 0.257,
@@ -4859,12 +4900,12 @@
       },
       "pitchingStats": null,
       "fieldingStats": {
-        "rosterBioId": "19801",
+        "rosterBioId": "20375",
         "name": "Brady Birchmeier",
         "normalizedName": "brady birchmeier",
         "jersey": "43",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/brady-birchmeier/19801",
-        "imageUrl": "https://bgsufalcons.com/images/2025/9/1/43_Brady_Birchmeier.png",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/brady-birchmeier/20375",
+        "imageUrl": "https://bgsufalcons.com/images/2026/9/24/Birchmeir_cropped_hs.png",
         "gamesPlayed": 9,
         "gamesStarted": 9,
         "putouts": 56,
@@ -4924,10 +4965,10 @@
             "value": "1"
           }
         ],
-        "metaLine": "R-JR / R/R",
+        "metaLine": "R-SR / R/R",
         "detailBadges": [
           "INF",
-          "R-JR",
+          "R-SR",
           "R/R",
           "Hitter"
         ],
@@ -4940,93 +4981,24 @@
     "note": "This Bowling Green-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but Bowling Green's public ESPN roster feed did not line up cleanly with the current school-site roster.",
     "totalPlayers": 36,
     "roleCounts": {
-      "Hitter": 18,
-      "Pitcher": 18
+      "Hitter": 14,
+      "Pitcher": 22
     },
     "players": [
       {
-        "id": "bowling-green-19822",
-        "name": "Pauly Mancino",
+        "id": "bowling-green-20396",
+        "name": "Lance Vickers",
         "school": "Bowling Green",
         "role": "Hitter",
-        "position": "OF",
-        "classYear": "JR",
+        "position": "C",
+        "classYear": "SR",
         "handedness": "R/R",
-        "score": 33,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Pauly Mancino profiles as a OF piece who adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .258",
-          "OBP .376",
-          "SLG .393"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".258"
-          },
-          {
-            "label": "OBP",
-            "value": ".376"
-          },
-          {
-            "label": "SLG",
-            "value": ".393"
-          },
-          {
-            "label": "HR",
-            "value": "3"
-          },
-          {
-            "label": "RBI",
-            "value": "17"
-          },
-          {
-            "label": "SB",
-            "value": "8"
-          }
-        ],
-        "components": {
-          "On-base": 53.33333333333332,
-          "Power": 19.21052631578948,
-          "Contact": 23.750000000000004,
-          "Discipline": 29.629629629629623,
-          "Speed": 26.666666666666668
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "OF",
-          "JR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Bowling Green Athletics roster",
-          "Bowling Green cumulative stats"
-        ],
-        "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
-        "schoolSlug": "bowling-green",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/pauly-mancino/19822",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "bowling-green-19263",
-        "name": "Chase Chopin",
-        "school": "Bowling Green",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "R-FR",
-        "handedness": "R/L",
         "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Chase Chopin gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Lance Vickers gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG --",
           "OBP --",
@@ -5065,11 +5037,11 @@
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "R-FR / R/L",
+        "metaLine": "SR / R/R",
         "detailBadges": [
-          "OF",
-          "R-FR",
-          "R/L",
+          "C",
+          "SR",
+          "R/R",
           "Rostered"
         ],
         "leaderboards": [
@@ -5078,16 +5050,154 @@
         "sourceSummary": "Bowling Green Athletics roster",
         "schoolSlug": "bowling-green",
         "compositeRole": "Rostered",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/chase-chopin/19263",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/lance-vickers/20396",
         "espnAthleteId": ""
       },
       {
-        "id": "bowling-green-19805",
+        "id": "bowling-green-20380",
+        "name": "Chase Clatur",
+        "school": "Bowling Green",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Chase Clatur looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Bowling Green Athletics roster",
+          "Bowling Green cumulative stats"
+        ],
+        "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
+        "schoolSlug": "bowling-green",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/chase-clatur/20380",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "bowling-green-20379",
+        "name": "Chase Chopin",
+        "school": "Bowling Green",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "R-FR",
+        "handedness": "R/L",
+        "score": 2,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Chase Chopin gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG .029",
+          "OBP .150",
+          "SLG .118"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": ".029"
+          },
+          {
+            "label": "OBP",
+            "value": ".150"
+          },
+          {
+            "label": "SLG",
+            "value": ".118"
+          },
+          {
+            "label": "HR",
+            "value": "1"
+          },
+          {
+            "label": "RBI",
+            "value": "5"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 11.965811965811964,
+          "Speed": 0
+        },
+        "metaLine": "R-FR / R/L",
+        "detailBadges": [
+          "OF",
+          "R-FR",
+          "R/L",
+          "Hitter"
+        ],
+        "leaderboards": [
+          "Bowling Green Athletics roster",
+          "Bowling Green cumulative stats"
+        ],
+        "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
+        "schoolSlug": "bowling-green",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/chase-chopin/20379",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "bowling-green-20381",
         "name": "Brayden Curlis",
         "school": "Bowling Green",
         "role": "Hitter",
         "position": "INF",
-        "classYear": "SO",
+        "classYear": "JR",
         "handedness": "R/R",
         "score": 31,
         "fit": {
@@ -5133,10 +5243,10 @@
           "Discipline": 22.22222222222222,
           "Speed": 0
         },
-        "metaLine": "SO / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "INF",
-          "SO",
+          "JR",
           "R/R",
           "Hitter"
         ],
@@ -5147,16 +5257,16 @@
         "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
         "schoolSlug": "bowling-green",
         "compositeRole": "Hitter",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/brayden-curlis/19805",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/brayden-curlis/20381",
         "espnAthleteId": ""
       },
       {
-        "id": "bowling-green-19817",
+        "id": "bowling-green-20391",
         "name": "Micah Smith",
         "school": "Bowling Green",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "SO",
+        "classYear": "JR",
         "handedness": "R/R",
         "score": 12,
         "fit": {
@@ -5202,10 +5312,10 @@
           "Command": 5.454545454545454,
           "Damage suppression": 0
         },
-        "metaLine": "SO / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "RHP",
-          "SO",
+          "JR",
           "R/R",
           "Pitcher"
         ],
@@ -5216,16 +5326,16 @@
         "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
         "schoolSlug": "bowling-green",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/micah-smith/19817",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/micah-smith/20391",
         "espnAthleteId": ""
       },
       {
-        "id": "bowling-green-19818",
+        "id": "bowling-green-20392",
         "name": "Carrson Sova",
         "school": "Bowling Green",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "SO",
+        "classYear": "JR",
         "handedness": "R/R",
         "score": 12,
         "fit": {
@@ -5271,10 +5381,10 @@
           "Command": 12.799999999999997,
           "Damage suppression": 0
         },
-        "metaLine": "SO / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "RHP",
-          "SO",
+          "JR",
           "R/R",
           "Pitcher"
         ],
@@ -5285,16 +5395,16 @@
         "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
         "schoolSlug": "bowling-green",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/carrson-sova/19818",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/carrson-sova/20392",
         "espnAthleteId": ""
       },
       {
-        "id": "bowling-green-19819",
+        "id": "bowling-green-20393",
         "name": "TJ Takats",
         "school": "Bowling Green",
         "role": "Hitter",
         "position": "1B/OF",
-        "classYear": "JR",
+        "classYear": "SR",
         "handedness": "L/L",
         "score": 15,
         "fit": {
@@ -5340,10 +5450,10 @@
           "Discipline": 23.361823361823355,
           "Speed": 20
         },
-        "metaLine": "JR / L/L",
+        "metaLine": "SR / L/L",
         "detailBadges": [
           "1B/OF",
-          "JR",
+          "SR",
           "L/L",
           "Hitter"
         ],
@@ -5354,16 +5464,16 @@
         "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
         "schoolSlug": "bowling-green",
         "compositeRole": "Hitter",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/tj-takats/19819",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/tj-takats/20393",
         "espnAthleteId": ""
       },
       {
-        "id": "bowling-green-19807",
+        "id": "bowling-green-20384",
         "name": "Nate Kress",
         "school": "Bowling Green",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "R-SO",
+        "classYear": "R-JR",
         "handedness": "R/R",
         "score": 16,
         "fit": {
@@ -5409,10 +5519,10 @@
           "Command": 42.22222222222222,
           "Damage suppression": 0
         },
-        "metaLine": "R-SO / R/R",
+        "metaLine": "R-JR / R/R",
         "detailBadges": [
           "RHP",
-          "R-SO",
+          "R-JR",
           "R/R",
           "Pitcher"
         ],
@@ -5423,16 +5533,16 @@
         "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
         "schoolSlug": "bowling-green",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/nate-kress/19807",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/nate-kress/20384",
         "espnAthleteId": ""
       },
       {
-        "id": "bowling-green-19823",
+        "id": "bowling-green-20383",
         "name": "John Hughes",
         "school": "Bowling Green",
         "role": "Hitter",
         "position": "OF",
-        "classYear": "FR",
+        "classYear": "SO",
         "handedness": "R/R",
         "score": 0,
         "fit": {
@@ -5478,10 +5588,10 @@
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "FR / R/R",
+        "metaLine": "SO / R/R",
         "detailBadges": [
           "OF",
-          "FR",
+          "SO",
           "R/R",
           "Rostered"
         ],
@@ -5491,23 +5601,23 @@
         "sourceSummary": "Bowling Green Athletics roster",
         "schoolSlug": "bowling-green",
         "compositeRole": "Rostered",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/john-hughes/19823",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/john-hughes/20383",
         "espnAthleteId": ""
       },
       {
-        "id": "bowling-green-19815",
-        "name": "Ty Roder",
+        "id": "bowling-green-20397",
+        "name": "Jaden Saavedre",
         "school": "Bowling Green",
         "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "R-SR",
+        "position": "C",
+        "classYear": "FR",
         "handedness": "R/R",
         "score": 14,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Ty Roder gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Jaden Saavedre gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "ERA 4.46",
           "WHIP 1.57",
@@ -5546,10 +5656,10 @@
           "Command": 34.285714285714285,
           "Damage suppression": 0
         },
-        "metaLine": "R-SR / R/R",
+        "metaLine": "FR / R/R",
         "detailBadges": [
-          "RHP",
-          "R-SR",
+          "C",
+          "FR",
           "R/R",
           "Pitcher"
         ],
@@ -5560,23 +5670,23 @@
         "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
         "schoolSlug": "bowling-green",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/ty-roder/19815",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/jaden-saavedre/20397",
         "espnAthleteId": ""
       },
       {
-        "id": "bowling-green-19824",
-        "name": "Jackson Miller",
+        "id": "bowling-green-20398",
+        "name": "Jack Andes",
         "school": "Bowling Green",
         "role": "Pitcher",
-        "position": "LHP",
+        "position": "OF/RHP",
         "classYear": "FR",
-        "handedness": "R/L",
+        "handedness": "R/R",
         "score": 14,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Jackson Miller looks like a LHP option who misses bats.",
+        "summary": "Jack Andes looks like a OF/RHP option who misses bats.",
         "summaryMetrics": [
           "ERA 5.84",
           "WHIP 1.59",
@@ -5615,11 +5725,11 @@
           "Command": 21.73913043478261,
           "Damage suppression": 0
         },
-        "metaLine": "FR / R/L",
+        "metaLine": "FR / R/R",
         "detailBadges": [
-          "LHP",
+          "OF/RHP",
           "FR",
-          "R/L",
+          "R/R",
           "Pitcher"
         ],
         "leaderboards": [
@@ -5629,23 +5739,23 @@
         "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
         "schoolSlug": "bowling-green",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/jackson-miller/19824",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/jack-andes/20398",
         "espnAthleteId": ""
       },
       {
-        "id": "bowling-green-19811",
-        "name": "Carson Lumley",
+        "id": "bowling-green-20377",
+        "name": "Jaxon Brown",
         "school": "Bowling Green",
         "role": "Pitcher",
-        "position": "RHP",
+        "position": "C",
         "classYear": "R-SO",
-        "handedness": "R/R",
+        "handedness": "S/R",
         "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Carson Lumley looks like a RHP option who throws enough strikes and keeps traffic under control.",
+        "summary": "Jaxon Brown looks like a C option who throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
           "ERA 99.00",
           "WHIP 0.00",
@@ -5684,11 +5794,11 @@
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "R-SO / R/R",
+        "metaLine": "R-SO / S/R",
         "detailBadges": [
-          "RHP",
+          "C",
           "R-SO",
-          "R/R",
+          "S/R",
           "Pitcher"
         ],
         "leaderboards": [
@@ -5698,16 +5808,16 @@
         "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
         "schoolSlug": "bowling-green",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/carson-lumley/19811",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/jaxon-brown/20377",
         "espnAthleteId": ""
       },
       {
-        "id": "bowling-green-19809",
+        "id": "bowling-green-20385",
         "name": "Alex Laird",
         "school": "Bowling Green",
         "role": "Hitter",
         "position": "INF",
-        "classYear": "R-SO",
+        "classYear": "R-JR",
         "handedness": "R/R",
         "score": 21,
         "fit": {
@@ -5753,10 +5863,10 @@
           "Discipline": 40.579710144927525,
           "Speed": 60
         },
-        "metaLine": "R-SO / R/R",
+        "metaLine": "R-JR / R/R",
         "detailBadges": [
           "INF",
-          "R-SO",
+          "R-JR",
           "R/R",
           "Hitter"
         ],
@@ -5767,16 +5877,16 @@
         "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
         "schoolSlug": "bowling-green",
         "compositeRole": "Hitter",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/alex-laird/19809",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/alex-laird/20385",
         "espnAthleteId": ""
       },
       {
-        "id": "bowling-green-19814",
+        "id": "bowling-green-20388",
         "name": "Carter Mottice",
         "school": "Bowling Green",
         "role": "Hitter",
         "position": "OF",
-        "classYear": "SO",
+        "classYear": "JR",
         "handedness": "L/L",
         "score": 27,
         "fit": {
@@ -5822,10 +5932,10 @@
           "Discipline": 54.700854700854684,
           "Speed": 23.333333333333332
         },
-        "metaLine": "SO / L/L",
+        "metaLine": "JR / L/L",
         "detailBadges": [
           "OF",
-          "SO",
+          "JR",
           "L/L",
           "Hitter"
         ],
@@ -5836,16 +5946,16 @@
         "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
         "schoolSlug": "bowling-green",
         "compositeRole": "Hitter",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/carter-mottice/19814",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/carter-mottice/20388",
         "espnAthleteId": ""
       },
       {
-        "id": "bowling-green-19825",
+        "id": "bowling-green-20390",
         "name": "Griffin Scheiderer",
         "school": "Bowling Green",
         "role": "Hitter",
         "position": "INF",
-        "classYear": "FR",
+        "classYear": "SO",
         "handedness": "L/R",
         "score": 17,
         "fit": {
@@ -5891,10 +6001,10 @@
           "Discipline": 23.84823848238482,
           "Speed": 10
         },
-        "metaLine": "FR / L/R",
+        "metaLine": "SO / L/R",
         "detailBadges": [
           "INF",
-          "FR",
+          "SO",
           "L/R",
           "Hitter"
         ],
@@ -5905,16 +6015,16 @@
         "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
         "schoolSlug": "bowling-green",
         "compositeRole": "Hitter",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/griffin-scheiderer/19825",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/griffin-scheiderer/20390",
         "espnAthleteId": ""
       },
       {
-        "id": "bowling-green-19813",
+        "id": "bowling-green-20386",
         "name": "Perry Miller",
         "school": "Bowling Green",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "SR",
+        "classYear": "GR",
         "handedness": "R/R",
         "score": 0,
         "fit": {
@@ -5960,10 +6070,10 @@
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SR / R/R",
+        "metaLine": "GR / R/R",
         "detailBadges": [
           "RHP",
-          "SR",
+          "GR",
           "R/R",
           "Pitcher"
         ],
@@ -5973,23 +6083,23 @@
         "sourceSummary": "Bowling Green Athletics roster",
         "schoolSlug": "bowling-green",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/perry-miller/19813",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/perry-miller/20386",
         "espnAthleteId": ""
       },
       {
-        "id": "bowling-green-19800",
-        "name": "Kade Arn",
+        "id": "bowling-green-20399",
+        "name": "Jackson Urenovitch",
         "school": "Bowling Green",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "SR",
+        "classYear": "FR",
         "handedness": "R/R",
         "score": 20,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Kade Arn looks like a RHP option who misses bats.",
+        "summary": "Jackson Urenovitch looks like a RHP option who misses bats.",
         "summaryMetrics": [
           "ERA 8.55",
           "WHIP 2.05",
@@ -6028,10 +6138,10 @@
           "Command": 48.57142857142858,
           "Damage suppression": 0
         },
-        "metaLine": "SR / R/R",
+        "metaLine": "FR / R/R",
         "detailBadges": [
           "RHP",
-          "SR",
+          "FR",
           "R/R",
           "Pitcher"
         ],
@@ -6042,23 +6152,23 @@
         "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
         "schoolSlug": "bowling-green",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/kade-arn/19800",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/jackson-urenovitch/20399",
         "espnAthleteId": ""
       },
       {
-        "id": "bowling-green-19816",
-        "name": "Sam Seidel",
+        "id": "bowling-green-20400",
+        "name": "Owen McKoon",
         "school": "Bowling Green",
         "role": "Hitter",
-        "position": "INF",
-        "classYear": "SR",
-        "handedness": "L/R",
+        "position": "OF",
+        "classYear": "SO",
+        "handedness": "R/R",
         "score": 36,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Sam Seidel profiles as a INF piece who adds running-game pressure.",
+        "summary": "Owen McKoon profiles as a OF piece who adds running-game pressure.",
         "summaryMetrics": [
           "AVG .239",
           "OBP .363",
@@ -6097,11 +6207,11 @@
           "Discipline": 45.41062801932367,
           "Speed": 60
         },
-        "metaLine": "SR / L/R",
+        "metaLine": "SO / R/R",
         "detailBadges": [
-          "INF",
-          "SR",
-          "L/R",
+          "OF",
+          "SO",
+          "R/R",
           "Hitter"
         ],
         "leaderboards": [
@@ -6111,16 +6221,16 @@
         "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
         "schoolSlug": "bowling-green",
         "compositeRole": "Hitter",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/sam-seidel/19816",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/owen-mckoon/20400",
         "espnAthleteId": ""
       },
       {
-        "id": "bowling-green-19826",
+        "id": "bowling-green-20387",
         "name": "Josh Mommers",
         "school": "Bowling Green",
         "role": "Hitter",
         "position": "INF",
-        "classYear": "FR",
+        "classYear": "SO",
         "handedness": "L/R",
         "score": 0,
         "fit": {
@@ -6166,10 +6276,10 @@
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "FR / L/R",
+        "metaLine": "SO / L/R",
         "detailBadges": [
           "INF",
-          "FR",
+          "SO",
           "L/R",
           "Rostered"
         ],
@@ -6179,23 +6289,23 @@
         "sourceSummary": "Bowling Green Athletics roster",
         "schoolSlug": "bowling-green",
         "compositeRole": "Rostered",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/josh-mommers/19826",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/josh-mommers/20387",
         "espnAthleteId": ""
       },
       {
-        "id": "bowling-green-19827",
-        "name": "Vinny Salvione",
+        "id": "bowling-green-20401",
+        "name": "Carson Balls",
         "school": "Bowling Green",
         "role": "Hitter",
-        "position": "INF",
-        "classYear": "JR",
-        "handedness": "R/R",
+        "position": "C/INF",
+        "classYear": "FR",
+        "handedness": "L/R",
         "score": 12,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Vinny Salvione gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Carson Balls gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG .250",
           "OBP .287",
@@ -6234,11 +6344,11 @@
           "Discipline": 1.5873015873015843,
           "Speed": 10
         },
-        "metaLine": "JR / R/R",
+        "metaLine": "FR / L/R",
         "detailBadges": [
-          "INF",
-          "JR",
-          "R/R",
+          "C/INF",
+          "FR",
+          "L/R",
           "Hitter"
         ],
         "leaderboards": [
@@ -6248,23 +6358,23 @@
         "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
         "schoolSlug": "bowling-green",
         "compositeRole": "Hitter",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/vinny-salvione/19827",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/carson-balls/20401",
         "espnAthleteId": ""
       },
       {
-        "id": "bowling-green-19828",
-        "name": "Andrew Heffernan",
+        "id": "bowling-green-20402",
+        "name": "Harrison Schneider",
         "school": "Bowling Green",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "JR",
+        "classYear": "FR",
         "handedness": "R/R",
         "score": 12,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Andrew Heffernan looks like a RHP option who throws enough strikes.",
+        "summary": "Harrison Schneider looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA 5.97",
           "WHIP 1.46",
@@ -6303,10 +6413,10 @@
           "Command": 50,
           "Damage suppression": 0
         },
-        "metaLine": "JR / R/R",
+        "metaLine": "FR / R/R",
         "detailBadges": [
           "RHP",
-          "JR",
+          "FR",
           "R/R",
           "Pitcher"
         ],
@@ -6317,16 +6427,16 @@
         "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
         "schoolSlug": "bowling-green",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/andrew-heffernan/19828",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/harrison-schneider/20402",
         "espnAthleteId": ""
       },
       {
-        "id": "bowling-green-19829",
+        "id": "bowling-green-20382",
         "name": "Andrew DiLodovico",
         "school": "Bowling Green",
         "role": "Hitter",
         "position": "C",
-        "classYear": "FR",
+        "classYear": "SO",
         "handedness": "R/R",
         "score": 30,
         "fit": {
@@ -6372,10 +6482,10 @@
           "Discipline": 7.807807807807807,
           "Speed": 13.333333333333334
         },
-        "metaLine": "FR / R/R",
+        "metaLine": "SO / R/R",
         "detailBadges": [
           "C",
-          "FR",
+          "SO",
           "R/R",
           "Hitter"
         ],
@@ -6386,23 +6496,23 @@
         "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
         "schoolSlug": "bowling-green",
         "compositeRole": "Hitter",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/andrew-dilodovico/19829",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/andrew-dilodovico/20382",
         "espnAthleteId": ""
       },
       {
-        "id": "bowling-green-19810",
-        "name": "Titus Lotz",
+        "id": "bowling-green-20403",
+        "name": "Damien Presser",
         "school": "Bowling Green",
         "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "R-SO",
-        "handedness": "L/L",
+        "position": "RHP",
+        "classYear": "FR",
+        "handedness": "N/A",
         "score": 24,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Titus Lotz looks like a LHP option who misses bats.",
+        "summary": "Damien Presser looks like a RHP option who misses bats.",
         "summaryMetrics": [
           "ERA 8.46",
           "WHIP 2.06",
@@ -6441,11 +6551,11 @@
           "Command": 24.705882352941178,
           "Damage suppression": 0
         },
-        "metaLine": "R-SO / L/L",
+        "metaLine": "FR / N/A",
         "detailBadges": [
-          "LHP",
-          "R-SO",
-          "L/L",
+          "RHP",
+          "FR",
+          "N/A",
           "Pitcher"
         ],
         "leaderboards": [
@@ -6455,23 +6565,23 @@
         "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
         "schoolSlug": "bowling-green",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/titus-lotz/19810",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/damien-presser/20403",
         "espnAthleteId": ""
       },
       {
-        "id": "bowling-green-19808",
-        "name": "Luke Krouse",
+        "id": "bowling-green-20404",
+        "name": "Josh Diblasio",
         "school": "Bowling Green",
         "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "SR",
-        "handedness": "L/L",
+        "position": "OF",
+        "classYear": "FR",
+        "handedness": "N/A",
         "score": 5,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Luke Krouse gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Josh Diblasio gives Toledo a live pitching snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "ERA 7.01",
           "WHIP 2.11",
@@ -6510,11 +6620,11 @@
           "Command": 5,
           "Damage suppression": 0
         },
-        "metaLine": "SR / L/L",
+        "metaLine": "FR / N/A",
         "detailBadges": [
-          "LHP",
-          "SR",
-          "L/L",
+          "OF",
+          "FR",
+          "N/A",
           "Pitcher"
         ],
         "leaderboards": [
@@ -6524,23 +6634,23 @@
         "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
         "schoolSlug": "bowling-green",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/luke-krouse/19808",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/josh-diblasio/20404",
         "espnAthleteId": ""
       },
       {
-        "id": "bowling-green-19830",
-        "name": "Chase Clatur",
+        "id": "bowling-green-20405",
+        "name": "Evan Slawinski",
         "school": "Bowling Green",
         "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
+        "position": "INF",
+        "classYear": "JR",
         "handedness": "R/R",
         "score": 11,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Chase Clatur looks like a RHP option who misses bats.",
+        "summary": "Evan Slawinski looks like a INF option who misses bats.",
         "summaryMetrics": [
           "ERA 10.13",
           "WHIP 3.19",
@@ -6579,10 +6689,10 @@
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SO / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
-          "RHP",
-          "SO",
+          "INF",
+          "JR",
           "R/R",
           "Pitcher"
         ],
@@ -6593,67 +6703,67 @@
         "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
         "schoolSlug": "bowling-green",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/chase-clatur/19830",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/evan-slawinski/20405",
         "espnAthleteId": ""
       },
       {
-        "id": "bowling-green-19831",
-        "name": "Lance Vickers",
+        "id": "bowling-green-20406",
+        "name": "Tate Farquhar",
         "school": "Bowling Green",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 33,
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "L/R",
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Lance Vickers profiles as a C piece who adds running-game pressure.",
+        "summary": "Tate Farquhar looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "AVG .268",
-          "OBP .390",
-          "SLG .321"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
-            "label": "AVG",
-            "value": ".268"
+            "label": "ERA",
+            "value": "--"
           },
           {
-            "label": "OBP",
-            "value": ".390"
+            "label": "WHIP",
+            "value": "--"
           },
           {
-            "label": "SLG",
-            "value": ".321"
+            "label": "K/9",
+            "value": "0.0"
           },
           {
-            "label": "HR",
-            "value": "1"
+            "label": "BB/9",
+            "value": "0.0"
           },
           {
-            "label": "RBI",
-            "value": "13"
+            "label": "HR/9",
+            "value": "0.00"
           },
           {
-            "label": "SB",
-            "value": "11"
+            "label": "IP",
+            "value": "0.0"
           }
         ],
         "components": {
-          "On-base": 61.11111111111111,
-          "Power": 0.26315789473684237,
-          "Contact": 30.00000000000001,
-          "Discipline": 31.54121863799283,
-          "Speed": 36.666666666666664
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
         },
-        "metaLine": "JR / R/R",
+        "metaLine": "SR / L/R",
         "detailBadges": [
-          "C",
-          "JR",
-          "R/R",
-          "Hitter"
+          "RHP",
+          "SR",
+          "L/R",
+          "Pitcher"
         ],
         "leaderboards": [
           "Bowling Green Athletics roster",
@@ -6661,17 +6771,17 @@
         ],
         "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
         "schoolSlug": "bowling-green",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/lance-vickers/19831",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/tate-farquhar/20406",
         "espnAthleteId": ""
       },
       {
-        "id": "bowling-green-19820",
+        "id": "bowling-green-20394",
         "name": "Jacob Turner",
         "school": "Bowling Green",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "SR",
+        "classYear": "GR",
         "handedness": "R/R",
         "score": 14,
         "fit": {
@@ -6717,10 +6827,10 @@
           "Command": 55.99999999999999,
           "Damage suppression": 0
         },
-        "metaLine": "SR / R/R",
+        "metaLine": "GR / R/R",
         "detailBadges": [
           "RHP",
-          "SR",
+          "GR",
           "R/R",
           "Pitcher"
         ],
@@ -6731,40 +6841,40 @@
         "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
         "schoolSlug": "bowling-green",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/jacob-turner/19820",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/jacob-turner/20394",
         "espnAthleteId": ""
       },
       {
-        "id": "bowling-green-19271",
-        "name": "Jaxon Brown",
+        "id": "bowling-green-20407",
+        "name": "Sebastian Lopez",
         "school": "Bowling Green",
         "role": "Hitter",
-        "position": "C",
-        "classYear": "R-FR",
-        "handedness": "S/R",
+        "position": "INF",
+        "classYear": "R-SR",
+        "handedness": "R/R",
         "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Jaxon Brown gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Sebastian Lopez gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
+          "AVG .125",
+          "OBP .125",
+          "SLG .250"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": "--"
+            "value": ".125"
           },
           {
             "label": "OBP",
-            "value": "--"
+            "value": ".125"
           },
           {
             "label": "SLG",
-            "value": "--"
+            "value": ".250"
           },
           {
             "label": "HR",
@@ -6786,36 +6896,37 @@
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "R-FR / S/R",
+        "metaLine": "R-SR / R/R",
         "detailBadges": [
-          "C",
-          "R-FR",
-          "S/R",
-          "Rostered"
+          "INF",
+          "R-SR",
+          "R/R",
+          "Hitter"
         ],
         "leaderboards": [
-          "Bowling Green Athletics roster"
+          "Bowling Green Athletics roster",
+          "Bowling Green cumulative stats"
         ],
-        "sourceSummary": "Bowling Green Athletics roster",
+        "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
         "schoolSlug": "bowling-green",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/jaxon-brown/19271",
+        "compositeRole": "Hitter",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/sebastian-lopez/20407",
         "espnAthleteId": ""
       },
       {
-        "id": "bowling-green-19832",
-        "name": "Ethan Stade",
+        "id": "bowling-green-20408",
+        "name": "Drew Jones",
         "school": "Bowling Green",
         "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "R-SR",
-        "handedness": "L/L",
+        "position": "INF",
+        "classYear": "FR",
+        "handedness": "R/R",
         "score": 32,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Ethan Stade looks like a LHP option who misses bats and throws enough strikes and keeps traffic under control.",
+        "summary": "Drew Jones looks like a INF option who misses bats and throws enough strikes and keeps traffic under control.",
         "summaryMetrics": [
           "ERA 4.36",
           "WHIP 1.14",
@@ -6854,11 +6965,11 @@
           "Command": 83,
           "Damage suppression": 0
         },
-        "metaLine": "R-SR / L/L",
+        "metaLine": "FR / R/R",
         "detailBadges": [
-          "LHP",
-          "R-SR",
-          "L/L",
+          "INF",
+          "FR",
+          "R/R",
           "Pitcher"
         ],
         "leaderboards": [
@@ -6868,16 +6979,16 @@
         "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
         "schoolSlug": "bowling-green",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/ethan-stade/19832",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/drew-jones/20408",
         "espnAthleteId": ""
       },
       {
-        "id": "bowling-green-19833",
+        "id": "bowling-green-20378",
         "name": "Joey Buchanan",
         "school": "Bowling Green",
         "role": "Pitcher",
         "position": "LHP",
-        "classYear": "FR",
+        "classYear": "SO",
         "handedness": "L/L",
         "score": 15,
         "fit": {
@@ -6923,10 +7034,10 @@
           "Command": 10,
           "Damage suppression": 0
         },
-        "metaLine": "FR / L/L",
+        "metaLine": "SO / L/L",
         "detailBadges": [
           "LHP",
-          "FR",
+          "SO",
           "L/L",
           "Pitcher"
         ],
@@ -6937,67 +7048,67 @@
         "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
         "schoolSlug": "bowling-green",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/joey-buchanan/19833",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/joey-buchanan/20378",
         "espnAthleteId": ""
       },
       {
-        "id": "bowling-green-19806",
-        "name": "Zack Horky",
+        "id": "bowling-green-20409",
+        "name": "Ryan Sigale",
         "school": "Bowling Green",
-        "role": "Hitter",
-        "position": "C/OF",
-        "classYear": "R-SR",
-        "handedness": "R/R",
-        "score": 20,
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "R-JR",
+        "handedness": "L/L",
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Zack Horky profiles as a C/OF piece who adds running-game pressure.",
+        "summary": "Ryan Sigale looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "AVG .252",
-          "OBP .311",
-          "SLG .436"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
-            "label": "AVG",
-            "value": ".252"
+            "label": "ERA",
+            "value": "--"
           },
           {
-            "label": "OBP",
-            "value": ".311"
+            "label": "WHIP",
+            "value": "--"
           },
           {
-            "label": "SLG",
-            "value": ".436"
+            "label": "K/9",
+            "value": "0.0"
           },
           {
-            "label": "HR",
-            "value": "6"
+            "label": "BB/9",
+            "value": "0.0"
           },
           {
-            "label": "RBI",
-            "value": "25"
+            "label": "HR/9",
+            "value": "0.00"
           },
           {
-            "label": "SB",
-            "value": "10"
+            "label": "IP",
+            "value": "0.0"
           }
         ],
         "components": {
-          "On-base": 17.222222222222207,
-          "Power": 30.526315789473685,
-          "Contact": 20,
-          "Discipline": 0,
-          "Speed": 33.33333333333333
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
         },
-        "metaLine": "R-SR / R/R",
+        "metaLine": "R-JR / L/L",
         "detailBadges": [
-          "C/OF",
-          "R-SR",
-          "R/R",
-          "Hitter"
+          "LHP",
+          "R-JR",
+          "L/L",
+          "Pitcher"
         ],
         "leaderboards": [
           "Bowling Green Athletics roster",
@@ -7005,17 +7116,17 @@
         ],
         "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
         "schoolSlug": "bowling-green",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/zack-horky/19806",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/ryan-sigale/20409",
         "espnAthleteId": ""
       },
       {
-        "id": "bowling-green-19834",
+        "id": "bowling-green-20395",
         "name": "Joey Turner",
         "school": "Bowling Green",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "FR",
+        "classYear": "SO",
         "handedness": "R/R",
         "score": 0,
         "fit": {
@@ -7061,10 +7172,10 @@
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "FR / R/R",
+        "metaLine": "SO / R/R",
         "detailBadges": [
           "RHP",
-          "FR",
+          "SO",
           "R/R",
           "Pitcher"
         ],
@@ -7074,16 +7185,16 @@
         "sourceSummary": "Bowling Green Athletics roster",
         "schoolSlug": "bowling-green",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/joey-turner/19834",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/joey-turner/20395",
         "espnAthleteId": ""
       },
       {
-        "id": "bowling-green-19835",
+        "id": "bowling-green-20389",
         "name": "Ethan Papacek",
         "school": "Bowling Green",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "R-JR",
+        "classYear": "R-SR",
         "handedness": "R/R",
         "score": 9,
         "fit": {
@@ -7129,10 +7240,10 @@
           "Command": 16.666666666666664,
           "Damage suppression": 0
         },
-        "metaLine": "R-JR / R/R",
+        "metaLine": "R-SR / R/R",
         "detailBadges": [
           "RHP",
-          "R-JR",
+          "R-SR",
           "R/R",
           "Pitcher"
         ],
@@ -7143,67 +7254,67 @@
         "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
         "schoolSlug": "bowling-green",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/ethan-papacek/19835",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/ethan-papacek/20389",
         "espnAthleteId": ""
       },
       {
-        "id": "bowling-green-19812",
-        "name": "Cooper McKenzie",
+        "id": "bowling-green-20410",
+        "name": "Nate Cunningham",
         "school": "Bowling Green",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "SR",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
         "handedness": "R/R",
-        "score": 6,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Cooper McKenzie gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Nate Cunningham looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "AVG .083",
-          "OBP .267",
-          "SLG .083"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
-            "label": "AVG",
-            "value": ".083"
+            "label": "ERA",
+            "value": "--"
           },
           {
-            "label": "OBP",
-            "value": ".267"
+            "label": "WHIP",
+            "value": "--"
           },
           {
-            "label": "SLG",
-            "value": ".083"
+            "label": "K/9",
+            "value": "0.0"
           },
           {
-            "label": "HR",
-            "value": "0"
+            "label": "BB/9",
+            "value": "0.0"
           },
           {
-            "label": "RBI",
-            "value": "2"
+            "label": "HR/9",
+            "value": "0.00"
           },
           {
-            "label": "SB",
-            "value": "1"
+            "label": "IP",
+            "value": "0.0"
           }
         ],
         "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 41.26984126984126,
-          "Speed": 3.3333333333333335
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
         },
-        "metaLine": "SR / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
-          "C",
-          "SR",
+          "RHP",
+          "JR",
           "R/R",
-          "Hitter"
+          "Pitcher"
         ],
         "leaderboards": [
           "Bowling Green Athletics roster",
@@ -7211,17 +7322,17 @@
         ],
         "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
         "schoolSlug": "bowling-green",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/cooper-mckenzie/19812",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/nate-cunningham/20410",
         "espnAthleteId": ""
       },
       {
-        "id": "bowling-green-19802",
+        "id": "bowling-green-20376",
         "name": "CJ Boudreaux",
         "school": "Bowling Green",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "SO",
+        "classYear": "JR",
         "handedness": "R/R",
         "score": 5,
         "fit": {
@@ -7267,10 +7378,10 @@
           "Command": 2.6666666666666705,
           "Damage suppression": 0
         },
-        "metaLine": "SO / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "RHP",
-          "SO",
+          "JR",
           "R/R",
           "Pitcher"
         ],
@@ -7281,85 +7392,16 @@
         "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
         "schoolSlug": "bowling-green",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/cj-boudreaux/19802",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/cj-boudreaux/20376",
         "espnAthleteId": ""
       },
       {
-        "id": "bowling-green-19836",
-        "name": "Anthony Mitta",
-        "school": "Bowling Green",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "R-SR",
-        "handedness": "L/R",
-        "score": 38,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Anthony Mitta gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .298",
-          "OBP .370",
-          "SLG .429"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".298"
-          },
-          {
-            "label": "OBP",
-            "value": ".370"
-          },
-          {
-            "label": "SLG",
-            "value": ".429"
-          },
-          {
-            "label": "HR",
-            "value": "4"
-          },
-          {
-            "label": "RBI",
-            "value": "24"
-          },
-          {
-            "label": "SB",
-            "value": "6"
-          }
-        ],
-        "components": {
-          "On-base": 49.999999999999986,
-          "Power": 28.68421052631579,
-          "Contact": 48.749999999999986,
-          "Discipline": 24.691358024691354,
-          "Speed": 20
-        },
-        "metaLine": "R-SR / L/R",
-        "detailBadges": [
-          "INF",
-          "R-SR",
-          "L/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Bowling Green Athletics roster",
-          "Bowling Green cumulative stats"
-        ],
-        "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
-        "schoolSlug": "bowling-green",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/anthony-mitta/19836",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "bowling-green-19801",
+        "id": "bowling-green-20375",
         "name": "Brady Birchmeier",
         "school": "Bowling Green",
         "role": "Hitter",
         "position": "INF",
-        "classYear": "R-JR",
+        "classYear": "R-SR",
         "handedness": "R/R",
         "score": 22,
         "fit": {
@@ -7405,10 +7447,10 @@
           "Discipline": 11.111111111111107,
           "Speed": 3.3333333333333335
         },
-        "metaLine": "R-JR / R/R",
+        "metaLine": "R-SR / R/R",
         "detailBadges": [
           "INF",
-          "R-JR",
+          "R-SR",
           "R/R",
           "Hitter"
         ],
@@ -7419,7 +7461,7 @@
         "sourceSummary": "Bowling Green Athletics roster + Bowling Green cumulative stats",
         "schoolSlug": "bowling-green",
         "compositeRole": "Hitter",
-        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/brady-birchmeier/19801",
+        "profileUrl": "https://bgsufalcons.com/sports/baseball/roster/brady-birchmeier/20375",
         "espnAthleteId": ""
       }
     ]

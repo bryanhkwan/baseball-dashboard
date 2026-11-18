@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.east-carolina2026 = {
-  "generatedAt": "2026-07-29T11:06:06.918Z",
+  "generatedAt": "2026-11-18T10:18:13.743Z",
   "season": 2026,
   "school": {
     "slug": "east-carolina",
@@ -25,52 +25,52 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
     "ncaa": "NCAA school index"
   },
   "coverage": {
-    "rosterPlayers": 41,
+    "rosterPlayers": 45,
     "espnRosterPlayers": 0,
-    "playersWithHittingStats": 10,
-    "playersWithPitchingStats": 9,
-    "playersWithFieldingStats": 15,
-    "mergedPlayersWithAnyStats": 18,
+    "playersWithHittingStats": 0,
+    "playersWithPitchingStats": 0,
+    "playersWithFieldingStats": 0,
+    "mergedPlayersWithAnyStats": 0,
     "matchedEspnPlayers": 0,
     "unmatchedStatRows": {
       "hitting": [
-        "51",
-        "21",
-        "16",
-        "0",
-        "13",
-        "14",
-        "8",
-        "1",
-        "28"
+        "Jack Herring",
+        "Austin Irby",
+        "Parker Byrd",
+        "Jeff Sabater",
+        "Michael Kalinich",
+        "Matt Lashley",
+        "Alex Bouche",
+        "Carlos Jacome",
+        "Blade Carver"
       ],
       "pitching": [
-        "33",
-        "18",
-        "35",
-        "99",
-        "27",
-        "20",
-        "19",
-        "8",
-        "6"
+        "Joseph Webb",
+        "Ethan Norby",
+        "Gavin Van Kempen",
+        "Gavin Marley",
+        "Nick Moran",
+        "Frank Ciccone",
+        "Jackson DiLorenzo",
+        "Alex Bouche",
+        "Dawson Neal"
       ],
       "fielding": [
-        "0",
-        "33",
-        "28",
-        "19",
-        "27",
-        "20",
-        "35",
-        "13",
-        "1",
-        "51",
-        "21",
-        "8",
-        "14",
-        "18",
-        "99"
+        "Jeff Sabater",
+        "Joseph Webb",
+        "Blade Carver",
+        "Jackson DiLorenzo",
+        "Nick Moran",
+        "Frank Ciccone",
+        "Gavin Van Kempen",
+        "Michael Kalinich",
+        "Carlos Jacome",
+        "Jack Herring",
+        "Austin Irby",
+        "Alex Bouche",
+        "Matt Lashley",
+        "Ethan Norby",
+        "Gavin Marley"
       ]
     }
   },
@@ -160,32 +160,32 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
   },
   "players": [
     {
-      "id": "east-carolina-14127",
+      "id": "east-carolina-14612",
       "schoolSlug": "east-carolina",
       "school": "East Carolina",
       "schoolLongName": "East Carolina University",
-      "name": "Jeff Sabater",
-      "normalizedName": "jeff sabater",
+      "name": "Shane Monaghan",
+      "normalizedName": "shane monaghan",
       "compositeRole": "Rostered",
       "role": "Hitter",
-      "position": "OF",
-      "positionLong": "Outfield",
-      "classYear": "GR",
-      "handedness": "L/R",
+      "position": "INF",
+      "positionLong": "",
+      "classYear": "1ST YR",
+      "handedness": "N/A",
       "jersey": "0",
-      "hometown": "Lansdale, Pa.",
-      "highSchool": "North Penn",
-      "previousSchool": "Millersville",
-      "hometownHighSchool": "Lansdale, Pa. / North Penn",
-      "profileUrl": "https://ecupirates.com/sports/baseball/roster/jeff-sabater/14127",
-      "imageUrl": "https://ecupirates.com/images/2025/12/2/Sabater_Jeff_COAT_TIE_MUG_2025-1.jpg",
+      "hometown": "Coatesville, Penn.",
+      "highSchool": "Coatesville High School",
+      "previousSchool": "",
+      "hometownHighSchool": "Coatesville, Penn. / Coatesville High School",
+      "profileUrl": "https://ecupirates.com/sports/baseball/roster/shane-monaghan/14612",
+      "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "14127",
+      "rosterBioId": "14612",
       "sources": [
         "East Carolina Athletics roster"
       ],
@@ -205,7 +205,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "summary": "Jeff Sabater gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Shane Monaghan gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG --",
           "OBP --",
@@ -237,43 +237,43 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "GR / L/R",
+        "metaLine": "1ST YR / N/A",
         "detailBadges": [
-          "OF",
-          "GR",
-          "L/R",
+          "INF",
+          "1ST YR",
+          "N/A",
           "Rostered"
         ],
         "sourceSummary": "East Carolina Athletics roster"
       }
     },
     {
-      "id": "east-carolina-14128",
+      "id": "east-carolina-14613",
       "schoolSlug": "east-carolina",
       "school": "East Carolina",
       "schoolLongName": "East Carolina University",
-      "name": "Carlos Jacome",
-      "normalizedName": "carlos jacome",
-      "compositeRole": "Rostered",
-      "role": "Hitter",
-      "position": "INF",
-      "positionLong": "Infield",
+      "name": "Brady Thompson",
+      "normalizedName": "brady thompson",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "1B/RHP",
+      "positionLong": "",
       "classYear": "3RD YR",
-      "handedness": "R/R",
+      "handedness": "N/A",
       "jersey": "1",
-      "hometown": "Caracas, Venezuela",
-      "highSchool": "Christopher Columbus",
-      "previousSchool": "South Florida",
-      "hometownHighSchool": "Caracas, Venezuela / Christopher Columbus",
-      "profileUrl": "https://ecupirates.com/sports/baseball/roster/carlos-jacome/14128",
-      "imageUrl": "https://ecupirates.com/images/2025/12/1/Jacome_Carlos_COAT_TIE_MUG_2025-1.jpg",
+      "hometown": "Charlotte, N.C.",
+      "highSchool": "Providence High School",
+      "previousSchool": "UNCW",
+      "hometownHighSchool": "Charlotte, N.C. / Providence High School",
+      "profileUrl": "https://ecupirates.com/sports/baseball/roster/brady-thompson/14613",
+      "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "14128",
+      "rosterBioId": "14613",
       "sources": [
         "East Carolina Athletics roster"
       ],
@@ -287,50 +287,50 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
         },
-        "summary": "Carlos Jacome gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Brady Thompson looks like a 1B/RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
-            "label": "AVG",
+            "label": "ERA",
             "value": "--"
           },
           {
-            "label": "OBP",
+            "label": "WHIP",
             "value": "--"
           },
           {
-            "label": "SLG",
-            "value": "--"
+            "label": "K/9",
+            "value": "0.0"
           },
           {
-            "label": "HR",
-            "value": "0"
+            "label": "BB/9",
+            "value": "0.0"
           },
           {
-            "label": "RBI",
-            "value": "0"
+            "label": "HR/9",
+            "value": "0.00"
           },
           {
-            "label": "SB",
-            "value": "0"
+            "label": "IP",
+            "value": "0.0"
           }
         ],
-        "metaLine": "3RD YR / R/R",
+        "metaLine": "3RD YR / N/A",
         "detailBadges": [
-          "INF",
+          "1B/RHP",
           "3RD YR",
-          "R/R",
-          "Rostered"
+          "N/A",
+          "Pitcher"
         ],
         "sourceSummary": "East Carolina Athletics roster"
       }
@@ -346,7 +346,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "role": "Hitter",
       "position": "OF",
       "positionLong": "Outfield",
-      "classYear": "1ST YR",
+      "classYear": "2ND YR",
       "handedness": "L/R",
       "jersey": "2",
       "hometown": "Raleigh",
@@ -354,7 +354,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "previousSchool": "",
       "hometownHighSchool": "Raleigh / Millbrook",
       "profileUrl": "https://ecupirates.com/sports/baseball/roster/jack-strom/14543",
-      "imageUrl": "https://ecupirates.com/images/2025/12/2/Strom_Jack_COAT_TIE_MUG_2025-1.jpg",
+      "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -413,10 +413,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "1ST YR / L/R",
+        "metaLine": "2ND YR / L/R",
         "detailBadges": [
           "OF",
-          "1ST YR",
+          "2ND YR",
           "L/R",
           "Rostered"
         ],
@@ -430,11 +430,11 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "schoolLongName": "East Carolina University",
       "name": "Davin Whitaker",
       "normalizedName": "davin whitaker",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "OF",
       "positionLong": "Outfield",
-      "classYear": "R-SO",
+      "classYear": "4TH YR",
       "handedness": "L/R",
       "jersey": "3",
       "hometown": "Mocksville",
@@ -442,7 +442,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "previousSchool": "",
       "hometownHighSchool": "Mocksville / Davie County",
       "profileUrl": "https://ecupirates.com/sports/baseball/roster/davin-whitaker/14550",
-      "imageUrl": "https://ecupirates.com/images/2025/12/2/Whitaker_Davin_COAT_TIE_MUG_2025-1.jpg",
+      "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -451,121 +451,64 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "espnThrows": "",
       "rosterBioId": "14550",
       "sources": [
-        "East Carolina Athletics roster",
-        "East Carolina cumulative stats"
+        "East Carolina Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "14550",
-        "name": "Davin Whitaker",
-        "normalizedName": "davin whitaker",
-        "jersey": "3",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/davin-whitaker/14550",
-        "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
-        "gamesPlayed": 62,
-        "gamesStarted": 53,
-        "battingAverage": 0.323,
-        "onBasePercentage": 0.428,
-        "sluggingPercentage": 0.554,
-        "ops": 0.982,
-        "atBats": 195,
-        "runs": 52,
-        "hits": 63,
-        "doubles": 9,
-        "triples": 3,
-        "homeRuns": 10,
-        "runsBattedIn": 45,
-        "totalBases": 108,
-        "walks": 30,
-        "hitByPitch": 8,
-        "strikeouts": 46,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 3,
-        "sacrificeHits": 6,
-        "stolenBases": 6,
-        "stolenBasesAttempts": 6,
-        "putouts": 86,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 248,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "14550",
-        "name": "Davin Whitaker",
-        "normalizedName": "davin whitaker",
-        "jersey": "3",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/davin-whitaker/14550",
-        "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
-        "gamesPlayed": 47,
-        "gamesStarted": 43,
-        "putouts": 86,
-        "assists": 1,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 87
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 63,
+        "score": 0,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
         "components": {
-          "On-base": 82.22222222222221,
-          "Power": 61.57894736842107,
-          "Contact": 64.375,
-          "Discipline": 50.241545893719795,
-          "Speed": 20
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "summary": "Davin Whitaker profiles as a OF piece who gets on base at a high clip and brings real extra-base damage.",
+        "summary": "Davin Whitaker gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .323",
-          "OBP .428",
-          "SLG .554"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".323"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".428"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".554"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "10"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "45"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "6"
+            "value": "0"
           }
         ],
-        "metaLine": "R-SO / L/R",
+        "metaLine": "4TH YR / L/R",
         "detailBadges": [
           "OF",
-          "R-SO",
+          "4TH YR",
           "L/R",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats"
+        "sourceSummary": "East Carolina Athletics roster"
       }
     },
     {
@@ -575,11 +518,11 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "schoolLongName": "East Carolina University",
       "name": "Nick Parham",
       "normalizedName": "nick parham",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "INF",
       "positionLong": "Infield",
-      "classYear": "3RD YR",
+      "classYear": "4TH YR",
       "handedness": "L/R",
       "jersey": "4",
       "hometown": "Asheville",
@@ -587,7 +530,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "previousSchool": "",
       "hometownHighSchool": "Asheville / T.C. Roberson",
       "profileUrl": "https://ecupirates.com/sports/baseball/roster/nick-parham/14538",
-      "imageUrl": "https://ecupirates.com/images/2025/12/2/Parham_Nick_COAT_TIE_MUG_2025-1.jpg",
+      "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -596,121 +539,64 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "espnThrows": "",
       "rosterBioId": "14538",
       "sources": [
-        "East Carolina Athletics roster",
-        "East Carolina cumulative stats"
+        "East Carolina Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "14538",
-        "name": "Nick Parham",
-        "normalizedName": "nick parham",
-        "jersey": "4",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/nick-parham/14538",
-        "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
-        "gamesPlayed": 45,
-        "gamesStarted": 30,
-        "battingAverage": 0.205,
-        "onBasePercentage": 0.3,
-        "sluggingPercentage": 0.318,
-        "ops": 0.618,
-        "atBats": 88,
-        "runs": 14,
-        "hits": 18,
-        "doubles": 4,
-        "triples": 0,
-        "homeRuns": 2,
-        "runsBattedIn": 11,
-        "totalBases": 28,
-        "walks": 9,
-        "hitByPitch": 3,
-        "strikeouts": 30,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 2,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 9,
-        "stolenBases": 3,
-        "stolenBasesAttempts": 5,
-        "putouts": 36,
-        "assists": 0,
-        "errors": 9,
-        "plateAppearances": 116,
-        "caughtStealing": 2,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "14538",
-        "name": "Nick Parham",
-        "normalizedName": "nick parham",
-        "jersey": "4",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/nick-parham/14538",
-        "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
-        "gamesPlayed": 32,
-        "gamesStarted": 26,
-        "putouts": 36,
-        "assists": 48,
-        "errors": 9,
-        "fieldingPercentage": 0.903,
-        "doublePlays": 8,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 93
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 6,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 11.111111111111091,
+          "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 11.111111111111107,
-          "Speed": 10
+          "Discipline": 0,
+          "Speed": 0
         },
         "summary": "Nick Parham gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .205",
-          "OBP .300",
-          "SLG .318"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".205"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".300"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".318"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "2"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "11"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "3"
+            "value": "0"
           }
         ],
-        "metaLine": "3RD YR / L/R",
+        "metaLine": "4TH YR / L/R",
         "detailBadges": [
           "INF",
-          "3RD YR",
+          "4TH YR",
           "L/R",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats"
+        "sourceSummary": "East Carolina Athletics roster"
       }
     },
     {
@@ -724,7 +610,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "role": "Pitcher",
       "position": "LHP",
       "positionLong": "LHP",
-      "classYear": "2ND YR",
+      "classYear": "3RD YR",
       "handedness": "L/L",
       "jersey": "5",
       "hometown": "Garden City, N.Y.",
@@ -732,7 +618,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "previousSchool": "",
       "hometownHighSchool": "Garden City, N.Y. / Garden City",
       "profileUrl": "https://ecupirates.com/sports/baseball/roster/gabe-beschloss/14531",
-      "imageUrl": "https://ecupirates.com/images/2025/12/1/Beschloss_Gabe_COAT_TIE_MUG_2025-1.jpg",
+      "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -791,10 +677,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "2ND YR / L/L",
+        "metaLine": "3RD YR / L/L",
         "detailBadges": [
           "LHP",
-          "2ND YR",
+          "3RD YR",
           "L/L",
           "Pitcher"
         ],
@@ -802,262 +688,32 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       }
     },
     {
-      "id": "east-carolina-13913",
+      "id": "east-carolina-14614",
       "schoolSlug": "east-carolina",
       "school": "East Carolina",
       "schoolLongName": "East Carolina University",
-      "name": "Dawson Neal",
-      "normalizedName": "dawson neal",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "LHP",
-      "classYear": "4TH YR",
-      "handedness": "L/L",
-      "jersey": "6",
-      "hometown": "Leland",
-      "highSchool": "West Stokes",
-      "previousSchool": "Brunswick Community College",
-      "hometownHighSchool": "Leland / West Stokes",
-      "profileUrl": "https://ecupirates.com/sports/baseball/roster/dawson-neal/13913",
-      "imageUrl": "https://ecupirates.com/images/2025/12/2/Neal_Dawson_COAT_TIE_MUG_2025-1.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "13913",
-      "sources": [
-        "East Carolina Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Dawson Neal looks like a LHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "metaLine": "4TH YR / L/L",
-        "detailBadges": [
-          "LHP",
-          "4TH YR",
-          "L/L",
-          "Pitcher"
-        ],
-        "sourceSummary": "East Carolina Athletics roster"
-      }
-    },
-    {
-      "id": "east-carolina-14544",
-      "schoolSlug": "east-carolina",
-      "school": "East Carolina",
-      "schoolLongName": "East Carolina University",
-      "name": "Ryan Towers",
-      "normalizedName": "ryan towers",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "LHP",
-      "classYear": "R-JR",
-      "handedness": "L/L",
-      "jersey": "7",
-      "hometown": "Henderson, Nev.",
-      "highSchool": "Liberty",
-      "previousSchool": "Loyola Marymount",
-      "hometownHighSchool": "Henderson, Nev. / Liberty",
-      "profileUrl": "https://ecupirates.com/sports/baseball/roster/ryan-towers/14544",
-      "imageUrl": "https://ecupirates.com/images/2025/12/2/Towers_Ryan_COAT_TIE_MUG_2025-1.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "14544",
-      "sources": [
-        "East Carolina Athletics roster",
-        "East Carolina cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "14544",
-        "name": "Ryan Towers",
-        "normalizedName": "ryan towers",
-        "jersey": "7",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/ryan-towers/14544",
-        "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
-        "gamesPlayed": 17,
-        "gamesStarted": 15,
-        "appearances": 17,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 3.39,
-        "whip": 1.27,
-        "wins": 7,
-        "losses": 4,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 58.333333333333336,
-        "inningsPitchedDisplay": "58.1",
-        "hitsAllowed": 50,
-        "runsAllowed": 32,
-        "earnedRunsAllowed": 22,
-        "walksAllowed": 24,
-        "strikeouts": 45,
-        "doublesAllowed": 6,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 7,
-        "opponentsAtBats": 218,
-        "wildPitches": 6,
-        "hitBatters": 10,
-        "balks": 0,
-        "opponentsBattingAverage": 0.229,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "14544",
-        "name": "Ryan Towers",
-        "normalizedName": "ryan towers",
-        "jersey": "7",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/ryan-towers/14544",
-        "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
-        "gamesPlayed": 10,
-        "gamesStarted": 9,
-        "putouts": 2,
-        "assists": 11,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 13
-      },
-      "evaluation": {
-        "score": 8,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 26.753246753246746,
-          "Command": 17.499999999999996,
-          "Damage suppression": 0
-        },
-        "summary": "Ryan Towers looks like a LHP option who limits runs.",
-        "summaryMetrics": [
-          "ERA 3.39",
-          "WHIP 1.27",
-          "K/9 6.9"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.39"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.27"
-          },
-          {
-            "label": "K/9",
-            "value": "6.9"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.7"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.08"
-          },
-          {
-            "label": "IP",
-            "value": "58.3"
-          }
-        ],
-        "metaLine": "R-JR / L/L",
-        "detailBadges": [
-          "LHP",
-          "R-JR",
-          "L/L",
-          "Pitcher"
-        ],
-        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats"
-      }
-    },
-    {
-      "id": "east-carolina-13900",
-      "schoolSlug": "east-carolina",
-      "school": "East Carolina",
-      "schoolLongName": "East Carolina University",
-      "name": "Alex Bouche",
-      "normalizedName": "alex bouche",
+      "name": "Josh Mozingo",
+      "normalizedName": "josh mozingo",
       "compositeRole": "Rostered",
       "role": "Hitter",
-      "position": "UTL",
-      "positionLong": "Utility",
-      "classYear": "4TH YR",
-      "handedness": "R/R",
-      "jersey": "8",
-      "hometown": "Chesapeake, Va.",
-      "highSchool": "South Central",
-      "previousSchool": "Old Dominion",
-      "hometownHighSchool": "Chesapeake, Va. / South Central",
-      "profileUrl": "https://ecupirates.com/sports/baseball/roster/alex-bouche/13900",
-      "imageUrl": "https://ecupirates.com/images/2025/12/1/Bouche_Alex_COAT_TIE_MUG_2025-1.jpg",
+      "position": "INF",
+      "positionLong": "",
+      "classYear": "1ST YR",
+      "handedness": "N/A",
+      "jersey": "6",
+      "hometown": "Fayetteville, N.C.",
+      "highSchool": "Terry Sanford High School",
+      "previousSchool": "",
+      "hometownHighSchool": "Fayetteville, N.C. / Terry Sanford High School",
+      "profileUrl": "https://ecupirates.com/sports/baseball/roster/josh-mozingo/14614",
+      "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "13900",
+      "rosterBioId": "14614",
       "sources": [
         "East Carolina Athletics roster"
       ],
@@ -1077,7 +733,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "summary": "Alex Bouche gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Josh Mozingo gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG --",
           "OBP --",
@@ -1109,11 +765,187 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "4TH YR / R/R",
+        "metaLine": "1ST YR / N/A",
         "detailBadges": [
-          "UTL",
-          "4TH YR",
-          "R/R",
+          "INF",
+          "1ST YR",
+          "N/A",
+          "Rostered"
+        ],
+        "sourceSummary": "East Carolina Athletics roster"
+      }
+    },
+    {
+      "id": "east-carolina-14544",
+      "schoolSlug": "east-carolina",
+      "school": "East Carolina",
+      "schoolLongName": "East Carolina University",
+      "name": "Ryan Towers",
+      "normalizedName": "ryan towers",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "LHP",
+      "classYear": "5TH YR",
+      "handedness": "L/L",
+      "jersey": "7",
+      "hometown": "Henderson, Nev.",
+      "highSchool": "Liberty",
+      "previousSchool": "Loyola Marymount",
+      "hometownHighSchool": "Henderson, Nev. / Liberty",
+      "profileUrl": "https://ecupirates.com/sports/baseball/roster/ryan-towers/14544",
+      "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "14544",
+      "sources": [
+        "East Carolina Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Ryan Towers looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "5TH YR / L/L",
+        "detailBadges": [
+          "LHP",
+          "5TH YR",
+          "L/L",
+          "Pitcher"
+        ],
+        "sourceSummary": "East Carolina Athletics roster"
+      }
+    },
+    {
+      "id": "east-carolina-14615",
+      "schoolSlug": "east-carolina",
+      "school": "East Carolina",
+      "schoolLongName": "East Carolina University",
+      "name": "Westin Boyle",
+      "normalizedName": "westin boyle",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "",
+      "classYear": "2ND YR",
+      "handedness": "N/A",
+      "jersey": "8",
+      "hometown": "Overland Park, Kan.",
+      "highSchool": "St. Thomas Aquinas High School",
+      "previousSchool": "Purdue",
+      "hometownHighSchool": "Overland Park, Kan. / St. Thomas Aquinas High School",
+      "profileUrl": "https://ecupirates.com/sports/baseball/roster/westin-boyle/14615",
+      "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "14615",
+      "sources": [
+        "East Carolina Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Westin Boyle gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "2ND YR / N/A",
+        "detailBadges": [
+          "INF",
+          "2ND YR",
+          "N/A",
           "Rostered"
         ],
         "sourceSummary": "East Carolina Athletics roster"
@@ -1130,7 +962,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "RHP",
-      "classYear": "R-SO",
+      "classYear": "4TH YR",
       "handedness": "R/R",
       "jersey": "9",
       "hometown": "Conyngham, Pa.",
@@ -1138,7 +970,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "previousSchool": "Texas A&M",
       "hometownHighSchool": "Conyngham, Pa. / Hazelton Area",
       "profileUrl": "https://ecupirates.com/sports/baseball/roster/brett-antolick/14527",
-      "imageUrl": "https://ecupirates.com/images/2025/12/1/Antolick_Brett_COAT_TIE_MUG_2025-1.jpg",
+      "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -1147,67 +979,13 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "espnThrows": "",
       "rosterBioId": "14527",
       "sources": [
-        "East Carolina Athletics roster",
-        "East Carolina cumulative stats"
+        "East Carolina Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "14527",
-        "name": "Brett Antolick",
-        "normalizedName": "brett antolick",
-        "jersey": "9",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/brett-antolick/14527",
-        "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
-        "gamesPlayed": 12,
-        "gamesStarted": 5,
-        "appearances": 12,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 7.91,
-        "whip": 1.71,
-        "wins": 3,
-        "losses": 2,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 19.333333333333332,
-        "inningsPitchedDisplay": "19.1",
-        "hitsAllowed": 25,
-        "runsAllowed": 20,
-        "earnedRunsAllowed": 17,
-        "walksAllowed": 8,
-        "strikeouts": 30,
-        "doublesAllowed": 5,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 4,
-        "opponentsAtBats": 82,
-        "wildPitches": 5,
-        "hitBatters": 6,
-        "balks": 0,
-        "opponentsBattingAverage": 0.305,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "14527",
-        "name": "Brett Antolick",
-        "normalizedName": "brett antolick",
-        "jersey": "9",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/brett-antolick/14527",
-        "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
-        "gamesPlayed": 3,
-        "gamesStarted": 2,
-        "putouts": 1,
-        "assists": 0,
-        "errors": 1,
-        "fieldingPercentage": 0.5,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 1,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 2
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 27,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -1215,50 +993,50 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 90.59561128526646,
-          "Command": 55.00000000000001,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Brett Antolick looks like a RHP option who misses bats.",
+        "summary": "Brett Antolick looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 7.91",
-          "WHIP 1.71",
-          "K/9 14.0"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.91"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.71"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "14.0"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "3.7"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.86"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "19.3"
+            "value": "0.0"
           }
         ],
-        "metaLine": "R-SO / R/R",
+        "metaLine": "4TH YR / R/R",
         "detailBadges": [
           "RHP",
-          "R-SO",
+          "4TH YR",
           "R/R",
           "Pitcher"
         ],
-        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats"
+        "sourceSummary": "East Carolina Athletics roster"
       }
     },
     {
@@ -1268,11 +1046,11 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "schoolLongName": "East Carolina University",
       "name": "Colby Wallace",
       "normalizedName": "colby wallace",
-      "compositeRole": "Two-Way",
+      "compositeRole": "Pitcher",
       "role": "Pitcher",
       "position": "INF/RHP",
       "positionLong": "Infield/RHP",
-      "classYear": "3RD YR",
+      "classYear": "4TH YR",
       "handedness": "R/R",
       "jersey": "10",
       "hometown": "Biscoe",
@@ -1280,7 +1058,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "previousSchool": "",
       "hometownHighSchool": "Biscoe / Pinecrest",
       "profileUrl": "https://ecupirates.com/sports/baseball/roster/colby-wallace/14548",
-      "imageUrl": "https://ecupirates.com/images/2025/12/2/Wallace_Colby_COAT_TIE_MUG_2025-1.jpg",
+      "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -1289,103 +1067,13 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "espnThrows": "",
       "rosterBioId": "14548",
       "sources": [
-        "East Carolina Athletics roster",
-        "East Carolina cumulative stats"
+        "East Carolina Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "14548",
-        "name": "Colby Wallace",
-        "normalizedName": "colby wallace",
-        "jersey": "10",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/colby-wallace/14548",
-        "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
-        "gamesPlayed": 63,
-        "gamesStarted": 63,
-        "battingAverage": 0.301,
-        "onBasePercentage": 0.354,
-        "sluggingPercentage": 0.385,
-        "ops": 0.739,
-        "atBats": 239,
-        "runs": 37,
-        "hits": 72,
-        "doubles": 15,
-        "triples": 1,
-        "homeRuns": 1,
-        "runsBattedIn": 49,
-        "totalBases": 92,
-        "walks": 15,
-        "hitByPitch": 6,
-        "strikeouts": 33,
-        "intentionalWalks": 1,
-        "groundedIntoDoublePlay": 6,
-        "sacrificeFlies": 3,
-        "sacrificeHits": 8,
-        "stolenBases": 3,
-        "stolenBasesAttempts": 6,
-        "putouts": 51,
-        "assists": 0,
-        "errors": 8,
-        "plateAppearances": 280,
-        "caughtStealing": 3,
-        "pickedOff": 0
-      },
-      "pitchingStats": {
-        "rosterBioId": "14548",
-        "name": "Colby Wallace",
-        "normalizedName": "colby wallace",
-        "jersey": "10",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/colby-wallace/14548",
-        "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
-        "gamesPlayed": 3,
-        "gamesStarted": 0,
-        "appearances": 3,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 0,
-        "whip": 1.5,
-        "wins": 0,
-        "losses": 0,
-        "saves": 1,
-        "shutouts": 0,
-        "inningsPitched": 2.6666666666666665,
-        "inningsPitchedDisplay": "2.2",
-        "hitsAllowed": 4,
-        "runsAllowed": 0,
-        "earnedRunsAllowed": 0,
-        "walksAllowed": 0,
-        "strikeouts": 1,
-        "doublesAllowed": 0,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 11,
-        "wildPitches": 0,
-        "hitBatters": 0,
-        "balks": 0,
-        "opponentsBattingAverage": 0.364,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "14548",
-        "name": "Colby Wallace",
-        "normalizedName": "colby wallace",
-        "jersey": "10",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/colby-wallace/14548",
-        "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
-        "gamesPlayed": 59,
-        "gamesStarted": 59,
-        "putouts": 51,
-        "assists": 112,
-        "errors": 8,
-        "fieldingPercentage": 0.953,
-        "doublePlays": 7,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 171
-      },
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 16,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -1394,27 +1082,27 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Run prevention": 0,
           "Traffic control": 0,
           "Miss bats": 0,
-          "Command": 100,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Colby Wallace looks like a INF/RHP option who limits runs and throws enough strikes.",
+        "summary": "Colby Wallace looks like a INF/RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 0.00",
-          "WHIP 1.50",
-          "K/9 3.4"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "0.00"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.50"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "3.4"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
@@ -1426,17 +1114,17 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           },
           {
             "label": "IP",
-            "value": "2.7"
+            "value": "0.0"
           }
         ],
-        "metaLine": "3RD YR / R/R",
+        "metaLine": "4TH YR / R/R",
         "detailBadges": [
           "INF/RHP",
-          "3RD YR",
+          "4TH YR",
           "R/R",
-          "Two-Way"
+          "Pitcher"
         ],
-        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats"
+        "sourceSummary": "East Carolina Athletics roster"
       }
     },
     {
@@ -1446,11 +1134,11 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "schoolLongName": "East Carolina University",
       "name": "Alex Peltier",
       "normalizedName": "alex peltier",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "OF",
       "positionLong": "Outfield",
-      "classYear": "2ND YR",
+      "classYear": "3RD YR",
       "handedness": "R/R",
       "jersey": "11",
       "hometown": "Haymarket, Va.",
@@ -1458,7 +1146,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "previousSchool": "",
       "hometownHighSchool": "Haymarket, Va. / Paul VI",
       "profileUrl": "https://ecupirates.com/sports/baseball/roster/alex-peltier/14541",
-      "imageUrl": "https://ecupirates.com/images/2025/12/2/Peltier_Alex_COAT_TIE_MUG_2025-1.jpg",
+      "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -1467,46 +1155,9 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "espnThrows": "",
       "rosterBioId": "14541",
       "sources": [
-        "East Carolina Athletics roster",
-        "East Carolina cumulative stats"
+        "East Carolina Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "14541",
-        "name": "Alex Peltier",
-        "normalizedName": "alex peltier",
-        "jersey": "11",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/alex-peltier/14541",
-        "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
-        "gamesPlayed": 8,
-        "gamesStarted": 0,
-        "battingAverage": 0,
-        "onBasePercentage": 0,
-        "sluggingPercentage": 0,
-        "ops": 0,
-        "atBats": 1,
-        "runs": 3,
-        "hits": 0,
-        "doubles": 0,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 0,
-        "totalBases": 0,
-        "walks": 0,
-        "hitByPitch": 0,
-        "strikeouts": 0,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 1,
-        "stolenBasesAttempts": 1,
-        "putouts": 0,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 2,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
       "fieldingStats": null,
       "evaluation": {
@@ -1520,26 +1171,26 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Power": 0,
           "Contact": 0,
           "Discipline": 0,
-          "Speed": 3.3333333333333335
+          "Speed": 0
         },
         "summary": "Alex Peltier gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .000",
-          "OBP .000",
-          "SLG .000"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -1551,17 +1202,17 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           },
           {
             "label": "SB",
-            "value": "1"
+            "value": "0"
           }
         ],
-        "metaLine": "2ND YR / R/R",
+        "metaLine": "3RD YR / R/R",
         "detailBadges": [
           "OF",
-          "2ND YR",
+          "3RD YR",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats"
+        "sourceSummary": "East Carolina Athletics roster"
       }
     },
     {
@@ -1571,11 +1222,11 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "schoolLongName": "East Carolina University",
       "name": "Grady Lenahan",
       "normalizedName": "grady lenahan",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "OF",
       "positionLong": "Outfield",
-      "classYear": "1ST YR",
+      "classYear": "2ND YR",
       "handedness": "R/R",
       "jersey": "12",
       "hometown": "Bristow, Va.",
@@ -1583,7 +1234,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "previousSchool": "",
       "hometownHighSchool": "Bristow, Va. / Pro5 Academy",
       "profileUrl": "https://ecupirates.com/sports/baseball/roster/grady-lenahan/14536",
-      "imageUrl": "https://ecupirates.com/images/2025/12/1/Lenahan_Grady_COAT_TIE_MUG_2025-1.jpg",
+      "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -1592,238 +1243,93 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "espnThrows": "",
       "rosterBioId": "14536",
       "sources": [
-        "East Carolina Athletics roster",
-        "East Carolina cumulative stats"
+        "East Carolina Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "14536",
-        "name": "Grady Lenahan",
-        "normalizedName": "grady lenahan",
-        "jersey": "12",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/grady-lenahan/14536",
-        "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
-        "gamesPlayed": 52,
-        "gamesStarted": 52,
-        "battingAverage": 0.3,
-        "onBasePercentage": 0.402,
-        "sluggingPercentage": 0.526,
-        "ops": 0.928,
-        "atBats": 190,
-        "runs": 49,
-        "hits": 57,
-        "doubles": 12,
-        "triples": 2,
-        "homeRuns": 9,
-        "runsBattedIn": 48,
-        "totalBases": 100,
-        "walks": 17,
-        "hitByPitch": 18,
-        "strikeouts": 26,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 3,
-        "sacrificeFlies": 4,
-        "sacrificeHits": 5,
-        "stolenBases": 11,
-        "stolenBasesAttempts": 12,
-        "putouts": 114,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 247,
-        "caughtStealing": 1,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "14536",
-        "name": "Grady Lenahan",
-        "normalizedName": "grady lenahan",
-        "jersey": "12",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/grady-lenahan/14536",
-        "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
-        "gamesPlayed": 46,
-        "gamesStarted": 46,
-        "putouts": 114,
-        "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 114
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 56,
+        "score": 0,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
         "components": {
-          "On-base": 67.77777777777779,
-          "Power": 54.21052631578949,
-          "Contact": 49.999999999999986,
-          "Discipline": 50.42735042735041,
-          "Speed": 36.666666666666664
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "summary": "Grady Lenahan profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
+        "summary": "Grady Lenahan gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .300",
-          "OBP .402",
-          "SLG .526"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".300"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".402"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".526"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "9"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "48"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "11"
+            "value": "0"
           }
         ],
-        "metaLine": "1ST YR / R/R",
+        "metaLine": "2ND YR / R/R",
         "detailBadges": [
           "OF",
-          "1ST YR",
-          "R/R",
-          "Hitter"
-        ],
-        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats"
-      }
-    },
-    {
-      "id": "east-carolina-13909",
-      "schoolSlug": "east-carolina",
-      "school": "East Carolina",
-      "schoolLongName": "East Carolina University",
-      "name": "Michael Kalinich",
-      "normalizedName": "michael kalinich",
-      "compositeRole": "Rostered",
-      "role": "Hitter",
-      "position": "C",
-      "positionLong": "Catcher",
-      "classYear": "2ND YR",
-      "handedness": "L/R",
-      "jersey": "13",
-      "hometown": "Longwood, Fla.",
-      "highSchool": "Lake Brantley",
-      "previousSchool": "",
-      "hometownHighSchool": "Longwood, Fla. / Lake Brantley",
-      "profileUrl": "https://ecupirates.com/sports/baseball/roster/michael-kalinich/13909",
-      "imageUrl": "https://ecupirates.com/images/2025/12/1/Kalinich_Michael_COAT_TIE_MUG_2025-1.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "13909",
-      "sources": [
-        "East Carolina Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "summary": "Michael Kalinich gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "2ND YR / L/R",
-        "detailBadges": [
-          "C",
           "2ND YR",
-          "L/R",
+          "R/R",
           "Rostered"
         ],
         "sourceSummary": "East Carolina Athletics roster"
       }
     },
     {
-      "id": "east-carolina-14131",
+      "id": "east-carolina-14547",
       "schoolSlug": "east-carolina",
       "school": "East Carolina",
       "schoolLongName": "East Carolina University",
-      "name": "Matt Lashley",
-      "normalizedName": "matt lashley",
+      "name": "Jack Vogele",
+      "normalizedName": "jack vogele",
       "compositeRole": "Rostered",
       "role": "Hitter",
-      "position": "INF",
-      "positionLong": "Infield",
-      "classYear": "3RD YR",
-      "handedness": "L/R",
-      "jersey": "14",
-      "hometown": "Lake Worth, Fla.",
-      "highSchool": "Park Vista",
-      "previousSchool": "Indian River State",
-      "hometownHighSchool": "Lake Worth, Fla. / Park Vista",
-      "profileUrl": "https://ecupirates.com/sports/baseball/roster/matt-lashley/14131",
-      "imageUrl": "https://ecupirates.com/images/2025/12/1/Lashley_Matt_COAT_TIE_MUG_2025-1.jpg",
+      "position": "OF",
+      "positionLong": "Outfield",
+      "classYear": "4TH YR",
+      "handedness": "R/R",
+      "jersey": "13",
+      "hometown": "Cincinnati, Ohio",
+      "highSchool": "Cincinnati Hills Christian Academy",
+      "previousSchool": "Walters State CC",
+      "hometownHighSchool": "Cincinnati, Ohio / Cincinnati Hills Christian Academy",
+      "profileUrl": "https://ecupirates.com/sports/baseball/roster/jack-vogele/14547",
+      "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "14131",
+      "rosterBioId": "14547",
       "sources": [
         "East Carolina Athletics roster"
       ],
@@ -1843,7 +1349,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "summary": "Matt Lashley gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Jack Vogele gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG --",
           "OBP --",
@@ -1875,43 +1381,131 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "3RD YR / L/R",
+        "metaLine": "4TH YR / R/R",
+        "detailBadges": [
+          "OF",
+          "4TH YR",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "East Carolina Athletics roster"
+      }
+    },
+    {
+      "id": "east-carolina-14616",
+      "schoolSlug": "east-carolina",
+      "school": "East Carolina",
+      "schoolLongName": "East Carolina University",
+      "name": "Braeden Martin",
+      "normalizedName": "braeden martin",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "",
+      "classYear": "1ST YR",
+      "handedness": "N/A",
+      "jersey": "15",
+      "hometown": "Columbia, Md.",
+      "highSchool": "Archbishop Spalding",
+      "previousSchool": "",
+      "hometownHighSchool": "Columbia, Md. / Archbishop Spalding",
+      "profileUrl": "https://ecupirates.com/sports/baseball/roster/braeden-martin/14616",
+      "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "14616",
+      "sources": [
+        "East Carolina Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Braeden Martin gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "1ST YR / N/A",
         "detailBadges": [
           "INF",
-          "3RD YR",
-          "L/R",
+          "1ST YR",
+          "N/A",
           "Rostered"
         ],
         "sourceSummary": "East Carolina Athletics roster"
       }
     },
     {
-      "id": "east-carolina-13902",
+      "id": "east-carolina-14533",
       "schoolSlug": "east-carolina",
       "school": "East Carolina",
       "schoolLongName": "East Carolina University",
-      "name": "Parker Byrd",
-      "normalizedName": "parker byrd",
+      "name": "Chance Hall",
+      "normalizedName": "chance hall",
       "compositeRole": "Rostered",
       "role": "Hitter",
-      "position": "INF",
-      "positionLong": "Infield",
+      "position": "OF",
+      "positionLong": "Outfield",
       "classYear": "4TH YR",
       "handedness": "R/R",
       "jersey": "16",
-      "hometown": "Laurinburg",
-      "highSchool": "Scotland",
+      "hometown": "North Myrtle Beach, S.C.",
+      "highSchool": "North Myrtle Beach",
       "previousSchool": "",
-      "hometownHighSchool": "Laurinburg / Scotland",
-      "profileUrl": "https://ecupirates.com/sports/baseball/roster/parker-byrd/13902",
-      "imageUrl": "https://ecupirates.com/images/2025/12/1/Byrd_Parker_COAT_TIE_MUG_2025-1.jpg",
+      "hometownHighSchool": "North Myrtle Beach, S.C. / North Myrtle Beach",
+      "profileUrl": "https://ecupirates.com/sports/baseball/roster/chance-hall/14533",
+      "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "13902",
+      "rosterBioId": "14533",
       "sources": [
         "East Carolina Athletics roster"
       ],
@@ -1931,7 +1525,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "summary": "Parker Byrd gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Chance Hall gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG --",
           "OBP --",
@@ -1965,7 +1559,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         ],
         "metaLine": "4TH YR / R/R",
         "detailBadges": [
-          "INF",
+          "OF",
           "4TH YR",
           "R/R",
           "Rostered"
@@ -1974,296 +1568,32 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       }
     },
     {
-      "id": "east-carolina-13914",
+      "id": "east-carolina-14617",
       "schoolSlug": "east-carolina",
       "school": "East Carolina",
       "schoolLongName": "East Carolina University",
-      "name": "Ethan Norby",
-      "normalizedName": "ethan norby",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "",
-      "classYear": "3RD YR",
-      "handedness": "L/L",
-      "jersey": "18",
-      "hometown": "Kernersville",
-      "highSchool": "East Forsyth",
-      "previousSchool": "",
-      "hometownHighSchool": "Kernersville / East Forsyth",
-      "profileUrl": "https://ecupirates.com/sports/baseball/roster/ethan-norby/13914",
-      "imageUrl": "https://ecupirates.com/images/2025/12/2/Norby_Ethan_COAT_TIE_MUG_2025-1.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "13914",
-      "sources": [
-        "East Carolina Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Ethan Norby looks like a LHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "metaLine": "3RD YR / L/L",
-        "detailBadges": [
-          "LHP",
-          "3RD YR",
-          "L/L",
-          "Pitcher"
-        ],
-        "sourceSummary": "East Carolina Athletics roster"
-      }
-    },
-    {
-      "id": "east-carolina-13903",
-      "schoolSlug": "east-carolina",
-      "school": "East Carolina",
-      "schoolLongName": "East Carolina University",
-      "name": "Jackson DiLorenzo",
-      "normalizedName": "jackson dilorenzo",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "3RD YR",
-      "handedness": "R/R",
-      "jersey": "19",
-      "hometown": "Cortlandt Manor, N.Y.",
-      "highSchool": "Walter Panas",
-      "previousSchool": "",
-      "hometownHighSchool": "Cortlandt Manor, N.Y. / Walter Panas",
-      "profileUrl": "https://ecupirates.com/sports/baseball/roster/jackson-dilorenzo/13903",
-      "imageUrl": "https://ecupirates.com/images/2025/12/1/DiLorenzo_Jackson_COAT_TIE_MUG_2025-1.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "13903",
-      "sources": [
-        "East Carolina Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Jackson DiLorenzo looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "metaLine": "3RD YR / R/R",
-        "detailBadges": [
-          "RHP",
-          "3RD YR",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "East Carolina Athletics roster"
-      }
-    },
-    {
-      "id": "east-carolina-14132",
-      "schoolSlug": "east-carolina",
-      "school": "East Carolina",
-      "schoolLongName": "East Carolina University",
-      "name": "Frank Ciccone",
-      "normalizedName": "frank ciccone",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "4TH YR",
-      "handedness": "R/R",
-      "jersey": "20",
-      "hometown": "East Hanover, N.J.",
-      "highSchool": "Pope John XXIII",
-      "previousSchool": "Saint Joseph's",
-      "hometownHighSchool": "East Hanover, N.J. / Pope John XXIII",
-      "profileUrl": "https://ecupirates.com/sports/baseball/roster/frank-ciccone/14132",
-      "imageUrl": "https://ecupirates.com/images/2025/12/1/Ciccone_Frank_COAT_TIE_MUG_2025-1.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "14132",
-      "sources": [
-        "East Carolina Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Frank Ciccone looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "metaLine": "4TH YR / R/R",
-        "detailBadges": [
-          "RHP",
-          "4TH YR",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "East Carolina Athletics roster"
-      }
-    },
-    {
-      "id": "east-carolina-13906",
-      "schoolSlug": "east-carolina",
-      "school": "East Carolina",
-      "schoolLongName": "East Carolina University",
-      "name": "Austin Irby",
-      "normalizedName": "austin irby",
+      "name": "Braeden Lipoff",
+      "normalizedName": "braeden lipoff",
       "compositeRole": "Rostered",
       "role": "Hitter",
-      "position": "INF",
-      "positionLong": "Infield",
-      "classYear": "2ND YR",
-      "handedness": "L/R",
-      "jersey": "21",
-      "hometown": "Virginia Beach, Va.",
-      "highSchool": "Cox",
+      "position": "C",
+      "positionLong": "",
+      "classYear": "1ST YR",
+      "handedness": "N/A",
+      "jersey": "17",
+      "hometown": "Woolwich, N.J.",
+      "highSchool": "Gloucester Catholic High School",
       "previousSchool": "",
-      "hometownHighSchool": "Virginia Beach, Va. / Cox",
-      "profileUrl": "https://ecupirates.com/sports/baseball/roster/austin-irby/13906",
-      "imageUrl": "https://ecupirates.com/images/2025/12/1/Irby_Austin_COAT_TIE_MUG_2025-1.jpg",
+      "hometownHighSchool": "Woolwich, N.J. / Gloucester Catholic High School",
+      "profileUrl": "https://ecupirates.com/sports/baseball/roster/braeden-lipoff/14617",
+      "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "13906",
+      "rosterBioId": "14617",
       "sources": [
         "East Carolina Athletics roster"
       ],
@@ -2283,7 +1613,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "summary": "Austin Irby gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Braeden Lipoff gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG --",
           "OBP --",
@@ -2315,12 +1645,276 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "2ND YR / L/R",
+        "metaLine": "1ST YR / N/A",
         "detailBadges": [
-          "INF",
-          "2ND YR",
-          "L/R",
+          "C",
+          "1ST YR",
+          "N/A",
           "Rostered"
+        ],
+        "sourceSummary": "East Carolina Athletics roster"
+      }
+    },
+    {
+      "id": "east-carolina-14618",
+      "schoolSlug": "east-carolina",
+      "school": "East Carolina",
+      "schoolLongName": "East Carolina University",
+      "name": "William Benson",
+      "normalizedName": "william benson",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "1B",
+      "positionLong": "",
+      "classYear": "1ST YR",
+      "handedness": "R/L",
+      "jersey": "18",
+      "hometown": "Raleigh, N.C.",
+      "highSchool": "Pro5 Academy",
+      "previousSchool": "",
+      "hometownHighSchool": "Raleigh, N.C. / Pro5 Academy",
+      "profileUrl": "https://ecupirates.com/sports/baseball/roster/william-benson/14618",
+      "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "14618",
+      "sources": [
+        "East Carolina Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "William Benson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "1ST YR / R/L",
+        "detailBadges": [
+          "1B",
+          "1ST YR",
+          "R/L",
+          "Rostered"
+        ],
+        "sourceSummary": "East Carolina Athletics roster"
+      }
+    },
+    {
+      "id": "east-carolina-14619",
+      "schoolSlug": "east-carolina",
+      "school": "East Carolina",
+      "schoolLongName": "East Carolina University",
+      "name": "Carter Perdue",
+      "normalizedName": "carter perdue",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "1ST YR",
+      "handedness": "N/A",
+      "jersey": "19",
+      "hometown": "Chantilly, Va.",
+      "highSchool": "Paul VI High School",
+      "previousSchool": "",
+      "hometownHighSchool": "Chantilly, Va. / Paul VI High School",
+      "profileUrl": "https://ecupirates.com/sports/baseball/roster/carter-perdue/14619",
+      "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "14619",
+      "sources": [
+        "East Carolina Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Carter Perdue looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "1ST YR / N/A",
+        "detailBadges": [
+          "RHP",
+          "1ST YR",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "East Carolina Athletics roster"
+      }
+    },
+    {
+      "id": "east-carolina-14620",
+      "schoolSlug": "east-carolina",
+      "school": "East Carolina",
+      "schoolLongName": "East Carolina University",
+      "name": "Saxon Roberts",
+      "normalizedName": "saxon roberts",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "3RD YR",
+      "handedness": "N/A",
+      "jersey": "20",
+      "hometown": "Franklin, Tenn.",
+      "highSchool": "Independence High School",
+      "previousSchool": "Auburn",
+      "hometownHighSchool": "Franklin, Tenn. / Independence High School",
+      "profileUrl": "https://ecupirates.com/sports/baseball/roster/saxon-roberts/14620",
+      "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "14620",
+      "sources": [
+        "East Carolina Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Saxon Roberts looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "3RD YR / N/A",
+        "detailBadges": [
+          "RHP",
+          "3RD YR",
+          "N/A",
+          "Pitcher"
         ],
         "sourceSummary": "East Carolina Athletics roster"
       }
@@ -2332,11 +1926,11 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "schoolLongName": "East Carolina University",
       "name": "Walker Barron",
       "normalizedName": "walker barron",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "C",
       "positionLong": "Catcher",
-      "classYear": "3RD YR",
+      "classYear": "4TH YR",
       "handedness": "R/R",
       "jersey": "24",
       "hometown": "Atlanta, Ga.",
@@ -2344,7 +1938,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "previousSchool": "",
       "hometownHighSchool": "Atlanta, Ga. / IMG Academy",
       "profileUrl": "https://ecupirates.com/sports/baseball/roster/walker-barron/14529",
-      "imageUrl": "https://ecupirates.com/images/2025/12/1/Walker_Barron_COAT_TIE_MUG_2025-1.jpg",
+      "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -2353,121 +1947,64 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "espnThrows": "",
       "rosterBioId": "14529",
       "sources": [
-        "East Carolina Athletics roster",
-        "East Carolina cumulative stats"
+        "East Carolina Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "14529",
-        "name": "Walker Barron",
-        "normalizedName": "walker barron",
-        "jersey": "24",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/walker-barron/14529",
-        "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
-        "gamesPlayed": 59,
-        "gamesStarted": 56,
-        "battingAverage": 0.281,
-        "onBasePercentage": 0.358,
-        "sluggingPercentage": 0.416,
-        "ops": 0.774,
-        "atBats": 185,
-        "runs": 33,
-        "hits": 52,
-        "doubles": 7,
-        "triples": 0,
-        "homeRuns": 6,
-        "runsBattedIn": 36,
-        "totalBases": 77,
-        "walks": 19,
-        "hitByPitch": 5,
-        "strikeouts": 37,
-        "intentionalWalks": 1,
-        "groundedIntoDoublePlay": 2,
-        "sacrificeFlies": 3,
-        "sacrificeHits": 3,
-        "stolenBases": 1,
-        "stolenBasesAttempts": 1,
-        "putouts": 498,
-        "assists": 0,
-        "errors": 5,
-        "plateAppearances": 216,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "14529",
-        "name": "Walker Barron",
-        "normalizedName": "walker barron",
-        "jersey": "24",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/walker-barron/14529",
-        "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
-        "gamesPlayed": 58,
-        "gamesStarted": 56,
-        "putouts": 498,
-        "assists": 42,
-        "errors": 5,
-        "fieldingPercentage": 0.991,
-        "doublePlays": 4,
-        "stolenBasesAgainst": 40,
-        "caughtStealingBy": 22,
-        "stolenBasesPercentage": null,
-        "passedBalls": 5,
-        "catchersInterference": 0,
-        "totalChances": 545
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 33,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 43.333333333333314,
-          "Power": 25.26315789473684,
-          "Contact": 38.125000000000014,
-          "Discipline": 34.83483483483483,
-          "Speed": 3.3333333333333335
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
         "summary": "Walker Barron gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .281",
-          "OBP .358",
-          "SLG .416"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".281"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".358"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".416"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "6"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "36"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "1"
+            "value": "0"
           }
         ],
-        "metaLine": "3RD YR / R/R",
+        "metaLine": "4TH YR / R/R",
         "detailBadges": [
           "C",
-          "3RD YR",
+          "4TH YR",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats"
+        "sourceSummary": "East Carolina Athletics roster"
       }
     },
     {
@@ -2481,7 +2018,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "role": "Hitter",
       "position": "INF",
       "positionLong": "Infield",
-      "classYear": "2ND YR",
+      "classYear": "3RD YR",
       "handedness": "S/R",
       "jersey": "25",
       "hometown": "Hickory",
@@ -2489,7 +2026,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "previousSchool": "",
       "hometownHighSchool": "Hickory / Fred T Foard",
       "profileUrl": "https://ecupirates.com/sports/baseball/roster/braxton-tramel/14545",
-      "imageUrl": "https://ecupirates.com/images/2025/12/2/Tramel_Braxton_COAT_TIE_MUG_2025-1.jpg",
+      "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -2548,10 +2085,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "2ND YR / S/R",
+        "metaLine": "3RD YR / S/R",
         "detailBadges": [
           "INF",
-          "2ND YR",
+          "3RD YR",
           "S/R",
           "Rostered"
         ],
@@ -2565,11 +2102,11 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "schoolLongName": "East Carolina University",
       "name": "Braden Burress",
       "normalizedName": "braden burress",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "INF/OF",
       "positionLong": "Infield/Outfield",
-      "classYear": "2ND YR",
+      "classYear": "3RD YR",
       "handedness": "R/R",
       "jersey": "26",
       "hometown": "Snow Hill",
@@ -2577,7 +2114,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "previousSchool": "",
       "hometownHighSchool": "Snow Hill / Greene Central",
       "profileUrl": "https://ecupirates.com/sports/baseball/roster/braden-burress/14532",
-      "imageUrl": "https://ecupirates.com/images/2025/12/1/Burress_Braden_COAT_TIE_MUG_2025-1.jpg",
+      "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -2585,239 +2122,6 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "espnBats": "",
       "espnThrows": "",
       "rosterBioId": "14532",
-      "sources": [
-        "East Carolina Athletics roster",
-        "East Carolina cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "14532",
-        "name": "Braden Burress",
-        "normalizedName": "braden burress",
-        "jersey": "26",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/braden-burress/14532",
-        "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
-        "gamesPlayed": 63,
-        "gamesStarted": 63,
-        "battingAverage": 0.361,
-        "onBasePercentage": 0.46,
-        "sluggingPercentage": 0.482,
-        "ops": 0.942,
-        "atBats": 249,
-        "runs": 72,
-        "hits": 90,
-        "doubles": 13,
-        "triples": 4,
-        "homeRuns": 3,
-        "runsBattedIn": 32,
-        "totalBases": 120,
-        "walks": 39,
-        "hitByPitch": 8,
-        "strikeouts": 27,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 5,
-        "sacrificeFlies": 2,
-        "sacrificeHits": 2,
-        "stolenBases": 12,
-        "stolenBasesAttempts": 15,
-        "putouts": 103,
-        "assists": 0,
-        "errors": 5,
-        "plateAppearances": 318,
-        "caughtStealing": 3,
-        "pickedOff": 1
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "14532",
-        "name": "Braden Burress",
-        "normalizedName": "braden burress",
-        "jersey": "26",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/braden-burress/14532",
-        "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
-        "gamesPlayed": 60,
-        "gamesStarted": 60,
-        "putouts": 103,
-        "assists": 87,
-        "errors": 5,
-        "fieldingPercentage": 0.974,
-        "doublePlays": 12,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 195
-      },
-      "evaluation": {
-        "score": 77,
-        "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
-        },
-        "components": {
-          "On-base": 100,
-          "Power": 42.63157894736842,
-          "Contact": 88.12499999999999,
-          "Discipline": 100,
-          "Speed": 40
-        },
-        "summary": "Braden Burress profiles as a INF/OF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .361",
-          "OBP .460",
-          "SLG .482"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".361"
-          },
-          {
-            "label": "OBP",
-            "value": ".460"
-          },
-          {
-            "label": "SLG",
-            "value": ".482"
-          },
-          {
-            "label": "HR",
-            "value": "3"
-          },
-          {
-            "label": "RBI",
-            "value": "32"
-          },
-          {
-            "label": "SB",
-            "value": "12"
-          }
-        ],
-        "metaLine": "2ND YR / R/R",
-        "detailBadges": [
-          "INF/OF",
-          "2ND YR",
-          "R/R",
-          "Hitter"
-        ],
-        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats"
-      }
-    },
-    {
-      "id": "east-carolina-13912",
-      "schoolSlug": "east-carolina",
-      "school": "East Carolina",
-      "schoolLongName": "East Carolina University",
-      "name": "Nick Moran",
-      "normalizedName": "nick moran",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "LHP",
-      "classYear": "4TH YR",
-      "handedness": "L/L",
-      "jersey": "27",
-      "hometown": "Wake Forest",
-      "highSchool": "Wake Forest",
-      "previousSchool": "Liberty",
-      "hometownHighSchool": "Wake Forest / Wake Forest",
-      "profileUrl": "https://ecupirates.com/sports/baseball/roster/nick-moran/13912",
-      "imageUrl": "https://ecupirates.com/images/2025/12/1/Moran_Nick_COAT_TIE_MUG_2025-1.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "13912",
-      "sources": [
-        "East Carolina Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Nick Moran looks like a LHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "metaLine": "4TH YR / L/L",
-        "detailBadges": [
-          "LHP",
-          "4TH YR",
-          "L/L",
-          "Pitcher"
-        ],
-        "sourceSummary": "East Carolina Athletics roster"
-      }
-    },
-    {
-      "id": "east-carolina-14133",
-      "schoolSlug": "east-carolina",
-      "school": "East Carolina",
-      "schoolLongName": "East Carolina University",
-      "name": "Blade Carver",
-      "normalizedName": "blade carver",
-      "compositeRole": "Rostered",
-      "role": "Hitter",
-      "position": "C",
-      "positionLong": "Catcher",
-      "classYear": "3RD YR",
-      "handedness": "N/A",
-      "jersey": "28",
-      "hometown": "Corinth, Texas",
-      "highSchool": "Denton Guyer",
-      "previousSchool": "Northern Oklahoma",
-      "hometownHighSchool": "Corinth, Texas / Denton Guyer",
-      "profileUrl": "https://ecupirates.com/sports/baseball/roster/blade-carver/14133",
-      "imageUrl": "https://ecupirates.com/images/2025/12/1/Carver_Blade_COAT_TIE_MUG_2025-1.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "14133",
       "sources": [
         "East Carolina Athletics roster"
       ],
@@ -2837,7 +2141,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "summary": "Blade Carver gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Braden Burress gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG --",
           "OBP --",
@@ -2869,12 +2173,188 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "3RD YR / N/A",
+        "metaLine": "3RD YR / R/R",
+        "detailBadges": [
+          "INF/OF",
+          "3RD YR",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "East Carolina Athletics roster"
+      }
+    },
+    {
+      "id": "east-carolina-14621",
+      "schoolSlug": "east-carolina",
+      "school": "East Carolina",
+      "schoolLongName": "East Carolina University",
+      "name": "Jack Woda",
+      "normalizedName": "jack woda",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "C",
+      "positionLong": "",
+      "classYear": "1ST YR",
+      "handedness": "N/A",
+      "jersey": "27",
+      "hometown": "Arlington, Va.",
+      "highSchool": "Bishop O'Connell",
+      "previousSchool": "",
+      "hometownHighSchool": "Arlington, Va. / Bishop O'Connell",
+      "profileUrl": "https://ecupirates.com/sports/baseball/roster/jack-woda/14621",
+      "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "14621",
+      "sources": [
+        "East Carolina Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Jack Woda gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "1ST YR / N/A",
         "detailBadges": [
           "C",
-          "3RD YR",
+          "1ST YR",
           "N/A",
           "Rostered"
+        ],
+        "sourceSummary": "East Carolina Athletics roster"
+      }
+    },
+    {
+      "id": "east-carolina-14622",
+      "schoolSlug": "east-carolina",
+      "school": "East Carolina",
+      "schoolLongName": "East Carolina University",
+      "name": "Danny Cihocki",
+      "normalizedName": "danny cihocki",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "4TH YR",
+      "handedness": "N/A",
+      "jersey": "28",
+      "hometown": "Princeton, Ill.",
+      "highSchool": "Princeton High School",
+      "previousSchool": "Northern Illinois",
+      "hometownHighSchool": "Princeton, Ill. / Princeton High School",
+      "profileUrl": "https://ecupirates.com/sports/baseball/roster/danny-cihocki/14622",
+      "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "14622",
+      "sources": [
+        "East Carolina Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Danny Cihocki looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "4TH YR / N/A",
+        "detailBadges": [
+          "RHP",
+          "4TH YR",
+          "N/A",
+          "Pitcher"
         ],
         "sourceSummary": "East Carolina Athletics roster"
       }
@@ -2886,11 +2366,11 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "schoolLongName": "East Carolina University",
       "name": "Brayden Bachman",
       "normalizedName": "brayden bachman",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "OF",
       "positionLong": "Outfield",
-      "classYear": "1ST YR",
+      "classYear": "2ND YR",
       "handedness": "R/R",
       "jersey": "29",
       "hometown": "Chesapeake, Va.",
@@ -2898,7 +2378,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "previousSchool": "",
       "hometownHighSchool": "Chesapeake, Va. / Hickory",
       "profileUrl": "https://ecupirates.com/sports/baseball/roster/brayden-bachman/14528",
-      "imageUrl": "https://ecupirates.com/images/2025/12/1/Bachman_Brayden_COAT_TIE_MUG_2025-1.jpg",
+      "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -2907,276 +2387,6 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "espnThrows": "",
       "rosterBioId": "14528",
       "sources": [
-        "East Carolina Athletics roster",
-        "East Carolina cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "14528",
-        "name": "Brayden Bachman",
-        "normalizedName": "brayden bachman",
-        "jersey": "29",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/brayden-bachman/14528",
-        "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
-        "gamesPlayed": 28,
-        "gamesStarted": 11,
-        "battingAverage": 0.25,
-        "onBasePercentage": 0.34,
-        "sluggingPercentage": 0.455,
-        "ops": 0.795,
-        "atBats": 44,
-        "runs": 8,
-        "hits": 11,
-        "doubles": 3,
-        "triples": 0,
-        "homeRuns": 2,
-        "runsBattedIn": 8,
-        "totalBases": 20,
-        "walks": 6,
-        "hitByPitch": 1,
-        "strikeouts": 8,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 2,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 2,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 53,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "14528",
-        "name": "Brayden Bachman",
-        "normalizedName": "brayden bachman",
-        "jersey": "29",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/brayden-bachman/14528",
-        "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
-        "gamesPlayed": 1,
-        "gamesStarted": 0,
-        "putouts": 2,
-        "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 2
-      },
-      "evaluation": {
-        "score": 32,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 33.33333333333333,
-          "Power": 35.52631578947369,
-          "Contact": 18.75,
-          "Discipline": 61.11111111111111,
-          "Speed": 0
-        },
-        "summary": "Brayden Bachman gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .250",
-          "OBP .340",
-          "SLG .455"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".250"
-          },
-          {
-            "label": "OBP",
-            "value": ".340"
-          },
-          {
-            "label": "SLG",
-            "value": ".455"
-          },
-          {
-            "label": "HR",
-            "value": "2"
-          },
-          {
-            "label": "RBI",
-            "value": "8"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "1ST YR / R/R",
-        "detailBadges": [
-          "OF",
-          "1ST YR",
-          "R/R",
-          "Hitter"
-        ],
-        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats"
-      }
-    },
-    {
-      "id": "east-carolina-14547",
-      "schoolSlug": "east-carolina",
-      "school": "East Carolina",
-      "schoolLongName": "East Carolina University",
-      "name": "Jack Vogele",
-      "normalizedName": "jack vogele",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "OF",
-      "positionLong": "Outfield",
-      "classYear": "3RD YR",
-      "handedness": "R/R",
-      "jersey": "32",
-      "hometown": "Cincinnati, Ohio",
-      "highSchool": "Cincinnati Hills Christian Academy",
-      "previousSchool": "Walters State CC",
-      "hometownHighSchool": "Cincinnati, Ohio / Cincinnati Hills Christian Academy",
-      "profileUrl": "https://ecupirates.com/sports/baseball/roster/jack-vogele/14547",
-      "imageUrl": "https://ecupirates.com/images/2025/12/2/Vogele_Jack_COAT_TIE_MUG_2025-1.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "14547",
-      "sources": [
-        "East Carolina Athletics roster",
-        "East Carolina cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "14547",
-        "name": "Jack Vogele",
-        "normalizedName": "jack vogele",
-        "jersey": "32",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/jack-vogele/14547",
-        "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
-        "gamesPlayed": 15,
-        "gamesStarted": 11,
-        "battingAverage": 0.171,
-        "onBasePercentage": 0.286,
-        "sluggingPercentage": 0.22,
-        "ops": 0.506,
-        "atBats": 41,
-        "runs": 4,
-        "hits": 7,
-        "doubles": 2,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 6,
-        "totalBases": 9,
-        "walks": 3,
-        "hitByPitch": 4,
-        "strikeouts": 7,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 1,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 0,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 49,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 5,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 3.3333333333333055,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 25.39682539682539,
-          "Speed": 0
-        },
-        "summary": "Jack Vogele gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .171",
-          "OBP .286",
-          "SLG .220"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".171"
-          },
-          {
-            "label": "OBP",
-            "value": ".286"
-          },
-          {
-            "label": "SLG",
-            "value": ".220"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "6"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "3RD YR / R/R",
-        "detailBadges": [
-          "OF",
-          "3RD YR",
-          "R/R",
-          "Hitter"
-        ],
-        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats"
-      }
-    },
-    {
-      "id": "east-carolina-14136",
-      "schoolSlug": "east-carolina",
-      "school": "East Carolina",
-      "schoolLongName": "East Carolina University",
-      "name": "Joseph Webb",
-      "normalizedName": "joseph webb",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "4TH YR",
-      "handedness": "R/R",
-      "jersey": "33",
-      "hometown": "Lawndale",
-      "highSchool": "Burns",
-      "previousSchool": "Liberty",
-      "hometownHighSchool": "Lawndale / Burns",
-      "profileUrl": "https://ecupirates.com/sports/baseball/roster/joseph-webb/14136",
-      "imageUrl": "https://ecupirates.com/images/2025/12/2/Webb_Joe_COAT_TIE_MUG_2025-1.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "14136",
-      "sources": [
         "East Carolina Athletics roster"
       ],
       "hittingStats": null,
@@ -3189,81 +2399,81 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "className": "fit-depth"
         },
         "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "summary": "Joseph Webb looks like a RHP option who throws enough strikes.",
+        "summary": "Brayden Bachman gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
-            "label": "ERA",
+            "label": "AVG",
             "value": "--"
           },
           {
-            "label": "WHIP",
+            "label": "OBP",
             "value": "--"
           },
           {
-            "label": "K/9",
-            "value": "0.0"
+            "label": "SLG",
+            "value": "--"
           },
           {
-            "label": "BB/9",
-            "value": "0.0"
+            "label": "HR",
+            "value": "0"
           },
           {
-            "label": "HR/9",
-            "value": "0.00"
+            "label": "RBI",
+            "value": "0"
           },
           {
-            "label": "IP",
-            "value": "0.0"
+            "label": "SB",
+            "value": "0"
           }
         ],
-        "metaLine": "4TH YR / R/R",
+        "metaLine": "2ND YR / R/R",
         "detailBadges": [
-          "RHP",
-          "4TH YR",
+          "OF",
+          "2ND YR",
           "R/R",
-          "Pitcher"
+          "Rostered"
         ],
         "sourceSummary": "East Carolina Athletics roster"
       }
     },
     {
-      "id": "east-carolina-14137",
+      "id": "east-carolina-14623",
       "schoolSlug": "east-carolina",
       "school": "East Carolina",
       "schoolLongName": "East Carolina University",
-      "name": "Nathan Wines",
-      "normalizedName": "nathan wines",
+      "name": "Jason Sproull",
+      "normalizedName": "jason sproull",
       "compositeRole": "Pitcher",
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
       "classYear": "1ST YR",
-      "handedness": "R/R",
-      "jersey": "34",
-      "hometown": "Glen Burnie, Md.",
-      "highSchool": "Archbishop Spalding",
+      "handedness": "N/A",
+      "jersey": "30",
+      "hometown": "Wilmington, N.C.",
+      "highSchool": "E. A. Laney High School",
       "previousSchool": "",
-      "hometownHighSchool": "Glen Burnie, Md. / Archbishop Spalding",
-      "profileUrl": "https://ecupirates.com/sports/baseball/roster/nathan-wines/14137",
-      "imageUrl": "https://ecupirates.com/images/2025/12/2/Wines_Nathan_COAT_TIE_MUG_2025-1.jpg",
+      "hometownHighSchool": "Wilmington, N.C. / E. A. Laney High School",
+      "profileUrl": "https://ecupirates.com/sports/baseball/roster/jason-sproull/14623",
+      "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "14137",
+      "rosterBioId": "14623",
       "sources": [
         "East Carolina Athletics roster"
       ],
@@ -3283,7 +2493,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Nathan Wines looks like a RHP option who throws enough strikes.",
+        "summary": "Jason Sproull looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -3315,43 +2525,43 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "1ST YR / R/R",
+        "metaLine": "1ST YR / N/A",
         "detailBadges": [
           "RHP",
           "1ST YR",
-          "R/R",
+          "N/A",
           "Pitcher"
         ],
         "sourceSummary": "East Carolina Athletics roster"
       }
     },
     {
-      "id": "east-carolina-14138",
+      "id": "east-carolina-14624",
       "schoolSlug": "east-carolina",
       "school": "East Carolina",
       "schoolLongName": "East Carolina University",
-      "name": "Gavin Van Kempen",
-      "normalizedName": "gavin van kempen",
+      "name": "Drew Tolfree",
+      "normalizedName": "drew tolfree",
       "compositeRole": "Pitcher",
       "role": "Pitcher",
-      "position": "RHP",
+      "position": "LHP",
       "positionLong": "",
-      "classYear": "4TH YR",
-      "handedness": "R/R",
-      "jersey": "35",
-      "hometown": "Castleton, N.Y.",
-      "highSchool": "Maple Hill",
-      "previousSchool": "West Virginia",
-      "hometownHighSchool": "Castleton, N.Y. / Maple Hill",
-      "profileUrl": "https://ecupirates.com/sports/baseball/roster/gavin-van-kempen/14138",
-      "imageUrl": "https://ecupirates.com/images/2025/12/2/Van_Kempen_Gavin_COAT_TIE_MUG_2025-1.jpg",
+      "classYear": "2ND YR",
+      "handedness": "N/A",
+      "jersey": "31",
+      "hometown": "East Lansing, Michigan",
+      "highSchool": "Lansing Catholic",
+      "previousSchool": "Ohio Northern",
+      "hometownHighSchool": "East Lansing, Michigan / Lansing Catholic",
+      "profileUrl": "https://ecupirates.com/sports/baseball/roster/drew-tolfree/14624",
+      "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "14138",
+      "rosterBioId": "14624",
       "sources": [
         "East Carolina Athletics roster"
       ],
@@ -3371,7 +2581,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Gavin Van Kempen looks like a RHP option who throws enough strikes.",
+        "summary": "Drew Tolfree looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -3403,11 +2613,451 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "4TH YR / R/R",
+        "metaLine": "2ND YR / N/A",
+        "detailBadges": [
+          "LHP",
+          "2ND YR",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "East Carolina Athletics roster"
+      }
+    },
+    {
+      "id": "east-carolina-14625",
+      "schoolSlug": "east-carolina",
+      "school": "East Carolina",
+      "schoolLongName": "East Carolina University",
+      "name": "Janeson Steele",
+      "normalizedName": "janeson steele",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "1B",
+      "positionLong": "",
+      "classYear": "1ST YR",
+      "handedness": "N/A",
+      "jersey": "32",
+      "hometown": "Goldsboro, N.C.",
+      "highSchool": "Charles B. Aycock High School",
+      "previousSchool": "",
+      "hometownHighSchool": "Goldsboro, N.C. / Charles B. Aycock High School",
+      "profileUrl": "https://ecupirates.com/sports/baseball/roster/janeson-steele/14625",
+      "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "14625",
+      "sources": [
+        "East Carolina Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Janeson Steele gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "1ST YR / N/A",
+        "detailBadges": [
+          "1B",
+          "1ST YR",
+          "N/A",
+          "Rostered"
+        ],
+        "sourceSummary": "East Carolina Athletics roster"
+      }
+    },
+    {
+      "id": "east-carolina-14626",
+      "schoolSlug": "east-carolina",
+      "school": "East Carolina",
+      "schoolLongName": "East Carolina University",
+      "name": "Brayden Davis",
+      "normalizedName": "brayden davis",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "",
+      "classYear": "4TH YR",
+      "handedness": "N/A",
+      "jersey": "33",
+      "hometown": "Shamong, N.J.",
+      "highSchool": "Seneca Tabernacle High School",
+      "previousSchool": "Rowan University",
+      "hometownHighSchool": "Shamong, N.J. / Seneca Tabernacle High School",
+      "profileUrl": "https://ecupirates.com/sports/baseball/roster/brayden-davis/14626",
+      "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "14626",
+      "sources": [
+        "East Carolina Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Brayden Davis gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "4TH YR / N/A",
+        "detailBadges": [
+          "INF",
+          "4TH YR",
+          "N/A",
+          "Rostered"
+        ],
+        "sourceSummary": "East Carolina Athletics roster"
+      }
+    },
+    {
+      "id": "east-carolina-14627",
+      "schoolSlug": "east-carolina",
+      "school": "East Carolina",
+      "schoolLongName": "East Carolina University",
+      "name": "Jack Rees",
+      "normalizedName": "jack rees",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "",
+      "classYear": "1ST YR",
+      "handedness": "N/A",
+      "jersey": "34",
+      "hometown": "Atlanta, Ga.",
+      "highSchool": "The Lovett School",
+      "previousSchool": "",
+      "hometownHighSchool": "Atlanta, Ga. / The Lovett School",
+      "profileUrl": "https://ecupirates.com/sports/baseball/roster/jack-rees/14627",
+      "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "14627",
+      "sources": [
+        "East Carolina Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Jack Rees gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "1ST YR / N/A",
+        "detailBadges": [
+          "OF",
+          "1ST YR",
+          "N/A",
+          "Rostered"
+        ],
+        "sourceSummary": "East Carolina Athletics roster"
+      }
+    },
+    {
+      "id": "east-carolina-14628",
+      "schoolSlug": "east-carolina",
+      "school": "East Carolina",
+      "schoolLongName": "East Carolina University",
+      "name": "Jack Enrico",
+      "normalizedName": "jack enrico",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "C",
+      "positionLong": "",
+      "classYear": "5TH YR",
+      "handedness": "N/A",
+      "jersey": "35",
+      "hometown": "Woodstock, Ga.",
+      "highSchool": "Sequoyah High School",
+      "previousSchool": "Young Harris College",
+      "hometownHighSchool": "Woodstock, Ga. / Sequoyah High School",
+      "profileUrl": "https://ecupirates.com/sports/baseball/roster/jack-enrico/14628",
+      "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "14628",
+      "sources": [
+        "East Carolina Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Jack Enrico gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "5TH YR / N/A",
+        "detailBadges": [
+          "C",
+          "5TH YR",
+          "N/A",
+          "Rostered"
+        ],
+        "sourceSummary": "East Carolina Athletics roster"
+      }
+    },
+    {
+      "id": "east-carolina-14629",
+      "schoolSlug": "east-carolina",
+      "school": "East Carolina",
+      "schoolLongName": "East Carolina University",
+      "name": "Nicholas Lorenz",
+      "normalizedName": "nicholas lorenz",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "4TH YR",
+      "handedness": "N/A",
+      "jersey": "36",
+      "hometown": "Port Orange, Fla.",
+      "highSchool": "Spruce Creek High School",
+      "previousSchool": "Florida Southwestern State College",
+      "hometownHighSchool": "Port Orange, Fla. / Spruce Creek High School",
+      "profileUrl": "https://ecupirates.com/sports/baseball/roster/nicholas-lorenz/14629",
+      "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "14629",
+      "sources": [
+        "East Carolina Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Nicholas Lorenz looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "4TH YR / N/A",
         "detailBadges": [
           "RHP",
           "4TH YR",
-          "R/R",
+          "N/A",
           "Pitcher"
         ],
         "sourceSummary": "East Carolina Athletics roster"
@@ -3424,7 +3074,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
-      "classYear": "1ST YR",
+      "classYear": "2ND YR",
       "handedness": "R/R",
       "jersey": "37",
       "hometown": "Bridgeville, Pa.",
@@ -3432,7 +3082,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "previousSchool": "",
       "hometownHighSchool": "Bridgeville, Pa. / South Fayette",
       "profileUrl": "https://ecupirates.com/sports/baseball/roster/ethan-rose/14542",
-      "imageUrl": "https://ecupirates.com/images/2025/12/2/Rose_Ethan_COAT_TIE_MUG_2025-1.jpg",
+      "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -3441,67 +3091,13 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "espnThrows": "",
       "rosterBioId": "14542",
       "sources": [
-        "East Carolina Athletics roster",
-        "East Carolina cumulative stats"
+        "East Carolina Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "14542",
-        "name": "Ethan Rose",
-        "normalizedName": "ethan rose",
-        "jersey": "37",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/ethan-rose/14542",
-        "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
-        "gamesPlayed": 29,
-        "gamesStarted": 2,
-        "appearances": 29,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 3,
-        "whip": 1.64,
-        "wins": 4,
-        "losses": 2,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 39,
-        "inningsPitchedDisplay": "39.0",
-        "hitsAllowed": 40,
-        "runsAllowed": 17,
-        "earnedRunsAllowed": 13,
-        "walksAllowed": 24,
-        "strikeouts": 24,
-        "doublesAllowed": 7,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 150,
-        "wildPitches": 1,
-        "hitBatters": 8,
-        "balks": 0,
-        "opponentsBattingAverage": 0.267,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "14542",
-        "name": "Ethan Rose",
-        "normalizedName": "ethan rose",
-        "jersey": "37",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/ethan-rose/14542",
-        "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
-        "gamesPlayed": 11,
-        "gamesStarted": 1,
-        "putouts": 3,
-        "assists": 9,
-        "errors": 1,
-        "fieldingPercentage": 0.923,
-        "doublePlays": 2,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 13
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 3,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3509,32 +3105,32 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 13.986013986013985,
+          "Miss bats": 0,
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Ethan Rose looks like a RHP option who limits runs.",
+        "summary": "Ethan Rose looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 3.00",
-          "WHIP 1.64",
-          "K/9 5.5"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.00"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.64"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "5.5"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "5.5"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
@@ -3542,17 +3138,281 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           },
           {
             "label": "IP",
-            "value": "39.0"
+            "value": "0.0"
           }
         ],
-        "metaLine": "1ST YR / R/R",
+        "metaLine": "2ND YR / R/R",
         "detailBadges": [
           "RHP",
-          "1ST YR",
+          "2ND YR",
           "R/R",
           "Pitcher"
         ],
-        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats"
+        "sourceSummary": "East Carolina Athletics roster"
+      }
+    },
+    {
+      "id": "east-carolina-14630",
+      "schoolSlug": "east-carolina",
+      "school": "East Carolina",
+      "schoolLongName": "East Carolina University",
+      "name": "Jason Kruczek",
+      "normalizedName": "jason kruczek",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "1ST YR",
+      "handedness": "N/A",
+      "jersey": "39",
+      "hometown": "Alexandria, Va.",
+      "highSchool": "Alexandria City High School",
+      "previousSchool": "",
+      "hometownHighSchool": "Alexandria, Va. / Alexandria City High School",
+      "profileUrl": "https://ecupirates.com/sports/baseball/roster/jason-kruczek/14630",
+      "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "14630",
+      "sources": [
+        "East Carolina Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Jason Kruczek looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "1ST YR / N/A",
+        "detailBadges": [
+          "RHP",
+          "1ST YR",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "East Carolina Athletics roster"
+      }
+    },
+    {
+      "id": "east-carolina-14631",
+      "schoolSlug": "east-carolina",
+      "school": "East Carolina",
+      "schoolLongName": "East Carolina University",
+      "name": "Sawyer Wickstrom",
+      "normalizedName": "sawyer wickstrom",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "3RD YR",
+      "handedness": "N/A",
+      "jersey": "41",
+      "hometown": "Bothell, Va.",
+      "highSchool": "Bothell High School",
+      "previousSchool": "Everett CC",
+      "hometownHighSchool": "Bothell, Va. / Bothell High School",
+      "profileUrl": "https://ecupirates.com/sports/baseball/roster/sawyer-wickstrom/14631",
+      "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "14631",
+      "sources": [
+        "East Carolina Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Sawyer Wickstrom looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "3RD YR / N/A",
+        "detailBadges": [
+          "RHP",
+          "3RD YR",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "East Carolina Athletics roster"
+      }
+    },
+    {
+      "id": "east-carolina-14632",
+      "schoolSlug": "east-carolina",
+      "school": "East Carolina",
+      "schoolLongName": "East Carolina University",
+      "name": "Landon Turman",
+      "normalizedName": "landon turman",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "",
+      "classYear": "1ST YR",
+      "handedness": "N/A",
+      "jersey": "42",
+      "hometown": "Abingdon, Va.",
+      "highSchool": "Abingdon High School",
+      "previousSchool": "",
+      "hometownHighSchool": "Abingdon, Va. / Abingdon High School",
+      "profileUrl": "https://ecupirates.com/sports/baseball/roster/landon-turman/14632",
+      "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "14632",
+      "sources": [
+        "East Carolina Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Landon Turman looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "1ST YR / N/A",
+        "detailBadges": [
+          "LHP",
+          "1ST YR",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "East Carolina Athletics roster"
       }
     },
     {
@@ -3566,7 +3426,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "role": "Pitcher",
       "position": "LHP",
       "positionLong": "",
-      "classYear": "3RD YR",
+      "classYear": "4TH YR",
       "handedness": "R/R",
       "jersey": "43",
       "hometown": "Gallatin, Tenn.",
@@ -3574,7 +3434,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "previousSchool": "Tennessee",
       "hometownHighSchool": "Gallatin, Tenn. / Goodpasture Christian",
       "profileUrl": "https://ecupirates.com/sports/baseball/roster/luke-payne/14540",
-      "imageUrl": "https://ecupirates.com/images/2025/12/2/Payne_Luke_COAT_TIE_MUG_2025-1.jpg",
+      "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -3583,67 +3443,13 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "espnThrows": "",
       "rosterBioId": "14540",
       "sources": [
-        "East Carolina Athletics roster",
-        "East Carolina cumulative stats"
+        "East Carolina Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "14540",
-        "name": "Luke Payne",
-        "normalizedName": "luke payne",
-        "jersey": "43",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/luke-payne/14540",
-        "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
-        "gamesPlayed": 16,
-        "gamesStarted": 8,
-        "appearances": 16,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 5.4,
-        "whip": 1.62,
-        "wins": 3,
-        "losses": 1,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 33.333333333333336,
-        "inningsPitchedDisplay": "33.1",
-        "hitsAllowed": 30,
-        "runsAllowed": 24,
-        "earnedRunsAllowed": 20,
-        "walksAllowed": 24,
-        "strikeouts": 33,
-        "doublesAllowed": 2,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 7,
-        "opponentsAtBats": 122,
-        "wildPitches": 7,
-        "hitBatters": 11,
-        "balks": 0,
-        "opponentsBattingAverage": 0.246,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "14540",
-        "name": "Luke Payne",
-        "normalizedName": "luke payne",
-        "jersey": "43",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/luke-payne/14540",
-        "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
-        "gamesPlayed": 5,
-        "gamesStarted": 4,
-        "putouts": 0,
-        "assists": 5,
-        "errors": 2,
-        "fieldingPercentage": 0.714,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 7
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 10,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3651,50 +3457,50 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 44.63636363636363,
-          "Command": 7.5000000000000036,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Luke Payne gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Luke Payne looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 5.40",
-          "WHIP 1.62",
-          "K/9 8.9"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.40"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.62"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "8.9"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "6.5"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.89"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "33.3"
+            "value": "0.0"
           }
         ],
-        "metaLine": "3RD YR / R/R",
+        "metaLine": "4TH YR / R/R",
         "detailBadges": [
           "LHP",
-          "3RD YR",
+          "4TH YR",
           "R/R",
           "Pitcher"
         ],
-        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats"
+        "sourceSummary": "East Carolina Athletics roster"
       }
     },
     {
@@ -3708,7 +3514,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
-      "classYear": "1ST YR",
+      "classYear": "2ND YR",
       "handedness": "N/A",
       "jersey": "44",
       "hometown": "Allison Park, Pa.",
@@ -3716,7 +3522,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "previousSchool": "",
       "hometownHighSchool": "Allison Park, Pa. / Shaler Area",
       "profileUrl": "https://ecupirates.com/sports/baseball/roster/colby-weber/14549",
-      "imageUrl": "https://ecupirates.com/images/2025/12/2/Weber_Colby_COAT_TIE_MUG_2025-1.jpg",
+      "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -3725,67 +3531,13 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "espnThrows": "",
       "rosterBioId": "14549",
       "sources": [
-        "East Carolina Athletics roster",
-        "East Carolina cumulative stats"
+        "East Carolina Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "14549",
-        "name": "Colby Weber",
-        "normalizedName": "colby weber",
-        "jersey": "44",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/colby-weber/14549",
-        "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
-        "gamesPlayed": 5,
-        "gamesStarted": 5,
-        "appearances": 5,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 4.58,
-        "whip": 1.37,
-        "wins": 1,
-        "losses": 1,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 19.666666666666668,
-        "inningsPitchedDisplay": "19.2",
-        "hitsAllowed": 19,
-        "runsAllowed": 10,
-        "earnedRunsAllowed": 10,
-        "walksAllowed": 8,
-        "strikeouts": 19,
-        "doublesAllowed": 4,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 4,
-        "opponentsAtBats": 74,
-        "wildPitches": 0,
-        "hitBatters": 1,
-        "balks": 0,
-        "opponentsBattingAverage": 0.257,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "14549",
-        "name": "Colby Weber",
-        "normalizedName": "colby weber",
-        "jersey": "44",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/colby-weber/14549",
-        "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
-        "gamesPlayed": 3,
-        "gamesStarted": 3,
-        "putouts": 0,
-        "assists": 3,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 3
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 13,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3793,79 +3545,79 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 42.681047765793515,
-          "Command": 27.500000000000004,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Colby Weber gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Colby Weber looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 4.58",
-          "WHIP 1.37",
-          "K/9 8.7"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.58"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.37"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "8.7"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "3.7"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.83"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "19.7"
+            "value": "0.0"
           }
         ],
-        "metaLine": "1ST YR / N/A",
+        "metaLine": "2ND YR / N/A",
         "detailBadges": [
           "RHP",
-          "1ST YR",
+          "2ND YR",
           "N/A",
           "Pitcher"
         ],
-        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats"
+        "sourceSummary": "East Carolina Athletics roster"
       }
     },
     {
-      "id": "east-carolina-14142",
+      "id": "east-carolina-14633",
       "schoolSlug": "east-carolina",
       "school": "East Carolina",
       "schoolLongName": "East Carolina University",
-      "name": "Luke Craddock",
-      "normalizedName": "luke craddock",
+      "name": "Kellen Smith",
+      "normalizedName": "kellen smith",
       "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "INF",
-      "positionLong": "Infield",
+      "positionLong": "",
       "classYear": "1ST YR",
-      "handedness": "R/R",
-      "jersey": "47",
-      "hometown": "Warrenton, Va.",
-      "highSchool": "Pro 5 Academy",
+      "handedness": "N/A",
+      "jersey": "45",
+      "hometown": "Four Oaks, N.C.",
+      "highSchool": "South Johnston High School",
       "previousSchool": "",
-      "hometownHighSchool": "Warrenton, Va. / Pro 5 Academy",
-      "profileUrl": "https://ecupirates.com/sports/baseball/roster/luke-craddock/14142",
-      "imageUrl": "https://ecupirates.com/images/2025/12/1/Craddock_Luke_COAT_TIE_MUG_2025-1.jpg",
+      "hometownHighSchool": "Four Oaks, N.C. / South Johnston High School",
+      "profileUrl": "https://ecupirates.com/sports/baseball/roster/kellen-smith/14633",
+      "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "14142",
+      "rosterBioId": "14633",
       "sources": [
         "East Carolina Athletics roster"
       ],
@@ -3885,7 +3637,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "summary": "Luke Craddock gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Kellen Smith gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG --",
           "OBP --",
@@ -3917,11 +3669,11 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "1ST YR / R/R",
+        "metaLine": "1ST YR / N/A",
         "detailBadges": [
           "INF",
           "1ST YR",
-          "R/R",
+          "N/A",
           "Rostered"
         ],
         "sourceSummary": "East Carolina Athletics roster"
@@ -3938,7 +3690,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "RHP",
-      "classYear": "2ND YR",
+      "classYear": "3RD YR",
       "handedness": "R/R",
       "jersey": "48",
       "hometown": "Hickory",
@@ -3946,7 +3698,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "previousSchool": "",
       "hometownHighSchool": "Hickory / Fred T Foard",
       "profileUrl": "https://ecupirates.com/sports/baseball/roster/sean-jenkins/14535",
-      "imageUrl": "https://ecupirates.com/images/2025/12/1/Jenkins_Sean_COAT_TIE_MUG_2025-1.jpg",
+      "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -3954,290 +3706,6 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "espnBats": "",
       "espnThrows": "",
       "rosterBioId": "14535",
-      "sources": [
-        "East Carolina Athletics roster",
-        "East Carolina cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "14535",
-        "name": "Sean Jenkins",
-        "normalizedName": "sean jenkins",
-        "jersey": "48",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/sean-jenkins/14535",
-        "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
-        "gamesPlayed": 18,
-        "gamesStarted": 0,
-        "appearances": 18,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 2.61,
-        "whip": 1.14,
-        "wins": 2,
-        "losses": 1,
-        "saves": 6,
-        "shutouts": 0,
-        "inningsPitched": 41.333333333333336,
-        "inningsPitchedDisplay": "41.1",
-        "hitsAllowed": 35,
-        "runsAllowed": 14,
-        "earnedRunsAllowed": 12,
-        "walksAllowed": 12,
-        "strikeouts": 54,
-        "doublesAllowed": 6,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 155,
-        "wildPitches": 2,
-        "hitBatters": 2,
-        "balks": 1,
-        "opponentsBattingAverage": 0.226,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "14535",
-        "name": "Sean Jenkins",
-        "normalizedName": "sean jenkins",
-        "jersey": "48",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/sean-jenkins/14535",
-        "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
-        "gamesPlayed": 4,
-        "gamesStarted": 0,
-        "putouts": 0,
-        "assists": 5,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 5
-      },
-      "evaluation": {
-        "score": 25,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 70.52785923753665,
-          "Command": 70,
-          "Damage suppression": 0
-        },
-        "summary": "Sean Jenkins looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
-        "summaryMetrics": [
-          "ERA 2.61",
-          "WHIP 1.14",
-          "K/9 11.8"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "2.61"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.14"
-          },
-          {
-            "label": "K/9",
-            "value": "11.8"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.6"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.44"
-          },
-          {
-            "label": "IP",
-            "value": "41.3"
-          }
-        ],
-        "metaLine": "2ND YR / R/R",
-        "detailBadges": [
-          "RHP",
-          "2ND YR",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats"
-      }
-    },
-    {
-      "id": "east-carolina-14534",
-      "schoolSlug": "east-carolina",
-      "school": "East Carolina",
-      "schoolLongName": "East Carolina University",
-      "name": "Charlie Hoagland",
-      "normalizedName": "charlie hoagland",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "",
-      "classYear": "1ST YR",
-      "handedness": "R/L",
-      "jersey": "50",
-      "hometown": "Dayton, Ohio",
-      "highSchool": "Chaminade Julienne Catholic",
-      "previousSchool": "",
-      "hometownHighSchool": "Dayton, Ohio / Chaminade Julienne Catholic",
-      "profileUrl": "https://ecupirates.com/sports/baseball/roster/charlie-hoagland/14534",
-      "imageUrl": "https://ecupirates.com/images/2025/12/1/Hoagland_Charlie_COAT_TIE_MUG_2025-1.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "14534",
-      "sources": [
-        "East Carolina Athletics roster",
-        "East Carolina cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "14534",
-        "name": "Charlie Hoagland",
-        "normalizedName": "charlie hoagland",
-        "jersey": "50",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/charlie-hoagland/14534",
-        "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
-        "gamesPlayed": 20,
-        "gamesStarted": 0,
-        "appearances": 20,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 5.32,
-        "whip": 1.39,
-        "wins": 0,
-        "losses": 3,
-        "saves": 2,
-        "shutouts": 0,
-        "inningsPitched": 23.666666666666668,
-        "inningsPitchedDisplay": "23.2",
-        "hitsAllowed": 22,
-        "runsAllowed": 15,
-        "earnedRunsAllowed": 14,
-        "walksAllowed": 11,
-        "strikeouts": 22,
-        "doublesAllowed": 3,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 89,
-        "wildPitches": 2,
-        "hitBatters": 8,
-        "balks": 0,
-        "opponentsBattingAverage": 0.247,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "14534",
-        "name": "Charlie Hoagland",
-        "normalizedName": "charlie hoagland",
-        "jersey": "50",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/charlie-hoagland/14534",
-        "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
-        "gamesPlayed": 3,
-        "gamesStarted": 0,
-        "putouts": 1,
-        "assists": 2,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 2,
-        "caughtStealingBy": 1,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 3
-      },
-      "evaluation": {
-        "score": 11,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 39.692701664532656,
-          "Command": 20,
-          "Damage suppression": 0
-        },
-        "summary": "Charlie Hoagland gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 5.32",
-          "WHIP 1.39",
-          "K/9 8.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.32"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.39"
-          },
-          {
-            "label": "K/9",
-            "value": "8.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.2"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.76"
-          },
-          {
-            "label": "IP",
-            "value": "23.7"
-          }
-        ],
-        "metaLine": "1ST YR / R/L",
-        "detailBadges": [
-          "LHP",
-          "1ST YR",
-          "R/L",
-          "Pitcher"
-        ],
-        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats"
-      }
-    },
-    {
-      "id": "east-carolina-13905",
-      "schoolSlug": "east-carolina",
-      "school": "East Carolina",
-      "schoolLongName": "East Carolina University",
-      "name": "Jack Herring",
-      "normalizedName": "jack herring",
-      "compositeRole": "Rostered",
-      "role": "Hitter",
-      "position": "OF",
-      "positionLong": "Outfield",
-      "classYear": "4TH YR",
-      "handedness": "S/L",
-      "jersey": "51",
-      "hometown": "Atlanta, Ga.",
-      "highSchool": "St. Pius X Catholic",
-      "previousSchool": "Rollins College",
-      "hometownHighSchool": "Atlanta, Ga. / St. Pius X Catholic",
-      "profileUrl": "https://ecupirates.com/sports/baseball/roster/jack-herring/13905",
-      "imageUrl": "https://ecupirates.com/images/2025/12/1/Herring_Jack_COAT_TIE_MUG_2025-1.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "13905",
       "sources": [
         "East Carolina Athletics roster"
       ],
@@ -4251,50 +3719,138 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
         },
-        "summary": "Jack Herring gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Sean Jenkins looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
-            "label": "AVG",
+            "label": "ERA",
             "value": "--"
           },
           {
-            "label": "OBP",
+            "label": "WHIP",
             "value": "--"
           },
           {
-            "label": "SLG",
-            "value": "--"
+            "label": "K/9",
+            "value": "0.0"
           },
           {
-            "label": "HR",
-            "value": "0"
+            "label": "BB/9",
+            "value": "0.0"
           },
           {
-            "label": "RBI",
-            "value": "0"
+            "label": "HR/9",
+            "value": "0.00"
           },
           {
-            "label": "SB",
-            "value": "0"
+            "label": "IP",
+            "value": "0.0"
           }
         ],
-        "metaLine": "4TH YR / S/L",
+        "metaLine": "3RD YR / R/R",
         "detailBadges": [
-          "OF",
-          "4TH YR",
-          "S/L",
-          "Rostered"
+          "RHP",
+          "3RD YR",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "East Carolina Athletics roster"
+      }
+    },
+    {
+      "id": "east-carolina-14534",
+      "schoolSlug": "east-carolina",
+      "school": "East Carolina",
+      "schoolLongName": "East Carolina University",
+      "name": "Charlie Hoagland",
+      "normalizedName": "charlie hoagland",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "",
+      "classYear": "2ND YR",
+      "handedness": "R/L",
+      "jersey": "50",
+      "hometown": "Dayton, Ohio",
+      "highSchool": "Chaminade Julienne Catholic",
+      "previousSchool": "",
+      "hometownHighSchool": "Dayton, Ohio / Chaminade Julienne Catholic",
+      "profileUrl": "https://ecupirates.com/sports/baseball/roster/charlie-hoagland/14534",
+      "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "14534",
+      "sources": [
+        "East Carolina Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Charlie Hoagland looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "2ND YR / R/L",
+        "detailBadges": [
+          "LHP",
+          "2ND YR",
+          "R/L",
+          "Pitcher"
         ],
         "sourceSummary": "East Carolina Athletics roster"
       }
@@ -4310,7 +3866,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
-      "classYear": "3RD YR",
+      "classYear": "4TH YR",
       "handedness": "R/R",
       "jersey": "55",
       "hometown": "Waxhaw",
@@ -4318,7 +3874,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "previousSchool": "Belmont Abbey",
       "hometownHighSchool": "Waxhaw / Cuthberson",
       "profileUrl": "https://ecupirates.com/sports/baseball/roster/thomas-paxton/14539",
-      "imageUrl": "https://ecupirates.com/images/2025/12/2/Paxton_Thomas_COAT_TIE_MUG_2025-1.jpg",
+      "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -4327,47 +3883,13 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "espnThrows": "",
       "rosterBioId": "14539",
       "sources": [
-        "East Carolina Athletics roster",
-        "East Carolina cumulative stats"
+        "East Carolina Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "14539",
-        "name": "Thomas Paxton",
-        "normalizedName": "thomas paxton",
-        "jersey": "55",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/thomas-paxton/14539",
-        "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
-        "gamesPlayed": 8,
-        "gamesStarted": 0,
-        "appearances": 8,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 2.31,
-        "whip": 1.2,
-        "wins": 1,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 11.666666666666666,
-        "inningsPitchedDisplay": "11.2",
-        "hitsAllowed": 13,
-        "runsAllowed": 3,
-        "earnedRunsAllowed": 3,
-        "walksAllowed": 1,
-        "strikeouts": 9,
-        "doublesAllowed": 3,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 46,
-        "wildPitches": 1,
-        "hitBatters": 1,
-        "balks": 0,
-        "opponentsBattingAverage": 0.283,
-        "walksHits": 0
-      },
+      "pitchingStats": null,
       "fieldingStats": null,
       "evaluation": {
-        "score": 21,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4375,32 +3897,32 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 26.753246753246756,
-          "Command": 100,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Thomas Paxton looks like a RHP option who limits runs and throws enough strikes and keeps traffic under control.",
+        "summary": "Thomas Paxton looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 2.31",
-          "WHIP 1.20",
-          "K/9 6.9"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.31"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.20"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "6.9"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "0.8"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
@@ -4408,162 +3930,17 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           },
           {
             "label": "IP",
-            "value": "11.7"
+            "value": "0.0"
           }
         ],
-        "metaLine": "3RD YR / R/R",
+        "metaLine": "4TH YR / R/R",
         "detailBadges": [
           "RHP",
-          "3RD YR",
+          "4TH YR",
           "R/R",
           "Pitcher"
         ],
-        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats"
-      }
-    },
-    {
-      "id": "east-carolina-14533",
-      "schoolSlug": "east-carolina",
-      "school": "East Carolina",
-      "schoolLongName": "East Carolina University",
-      "name": "Chance Hall",
-      "normalizedName": "chance hall",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "OF",
-      "positionLong": "Outfield",
-      "classYear": "R-SO",
-      "handedness": "R/R",
-      "jersey": "61",
-      "hometown": "North Myrtle Beach, S.C.",
-      "highSchool": "North Myrtle Beach",
-      "previousSchool": "",
-      "hometownHighSchool": "North Myrtle Beach, S.C. / North Myrtle Beach",
-      "profileUrl": "https://ecupirates.com/sports/baseball/roster/chance-hall/14533",
-      "imageUrl": "https://ecupirates.com/images/2025/12/1/Hall_Chance_COAT_TIE_MUG_2025-1.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "14533",
-      "sources": [
-        "East Carolina Athletics roster",
-        "East Carolina cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "14533",
-        "name": "Chance Hall",
-        "normalizedName": "chance hall",
-        "jersey": "61",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/chance-hall/14533",
-        "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
-        "gamesPlayed": 19,
-        "gamesStarted": 0,
-        "battingAverage": 0.333,
-        "onBasePercentage": 0.333,
-        "sluggingPercentage": 0.333,
-        "ops": 0.666,
-        "atBats": 3,
-        "runs": 3,
-        "hits": 1,
-        "doubles": 0,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 0,
-        "totalBases": 1,
-        "walks": 0,
-        "hitByPitch": 0,
-        "strikeouts": 1,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 4,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 3,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "14533",
-        "name": "Chance Hall",
-        "normalizedName": "chance hall",
-        "jersey": "61",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/chance-hall/14533",
-        "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
-        "gamesPlayed": 4,
-        "gamesStarted": 0,
-        "putouts": 4,
-        "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 4
-      },
-      "evaluation": {
-        "score": 23,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 29.44444444444444,
-          "Power": 3.421052631578951,
-          "Contact": 70.625,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "summary": "Chance Hall gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .333",
-          "OBP .333",
-          "SLG .333"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".333"
-          },
-          {
-            "label": "OBP",
-            "value": ".333"
-          },
-          {
-            "label": "SLG",
-            "value": ".333"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "R-SO / R/R",
-        "detailBadges": [
-          "OF",
-          "R-SO",
-          "R/R",
-          "Hitter"
-        ],
-        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats"
+        "sourceSummary": "East Carolina Athletics roster"
       }
     },
     {
@@ -4577,7 +3954,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "role": "Pitcher",
       "position": "INF/RHP",
       "positionLong": "",
-      "classYear": "1ST YR",
+      "classYear": "2ND YR",
       "handedness": "R/R",
       "jersey": "77",
       "hometown": "Virginia Beach, Va.",
@@ -4585,7 +3962,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       "previousSchool": "",
       "hometownHighSchool": "Virginia Beach, Va. / Atlantic Shores Christian",
       "profileUrl": "https://ecupirates.com/sports/baseball/roster/brett-beasley/14530",
-      "imageUrl": "https://ecupirates.com/images/2025/12/1/Beasley_Brett_COAT_TIE_MUG_2025-1.jpg",
+      "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
@@ -4644,10 +4021,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "1ST YR / R/R",
+        "metaLine": "2ND YR / R/R",
         "detailBadges": [
           "INF/RHP",
-          "1ST YR",
+          "2ND YR",
           "R/R",
           "Pitcher"
         ],
@@ -4655,32 +4032,32 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
       }
     },
     {
-      "id": "east-carolina-14146",
+      "id": "east-carolina-14634",
       "schoolSlug": "east-carolina",
       "school": "East Carolina",
       "schoolLongName": "East Carolina University",
-      "name": "Gavin Marley",
-      "normalizedName": "gavin marley",
+      "name": "Jack Stoner",
+      "normalizedName": "jack stoner",
       "compositeRole": "Pitcher",
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "",
-      "classYear": "R-JR",
-      "handedness": "R/R",
+      "classYear": "1ST YR",
+      "handedness": "N/A",
       "jersey": "99",
-      "hometown": "Hickory",
-      "highSchool": "St. Stephens",
-      "previousSchool": "Lenoir-Rhyne",
-      "hometownHighSchool": "Hickory / St. Stephens",
-      "profileUrl": "https://ecupirates.com/sports/baseball/roster/gavin-marley/14146",
-      "imageUrl": "https://ecupirates.com/images/2025/12/1/Marley_Gavin_COAT_TIE_MUG_2025-1.jpg",
+      "hometown": "Las Vegas, Nev.",
+      "highSchool": "Bishop Gorman High School",
+      "previousSchool": "",
+      "hometownHighSchool": "Las Vegas, Nev. / Bishop Gorman High School",
+      "profileUrl": "https://ecupirates.com/sports/baseball/roster/jack-stoner/14634",
+      "imageUrl": "https://ecupirates.com/images/2016/8/11/ECU_Pirate.gif",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "14146",
+      "rosterBioId": "14634",
       "sources": [
         "East Carolina Athletics roster"
       ],
@@ -4700,7 +4077,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Gavin Marley looks like a RHP option who throws enough strikes.",
+        "summary": "Jack Stoner looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -4732,11 +4109,11 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "R-JR / R/R",
+        "metaLine": "1ST YR / N/A",
         "detailBadges": [
           "RHP",
-          "R-JR",
-          "R/R",
+          "1ST YR",
+          "N/A",
           "Pitcher"
         ],
         "sourceSummary": "East Carolina Athletics roster"
@@ -4746,94 +4123,26 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
   "playerBoard": {
     "source": "East Carolina Athletics roster + cumulative stats / ESPN roster",
     "note": "This East Carolina-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but East Carolina's public ESPN roster feed did not line up cleanly with the current school-site roster.",
-    "totalPlayers": 41,
+    "totalPlayers": 45,
     "roleCounts": {
-      "Hitter": 21,
-      "Pitcher": 20
+      "Hitter": 23,
+      "Pitcher": 22
     },
     "players": [
       {
-        "id": "east-carolina-14127",
-        "name": "Jeff Sabater",
-        "school": "East Carolina",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "GR",
-        "handedness": "L/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jeff Sabater gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "GR / L/R",
-        "detailBadges": [
-          "OF",
-          "GR",
-          "L/R",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "East Carolina Athletics roster"
-        ],
-        "sourceSummary": "East Carolina Athletics roster",
-        "schoolSlug": "east-carolina",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/jeff-sabater/14127",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "east-carolina-14128",
-        "name": "Carlos Jacome",
+        "id": "east-carolina-14612",
+        "name": "Shane Monaghan",
         "school": "East Carolina",
         "role": "Hitter",
         "position": "INF",
-        "classYear": "3RD YR",
-        "handedness": "R/R",
+        "classYear": "1ST YR",
+        "handedness": "N/A",
         "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Carlos Jacome gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Shane Monaghan gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG --",
           "OBP --",
@@ -4872,11 +4181,11 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "3RD YR / R/R",
+        "metaLine": "1ST YR / N/A",
         "detailBadges": [
           "INF",
-          "3RD YR",
-          "R/R",
+          "1ST YR",
+          "N/A",
           "Rostered"
         ],
         "leaderboards": [
@@ -4885,7 +4194,75 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "sourceSummary": "East Carolina Athletics roster",
         "schoolSlug": "east-carolina",
         "compositeRole": "Rostered",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/carlos-jacome/14128",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/shane-monaghan/14612",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14613",
+        "name": "Brady Thompson",
+        "school": "East Carolina",
+        "role": "Pitcher",
+        "position": "1B/RHP",
+        "classYear": "3RD YR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Brady Thompson looks like a 1B/RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "3RD YR / N/A",
+        "detailBadges": [
+          "1B/RHP",
+          "3RD YR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/brady-thompson/14613",
         "espnAthleteId": ""
       },
       {
@@ -4894,7 +4271,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "school": "East Carolina",
         "role": "Hitter",
         "position": "OF",
-        "classYear": "1ST YR",
+        "classYear": "2ND YR",
         "handedness": "L/R",
         "score": 0,
         "fit": {
@@ -4940,10 +4317,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "1ST YR / L/R",
+        "metaLine": "2ND YR / L/R",
         "detailBadges": [
           "OF",
-          "1ST YR",
+          "2ND YR",
           "L/R",
           "Rostered"
         ],
@@ -4962,66 +4339,65 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "school": "East Carolina",
         "role": "Hitter",
         "position": "OF",
-        "classYear": "R-SO",
+        "classYear": "4TH YR",
         "handedness": "L/R",
-        "score": 63,
+        "score": 0,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
-        "summary": "Davin Whitaker profiles as a OF piece who gets on base at a high clip and brings real extra-base damage.",
+        "summary": "Davin Whitaker gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .323",
-          "OBP .428",
-          "SLG .554"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".323"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".428"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".554"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "10"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "45"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "6"
+            "value": "0"
           }
         ],
         "components": {
-          "On-base": 82.22222222222221,
-          "Power": 61.57894736842107,
-          "Contact": 64.375,
-          "Discipline": 50.241545893719795,
-          "Speed": 20
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "metaLine": "R-SO / L/R",
+        "metaLine": "4TH YR / L/R",
         "detailBadges": [
           "OF",
-          "R-SO",
+          "4TH YR",
           "L/R",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "East Carolina Athletics roster",
-          "East Carolina cumulative stats"
+          "East Carolina Athletics roster"
         ],
-        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats",
+        "sourceSummary": "East Carolina Athletics roster",
         "schoolSlug": "east-carolina",
-        "compositeRole": "Hitter",
+        "compositeRole": "Rostered",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/davin-whitaker/14550",
         "espnAthleteId": ""
       },
@@ -5031,66 +4407,65 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "school": "East Carolina",
         "role": "Hitter",
         "position": "INF",
-        "classYear": "3RD YR",
+        "classYear": "4TH YR",
         "handedness": "L/R",
-        "score": 6,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Nick Parham gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .205",
-          "OBP .300",
-          "SLG .318"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".205"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".300"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".318"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "2"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "11"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "3"
+            "value": "0"
           }
         ],
         "components": {
-          "On-base": 11.111111111111091,
+          "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 11.111111111111107,
-          "Speed": 10
+          "Discipline": 0,
+          "Speed": 0
         },
-        "metaLine": "3RD YR / L/R",
+        "metaLine": "4TH YR / L/R",
         "detailBadges": [
           "INF",
-          "3RD YR",
+          "4TH YR",
           "L/R",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "East Carolina Athletics roster",
-          "East Carolina cumulative stats"
+          "East Carolina Athletics roster"
         ],
-        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats",
+        "sourceSummary": "East Carolina Athletics roster",
         "schoolSlug": "east-carolina",
-        "compositeRole": "Hitter",
+        "compositeRole": "Rostered",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/nick-parham/14538",
         "espnAthleteId": ""
       },
@@ -5100,7 +4475,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "school": "East Carolina",
         "role": "Pitcher",
         "position": "LHP",
-        "classYear": "2ND YR",
+        "classYear": "3RD YR",
         "handedness": "L/L",
         "score": 0,
         "fit": {
@@ -5108,759 +4483,6 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "className": "fit-depth"
         },
         "summary": "Gabe Beschloss looks like a LHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "2ND YR / L/L",
-        "detailBadges": [
-          "LHP",
-          "2ND YR",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "East Carolina Athletics roster"
-        ],
-        "sourceSummary": "East Carolina Athletics roster",
-        "schoolSlug": "east-carolina",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/gabe-beschloss/14531",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "east-carolina-13913",
-        "name": "Dawson Neal",
-        "school": "East Carolina",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "4TH YR",
-        "handedness": "L/L",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Dawson Neal looks like a LHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "4TH YR / L/L",
-        "detailBadges": [
-          "LHP",
-          "4TH YR",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "East Carolina Athletics roster"
-        ],
-        "sourceSummary": "East Carolina Athletics roster",
-        "schoolSlug": "east-carolina",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/dawson-neal/13913",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "east-carolina-14544",
-        "name": "Ryan Towers",
-        "school": "East Carolina",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "R-JR",
-        "handedness": "L/L",
-        "score": 8,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Ryan Towers looks like a LHP option who limits runs.",
-        "summaryMetrics": [
-          "ERA 3.39",
-          "WHIP 1.27",
-          "K/9 6.9"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.39"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.27"
-          },
-          {
-            "label": "K/9",
-            "value": "6.9"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.7"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.08"
-          },
-          {
-            "label": "IP",
-            "value": "58.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 26.753246753246746,
-          "Command": 17.499999999999996,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-JR / L/L",
-        "detailBadges": [
-          "LHP",
-          "R-JR",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "East Carolina Athletics roster",
-          "East Carolina cumulative stats"
-        ],
-        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats",
-        "schoolSlug": "east-carolina",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/ryan-towers/14544",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "east-carolina-13900",
-        "name": "Alex Bouche",
-        "school": "East Carolina",
-        "role": "Hitter",
-        "position": "UTL",
-        "classYear": "4TH YR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Alex Bouche gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "4TH YR / R/R",
-        "detailBadges": [
-          "UTL",
-          "4TH YR",
-          "R/R",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "East Carolina Athletics roster"
-        ],
-        "sourceSummary": "East Carolina Athletics roster",
-        "schoolSlug": "east-carolina",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/alex-bouche/13900",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "east-carolina-14527",
-        "name": "Brett Antolick",
-        "school": "East Carolina",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "R-SO",
-        "handedness": "R/R",
-        "score": 27,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Brett Antolick looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 7.91",
-          "WHIP 1.71",
-          "K/9 14.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "7.91"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.71"
-          },
-          {
-            "label": "K/9",
-            "value": "14.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.7"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.86"
-          },
-          {
-            "label": "IP",
-            "value": "19.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 90.59561128526646,
-          "Command": 55.00000000000001,
-          "Damage suppression": 0
-        },
-        "metaLine": "R-SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "R-SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "East Carolina Athletics roster",
-          "East Carolina cumulative stats"
-        ],
-        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats",
-        "schoolSlug": "east-carolina",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/brett-antolick/14527",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "east-carolina-14548",
-        "name": "Colby Wallace",
-        "school": "East Carolina",
-        "role": "Pitcher",
-        "position": "INF/RHP",
-        "classYear": "3RD YR",
-        "handedness": "R/R",
-        "score": 16,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Colby Wallace looks like a INF/RHP option who limits runs and throws enough strikes.",
-        "summaryMetrics": [
-          "ERA 0.00",
-          "WHIP 1.50",
-          "K/9 3.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "0.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.50"
-          },
-          {
-            "label": "K/9",
-            "value": "3.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "2.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 100,
-          "Damage suppression": 0
-        },
-        "metaLine": "3RD YR / R/R",
-        "detailBadges": [
-          "INF/RHP",
-          "3RD YR",
-          "R/R",
-          "Two-Way"
-        ],
-        "leaderboards": [
-          "East Carolina Athletics roster",
-          "East Carolina cumulative stats"
-        ],
-        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats",
-        "schoolSlug": "east-carolina",
-        "compositeRole": "Two-Way",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/colby-wallace/14548",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "east-carolina-14541",
-        "name": "Alex Peltier",
-        "school": "East Carolina",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "2ND YR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Alex Peltier gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .000",
-          "OBP .000",
-          "SLG .000"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".000"
-          },
-          {
-            "label": "OBP",
-            "value": ".000"
-          },
-          {
-            "label": "SLG",
-            "value": ".000"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 3.3333333333333335
-        },
-        "metaLine": "2ND YR / R/R",
-        "detailBadges": [
-          "OF",
-          "2ND YR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "East Carolina Athletics roster",
-          "East Carolina cumulative stats"
-        ],
-        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats",
-        "schoolSlug": "east-carolina",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/alex-peltier/14541",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "east-carolina-14536",
-        "name": "Grady Lenahan",
-        "school": "East Carolina",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "1ST YR",
-        "handedness": "R/R",
-        "score": 56,
-        "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
-        },
-        "summary": "Grady Lenahan profiles as a OF piece who gets on base at a high clip and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .300",
-          "OBP .402",
-          "SLG .526"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".300"
-          },
-          {
-            "label": "OBP",
-            "value": ".402"
-          },
-          {
-            "label": "SLG",
-            "value": ".526"
-          },
-          {
-            "label": "HR",
-            "value": "9"
-          },
-          {
-            "label": "RBI",
-            "value": "48"
-          },
-          {
-            "label": "SB",
-            "value": "11"
-          }
-        ],
-        "components": {
-          "On-base": 67.77777777777779,
-          "Power": 54.21052631578949,
-          "Contact": 49.999999999999986,
-          "Discipline": 50.42735042735041,
-          "Speed": 36.666666666666664
-        },
-        "metaLine": "1ST YR / R/R",
-        "detailBadges": [
-          "OF",
-          "1ST YR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "East Carolina Athletics roster",
-          "East Carolina cumulative stats"
-        ],
-        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats",
-        "schoolSlug": "east-carolina",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/grady-lenahan/14536",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "east-carolina-13909",
-        "name": "Michael Kalinich",
-        "school": "East Carolina",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "2ND YR",
-        "handedness": "L/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Michael Kalinich gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "2ND YR / L/R",
-        "detailBadges": [
-          "C",
-          "2ND YR",
-          "L/R",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "East Carolina Athletics roster"
-        ],
-        "sourceSummary": "East Carolina Athletics roster",
-        "schoolSlug": "east-carolina",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/michael-kalinich/13909",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "east-carolina-14131",
-        "name": "Matt Lashley",
-        "school": "East Carolina",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "3RD YR",
-        "handedness": "L/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Matt Lashley gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "3RD YR / L/R",
-        "detailBadges": [
-          "INF",
-          "3RD YR",
-          "L/R",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "East Carolina Athletics roster"
-        ],
-        "sourceSummary": "East Carolina Athletics roster",
-        "schoolSlug": "east-carolina",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/matt-lashley/14131",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "east-carolina-13902",
-        "name": "Parker Byrd",
-        "school": "East Carolina",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "4TH YR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Parker Byrd gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "4TH YR / R/R",
-        "detailBadges": [
-          "INF",
-          "4TH YR",
-          "R/R",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "East Carolina Athletics roster"
-        ],
-        "sourceSummary": "East Carolina Athletics roster",
-        "schoolSlug": "east-carolina",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/parker-byrd/13902",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "east-carolina-13914",
-        "name": "Ethan Norby",
-        "school": "East Carolina",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "3RD YR",
-        "handedness": "L/L",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Ethan Norby looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -5912,23 +4534,91 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "sourceSummary": "East Carolina Athletics roster",
         "schoolSlug": "east-carolina",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/ethan-norby/13914",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/gabe-beschloss/14531",
         "espnAthleteId": ""
       },
       {
-        "id": "east-carolina-13903",
-        "name": "Jackson DiLorenzo",
+        "id": "east-carolina-14614",
+        "name": "Josh Mozingo",
         "school": "East Carolina",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "3RD YR",
-        "handedness": "R/R",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "1ST YR",
+        "handedness": "N/A",
         "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Jackson DiLorenzo looks like a RHP option who throws enough strikes.",
+        "summary": "Josh Mozingo gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "1ST YR / N/A",
+        "detailBadges": [
+          "INF",
+          "1ST YR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/josh-mozingo/14614",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14544",
+        "name": "Ryan Towers",
+        "school": "East Carolina",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "5TH YR",
+        "handedness": "L/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Ryan Towers looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -5967,11 +4657,11 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "3RD YR / R/R",
+        "metaLine": "5TH YR / L/L",
         "detailBadges": [
-          "RHP",
-          "3RD YR",
-          "R/R",
+          "LHP",
+          "5TH YR",
+          "L/L",
           "Pitcher"
         ],
         "leaderboards": [
@@ -5980,12 +4670,80 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "sourceSummary": "East Carolina Athletics roster",
         "schoolSlug": "east-carolina",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/jackson-dilorenzo/13903",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/ryan-towers/14544",
         "espnAthleteId": ""
       },
       {
-        "id": "east-carolina-14132",
-        "name": "Frank Ciccone",
+        "id": "east-carolina-14615",
+        "name": "Westin Boyle",
+        "school": "East Carolina",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "2ND YR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Westin Boyle gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "2ND YR / N/A",
+        "detailBadges": [
+          "INF",
+          "2ND YR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/westin-boyle/14615",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14527",
+        "name": "Brett Antolick",
         "school": "East Carolina",
         "role": "Pitcher",
         "position": "RHP",
@@ -5996,7 +4754,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Frank Ciccone looks like a RHP option who throws enough strikes.",
+        "summary": "Brett Antolick looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -6048,23 +4806,91 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "sourceSummary": "East Carolina Athletics roster",
         "schoolSlug": "east-carolina",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/frank-ciccone/14132",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/brett-antolick/14527",
         "espnAthleteId": ""
       },
       {
-        "id": "east-carolina-13906",
-        "name": "Austin Irby",
+        "id": "east-carolina-14548",
+        "name": "Colby Wallace",
         "school": "East Carolina",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "2ND YR",
-        "handedness": "L/R",
+        "role": "Pitcher",
+        "position": "INF/RHP",
+        "classYear": "4TH YR",
+        "handedness": "R/R",
         "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Austin Irby gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Colby Wallace looks like a INF/RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "4TH YR / R/R",
+        "detailBadges": [
+          "INF/RHP",
+          "4TH YR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/colby-wallace/14548",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14541",
+        "name": "Alex Peltier",
+        "school": "East Carolina",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "3RD YR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Alex Peltier gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG --",
           "OBP --",
@@ -6103,11 +4929,11 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "2ND YR / L/R",
+        "metaLine": "3RD YR / R/R",
         "detailBadges": [
-          "INF",
-          "2ND YR",
-          "L/R",
+          "OF",
+          "3RD YR",
+          "R/R",
           "Rostered"
         ],
         "leaderboards": [
@@ -6116,7 +4942,551 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "sourceSummary": "East Carolina Athletics roster",
         "schoolSlug": "east-carolina",
         "compositeRole": "Rostered",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/austin-irby/13906",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/alex-peltier/14541",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14536",
+        "name": "Grady Lenahan",
+        "school": "East Carolina",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "2ND YR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Grady Lenahan gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "2ND YR / R/R",
+        "detailBadges": [
+          "OF",
+          "2ND YR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/grady-lenahan/14536",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14547",
+        "name": "Jack Vogele",
+        "school": "East Carolina",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "4TH YR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jack Vogele gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "4TH YR / R/R",
+        "detailBadges": [
+          "OF",
+          "4TH YR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/jack-vogele/14547",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14616",
+        "name": "Braeden Martin",
+        "school": "East Carolina",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "1ST YR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Braeden Martin gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "1ST YR / N/A",
+        "detailBadges": [
+          "INF",
+          "1ST YR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/braeden-martin/14616",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14533",
+        "name": "Chance Hall",
+        "school": "East Carolina",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "4TH YR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Chance Hall gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "4TH YR / R/R",
+        "detailBadges": [
+          "OF",
+          "4TH YR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/chance-hall/14533",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14617",
+        "name": "Braeden Lipoff",
+        "school": "East Carolina",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "1ST YR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Braeden Lipoff gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "1ST YR / N/A",
+        "detailBadges": [
+          "C",
+          "1ST YR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/braeden-lipoff/14617",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14618",
+        "name": "William Benson",
+        "school": "East Carolina",
+        "role": "Hitter",
+        "position": "1B",
+        "classYear": "1ST YR",
+        "handedness": "R/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "William Benson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "1ST YR / R/L",
+        "detailBadges": [
+          "1B",
+          "1ST YR",
+          "R/L",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/william-benson/14618",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14619",
+        "name": "Carter Perdue",
+        "school": "East Carolina",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "1ST YR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Carter Perdue looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "1ST YR / N/A",
+        "detailBadges": [
+          "RHP",
+          "1ST YR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/carter-perdue/14619",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14620",
+        "name": "Saxon Roberts",
+        "school": "East Carolina",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "3RD YR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Saxon Roberts looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "3RD YR / N/A",
+        "detailBadges": [
+          "RHP",
+          "3RD YR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/saxon-roberts/14620",
         "espnAthleteId": ""
       },
       {
@@ -6125,66 +5495,65 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "school": "East Carolina",
         "role": "Hitter",
         "position": "C",
-        "classYear": "3RD YR",
+        "classYear": "4TH YR",
         "handedness": "R/R",
-        "score": 33,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Walker Barron gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .281",
-          "OBP .358",
-          "SLG .416"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".281"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".358"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".416"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "6"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "36"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "1"
+            "value": "0"
           }
         ],
         "components": {
-          "On-base": 43.333333333333314,
-          "Power": 25.26315789473684,
-          "Contact": 38.125000000000014,
-          "Discipline": 34.83483483483483,
-          "Speed": 3.3333333333333335
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "metaLine": "3RD YR / R/R",
+        "metaLine": "4TH YR / R/R",
         "detailBadges": [
           "C",
-          "3RD YR",
+          "4TH YR",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "East Carolina Athletics roster",
-          "East Carolina cumulative stats"
+          "East Carolina Athletics roster"
         ],
-        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats",
+        "sourceSummary": "East Carolina Athletics roster",
         "schoolSlug": "east-carolina",
-        "compositeRole": "Hitter",
+        "compositeRole": "Rostered",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/walker-barron/14529",
         "espnAthleteId": ""
       },
@@ -6194,7 +5563,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "school": "East Carolina",
         "role": "Hitter",
         "position": "INF",
-        "classYear": "2ND YR",
+        "classYear": "3RD YR",
         "handedness": "S/R",
         "score": 0,
         "fit": {
@@ -6240,10 +5609,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "2ND YR / S/R",
+        "metaLine": "3RD YR / S/R",
         "detailBadges": [
           "INF",
-          "2ND YR",
+          "3RD YR",
           "S/R",
           "Rostered"
         ],
@@ -6262,151 +5631,14 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "school": "East Carolina",
         "role": "Hitter",
         "position": "INF/OF",
-        "classYear": "2ND YR",
-        "handedness": "R/R",
-        "score": 77,
-        "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
-        },
-        "summary": "Braden Burress profiles as a INF/OF piece who gets on base at a high clip and controls at-bats and adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .361",
-          "OBP .460",
-          "SLG .482"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".361"
-          },
-          {
-            "label": "OBP",
-            "value": ".460"
-          },
-          {
-            "label": "SLG",
-            "value": ".482"
-          },
-          {
-            "label": "HR",
-            "value": "3"
-          },
-          {
-            "label": "RBI",
-            "value": "32"
-          },
-          {
-            "label": "SB",
-            "value": "12"
-          }
-        ],
-        "components": {
-          "On-base": 100,
-          "Power": 42.63157894736842,
-          "Contact": 88.12499999999999,
-          "Discipline": 100,
-          "Speed": 40
-        },
-        "metaLine": "2ND YR / R/R",
-        "detailBadges": [
-          "INF/OF",
-          "2ND YR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "East Carolina Athletics roster",
-          "East Carolina cumulative stats"
-        ],
-        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats",
-        "schoolSlug": "east-carolina",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/braden-burress/14532",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "east-carolina-13912",
-        "name": "Nick Moran",
-        "school": "East Carolina",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "4TH YR",
-        "handedness": "L/L",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Nick Moran looks like a LHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "4TH YR / L/L",
-        "detailBadges": [
-          "LHP",
-          "4TH YR",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "East Carolina Athletics roster"
-        ],
-        "sourceSummary": "East Carolina Athletics roster",
-        "schoolSlug": "east-carolina",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/nick-moran/13912",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "east-carolina-14133",
-        "name": "Blade Carver",
-        "school": "East Carolina",
-        "role": "Hitter",
-        "position": "C",
         "classYear": "3RD YR",
-        "handedness": "N/A",
+        "handedness": "R/R",
         "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Blade Carver gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Braden Burress gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG --",
           "OBP --",
@@ -6445,10 +5677,78 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "3RD YR / N/A",
+        "metaLine": "3RD YR / R/R",
+        "detailBadges": [
+          "INF/OF",
+          "3RD YR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/braden-burress/14532",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14621",
+        "name": "Jack Woda",
+        "school": "East Carolina",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "1ST YR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jack Woda gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "1ST YR / N/A",
         "detailBadges": [
           "C",
-          "3RD YR",
+          "1ST YR",
           "N/A",
           "Rostered"
         ],
@@ -6458,7 +5758,75 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "sourceSummary": "East Carolina Athletics roster",
         "schoolSlug": "east-carolina",
         "compositeRole": "Rostered",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/blade-carver/14133",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/jack-woda/14621",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14622",
+        "name": "Danny Cihocki",
+        "school": "East Carolina",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "4TH YR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Danny Cihocki looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "4TH YR / N/A",
+        "detailBadges": [
+          "RHP",
+          "4TH YR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/danny-cihocki/14622",
         "espnAthleteId": ""
       },
       {
@@ -6467,39 +5835,39 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "school": "East Carolina",
         "role": "Hitter",
         "position": "OF",
-        "classYear": "1ST YR",
+        "classYear": "2ND YR",
         "handedness": "R/R",
-        "score": 32,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Brayden Bachman gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .250",
-          "OBP .340",
-          "SLG .455"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".250"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".340"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".455"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "2"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "8"
+            "value": "0"
           },
           {
             "label": "SB",
@@ -6507,60 +5875,195 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           }
         ],
         "components": {
-          "On-base": 33.33333333333333,
-          "Power": 35.52631578947369,
-          "Contact": 18.75,
-          "Discipline": 61.11111111111111,
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "1ST YR / R/R",
+        "metaLine": "2ND YR / R/R",
         "detailBadges": [
           "OF",
-          "1ST YR",
+          "2ND YR",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "East Carolina Athletics roster",
-          "East Carolina cumulative stats"
+          "East Carolina Athletics roster"
         ],
-        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats",
+        "sourceSummary": "East Carolina Athletics roster",
         "schoolSlug": "east-carolina",
-        "compositeRole": "Hitter",
+        "compositeRole": "Rostered",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/brayden-bachman/14528",
         "espnAthleteId": ""
       },
       {
-        "id": "east-carolina-14547",
-        "name": "Jack Vogele",
+        "id": "east-carolina-14623",
+        "name": "Jason Sproull",
         "school": "East Carolina",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "3RD YR",
-        "handedness": "R/R",
-        "score": 5,
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "1ST YR",
+        "handedness": "N/A",
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Jack Vogele gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Jason Sproull looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "AVG .171",
-          "OBP .286",
-          "SLG .220"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "1ST YR / N/A",
+        "detailBadges": [
+          "RHP",
+          "1ST YR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/jason-sproull/14623",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14624",
+        "name": "Drew Tolfree",
+        "school": "East Carolina",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "2ND YR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Drew Tolfree looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "2ND YR / N/A",
+        "detailBadges": [
+          "LHP",
+          "2ND YR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/drew-tolfree/14624",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14625",
+        "name": "Janeson Steele",
+        "school": "East Carolina",
+        "role": "Hitter",
+        "position": "1B",
+        "classYear": "1ST YR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Janeson Steele gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".171"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".286"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".220"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -6568,7 +6071,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           },
           {
             "label": "RBI",
-            "value": "6"
+            "value": "0"
           },
           {
             "label": "SB",
@@ -6576,179 +6079,246 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           }
         ],
         "components": {
-          "On-base": 3.3333333333333055,
+          "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 25.39682539682539,
+          "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "3RD YR / R/R",
+        "metaLine": "1ST YR / N/A",
+        "detailBadges": [
+          "1B",
+          "1ST YR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/janeson-steele/14625",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14626",
+        "name": "Brayden Davis",
+        "school": "East Carolina",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "4TH YR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Brayden Davis gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "4TH YR / N/A",
+        "detailBadges": [
+          "INF",
+          "4TH YR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/brayden-davis/14626",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14627",
+        "name": "Jack Rees",
+        "school": "East Carolina",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "1ST YR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jack Rees gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "1ST YR / N/A",
         "detailBadges": [
           "OF",
-          "3RD YR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "East Carolina Athletics roster",
-          "East Carolina cumulative stats"
-        ],
-        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats",
-        "schoolSlug": "east-carolina",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/jack-vogele/14547",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "east-carolina-14136",
-        "name": "Joseph Webb",
-        "school": "East Carolina",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "4TH YR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Joseph Webb looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "4TH YR / R/R",
-        "detailBadges": [
-          "RHP",
-          "4TH YR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "East Carolina Athletics roster"
-        ],
-        "sourceSummary": "East Carolina Athletics roster",
-        "schoolSlug": "east-carolina",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/joseph-webb/14136",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "east-carolina-14137",
-        "name": "Nathan Wines",
-        "school": "East Carolina",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "1ST YR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Nathan Wines looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "1ST YR / R/R",
-        "detailBadges": [
-          "RHP",
           "1ST YR",
-          "R/R",
-          "Pitcher"
+          "N/A",
+          "Rostered"
         ],
         "leaderboards": [
           "East Carolina Athletics roster"
         ],
         "sourceSummary": "East Carolina Athletics roster",
         "schoolSlug": "east-carolina",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/nathan-wines/14137",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/jack-rees/14627",
         "espnAthleteId": ""
       },
       {
-        "id": "east-carolina-14138",
-        "name": "Gavin Van Kempen",
+        "id": "east-carolina-14628",
+        "name": "Jack Enrico",
         "school": "East Carolina",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "4TH YR",
-        "handedness": "R/R",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "5TH YR",
+        "handedness": "N/A",
         "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Gavin Van Kempen looks like a RHP option who throws enough strikes.",
+        "summary": "Jack Enrico gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "5TH YR / N/A",
+        "detailBadges": [
+          "C",
+          "5TH YR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/jack-enrico/14628",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14629",
+        "name": "Nicholas Lorenz",
+        "school": "East Carolina",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "4TH YR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Nicholas Lorenz looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -6787,11 +6357,11 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "4TH YR / R/R",
+        "metaLine": "4TH YR / N/A",
         "detailBadges": [
           "RHP",
           "4TH YR",
-          "R/R",
+          "N/A",
           "Pitcher"
         ],
         "leaderboards": [
@@ -6800,7 +6370,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "sourceSummary": "East Carolina Athletics roster",
         "schoolSlug": "east-carolina",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/gavin-van-kempen/14138",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/nicholas-lorenz/14629",
         "espnAthleteId": ""
       },
       {
@@ -6809,35 +6379,35 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "school": "East Carolina",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "1ST YR",
+        "classYear": "2ND YR",
         "handedness": "R/R",
-        "score": 3,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Ethan Rose looks like a RHP option who limits runs.",
+        "summary": "Ethan Rose looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 3.00",
-          "WHIP 1.64",
-          "K/9 5.5"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.00"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.64"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "5.5"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "5.5"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
@@ -6845,31 +6415,234 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           },
           {
             "label": "IP",
-            "value": "39.0"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 13.986013986013985,
+          "Miss bats": 0,
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "1ST YR / R/R",
+        "metaLine": "2ND YR / R/R",
         "detailBadges": [
           "RHP",
-          "1ST YR",
+          "2ND YR",
           "R/R",
           "Pitcher"
         ],
         "leaderboards": [
-          "East Carolina Athletics roster",
-          "East Carolina cumulative stats"
+          "East Carolina Athletics roster"
         ],
-        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats",
+        "sourceSummary": "East Carolina Athletics roster",
         "schoolSlug": "east-carolina",
         "compositeRole": "Pitcher",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/ethan-rose/14542",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14630",
+        "name": "Jason Kruczek",
+        "school": "East Carolina",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "1ST YR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jason Kruczek looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "1ST YR / N/A",
+        "detailBadges": [
+          "RHP",
+          "1ST YR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/jason-kruczek/14630",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14631",
+        "name": "Sawyer Wickstrom",
+        "school": "East Carolina",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "3RD YR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Sawyer Wickstrom looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "3RD YR / N/A",
+        "detailBadges": [
+          "RHP",
+          "3RD YR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/sawyer-wickstrom/14631",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "east-carolina-14632",
+        "name": "Landon Turman",
+        "school": "East Carolina",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "1ST YR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Landon Turman looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "1ST YR / N/A",
+        "detailBadges": [
+          "LHP",
+          "1ST YR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "East Carolina Athletics roster"
+        ],
+        "sourceSummary": "East Carolina Athletics roster",
+        "schoolSlug": "east-carolina",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/landon-turman/14632",
         "espnAthleteId": ""
       },
       {
@@ -6878,64 +6651,63 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "school": "East Carolina",
         "role": "Pitcher",
         "position": "LHP",
-        "classYear": "3RD YR",
+        "classYear": "4TH YR",
         "handedness": "R/R",
-        "score": 10,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Luke Payne gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Luke Payne looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 5.40",
-          "WHIP 1.62",
-          "K/9 8.9"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.40"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.62"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "8.9"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "6.5"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.89"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "33.3"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 44.63636363636363,
-          "Command": 7.5000000000000036,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "3RD YR / R/R",
+        "metaLine": "4TH YR / R/R",
         "detailBadges": [
           "LHP",
-          "3RD YR",
+          "4TH YR",
           "R/R",
           "Pitcher"
         ],
         "leaderboards": [
-          "East Carolina Athletics roster",
-          "East Carolina cumulative stats"
+          "East Carolina Athletics roster"
         ],
-        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats",
+        "sourceSummary": "East Carolina Athletics roster",
         "schoolSlug": "east-carolina",
         "compositeRole": "Pitcher",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/luke-payne/14540",
@@ -6947,83 +6719,82 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "school": "East Carolina",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "1ST YR",
+        "classYear": "2ND YR",
         "handedness": "N/A",
-        "score": 13,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Colby Weber gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Colby Weber looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 4.58",
-          "WHIP 1.37",
-          "K/9 8.7"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.58"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.37"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "8.7"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "3.7"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.83"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "19.7"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 42.681047765793515,
-          "Command": 27.500000000000004,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "1ST YR / N/A",
+        "metaLine": "2ND YR / N/A",
         "detailBadges": [
           "RHP",
-          "1ST YR",
+          "2ND YR",
           "N/A",
           "Pitcher"
         ],
         "leaderboards": [
-          "East Carolina Athletics roster",
-          "East Carolina cumulative stats"
+          "East Carolina Athletics roster"
         ],
-        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats",
+        "sourceSummary": "East Carolina Athletics roster",
         "schoolSlug": "east-carolina",
         "compositeRole": "Pitcher",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/colby-weber/14549",
         "espnAthleteId": ""
       },
       {
-        "id": "east-carolina-14142",
-        "name": "Luke Craddock",
+        "id": "east-carolina-14633",
+        "name": "Kellen Smith",
         "school": "East Carolina",
         "role": "Hitter",
         "position": "INF",
         "classYear": "1ST YR",
-        "handedness": "R/R",
+        "handedness": "N/A",
         "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Luke Craddock gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Kellen Smith gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG --",
           "OBP --",
@@ -7062,11 +6833,11 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "1ST YR / R/R",
+        "metaLine": "1ST YR / N/A",
         "detailBadges": [
           "INF",
           "1ST YR",
-          "R/R",
+          "N/A",
           "Rostered"
         ],
         "leaderboards": [
@@ -7075,7 +6846,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "sourceSummary": "East Carolina Athletics roster",
         "schoolSlug": "east-carolina",
         "compositeRole": "Rostered",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/luke-craddock/14142",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/kellen-smith/14633",
         "espnAthleteId": ""
       },
       {
@@ -7084,64 +6855,63 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "school": "East Carolina",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "2ND YR",
+        "classYear": "3RD YR",
         "handedness": "R/R",
-        "score": 25,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Sean Jenkins looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
+        "summary": "Sean Jenkins looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 2.61",
-          "WHIP 1.14",
-          "K/9 11.8"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.61"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.14"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "11.8"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "2.6"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "0.44"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "41.3"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 70.52785923753665,
-          "Command": 70,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "2ND YR / R/R",
+        "metaLine": "3RD YR / R/R",
         "detailBadges": [
           "RHP",
-          "2ND YR",
+          "3RD YR",
           "R/R",
           "Pitcher"
         ],
         "leaderboards": [
-          "East Carolina Athletics roster",
-          "East Carolina cumulative stats"
+          "East Carolina Athletics roster"
         ],
-        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats",
+        "sourceSummary": "East Carolina Athletics roster",
         "schoolSlug": "east-carolina",
         "compositeRole": "Pitcher",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/sean-jenkins/14535",
@@ -7153,135 +6923,66 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "school": "East Carolina",
         "role": "Pitcher",
         "position": "LHP",
-        "classYear": "1ST YR",
+        "classYear": "2ND YR",
         "handedness": "R/L",
-        "score": 11,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Charlie Hoagland gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 5.32",
-          "WHIP 1.39",
-          "K/9 8.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.32"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.39"
-          },
-          {
-            "label": "K/9",
-            "value": "8.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.2"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.76"
-          },
-          {
-            "label": "IP",
-            "value": "23.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 39.692701664532656,
-          "Command": 20,
-          "Damage suppression": 0
-        },
-        "metaLine": "1ST YR / R/L",
-        "detailBadges": [
-          "LHP",
-          "1ST YR",
-          "R/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "East Carolina Athletics roster",
-          "East Carolina cumulative stats"
-        ],
-        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats",
-        "schoolSlug": "east-carolina",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/charlie-hoagland/14534",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "east-carolina-13905",
-        "name": "Jack Herring",
-        "school": "East Carolina",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "4TH YR",
-        "handedness": "S/L",
         "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Jack Herring gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Charlie Hoagland looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
-            "label": "AVG",
+            "label": "ERA",
             "value": "--"
           },
           {
-            "label": "OBP",
+            "label": "WHIP",
             "value": "--"
           },
           {
-            "label": "SLG",
-            "value": "--"
+            "label": "K/9",
+            "value": "0.0"
           },
           {
-            "label": "HR",
-            "value": "0"
+            "label": "BB/9",
+            "value": "0.0"
           },
           {
-            "label": "RBI",
-            "value": "0"
+            "label": "HR/9",
+            "value": "0.00"
           },
           {
-            "label": "SB",
-            "value": "0"
+            "label": "IP",
+            "value": "0.0"
           }
         ],
         "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
         },
-        "metaLine": "4TH YR / S/L",
+        "metaLine": "2ND YR / R/L",
         "detailBadges": [
-          "OF",
-          "4TH YR",
-          "S/L",
-          "Rostered"
+          "LHP",
+          "2ND YR",
+          "R/L",
+          "Pitcher"
         ],
         "leaderboards": [
           "East Carolina Athletics roster"
         ],
         "sourceSummary": "East Carolina Athletics roster",
         "schoolSlug": "east-carolina",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/jack-herring/13905",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/charlie-hoagland/14534",
         "espnAthleteId": ""
       },
       {
@@ -7290,35 +6991,35 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "school": "East Carolina",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "3RD YR",
+        "classYear": "4TH YR",
         "handedness": "R/R",
-        "score": 21,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Thomas Paxton looks like a RHP option who limits runs and throws enough strikes and keeps traffic under control.",
+        "summary": "Thomas Paxton looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 2.31",
-          "WHIP 1.20",
-          "K/9 6.9"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.31"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.20"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "6.9"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "0.8"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
@@ -7326,100 +7027,30 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           },
           {
             "label": "IP",
-            "value": "11.7"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 26.753246753246756,
-          "Command": 100,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "3RD YR / R/R",
+        "metaLine": "4TH YR / R/R",
         "detailBadges": [
           "RHP",
-          "3RD YR",
+          "4TH YR",
           "R/R",
           "Pitcher"
         ],
         "leaderboards": [
-          "East Carolina Athletics roster",
-          "East Carolina cumulative stats"
+          "East Carolina Athletics roster"
         ],
-        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats",
+        "sourceSummary": "East Carolina Athletics roster",
         "schoolSlug": "east-carolina",
         "compositeRole": "Pitcher",
         "profileUrl": "https://ecupirates.com/sports/baseball/roster/thomas-paxton/14539",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "east-carolina-14533",
-        "name": "Chance Hall",
-        "school": "East Carolina",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "R-SO",
-        "handedness": "R/R",
-        "score": 23,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Chance Hall gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .333",
-          "OBP .333",
-          "SLG .333"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".333"
-          },
-          {
-            "label": "OBP",
-            "value": ".333"
-          },
-          {
-            "label": "SLG",
-            "value": ".333"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 29.44444444444444,
-          "Power": 3.421052631578951,
-          "Contact": 70.625,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "R-SO / R/R",
-        "detailBadges": [
-          "OF",
-          "R-SO",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "East Carolina Athletics roster",
-          "East Carolina cumulative stats"
-        ],
-        "sourceSummary": "East Carolina Athletics roster + East Carolina cumulative stats",
-        "schoolSlug": "east-carolina",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/chance-hall/14533",
         "espnAthleteId": ""
       },
       {
@@ -7428,7 +7059,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "school": "East Carolina",
         "role": "Pitcher",
         "position": "INF/RHP",
-        "classYear": "1ST YR",
+        "classYear": "2ND YR",
         "handedness": "R/R",
         "score": 0,
         "fit": {
@@ -7474,10 +7105,10 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "1ST YR / R/R",
+        "metaLine": "2ND YR / R/R",
         "detailBadges": [
           "INF/RHP",
-          "1ST YR",
+          "2ND YR",
           "R/R",
           "Pitcher"
         ],
@@ -7491,19 +7122,19 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "espnAthleteId": ""
       },
       {
-        "id": "east-carolina-14146",
-        "name": "Gavin Marley",
+        "id": "east-carolina-14634",
+        "name": "Jack Stoner",
         "school": "East Carolina",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "R-JR",
-        "handedness": "R/R",
+        "classYear": "1ST YR",
+        "handedness": "N/A",
         "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Gavin Marley looks like a RHP option who throws enough strikes.",
+        "summary": "Jack Stoner looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -7542,11 +7173,11 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "R-JR / R/R",
+        "metaLine": "1ST YR / N/A",
         "detailBadges": [
           "RHP",
-          "R-JR",
-          "R/R",
+          "1ST YR",
+          "N/A",
           "Pitcher"
         ],
         "leaderboards": [
@@ -7555,7 +7186,7 @@ window.__BASEBALL_DATASETS__.east-carolina2026 = {
         "sourceSummary": "East Carolina Athletics roster",
         "schoolSlug": "east-carolina",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://ecupirates.com/sports/baseball/roster/gavin-marley/14146",
+        "profileUrl": "https://ecupirates.com/sports/baseball/roster/jack-stoner/14634",
         "espnAthleteId": ""
       }
     ]

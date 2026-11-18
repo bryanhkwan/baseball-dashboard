@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.columbia2026 = {
-  "generatedAt": "2026-07-29T11:05:56.988Z",
+  "generatedAt": "2026-11-18T10:18:04.622Z",
   "season": 2026,
   "school": {
     "slug": "columbia",
@@ -25,17 +25,35 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
     "ncaa": "NCAA school index"
   },
   "coverage": {
-    "rosterPlayers": 37,
+    "rosterPlayers": 42,
     "espnRosterPlayers": 0,
-    "playersWithHittingStats": 15,
-    "playersWithPitchingStats": 16,
-    "playersWithFieldingStats": 30,
-    "mergedPlayersWithAnyStats": 31,
+    "playersWithHittingStats": 0,
+    "playersWithPitchingStats": 0,
+    "playersWithFieldingStats": 0,
+    "mergedPlayersWithAnyStats": 0,
     "matchedEspnPlayers": 0,
     "unmatchedStatRows": {
-      "hitting": [],
-      "pitching": [],
-      "fielding": []
+      "hitting": [
+        "Jack Kail",
+        "Cole Fellows",
+        "Ben Seminara"
+      ],
+      "pitching": [
+        "Evan Kleinhans",
+        "Thomas Santana",
+        "Payton Soske",
+        "Andrew Argenziano",
+        "Martin Zhang"
+      ],
+      "fielding": [
+        "Ben Seminara",
+        "Andrew Argenziano",
+        "Jack Kail",
+        "Cole Fellows",
+        "Thomas Santana",
+        "Evan Kleinhans",
+        "Payton Soske"
+      ]
     }
   },
   "teamSummary": {
@@ -124,126 +142,69 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
   },
   "players": [
     {
-      "id": "columbia-22351",
+      "id": "columbia-23892",
       "schoolSlug": "columbia",
       "school": "Columbia",
       "schoolLongName": "Columbia University-Barnard College",
       "name": "Charlie Slabaugh",
       "normalizedName": "charlie slabaugh",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "OF",
-      "positionLong": "OF",
-      "classYear": "FY",
-      "handedness": "Columbia College",
+      "positionLong": "",
+      "classYear": "SO",
+      "handedness": "N/A",
       "jersey": "1",
       "hometown": "Lexington, Ky.",
       "highSchool": "Sayre School",
       "previousSchool": "",
       "hometownHighSchool": "Lexington, Ky. / Sayre School",
-      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/charlie-slabaugh/22351",
-      "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0106_s5a8n.jpg",
+      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/charlie-slabaugh/23892",
+      "imageUrl": "https://gocolumbialions.com/images/2026/9/29/CU361-0063.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "22351",
+      "rosterBioId": "23892",
       "sources": [
-        "Columbia Athletics roster",
-        "Columbia cumulative stats"
+        "Columbia Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "22351",
-        "name": "Charlie Slabaugh",
-        "normalizedName": "charlie slabaugh",
-        "jersey": "1",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/charlie-slabaugh/22351",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0106_s5a8n.jpg",
-        "gamesPlayed": 25,
-        "gamesStarted": 19,
-        "battingAverage": 0.208,
-        "onBasePercentage": 0.326,
-        "sluggingPercentage": 0.264,
-        "ops": 0.59,
-        "atBats": 72,
-        "runs": 12,
-        "hits": 15,
-        "doubles": 4,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 3,
-        "totalBases": 19,
-        "walks": 10,
-        "hitByPitch": 3,
-        "strikeouts": 10,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 1,
-        "sacrificeHits": 2,
-        "stolenBases": 3,
-        "stolenBasesAttempts": 3,
-        "putouts": 44,
-        "assists": 0,
-        "errors": 1,
-        "plateAppearances": 91,
-        "caughtStealing": 0,
-        "pickedOff": 1
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "22351",
-        "name": "Charlie Slabaugh",
-        "normalizedName": "charlie slabaugh",
-        "jersey": "1",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/charlie-slabaugh/22351",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0106_s5a8n.jpg",
-        "gamesPlayed": 20,
-        "gamesStarted": 19,
-        "putouts": 44,
-        "assists": 4,
-        "errors": 1,
-        "fieldingPercentage": 0.98,
-        "doublePlays": 3,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 49
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 22,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 25.555555555555546,
+          "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 88.88888888888889,
-          "Speed": 10
+          "Discipline": 0,
+          "Speed": 0
         },
-        "summary": "Charlie Slabaugh profiles as a OF piece who controls at-bats.",
+        "summary": "Charlie Slabaugh gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .208",
-          "OBP .326",
-          "SLG .264"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".208"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".326"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".264"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -251,460 +212,289 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
           },
           {
             "label": "RBI",
-            "value": "3"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "3"
+            "value": "0"
           }
         ],
-        "metaLine": "FY / Columbia College",
+        "metaLine": "SO / N/A",
         "detailBadges": [
           "OF",
-          "FY",
-          "Columbia College",
-          "Hitter"
+          "SO",
+          "N/A",
+          "Rostered"
         ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats"
+        "sourceSummary": "Columbia Athletics roster"
       }
     },
     {
-      "id": "columbia-22343",
+      "id": "columbia-23894",
       "schoolSlug": "columbia",
       "school": "Columbia",
       "schoolLongName": "Columbia University-Barnard College",
       "name": "Jaden Santiago",
       "normalizedName": "jaden santiago",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "C/INF",
-      "positionLong": "C/INF",
-      "classYear": "FY",
-      "handedness": "Columbia College",
+      "positionLong": "",
+      "classYear": "SO",
+      "handedness": "N/A",
       "jersey": "2",
       "hometown": "San Diego, Calif.",
       "highSchool": "Pacific Ridge",
       "previousSchool": "",
       "hometownHighSchool": "San Diego, Calif. / Pacific Ridge",
-      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/jaden-santiago/22343",
-      "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0058_55jZL.jpg",
+      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/jaden-santiago/23894",
+      "imageUrl": "https://gocolumbialions.com/images/2026/9/29/CU361-0094.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "22343",
+      "rosterBioId": "23894",
       "sources": [
-        "Columbia Athletics roster",
-        "Columbia cumulative stats"
+        "Columbia Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "22343",
-        "name": "Jaden Santiago",
-        "normalizedName": "jaden santiago",
-        "jersey": "2",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/jaden-santiago/22343",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0058_55jZL.jpg",
-        "gamesPlayed": 6,
-        "gamesStarted": 0,
-        "battingAverage": 0.5,
-        "onBasePercentage": 0.667,
-        "sluggingPercentage": 0.5,
-        "ops": 1.167,
-        "atBats": 2,
-        "runs": 2,
-        "hits": 1,
-        "doubles": 0,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 0,
-        "totalBases": 1,
-        "walks": 1,
-        "hitByPitch": 0,
-        "strikeouts": 0,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 6,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 3,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "22343",
-        "name": "Jaden Santiago",
-        "normalizedName": "jaden santiago",
-        "jersey": "2",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/jaden-santiago/22343",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0058_55jZL.jpg",
-        "gamesPlayed": 3,
-        "gamesStarted": 0,
-        "putouts": 6,
-        "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 1,
-        "catchersInterference": 0,
-        "totalChances": 6
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 75,
-        "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
-        },
-        "components": {
-          "On-base": 100,
-          "Power": 47.36842105263158,
-          "Contact": 100,
-          "Discipline": 88.88888888888889,
-          "Speed": 0
-        },
-        "summary": "Jaden Santiago profiles as a C/INF piece who gets on base at a high clip and controls at-bats.",
-        "summaryMetrics": [
-          "AVG .500",
-          "OBP .667",
-          "SLG .500"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".500"
-          },
-          {
-            "label": "OBP",
-            "value": ".667"
-          },
-          {
-            "label": "SLG",
-            "value": ".500"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "FY / Columbia College",
-        "detailBadges": [
-          "C/INF",
-          "FY",
-          "Columbia College",
-          "Hitter"
-        ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats"
-      }
-    },
-    {
-      "id": "columbia-21708",
-      "schoolSlug": "columbia",
-      "school": "Columbia",
-      "schoolLongName": "Columbia University-Barnard College",
-      "name": "Cole Fellows",
-      "normalizedName": "cole fellows",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "OF/1B",
-      "positionLong": "OF/INF",
-      "classYear": "SR",
-      "handedness": "Columbia College",
-      "jersey": "3",
-      "hometown": "Clovis, Calif.",
-      "highSchool": "Clovis North",
-      "previousSchool": "",
-      "hometownHighSchool": "Clovis, Calif. / Clovis North",
-      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/cole-fellows/21708",
-      "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0042_9NTXt.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "21708",
-      "sources": [
-        "Columbia Athletics roster",
-        "Columbia cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "21708",
-        "name": "Cole Fellows",
-        "normalizedName": "cole fellows",
-        "jersey": "3",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/cole-fellows/21708",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0042_9NTXt.jpg",
-        "gamesPlayed": 42,
-        "gamesStarted": 42,
-        "battingAverage": 0.325,
-        "onBasePercentage": 0.408,
-        "sluggingPercentage": 0.566,
-        "ops": 0.974,
-        "atBats": 166,
-        "runs": 32,
-        "hits": 54,
-        "doubles": 14,
-        "triples": 1,
-        "homeRuns": 8,
-        "runsBattedIn": 36,
-        "totalBases": 94,
-        "walks": 20,
-        "hitByPitch": 4,
-        "strikeouts": 27,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 7,
-        "sacrificeFlies": 1,
-        "sacrificeHits": 0,
-        "stolenBases": 3,
-        "stolenBasesAttempts": 5,
-        "putouts": 73,
-        "assists": 0,
-        "errors": 4,
-        "plateAppearances": 198,
-        "caughtStealing": 2,
-        "pickedOff": 1
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "21708",
-        "name": "Cole Fellows",
-        "normalizedName": "cole fellows",
-        "jersey": "3",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/cole-fellows/21708",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0042_9NTXt.jpg",
-        "gamesPlayed": 29,
-        "gamesStarted": 29,
-        "putouts": 73,
-        "assists": 4,
-        "errors": 4,
-        "fieldingPercentage": 0.951,
-        "doublePlays": 2,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 81
-      },
-      "evaluation": {
-        "score": 61,
-        "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
-        },
-        "components": {
-          "On-base": 71.11111111111109,
-          "Power": 64.73684210526315,
-          "Contact": 65.625,
-          "Discipline": 60.08230452674896,
-          "Speed": 10
-        },
-        "summary": "Cole Fellows profiles as a OF/1B piece who gets on base at a high clip and brings real extra-base damage.",
-        "summaryMetrics": [
-          "AVG .325",
-          "OBP .408",
-          "SLG .566"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".325"
-          },
-          {
-            "label": "OBP",
-            "value": ".408"
-          },
-          {
-            "label": "SLG",
-            "value": ".566"
-          },
-          {
-            "label": "HR",
-            "value": "8"
-          },
-          {
-            "label": "RBI",
-            "value": "36"
-          },
-          {
-            "label": "SB",
-            "value": "3"
-          }
-        ],
-        "metaLine": "SR / Columbia College",
-        "detailBadges": [
-          "OF/1B",
-          "SR",
-          "Columbia College",
-          "Hitter"
-        ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats"
-      }
-    },
-    {
-      "id": "columbia-21722",
-      "schoolSlug": "columbia",
-      "school": "Columbia",
-      "schoolLongName": "Columbia University-Barnard College",
-      "name": "Hunter Snyder",
-      "normalizedName": "hunter snyder",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "INF",
-      "positionLong": "INF",
-      "classYear": "JR",
-      "handedness": "Columbia College",
-      "jersey": "4",
-      "hometown": "Saint John, Ind.",
-      "highSchool": "Lake Central",
-      "previousSchool": "",
-      "hometownHighSchool": "Saint John, Ind. / Lake Central",
-      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/hunter-snyder/21722",
-      "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0068_fSSsC.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "21722",
-      "sources": [
-        "Columbia Athletics roster",
-        "Columbia cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "21722",
-        "name": "Hunter Snyder",
-        "normalizedName": "hunter snyder",
-        "jersey": "4",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/hunter-snyder/21722",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0068_fSSsC.jpg",
-        "gamesPlayed": 34,
-        "gamesStarted": 32,
-        "battingAverage": 0.298,
-        "onBasePercentage": 0.398,
-        "sluggingPercentage": 0.412,
-        "ops": 0.81,
-        "atBats": 114,
-        "runs": 27,
-        "hits": 34,
-        "doubles": 7,
-        "triples": 0,
-        "homeRuns": 2,
-        "runsBattedIn": 18,
-        "totalBases": 47,
-        "walks": 13,
-        "hitByPitch": 6,
-        "strikeouts": 26,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 3,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 1,
-        "stolenBases": 2,
-        "stolenBasesAttempts": 3,
-        "putouts": 32,
-        "assists": 0,
-        "errors": 3,
-        "plateAppearances": 138,
-        "caughtStealing": 1,
-        "pickedOff": 1
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "21722",
-        "name": "Hunter Snyder",
-        "normalizedName": "hunter snyder",
-        "jersey": "4",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/hunter-snyder/21722",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0068_fSSsC.jpg",
-        "gamesPlayed": 17,
-        "gamesStarted": 16,
-        "putouts": 32,
-        "assists": 26,
-        "errors": 3,
-        "fieldingPercentage": 0.951,
-        "doublePlays": 6,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 61
-      },
-      "evaluation": {
-        "score": 41,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 65.55555555555556,
-          "Power": 24.21052631578947,
-          "Contact": 48.749999999999986,
-          "Discipline": 33.33333333333333,
-          "Speed": 6.666666666666667
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "summary": "Hunter Snyder gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Jaden Santiago gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .298",
-          "OBP .398",
-          "SLG .412"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".298"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".398"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".412"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "2"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "18"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "2"
+            "value": "0"
           }
         ],
-        "metaLine": "JR / Columbia College",
+        "metaLine": "SO / N/A",
         "detailBadges": [
-          "INF",
-          "JR",
-          "Columbia College",
-          "Hitter"
+          "C/INF",
+          "SO",
+          "N/A",
+          "Rostered"
         ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats"
+        "sourceSummary": "Columbia Athletics roster"
       }
     },
     {
-      "id": "columbia-22346",
+      "id": "columbia-23895",
+      "schoolSlug": "columbia",
+      "school": "Columbia",
+      "schoolLongName": "Columbia University-Barnard College",
+      "name": "Luc Gaca Thiele",
+      "normalizedName": "luc gaca thiele",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "",
+      "classYear": "FY",
+      "handedness": "N/A",
+      "jersey": "3",
+      "hometown": "Fort Collins, Colo.",
+      "highSchool": "Fossil Ridge",
+      "previousSchool": "",
+      "hometownHighSchool": "Fort Collins, Colo. / Fossil Ridge",
+      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/luc-gaca-thiele/23895",
+      "imageUrl": "https://gocolumbialions.com/images/2026/9/29/CU361-0057.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "23895",
+      "sources": [
+        "Columbia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Luc Gaca Thiele gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "FY / N/A",
+        "detailBadges": [
+          "INF",
+          "FY",
+          "N/A",
+          "Rostered"
+        ],
+        "sourceSummary": "Columbia Athletics roster"
+      }
+    },
+    {
+      "id": "columbia-23896",
+      "schoolSlug": "columbia",
+      "school": "Columbia",
+      "schoolLongName": "Columbia University-Barnard College",
+      "name": "Hunter Snyder",
+      "normalizedName": "hunter snyder",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "",
+      "classYear": "SR",
+      "handedness": "N/A",
+      "jersey": "4",
+      "hometown": "Saint John, Ind.",
+      "highSchool": "Lake Central",
+      "previousSchool": "",
+      "hometownHighSchool": "Saint John, Ind. / Lake Central",
+      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/hunter-snyder/23896",
+      "imageUrl": "https://gocolumbialions.com/images/2026/9/29/CU361-0078.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "23896",
+      "sources": [
+        "Columbia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Hunter Snyder gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "SR / N/A",
+        "detailBadges": [
+          "INF",
+          "SR",
+          "N/A",
+          "Rostered"
+        ],
+        "sourceSummary": "Columbia Athletics roster"
+      }
+    },
+    {
+      "id": "columbia-23897",
       "schoolSlug": "columbia",
       "school": "Columbia",
       "schoolLongName": "Columbia University-Barnard College",
@@ -713,23 +503,23 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
       "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "OF",
-      "positionLong": "OF",
-      "classYear": "FY",
-      "handedness": "Fu Foundation School of Engineering and Applied Science",
+      "positionLong": "",
+      "classYear": "SO",
+      "handedness": "N/A",
       "jersey": "5",
       "hometown": "Durham, N.C.",
       "highSchool": "Durham Academy",
       "previousSchool": "",
       "hometownHighSchool": "Durham, N.C. / Durham Academy",
-      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/amare-burrus/22346",
-      "imageUrl": "https://gocolumbialions.com/images/2025/10/13/CU238-0088.jpg",
+      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/amare-burrus/23897",
+      "imageUrl": "https://gocolumbialions.com/images/2026/9/29/CU361-0096-2.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "22346",
+      "rosterBioId": "23897",
       "sources": [
         "Columbia Athletics roster"
       ],
@@ -781,163 +571,106 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "FY / Fu Foundation School of Engineering and Applied Science",
+        "metaLine": "SO / N/A",
         "detailBadges": [
           "OF",
-          "FY",
-          "Fu Foundation School of Engineering and Applied Science",
+          "SO",
+          "N/A",
           "Rostered"
         ],
         "sourceSummary": "Columbia Athletics roster"
       }
     },
     {
-      "id": "columbia-21714",
+      "id": "columbia-23898",
       "schoolSlug": "columbia",
       "school": "Columbia",
       "schoolLongName": "Columbia University-Barnard College",
-      "name": "Jack Kail",
-      "normalizedName": "jack kail",
-      "compositeRole": "Hitter",
+      "name": "Will Bercaw",
+      "normalizedName": "will bercaw",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "INF",
-      "positionLong": "INF",
-      "classYear": "SR",
-      "handedness": "Columbia College",
+      "positionLong": "",
+      "classYear": "FY",
+      "handedness": "N/A",
       "jersey": "6",
-      "hometown": "McMurray, Pa.",
-      "highSchool": "Peters Township",
-      "previousSchool": "",
-      "hometownHighSchool": "McMurray, Pa. / Peters Township",
-      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/jack-kail/21714",
-      "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0078_nMSIp.jpg",
+      "hometown": "Langhorne, Pa.",
+      "highSchool": "The Pennington School",
+      "previousSchool": "Gettysburg College",
+      "hometownHighSchool": "Langhorne, Pa. / The Pennington School",
+      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/will-bercaw/23898",
+      "imageUrl": "https://gocolumbialions.com/images/2026/9/29/CU361-0076.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "21714",
+      "rosterBioId": "23898",
       "sources": [
-        "Columbia Athletics roster",
-        "Columbia cumulative stats"
+        "Columbia Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "21714",
-        "name": "Jack Kail",
-        "normalizedName": "jack kail",
-        "jersey": "6",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/jack-kail/21714",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0078_nMSIp.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 39,
-        "battingAverage": 0.337,
-        "onBasePercentage": 0.388,
-        "sluggingPercentage": 0.462,
-        "ops": 0.85,
-        "atBats": 169,
-        "runs": 32,
-        "hits": 57,
-        "doubles": 15,
-        "triples": 0,
-        "homeRuns": 2,
-        "runsBattedIn": 37,
-        "totalBases": 78,
-        "walks": 14,
-        "hitByPitch": 2,
-        "strikeouts": 9,
-        "intentionalWalks": 1,
-        "groundedIntoDoublePlay": 2,
-        "sacrificeFlies": 3,
-        "sacrificeHits": 0,
-        "stolenBases": 7,
-        "stolenBasesAttempts": 7,
-        "putouts": 70,
-        "assists": 0,
-        "errors": 4,
-        "plateAppearances": 195,
-        "caughtStealing": 0,
-        "pickedOff": 1
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "21714",
-        "name": "Jack Kail",
-        "normalizedName": "jack kail",
-        "jersey": "6",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/jack-kail/21714",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0078_nMSIp.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 39,
-        "putouts": 70,
-        "assists": 76,
-        "errors": 4,
-        "fieldingPercentage": 0.973,
-        "doublePlays": 17,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 150
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 58,
+        "score": 0,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
         "components": {
-          "On-base": 60,
-          "Power": 37.36842105263159,
-          "Contact": 73.125,
-          "Discipline": 100,
-          "Speed": 23.333333333333332
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "summary": "Jack Kail profiles as a INF piece who controls at-bats.",
+        "summary": "Will Bercaw gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .337",
-          "OBP .388",
-          "SLG .462"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".337"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".388"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".462"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "2"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "37"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "7"
+            "value": "0"
           }
         ],
-        "metaLine": "SR / Columbia College",
+        "metaLine": "FY / N/A",
         "detailBadges": [
           "INF",
-          "SR",
-          "Columbia College",
-          "Hitter"
+          "FY",
+          "N/A",
+          "Rostered"
         ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats"
+        "sourceSummary": "Columbia Athletics roster"
       }
     },
     {
-      "id": "columbia-21710",
+      "id": "columbia-23899",
       "schoolSlug": "columbia",
       "school": "Columbia",
       "schoolLongName": "Columbia University-Barnard College",
@@ -946,85 +679,31 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
       "compositeRole": "Pitcher",
       "role": "Pitcher",
       "position": "RHP",
-      "positionLong": "RHP",
-      "classYear": "JR",
-      "handedness": "Columbia College",
+      "positionLong": "",
+      "classYear": "SR",
+      "handedness": "N/A",
       "jersey": "8",
       "hometown": "Syracuse, N.Y.",
       "highSchool": "Christian Brothers Academy",
       "previousSchool": "",
       "hometownHighSchool": "Syracuse, N.Y. / Christian Brothers Academy",
-      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/will-harrigan/21710",
-      "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0062_8DkDh.jpg",
+      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/will-harrigan/23899",
+      "imageUrl": "https://gocolumbialions.com/images/2026/9/29/CU361-0113.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "21710",
+      "rosterBioId": "23899",
       "sources": [
-        "Columbia Athletics roster",
-        "Columbia cumulative stats"
+        "Columbia Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "21710",
-        "name": "Will Harrigan",
-        "normalizedName": "will harrigan",
-        "jersey": "8",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/will-harrigan/21710",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0062_8DkDh.jpg",
-        "gamesPlayed": 15,
-        "gamesStarted": 5,
-        "appearances": 15,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 9,
-        "whip": 2.27,
-        "wins": 1,
-        "losses": 1,
-        "saves": 2,
-        "shutouts": 0,
-        "inningsPitched": 33,
-        "inningsPitchedDisplay": "33.0",
-        "hitsAllowed": 46,
-        "runsAllowed": 37,
-        "earnedRunsAllowed": 33,
-        "walksAllowed": 29,
-        "strikeouts": 31,
-        "doublesAllowed": 9,
-        "triplesAllowed": 2,
-        "homeRunsAllowed": 3,
-        "opponentsAtBats": 138,
-        "wildPitches": 2,
-        "hitBatters": 7,
-        "balks": 1,
-        "opponentsBattingAverage": 0.333,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "21710",
-        "name": "Will Harrigan",
-        "normalizedName": "will harrigan",
-        "jersey": "8",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/will-harrigan/21710",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0062_8DkDh.jpg",
-        "gamesPlayed": 8,
-        "gamesStarted": 3,
-        "putouts": 4,
-        "assists": 4,
-        "errors": 1,
-        "fieldingPercentage": 0.889,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 3,
-        "caughtStealingBy": 1,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 9
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 8,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -1032,199 +711,142 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 40.49586776859505,
-          "Command": 1.379310344827589,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Will Harrigan gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Will Harrigan looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 9.00",
-          "WHIP 2.27",
-          "K/9 8.5"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "9.00"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "2.27"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "8.5"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "7.9"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "0.82"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "33.0"
+            "value": "0.0"
           }
         ],
-        "metaLine": "JR / Columbia College",
+        "metaLine": "SR / N/A",
         "detailBadges": [
           "RHP",
-          "JR",
-          "Columbia College",
+          "SR",
+          "N/A",
           "Pitcher"
         ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats"
+        "sourceSummary": "Columbia Athletics roster"
       }
     },
     {
-      "id": "columbia-21725",
+      "id": "columbia-23900",
       "schoolSlug": "columbia",
       "school": "Columbia",
       "schoolLongName": "Columbia University-Barnard College",
       "name": "Anthony Temesvary",
       "normalizedName": "anthony temesvary",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
-      "position": "C/INF",
-      "positionLong": "C/INF",
-      "classYear": "SO",
-      "handedness": "Columbia College",
+      "position": "C/3B",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "N/A",
       "jersey": "9",
       "hometown": "Los Angeles, Calif.",
       "highSchool": "El Segundo",
       "previousSchool": "",
       "hometownHighSchool": "Los Angeles, Calif. / El Segundo",
-      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/anthony-temesvary/21725",
-      "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0082_BbHC3.jpg",
+      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/anthony-temesvary/23900",
+      "imageUrl": "https://gocolumbialions.com/images/2026/9/29/CU361-0098.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "21725",
+      "rosterBioId": "23900",
       "sources": [
-        "Columbia Athletics roster",
-        "Columbia cumulative stats"
+        "Columbia Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "21725",
-        "name": "Anthony Temesvary",
-        "normalizedName": "anthony temesvary",
-        "jersey": "9",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/anthony-temesvary/21725",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0082_BbHC3.jpg",
-        "gamesPlayed": 41,
-        "gamesStarted": 41,
-        "battingAverage": 0.295,
-        "onBasePercentage": 0.362,
-        "sluggingPercentage": 0.442,
-        "ops": 0.804,
-        "atBats": 156,
-        "runs": 25,
-        "hits": 46,
-        "doubles": 9,
-        "triples": 1,
-        "homeRuns": 4,
-        "runsBattedIn": 34,
-        "totalBases": 69,
-        "walks": 14,
-        "hitByPitch": 4,
-        "strikeouts": 32,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 3,
-        "sacrificeFlies": 3,
-        "sacrificeHits": 1,
-        "stolenBases": 3,
-        "stolenBasesAttempts": 3,
-        "putouts": 56,
-        "assists": 0,
-        "errors": 10,
-        "plateAppearances": 181,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "21725",
-        "name": "Anthony Temesvary",
-        "normalizedName": "anthony temesvary",
-        "jersey": "9",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/anthony-temesvary/21725",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0082_BbHC3.jpg",
-        "gamesPlayed": 37,
-        "gamesStarted": 37,
-        "putouts": 56,
-        "assists": 75,
-        "errors": 10,
-        "fieldingPercentage": 0.929,
-        "doublePlays": 5,
-        "stolenBasesAgainst": 8,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 3,
-        "catchersInterference": 0,
-        "totalChances": 141
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 36,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 45.555555555555536,
-          "Power": 32.10526315789474,
-          "Contact": 46.874999999999986,
-          "Discipline": 26.388888888888886,
-          "Speed": 10
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
         "summary": "Anthony Temesvary gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .295",
-          "OBP .362",
-          "SLG .442"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".295"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".362"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".442"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "4"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "34"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "3"
+            "value": "0"
           }
         ],
-        "metaLine": "SO / Columbia College",
+        "metaLine": "JR / N/A",
         "detailBadges": [
-          "C/INF",
-          "SO",
-          "Columbia College",
-          "Hitter"
+          "C/3B",
+          "JR",
+          "N/A",
+          "Rostered"
         ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats"
+        "sourceSummary": "Columbia Athletics roster"
       }
     },
     {
-      "id": "columbia-22350",
+      "id": "columbia-23901",
       "schoolSlug": "columbia",
       "school": "Columbia",
       "schoolLongName": "Columbia University-Barnard College",
@@ -1233,85 +855,31 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
       "compositeRole": "Pitcher",
       "role": "Pitcher",
       "position": "RHP",
-      "positionLong": "RHP",
-      "classYear": "FY",
-      "handedness": "Columbia College",
+      "positionLong": "",
+      "classYear": "SO",
+      "handedness": "N/A",
       "jersey": "10",
       "hometown": "Cambridge, Mass.",
       "highSchool": "IMG Academy",
       "previousSchool": "",
       "hometownHighSchool": "Cambridge, Mass. / IMG Academy",
-      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/koby-seelig/22350",
-      "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0060_Teg7N.jpg",
+      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/koby-seelig/23901",
+      "imageUrl": "https://gocolumbialions.com/images/2026/9/29/CU361-0088.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "22350",
+      "rosterBioId": "23901",
       "sources": [
-        "Columbia Athletics roster",
-        "Columbia cumulative stats"
+        "Columbia Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "22350",
-        "name": "Koby Seelig",
-        "normalizedName": "koby seelig",
-        "jersey": "10",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/koby-seelig/22350",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0060_Teg7N.jpg",
-        "gamesPlayed": 7,
-        "gamesStarted": 1,
-        "appearances": 7,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 12.96,
-        "whip": 2.76,
-        "wins": 1,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 8.333333333333334,
-        "inningsPitchedDisplay": "8.1",
-        "hitsAllowed": 8,
-        "runsAllowed": 14,
-        "earnedRunsAllowed": 12,
-        "walksAllowed": 15,
-        "strikeouts": 5,
-        "doublesAllowed": 2,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 33,
-        "wildPitches": 0,
-        "hitBatters": 2,
-        "balks": 0,
-        "opponentsBattingAverage": 0.242,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "22350",
-        "name": "Koby Seelig",
-        "normalizedName": "koby seelig",
-        "jersey": "10",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/koby-seelig/22350",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0060_Teg7N.jpg",
-        "gamesPlayed": 3,
-        "gamesStarted": 1,
-        "putouts": 0,
-        "assists": 2,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 1,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 2
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 3,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -1319,199 +887,142 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 12.727272727272723,
+          "Miss bats": 0,
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Koby Seelig gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Koby Seelig looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 12.96",
-          "WHIP 2.76",
-          "K/9 5.4"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "12.96"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "2.76"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "5.4"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "16.2"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "2.16"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "8.3"
+            "value": "0.0"
           }
         ],
-        "metaLine": "FY / Columbia College",
+        "metaLine": "SO / N/A",
         "detailBadges": [
           "RHP",
-          "FY",
-          "Columbia College",
+          "SO",
+          "N/A",
           "Pitcher"
         ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats"
+        "sourceSummary": "Columbia Athletics roster"
       }
     },
     {
-      "id": "columbia-21704",
+      "id": "columbia-23902",
       "schoolSlug": "columbia",
       "school": "Columbia",
       "schoolLongName": "Columbia University-Barnard College",
       "name": "Jackson Brewer",
       "normalizedName": "jackson brewer",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "OF/1B",
-      "positionLong": "OF/INF",
-      "classYear": "SO",
-      "handedness": "Fu Foundation School of Engineering and Applied Science",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "N/A",
       "jersey": "11",
       "hometown": "Mequon, Wis.",
       "highSchool": "Homestead",
       "previousSchool": "",
       "hometownHighSchool": "Mequon, Wis. / Homestead",
-      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/jackson-brewer/21704",
-      "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0076_vYIBy.jpg",
+      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/jackson-brewer/23902",
+      "imageUrl": "https://gocolumbialions.com/images/2026/9/29/CU361-0047.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "21704",
+      "rosterBioId": "23902",
       "sources": [
-        "Columbia Athletics roster",
-        "Columbia cumulative stats"
+        "Columbia Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "21704",
-        "name": "Jackson Brewer",
-        "normalizedName": "jackson brewer",
-        "jersey": "11",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/jackson-brewer/21704",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0076_vYIBy.jpg",
-        "gamesPlayed": 34,
-        "gamesStarted": 34,
-        "battingAverage": 0.232,
-        "onBasePercentage": 0.307,
-        "sluggingPercentage": 0.442,
-        "ops": 0.749,
-        "atBats": 138,
-        "runs": 20,
-        "hits": 32,
-        "doubles": 6,
-        "triples": 1,
-        "homeRuns": 7,
-        "runsBattedIn": 30,
-        "totalBases": 61,
-        "walks": 9,
-        "hitByPitch": 6,
-        "strikeouts": 42,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 3,
-        "stolenBasesAttempts": 5,
-        "putouts": 51,
-        "assists": 0,
-        "errors": 3,
-        "plateAppearances": 160,
-        "caughtStealing": 2,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "21704",
-        "name": "Jackson Brewer",
-        "normalizedName": "jackson brewer",
-        "jersey": "11",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/jackson-brewer/21704",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0076_vYIBy.jpg",
-        "gamesPlayed": 30,
-        "gamesStarted": 30,
-        "putouts": 51,
-        "assists": 4,
-        "errors": 3,
-        "fieldingPercentage": 0.948,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 58
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 16,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 14.999999999999982,
-          "Power": 32.10526315789474,
-          "Contact": 7.500000000000007,
-          "Discipline": 1.5873015873015843,
-          "Speed": 10
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
         "summary": "Jackson Brewer gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .232",
-          "OBP .307",
-          "SLG .442"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".232"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".307"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".442"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "7"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "30"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "3"
+            "value": "0"
           }
         ],
-        "metaLine": "SO / Fu Foundation School of Engineering and Applied Science",
+        "metaLine": "JR / N/A",
         "detailBadges": [
           "OF/1B",
-          "SO",
-          "Fu Foundation School of Engineering and Applied Science",
-          "Hitter"
+          "JR",
+          "N/A",
+          "Rostered"
         ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats"
+        "sourceSummary": "Columbia Athletics roster"
       }
     },
     {
-      "id": "columbia-21703",
+      "id": "columbia-23903",
       "schoolSlug": "columbia",
       "school": "Columbia",
       "schoolLongName": "Columbia University-Barnard College",
@@ -1520,23 +1031,23 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
       "compositeRole": "Pitcher",
       "role": "Pitcher",
       "position": "LHP",
-      "positionLong": "LHP",
-      "classYear": "JR",
-      "handedness": "Fu Foundation School of Engineering and Applied Science",
+      "positionLong": "",
+      "classYear": "SR",
+      "handedness": "N/A",
       "jersey": "12",
       "hometown": "Suwanee, Ga.",
       "highSchool": "North Gwinnett",
       "previousSchool": "",
       "hometownHighSchool": "Suwanee, Ga. / North Gwinnett",
-      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/justin-bowman/21703",
-      "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0118_gwi7V.jpg",
+      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/justin-bowman/23903",
+      "imageUrl": "https://gocolumbialions.com/images/2026/9/29/CU361-0115.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "21703",
+      "rosterBioId": "23903",
       "sources": [
         "Columbia Athletics roster"
       ],
@@ -1588,18 +1099,18 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "JR / Fu Foundation School of Engineering and Applied Science",
+        "metaLine": "SR / N/A",
         "detailBadges": [
           "LHP",
-          "JR",
-          "Fu Foundation School of Engineering and Applied Science",
+          "SR",
+          "N/A",
           "Pitcher"
         ],
         "sourceSummary": "Columbia Athletics roster"
       }
     },
     {
-      "id": "columbia-21712",
+      "id": "columbia-23904",
       "schoolSlug": "columbia",
       "school": "Columbia",
       "schoolLongName": "Columbia University-Barnard College",
@@ -1608,83 +1119,29 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
       "compositeRole": "Pitcher",
       "role": "Pitcher",
       "position": "RHP",
-      "positionLong": "RHP",
-      "classYear": "SO",
-      "handedness": "Columbia College",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "N/A",
       "jersey": "13",
       "hometown": "Potomac, Md.",
       "highSchool": "Georgetown Preparatory School",
       "previousSchool": "",
       "hometownHighSchool": "Potomac, Md. / Georgetown Preparatory School",
-      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/ray-huke/21712",
-      "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0040_RhWT5.jpg",
+      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/ray-huke/23904",
+      "imageUrl": "https://gocolumbialions.com/images/2026/9/29/CU361-0042.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "21712",
+      "rosterBioId": "23904",
       "sources": [
-        "Columbia Athletics roster",
-        "Columbia cumulative stats"
+        "Columbia Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "21712",
-        "name": "Ray Huke",
-        "normalizedName": "ray huke",
-        "jersey": "13",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/ray-huke/21712",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0040_RhWT5.jpg",
-        "gamesPlayed": 14,
-        "gamesStarted": 1,
-        "appearances": 14,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 8.31,
-        "whip": 2.49,
-        "wins": 0,
-        "losses": 1,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 21.666666666666668,
-        "inningsPitchedDisplay": "21.2",
-        "hitsAllowed": 38,
-        "runsAllowed": 21,
-        "earnedRunsAllowed": 20,
-        "walksAllowed": 16,
-        "strikeouts": 10,
-        "doublesAllowed": 6,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 94,
-        "wildPitches": 3,
-        "hitBatters": 6,
-        "balks": 0,
-        "opponentsBattingAverage": 0.404,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "21712",
-        "name": "Ray Huke",
-        "normalizedName": "ray huke",
-        "jersey": "13",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/ray-huke/21712",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0040_RhWT5.jpg",
-        "gamesPlayed": 7,
-        "gamesStarted": 1,
-        "putouts": 0,
-        "assists": 5,
-        "errors": 1,
-        "fieldingPercentage": 0.833,
-        "doublePlays": 2,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 1,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 6
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
         "score": 0,
         "fit": {
@@ -1694,199 +1151,142 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 1.3986013986013937,
+          "Miss bats": 0,
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Ray Huke gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Ray Huke looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 8.31",
-          "WHIP 2.49",
-          "K/9 4.2"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "8.31"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "2.49"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "4.2"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "6.6"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "0.83"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "21.7"
+            "value": "0.0"
           }
         ],
-        "metaLine": "SO / Columbia College",
+        "metaLine": "JR / N/A",
         "detailBadges": [
           "RHP",
-          "SO",
-          "Columbia College",
+          "JR",
+          "N/A",
           "Pitcher"
         ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats"
+        "sourceSummary": "Columbia Athletics roster"
       }
     },
     {
-      "id": "columbia-21705",
+      "id": "columbia-23905",
       "schoolSlug": "columbia",
       "school": "Columbia",
       "schoolLongName": "Columbia University-Barnard College",
       "name": "Jimmy Chadwell",
       "normalizedName": "jimmy chadwell",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "INF",
-      "positionLong": "INF",
-      "classYear": "SO",
-      "handedness": "Columbia College",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "N/A",
       "jersey": "14",
       "hometown": "Longmeadow, Mass.",
       "highSchool": "Loomis Chaffee",
       "previousSchool": "",
       "hometownHighSchool": "Longmeadow, Mass. / Loomis Chaffee",
-      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/jimmy-chadwell/21705",
-      "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0054_lhWEZ.jpg",
+      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/jimmy-chadwell/23905",
+      "imageUrl": "https://gocolumbialions.com/images/2026/9/29/CU361-0131.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "21705",
+      "rosterBioId": "23905",
       "sources": [
-        "Columbia Athletics roster",
-        "Columbia cumulative stats"
+        "Columbia Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "21705",
-        "name": "Jimmy Chadwell",
-        "normalizedName": "jimmy chadwell",
-        "jersey": "14",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/jimmy-chadwell/21705",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0054_lhWEZ.jpg",
-        "gamesPlayed": 42,
-        "gamesStarted": 42,
-        "battingAverage": 0.308,
-        "onBasePercentage": 0.409,
-        "sluggingPercentage": 0.391,
-        "ops": 0.8,
-        "atBats": 156,
-        "runs": 26,
-        "hits": 48,
-        "doubles": 10,
-        "triples": 0,
-        "homeRuns": 1,
-        "runsBattedIn": 17,
-        "totalBases": 61,
-        "walks": 24,
-        "hitByPitch": 4,
-        "strikeouts": 29,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 6,
-        "sacrificeFlies": 2,
-        "sacrificeHits": 3,
-        "stolenBases": 2,
-        "stolenBasesAttempts": 4,
-        "putouts": 58,
-        "assists": 0,
-        "errors": 6,
-        "plateAppearances": 195,
-        "caughtStealing": 2,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "21705",
-        "name": "Jimmy Chadwell",
-        "normalizedName": "jimmy chadwell",
-        "jersey": "14",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/jimmy-chadwell/21705",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0054_lhWEZ.jpg",
-        "gamesPlayed": 38,
-        "gamesStarted": 38,
-        "putouts": 58,
-        "assists": 92,
-        "errors": 6,
-        "fieldingPercentage": 0.962,
-        "doublePlays": 16,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 156
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 48,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 71.66666666666664,
-          "Power": 18.684210526315795,
-          "Contact": 54.99999999999999,
-          "Discipline": 69.7318007662835,
-          "Speed": 6.666666666666667
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "summary": "Jimmy Chadwell profiles as a INF piece who gets on base at a high clip.",
+        "summary": "Jimmy Chadwell gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .308",
-          "OBP .409",
-          "SLG .391"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".308"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".409"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".391"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "1"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "17"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "2"
+            "value": "0"
           }
         ],
-        "metaLine": "SO / Columbia College",
+        "metaLine": "JR / N/A",
         "detailBadges": [
           "INF",
-          "SO",
-          "Columbia College",
-          "Hitter"
+          "JR",
+          "N/A",
+          "Rostered"
         ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats"
+        "sourceSummary": "Columbia Athletics roster"
       }
     },
     {
-      "id": "columbia-22344",
+      "id": "columbia-23906",
       "schoolSlug": "columbia",
       "school": "Columbia",
       "schoolLongName": "Columbia University-Barnard College",
@@ -1895,23 +1295,23 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
       "compositeRole": "Pitcher",
       "role": "Pitcher",
       "position": "LHP",
-      "positionLong": "LHP",
-      "classYear": "FY",
-      "handedness": "Columbia College",
+      "positionLong": "",
+      "classYear": "SO",
+      "handedness": "N/A",
       "jersey": "15",
       "hometown": "Woodbine, Md.",
       "highSchool": "Mount St. Joseph",
       "previousSchool": "",
       "hometownHighSchool": "Woodbine, Md. / Mount St. Joseph",
-      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/collin-park/22344",
-      "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0056_OT1Ek.jpg",
+      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/collin-park/23906",
+      "imageUrl": "https://gocolumbialions.com/images/2026/9/29/CU361-0061.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "22344",
+      "rosterBioId": "23906",
       "sources": [
         "Columbia Athletics roster"
       ],
@@ -1963,137 +1363,168 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "FY / Columbia College",
+        "metaLine": "SO / N/A",
         "detailBadges": [
           "LHP",
-          "FY",
-          "Columbia College",
+          "SO",
+          "N/A",
           "Pitcher"
         ],
         "sourceSummary": "Columbia Athletics roster"
       }
     },
     {
-      "id": "columbia-21709",
+      "id": "columbia-23907",
       "schoolSlug": "columbia",
       "school": "Columbia",
       "schoolLongName": "Columbia University-Barnard College",
-      "name": "Ben Fishel",
-      "normalizedName": "ben fishel",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "OF",
-      "positionLong": "OF",
-      "classYear": "SO",
-      "handedness": "Columbia College",
-      "jersey": "17",
-      "hometown": "Tappan, N.Y.",
-      "highSchool": "Tappan Zee",
+      "name": "Xavien Suero",
+      "normalizedName": "xavien suero",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "FY",
+      "handedness": "N/A",
+      "jersey": "16",
+      "hometown": "Hyannis, Mass.",
+      "highSchool": "St. Paul II",
       "previousSchool": "",
-      "hometownHighSchool": "Tappan, N.Y. / Tappan Zee",
-      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/ben-fishel/21709",
-      "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0046_LFGCh.jpg",
+      "hometownHighSchool": "Hyannis, Mass. / St. Paul II",
+      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/xavien-suero/23907",
+      "imageUrl": "https://gocolumbialions.com/images/2026/9/29/CU361-0051.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "21709",
+      "rosterBioId": "23907",
       "sources": [
-        "Columbia Athletics roster",
-        "Columbia cumulative stats"
+        "Columbia Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "21709",
-        "name": "Ben Fishel",
-        "normalizedName": "ben fishel",
-        "jersey": "17",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/ben-fishel/21709",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0046_LFGCh.jpg",
-        "gamesPlayed": 41,
-        "gamesStarted": 41,
-        "battingAverage": 0.264,
-        "onBasePercentage": 0.371,
-        "sluggingPercentage": 0.304,
-        "ops": 0.675,
-        "atBats": 148,
-        "runs": 24,
-        "hits": 39,
-        "doubles": 6,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 16,
-        "totalBases": 45,
-        "walks": 15,
-        "hitByPitch": 11,
-        "strikeouts": 23,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 2,
-        "sacrificeFlies": 1,
-        "sacrificeHits": 0,
-        "stolenBases": 5,
-        "stolenBasesAttempts": 11,
-        "putouts": 108,
-        "assists": 0,
-        "errors": 2,
-        "plateAppearances": 192,
-        "caughtStealing": 6,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "21709",
-        "name": "Ben Fishel",
-        "normalizedName": "ben fishel",
-        "jersey": "17",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/ben-fishel/21709",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0046_LFGCh.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 39,
-        "putouts": 108,
-        "assists": 5,
-        "errors": 2,
-        "fieldingPercentage": 0.983,
-        "doublePlays": 1,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 115
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 30,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 50.55555555555554,
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Xavien Suero looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FY / N/A",
+        "detailBadges": [
+          "RHP",
+          "FY",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "Columbia Athletics roster"
+      }
+    },
+    {
+      "id": "columbia-23908",
+      "schoolSlug": "columbia",
+      "school": "Columbia",
+      "schoolLongName": "Columbia University-Barnard College",
+      "name": "Ben Fishel",
+      "normalizedName": "ben fishel",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "N/A",
+      "jersey": "17",
+      "hometown": "Tappan, N.Y.",
+      "highSchool": "Tappan Zee",
+      "previousSchool": "",
+      "hometownHighSchool": "Tappan, N.Y. / Tappan Zee",
+      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/ben-fishel/23908",
+      "imageUrl": "https://gocolumbialions.com/images/2026/9/29/CU361-0101.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "23908",
+      "sources": [
+        "Columbia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
           "Power": 0,
-          "Contact": 27.500000000000007,
-          "Discipline": 50.241545893719795,
-          "Speed": 16.666666666666664
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
         "summary": "Ben Fishel gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .264",
-          "OBP .371",
-          "SLG .304"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".264"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".371"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".304"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -2101,25 +1532,25 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
           },
           {
             "label": "RBI",
-            "value": "16"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "5"
+            "value": "0"
           }
         ],
-        "metaLine": "SO / Columbia College",
+        "metaLine": "JR / N/A",
         "detailBadges": [
           "OF",
-          "SO",
-          "Columbia College",
-          "Hitter"
+          "JR",
+          "N/A",
+          "Rostered"
         ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats"
+        "sourceSummary": "Columbia Athletics roster"
       }
     },
     {
-      "id": "columbia-22345",
+      "id": "columbia-23909",
       "schoolSlug": "columbia",
       "school": "Columbia",
       "schoolLongName": "Columbia University-Barnard College",
@@ -2128,23 +1559,23 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
       "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "INF",
-      "positionLong": "INF",
-      "classYear": "FY",
-      "handedness": "Columbia College",
+      "positionLong": "",
+      "classYear": "SO",
+      "handedness": "N/A",
       "jersey": "18",
       "hometown": "Lynnfield, Mass.",
       "highSchool": "Lynnfield",
       "previousSchool": "",
       "hometownHighSchool": "Lynnfield, Mass. / Lynnfield",
-      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/tyler-adamo/22345",
-      "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0052_AaPr4.jpg",
+      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/tyler-adamo/23909",
+      "imageUrl": "https://gocolumbialions.com/images/2026/9/29/CU361-0082.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "22345",
+      "rosterBioId": "23909",
       "sources": [
         "Columbia Athletics roster"
       ],
@@ -2196,18 +1627,18 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "FY / Columbia College",
+        "metaLine": "SO / N/A",
         "detailBadges": [
           "INF",
-          "FY",
-          "Columbia College",
+          "SO",
+          "N/A",
           "Rostered"
         ],
         "sourceSummary": "Columbia Athletics roster"
       }
     },
     {
-      "id": "columbia-22352",
+      "id": "columbia-23918",
       "schoolSlug": "columbia",
       "school": "Columbia",
       "schoolLongName": "Columbia University-Barnard College",
@@ -2216,204 +1647,28 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
       "compositeRole": "Pitcher",
       "role": "Pitcher",
       "position": "RHP",
-      "positionLong": "RHP",
-      "classYear": "FY",
-      "handedness": "Columbia College",
+      "positionLong": "",
+      "classYear": "SO",
+      "handedness": "N/A",
       "jersey": "20",
       "hometown": "Belmont, Mass.",
       "highSchool": "Boston College HS",
       "previousSchool": "",
       "hometownHighSchool": "Belmont, Mass. / Boston College HS",
-      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/jake-taylor/22352",
-      "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0050_tdOiK.jpg",
+      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/jake-taylor/23918",
+      "imageUrl": "https://gocolumbialions.com/images/2026/9/29/CU361-0129.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "22352",
+      "rosterBioId": "23918",
       "sources": [
-        "Columbia Athletics roster",
-        "Columbia cumulative stats"
+        "Columbia Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "22352",
-        "name": "Jake Taylor",
-        "normalizedName": "jake taylor",
-        "jersey": "20",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/jake-taylor/22352",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0050_tdOiK.jpg",
-        "gamesPlayed": 3,
-        "gamesStarted": 0,
-        "appearances": 3,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 18,
-        "whip": 3,
-        "wins": 0,
-        "losses": 1,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 3,
-        "inningsPitchedDisplay": "3.0",
-        "hitsAllowed": 6,
-        "runsAllowed": 7,
-        "earnedRunsAllowed": 6,
-        "walksAllowed": 3,
-        "strikeouts": 3,
-        "doublesAllowed": 2,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 13,
-        "wildPitches": 2,
-        "hitBatters": 3,
-        "balks": 0,
-        "opponentsBattingAverage": 0.462,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "22352",
-        "name": "Jake Taylor",
-        "normalizedName": "jake taylor",
-        "jersey": "20",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/jake-taylor/22352",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0050_tdOiK.jpg",
-        "gamesPlayed": 1,
-        "gamesStarted": 0,
-        "putouts": 0,
-        "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 0,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 1,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 0
-      },
-      "evaluation": {
-        "score": 9,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Jake Taylor looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 18.00",
-          "WHIP 3.00",
-          "K/9 9.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "18.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "3.00"
-          },
-          {
-            "label": "K/9",
-            "value": "9.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "9.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "3.0"
-          }
-        ],
-        "metaLine": "FY / Columbia College",
-        "detailBadges": [
-          "RHP",
-          "FY",
-          "Columbia College",
-          "Pitcher"
-        ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats"
-      }
-    },
-    {
-      "id": "columbia-21728",
-      "schoolSlug": "columbia",
-      "school": "Columbia",
-      "schoolLongName": "Columbia University-Barnard College",
-      "name": "Martin Zhang",
-      "normalizedName": "martin zhang",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "LHP",
-      "classYear": "SR",
-      "handedness": "Columbia College",
-      "jersey": "21",
-      "hometown": "Orange, Conn.",
-      "highSchool": "Amity Regional",
-      "previousSchool": "",
-      "hometownHighSchool": "Orange, Conn. / Amity Regional",
-      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/martin-zhang/21728",
-      "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0072_9ZvCs.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "21728",
-      "sources": [
-        "Columbia Athletics roster",
-        "Columbia cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "21728",
-        "name": "Martin Zhang",
-        "normalizedName": "martin zhang",
-        "jersey": "21",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/martin-zhang/21728",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0072_9ZvCs.jpg",
-        "gamesPlayed": 2,
-        "gamesStarted": 0,
-        "appearances": 2,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 13.5,
-        "whip": 2.25,
-        "wins": 1,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 1.3333333333333333,
-        "inningsPitchedDisplay": "1.1",
-        "hitsAllowed": 1,
-        "runsAllowed": 2,
-        "earnedRunsAllowed": 2,
-        "walksAllowed": 2,
-        "strikeouts": 0,
-        "doublesAllowed": 0,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 1,
-        "opponentsAtBats": 5,
-        "wildPitches": 0,
-        "hitBatters": 0,
-        "balks": 0,
-        "opponentsBattingAverage": 0.2,
-        "walksHits": 0
-      },
+      "pitchingStats": null,
       "fieldingStats": null,
       "evaluation": {
         "score": 0,
@@ -2428,20 +1683,20 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Martin Zhang gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Jake Taylor looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 13.50",
-          "WHIP 2.25",
+          "ERA --",
+          "WHIP --",
           "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "13.50"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "2.25"
+            "value": "--"
           },
           {
             "label": "K/9",
@@ -2449,29 +1704,117 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
           },
           {
             "label": "BB/9",
-            "value": "13.5"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "6.75"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "1.3"
+            "value": "0.0"
           }
         ],
-        "metaLine": "SR / Columbia College",
+        "metaLine": "SO / N/A",
         "detailBadges": [
-          "LHP",
-          "SR",
-          "Columbia College",
+          "RHP",
+          "SO",
+          "N/A",
           "Pitcher"
         ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats"
+        "sourceSummary": "Columbia Athletics roster"
       }
     },
     {
-      "id": "columbia-21716",
+      "id": "columbia-23919",
+      "schoolSlug": "columbia",
+      "school": "Columbia",
+      "schoolLongName": "Columbia University-Barnard College",
+      "name": "Jack Freehill",
+      "normalizedName": "jack freehill",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "",
+      "classYear": "FY",
+      "handedness": "N/A",
+      "jersey": "21",
+      "hometown": "Palo Alto, Calif.",
+      "highSchool": "Menlo School",
+      "previousSchool": "",
+      "hometownHighSchool": "Palo Alto, Calif. / Menlo School",
+      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/jack-freehill/23919",
+      "imageUrl": "https://gocolumbialions.com/images/2026/9/29/CU361-0074.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "23919",
+      "sources": [
+        "Columbia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Jack Freehill gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "FY / N/A",
+        "detailBadges": [
+          "INF",
+          "FY",
+          "N/A",
+          "Rostered"
+        ],
+        "sourceSummary": "Columbia Athletics roster"
+      }
+    },
+    {
+      "id": "columbia-23920",
       "schoolSlug": "columbia",
       "school": "Columbia",
       "schoolLongName": "Columbia University-Barnard College",
@@ -2480,85 +1823,31 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
       "compositeRole": "Pitcher",
       "role": "Pitcher",
       "position": "RHP",
-      "positionLong": "RHP",
-      "classYear": "JR",
-      "handedness": "Columbia College",
+      "positionLong": "",
+      "classYear": "SR",
+      "handedness": "N/A",
       "jersey": "22",
       "hometown": "Redondo Beach, Calif.",
       "highSchool": "Redondo Union",
       "previousSchool": "",
       "hometownHighSchool": "Redondo Beach, Calif. / Redondo Union",
-      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/tomas-lopez/21716",
-      "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0066_7PqZK.jpg",
+      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/tomas-lopez/23920",
+      "imageUrl": "https://gocolumbialions.com/images/2026/9/29/CU361-0121.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "21716",
+      "rosterBioId": "23920",
       "sources": [
-        "Columbia Athletics roster",
-        "Columbia cumulative stats"
+        "Columbia Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "21716",
-        "name": "Tomas Lopez",
-        "normalizedName": "tomas lopez",
-        "jersey": "22",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/tomas-lopez/21716",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0066_7PqZK.jpg",
-        "gamesPlayed": 4,
-        "gamesStarted": 4,
-        "appearances": 4,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 3.06,
-        "whip": 1.3,
-        "wins": 0,
-        "losses": 2,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 17.666666666666668,
-        "inningsPitchedDisplay": "17.2",
-        "hitsAllowed": 15,
-        "runsAllowed": 6,
-        "earnedRunsAllowed": 6,
-        "walksAllowed": 8,
-        "strikeouts": 13,
-        "doublesAllowed": 3,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 3,
-        "opponentsAtBats": 66,
-        "wildPitches": 2,
-        "hitBatters": 1,
-        "balks": 0,
-        "opponentsBattingAverage": 0.227,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "21716",
-        "name": "Tomas Lopez",
-        "normalizedName": "tomas lopez",
-        "jersey": "22",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/tomas-lopez/21716",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0066_7PqZK.jpg",
-        "gamesPlayed": 1,
-        "gamesStarted": 1,
-        "putouts": 0,
-        "assists": 2,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 2
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 7,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2566,54 +1855,54 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 23.84219554030874,
-          "Command": 12.499999999999996,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Tomas Lopez looks like a RHP option who limits runs.",
+        "summary": "Tomas Lopez looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 3.06",
-          "WHIP 1.30",
-          "K/9 6.6"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.06"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.30"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "6.6"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "4.1"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.53"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "17.7"
+            "value": "0.0"
           }
         ],
-        "metaLine": "JR / Columbia College",
+        "metaLine": "SR / N/A",
         "detailBadges": [
           "RHP",
-          "JR",
-          "Columbia College",
+          "SR",
+          "N/A",
           "Pitcher"
         ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats"
+        "sourceSummary": "Columbia Athletics roster"
       }
     },
     {
-      "id": "columbia-22347",
+      "id": "columbia-23921",
       "schoolSlug": "columbia",
       "school": "Columbia",
       "schoolLongName": "Columbia University-Barnard College",
@@ -2622,23 +1911,23 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
       "compositeRole": "Pitcher",
       "role": "Pitcher",
       "position": "RHP",
-      "positionLong": "RHP",
-      "classYear": "FY",
-      "handedness": "Columbia College",
+      "positionLong": "",
+      "classYear": "SO",
+      "handedness": "N/A",
       "jersey": "23",
       "hometown": "Wilmette, Ill.",
       "highSchool": "New Trier",
       "previousSchool": "",
       "hometownHighSchool": "Wilmette, Ill. / New Trier",
-      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/henrik-conniff/22347",
-      "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0108_LZ85k.jpg",
+      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/henrik-conniff/23921",
+      "imageUrl": "https://gocolumbialions.com/images/2026/9/29/CU361-0138.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "22347",
+      "rosterBioId": "23921",
       "sources": [
         "Columbia Athletics roster"
       ],
@@ -2690,18 +1979,18 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "FY / Columbia College",
+        "metaLine": "SO / N/A",
         "detailBadges": [
           "RHP",
-          "FY",
-          "Columbia College",
+          "SO",
+          "N/A",
           "Pitcher"
         ],
         "sourceSummary": "Columbia Athletics roster"
       }
     },
     {
-      "id": "columbia-22342",
+      "id": "columbia-23922",
       "schoolSlug": "columbia",
       "school": "Columbia",
       "schoolLongName": "Columbia University-Barnard College",
@@ -2710,85 +1999,31 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
       "compositeRole": "Pitcher",
       "role": "Pitcher",
       "position": "LHP",
-      "positionLong": "LHP",
-      "classYear": "FY",
-      "handedness": "Columbia College",
+      "positionLong": "",
+      "classYear": "SO",
+      "handedness": "N/A",
       "jersey": "24",
       "hometown": "Trophy Club, Texas",
       "highSchool": "Byron Nelson",
       "previousSchool": "",
       "hometownHighSchool": "Trophy Club, Texas / Byron Nelson",
-      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/jack-korthas/22342",
-      "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0086_zyJh7.jpg",
+      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/jack-korthas/23922",
+      "imageUrl": "https://gocolumbialions.com/images/2026/9/29/CU361-0080.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "22342",
+      "rosterBioId": "23922",
       "sources": [
-        "Columbia Athletics roster",
-        "Columbia cumulative stats"
+        "Columbia Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "22342",
-        "name": "Jack Korthas",
-        "normalizedName": "jack korthas",
-        "jersey": "24",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/jack-korthas/22342",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0086_zyJh7.jpg",
-        "gamesPlayed": 12,
-        "gamesStarted": 3,
-        "appearances": 12,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 8.84,
-        "whip": 1.85,
-        "wins": 1,
-        "losses": 3,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 18.333333333333332,
-        "inningsPitchedDisplay": "18.1",
-        "hitsAllowed": 18,
-        "runsAllowed": 19,
-        "earnedRunsAllowed": 18,
-        "walksAllowed": 16,
-        "strikeouts": 12,
-        "doublesAllowed": 6,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 3,
-        "opponentsAtBats": 67,
-        "wildPitches": 2,
-        "hitBatters": 2,
-        "balks": 1,
-        "opponentsBattingAverage": 0.269,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "22342",
-        "name": "Jack Korthas",
-        "normalizedName": "jack korthas",
-        "jersey": "24",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/jack-korthas/22342",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0086_zyJh7.jpg",
-        "gamesPlayed": 3,
-        "gamesStarted": 0,
-        "putouts": 4,
-        "assists": 1,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 1,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 5
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 3,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2796,141 +2031,87 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 17.190082644628106,
+          "Miss bats": 0,
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Jack Korthas gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Jack Korthas looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 8.84",
-          "WHIP 1.85",
-          "K/9 5.9"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "8.84"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.85"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "5.9"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "7.9"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.47"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "18.3"
+            "value": "0.0"
           }
         ],
-        "metaLine": "FY / Columbia College",
+        "metaLine": "SO / N/A",
         "detailBadges": [
           "LHP",
-          "FY",
-          "Columbia College",
+          "SO",
+          "N/A",
           "Pitcher"
         ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats"
+        "sourceSummary": "Columbia Athletics roster"
       }
     },
     {
-      "id": "columbia-21723",
+      "id": "columbia-23923",
       "schoolSlug": "columbia",
       "school": "Columbia",
       "schoolLongName": "Columbia University-Barnard College",
-      "name": "Payton Soske",
-      "normalizedName": "payton soske",
+      "name": "Selden Kolkebeck",
+      "normalizedName": "selden kolkebeck",
       "compositeRole": "Pitcher",
       "role": "Pitcher",
       "position": "RHP",
-      "positionLong": "RHP",
-      "classYear": "JR",
-      "handedness": "Columbia College",
+      "positionLong": "",
+      "classYear": "FY",
+      "handedness": "N/A",
       "jersey": "25",
-      "hometown": "Barrington, Ill.",
-      "highSchool": "Barrington",
+      "hometown": "Harrington Park, N.J.",
+      "highSchool": "Old Tappan",
       "previousSchool": "",
-      "hometownHighSchool": "Barrington, Ill. / Barrington",
-      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/payton-soske/21723",
-      "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0044_KQ0LQ.jpg",
+      "hometownHighSchool": "Harrington Park, N.J. / Old Tappan",
+      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/selden-kolkebeck/23923",
+      "imageUrl": "https://gocolumbialions.com/images/2026/9/29/CU361-0072.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "21723",
+      "rosterBioId": "23923",
       "sources": [
-        "Columbia Athletics roster",
-        "Columbia cumulative stats"
+        "Columbia Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "21723",
-        "name": "Payton Soske",
-        "normalizedName": "payton soske",
-        "jersey": "25",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/payton-soske/21723",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0044_KQ0LQ.jpg",
-        "gamesPlayed": 12,
-        "gamesStarted": 0,
-        "appearances": 12,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 3.26,
-        "whip": 1.19,
-        "wins": 1,
-        "losses": 0,
-        "saves": 2,
-        "shutouts": 0,
-        "inningsPitched": 19.333333333333332,
-        "inningsPitchedDisplay": "19.1",
-        "hitsAllowed": 15,
-        "runsAllowed": 9,
-        "earnedRunsAllowed": 7,
-        "walksAllowed": 8,
-        "strikeouts": 26,
-        "doublesAllowed": 3,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 1,
-        "opponentsAtBats": 69,
-        "wildPitches": 1,
-        "hitBatters": 6,
-        "balks": 0,
-        "opponentsBattingAverage": 0.217,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "21723",
-        "name": "Payton Soske",
-        "normalizedName": "payton soske",
-        "jersey": "25",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/payton-soske/21723",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0044_KQ0LQ.jpg",
-        "gamesPlayed": 4,
-        "gamesStarted": 0,
-        "putouts": 1,
-        "assists": 0,
-        "errors": 2,
-        "fieldingPercentage": 0.333,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 1,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 3
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 22,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2938,199 +2119,142 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 73.6677115987461,
-          "Command": 45,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Payton Soske looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
+        "summary": "Selden Kolkebeck looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 3.26",
-          "WHIP 1.19",
-          "K/9 12.1"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.26"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.19"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "12.1"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "3.7"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "0.47"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "19.3"
+            "value": "0.0"
           }
         ],
-        "metaLine": "JR / Columbia College",
+        "metaLine": "FY / N/A",
         "detailBadges": [
           "RHP",
-          "JR",
-          "Columbia College",
+          "FY",
+          "N/A",
           "Pitcher"
         ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats"
+        "sourceSummary": "Columbia Athletics roster"
       }
     },
     {
-      "id": "columbia-21727",
+      "id": "columbia-23924",
       "schoolSlug": "columbia",
       "school": "Columbia",
       "schoolLongName": "Columbia University-Barnard College",
       "name": "Tate Vogler",
       "normalizedName": "tate vogler",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "INF",
-      "positionLong": "INF",
-      "classYear": "SO",
-      "handedness": "Columbia College",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "N/A",
       "jersey": "27",
       "hometown": "Clemmons, N.C.",
       "highSchool": "Westchester Country Day School",
       "previousSchool": "",
       "hometownHighSchool": "Clemmons, N.C. / Westchester Country Day School",
-      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/tate-vogler/21727",
-      "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0080_KhCTd.jpg",
+      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/tate-vogler/23924",
+      "imageUrl": "https://gocolumbialions.com/images/2026/9/29/CU361-0133.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "21727",
+      "rosterBioId": "23924",
       "sources": [
-        "Columbia Athletics roster",
-        "Columbia cumulative stats"
+        "Columbia Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "21727",
-        "name": "Tate Vogler",
-        "normalizedName": "tate vogler",
-        "jersey": "27",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/tate-vogler/21727",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0080_KhCTd.jpg",
-        "gamesPlayed": 35,
-        "gamesStarted": 33,
-        "battingAverage": 0.25,
-        "onBasePercentage": 0.326,
-        "sluggingPercentage": 0.392,
-        "ops": 0.718,
-        "atBats": 120,
-        "runs": 21,
-        "hits": 30,
-        "doubles": 3,
-        "triples": 1,
-        "homeRuns": 4,
-        "runsBattedIn": 14,
-        "totalBases": 47,
-        "walks": 12,
-        "hitByPitch": 2,
-        "strikeouts": 26,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 3,
-        "sacrificeFlies": 1,
-        "sacrificeHits": 0,
-        "stolenBases": 1,
-        "stolenBasesAttempts": 2,
-        "putouts": 267,
-        "assists": 0,
-        "errors": 2,
-        "plateAppearances": 138,
-        "caughtStealing": 1,
-        "pickedOff": 1
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "21727",
-        "name": "Tate Vogler",
-        "normalizedName": "tate vogler",
-        "jersey": "27",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/tate-vogler/21727",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0080_KhCTd.jpg",
-        "gamesPlayed": 34,
-        "gamesStarted": 33,
-        "putouts": 267,
-        "assists": 19,
-        "errors": 2,
-        "fieldingPercentage": 0.993,
-        "doublePlays": 16,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 288
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 21,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 25.555555555555546,
-          "Power": 18.947368421052634,
-          "Contact": 18.75,
-          "Discipline": 29.059829059829056,
-          "Speed": 3.3333333333333335
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
         "summary": "Tate Vogler gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .250",
-          "OBP .326",
-          "SLG .392"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".250"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".326"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".392"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "4"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "14"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "1"
+            "value": "0"
           }
         ],
-        "metaLine": "SO / Columbia College",
+        "metaLine": "JR / N/A",
         "detailBadges": [
           "INF",
-          "SO",
-          "Columbia College",
-          "Hitter"
+          "JR",
+          "N/A",
+          "Rostered"
         ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats"
+        "sourceSummary": "Columbia Athletics roster"
       }
     },
     {
-      "id": "columbia-22349",
+      "id": "columbia-23925",
       "schoolSlug": "columbia",
       "school": "Columbia",
       "schoolLongName": "Columbia University-Barnard College",
@@ -3139,23 +2263,23 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
       "compositeRole": "Pitcher",
       "role": "Pitcher",
       "position": "RHP",
-      "positionLong": "RHP",
-      "classYear": "FY",
-      "handedness": "Columbia College",
+      "positionLong": "",
+      "classYear": "SO",
+      "handedness": "N/A",
       "jersey": "28",
       "hometown": "Shelton, Conn.",
       "highSchool": "St. Joseph HS",
       "previousSchool": "",
       "hometownHighSchool": "Shelton, Conn. / St. Joseph HS",
-      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/brandon-rovinelli/22349",
-      "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0113_irxbG.jpg",
+      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/brandon-rovinelli/23925",
+      "imageUrl": "https://gocolumbialions.com/images/2026/9/29/CU361-0085.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "22349",
+      "rosterBioId": "23925",
       "sources": [
         "Columbia Athletics roster"
       ],
@@ -3207,1108 +2331,51 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "FY / Columbia College",
+        "metaLine": "SO / N/A",
         "detailBadges": [
           "RHP",
-          "FY",
-          "Columbia College",
+          "SO",
+          "N/A",
           "Pitcher"
         ],
         "sourceSummary": "Columbia Athletics roster"
       }
     },
     {
-      "id": "columbia-21715",
+      "id": "columbia-23926",
       "schoolSlug": "columbia",
       "school": "Columbia",
       "schoolLongName": "Columbia University-Barnard College",
-      "name": "Evan Kleinhans",
-      "normalizedName": "evan kleinhans",
+      "name": "Sam Wildfong",
+      "normalizedName": "sam wildfong",
       "compositeRole": "Pitcher",
       "role": "Pitcher",
       "position": "RHP",
-      "positionLong": "RHP",
-      "classYear": "SR",
-      "handedness": "Columbia College",
+      "positionLong": "",
+      "classYear": "FY",
+      "handedness": "N/A",
       "jersey": "29",
-      "hometown": "Berkeley, Calif.",
-      "highSchool": "St. Mary's",
-      "previousSchool": "",
-      "hometownHighSchool": "Berkeley, Calif. / St. Mary's",
-      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/evan-kleinhans/21715",
-      "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0092_AkRul.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "21715",
-      "sources": [
-        "Columbia Athletics roster",
-        "Columbia cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "21715",
-        "name": "Evan Kleinhans",
-        "normalizedName": "evan kleinhans",
-        "jersey": "29",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/evan-kleinhans/21715",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0092_AkRul.jpg",
-        "gamesPlayed": 23,
-        "gamesStarted": 3,
-        "appearances": 23,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 4.44,
-        "whip": 1.4,
-        "wins": 3,
-        "losses": 2,
-        "saves": 2,
-        "shutouts": 0,
-        "inningsPitched": 48.666666666666664,
-        "inningsPitchedDisplay": "48.2",
-        "hitsAllowed": 55,
-        "runsAllowed": 26,
-        "earnedRunsAllowed": 24,
-        "walksAllowed": 13,
-        "strikeouts": 40,
-        "doublesAllowed": 15,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 191,
-        "wildPitches": 6,
-        "hitBatters": 10,
-        "balks": 1,
-        "opponentsBattingAverage": 0.288,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "21715",
-        "name": "Evan Kleinhans",
-        "normalizedName": "evan kleinhans",
-        "jersey": "29",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/evan-kleinhans/21715",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0092_AkRul.jpg",
-        "gamesPlayed": 12,
-        "gamesStarted": 2,
-        "putouts": 3,
-        "assists": 6,
-        "errors": 4,
-        "fieldingPercentage": 0.692,
-        "doublePlays": 1,
-        "stolenBasesAgainst": 2,
-        "caughtStealingBy": 1,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 13
-      },
-      "evaluation": {
-        "score": 13,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 30.884184308841846,
-          "Command": 41.53846153846154,
-          "Damage suppression": 0
-        },
-        "summary": "Evan Kleinhans looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA 4.44",
-          "WHIP 1.40",
-          "K/9 7.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.44"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.40"
-          },
-          {
-            "label": "K/9",
-            "value": "7.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.4"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.37"
-          },
-          {
-            "label": "IP",
-            "value": "48.7"
-          }
-        ],
-        "metaLine": "SR / Columbia College",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "Columbia College",
-          "Pitcher"
-        ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats"
-      }
-    },
-    {
-      "id": "columbia-21718",
-      "schoolSlug": "columbia",
-      "school": "Columbia",
-      "schoolLongName": "Columbia University-Barnard College",
-      "name": "Brendan Murphy",
-      "normalizedName": "brendan murphy",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "LHP",
-      "classYear": "SO",
-      "handedness": "Columbia College",
-      "jersey": "30",
-      "hometown": "Naples, Fla.",
-      "highSchool": "Naples",
-      "previousSchool": "",
-      "hometownHighSchool": "Naples, Fla. / Naples",
-      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/brendan-murphy/21718",
-      "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0111_6Zaop.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "21718",
-      "sources": [
-        "Columbia Athletics roster",
-        "Columbia cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "21718",
-        "name": "Brendan Murphy",
-        "normalizedName": "brendan murphy",
-        "jersey": "30",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/brendan-murphy/21718",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0111_6Zaop.jpg",
-        "gamesPlayed": 12,
-        "gamesStarted": 1,
-        "appearances": 12,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 5.53,
-        "whip": 1.52,
-        "wins": 0,
-        "losses": 1,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 27.666666666666668,
-        "inningsPitchedDisplay": "27.2",
-        "hitsAllowed": 32,
-        "runsAllowed": 19,
-        "earnedRunsAllowed": 17,
-        "walksAllowed": 10,
-        "strikeouts": 20,
-        "doublesAllowed": 11,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 4,
-        "opponentsAtBats": 106,
-        "wildPitches": 4,
-        "hitBatters": 2,
-        "balks": 0,
-        "opponentsBattingAverage": 0.302,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "21718",
-        "name": "Brendan Murphy",
-        "normalizedName": "brendan murphy",
-        "jersey": "30",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/brendan-murphy/21718",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0111_6Zaop.jpg",
-        "gamesPlayed": 4,
-        "gamesStarted": 1,
-        "putouts": 1,
-        "assists": 3,
-        "errors": 1,
-        "fieldingPercentage": 0.8,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 5
-      },
-      "evaluation": {
-        "score": 8,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 22.782037239868565,
-          "Command": 20,
-          "Damage suppression": 0
-        },
-        "summary": "Brendan Murphy gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 5.53",
-          "WHIP 1.52",
-          "K/9 6.5"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.53"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.52"
-          },
-          {
-            "label": "K/9",
-            "value": "6.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.3"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.30"
-          },
-          {
-            "label": "IP",
-            "value": "27.7"
-          }
-        ],
-        "metaLine": "SO / Columbia College",
-        "detailBadges": [
-          "LHP",
-          "SO",
-          "Columbia College",
-          "Pitcher"
-        ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats"
-      }
-    },
-    {
-      "id": "columbia-21720",
-      "schoolSlug": "columbia",
-      "school": "Columbia",
-      "schoolLongName": "Columbia University-Barnard College",
-      "name": "Thomas Santana",
-      "normalizedName": "thomas santana",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "RHP",
-      "classYear": "SR",
-      "handedness": "Columbia College",
-      "jersey": "33",
-      "hometown": "Millburn, N.J.",
-      "highSchool": "Pingry School",
-      "previousSchool": "",
-      "hometownHighSchool": "Millburn, N.J. / Pingry School",
-      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/thomas-santana/21720",
-      "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0095_YQ8fs.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "21720",
-      "sources": [
-        "Columbia Athletics roster",
-        "Columbia cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "21720",
-        "name": "Thomas Santana",
-        "normalizedName": "thomas santana",
-        "jersey": "33",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/thomas-santana/21720",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0095_YQ8fs.jpg",
-        "gamesPlayed": 12,
-        "gamesStarted": 12,
-        "appearances": 12,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 5.28,
-        "whip": 1.53,
-        "wins": 5,
-        "losses": 5,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 59.666666666666664,
-        "inningsPitchedDisplay": "59.2",
-        "hitsAllowed": 62,
-        "runsAllowed": 41,
-        "earnedRunsAllowed": 35,
-        "walksAllowed": 29,
-        "strikeouts": 51,
-        "doublesAllowed": 13,
-        "triplesAllowed": 3,
-        "homeRunsAllowed": 8,
-        "opponentsAtBats": 230,
-        "wildPitches": 2,
-        "hitBatters": 16,
-        "balks": 3,
-        "opponentsBattingAverage": 0.27,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "21720",
-        "name": "Thomas Santana",
-        "normalizedName": "thomas santana",
-        "jersey": "33",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/thomas-santana/21720",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0095_YQ8fs.jpg",
-        "gamesPlayed": 10,
-        "gamesStarted": 10,
-        "putouts": 7,
-        "assists": 7,
-        "errors": 1,
-        "fieldingPercentage": 0.933,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 5,
-        "caughtStealingBy": 1,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 15
-      },
-      "evaluation": {
-        "score": 9,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 33.57034027425089,
-          "Command": 15.17241379310345,
-          "Damage suppression": 0
-        },
-        "summary": "Thomas Santana gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 5.28",
-          "WHIP 1.53",
-          "K/9 7.7"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.28"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.53"
-          },
-          {
-            "label": "K/9",
-            "value": "7.7"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.4"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.21"
-          },
-          {
-            "label": "IP",
-            "value": "59.7"
-          }
-        ],
-        "metaLine": "SR / Columbia College",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "Columbia College",
-          "Pitcher"
-        ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats"
-      }
-    },
-    {
-      "id": "columbia-21724",
-      "schoolSlug": "columbia",
-      "school": "Columbia",
-      "schoolLongName": "Columbia University-Barnard College",
-      "name": "Alex Sotiropoulos",
-      "normalizedName": "alex sotiropoulos",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "RHP",
-      "classYear": "SO",
-      "handedness": "Fu Foundation School of Engineering and Applied Science",
-      "jersey": "34",
-      "hometown": "Tampa, Fla.",
-      "highSchool": "Tampa Catholic/Tampa Prep",
-      "previousSchool": "",
-      "hometownHighSchool": "Tampa, Fla. / Tampa Catholic/Tampa Prep",
-      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/alex-sotiropoulos/21724",
-      "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0074_mWKvY.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "21724",
-      "sources": [
-        "Columbia Athletics roster",
-        "Columbia cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "21724",
-        "name": "Alex Sotiropoulos",
-        "normalizedName": "alex sotiropoulos",
-        "jersey": "34",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/alex-sotiropoulos/21724",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0074_mWKvY.jpg",
-        "gamesPlayed": 12,
-        "gamesStarted": 11,
-        "appearances": 12,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 6.57,
-        "whip": 1.64,
-        "wins": 2,
-        "losses": 4,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 61.666666666666664,
-        "inningsPitchedDisplay": "61.2",
-        "hitsAllowed": 62,
-        "runsAllowed": 50,
-        "earnedRunsAllowed": 45,
-        "walksAllowed": 39,
-        "strikeouts": 51,
-        "doublesAllowed": 10,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 5,
-        "opponentsAtBats": 237,
-        "wildPitches": 10,
-        "hitBatters": 8,
-        "balks": 1,
-        "opponentsBattingAverage": 0.262,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "21724",
-        "name": "Alex Sotiropoulos",
-        "normalizedName": "alex sotiropoulos",
-        "jersey": "34",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/alex-sotiropoulos/21724",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0074_mWKvY.jpg",
-        "gamesPlayed": 10,
-        "gamesStarted": 9,
-        "putouts": 4,
-        "assists": 11,
-        "errors": 1,
-        "fieldingPercentage": 0.938,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 4,
-        "caughtStealingBy": 1,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 16
-      },
-      "evaluation": {
-        "score": 7,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 31.3022113022113,
-          "Command": 6.153846153846154,
-          "Damage suppression": 0
-        },
-        "summary": "Alex Sotiropoulos gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 6.57",
-          "WHIP 1.64",
-          "K/9 7.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "6.57"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.64"
-          },
-          {
-            "label": "K/9",
-            "value": "7.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.7"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.73"
-          },
-          {
-            "label": "IP",
-            "value": "61.7"
-          }
-        ],
-        "metaLine": "SO / Fu Foundation School of Engineering and Applied Science",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "Fu Foundation School of Engineering and Applied Science",
-          "Pitcher"
-        ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats"
-      }
-    },
-    {
-      "id": "columbia-22348",
-      "schoolSlug": "columbia",
-      "school": "Columbia",
-      "schoolLongName": "Columbia University-Barnard College",
-      "name": "Jack McWilliams",
-      "normalizedName": "jack mcwilliams",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "OF",
-      "positionLong": "OF",
-      "classYear": "SO",
-      "handedness": "Columbia College",
-      "jersey": "35",
-      "hometown": "San Marcos, Calif.",
-      "highSchool": "Cathedral Catholic",
-      "previousSchool": "San Diego",
-      "hometownHighSchool": "San Marcos, Calif. / Cathedral Catholic",
-      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/jack-mcwilliams/22348",
-      "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0084_iY5A4.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "22348",
-      "sources": [
-        "Columbia Athletics roster",
-        "Columbia cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "22348",
-        "name": "Jack McWilliams",
-        "normalizedName": "jack mcwilliams",
-        "jersey": "35",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/jack-mcwilliams/22348",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0084_iY5A4.jpg",
-        "gamesPlayed": 7,
-        "gamesStarted": 1,
-        "battingAverage": 0.5,
-        "onBasePercentage": 0.545,
-        "sluggingPercentage": 1.1,
-        "ops": 1.645,
-        "atBats": 10,
-        "runs": 4,
-        "hits": 5,
-        "doubles": 0,
-        "triples": 0,
-        "homeRuns": 2,
-        "runsBattedIn": 4,
-        "totalBases": 11,
-        "walks": 1,
-        "hitByPitch": 0,
-        "strikeouts": 3,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 2,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 11,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "22348",
-        "name": "Jack McWilliams",
-        "normalizedName": "jack mcwilliams",
-        "jersey": "35",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/jack-mcwilliams/22348",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0084_iY5A4.jpg",
-        "gamesPlayed": 2,
-        "gamesStarted": 0,
-        "putouts": 2,
-        "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 2
-      },
-      "evaluation": {
-        "score": 78,
-        "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
-        },
-        "components": {
-          "On-base": 100,
-          "Power": 100,
-          "Contact": 100,
-          "Discipline": 14.814814814814808,
-          "Speed": 0
-        },
-        "summary": "Jack McWilliams profiles as a OF piece who gets on base at a high clip and brings real extra-base damage.",
-        "summaryMetrics": [
-          "AVG .500",
-          "OBP .545",
-          "SLG 1.100"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".500"
-          },
-          {
-            "label": "OBP",
-            "value": ".545"
-          },
-          {
-            "label": "SLG",
-            "value": "1.100"
-          },
-          {
-            "label": "HR",
-            "value": "2"
-          },
-          {
-            "label": "RBI",
-            "value": "4"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "SO / Columbia College",
-        "detailBadges": [
-          "OF",
-          "SO",
-          "Columbia College",
-          "Hitter"
-        ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats"
-      }
-    },
-    {
-      "id": "columbia-21707",
-      "schoolSlug": "columbia",
-      "school": "Columbia",
-      "schoolLongName": "Columbia University-Barnard College",
-      "name": "Owen Estabrook",
-      "normalizedName": "owen estabrook",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "C",
-      "positionLong": "C",
-      "classYear": "JR",
-      "handedness": "Columbia College",
-      "jersey": "36",
-      "hometown": "Santa Barbara, Calif.",
-      "highSchool": "San Marcos",
-      "previousSchool": "",
-      "hometownHighSchool": "Santa Barbara, Calif. / San Marcos",
-      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/owen-estabrook/21707",
-      "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0090_Bk057.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "21707",
-      "sources": [
-        "Columbia Athletics roster",
-        "Columbia cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "21707",
-        "name": "Owen Estabrook",
-        "normalizedName": "owen estabrook",
-        "jersey": "36",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/owen-estabrook/21707",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0090_Bk057.jpg",
-        "gamesPlayed": 39,
-        "gamesStarted": 39,
-        "battingAverage": 0.207,
-        "onBasePercentage": 0.357,
-        "sluggingPercentage": 0.356,
-        "ops": 0.713,
-        "atBats": 135,
-        "runs": 18,
-        "hits": 28,
-        "doubles": 5,
-        "triples": 0,
-        "homeRuns": 5,
-        "runsBattedIn": 23,
-        "totalBases": 48,
-        "walks": 29,
-        "hitByPitch": 3,
-        "strikeouts": 31,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 4,
-        "sacrificeFlies": 1,
-        "sacrificeHits": 1,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 272,
-        "assists": 0,
-        "errors": 1,
-        "plateAppearances": 169,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "21707",
-        "name": "Owen Estabrook",
-        "normalizedName": "owen estabrook",
-        "jersey": "36",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/owen-estabrook/21707",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0090_Bk057.jpg",
-        "gamesPlayed": 38,
-        "gamesStarted": 38,
-        "putouts": 272,
-        "assists": 43,
-        "errors": 1,
-        "fieldingPercentage": 0.997,
-        "doublePlays": 3,
-        "stolenBasesAgainst": 37,
-        "caughtStealingBy": 21,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 316
-      },
-      "evaluation": {
-        "score": 28,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 42.77777777777775,
-          "Power": 9.47368421052631,
-          "Contact": 0,
-          "Discipline": 81.72043010752685,
-          "Speed": 0
-        },
-        "summary": "Owen Estabrook gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .207",
-          "OBP .357",
-          "SLG .356"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".207"
-          },
-          {
-            "label": "OBP",
-            "value": ".357"
-          },
-          {
-            "label": "SLG",
-            "value": ".356"
-          },
-          {
-            "label": "HR",
-            "value": "5"
-          },
-          {
-            "label": "RBI",
-            "value": "23"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "JR / Columbia College",
-        "detailBadges": [
-          "C",
-          "JR",
-          "Columbia College",
-          "Hitter"
-        ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats"
-      }
-    },
-    {
-      "id": "columbia-21713",
-      "schoolSlug": "columbia",
-      "school": "Columbia",
-      "schoolLongName": "Columbia University-Barnard College",
-      "name": "Lucas Jackson",
-      "normalizedName": "lucas jackson",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "C",
-      "positionLong": "C",
-      "classYear": "JR",
-      "handedness": "Columbia College",
-      "jersey": "37",
-      "hometown": "Fort Smith, Ark.",
-      "highSchool": "Southside",
-      "previousSchool": "",
-      "hometownHighSchool": "Fort Smith, Ark. / Southside",
-      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/lucas-jackson/21713",
-      "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0064_YHPcL.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "21713",
-      "sources": [
-        "Columbia Athletics roster",
-        "Columbia cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "21713",
-        "name": "Lucas Jackson",
-        "normalizedName": "lucas jackson",
-        "jersey": "37",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/lucas-jackson/21713",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0064_YHPcL.jpg",
-        "gamesPlayed": 21,
-        "gamesStarted": 11,
-        "battingAverage": 0.229,
-        "onBasePercentage": 0.316,
-        "sluggingPercentage": 0.271,
-        "ops": 0.587,
-        "atBats": 48,
-        "runs": 3,
-        "hits": 11,
-        "doubles": 2,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 5,
-        "totalBases": 13,
-        "walks": 6,
-        "hitByPitch": 1,
-        "strikeouts": 17,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 2,
-        "sacrificeFlies": 2,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 2,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 57,
-        "caughtStealing": 0,
-        "pickedOff": 1
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "21713",
-        "name": "Lucas Jackson",
-        "normalizedName": "lucas jackson",
-        "jersey": "37",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/lucas-jackson/21713",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0064_YHPcL.jpg",
-        "gamesPlayed": 1,
-        "gamesStarted": 0,
-        "putouts": 2,
-        "assists": 1,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 3
-      },
-      "evaluation": {
-        "score": 10,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 19.999999999999986,
-          "Power": 0,
-          "Contact": 5.625000000000005,
-          "Discipline": 16.993464052287578,
-          "Speed": 0
-        },
-        "summary": "Lucas Jackson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .229",
-          "OBP .316",
-          "SLG .271"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".229"
-          },
-          {
-            "label": "OBP",
-            "value": ".316"
-          },
-          {
-            "label": "SLG",
-            "value": ".271"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "5"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "JR / Columbia College",
-        "detailBadges": [
-          "C",
-          "JR",
-          "Columbia College",
-          "Hitter"
-        ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats"
-      }
-    },
-    {
-      "id": "columbia-21706",
-      "schoolSlug": "columbia",
-      "school": "Columbia",
-      "schoolLongName": "Columbia University-Barnard College",
-      "name": "Lucas Dixon",
-      "normalizedName": "lucas dixon",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "RHP",
-      "classYear": "JR",
-      "handedness": "Columbia College",
-      "jersey": "38",
-      "hometown": "Pasadena, Calif.",
+      "hometown": "Traverse City, Mich.",
       "highSchool": "St. Francis",
       "previousSchool": "",
-      "hometownHighSchool": "Pasadena, Calif. / St. Francis",
-      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/lucas-dixon/21706",
-      "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0070_EaLMD.jpg",
+      "hometownHighSchool": "Traverse City, Mich. / St. Francis",
+      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/sam-wildfong/23926",
+      "imageUrl": "https://gocolumbialions.com/images/2026/9/29/CU361-0049.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "21706",
+      "rosterBioId": "23926",
       "sources": [
-        "Columbia Athletics roster",
-        "Columbia cumulative stats"
+        "Columbia Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "21706",
-        "name": "Lucas Dixon",
-        "normalizedName": "lucas dixon",
-        "jersey": "38",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/lucas-dixon/21706",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0070_EaLMD.jpg",
-        "gamesPlayed": 1,
-        "gamesStarted": 0,
-        "appearances": 1,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 0,
-        "whip": 1,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 1,
-        "inningsPitchedDisplay": "1.0",
-        "hitsAllowed": 1,
-        "runsAllowed": 0,
-        "earnedRunsAllowed": 0,
-        "walksAllowed": 0,
-        "strikeouts": 1,
-        "doublesAllowed": 0,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 4,
-        "wildPitches": 0,
-        "hitBatters": 0,
-        "balks": 0,
-        "opponentsBattingAverage": 0.25,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "21706",
-        "name": "Lucas Dixon",
-        "normalizedName": "lucas dixon",
-        "jersey": "38",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/lucas-dixon/21706",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0070_EaLMD.jpg",
-        "gamesPlayed": 1,
-        "gamesStarted": 0,
-        "putouts": 0,
-        "assists": 1,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 1
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 25,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4316,28 +2383,28 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
-          "Command": 100,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Lucas Dixon looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
+        "summary": "Sam Wildfong looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 0.00",
-          "WHIP 1.00",
-          "K/9 9.0"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "0.00"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.00"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "9.0"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
@@ -4349,108 +2416,54 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
           },
           {
             "label": "IP",
-            "value": "1.0"
+            "value": "0.0"
           }
         ],
-        "metaLine": "JR / Columbia College",
+        "metaLine": "FY / N/A",
         "detailBadges": [
           "RHP",
-          "JR",
-          "Columbia College",
+          "FY",
+          "N/A",
           "Pitcher"
         ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats"
+        "sourceSummary": "Columbia Athletics roster"
       }
     },
     {
-      "id": "columbia-21702",
+      "id": "columbia-23927",
       "schoolSlug": "columbia",
       "school": "Columbia",
       "schoolLongName": "Columbia University-Barnard College",
-      "name": "Andrew Argenziano",
-      "normalizedName": "andrew argenziano",
+      "name": "Brendan Murphy",
+      "normalizedName": "brendan murphy",
       "compositeRole": "Pitcher",
       "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "RHP",
-      "classYear": "SR",
-      "handedness": "Columbia College",
-      "jersey": "40",
-      "hometown": "Closter, N.J.",
-      "highSchool": "NV Demarest",
+      "position": "LHP",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "N/A",
+      "jersey": "30",
+      "hometown": "Naples, Fla.",
+      "highSchool": "Naples",
       "previousSchool": "",
-      "hometownHighSchool": "Closter, N.J. / NV Demarest",
-      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/andrew-argenziano/21702",
-      "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0100_ElJre.jpg",
+      "hometownHighSchool": "Naples, Fla. / Naples",
+      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/brendan-murphy/23927",
+      "imageUrl": "https://gocolumbialions.com/images/2026/9/29/CU361-0125.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "21702",
+      "rosterBioId": "23927",
       "sources": [
-        "Columbia Athletics roster",
-        "Columbia cumulative stats"
+        "Columbia Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "21702",
-        "name": "Andrew Argenziano",
-        "normalizedName": "andrew argenziano",
-        "jersey": "40",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/andrew-argenziano/21702",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0100_ElJre.jpg",
-        "gamesPlayed": 2,
-        "gamesStarted": 0,
-        "appearances": 2,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 9,
-        "whip": 3.5,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 2,
-        "inningsPitchedDisplay": "2.0",
-        "hitsAllowed": 4,
-        "runsAllowed": 2,
-        "earnedRunsAllowed": 2,
-        "walksAllowed": 3,
-        "strikeouts": 2,
-        "doublesAllowed": 1,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 10,
-        "wildPitches": 1,
-        "hitBatters": 0,
-        "balks": 0,
-        "opponentsBattingAverage": 0.4,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "21702",
-        "name": "Andrew Argenziano",
-        "normalizedName": "andrew argenziano",
-        "jersey": "40",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/andrew-argenziano/21702",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0100_ElJre.jpg",
-        "gamesPlayed": 1,
-        "gamesStarted": 0,
-        "putouts": 1,
-        "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 1
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 9,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4458,32 +2471,32 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
+          "Miss bats": 0,
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Andrew Argenziano looks like a RHP option who misses bats.",
+        "summary": "Brendan Murphy looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 9.00",
-          "WHIP 3.50",
-          "K/9 9.0"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "9.00"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "3.50"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "9.0"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "13.5"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
@@ -4491,111 +2504,318 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
           },
           {
             "label": "IP",
-            "value": "2.0"
+            "value": "0.0"
           }
         ],
-        "metaLine": "SR / Columbia College",
+        "metaLine": "JR / N/A",
         "detailBadges": [
-          "RHP",
-          "SR",
-          "Columbia College",
+          "LHP",
+          "JR",
+          "N/A",
           "Pitcher"
         ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats"
+        "sourceSummary": "Columbia Athletics roster"
       }
     },
     {
-      "id": "columbia-21721",
+      "id": "columbia-23928",
       "schoolSlug": "columbia",
       "school": "Columbia",
       "schoolLongName": "Columbia University-Barnard College",
-      "name": "Ben Seminara",
-      "normalizedName": "ben seminara",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "INF/OF",
-      "positionLong": "INF/OF",
-      "classYear": "SR",
-      "handedness": "Columbia College",
-      "jersey": "41",
-      "hometown": "Morristown, N.J.",
-      "highSchool": "Choate",
+      "name": "Connor Couch",
+      "normalizedName": "connor couch",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "FY",
+      "handedness": "N/A",
+      "jersey": "32",
+      "hometown": "Bloomington, Ind.",
+      "highSchool": "Bloom South",
       "previousSchool": "",
-      "hometownHighSchool": "Morristown, N.J. / Choate",
-      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/ben-seminara/21721",
-      "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0037.jpg",
+      "hometownHighSchool": "Bloomington, Ind. / Bloom South",
+      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/connor-couch/23928",
+      "imageUrl": "https://gocolumbialions.com/images/2026/9/29/CU361-0059.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "21721",
+      "rosterBioId": "23928",
       "sources": [
-        "Columbia Athletics roster",
-        "Columbia cumulative stats"
+        "Columbia Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "21721",
-        "name": "Ben Seminara",
-        "normalizedName": "ben seminara",
-        "jersey": "41",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/ben-seminara/21721",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0037.jpg",
-        "gamesPlayed": 6,
-        "gamesStarted": 1,
-        "battingAverage": 0.091,
-        "onBasePercentage": 0.167,
-        "sluggingPercentage": 0.091,
-        "ops": 0.258,
-        "atBats": 11,
-        "runs": 0,
-        "hits": 1,
-        "doubles": 0,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 1,
-        "totalBases": 1,
-        "walks": 1,
-        "hitByPitch": 0,
-        "strikeouts": 2,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 13,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 12,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "21721",
-        "name": "Ben Seminara",
-        "normalizedName": "ben seminara",
-        "jersey": "41",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/ben-seminara/21721",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0037.jpg",
-        "gamesPlayed": 2,
-        "gamesStarted": 1,
-        "putouts": 13,
-        "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 4,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 13
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 5,
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Connor Couch looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FY / N/A",
+        "detailBadges": [
+          "RHP",
+          "FY",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "Columbia Athletics roster"
+      }
+    },
+    {
+      "id": "columbia-23929",
+      "schoolSlug": "columbia",
+      "school": "Columbia",
+      "schoolLongName": "Columbia University-Barnard College",
+      "name": "Ty Daniels",
+      "normalizedName": "ty daniels",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "INF/P",
+      "positionLong": "",
+      "classYear": "FY",
+      "handedness": "N/A",
+      "jersey": "33",
+      "hometown": "San Diego, Calif.",
+      "highSchool": "Cathedral Cath",
+      "previousSchool": "",
+      "hometownHighSchool": "San Diego, Calif. / Cathedral Cath",
+      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/ty-daniels/23929",
+      "imageUrl": "https://gocolumbialions.com/images/2026/9/29/CU361-0067.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "23929",
+      "sources": [
+        "Columbia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Ty Daniels looks like a INF/P option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FY / N/A",
+        "detailBadges": [
+          "INF/P",
+          "FY",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "Columbia Athletics roster"
+      }
+    },
+    {
+      "id": "columbia-23930",
+      "schoolSlug": "columbia",
+      "school": "Columbia",
+      "schoolLongName": "Columbia University-Barnard College",
+      "name": "Alex Sotiropoulos",
+      "normalizedName": "alex sotiropoulos",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "N/A",
+      "jersey": "34",
+      "hometown": "Tampa, Fla.",
+      "highSchool": "Tampa Catholic/Tampa Prep",
+      "previousSchool": "",
+      "hometownHighSchool": "Tampa, Fla. / Tampa Catholic/Tampa Prep",
+      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/alex-sotiropoulos/23930",
+      "imageUrl": "https://gocolumbialions.com/images/2026/9/29/CU361-0123.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "23930",
+      "sources": [
+        "Columbia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Alex Sotiropoulos looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "Columbia Athletics roster"
+      }
+    },
+    {
+      "id": "columbia-23931",
+      "schoolSlug": "columbia",
+      "school": "Columbia",
+      "schoolLongName": "Columbia University-Barnard College",
+      "name": "Jack McWilliams",
+      "normalizedName": "jack mcwilliams",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "N/A",
+      "jersey": "35",
+      "hometown": "San Marcos, Calif.",
+      "highSchool": "Cathedral Catholic",
+      "previousSchool": "San Diego",
+      "hometownHighSchool": "San Marcos, Calif. / Cathedral Catholic",
+      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/jack-mcwilliams/23931",
+      "imageUrl": "https://gocolumbialions.com/images/2026/9/29/CU361-0090.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "23931",
+      "sources": [
+        "Columbia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4604,27 +2824,27 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
           "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 33.33333333333333,
+          "Discipline": 0,
           "Speed": 0
         },
-        "summary": "Ben Seminara gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Jack McWilliams gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .091",
-          "OBP .167",
-          "SLG .091"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".091"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".167"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".091"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -4632,25 +2852,729 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
           },
           {
             "label": "RBI",
-            "value": "1"
+            "value": "0"
           },
           {
             "label": "SB",
             "value": "0"
           }
         ],
-        "metaLine": "SR / Columbia College",
+        "metaLine": "JR / N/A",
         "detailBadges": [
-          "INF/OF",
-          "SR",
-          "Columbia College",
-          "Hitter"
+          "OF",
+          "JR",
+          "N/A",
+          "Rostered"
         ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats"
+        "sourceSummary": "Columbia Athletics roster"
       }
     },
     {
-      "id": "columbia-21711",
+      "id": "columbia-23932",
+      "schoolSlug": "columbia",
+      "school": "Columbia",
+      "schoolLongName": "Columbia University-Barnard College",
+      "name": "Owen Estabrook",
+      "normalizedName": "owen estabrook",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "C",
+      "positionLong": "",
+      "classYear": "SR",
+      "handedness": "N/A",
+      "jersey": "36",
+      "hometown": "Santa Barbara, Calif.",
+      "highSchool": "San Marcos",
+      "previousSchool": "",
+      "hometownHighSchool": "Santa Barbara, Calif. / San Marcos",
+      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/owen-estabrook/23932",
+      "imageUrl": "https://gocolumbialions.com/images/2026/9/29/CU361-0111.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "23932",
+      "sources": [
+        "Columbia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Owen Estabrook gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "SR / N/A",
+        "detailBadges": [
+          "C",
+          "SR",
+          "N/A",
+          "Rostered"
+        ],
+        "sourceSummary": "Columbia Athletics roster"
+      }
+    },
+    {
+      "id": "columbia-23933",
+      "schoolSlug": "columbia",
+      "school": "Columbia",
+      "schoolLongName": "Columbia University-Barnard College",
+      "name": "Lucas Jackson",
+      "normalizedName": "lucas jackson",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "C",
+      "positionLong": "",
+      "classYear": "SR",
+      "handedness": "N/A",
+      "jersey": "37",
+      "hometown": "Fort Smith, Ark.",
+      "highSchool": "Southside",
+      "previousSchool": "",
+      "hometownHighSchool": "Fort Smith, Ark. / Southside",
+      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/lucas-jackson/23933",
+      "imageUrl": "https://gocolumbialions.com/images/2026/9/29/CU361-0119.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "23933",
+      "sources": [
+        "Columbia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Lucas Jackson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "SR / N/A",
+        "detailBadges": [
+          "C",
+          "SR",
+          "N/A",
+          "Rostered"
+        ],
+        "sourceSummary": "Columbia Athletics roster"
+      }
+    },
+    {
+      "id": "columbia-23934",
+      "schoolSlug": "columbia",
+      "school": "Columbia",
+      "schoolLongName": "Columbia University-Barnard College",
+      "name": "Lucas Dixon",
+      "normalizedName": "lucas dixon",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "SR",
+      "handedness": "N/A",
+      "jersey": "38",
+      "hometown": "Pasadena, Calif.",
+      "highSchool": "St. Francis",
+      "previousSchool": "",
+      "hometownHighSchool": "Pasadena, Calif. / St. Francis",
+      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/lucas-dixon/23934",
+      "imageUrl": "https://gocolumbialions.com/images/2026/9/29/CU361-0109.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "23934",
+      "sources": [
+        "Columbia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Lucas Dixon looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "SR / N/A",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "Columbia Athletics roster"
+      }
+    },
+    {
+      "id": "columbia-23935",
+      "schoolSlug": "columbia",
+      "school": "Columbia",
+      "schoolLongName": "Columbia University-Barnard College",
+      "name": "Brady Groves",
+      "normalizedName": "brady groves",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "",
+      "classYear": "SR",
+      "handedness": "N/A",
+      "jersey": "39",
+      "hometown": "Youngsville, N.C.",
+      "highSchool": "Franklinton",
+      "previousSchool": "Oberlin College",
+      "hometownHighSchool": "Youngsville, N.C. / Franklinton",
+      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/brady-groves/23935",
+      "imageUrl": "https://gocolumbialions.com/images/2026/9/29/CU361-0092.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "23935",
+      "sources": [
+        "Columbia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Brady Groves gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "SR / N/A",
+        "detailBadges": [
+          "OF",
+          "SR",
+          "N/A",
+          "Rostered"
+        ],
+        "sourceSummary": "Columbia Athletics roster"
+      }
+    },
+    {
+      "id": "columbia-23936",
+      "schoolSlug": "columbia",
+      "school": "Columbia",
+      "schoolLongName": "Columbia University-Barnard College",
+      "name": "Russ Berger",
+      "normalizedName": "russ berger",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "",
+      "classYear": "FY",
+      "handedness": "N/A",
+      "jersey": "40",
+      "hometown": "Charlotte, N.C.",
+      "highSchool": "Charlotte Christian",
+      "previousSchool": "",
+      "hometownHighSchool": "Charlotte, N.C. / Charlotte Christian",
+      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/russ-berger/23936",
+      "imageUrl": "https://gocolumbialions.com/images/2026/9/29/CU361-0070.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "23936",
+      "sources": [
+        "Columbia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Russ Berger looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FY / N/A",
+        "detailBadges": [
+          "LHP",
+          "FY",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "Columbia Athletics roster"
+      }
+    },
+    {
+      "id": "columbia-23937",
+      "schoolSlug": "columbia",
+      "school": "Columbia",
+      "schoolLongName": "Columbia University-Barnard College",
+      "name": "Ronan O'Brien",
+      "normalizedName": "ronan o brien",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "FY",
+      "handedness": "N/A",
+      "jersey": "41",
+      "hometown": "Phoenix, Ariz.",
+      "highSchool": "Brophy Prep",
+      "previousSchool": "",
+      "hometownHighSchool": "Phoenix, Ariz. / Brophy Prep",
+      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/ronan-obrien/23937",
+      "imageUrl": "https://gocolumbialions.com/images/2026/9/29/CU361-0054.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "23937",
+      "sources": [
+        "Columbia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Ronan O'Brien looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FY / N/A",
+        "detailBadges": [
+          "RHP",
+          "FY",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "Columbia Athletics roster"
+      }
+    },
+    {
+      "id": "columbia-23938",
+      "schoolSlug": "columbia",
+      "school": "Columbia",
+      "schoolLongName": "Columbia University-Barnard College",
+      "name": "Chris McLaughlin",
+      "normalizedName": "chris mclaughlin",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "INF/P",
+      "positionLong": "",
+      "classYear": "FY",
+      "handedness": "N/A",
+      "jersey": "42",
+      "hometown": "Albany, N.Y.",
+      "highSchool": "Christian Brothers Academy",
+      "previousSchool": "",
+      "hometownHighSchool": "Albany, N.Y. / Christian Brothers Academy",
+      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/chris-mclaughlin/23938",
+      "imageUrl": "https://gocolumbialions.com/images/2026/9/29/CU361-0065.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "23938",
+      "sources": [
+        "Columbia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Chris McLaughlin looks like a INF/P option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FY / N/A",
+        "detailBadges": [
+          "INF/P",
+          "FY",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "Columbia Athletics roster"
+      }
+    },
+    {
+      "id": "columbia-23939",
+      "schoolSlug": "columbia",
+      "school": "Columbia",
+      "schoolLongName": "Columbia University-Barnard College",
+      "name": "Wyatt Raymond",
+      "normalizedName": "wyatt raymond",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "OF/1B",
+      "positionLong": "",
+      "classYear": "SR",
+      "handedness": "N/A",
+      "jersey": "43",
+      "hometown": "Charlottesville, Va.",
+      "highSchool": "St. Anne's-Belfield School",
+      "previousSchool": "Grinnell College",
+      "hometownHighSchool": "Charlottesville, Va. / St. Anne's-Belfield School",
+      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/wyatt-raymond/23939",
+      "imageUrl": "https://gocolumbialions.com/images/2026/9/29/CU361-0140.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "23939",
+      "sources": [
+        "Columbia Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Wyatt Raymond gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "SR / N/A",
+        "detailBadges": [
+          "OF/1B",
+          "SR",
+          "N/A",
+          "Rostered"
+        ],
+        "sourceSummary": "Columbia Athletics roster"
+      }
+    },
+    {
+      "id": "columbia-23940",
       "schoolSlug": "columbia",
       "school": "Columbia",
       "schoolLongName": "Columbia University-Barnard College",
@@ -4659,85 +3583,31 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
       "compositeRole": "Pitcher",
       "role": "Pitcher",
       "position": "RHP",
-      "positionLong": "RHP",
-      "classYear": "JR",
-      "handedness": "Columbia College",
+      "positionLong": "",
+      "classYear": "SR",
+      "handedness": "N/A",
       "jersey": "44",
       "hometown": "Cumming, Ga.",
       "highSchool": "South Forsyth",
       "previousSchool": "",
       "hometownHighSchool": "Cumming, Ga. / South Forsyth",
-      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/baylor-hicks/21711",
-      "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0097_xzXZ8.jpg",
+      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/baylor-hicks/23940",
+      "imageUrl": "https://gocolumbialions.com/images/2026/9/29/CU361-0103.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "21711",
+      "rosterBioId": "23940",
       "sources": [
-        "Columbia Athletics roster",
-        "Columbia cumulative stats"
+        "Columbia Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "21711",
-        "name": "Baylor Hicks",
-        "normalizedName": "baylor hicks",
-        "jersey": "44",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/baylor-hicks/21711",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0097_xzXZ8.jpg",
-        "gamesPlayed": 15,
-        "gamesStarted": 1,
-        "appearances": 15,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 8,
-        "whip": 1.81,
-        "wins": 1,
-        "losses": 4,
-        "saves": 1,
-        "shutouts": 0,
-        "inningsPitched": 27,
-        "inningsPitchedDisplay": "27.0",
-        "hitsAllowed": 35,
-        "runsAllowed": 31,
-        "earnedRunsAllowed": 24,
-        "walksAllowed": 14,
-        "strikeouts": 27,
-        "doublesAllowed": 9,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 111,
-        "wildPitches": 4,
-        "hitBatters": 3,
-        "balks": 0,
-        "opponentsBattingAverage": 0.315,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "21711",
-        "name": "Baylor Hicks",
-        "normalizedName": "baylor hicks",
-        "jersey": "44",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/baylor-hicks/21711",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0097_xzXZ8.jpg",
-        "gamesPlayed": 9,
-        "gamesStarted": 1,
-        "putouts": 2,
-        "assists": 7,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 5,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 9
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 12,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4745,54 +3615,54 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
-          "Command": 18.571428571428566,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Baylor Hicks looks like a RHP option who misses bats.",
+        "summary": "Baylor Hicks looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 8.00",
-          "WHIP 1.81",
-          "K/9 9.0"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "8.00"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.81"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "9.0"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "4.7"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "0.67"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "27.0"
+            "value": "0.0"
           }
         ],
-        "metaLine": "JR / Columbia College",
+        "metaLine": "SR / N/A",
         "detailBadges": [
           "RHP",
-          "JR",
-          "Columbia College",
+          "SR",
+          "N/A",
           "Pitcher"
         ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats"
+        "sourceSummary": "Columbia Athletics roster"
       }
     },
     {
-      "id": "columbia-21717",
+      "id": "columbia-23941",
       "schoolSlug": "columbia",
       "school": "Columbia",
       "schoolLongName": "Columbia University-Barnard College",
@@ -4801,85 +3671,31 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
       "compositeRole": "Pitcher",
       "role": "Pitcher",
       "position": "RHP",
-      "positionLong": "RHP",
-      "classYear": "SO",
-      "handedness": "Columbia College",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "N/A",
       "jersey": "45",
       "hometown": "Northern Beaches, New South Wales",
       "highSchool": "St Augustine’s College, Sydney",
       "previousSchool": "",
       "hometownHighSchool": "Northern Beaches, New South Wales / St Augustine’s College, Sydney",
-      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/dan-mills/21717",
-      "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0104_w9UbX.jpg",
+      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/dan-mills/23941",
+      "imageUrl": "https://gocolumbialions.com/images/2026/9/29/CU361-0044.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "21717",
+      "rosterBioId": "23941",
       "sources": [
-        "Columbia Athletics roster",
-        "Columbia cumulative stats"
+        "Columbia Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "21717",
-        "name": "Dan Mills",
-        "normalizedName": "dan mills",
-        "jersey": "45",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/dan-mills/21717",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0104_w9UbX.jpg",
-        "gamesPlayed": 8,
-        "gamesStarted": 0,
-        "appearances": 8,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 10.03,
-        "whip": 2.49,
-        "wins": 0,
-        "losses": 1,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 11.666666666666666,
-        "inningsPitchedDisplay": "11.2",
-        "hitsAllowed": 18,
-        "runsAllowed": 13,
-        "earnedRunsAllowed": 13,
-        "walksAllowed": 11,
-        "strikeouts": 10,
-        "doublesAllowed": 3,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 50,
-        "wildPitches": 0,
-        "hitBatters": 4,
-        "balks": 1,
-        "opponentsBattingAverage": 0.36,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "21717",
-        "name": "Dan Mills",
-        "normalizedName": "dan mills",
-        "jersey": "45",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/dan-mills/21717",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0104_w9UbX.jpg",
-        "gamesPlayed": 4,
-        "gamesStarted": 0,
-        "putouts": 0,
-        "assists": 3,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 1,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 3
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 7,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4887,173 +3703,116 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 33.76623376623377,
+          "Miss bats": 0,
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Dan Mills gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Dan Mills looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 10.03",
-          "WHIP 2.49",
-          "K/9 7.7"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "10.03"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "2.49"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "7.7"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "8.5"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.54"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "11.7"
+            "value": "0.0"
           }
         ],
-        "metaLine": "SO / Columbia College",
+        "metaLine": "JR / N/A",
         "detailBadges": [
           "RHP",
-          "SO",
-          "Columbia College",
+          "JR",
+          "N/A",
           "Pitcher"
         ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats"
+        "sourceSummary": "Columbia Athletics roster"
       }
     },
     {
-      "id": "columbia-21719",
+      "id": "columbia-23942",
       "schoolSlug": "columbia",
       "school": "Columbia",
       "schoolLongName": "Columbia University-Barnard College",
       "name": "Dean Reynolds",
       "normalizedName": "dean reynolds",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "OF",
-      "positionLong": "OF",
-      "classYear": "JR",
-      "handedness": "Columbia College",
+      "positionLong": "",
+      "classYear": "SR",
+      "handedness": "N/A",
       "jersey": "57",
       "hometown": "Orange, Texas",
       "highSchool": "Little Cypress-Mauriceville",
       "previousSchool": "",
       "hometownHighSchool": "Orange, Texas / Little Cypress-Mauriceville",
-      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/dean-reynolds/21719",
-      "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0102_LEBok.jpg",
+      "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/dean-reynolds/23942",
+      "imageUrl": "https://gocolumbialions.com/images/2026/9/29/CU361-0107.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "21719",
+      "rosterBioId": "23942",
       "sources": [
-        "Columbia Athletics roster",
-        "Columbia cumulative stats"
+        "Columbia Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "21719",
-        "name": "Dean Reynolds",
-        "normalizedName": "dean reynolds",
-        "jersey": "57",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/dean-reynolds/21719",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0102_LEBok.jpg",
-        "gamesPlayed": 12,
-        "gamesStarted": 3,
-        "battingAverage": 0.143,
-        "onBasePercentage": 0.5,
-        "sluggingPercentage": 0.286,
-        "ops": 0.786,
-        "atBats": 7,
-        "runs": 4,
-        "hits": 1,
-        "doubles": 1,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 1,
-        "totalBases": 2,
-        "walks": 3,
-        "hitByPitch": 2,
-        "strikeouts": 5,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 1,
-        "stolenBases": 2,
-        "stolenBasesAttempts": 2,
-        "putouts": 5,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 15,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "21719",
-        "name": "Dean Reynolds",
-        "normalizedName": "dean reynolds",
-        "jersey": "57",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/dean-reynolds/21719",
-        "imageUrl": "https://gocolumbialions.com/images/2025/9/29/CU238-0102_LEBok.jpg",
-        "gamesPlayed": 3,
-        "gamesStarted": 2,
-        "putouts": 5,
-        "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 5
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 39,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 100,
+          "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 44.444444444444436,
-          "Speed": 6.666666666666667
+          "Discipline": 0,
+          "Speed": 0
         },
-        "summary": "Dean Reynolds profiles as a OF piece who gets on base at a high clip.",
+        "summary": "Dean Reynolds gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .143",
-          "OBP .500",
-          "SLG .286"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".143"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".500"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".286"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -5061,64 +3820,64 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
           },
           {
             "label": "RBI",
-            "value": "1"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "2"
+            "value": "0"
           }
         ],
-        "metaLine": "JR / Columbia College",
+        "metaLine": "SR / N/A",
         "detailBadges": [
           "OF",
-          "JR",
-          "Columbia College",
-          "Hitter"
+          "SR",
+          "N/A",
+          "Rostered"
         ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats"
+        "sourceSummary": "Columbia Athletics roster"
       }
     }
   ],
   "playerBoard": {
     "source": "Columbia Athletics roster + cumulative stats / ESPN roster",
     "note": "This Columbia-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but Columbia's public ESPN roster feed did not line up cleanly with the current school-site roster.",
-    "totalPlayers": 37,
+    "totalPlayers": 42,
     "roleCounts": {
-      "Hitter": 17,
-      "Pitcher": 20
+      "Hitter": 19,
+      "Pitcher": 23
     },
     "players": [
       {
-        "id": "columbia-22351",
+        "id": "columbia-23892",
         "name": "Charlie Slabaugh",
         "school": "Columbia",
         "role": "Hitter",
         "position": "OF",
-        "classYear": "FY",
-        "handedness": "Columbia College",
-        "score": 22,
+        "classYear": "SO",
+        "handedness": "N/A",
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Charlie Slabaugh profiles as a OF piece who controls at-bats.",
+        "summary": "Charlie Slabaugh gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .208",
-          "OBP .326",
-          "SLG .264"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".208"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".326"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".264"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -5126,68 +3885,67 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
           },
           {
             "label": "RBI",
-            "value": "3"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "3"
+            "value": "0"
           }
         ],
         "components": {
-          "On-base": 25.555555555555546,
+          "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 88.88888888888889,
-          "Speed": 10
+          "Discipline": 0,
+          "Speed": 0
         },
-        "metaLine": "FY / Columbia College",
+        "metaLine": "SO / N/A",
         "detailBadges": [
           "OF",
-          "FY",
-          "Columbia College",
-          "Hitter"
+          "SO",
+          "N/A",
+          "Rostered"
         ],
         "leaderboards": [
-          "Columbia Athletics roster",
-          "Columbia cumulative stats"
+          "Columbia Athletics roster"
         ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats",
+        "sourceSummary": "Columbia Athletics roster",
         "schoolSlug": "columbia",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/charlie-slabaugh/22351",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/charlie-slabaugh/23892",
         "espnAthleteId": ""
       },
       {
-        "id": "columbia-22343",
+        "id": "columbia-23894",
         "name": "Jaden Santiago",
         "school": "Columbia",
         "role": "Hitter",
         "position": "C/INF",
-        "classYear": "FY",
-        "handedness": "Columbia College",
-        "score": 75,
+        "classYear": "SO",
+        "handedness": "N/A",
+        "score": 0,
         "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
+          "label": "Depth",
+          "className": "fit-depth"
         },
-        "summary": "Jaden Santiago profiles as a C/INF piece who gets on base at a high clip and controls at-bats.",
+        "summary": "Jaden Santiago gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .500",
-          "OBP .667",
-          "SLG .500"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".500"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".667"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".500"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -5203,175 +3961,172 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
           }
         ],
         "components": {
-          "On-base": 100,
-          "Power": 47.36842105263158,
-          "Contact": 100,
-          "Discipline": 88.88888888888889,
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "FY / Columbia College",
+        "metaLine": "SO / N/A",
         "detailBadges": [
           "C/INF",
-          "FY",
-          "Columbia College",
-          "Hitter"
+          "SO",
+          "N/A",
+          "Rostered"
         ],
         "leaderboards": [
-          "Columbia Athletics roster",
-          "Columbia cumulative stats"
+          "Columbia Athletics roster"
         ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats",
+        "sourceSummary": "Columbia Athletics roster",
         "schoolSlug": "columbia",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/jaden-santiago/22343",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/jaden-santiago/23894",
         "espnAthleteId": ""
       },
       {
-        "id": "columbia-21708",
-        "name": "Cole Fellows",
+        "id": "columbia-23895",
+        "name": "Luc Gaca Thiele",
         "school": "Columbia",
         "role": "Hitter",
-        "position": "OF/1B",
-        "classYear": "SR",
-        "handedness": "Columbia College",
-        "score": 61,
+        "position": "INF",
+        "classYear": "FY",
+        "handedness": "N/A",
+        "score": 0,
         "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
+          "label": "Depth",
+          "className": "fit-depth"
         },
-        "summary": "Cole Fellows profiles as a OF/1B piece who gets on base at a high clip and brings real extra-base damage.",
+        "summary": "Luc Gaca Thiele gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .325",
-          "OBP .408",
-          "SLG .566"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".325"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".408"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".566"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "8"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "36"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "3"
+            "value": "0"
           }
         ],
         "components": {
-          "On-base": 71.11111111111109,
-          "Power": 64.73684210526315,
-          "Contact": 65.625,
-          "Discipline": 60.08230452674896,
-          "Speed": 10
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "metaLine": "SR / Columbia College",
+        "metaLine": "FY / N/A",
         "detailBadges": [
-          "OF/1B",
-          "SR",
-          "Columbia College",
-          "Hitter"
+          "INF",
+          "FY",
+          "N/A",
+          "Rostered"
         ],
         "leaderboards": [
-          "Columbia Athletics roster",
-          "Columbia cumulative stats"
+          "Columbia Athletics roster"
         ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats",
+        "sourceSummary": "Columbia Athletics roster",
         "schoolSlug": "columbia",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/cole-fellows/21708",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/luc-gaca-thiele/23895",
         "espnAthleteId": ""
       },
       {
-        "id": "columbia-21722",
+        "id": "columbia-23896",
         "name": "Hunter Snyder",
         "school": "Columbia",
         "role": "Hitter",
         "position": "INF",
-        "classYear": "JR",
-        "handedness": "Columbia College",
-        "score": 41,
+        "classYear": "SR",
+        "handedness": "N/A",
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Hunter Snyder gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .298",
-          "OBP .398",
-          "SLG .412"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".298"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".398"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".412"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "2"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "18"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "2"
+            "value": "0"
           }
         ],
         "components": {
-          "On-base": 65.55555555555556,
-          "Power": 24.21052631578947,
-          "Contact": 48.749999999999986,
-          "Discipline": 33.33333333333333,
-          "Speed": 6.666666666666667
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "metaLine": "JR / Columbia College",
+        "metaLine": "SR / N/A",
         "detailBadges": [
           "INF",
-          "JR",
-          "Columbia College",
-          "Hitter"
+          "SR",
+          "N/A",
+          "Rostered"
         ],
         "leaderboards": [
-          "Columbia Athletics roster",
-          "Columbia cumulative stats"
+          "Columbia Athletics roster"
         ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats",
+        "sourceSummary": "Columbia Athletics roster",
         "schoolSlug": "columbia",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/hunter-snyder/21722",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/hunter-snyder/23896",
         "espnAthleteId": ""
       },
       {
-        "id": "columbia-22346",
+        "id": "columbia-23897",
         "name": "Amare Burrus",
         "school": "Columbia",
         "role": "Hitter",
         "position": "OF",
-        "classYear": "FY",
-        "handedness": "Fu Foundation School of Engineering and Applied Science",
+        "classYear": "SO",
+        "handedness": "N/A",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -5416,11 +4171,11 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "FY / Fu Foundation School of Engineering and Applied Science",
+        "metaLine": "SO / N/A",
         "detailBadges": [
           "OF",
-          "FY",
-          "Fu Foundation School of Engineering and Applied Science",
+          "SO",
+          "N/A",
           "Rostered"
         ],
         "leaderboards": [
@@ -5429,362 +4184,357 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "sourceSummary": "Columbia Athletics roster",
         "schoolSlug": "columbia",
         "compositeRole": "Rostered",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/amare-burrus/22346",
+        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/amare-burrus/23897",
         "espnAthleteId": ""
       },
       {
-        "id": "columbia-21714",
-        "name": "Jack Kail",
+        "id": "columbia-23898",
+        "name": "Will Bercaw",
         "school": "Columbia",
         "role": "Hitter",
         "position": "INF",
-        "classYear": "SR",
-        "handedness": "Columbia College",
-        "score": 58,
-        "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
-        },
-        "summary": "Jack Kail profiles as a INF piece who controls at-bats.",
-        "summaryMetrics": [
-          "AVG .337",
-          "OBP .388",
-          "SLG .462"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".337"
-          },
-          {
-            "label": "OBP",
-            "value": ".388"
-          },
-          {
-            "label": "SLG",
-            "value": ".462"
-          },
-          {
-            "label": "HR",
-            "value": "2"
-          },
-          {
-            "label": "RBI",
-            "value": "37"
-          },
-          {
-            "label": "SB",
-            "value": "7"
-          }
-        ],
-        "components": {
-          "On-base": 60,
-          "Power": 37.36842105263159,
-          "Contact": 73.125,
-          "Discipline": 100,
-          "Speed": 23.333333333333332
-        },
-        "metaLine": "SR / Columbia College",
-        "detailBadges": [
-          "INF",
-          "SR",
-          "Columbia College",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Columbia Athletics roster",
-          "Columbia cumulative stats"
-        ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats",
-        "schoolSlug": "columbia",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/jack-kail/21714",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "columbia-21710",
-        "name": "Will Harrigan",
-        "school": "Columbia",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "Columbia College",
-        "score": 8,
+        "classYear": "FY",
+        "handedness": "N/A",
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Will Harrigan gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Will Bercaw gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 9.00",
-          "WHIP 2.27",
-          "K/9 8.5"
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FY / N/A",
+        "detailBadges": [
+          "INF",
+          "FY",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Columbia Athletics roster"
+        ],
+        "sourceSummary": "Columbia Athletics roster",
+        "schoolSlug": "columbia",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/will-bercaw/23898",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "columbia-23899",
+        "name": "Will Harrigan",
+        "school": "Columbia",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Will Harrigan looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "9.00"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "2.27"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "8.5"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "7.9"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "0.82"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "33.0"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 40.49586776859505,
-          "Command": 1.379310344827589,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "JR / Columbia College",
+        "metaLine": "SR / N/A",
         "detailBadges": [
           "RHP",
-          "JR",
-          "Columbia College",
+          "SR",
+          "N/A",
           "Pitcher"
         ],
         "leaderboards": [
-          "Columbia Athletics roster",
-          "Columbia cumulative stats"
+          "Columbia Athletics roster"
         ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats",
+        "sourceSummary": "Columbia Athletics roster",
         "schoolSlug": "columbia",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/will-harrigan/21710",
+        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/will-harrigan/23899",
         "espnAthleteId": ""
       },
       {
-        "id": "columbia-21725",
+        "id": "columbia-23900",
         "name": "Anthony Temesvary",
         "school": "Columbia",
         "role": "Hitter",
-        "position": "C/INF",
-        "classYear": "SO",
-        "handedness": "Columbia College",
-        "score": 36,
+        "position": "C/3B",
+        "classYear": "JR",
+        "handedness": "N/A",
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Anthony Temesvary gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .295",
-          "OBP .362",
-          "SLG .442"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".295"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".362"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".442"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "4"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "34"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "3"
+            "value": "0"
           }
         ],
         "components": {
-          "On-base": 45.555555555555536,
-          "Power": 32.10526315789474,
-          "Contact": 46.874999999999986,
-          "Discipline": 26.388888888888886,
-          "Speed": 10
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "metaLine": "SO / Columbia College",
+        "metaLine": "JR / N/A",
         "detailBadges": [
-          "C/INF",
-          "SO",
-          "Columbia College",
-          "Hitter"
+          "C/3B",
+          "JR",
+          "N/A",
+          "Rostered"
         ],
         "leaderboards": [
-          "Columbia Athletics roster",
-          "Columbia cumulative stats"
+          "Columbia Athletics roster"
         ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats",
+        "sourceSummary": "Columbia Athletics roster",
         "schoolSlug": "columbia",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/anthony-temesvary/21725",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/anthony-temesvary/23900",
         "espnAthleteId": ""
       },
       {
-        "id": "columbia-22350",
+        "id": "columbia-23901",
         "name": "Koby Seelig",
         "school": "Columbia",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "FY",
-        "handedness": "Columbia College",
-        "score": 3,
+        "classYear": "SO",
+        "handedness": "N/A",
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Koby Seelig gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Koby Seelig looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 12.96",
-          "WHIP 2.76",
-          "K/9 5.4"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "12.96"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "2.76"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "5.4"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "16.2"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "2.16"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "8.3"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 12.727272727272723,
+          "Miss bats": 0,
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "FY / Columbia College",
+        "metaLine": "SO / N/A",
         "detailBadges": [
           "RHP",
-          "FY",
-          "Columbia College",
+          "SO",
+          "N/A",
           "Pitcher"
         ],
         "leaderboards": [
-          "Columbia Athletics roster",
-          "Columbia cumulative stats"
+          "Columbia Athletics roster"
         ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats",
+        "sourceSummary": "Columbia Athletics roster",
         "schoolSlug": "columbia",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/koby-seelig/22350",
+        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/koby-seelig/23901",
         "espnAthleteId": ""
       },
       {
-        "id": "columbia-21704",
+        "id": "columbia-23902",
         "name": "Jackson Brewer",
         "school": "Columbia",
         "role": "Hitter",
         "position": "OF/1B",
-        "classYear": "SO",
-        "handedness": "Fu Foundation School of Engineering and Applied Science",
-        "score": 16,
+        "classYear": "JR",
+        "handedness": "N/A",
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Jackson Brewer gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .232",
-          "OBP .307",
-          "SLG .442"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".232"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".307"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".442"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "7"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "30"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "3"
+            "value": "0"
           }
         ],
         "components": {
-          "On-base": 14.999999999999982,
-          "Power": 32.10526315789474,
-          "Contact": 7.500000000000007,
-          "Discipline": 1.5873015873015843,
-          "Speed": 10
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "metaLine": "SO / Fu Foundation School of Engineering and Applied Science",
+        "metaLine": "JR / N/A",
         "detailBadges": [
           "OF/1B",
-          "SO",
-          "Fu Foundation School of Engineering and Applied Science",
-          "Hitter"
+          "JR",
+          "N/A",
+          "Rostered"
         ],
         "leaderboards": [
-          "Columbia Athletics roster",
-          "Columbia cumulative stats"
+          "Columbia Athletics roster"
         ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats",
+        "sourceSummary": "Columbia Athletics roster",
         "schoolSlug": "columbia",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/jackson-brewer/21704",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/jackson-brewer/23902",
         "espnAthleteId": ""
       },
       {
-        "id": "columbia-21703",
+        "id": "columbia-23903",
         "name": "Justin Bowman",
         "school": "Columbia",
         "role": "Pitcher",
         "position": "LHP",
-        "classYear": "JR",
-        "handedness": "Fu Foundation School of Engineering and Applied Science",
+        "classYear": "SR",
+        "handedness": "N/A",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -5829,11 +4579,11 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "JR / Fu Foundation School of Engineering and Applied Science",
+        "metaLine": "SR / N/A",
         "detailBadges": [
           "LHP",
-          "JR",
-          "Fu Foundation School of Engineering and Applied Science",
+          "SR",
+          "N/A",
           "Pitcher"
         ],
         "leaderboards": [
@@ -5842,155 +4592,153 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "sourceSummary": "Columbia Athletics roster",
         "schoolSlug": "columbia",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/justin-bowman/21703",
+        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/justin-bowman/23903",
         "espnAthleteId": ""
       },
       {
-        "id": "columbia-21712",
+        "id": "columbia-23904",
         "name": "Ray Huke",
         "school": "Columbia",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "SO",
-        "handedness": "Columbia College",
+        "classYear": "JR",
+        "handedness": "N/A",
         "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Ray Huke gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Ray Huke looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 8.31",
-          "WHIP 2.49",
-          "K/9 4.2"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "8.31"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "2.49"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "4.2"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "6.6"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "0.83"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "21.7"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 1.3986013986013937,
+          "Miss bats": 0,
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SO / Columbia College",
+        "metaLine": "JR / N/A",
         "detailBadges": [
           "RHP",
-          "SO",
-          "Columbia College",
+          "JR",
+          "N/A",
           "Pitcher"
         ],
         "leaderboards": [
-          "Columbia Athletics roster",
-          "Columbia cumulative stats"
+          "Columbia Athletics roster"
         ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats",
+        "sourceSummary": "Columbia Athletics roster",
         "schoolSlug": "columbia",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/ray-huke/21712",
+        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/ray-huke/23904",
         "espnAthleteId": ""
       },
       {
-        "id": "columbia-21705",
+        "id": "columbia-23905",
         "name": "Jimmy Chadwell",
         "school": "Columbia",
         "role": "Hitter",
         "position": "INF",
-        "classYear": "SO",
-        "handedness": "Columbia College",
-        "score": 48,
+        "classYear": "JR",
+        "handedness": "N/A",
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Jimmy Chadwell profiles as a INF piece who gets on base at a high clip.",
+        "summary": "Jimmy Chadwell gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .308",
-          "OBP .409",
-          "SLG .391"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".308"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".409"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".391"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "1"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "17"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "2"
+            "value": "0"
           }
         ],
         "components": {
-          "On-base": 71.66666666666664,
-          "Power": 18.684210526315795,
-          "Contact": 54.99999999999999,
-          "Discipline": 69.7318007662835,
-          "Speed": 6.666666666666667
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "metaLine": "SO / Columbia College",
+        "metaLine": "JR / N/A",
         "detailBadges": [
           "INF",
-          "SO",
-          "Columbia College",
-          "Hitter"
+          "JR",
+          "N/A",
+          "Rostered"
         ],
         "leaderboards": [
-          "Columbia Athletics roster",
-          "Columbia cumulative stats"
+          "Columbia Athletics roster"
         ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats",
+        "sourceSummary": "Columbia Athletics roster",
         "schoolSlug": "columbia",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/jimmy-chadwell/21705",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/jimmy-chadwell/23905",
         "espnAthleteId": ""
       },
       {
-        "id": "columbia-22344",
+        "id": "columbia-23906",
         "name": "Collin Park",
         "school": "Columbia",
         "role": "Pitcher",
         "position": "LHP",
-        "classYear": "FY",
-        "handedness": "Columbia College",
+        "classYear": "SO",
+        "handedness": "N/A",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -6035,11 +4783,11 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "FY / Columbia College",
+        "metaLine": "SO / N/A",
         "detailBadges": [
           "LHP",
-          "FY",
-          "Columbia College",
+          "SO",
+          "N/A",
           "Pitcher"
         ],
         "leaderboards": [
@@ -6048,40 +4796,108 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "sourceSummary": "Columbia Athletics roster",
         "schoolSlug": "columbia",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/collin-park/22344",
+        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/collin-park/23906",
         "espnAthleteId": ""
       },
       {
-        "id": "columbia-21709",
+        "id": "columbia-23907",
+        "name": "Xavien Suero",
+        "school": "Columbia",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "FY",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Xavien Suero looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FY / N/A",
+        "detailBadges": [
+          "RHP",
+          "FY",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Columbia Athletics roster"
+        ],
+        "sourceSummary": "Columbia Athletics roster",
+        "schoolSlug": "columbia",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/xavien-suero/23907",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "columbia-23908",
         "name": "Ben Fishel",
         "school": "Columbia",
         "role": "Hitter",
         "position": "OF",
-        "classYear": "SO",
-        "handedness": "Columbia College",
-        "score": 30,
+        "classYear": "JR",
+        "handedness": "N/A",
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Ben Fishel gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .264",
-          "OBP .371",
-          "SLG .304"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".264"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".371"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".304"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -6089,45 +4905,44 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
           },
           {
             "label": "RBI",
-            "value": "16"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "5"
+            "value": "0"
           }
         ],
         "components": {
-          "On-base": 50.55555555555554,
+          "On-base": 0,
           "Power": 0,
-          "Contact": 27.500000000000007,
-          "Discipline": 50.241545893719795,
-          "Speed": 16.666666666666664
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "metaLine": "SO / Columbia College",
+        "metaLine": "JR / N/A",
         "detailBadges": [
           "OF",
-          "SO",
-          "Columbia College",
-          "Hitter"
+          "JR",
+          "N/A",
+          "Rostered"
         ],
         "leaderboards": [
-          "Columbia Athletics roster",
-          "Columbia cumulative stats"
+          "Columbia Athletics roster"
         ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats",
+        "sourceSummary": "Columbia Athletics roster",
         "schoolSlug": "columbia",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/ben-fishel/21709",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/ben-fishel/23908",
         "espnAthleteId": ""
       },
       {
-        "id": "columbia-22345",
+        "id": "columbia-23909",
         "name": "Tyler Adamo",
         "school": "Columbia",
         "role": "Hitter",
         "position": "INF",
-        "classYear": "FY",
-        "handedness": "Columbia College",
+        "classYear": "SO",
+        "handedness": "N/A",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -6172,11 +4987,11 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "FY / Columbia College",
+        "metaLine": "SO / N/A",
         "detailBadges": [
           "INF",
-          "FY",
-          "Columbia College",
+          "SO",
+          "N/A",
           "Rostered"
         ],
         "leaderboards": [
@@ -6185,105 +5000,36 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "sourceSummary": "Columbia Athletics roster",
         "schoolSlug": "columbia",
         "compositeRole": "Rostered",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/tyler-adamo/22345",
+        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/tyler-adamo/23909",
         "espnAthleteId": ""
       },
       {
-        "id": "columbia-22352",
+        "id": "columbia-23918",
         "name": "Jake Taylor",
         "school": "Columbia",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "FY",
-        "handedness": "Columbia College",
-        "score": 9,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jake Taylor looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 18.00",
-          "WHIP 3.00",
-          "K/9 9.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "18.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "3.00"
-          },
-          {
-            "label": "K/9",
-            "value": "9.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "9.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "3.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "FY / Columbia College",
-        "detailBadges": [
-          "RHP",
-          "FY",
-          "Columbia College",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Columbia Athletics roster",
-          "Columbia cumulative stats"
-        ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats",
-        "schoolSlug": "columbia",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/jake-taylor/22352",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "columbia-21728",
-        "name": "Martin Zhang",
-        "school": "Columbia",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "SR",
-        "handedness": "Columbia College",
+        "classYear": "SO",
+        "handedness": "N/A",
         "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Martin Zhang gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Jake Taylor looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 13.50",
-          "WHIP 2.25",
+          "ERA --",
+          "WHIP --",
           "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "13.50"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "2.25"
+            "value": "--"
           },
           {
             "label": "K/9",
@@ -6291,15 +5037,15 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
           },
           {
             "label": "BB/9",
-            "value": "13.5"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "6.75"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "1.3"
+            "value": "0.0"
           }
         ],
         "components": {
@@ -6309,100 +5055,166 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SR / Columbia College",
+        "metaLine": "SO / N/A",
         "detailBadges": [
-          "LHP",
-          "SR",
-          "Columbia College",
+          "RHP",
+          "SO",
+          "N/A",
           "Pitcher"
         ],
         "leaderboards": [
-          "Columbia Athletics roster",
-          "Columbia cumulative stats"
+          "Columbia Athletics roster"
         ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats",
+        "sourceSummary": "Columbia Athletics roster",
         "schoolSlug": "columbia",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/martin-zhang/21728",
+        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/jake-taylor/23918",
         "espnAthleteId": ""
       },
       {
-        "id": "columbia-21716",
-        "name": "Tomas Lopez",
+        "id": "columbia-23919",
+        "name": "Jack Freehill",
         "school": "Columbia",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "Columbia College",
-        "score": 7,
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "FY",
+        "handedness": "N/A",
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Tomas Lopez looks like a RHP option who limits runs.",
+        "summary": "Jack Freehill gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 3.06",
-          "WHIP 1.30",
-          "K/9 6.6"
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FY / N/A",
+        "detailBadges": [
+          "INF",
+          "FY",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Columbia Athletics roster"
+        ],
+        "sourceSummary": "Columbia Athletics roster",
+        "schoolSlug": "columbia",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/jack-freehill/23919",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "columbia-23920",
+        "name": "Tomas Lopez",
+        "school": "Columbia",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Tomas Lopez looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.06"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.30"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "6.6"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "4.1"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.53"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "17.7"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 23.84219554030874,
-          "Command": 12.499999999999996,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "JR / Columbia College",
+        "metaLine": "SR / N/A",
         "detailBadges": [
           "RHP",
-          "JR",
-          "Columbia College",
+          "SR",
+          "N/A",
           "Pitcher"
         ],
         "leaderboards": [
-          "Columbia Athletics roster",
-          "Columbia cumulative stats"
+          "Columbia Athletics roster"
         ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats",
+        "sourceSummary": "Columbia Athletics roster",
         "schoolSlug": "columbia",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/tomas-lopez/21716",
+        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/tomas-lopez/23920",
         "espnAthleteId": ""
       },
       {
-        "id": "columbia-22347",
+        "id": "columbia-23921",
         "name": "Henrik Conniff",
         "school": "Columbia",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "FY",
-        "handedness": "Columbia College",
+        "classYear": "SO",
+        "handedness": "N/A",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -6447,11 +5259,11 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "FY / Columbia College",
+        "metaLine": "SO / N/A",
         "detailBadges": [
           "RHP",
-          "FY",
-          "Columbia College",
+          "SO",
+          "N/A",
           "Pitcher"
         ],
         "leaderboards": [
@@ -6460,224 +5272,221 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "sourceSummary": "Columbia Athletics roster",
         "schoolSlug": "columbia",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/henrik-conniff/22347",
+        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/henrik-conniff/23921",
         "espnAthleteId": ""
       },
       {
-        "id": "columbia-22342",
+        "id": "columbia-23922",
         "name": "Jack Korthas",
         "school": "Columbia",
         "role": "Pitcher",
         "position": "LHP",
-        "classYear": "FY",
-        "handedness": "Columbia College",
-        "score": 3,
+        "classYear": "SO",
+        "handedness": "N/A",
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Jack Korthas gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Jack Korthas looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 8.84",
-          "WHIP 1.85",
-          "K/9 5.9"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "8.84"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.85"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "5.9"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "7.9"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.47"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "18.3"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 17.190082644628106,
+          "Miss bats": 0,
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "FY / Columbia College",
+        "metaLine": "SO / N/A",
         "detailBadges": [
           "LHP",
-          "FY",
-          "Columbia College",
+          "SO",
+          "N/A",
           "Pitcher"
         ],
         "leaderboards": [
-          "Columbia Athletics roster",
-          "Columbia cumulative stats"
+          "Columbia Athletics roster"
         ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats",
+        "sourceSummary": "Columbia Athletics roster",
         "schoolSlug": "columbia",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/jack-korthas/22342",
+        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/jack-korthas/23922",
         "espnAthleteId": ""
       },
       {
-        "id": "columbia-21723",
-        "name": "Payton Soske",
+        "id": "columbia-23923",
+        "name": "Selden Kolkebeck",
         "school": "Columbia",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "JR",
-        "handedness": "Columbia College",
-        "score": 22,
+        "classYear": "FY",
+        "handedness": "N/A",
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Payton Soske looks like a RHP option who limits runs and misses bats and keeps traffic under control.",
+        "summary": "Selden Kolkebeck looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 3.26",
-          "WHIP 1.19",
-          "K/9 12.1"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.26"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.19"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "12.1"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "3.7"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "0.47"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "19.3"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 73.6677115987461,
-          "Command": 45,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "JR / Columbia College",
+        "metaLine": "FY / N/A",
         "detailBadges": [
           "RHP",
-          "JR",
-          "Columbia College",
+          "FY",
+          "N/A",
           "Pitcher"
         ],
         "leaderboards": [
-          "Columbia Athletics roster",
-          "Columbia cumulative stats"
+          "Columbia Athletics roster"
         ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats",
+        "sourceSummary": "Columbia Athletics roster",
         "schoolSlug": "columbia",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/payton-soske/21723",
+        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/selden-kolkebeck/23923",
         "espnAthleteId": ""
       },
       {
-        "id": "columbia-21727",
+        "id": "columbia-23924",
         "name": "Tate Vogler",
         "school": "Columbia",
         "role": "Hitter",
         "position": "INF",
-        "classYear": "SO",
-        "handedness": "Columbia College",
-        "score": 21,
+        "classYear": "JR",
+        "handedness": "N/A",
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Tate Vogler gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .250",
-          "OBP .326",
-          "SLG .392"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".250"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".326"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".392"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "4"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "14"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "1"
+            "value": "0"
           }
         ],
         "components": {
-          "On-base": 25.555555555555546,
-          "Power": 18.947368421052634,
-          "Contact": 18.75,
-          "Discipline": 29.059829059829056,
-          "Speed": 3.3333333333333335
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "metaLine": "SO / Columbia College",
+        "metaLine": "JR / N/A",
         "detailBadges": [
           "INF",
-          "SO",
-          "Columbia College",
-          "Hitter"
+          "JR",
+          "N/A",
+          "Rostered"
         ],
         "leaderboards": [
-          "Columbia Athletics roster",
-          "Columbia cumulative stats"
+          "Columbia Athletics roster"
         ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats",
+        "sourceSummary": "Columbia Athletics roster",
         "schoolSlug": "columbia",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/tate-vogler/21727",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/tate-vogler/23924",
         "espnAthleteId": ""
       },
       {
-        "id": "columbia-22349",
+        "id": "columbia-23925",
         "name": "Brandon Rovinelli",
         "school": "Columbia",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "FY",
-        "handedness": "Columbia College",
+        "classYear": "SO",
+        "handedness": "N/A",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -6722,11 +5531,11 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "FY / Columbia College",
+        "metaLine": "SO / N/A",
         "detailBadges": [
           "RHP",
-          "FY",
-          "Columbia College",
+          "SO",
+          "N/A",
           "Pitcher"
         ],
         "leaderboards": [
@@ -6735,523 +5544,40 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
         "sourceSummary": "Columbia Athletics roster",
         "schoolSlug": "columbia",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/brandon-rovinelli/22349",
+        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/brandon-rovinelli/23925",
         "espnAthleteId": ""
       },
       {
-        "id": "columbia-21715",
-        "name": "Evan Kleinhans",
+        "id": "columbia-23926",
+        "name": "Sam Wildfong",
         "school": "Columbia",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "SR",
-        "handedness": "Columbia College",
-        "score": 13,
+        "classYear": "FY",
+        "handedness": "N/A",
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Evan Kleinhans looks like a RHP option who throws enough strikes.",
+        "summary": "Sam Wildfong looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 4.44",
-          "WHIP 1.40",
-          "K/9 7.4"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.44"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.40"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "7.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "2.4"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.37"
-          },
-          {
-            "label": "IP",
-            "value": "48.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 30.884184308841846,
-          "Command": 41.53846153846154,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / Columbia College",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "Columbia College",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Columbia Athletics roster",
-          "Columbia cumulative stats"
-        ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats",
-        "schoolSlug": "columbia",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/evan-kleinhans/21715",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "columbia-21718",
-        "name": "Brendan Murphy",
-        "school": "Columbia",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "SO",
-        "handedness": "Columbia College",
-        "score": 8,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Brendan Murphy gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 5.53",
-          "WHIP 1.52",
-          "K/9 6.5"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.53"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.52"
-          },
-          {
-            "label": "K/9",
-            "value": "6.5"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.3"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.30"
-          },
-          {
-            "label": "IP",
-            "value": "27.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 22.782037239868565,
-          "Command": 20,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / Columbia College",
-        "detailBadges": [
-          "LHP",
-          "SO",
-          "Columbia College",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Columbia Athletics roster",
-          "Columbia cumulative stats"
-        ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats",
-        "schoolSlug": "columbia",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/brendan-murphy/21718",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "columbia-21720",
-        "name": "Thomas Santana",
-        "school": "Columbia",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "Columbia College",
-        "score": 9,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Thomas Santana gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 5.28",
-          "WHIP 1.53",
-          "K/9 7.7"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "5.28"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.53"
-          },
-          {
-            "label": "K/9",
-            "value": "7.7"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.4"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.21"
-          },
-          {
-            "label": "IP",
-            "value": "59.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 33.57034027425089,
-          "Command": 15.17241379310345,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / Columbia College",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "Columbia College",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Columbia Athletics roster",
-          "Columbia cumulative stats"
-        ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats",
-        "schoolSlug": "columbia",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/thomas-santana/21720",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "columbia-21724",
-        "name": "Alex Sotiropoulos",
-        "school": "Columbia",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "Fu Foundation School of Engineering and Applied Science",
-        "score": 7,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Alex Sotiropoulos gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 6.57",
-          "WHIP 1.64",
-          "K/9 7.4"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "6.57"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.64"
-          },
-          {
-            "label": "K/9",
-            "value": "7.4"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.7"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.73"
-          },
-          {
-            "label": "IP",
-            "value": "61.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 31.3022113022113,
-          "Command": 6.153846153846154,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / Fu Foundation School of Engineering and Applied Science",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "Fu Foundation School of Engineering and Applied Science",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Columbia Athletics roster",
-          "Columbia cumulative stats"
-        ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats",
-        "schoolSlug": "columbia",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/alex-sotiropoulos/21724",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "columbia-22348",
-        "name": "Jack McWilliams",
-        "school": "Columbia",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "SO",
-        "handedness": "Columbia College",
-        "score": 78,
-        "fit": {
-          "label": "Pursue",
-          "className": "fit-pursue"
-        },
-        "summary": "Jack McWilliams profiles as a OF piece who gets on base at a high clip and brings real extra-base damage.",
-        "summaryMetrics": [
-          "AVG .500",
-          "OBP .545",
-          "SLG 1.100"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".500"
-          },
-          {
-            "label": "OBP",
-            "value": ".545"
-          },
-          {
-            "label": "SLG",
-            "value": "1.100"
-          },
-          {
-            "label": "HR",
-            "value": "2"
-          },
-          {
-            "label": "RBI",
-            "value": "4"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 100,
-          "Power": 100,
-          "Contact": 100,
-          "Discipline": 14.814814814814808,
-          "Speed": 0
-        },
-        "metaLine": "SO / Columbia College",
-        "detailBadges": [
-          "OF",
-          "SO",
-          "Columbia College",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Columbia Athletics roster",
-          "Columbia cumulative stats"
-        ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats",
-        "schoolSlug": "columbia",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/jack-mcwilliams/22348",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "columbia-21707",
-        "name": "Owen Estabrook",
-        "school": "Columbia",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "JR",
-        "handedness": "Columbia College",
-        "score": 28,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Owen Estabrook gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .207",
-          "OBP .357",
-          "SLG .356"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".207"
-          },
-          {
-            "label": "OBP",
-            "value": ".357"
-          },
-          {
-            "label": "SLG",
-            "value": ".356"
-          },
-          {
-            "label": "HR",
-            "value": "5"
-          },
-          {
-            "label": "RBI",
-            "value": "23"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 42.77777777777775,
-          "Power": 9.47368421052631,
-          "Contact": 0,
-          "Discipline": 81.72043010752685,
-          "Speed": 0
-        },
-        "metaLine": "JR / Columbia College",
-        "detailBadges": [
-          "C",
-          "JR",
-          "Columbia College",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Columbia Athletics roster",
-          "Columbia cumulative stats"
-        ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats",
-        "schoolSlug": "columbia",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/owen-estabrook/21707",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "columbia-21713",
-        "name": "Lucas Jackson",
-        "school": "Columbia",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "JR",
-        "handedness": "Columbia College",
-        "score": 10,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Lucas Jackson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .229",
-          "OBP .316",
-          "SLG .271"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".229"
-          },
-          {
-            "label": "OBP",
-            "value": ".316"
-          },
-          {
-            "label": "SLG",
-            "value": ".271"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "5"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 19.999999999999986,
-          "Power": 0,
-          "Contact": 5.625000000000005,
-          "Discipline": 16.993464052287578,
-          "Speed": 0
-        },
-        "metaLine": "JR / Columbia College",
-        "detailBadges": [
-          "C",
-          "JR",
-          "Columbia College",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Columbia Athletics roster",
-          "Columbia cumulative stats"
-        ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats",
-        "schoolSlug": "columbia",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/lucas-jackson/21713",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "columbia-21706",
-        "name": "Lucas Dixon",
-        "school": "Columbia",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "Columbia College",
-        "score": 25,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Lucas Dixon looks like a RHP option who limits runs and misses bats and throws enough strikes and keeps traffic under control.",
-        "summaryMetrics": [
-          "ERA 0.00",
-          "WHIP 1.00",
-          "K/9 9.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "0.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.00"
-          },
-          {
-            "label": "K/9",
-            "value": "9.0"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
@@ -7263,68 +5589,67 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
           },
           {
             "label": "IP",
-            "value": "1.0"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
-          "Command": 100,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "JR / Columbia College",
+        "metaLine": "FY / N/A",
         "detailBadges": [
           "RHP",
-          "JR",
-          "Columbia College",
+          "FY",
+          "N/A",
           "Pitcher"
         ],
         "leaderboards": [
-          "Columbia Athletics roster",
-          "Columbia cumulative stats"
+          "Columbia Athletics roster"
         ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats",
+        "sourceSummary": "Columbia Athletics roster",
         "schoolSlug": "columbia",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/lucas-dixon/21706",
+        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/sam-wildfong/23926",
         "espnAthleteId": ""
       },
       {
-        "id": "columbia-21702",
-        "name": "Andrew Argenziano",
+        "id": "columbia-23927",
+        "name": "Brendan Murphy",
         "school": "Columbia",
         "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "Columbia College",
-        "score": 9,
+        "position": "LHP",
+        "classYear": "JR",
+        "handedness": "N/A",
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Andrew Argenziano looks like a RHP option who misses bats.",
+        "summary": "Brendan Murphy looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 9.00",
-          "WHIP 3.50",
-          "K/9 9.0"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "9.00"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "3.50"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "9.0"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "13.5"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
@@ -7332,64 +5657,267 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
           },
           {
             "label": "IP",
-            "value": "2.0"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
+          "Miss bats": 0,
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SR / Columbia College",
+        "metaLine": "JR / N/A",
         "detailBadges": [
-          "RHP",
-          "SR",
-          "Columbia College",
+          "LHP",
+          "JR",
+          "N/A",
           "Pitcher"
         ],
         "leaderboards": [
-          "Columbia Athletics roster",
-          "Columbia cumulative stats"
+          "Columbia Athletics roster"
         ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats",
+        "sourceSummary": "Columbia Athletics roster",
         "schoolSlug": "columbia",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/andrew-argenziano/21702",
+        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/brendan-murphy/23927",
         "espnAthleteId": ""
       },
       {
-        "id": "columbia-21721",
-        "name": "Ben Seminara",
+        "id": "columbia-23928",
+        "name": "Connor Couch",
         "school": "Columbia",
-        "role": "Hitter",
-        "position": "INF/OF",
-        "classYear": "SR",
-        "handedness": "Columbia College",
-        "score": 5,
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "FY",
+        "handedness": "N/A",
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Ben Seminara gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Connor Couch looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "AVG .091",
-          "OBP .167",
-          "SLG .091"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FY / N/A",
+        "detailBadges": [
+          "RHP",
+          "FY",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Columbia Athletics roster"
+        ],
+        "sourceSummary": "Columbia Athletics roster",
+        "schoolSlug": "columbia",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/connor-couch/23928",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "columbia-23929",
+        "name": "Ty Daniels",
+        "school": "Columbia",
+        "role": "Pitcher",
+        "position": "INF/P",
+        "classYear": "FY",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Ty Daniels looks like a INF/P option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FY / N/A",
+        "detailBadges": [
+          "INF/P",
+          "FY",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Columbia Athletics roster"
+        ],
+        "sourceSummary": "Columbia Athletics roster",
+        "schoolSlug": "columbia",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/ty-daniels/23929",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "columbia-23930",
+        "name": "Alex Sotiropoulos",
+        "school": "Columbia",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Alex Sotiropoulos looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Columbia Athletics roster"
+        ],
+        "sourceSummary": "Columbia Athletics roster",
+        "schoolSlug": "columbia",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/alex-sotiropoulos/23930",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "columbia-23931",
+        "name": "Jack McWilliams",
+        "school": "Columbia",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "JR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jack McWilliams gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".091"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".167"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".091"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -7397,7 +5925,7 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
           },
           {
             "label": "RBI",
-            "value": "1"
+            "value": "0"
           },
           {
             "label": "SB",
@@ -7408,195 +5936,56 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
           "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 33.33333333333333,
+          "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "SR / Columbia College",
+        "metaLine": "JR / N/A",
         "detailBadges": [
-          "INF/OF",
-          "SR",
-          "Columbia College",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Columbia Athletics roster",
-          "Columbia cumulative stats"
-        ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats",
-        "schoolSlug": "columbia",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/ben-seminara/21721",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "columbia-21711",
-        "name": "Baylor Hicks",
-        "school": "Columbia",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "Columbia College",
-        "score": 12,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Baylor Hicks looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 8.00",
-          "WHIP 1.81",
-          "K/9 9.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "8.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.81"
-          },
-          {
-            "label": "K/9",
-            "value": "9.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "4.7"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.67"
-          },
-          {
-            "label": "IP",
-            "value": "27.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
-          "Command": 18.571428571428566,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / Columbia College",
-        "detailBadges": [
-          "RHP",
+          "OF",
           "JR",
-          "Columbia College",
-          "Pitcher"
+          "N/A",
+          "Rostered"
         ],
         "leaderboards": [
-          "Columbia Athletics roster",
-          "Columbia cumulative stats"
+          "Columbia Athletics roster"
         ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats",
+        "sourceSummary": "Columbia Athletics roster",
         "schoolSlug": "columbia",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/baylor-hicks/21711",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/jack-mcwilliams/23931",
         "espnAthleteId": ""
       },
       {
-        "id": "columbia-21717",
-        "name": "Dan Mills",
-        "school": "Columbia",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "Columbia College",
-        "score": 7,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Dan Mills gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 10.03",
-          "WHIP 2.49",
-          "K/9 7.7"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "10.03"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.49"
-          },
-          {
-            "label": "K/9",
-            "value": "7.7"
-          },
-          {
-            "label": "BB/9",
-            "value": "8.5"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.54"
-          },
-          {
-            "label": "IP",
-            "value": "11.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 33.76623376623377,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / Columbia College",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "Columbia College",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Columbia Athletics roster",
-          "Columbia cumulative stats"
-        ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats",
-        "schoolSlug": "columbia",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/dan-mills/21717",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "columbia-21719",
-        "name": "Dean Reynolds",
+        "id": "columbia-23932",
+        "name": "Owen Estabrook",
         "school": "Columbia",
         "role": "Hitter",
-        "position": "OF",
-        "classYear": "JR",
-        "handedness": "Columbia College",
-        "score": 39,
+        "position": "C",
+        "classYear": "SR",
+        "handedness": "N/A",
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Dean Reynolds profiles as a OF piece who gets on base at a high clip.",
+        "summary": "Owen Estabrook gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .143",
-          "OBP .500",
-          "SLG .286"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".143"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".500"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".286"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -7604,35 +5993,714 @@ window.__BASEBALL_DATASETS__.columbia2026 = {
           },
           {
             "label": "RBI",
-            "value": "1"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "2"
+            "value": "0"
           }
         ],
         "components": {
-          "On-base": 100,
+          "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 44.444444444444436,
-          "Speed": 6.666666666666667
+          "Discipline": 0,
+          "Speed": 0
         },
-        "metaLine": "JR / Columbia College",
+        "metaLine": "SR / N/A",
         "detailBadges": [
-          "OF",
-          "JR",
-          "Columbia College",
-          "Hitter"
+          "C",
+          "SR",
+          "N/A",
+          "Rostered"
         ],
         "leaderboards": [
-          "Columbia Athletics roster",
-          "Columbia cumulative stats"
+          "Columbia Athletics roster"
         ],
-        "sourceSummary": "Columbia Athletics roster + Columbia cumulative stats",
+        "sourceSummary": "Columbia Athletics roster",
         "schoolSlug": "columbia",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/dean-reynolds/21719",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/owen-estabrook/23932",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "columbia-23933",
+        "name": "Lucas Jackson",
+        "school": "Columbia",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "SR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Lucas Jackson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "SR / N/A",
+        "detailBadges": [
+          "C",
+          "SR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Columbia Athletics roster"
+        ],
+        "sourceSummary": "Columbia Athletics roster",
+        "schoolSlug": "columbia",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/lucas-jackson/23933",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "columbia-23934",
+        "name": "Lucas Dixon",
+        "school": "Columbia",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Lucas Dixon looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / N/A",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Columbia Athletics roster"
+        ],
+        "sourceSummary": "Columbia Athletics roster",
+        "schoolSlug": "columbia",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/lucas-dixon/23934",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "columbia-23935",
+        "name": "Brady Groves",
+        "school": "Columbia",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "SR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Brady Groves gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "SR / N/A",
+        "detailBadges": [
+          "OF",
+          "SR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Columbia Athletics roster"
+        ],
+        "sourceSummary": "Columbia Athletics roster",
+        "schoolSlug": "columbia",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/brady-groves/23935",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "columbia-23936",
+        "name": "Russ Berger",
+        "school": "Columbia",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "FY",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Russ Berger looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FY / N/A",
+        "detailBadges": [
+          "LHP",
+          "FY",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Columbia Athletics roster"
+        ],
+        "sourceSummary": "Columbia Athletics roster",
+        "schoolSlug": "columbia",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/russ-berger/23936",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "columbia-23937",
+        "name": "Ronan O'Brien",
+        "school": "Columbia",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "FY",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Ronan O'Brien looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FY / N/A",
+        "detailBadges": [
+          "RHP",
+          "FY",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Columbia Athletics roster"
+        ],
+        "sourceSummary": "Columbia Athletics roster",
+        "schoolSlug": "columbia",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/ronan-obrien/23937",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "columbia-23938",
+        "name": "Chris McLaughlin",
+        "school": "Columbia",
+        "role": "Pitcher",
+        "position": "INF/P",
+        "classYear": "FY",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Chris McLaughlin looks like a INF/P option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FY / N/A",
+        "detailBadges": [
+          "INF/P",
+          "FY",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Columbia Athletics roster"
+        ],
+        "sourceSummary": "Columbia Athletics roster",
+        "schoolSlug": "columbia",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/chris-mclaughlin/23938",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "columbia-23939",
+        "name": "Wyatt Raymond",
+        "school": "Columbia",
+        "role": "Hitter",
+        "position": "OF/1B",
+        "classYear": "SR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Wyatt Raymond gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "SR / N/A",
+        "detailBadges": [
+          "OF/1B",
+          "SR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Columbia Athletics roster"
+        ],
+        "sourceSummary": "Columbia Athletics roster",
+        "schoolSlug": "columbia",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/wyatt-raymond/23939",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "columbia-23940",
+        "name": "Baylor Hicks",
+        "school": "Columbia",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Baylor Hicks looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / N/A",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Columbia Athletics roster"
+        ],
+        "sourceSummary": "Columbia Athletics roster",
+        "schoolSlug": "columbia",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/baylor-hicks/23940",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "columbia-23941",
+        "name": "Dan Mills",
+        "school": "Columbia",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Dan Mills looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Columbia Athletics roster"
+        ],
+        "sourceSummary": "Columbia Athletics roster",
+        "schoolSlug": "columbia",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/dan-mills/23941",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "columbia-23942",
+        "name": "Dean Reynolds",
+        "school": "Columbia",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "SR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Dean Reynolds gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "SR / N/A",
+        "detailBadges": [
+          "OF",
+          "SR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Columbia Athletics roster"
+        ],
+        "sourceSummary": "Columbia Athletics roster",
+        "schoolSlug": "columbia",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://gocolumbialions.com/sports/baseball/roster/dean-reynolds/23942",
         "espnAthleteId": ""
       }
     ]

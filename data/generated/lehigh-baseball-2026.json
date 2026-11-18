@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T11:06:17.148Z",
+  "generatedAt": "2026-11-18T10:18:24.709Z",
   "season": 2026,
   "school": {
     "slug": "lehigh",
@@ -24,7 +24,7 @@
     "ncaa": "NCAA school index"
   },
   "coverage": {
-    "rosterPlayers": 28,
+    "rosterPlayers": 39,
     "espnRosterPlayers": 0,
     "playersWithHittingStats": 0,
     "playersWithPitchingStats": 0,
@@ -239,32 +239,32 @@
       }
     },
     {
-      "id": "lehigh-20470",
+      "id": "lehigh-20463",
       "schoolSlug": "lehigh",
       "school": "Lehigh",
       "schoolLongName": "Lehigh University",
-      "name": "Silvio Giardina",
-      "normalizedName": "silvio giardina",
+      "name": "Robbie Carvelli",
+      "normalizedName": "robbie carvelli",
       "compositeRole": "Rostered",
       "role": "Hitter",
-      "position": "INF",
+      "position": "OF",
       "positionLong": "",
-      "classYear": "SO",
+      "classYear": "SR",
       "handedness": "R/R",
-      "jersey": "4",
-      "hometown": "Pittson, Pa.",
+      "jersey": "2",
+      "hometown": "Flemington, N.J.",
       "highSchool": "",
-      "previousSchool": "Pittson Area",
-      "hometownHighSchool": "Pittson, Pa.",
-      "profileUrl": "https://lehighsports.com/sports/baseball/roster/silvio-giardina/20470",
-      "imageUrl": "https://lehighsports.com/images/2025/9/2/Silvio_Giardina.jpg",
+      "previousSchool": "Saint Joseph High School",
+      "hometownHighSchool": "Flemington, N.J.",
+      "profileUrl": "https://lehighsports.com/sports/baseball/roster/robbie-carvelli/20463",
+      "imageUrl": "https://lehighsports.com/images/2023/9/4/Robbie_Carvelli.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "20470",
+      "rosterBioId": "20463",
       "sources": [
         "Lehigh Athletics roster"
       ],
@@ -284,7 +284,7 @@
           "Discipline": 0,
           "Speed": 0
         },
-        "summary": "Silvio Giardina gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Robbie Carvelli gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG --",
           "OBP --",
@@ -316,12 +316,540 @@
             "value": "0"
           }
         ],
-        "metaLine": "SO / R/R",
+        "metaLine": "SR / R/R",
         "detailBadges": [
-          "INF",
-          "SO",
+          "OF",
+          "SR",
           "R/R",
           "Rostered"
+        ],
+        "sourceSummary": "Lehigh Athletics roster"
+      }
+    },
+    {
+      "id": "lehigh-20471",
+      "schoolSlug": "lehigh",
+      "school": "Lehigh",
+      "schoolLongName": "Lehigh University",
+      "name": "Robby Grasso",
+      "normalizedName": "robby grasso",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "OF/INF/P",
+      "positionLong": "",
+      "classYear": "SO",
+      "handedness": "R/R",
+      "jersey": "3",
+      "hometown": "Lafayette Hill, Pa.",
+      "highSchool": "",
+      "previousSchool": "St. Joseph's Preparatory School",
+      "hometownHighSchool": "Lafayette Hill, Pa.",
+      "profileUrl": "https://lehighsports.com/sports/baseball/roster/robby-grasso/20471",
+      "imageUrl": "https://lehighsports.com/images/2025/9/2/Robby_Grasso.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "20471",
+      "sources": [
+        "Lehigh Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Robby Grasso looks like a OF/INF/P option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "OF/INF/P",
+          "SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Lehigh Athletics roster"
+      }
+    },
+    {
+      "id": "lehigh-20557",
+      "schoolSlug": "lehigh",
+      "school": "Lehigh",
+      "schoolLongName": "Lehigh University",
+      "name": "CJ Chatterton",
+      "normalizedName": "cj chatterton",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "INF",
+      "positionLong": "INF",
+      "classYear": "JR",
+      "handedness": "N/A",
+      "jersey": "5",
+      "hometown": "Rockville, Md.",
+      "highSchool": "Georgetown Prep (Randolph Macon)",
+      "previousSchool": "",
+      "hometownHighSchool": "Rockville, Md. / Georgetown Prep (Randolph Macon)",
+      "profileUrl": "https://lehighsports.com/sports/baseball/roster/cj-chatterton/20557",
+      "imageUrl": "https://lehighsports.com/images/2026/9/3/CJ_Chatterton.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "20557",
+      "sources": [
+        "Lehigh Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "CJ Chatterton gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "INF",
+          "JR",
+          "N/A",
+          "Rostered"
+        ],
+        "sourceSummary": "Lehigh Athletics roster"
+      }
+    },
+    {
+      "id": "lehigh-20488",
+      "schoolSlug": "lehigh",
+      "school": "Lehigh",
+      "schoolLongName": "Lehigh University",
+      "name": "Michael Olender",
+      "normalizedName": "michael olender",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "OF",
+      "classYear": "SO",
+      "handedness": "N/A",
+      "jersey": "6",
+      "hometown": "Flemington, N.J.",
+      "highSchool": "The Hun School (La Salle)",
+      "previousSchool": "",
+      "hometownHighSchool": "Flemington, N.J. / The Hun School (La Salle)",
+      "profileUrl": "https://lehighsports.com/sports/baseball/roster/michael-olender/20488",
+      "imageUrl": "https://lehighsports.com/images/2026/9/3/Michael_Olender.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "20488",
+      "sources": [
+        "Lehigh Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Michael Olender gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "SO / N/A",
+        "detailBadges": [
+          "OF",
+          "SO",
+          "N/A",
+          "Rostered"
+        ],
+        "sourceSummary": "Lehigh Athletics roster"
+      }
+    },
+    {
+      "id": "lehigh-20486",
+      "schoolSlug": "lehigh",
+      "school": "Lehigh",
+      "schoolLongName": "Lehigh University",
+      "name": "Ian Wirtz",
+      "normalizedName": "ian wirtz",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "C",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "R/R",
+      "jersey": "7",
+      "hometown": "Cheshire, Conn.",
+      "highSchool": "",
+      "previousSchool": "Choate Rosemary Hall",
+      "hometownHighSchool": "Cheshire, Conn.",
+      "profileUrl": "https://lehighsports.com/sports/baseball/roster/ian-wirtz/20486",
+      "imageUrl": "https://lehighsports.com/images/2024/8/27/Ian_Wirtz.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "20486",
+      "sources": [
+        "Lehigh Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Ian Wirtz gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "C",
+          "JR",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Lehigh Athletics roster"
+      }
+    },
+    {
+      "id": "lehigh-20475",
+      "schoolSlug": "lehigh",
+      "school": "Lehigh",
+      "schoolLongName": "Lehigh University",
+      "name": "Bobby Kleckner",
+      "normalizedName": "bobby kleckner",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "L/L",
+      "jersey": "8",
+      "hometown": "Worcester, Pa.",
+      "highSchool": "",
+      "previousSchool": "Methacton",
+      "hometownHighSchool": "Worcester, Pa.",
+      "profileUrl": "https://lehighsports.com/sports/baseball/roster/bobby-kleckner/20475",
+      "imageUrl": "https://lehighsports.com/images/2024/8/27/Bobby_Kleckner.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "20475",
+      "sources": [
+        "Lehigh Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Bobby Kleckner gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "JR / L/L",
+        "detailBadges": [
+          "OF",
+          "JR",
+          "L/L",
+          "Rostered"
+        ],
+        "sourceSummary": "Lehigh Athletics roster"
+      }
+    },
+    {
+      "id": "lehigh-20477",
+      "schoolSlug": "lehigh",
+      "school": "Lehigh",
+      "schoolLongName": "Lehigh University",
+      "name": "Jake Mulvehill",
+      "normalizedName": "jake mulvehill",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "L/L",
+      "jersey": "9",
+      "hometown": "South Bend, Ind.",
+      "highSchool": "",
+      "previousSchool": "John Adams",
+      "hometownHighSchool": "South Bend, Ind.",
+      "profileUrl": "https://lehighsports.com/sports/baseball/roster/jake-mulvehill/20477",
+      "imageUrl": "https://lehighsports.com/images/2026/9/3/Jake_Mulvehill.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "20477",
+      "sources": [
+        "Lehigh Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Jake Mulvehill looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "JR / L/L",
+        "detailBadges": [
+          "LHP",
+          "JR",
+          "L/L",
+          "Pitcher"
         ],
         "sourceSummary": "Lehigh Athletics roster"
       }
@@ -410,6 +938,94 @@
           "SO",
           "R/R",
           "Rostered"
+        ],
+        "sourceSummary": "Lehigh Athletics roster"
+      }
+    },
+    {
+      "id": "lehigh-20466",
+      "schoolSlug": "lehigh",
+      "school": "Lehigh",
+      "schoolLongName": "Lehigh University",
+      "name": "Julio Ermigiotti",
+      "normalizedName": "julio ermigiotti",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "",
+      "classYear": "SR",
+      "handedness": "R/R",
+      "jersey": "11",
+      "hometown": "Doylestown, Pa.",
+      "highSchool": "",
+      "previousSchool": "Central Bucks West",
+      "hometownHighSchool": "Doylestown, Pa.",
+      "profileUrl": "https://lehighsports.com/sports/baseball/roster/julio-ermigiotti/20466",
+      "imageUrl": "https://lehighsports.com/images/2026/9/3/Julio_Ermigiotti.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "20466",
+      "sources": [
+        "Lehigh Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Julio Ermigiotti looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
         ],
         "sourceSummary": "Lehigh Athletics roster"
       }
@@ -603,7 +1219,7 @@
       "positionLong": "",
       "classYear": "SR",
       "handedness": "R/R",
-      "jersey": "15",
+      "jersey": "14",
       "hometown": "Haddonfield, N.J.",
       "highSchool": "",
       "previousSchool": "Bishop Eustace Prep School",
@@ -679,32 +1295,32 @@
       }
     },
     {
-      "id": "lehigh-20475",
+      "id": "lehigh-20470",
       "schoolSlug": "lehigh",
       "school": "Lehigh",
       "schoolLongName": "Lehigh University",
-      "name": "Bobby Kleckner",
-      "normalizedName": "bobby kleckner",
+      "name": "Silvio Giardina",
+      "normalizedName": "silvio giardina",
       "compositeRole": "Rostered",
       "role": "Hitter",
-      "position": "OF",
+      "position": "INF",
       "positionLong": "",
-      "classYear": "JR",
-      "handedness": "L/L",
-      "jersey": "16",
-      "hometown": "Worcester, Pa.",
+      "classYear": "SO",
+      "handedness": "R/R",
+      "jersey": "15",
+      "hometown": "Pittson, Pa.",
       "highSchool": "",
-      "previousSchool": "Perkiomen School",
-      "hometownHighSchool": "Worcester, Pa.",
-      "profileUrl": "https://lehighsports.com/sports/baseball/roster/bobby-kleckner/20475",
-      "imageUrl": "https://lehighsports.com/images/2024/8/27/Bobby_Kleckner.jpg",
+      "previousSchool": "Pittson Area",
+      "hometownHighSchool": "Pittson, Pa.",
+      "profileUrl": "https://lehighsports.com/sports/baseball/roster/silvio-giardina/20470",
+      "imageUrl": "https://lehighsports.com/images/2025/9/2/Silvio_Giardina.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "20475",
+      "rosterBioId": "20470",
       "sources": [
         "Lehigh Athletics roster"
       ],
@@ -724,7 +1340,7 @@
           "Discipline": 0,
           "Speed": 0
         },
-        "summary": "Bobby Kleckner gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Silvio Giardina gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG --",
           "OBP --",
@@ -754,188 +1370,12 @@
           {
             "label": "SB",
             "value": "0"
-          }
-        ],
-        "metaLine": "JR / L/L",
-        "detailBadges": [
-          "OF",
-          "JR",
-          "L/L",
-          "Rostered"
-        ],
-        "sourceSummary": "Lehigh Athletics roster"
-      }
-    },
-    {
-      "id": "lehigh-20471",
-      "schoolSlug": "lehigh",
-      "school": "Lehigh",
-      "schoolLongName": "Lehigh University",
-      "name": "Robby Grasso",
-      "normalizedName": "robby grasso",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "OF/INF/P",
-      "positionLong": "",
-      "classYear": "SO",
-      "handedness": "R/R",
-      "jersey": "17",
-      "hometown": "Lafayette Hill, Pa.",
-      "highSchool": "",
-      "previousSchool": "St. Joseph's Preparatory School",
-      "hometownHighSchool": "Lafayette Hill, Pa.",
-      "profileUrl": "https://lehighsports.com/sports/baseball/roster/robby-grasso/20471",
-      "imageUrl": "https://lehighsports.com/images/2025/9/2/Robby_Grasso.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "20471",
-      "sources": [
-        "Lehigh Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Robby Grasso looks like a OF/INF/P option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
           }
         ],
         "metaLine": "SO / R/R",
         "detailBadges": [
-          "OF/INF/P",
+          "INF",
           "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Lehigh Athletics roster"
-      }
-    },
-    {
-      "id": "lehigh-20463",
-      "schoolSlug": "lehigh",
-      "school": "Lehigh",
-      "schoolLongName": "Lehigh University",
-      "name": "Robbie Carvelli",
-      "normalizedName": "robbie carvelli",
-      "compositeRole": "Rostered",
-      "role": "Hitter",
-      "position": "OF",
-      "positionLong": "",
-      "classYear": "SR",
-      "handedness": "R/R",
-      "jersey": "18",
-      "hometown": "Flemington, N.J.",
-      "highSchool": "",
-      "previousSchool": "Saint Joseph High School",
-      "hometownHighSchool": "Flemington, N.J.",
-      "profileUrl": "https://lehighsports.com/sports/baseball/roster/robbie-carvelli/20463",
-      "imageUrl": "https://lehighsports.com/images/2023/9/4/Robbie_Carvelli.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "20463",
-      "sources": [
-        "Lehigh Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "summary": "Robbie Carvelli gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "OF",
-          "SR",
           "R/R",
           "Rostered"
         ],
@@ -955,7 +1395,7 @@
       "positionLong": "",
       "classYear": "SO",
       "handedness": "R/R",
-      "jersey": "19",
+      "jersey": "16",
       "hometown": "Basking Ridge, N.J.",
       "highSchool": "",
       "previousSchool": "Delbarton School",
@@ -1026,6 +1466,270 @@
           "SO",
           "R/R",
           "Pitcher"
+        ],
+        "sourceSummary": "Lehigh Athletics roster"
+      }
+    },
+    {
+      "id": "lehigh-20469",
+      "schoolSlug": "lehigh",
+      "school": "Lehigh",
+      "schoolLongName": "Lehigh University",
+      "name": "Ralph Gariano",
+      "normalizedName": "ralph gariano",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "LHP",
+      "positionLong": "",
+      "classYear": "GR",
+      "handedness": "L/L",
+      "jersey": "17",
+      "hometown": "Doylestown, Pa.",
+      "highSchool": "",
+      "previousSchool": "Germantown Academy (Holy Cross)",
+      "hometownHighSchool": "Doylestown, Pa.",
+      "profileUrl": "https://lehighsports.com/sports/baseball/roster/ralph-gariano/20469",
+      "imageUrl": "https://lehighsports.com/images/2024/8/27/Ralph_Gariano.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "20469",
+      "sources": [
+        "Lehigh Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Ralph Gariano looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "GR / L/L",
+        "detailBadges": [
+          "LHP",
+          "GR",
+          "L/L",
+          "Pitcher"
+        ],
+        "sourceSummary": "Lehigh Athletics roster"
+      }
+    },
+    {
+      "id": "lehigh-20638",
+      "schoolSlug": "lehigh",
+      "school": "Lehigh",
+      "schoolLongName": "Lehigh University",
+      "name": "Luke Mahoney",
+      "normalizedName": "luke mahoney",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "RHP",
+      "classYear": "FY",
+      "handedness": "N/A",
+      "jersey": "18",
+      "hometown": "Darien, Conn.",
+      "highSchool": "Choate Rosemary Hall",
+      "previousSchool": "",
+      "hometownHighSchool": "Darien, Conn. / Choate Rosemary Hall",
+      "profileUrl": "https://lehighsports.com/sports/baseball/roster/luke-mahoney/20638",
+      "imageUrl": "https://lehighsports.com/images/2026/9/3/Luke_Mahoney.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "20638",
+      "sources": [
+        "Lehigh Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Luke Mahoney looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FY / N/A",
+        "detailBadges": [
+          "RHP",
+          "FY",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "Lehigh Athletics roster"
+      }
+    },
+    {
+      "id": "lehigh-20633",
+      "schoolSlug": "lehigh",
+      "school": "Lehigh",
+      "schoolLongName": "Lehigh University",
+      "name": "Michael Basile",
+      "normalizedName": "michael basile",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "C",
+      "positionLong": "C",
+      "classYear": "FY",
+      "handedness": "N/A",
+      "jersey": "19",
+      "hometown": "Mountainside, N.J.",
+      "highSchool": "Governor Livingston",
+      "previousSchool": "",
+      "hometownHighSchool": "Mountainside, N.J. / Governor Livingston",
+      "profileUrl": "https://lehighsports.com/sports/baseball/roster/michael-basile/20633",
+      "imageUrl": "https://lehighsports.com/images/2026/9/3/Michael_Basile.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "20633",
+      "sources": [
+        "Lehigh Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Michael Basile gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "FY / N/A",
+        "detailBadges": [
+          "C",
+          "FY",
+          "N/A",
+          "Rostered"
         ],
         "sourceSummary": "Lehigh Athletics roster"
       }
@@ -1113,6 +1817,94 @@
           "RHP",
           "SR",
           "R/R",
+          "Pitcher"
+        ],
+        "sourceSummary": "Lehigh Athletics roster"
+      }
+    },
+    {
+      "id": "lehigh-20635",
+      "schoolSlug": "lehigh",
+      "school": "Lehigh",
+      "schoolLongName": "Lehigh University",
+      "name": "Austin Havertine",
+      "normalizedName": "austin havertine",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "P",
+      "positionLong": "P",
+      "classYear": "FY",
+      "handedness": "N/A",
+      "jersey": "21",
+      "hometown": "Radnor, Pa.",
+      "highSchool": "Radnor",
+      "previousSchool": "",
+      "hometownHighSchool": "Radnor, Pa. / Radnor",
+      "profileUrl": "https://lehighsports.com/sports/baseball/roster/austin-havertine/20635",
+      "imageUrl": "https://lehighsports.com/images/2026/9/3/Austin_Havertine.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "20635",
+      "sources": [
+        "Lehigh Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Austin Havertine looks like a P option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FY / N/A",
+        "detailBadges": [
+          "P",
+          "FY",
+          "N/A",
           "Pitcher"
         ],
         "sourceSummary": "Lehigh Athletics roster"
@@ -1207,6 +1999,94 @@
       }
     },
     {
+      "id": "lehigh-20462",
+      "schoolSlug": "lehigh",
+      "school": "Lehigh",
+      "schoolLongName": "Lehigh University",
+      "name": "Edwin Betances",
+      "normalizedName": "edwin betances",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "IF",
+      "positionLong": "",
+      "classYear": "JR",
+      "handedness": "L/R",
+      "jersey": "23",
+      "hometown": "Bronx, N.Y.",
+      "highSchool": "",
+      "previousSchool": "Iona Preparatory",
+      "hometownHighSchool": "Bronx, N.Y.",
+      "profileUrl": "https://lehighsports.com/sports/baseball/roster/edwin-betances/20462",
+      "imageUrl": "https://lehighsports.com/images/2024/8/27/Edwin_Betances.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "20462",
+      "sources": [
+        "Lehigh Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Edwin Betances gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "JR / L/R",
+        "detailBadges": [
+          "IF",
+          "JR",
+          "L/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Lehigh Athletics roster"
+      }
+    },
+    {
       "id": "lehigh-20482",
       "schoolSlug": "lehigh",
       "school": "Lehigh",
@@ -1295,32 +2175,32 @@
       }
     },
     {
-      "id": "lehigh-20466",
+      "id": "lehigh-20637",
       "schoolSlug": "lehigh",
       "school": "Lehigh",
       "schoolLongName": "Lehigh University",
-      "name": "Julio Ermigiotti",
-      "normalizedName": "julio ermigiotti",
+      "name": "Carson Kelm",
+      "normalizedName": "carson kelm",
       "compositeRole": "Pitcher",
       "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "SR",
-      "handedness": "R/R",
+      "position": "P",
+      "positionLong": "P",
+      "classYear": "FY",
+      "handedness": "N/A",
       "jersey": "25",
-      "hometown": "Doylestown, Pa.",
-      "highSchool": "",
-      "previousSchool": "Central Bucks West",
-      "hometownHighSchool": "Doylestown, Pa.",
-      "profileUrl": "https://lehighsports.com/sports/baseball/roster/julio-ermigiotti/20466",
-      "imageUrl": "https://lehighsports.com/images/2025/9/2/Julio_Ermigiotti.jpg",
+      "hometown": "Pasadena, Md.",
+      "highSchool": "Mount Saint Joseph",
+      "previousSchool": "",
+      "hometownHighSchool": "Pasadena, Md. / Mount Saint Joseph",
+      "profileUrl": "https://lehighsports.com/sports/baseball/roster/carson-kelm/20637",
+      "imageUrl": "https://lehighsports.com/images/2026/9/3/Carson_Kelm.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "20466",
+      "rosterBioId": "20637",
       "sources": [
         "Lehigh Athletics roster"
       ],
@@ -1340,7 +2220,7 @@
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Julio Ermigiotti looks like a RHP option who throws enough strikes.",
+        "summary": "Carson Kelm looks like a P option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -1372,43 +2252,43 @@
             "value": "0.0"
           }
         ],
-        "metaLine": "SR / R/R",
+        "metaLine": "FY / N/A",
         "detailBadges": [
-          "RHP",
-          "SR",
-          "R/R",
+          "P",
+          "FY",
+          "N/A",
           "Pitcher"
         ],
         "sourceSummary": "Lehigh Athletics roster"
       }
     },
     {
-      "id": "lehigh-20462",
+      "id": "lehigh-20634",
       "schoolSlug": "lehigh",
       "school": "Lehigh",
       "schoolLongName": "Lehigh University",
-      "name": "Edwin Betances",
-      "normalizedName": "edwin betances",
+      "name": "Toby Harris",
+      "normalizedName": "toby harris",
       "compositeRole": "Rostered",
       "role": "Hitter",
-      "position": "IF",
-      "positionLong": "",
-      "classYear": "JR",
-      "handedness": "L/R",
+      "position": "INF",
+      "positionLong": "INF",
+      "classYear": "FY",
+      "handedness": "N/A",
       "jersey": "27",
-      "hometown": "Bronx, N.Y.",
-      "highSchool": "",
-      "previousSchool": "Iona Preparatory",
-      "hometownHighSchool": "Bronx, N.Y.",
-      "profileUrl": "https://lehighsports.com/sports/baseball/roster/edwin-betances/20462",
-      "imageUrl": "https://lehighsports.com/images/2024/8/27/Edwin_Betances.jpg",
+      "hometown": "Brooklyn, N.Y.",
+      "highSchool": "Berkeley Carroll School",
+      "previousSchool": "",
+      "hometownHighSchool": "Brooklyn, N.Y. / Berkeley Carroll School",
+      "profileUrl": "https://lehighsports.com/sports/baseball/roster/toby-harris/20634",
+      "imageUrl": "https://lehighsports.com/images/2026/9/3/Toby_Harris.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "20462",
+      "rosterBioId": "20634",
       "sources": [
         "Lehigh Athletics roster"
       ],
@@ -1428,7 +2308,7 @@
           "Discipline": 0,
           "Speed": 0
         },
-        "summary": "Edwin Betances gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Toby Harris gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG --",
           "OBP --",
@@ -1460,11 +2340,11 @@
             "value": "0"
           }
         ],
-        "metaLine": "JR / L/R",
+        "metaLine": "FY / N/A",
         "detailBadges": [
-          "IF",
-          "JR",
-          "L/R",
+          "INF",
+          "FY",
+          "N/A",
           "Rostered"
         ],
         "sourceSummary": "Lehigh Athletics roster"
@@ -1647,6 +2527,94 @@
       }
     },
     {
+      "id": "lehigh-20642",
+      "schoolSlug": "lehigh",
+      "school": "Lehigh",
+      "schoolLongName": "Lehigh University",
+      "name": "Darien Serrano",
+      "normalizedName": "darien serrano",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "P",
+      "positionLong": "P",
+      "classYear": "FY",
+      "handedness": "N/A",
+      "jersey": "30",
+      "hometown": "Bethlehem, Pa.",
+      "highSchool": "Freedom",
+      "previousSchool": "",
+      "hometownHighSchool": "Bethlehem, Pa. / Freedom",
+      "profileUrl": "https://lehighsports.com/sports/baseball/roster/darien-serrano/20642",
+      "imageUrl": "https://lehighsports.com/images/2026/9/3/Darien_Serrano.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "20642",
+      "sources": [
+        "Lehigh Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Darien Serrano looks like a P option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FY / N/A",
+        "detailBadges": [
+          "P",
+          "FY",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "Lehigh Athletics roster"
+      }
+    },
+    {
       "id": "lehigh-20464",
       "schoolSlug": "lehigh",
       "school": "Lehigh",
@@ -1823,120 +2791,32 @@
       }
     },
     {
-      "id": "lehigh-20486",
+      "id": "lehigh-20636",
       "schoolSlug": "lehigh",
       "school": "Lehigh",
       "schoolLongName": "Lehigh University",
-      "name": "Ian Wirtz",
-      "normalizedName": "ian wirtz",
-      "compositeRole": "Rostered",
-      "role": "Hitter",
-      "position": "C",
-      "positionLong": "",
-      "classYear": "JR",
-      "handedness": "R/R",
-      "jersey": "34",
-      "hometown": "Cheshire, Conn.",
-      "highSchool": "",
-      "previousSchool": "Choate Rosemary Hall",
-      "hometownHighSchool": "Cheshire, Conn.",
-      "profileUrl": "https://lehighsports.com/sports/baseball/roster/ian-wirtz/20486",
-      "imageUrl": "https://lehighsports.com/images/2024/8/27/Ian_Wirtz.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "20486",
-      "sources": [
-        "Lehigh Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "summary": "Ian Wirtz gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "C",
-          "JR",
-          "R/R",
-          "Rostered"
-        ],
-        "sourceSummary": "Lehigh Athletics roster"
-      }
-    },
-    {
-      "id": "lehigh-20469",
-      "schoolSlug": "lehigh",
-      "school": "Lehigh",
-      "schoolLongName": "Lehigh University",
-      "name": "Ralph Gariano",
-      "normalizedName": "ralph gariano",
+      "name": "Cody Herman",
+      "normalizedName": "cody herman",
       "compositeRole": "Pitcher",
       "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "",
-      "classYear": "GR",
-      "handedness": "L/L",
-      "jersey": "37",
-      "hometown": "Doylestown, Pa.",
-      "highSchool": "",
-      "previousSchool": "Germantown Academy (Holy Cross)",
-      "hometownHighSchool": "Doylestown, Pa.",
-      "profileUrl": "https://lehighsports.com/sports/baseball/roster/ralph-gariano/20469",
-      "imageUrl": "https://lehighsports.com/images/2024/8/27/Ralph_Gariano.jpg",
+      "position": "P",
+      "positionLong": "P",
+      "classYear": "FY",
+      "handedness": "N/A",
+      "jersey": "33",
+      "hometown": "Wyckoff, Pa.",
+      "highSchool": "Ramapo",
+      "previousSchool": "",
+      "hometownHighSchool": "Wyckoff, Pa. / Ramapo",
+      "profileUrl": "https://lehighsports.com/sports/baseball/roster/cody-herman/20636",
+      "imageUrl": "https://lehighsports.com/images/2026/9/3/Cody_Herman.jpg",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "20469",
+      "rosterBioId": "20636",
       "sources": [
         "Lehigh Athletics roster"
       ],
@@ -1956,7 +2836,7 @@
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Ralph Gariano looks like a LHP option who throws enough strikes.",
+        "summary": "Cody Herman looks like a P option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -1988,12 +2868,188 @@
             "value": "0.0"
           }
         ],
-        "metaLine": "GR / L/L",
+        "metaLine": "FY / N/A",
         "detailBadges": [
-          "LHP",
-          "GR",
-          "L/L",
+          "P",
+          "FY",
+          "N/A",
           "Pitcher"
+        ],
+        "sourceSummary": "Lehigh Athletics roster"
+      }
+    },
+    {
+      "id": "lehigh-20639",
+      "schoolSlug": "lehigh",
+      "school": "Lehigh",
+      "schoolLongName": "Lehigh University",
+      "name": "Drew Patton",
+      "normalizedName": "drew patton",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "RHP",
+      "classYear": "FY",
+      "handedness": "N/A",
+      "jersey": "34",
+      "hometown": "Herndon, Va.",
+      "highSchool": "Herndon",
+      "previousSchool": "",
+      "hometownHighSchool": "Herndon, Va. / Herndon",
+      "profileUrl": "https://lehighsports.com/sports/baseball/roster/drew-patton/20639",
+      "imageUrl": "https://lehighsports.com/images/2026/9/3/Drew_Patton.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "20639",
+      "sources": [
+        "Lehigh Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Drew Patton looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FY / N/A",
+        "detailBadges": [
+          "RHP",
+          "FY",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "Lehigh Athletics roster"
+      }
+    },
+    {
+      "id": "lehigh-20641",
+      "schoolSlug": "lehigh",
+      "school": "Lehigh",
+      "schoolLongName": "Lehigh University",
+      "name": "Gavin Ruta",
+      "normalizedName": "gavin ruta",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "OF",
+      "classYear": "FY",
+      "handedness": "N/A",
+      "jersey": "35",
+      "hometown": "Plymouth Meeting, Pa.",
+      "highSchool": "William Penn",
+      "previousSchool": "",
+      "hometownHighSchool": "Plymouth Meeting, Pa. / William Penn",
+      "profileUrl": "https://lehighsports.com/sports/baseball/roster/gavin-ruta/20641",
+      "imageUrl": "https://lehighsports.com/images/2026/9/3/Gavin_Ruta.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "20641",
+      "sources": [
+        "Lehigh Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Gavin Ruta gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "FY / N/A",
+        "detailBadges": [
+          "OF",
+          "FY",
+          "N/A",
+          "Rostered"
         ],
         "sourceSummary": "Lehigh Athletics roster"
       }
@@ -2175,6 +3231,94 @@
       }
     },
     {
+      "id": "lehigh-20643",
+      "schoolSlug": "lehigh",
+      "school": "Lehigh",
+      "schoolLongName": "Lehigh University",
+      "name": "Sawyer Tipton",
+      "normalizedName": "sawyer tipton",
+      "compositeRole": "Pitcher",
+      "role": "Pitcher",
+      "position": "RHP",
+      "positionLong": "RHP",
+      "classYear": "FY",
+      "handedness": "N/A",
+      "jersey": "41",
+      "hometown": "Highlands Ranch, Colo.",
+      "highSchool": "Mountain Vista",
+      "previousSchool": "",
+      "hometownHighSchool": "Highlands Ranch, Colo. / Mountain Vista",
+      "profileUrl": "https://lehighsports.com/sports/baseball/roster/sawyer-tipton/20643",
+      "imageUrl": "https://lehighsports.com/images/2026/9/3/Sawyer_Tipton.jpg",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "20643",
+      "sources": [
+        "Lehigh Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "summary": "Sawyer Tipton looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "metaLine": "FY / N/A",
+        "detailBadges": [
+          "RHP",
+          "FY",
+          "N/A",
+          "Pitcher"
+        ],
+        "sourceSummary": "Lehigh Athletics roster"
+      }
+    },
+    {
       "id": "lehigh-20472",
       "schoolSlug": "lehigh",
       "school": "Lehigh",
@@ -2257,94 +3401,6 @@
           "P/OF/DH",
           "JR",
           "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Lehigh Athletics roster"
-      }
-    },
-    {
-      "id": "lehigh-20477",
-      "schoolSlug": "lehigh",
-      "school": "Lehigh",
-      "schoolLongName": "Lehigh University",
-      "name": "Jake Mulvehill",
-      "normalizedName": "jake mulvehill",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "",
-      "classYear": "JR",
-      "handedness": "L/L",
-      "jersey": "43",
-      "hometown": "South Bend, Ind.",
-      "highSchool": "",
-      "previousSchool": "John Adams",
-      "hometownHighSchool": "South Bend, Ind.",
-      "profileUrl": "https://lehighsports.com/sports/baseball/roster/jake-mulvehill/20477",
-      "imageUrl": "https://lehighsports.com/images/2024/8/27/Jake_Mulvehill.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "20477",
-      "sources": [
-        "Lehigh Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Jake Mulvehill looks like a LHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "metaLine": "JR / L/L",
-        "detailBadges": [
-          "LHP",
-          "JR",
-          "L/L",
           "Pitcher"
         ],
         "sourceSummary": "Lehigh Athletics roster"
@@ -2525,103 +3581,15 @@
         ],
         "sourceSummary": "Lehigh Athletics roster"
       }
-    },
-    {
-      "id": "lehigh-20488",
-      "schoolSlug": "lehigh",
-      "school": "Lehigh",
-      "schoolLongName": "Lehigh University",
-      "name": "Michael Olender",
-      "normalizedName": "michael olender",
-      "compositeRole": "Rostered",
-      "role": "Hitter",
-      "position": "OF",
-      "positionLong": "OF",
-      "classYear": "SO",
-      "handedness": "N/A",
-      "jersey": "",
-      "hometown": "Flemington, N.J.",
-      "highSchool": "The Hun School (La Salle)",
-      "previousSchool": "",
-      "hometownHighSchool": "Flemington, N.J. / The Hun School (La Salle)",
-      "profileUrl": "https://lehighsports.com/sports/baseball/roster/michael-olender/20488",
-      "imageUrl": "",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "20488",
-      "sources": [
-        "Lehigh Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "summary": "Michael Olender gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "OF",
-          "SO",
-          "N/A",
-          "Rostered"
-        ],
-        "sourceSummary": "Lehigh Athletics roster"
-      }
     }
   ],
   "playerBoard": {
     "source": "Lehigh Athletics roster + cumulative stats / ESPN roster",
     "note": "This Lehigh-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but Lehigh's public ESPN roster feed did not line up cleanly with the current school-site roster.",
-    "totalPlayers": 28,
+    "totalPlayers": 39,
     "roleCounts": {
-      "Hitter": 12,
-      "Pitcher": 16
+      "Hitter": 16,
+      "Pitcher": 23
     },
     "players": [
       {
@@ -2693,19 +3661,19 @@
         "espnAthleteId": ""
       },
       {
-        "id": "lehigh-20470",
-        "name": "Silvio Giardina",
+        "id": "lehigh-20463",
+        "name": "Robbie Carvelli",
         "school": "Lehigh",
         "role": "Hitter",
-        "position": "INF",
-        "classYear": "SO",
+        "position": "OF",
+        "classYear": "SR",
         "handedness": "R/R",
         "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Silvio Giardina gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Robbie Carvelli gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG --",
           "OBP --",
@@ -2744,10 +3712,10 @@
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "SO / R/R",
+        "metaLine": "SR / R/R",
         "detailBadges": [
-          "INF",
-          "SO",
+          "OF",
+          "SR",
           "R/R",
           "Rostered"
         ],
@@ -2757,7 +3725,415 @@
         "sourceSummary": "Lehigh Athletics roster",
         "schoolSlug": "lehigh",
         "compositeRole": "Rostered",
-        "profileUrl": "https://lehighsports.com/sports/baseball/roster/silvio-giardina/20470",
+        "profileUrl": "https://lehighsports.com/sports/baseball/roster/robbie-carvelli/20463",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "lehigh-20471",
+        "name": "Robby Grasso",
+        "school": "Lehigh",
+        "role": "Pitcher",
+        "position": "OF/INF/P",
+        "classYear": "SO",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Robby Grasso looks like a OF/INF/P option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SO / R/R",
+        "detailBadges": [
+          "OF/INF/P",
+          "SO",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Lehigh Athletics roster"
+        ],
+        "sourceSummary": "Lehigh Athletics roster",
+        "schoolSlug": "lehigh",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://lehighsports.com/sports/baseball/roster/robby-grasso/20471",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "lehigh-20557",
+        "name": "CJ Chatterton",
+        "school": "Lehigh",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "JR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "CJ Chatterton gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "INF",
+          "JR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Lehigh Athletics roster"
+        ],
+        "sourceSummary": "Lehigh Athletics roster",
+        "schoolSlug": "lehigh",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://lehighsports.com/sports/baseball/roster/cj-chatterton/20557",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "lehigh-20488",
+        "name": "Michael Olender",
+        "school": "Lehigh",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "SO",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Michael Olender gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "SO / N/A",
+        "detailBadges": [
+          "OF",
+          "SO",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Lehigh Athletics roster"
+        ],
+        "sourceSummary": "Lehigh Athletics roster",
+        "schoolSlug": "lehigh",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://lehighsports.com/sports/baseball/roster/michael-olender/20488",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "lehigh-20486",
+        "name": "Ian Wirtz",
+        "school": "Lehigh",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Ian Wirtz gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "C",
+          "JR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Lehigh Athletics roster"
+        ],
+        "sourceSummary": "Lehigh Athletics roster",
+        "schoolSlug": "lehigh",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://lehighsports.com/sports/baseball/roster/ian-wirtz/20486",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "lehigh-20475",
+        "name": "Bobby Kleckner",
+        "school": "Lehigh",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "JR",
+        "handedness": "L/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Bobby Kleckner gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "JR / L/L",
+        "detailBadges": [
+          "OF",
+          "JR",
+          "L/L",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Lehigh Athletics roster"
+        ],
+        "sourceSummary": "Lehigh Athletics roster",
+        "schoolSlug": "lehigh",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://lehighsports.com/sports/baseball/roster/bobby-kleckner/20475",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "lehigh-20477",
+        "name": "Jake Mulvehill",
+        "school": "Lehigh",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "JR",
+        "handedness": "L/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jake Mulvehill looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / L/L",
+        "detailBadges": [
+          "LHP",
+          "JR",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Lehigh Athletics roster"
+        ],
+        "sourceSummary": "Lehigh Athletics roster",
+        "schoolSlug": "lehigh",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://lehighsports.com/sports/baseball/roster/jake-mulvehill/20477",
         "espnAthleteId": ""
       },
       {
@@ -2826,6 +4202,74 @@
         "schoolSlug": "lehigh",
         "compositeRole": "Rostered",
         "profileUrl": "https://lehighsports.com/sports/baseball/roster/max-dantoni/20465",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "lehigh-20466",
+        "name": "Julio Ermigiotti",
+        "school": "Lehigh",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Julio Ermigiotti looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Lehigh Athletics roster"
+        ],
+        "sourceSummary": "Lehigh Athletics roster",
+        "schoolSlug": "lehigh",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://lehighsports.com/sports/baseball/roster/julio-ermigiotti/20466",
         "espnAthleteId": ""
       },
       {
@@ -3033,79 +4477,11 @@
         "espnAthleteId": ""
       },
       {
-        "id": "lehigh-20475",
-        "name": "Bobby Kleckner",
+        "id": "lehigh-20470",
+        "name": "Silvio Giardina",
         "school": "Lehigh",
         "role": "Hitter",
-        "position": "OF",
-        "classYear": "JR",
-        "handedness": "L/L",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Bobby Kleckner gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "JR / L/L",
-        "detailBadges": [
-          "OF",
-          "JR",
-          "L/L",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Lehigh Athletics roster"
-        ],
-        "sourceSummary": "Lehigh Athletics roster",
-        "schoolSlug": "lehigh",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://lehighsports.com/sports/baseball/roster/bobby-kleckner/20475",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "lehigh-20471",
-        "name": "Robby Grasso",
-        "school": "Lehigh",
-        "role": "Pitcher",
-        "position": "OF/INF/P",
+        "position": "INF",
         "classYear": "SO",
         "handedness": "R/R",
         "score": 0,
@@ -3113,75 +4489,7 @@
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Robby Grasso looks like a OF/INF/P option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "OF/INF/P",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Lehigh Athletics roster"
-        ],
-        "sourceSummary": "Lehigh Athletics roster",
-        "schoolSlug": "lehigh",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://lehighsports.com/sports/baseball/roster/robby-grasso/20471",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "lehigh-20463",
-        "name": "Robbie Carvelli",
-        "school": "Lehigh",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Robbie Carvelli gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Silvio Giardina gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG --",
           "OBP --",
@@ -3220,10 +4528,10 @@
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "SR / R/R",
+        "metaLine": "SO / R/R",
         "detailBadges": [
-          "OF",
-          "SR",
+          "INF",
+          "SO",
           "R/R",
           "Rostered"
         ],
@@ -3233,7 +4541,7 @@
         "sourceSummary": "Lehigh Athletics roster",
         "schoolSlug": "lehigh",
         "compositeRole": "Rostered",
-        "profileUrl": "https://lehighsports.com/sports/baseball/roster/robbie-carvelli/20463",
+        "profileUrl": "https://lehighsports.com/sports/baseball/roster/silvio-giardina/20470",
         "espnAthleteId": ""
       },
       {
@@ -3305,6 +4613,210 @@
         "espnAthleteId": ""
       },
       {
+        "id": "lehigh-20469",
+        "name": "Ralph Gariano",
+        "school": "Lehigh",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "GR",
+        "handedness": "L/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Ralph Gariano looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "GR / L/L",
+        "detailBadges": [
+          "LHP",
+          "GR",
+          "L/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Lehigh Athletics roster"
+        ],
+        "sourceSummary": "Lehigh Athletics roster",
+        "schoolSlug": "lehigh",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://lehighsports.com/sports/baseball/roster/ralph-gariano/20469",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "lehigh-20638",
+        "name": "Luke Mahoney",
+        "school": "Lehigh",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "FY",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Luke Mahoney looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FY / N/A",
+        "detailBadges": [
+          "RHP",
+          "FY",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Lehigh Athletics roster"
+        ],
+        "sourceSummary": "Lehigh Athletics roster",
+        "schoolSlug": "lehigh",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://lehighsports.com/sports/baseball/roster/luke-mahoney/20638",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "lehigh-20633",
+        "name": "Michael Basile",
+        "school": "Lehigh",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "FY",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Michael Basile gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FY / N/A",
+        "detailBadges": [
+          "C",
+          "FY",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Lehigh Athletics roster"
+        ],
+        "sourceSummary": "Lehigh Athletics roster",
+        "schoolSlug": "lehigh",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://lehighsports.com/sports/baseball/roster/michael-basile/20633",
+        "espnAthleteId": ""
+      },
+      {
         "id": "lehigh-20479",
         "name": "Liam O'Hearen",
         "school": "Lehigh",
@@ -3370,6 +4882,74 @@
         "schoolSlug": "lehigh",
         "compositeRole": "Pitcher",
         "profileUrl": "https://lehighsports.com/sports/baseball/roster/liam-ohearen/20479",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "lehigh-20635",
+        "name": "Austin Havertine",
+        "school": "Lehigh",
+        "role": "Pitcher",
+        "position": "P",
+        "classYear": "FY",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Austin Havertine looks like a P option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FY / N/A",
+        "detailBadges": [
+          "P",
+          "FY",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Lehigh Athletics roster"
+        ],
+        "sourceSummary": "Lehigh Athletics roster",
+        "schoolSlug": "lehigh",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://lehighsports.com/sports/baseball/roster/austin-havertine/20635",
         "espnAthleteId": ""
       },
       {
@@ -3441,6 +5021,74 @@
         "espnAthleteId": ""
       },
       {
+        "id": "lehigh-20462",
+        "name": "Edwin Betances",
+        "school": "Lehigh",
+        "role": "Hitter",
+        "position": "IF",
+        "classYear": "JR",
+        "handedness": "L/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Edwin Betances gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "JR / L/R",
+        "detailBadges": [
+          "IF",
+          "JR",
+          "L/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Lehigh Athletics roster"
+        ],
+        "sourceSummary": "Lehigh Athletics roster",
+        "schoolSlug": "lehigh",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://lehighsports.com/sports/baseball/roster/edwin-betances/20462",
+        "espnAthleteId": ""
+      },
+      {
         "id": "lehigh-20482",
         "name": "Jackson Shepelsky",
         "school": "Lehigh",
@@ -3509,19 +5157,19 @@
         "espnAthleteId": ""
       },
       {
-        "id": "lehigh-20466",
-        "name": "Julio Ermigiotti",
+        "id": "lehigh-20637",
+        "name": "Carson Kelm",
         "school": "Lehigh",
         "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "R/R",
+        "position": "P",
+        "classYear": "FY",
+        "handedness": "N/A",
         "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Julio Ermigiotti looks like a RHP option who throws enough strikes.",
+        "summary": "Carson Kelm looks like a P option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -3560,11 +5208,11 @@
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SR / R/R",
+        "metaLine": "FY / N/A",
         "detailBadges": [
-          "RHP",
-          "SR",
-          "R/R",
+          "P",
+          "FY",
+          "N/A",
           "Pitcher"
         ],
         "leaderboards": [
@@ -3573,23 +5221,23 @@
         "sourceSummary": "Lehigh Athletics roster",
         "schoolSlug": "lehigh",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://lehighsports.com/sports/baseball/roster/julio-ermigiotti/20466",
+        "profileUrl": "https://lehighsports.com/sports/baseball/roster/carson-kelm/20637",
         "espnAthleteId": ""
       },
       {
-        "id": "lehigh-20462",
-        "name": "Edwin Betances",
+        "id": "lehigh-20634",
+        "name": "Toby Harris",
         "school": "Lehigh",
         "role": "Hitter",
-        "position": "IF",
-        "classYear": "JR",
-        "handedness": "L/R",
+        "position": "INF",
+        "classYear": "FY",
+        "handedness": "N/A",
         "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Edwin Betances gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Toby Harris gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
           "AVG --",
           "OBP --",
@@ -3628,11 +5276,11 @@
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "JR / L/R",
+        "metaLine": "FY / N/A",
         "detailBadges": [
-          "IF",
-          "JR",
-          "L/R",
+          "INF",
+          "FY",
+          "N/A",
           "Rostered"
         ],
         "leaderboards": [
@@ -3641,7 +5289,7 @@
         "sourceSummary": "Lehigh Athletics roster",
         "schoolSlug": "lehigh",
         "compositeRole": "Rostered",
-        "profileUrl": "https://lehighsports.com/sports/baseball/roster/edwin-betances/20462",
+        "profileUrl": "https://lehighsports.com/sports/baseball/roster/toby-harris/20634",
         "espnAthleteId": ""
       },
       {
@@ -3781,6 +5429,74 @@
         "espnAthleteId": ""
       },
       {
+        "id": "lehigh-20642",
+        "name": "Darien Serrano",
+        "school": "Lehigh",
+        "role": "Pitcher",
+        "position": "P",
+        "classYear": "FY",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Darien Serrano looks like a P option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FY / N/A",
+        "detailBadges": [
+          "P",
+          "FY",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Lehigh Athletics roster"
+        ],
+        "sourceSummary": "Lehigh Athletics roster",
+        "schoolSlug": "lehigh",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://lehighsports.com/sports/baseball/roster/darien-serrano/20642",
+        "espnAthleteId": ""
+      },
+      {
         "id": "lehigh-20464",
         "name": "Logan Correll",
         "school": "Lehigh",
@@ -3917,87 +5633,19 @@
         "espnAthleteId": ""
       },
       {
-        "id": "lehigh-20486",
-        "name": "Ian Wirtz",
-        "school": "Lehigh",
-        "role": "Hitter",
-        "position": "C",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Ian Wirtz gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "C",
-          "JR",
-          "R/R",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Lehigh Athletics roster"
-        ],
-        "sourceSummary": "Lehigh Athletics roster",
-        "schoolSlug": "lehigh",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://lehighsports.com/sports/baseball/roster/ian-wirtz/20486",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "lehigh-20469",
-        "name": "Ralph Gariano",
+        "id": "lehigh-20636",
+        "name": "Cody Herman",
         "school": "Lehigh",
         "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "GR",
-        "handedness": "L/L",
+        "position": "P",
+        "classYear": "FY",
+        "handedness": "N/A",
         "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Ralph Gariano looks like a LHP option who throws enough strikes.",
+        "summary": "Cody Herman looks like a P option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -4036,11 +5684,11 @@
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "GR / L/L",
+        "metaLine": "FY / N/A",
         "detailBadges": [
-          "LHP",
-          "GR",
-          "L/L",
+          "P",
+          "FY",
+          "N/A",
           "Pitcher"
         ],
         "leaderboards": [
@@ -4049,7 +5697,143 @@
         "sourceSummary": "Lehigh Athletics roster",
         "schoolSlug": "lehigh",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://lehighsports.com/sports/baseball/roster/ralph-gariano/20469",
+        "profileUrl": "https://lehighsports.com/sports/baseball/roster/cody-herman/20636",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "lehigh-20639",
+        "name": "Drew Patton",
+        "school": "Lehigh",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "FY",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Drew Patton looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FY / N/A",
+        "detailBadges": [
+          "RHP",
+          "FY",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Lehigh Athletics roster"
+        ],
+        "sourceSummary": "Lehigh Athletics roster",
+        "schoolSlug": "lehigh",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://lehighsports.com/sports/baseball/roster/drew-patton/20639",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "lehigh-20641",
+        "name": "Gavin Ruta",
+        "school": "Lehigh",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "FY",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Gavin Ruta gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FY / N/A",
+        "detailBadges": [
+          "OF",
+          "FY",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Lehigh Athletics roster"
+        ],
+        "sourceSummary": "Lehigh Athletics roster",
+        "schoolSlug": "lehigh",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://lehighsports.com/sports/baseball/roster/gavin-ruta/20641",
         "espnAthleteId": ""
       },
       {
@@ -4189,6 +5973,74 @@
         "espnAthleteId": ""
       },
       {
+        "id": "lehigh-20643",
+        "name": "Sawyer Tipton",
+        "school": "Lehigh",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "FY",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Sawyer Tipton looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "FY / N/A",
+        "detailBadges": [
+          "RHP",
+          "FY",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Lehigh Athletics roster"
+        ],
+        "sourceSummary": "Lehigh Athletics roster",
+        "schoolSlug": "lehigh",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://lehighsports.com/sports/baseball/roster/sawyer-tipton/20643",
+        "espnAthleteId": ""
+      },
+      {
         "id": "lehigh-20472",
         "name": "Noah Gyauch-Quirk",
         "school": "Lehigh",
@@ -4254,74 +6106,6 @@
         "schoolSlug": "lehigh",
         "compositeRole": "Pitcher",
         "profileUrl": "https://lehighsports.com/sports/baseball/roster/noah-gyauchquirk/20472",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "lehigh-20477",
-        "name": "Jake Mulvehill",
-        "school": "Lehigh",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "JR",
-        "handedness": "L/L",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jake Mulvehill looks like a LHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / L/L",
-        "detailBadges": [
-          "LHP",
-          "JR",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Lehigh Athletics roster"
-        ],
-        "sourceSummary": "Lehigh Athletics roster",
-        "schoolSlug": "lehigh",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://lehighsports.com/sports/baseball/roster/jake-mulvehill/20477",
         "espnAthleteId": ""
       },
       {
@@ -4458,74 +6242,6 @@
         "schoolSlug": "lehigh",
         "compositeRole": "Pitcher",
         "profileUrl": "https://lehighsports.com/sports/baseball/roster/christopher-nell/20478",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "lehigh-20488",
-        "name": "Michael Olender",
-        "school": "Lehigh",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "SO",
-        "handedness": "N/A",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Michael Olender gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "SO / N/A",
-        "detailBadges": [
-          "OF",
-          "SO",
-          "N/A",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Lehigh Athletics roster"
-        ],
-        "sourceSummary": "Lehigh Athletics roster",
-        "schoolSlug": "lehigh",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://lehighsports.com/sports/baseball/roster/michael-olender/20488",
         "espnAthleteId": ""
       }
     ]
