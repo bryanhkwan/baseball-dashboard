@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.uconn2026 = {
-  "generatedAt": "2026-11-18T10:18:05.966Z",
+  "generatedAt": "2026-11-19T10:17:45.720Z",
   "season": 2026,
   "school": {
     "slug": "uconn",
@@ -1663,7 +1663,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Right-Handed Pitcher",
-      "classYear": "JR",
+      "classYear": "SR",
       "handedness": "N/A",
       "jersey": "21",
       "hometown": "Warwick, R.I.",
@@ -1730,10 +1730,10 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "JR / N/A",
+        "metaLine": "SR / N/A",
         "detailBadges": [
           "RHP",
-          "JR",
+          "SR",
           "N/A",
           "Pitcher"
         ],
@@ -4936,7 +4936,7 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
         "school": "Connecticut",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "JR",
+        "classYear": "SR",
         "handedness": "N/A",
         "score": 0,
         "fit": {
@@ -4982,10 +4982,10 @@ window.__BASEBALL_DATASETS__.uconn2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "JR / N/A",
+        "metaLine": "SR / N/A",
         "detailBadges": [
           "RHP",
-          "JR",
+          "SR",
           "N/A",
           "Pitcher"
         ],

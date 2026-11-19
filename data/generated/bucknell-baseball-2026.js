@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.bucknell2026 = {
-  "generatedAt": "2026-11-18T10:18:00.933Z",
+  "generatedAt": "2026-11-19T10:17:40.361Z",
   "season": 2026,
   "school": {
     "slug": "bucknell",
@@ -25,17 +25,38 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
     "ncaa": "NCAA school index"
   },
   "coverage": {
-    "rosterPlayers": 37,
+    "rosterPlayers": 28,
     "espnRosterPlayers": 0,
-    "playersWithHittingStats": 17,
-    "playersWithPitchingStats": 17,
-    "playersWithFieldingStats": 33,
-    "mergedPlayersWithAnyStats": 34,
+    "playersWithHittingStats": 0,
+    "playersWithPitchingStats": 0,
+    "playersWithFieldingStats": 0,
+    "mergedPlayersWithAnyStats": 0,
     "matchedEspnPlayers": 0,
     "unmatchedStatRows": {
-      "hitting": [],
-      "pitching": [],
-      "fielding": []
+      "hitting": [
+        "Michael Trommer",
+        "Ty Lagoni",
+        "Ryan Facinelli",
+        "Garrison Bullock"
+      ],
+      "pitching": [
+        "Hadley Maxwell",
+        "Kobe Julks",
+        "Mikey Myro",
+        "Ryan DeLaney",
+        "Ethan Firestein"
+      ],
+      "fielding": [
+        "Garrison Bullock",
+        "Hadley Maxwell",
+        "Kobe Julks",
+        "Ryan DeLaney",
+        "Ryan Facinelli",
+        "Michael Trommer",
+        "Ty Lagoni",
+        "Mikey Myro",
+        "Ethan Firestein"
+      ]
     }
   },
   "teamSummary": {
@@ -124,24 +145,24 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
   },
   "players": [
     {
-      "id": "bucknell-13442",
+      "id": "bucknell-14633",
       "schoolSlug": "bucknell",
       "school": "Bucknell",
       "schoolLongName": "Bucknell University",
       "name": "Danny Nawrocki",
       "normalizedName": "danny nawrocki",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "OF",
       "positionLong": "Outfield",
-      "classYear": "FR",
+      "classYear": "SO",
       "handedness": "R/R",
       "jersey": "1",
       "hometown": "Long Island, N.Y.",
       "highSchool": "Chaminade High School",
       "previousSchool": "",
       "hometownHighSchool": "Long Island, N.Y. / Chaminade High School",
-      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/danny-nawrocki/13442",
+      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/danny-nawrocki/14633",
       "imageUrl": "https://bucknellbison.com/images/2025/12/9/Nawrocki_3ma5y.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -149,70 +170,13 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "13442",
+      "rosterBioId": "14633",
       "sources": [
-        "Bucknell Athletics roster",
-        "Bucknell cumulative stats"
+        "Bucknell Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "13442",
-        "name": "Danny Nawrocki",
-        "normalizedName": "danny nawrocki",
-        "jersey": "1",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/danny-nawrocki/13442",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Nawrocki_3ma5y.png",
-        "gamesPlayed": 9,
-        "gamesStarted": 0,
-        "battingAverage": 0,
-        "onBasePercentage": 0,
-        "sluggingPercentage": 0,
-        "ops": 0,
-        "atBats": 2,
-        "runs": 4,
-        "hits": 0,
-        "doubles": 0,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 0,
-        "totalBases": 0,
-        "walks": 0,
-        "hitByPitch": 0,
-        "strikeouts": 1,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 1,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 2,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "13442",
-        "name": "Danny Nawrocki",
-        "normalizedName": "danny nawrocki",
-        "jersey": "1",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/danny-nawrocki/13442",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Nawrocki_3ma5y.png",
-        "gamesPlayed": 1,
-        "gamesStarted": 0,
-        "putouts": 1,
-        "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 1
-      },
+      "fieldingStats": null,
       "evaluation": {
         "score": 0,
         "fit": {
@@ -228,22 +192,22 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         },
         "summary": "Danny Nawrocki gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .000",
-          "OBP .000",
-          "SLG .000"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -252,586 +216,6 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
           {
             "label": "RBI",
             "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "OF",
-          "FR",
-          "R/R",
-          "Hitter"
-        ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats"
-      }
-    },
-    {
-      "id": "bucknell-13439",
-      "schoolSlug": "bucknell",
-      "school": "Bucknell",
-      "schoolLongName": "Bucknell University",
-      "name": "Andrew Swenson",
-      "normalizedName": "andrew swenson",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "IF/OF",
-      "positionLong": "Infield/Outfield",
-      "classYear": "JR",
-      "handedness": "R/R",
-      "jersey": "2",
-      "hometown": "Enola, Pa.",
-      "highSchool": "East Pennsboro",
-      "previousSchool": "",
-      "hometownHighSchool": "Enola, Pa. / East Pennsboro",
-      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/andrew-swenson/13439",
-      "imageUrl": "https://bucknellbison.com/images/2025/12/9/Swenson_Andrew_wykNI.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "13439",
-      "sources": [
-        "Bucknell Athletics roster",
-        "Bucknell cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "13439",
-        "name": "Andrew Swenson",
-        "normalizedName": "andrew swenson",
-        "jersey": "2",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/andrew-swenson/13439",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Swenson_Andrew_wykNI.png",
-        "gamesPlayed": 50,
-        "gamesStarted": 48,
-        "battingAverage": 0.178,
-        "onBasePercentage": 0.308,
-        "sluggingPercentage": 0.237,
-        "ops": 0.545,
-        "atBats": 152,
-        "runs": 15,
-        "hits": 27,
-        "doubles": 4,
-        "triples": 1,
-        "homeRuns": 1,
-        "runsBattedIn": 20,
-        "totalBases": 36,
-        "walks": 22,
-        "hitByPitch": 8,
-        "strikeouts": 63,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 3,
-        "sacrificeHits": 4,
-        "stolenBases": 3,
-        "stolenBasesAttempts": 3,
-        "putouts": 83,
-        "assists": 0,
-        "errors": 4,
-        "plateAppearances": 192,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "13439",
-        "name": "Andrew Swenson",
-        "normalizedName": "andrew swenson",
-        "jersey": "2",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/andrew-swenson/13439",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Swenson_Andrew_wykNI.png",
-        "gamesPlayed": 47,
-        "gamesStarted": 46,
-        "putouts": 83,
-        "assists": 117,
-        "errors": 4,
-        "fieldingPercentage": 0.98,
-        "doublePlays": 20,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 204
-      },
-      "evaluation": {
-        "score": 8,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 15.55555555555554,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 16.578483245149904,
-          "Speed": 10
-        },
-        "summary": "Andrew Swenson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .178",
-          "OBP .308",
-          "SLG .237"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".178"
-          },
-          {
-            "label": "OBP",
-            "value": ".308"
-          },
-          {
-            "label": "SLG",
-            "value": ".237"
-          },
-          {
-            "label": "HR",
-            "value": "1"
-          },
-          {
-            "label": "RBI",
-            "value": "20"
-          },
-          {
-            "label": "SB",
-            "value": "3"
-          }
-        ],
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "IF/OF",
-          "JR",
-          "R/R",
-          "Hitter"
-        ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats"
-      }
-    },
-    {
-      "id": "bucknell-13443",
-      "schoolSlug": "bucknell",
-      "school": "Bucknell",
-      "schoolLongName": "Bucknell University",
-      "name": "Ty Lagoni",
-      "normalizedName": "ty lagoni",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "IF",
-      "positionLong": "Infield",
-      "classYear": "JR",
-      "handedness": "R/R",
-      "jersey": "3",
-      "hometown": "Pittsburgh, Pa.",
-      "highSchool": "Upper St. Clair High School",
-      "previousSchool": "",
-      "hometownHighSchool": "Pittsburgh, Pa. / Upper St. Clair High School",
-      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/ty-lagoni/13443",
-      "imageUrl": "https://bucknellbison.com/images/2025/12/9/Lagoni_Ty_HvVm0.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "13443",
-      "sources": [
-        "Bucknell Athletics roster",
-        "Bucknell cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "13443",
-        "name": "Ty Lagoni",
-        "normalizedName": "ty lagoni",
-        "jersey": "3",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/ty-lagoni/13443",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Lagoni_Ty_HvVm0.png",
-        "gamesPlayed": 51,
-        "gamesStarted": 51,
-        "battingAverage": 0.23,
-        "onBasePercentage": 0.32,
-        "sluggingPercentage": 0.378,
-        "ops": 0.698,
-        "atBats": 196,
-        "runs": 36,
-        "hits": 45,
-        "doubles": 6,
-        "triples": 4,
-        "homeRuns": 5,
-        "runsBattedIn": 35,
-        "totalBases": 74,
-        "walks": 19,
-        "hitByPitch": 9,
-        "strikeouts": 49,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 4,
-        "sacrificeHits": 0,
-        "stolenBases": 9,
-        "stolenBasesAttempts": 10,
-        "putouts": 95,
-        "assists": 0,
-        "errors": 14,
-        "plateAppearances": 239,
-        "caughtStealing": 1,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "13443",
-        "name": "Ty Lagoni",
-        "normalizedName": "ty lagoni",
-        "jersey": "3",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/ty-lagoni/13443",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Lagoni_Ty_HvVm0.png",
-        "gamesPlayed": 50,
-        "gamesStarted": 50,
-        "putouts": 95,
-        "assists": 120,
-        "errors": 14,
-        "fieldingPercentage": 0.939,
-        "doublePlays": 21,
-        "stolenBasesAgainst": 5,
-        "caughtStealingBy": 4,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 229
-      },
-      "evaluation": {
-        "score": 18,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 22.222222222222214,
-          "Power": 15.263157894736842,
-          "Contact": 6.250000000000005,
-          "Discipline": 20.861678004535143,
-          "Speed": 30
-        },
-        "summary": "Ty Lagoni profiles as a IF piece who adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .230",
-          "OBP .320",
-          "SLG .378"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".230"
-          },
-          {
-            "label": "OBP",
-            "value": ".320"
-          },
-          {
-            "label": "SLG",
-            "value": ".378"
-          },
-          {
-            "label": "HR",
-            "value": "5"
-          },
-          {
-            "label": "RBI",
-            "value": "35"
-          },
-          {
-            "label": "SB",
-            "value": "9"
-          }
-        ],
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "IF",
-          "JR",
-          "R/R",
-          "Hitter"
-        ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats"
-      }
-    },
-    {
-      "id": "bucknell-13421",
-      "schoolSlug": "bucknell",
-      "school": "Bucknell",
-      "schoolLongName": "Bucknell University",
-      "name": "Michael Chiaravallo",
-      "normalizedName": "michael chiaravallo",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "OF",
-      "positionLong": "Outfield",
-      "classYear": "JR",
-      "handedness": "R/R",
-      "jersey": "4",
-      "hometown": "Cream Ridge, N.J.",
-      "highSchool": "The Hun School",
-      "previousSchool": "",
-      "hometownHighSchool": "Cream Ridge, N.J. / The Hun School",
-      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/michael-chiaravallo/13421",
-      "imageUrl": "https://bucknellbison.com/images/2025/12/9/Chiaravallo_Michael_dXI2A.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "13421",
-      "sources": [
-        "Bucknell Athletics roster",
-        "Bucknell cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "13421",
-        "name": "Michael Chiaravallo",
-        "normalizedName": "michael chiaravallo",
-        "jersey": "4",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/michael-chiaravallo/13421",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Chiaravallo_Michael_dXI2A.png",
-        "gamesPlayed": 36,
-        "gamesStarted": 14,
-        "battingAverage": 0.309,
-        "onBasePercentage": 0.38,
-        "sluggingPercentage": 0.529,
-        "ops": 0.909,
-        "atBats": 68,
-        "runs": 18,
-        "hits": 21,
-        "doubles": 6,
-        "triples": 0,
-        "homeRuns": 3,
-        "runsBattedIn": 17,
-        "totalBases": 36,
-        "walks": 8,
-        "hitByPitch": 1,
-        "strikeouts": 22,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 2,
-        "sacrificeHits": 0,
-        "stolenBases": 4,
-        "stolenBasesAttempts": 5,
-        "putouts": 34,
-        "assists": 0,
-        "errors": 1,
-        "plateAppearances": 85,
-        "caughtStealing": 1,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "13421",
-        "name": "Michael Chiaravallo",
-        "normalizedName": "michael chiaravallo",
-        "jersey": "4",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/michael-chiaravallo/13421",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Chiaravallo_Michael_dXI2A.png",
-        "gamesPlayed": 16,
-        "gamesStarted": 11,
-        "putouts": 34,
-        "assists": 4,
-        "errors": 1,
-        "fieldingPercentage": 0.974,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 39
-      },
-      "evaluation": {
-        "score": 46,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 55.55555555555555,
-          "Power": 55.000000000000014,
-          "Contact": 55.62499999999999,
-          "Discipline": 18.18181818181818,
-          "Speed": 13.333333333333334
-        },
-        "summary": "Michael Chiaravallo gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .309",
-          "OBP .380",
-          "SLG .529"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".309"
-          },
-          {
-            "label": "OBP",
-            "value": ".380"
-          },
-          {
-            "label": "SLG",
-            "value": ".529"
-          },
-          {
-            "label": "HR",
-            "value": "3"
-          },
-          {
-            "label": "RBI",
-            "value": "17"
-          },
-          {
-            "label": "SB",
-            "value": "4"
-          }
-        ],
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "OF",
-          "JR",
-          "R/R",
-          "Hitter"
-        ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats"
-      }
-    },
-    {
-      "id": "bucknell-13418",
-      "schoolSlug": "bucknell",
-      "school": "Bucknell",
-      "schoolLongName": "Bucknell University",
-      "name": "Deacon Bowne",
-      "normalizedName": "deacon bowne",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "C",
-      "positionLong": "Catcher",
-      "classYear": "SO",
-      "handedness": "R/R",
-      "jersey": "5",
-      "hometown": "Hamilton Square, N.J.",
-      "highSchool": "The Hun School",
-      "previousSchool": "",
-      "hometownHighSchool": "Hamilton Square, N.J. / The Hun School",
-      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/deacon-bowne/13418",
-      "imageUrl": "https://bucknellbison.com/images/2025/12/9/Bowne_Deacon_Y4oCl.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "13418",
-      "sources": [
-        "Bucknell Athletics roster",
-        "Bucknell cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "13418",
-        "name": "Deacon Bowne",
-        "normalizedName": "deacon bowne",
-        "jersey": "5",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/deacon-bowne/13418",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Bowne_Deacon_Y4oCl.png",
-        "gamesPlayed": 36,
-        "gamesStarted": 35,
-        "battingAverage": 0.238,
-        "onBasePercentage": 0.396,
-        "sluggingPercentage": 0.314,
-        "ops": 0.71,
-        "atBats": 105,
-        "runs": 13,
-        "hits": 25,
-        "doubles": 8,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 13,
-        "totalBases": 33,
-        "walks": 23,
-        "hitByPitch": 5,
-        "strikeouts": 39,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 1,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 250,
-        "assists": 0,
-        "errors": 6,
-        "plateAppearances": 134,
-        "caughtStealing": 0,
-        "pickedOff": 1
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "13418",
-        "name": "Deacon Bowne",
-        "normalizedName": "deacon bowne",
-        "jersey": "5",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/deacon-bowne/13418",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Bowne_Deacon_Y4oCl.png",
-        "gamesPlayed": 36,
-        "gamesStarted": 35,
-        "putouts": 250,
-        "assists": 20,
-        "errors": 6,
-        "fieldingPercentage": 0.978,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 81,
-        "caughtStealingBy": 12,
-        "stolenBasesPercentage": null,
-        "passedBalls": 5,
-        "catchersInterference": 0,
-        "totalChances": 276
-      },
-      "evaluation": {
-        "score": 29,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 64.44444444444444,
-          "Power": 0,
-          "Contact": 11.249999999999991,
-          "Discipline": 43.3048433048433,
-          "Speed": 0
-        },
-        "summary": "Deacon Bowne gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .238",
-          "OBP .396",
-          "SLG .314"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".238"
-          },
-          {
-            "label": "OBP",
-            "value": ".396"
-          },
-          {
-            "label": "SLG",
-            "value": ".314"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "13"
           },
           {
             "label": "SB",
@@ -840,33 +224,297 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         ],
         "metaLine": "SO / R/R",
         "detailBadges": [
-          "C",
+          "OF",
           "SO",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats"
+        "sourceSummary": "Bucknell Athletics roster"
       }
     },
     {
-      "id": "bucknell-13422",
+      "id": "bucknell-14639",
+      "schoolSlug": "bucknell",
+      "school": "Bucknell",
+      "schoolLongName": "Bucknell University",
+      "name": "Andrew Swenson",
+      "normalizedName": "andrew swenson",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "IF/OF",
+      "positionLong": "Infield/Outfield",
+      "classYear": "SR",
+      "handedness": "R/R",
+      "jersey": "2",
+      "hometown": "Enola, Pa.",
+      "highSchool": "East Pennsboro",
+      "previousSchool": "",
+      "hometownHighSchool": "Enola, Pa. / East Pennsboro",
+      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/andrew-swenson/14639",
+      "imageUrl": "https://bucknellbison.com/images/2025/12/9/Swenson_Andrew_wykNI.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "14639",
+      "sources": [
+        "Bucknell Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Andrew Swenson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "IF/OF",
+          "SR",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Bucknell Athletics roster"
+      }
+    },
+    {
+      "id": "bucknell-14617",
+      "schoolSlug": "bucknell",
+      "school": "Bucknell",
+      "schoolLongName": "Bucknell University",
+      "name": "Michael Chiaravallo",
+      "normalizedName": "michael chiaravallo",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "Outfield",
+      "classYear": "SR",
+      "handedness": "R/R",
+      "jersey": "4",
+      "hometown": "Cream Ridge, N.J.",
+      "highSchool": "The Hun School",
+      "previousSchool": "",
+      "hometownHighSchool": "Cream Ridge, N.J. / The Hun School",
+      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/michael-chiaravallo/14617",
+      "imageUrl": "https://bucknellbison.com/images/2025/12/9/Chiaravallo_Michael_dXI2A.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "14617",
+      "sources": [
+        "Bucknell Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Michael Chiaravallo gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "OF",
+          "SR",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Bucknell Athletics roster"
+      }
+    },
+    {
+      "id": "bucknell-14615",
+      "schoolSlug": "bucknell",
+      "school": "Bucknell",
+      "schoolLongName": "Bucknell University",
+      "name": "Deacon Bowne",
+      "normalizedName": "deacon bowne",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "C",
+      "positionLong": "Catcher",
+      "classYear": "JR",
+      "handedness": "R/R",
+      "jersey": "5",
+      "hometown": "Hamilton Square, N.J.",
+      "highSchool": "The Hun School",
+      "previousSchool": "",
+      "hometownHighSchool": "Hamilton Square, N.J. / The Hun School",
+      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/deacon-bowne/14615",
+      "imageUrl": "https://bucknellbison.com/images/2025/12/9/Bowne_Deacon_Y4oCl.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "14615",
+      "sources": [
+        "Bucknell Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Deacon Bowne gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "JR / R/R",
+        "detailBadges": [
+          "C",
+          "JR",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Bucknell Athletics roster"
+      }
+    },
+    {
+      "id": "bucknell-14618",
       "schoolSlug": "bucknell",
       "school": "Bucknell",
       "schoolLongName": "Bucknell University",
       "name": "Lleyton Coupe",
       "normalizedName": "lleyton coupe",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "1B/3B",
       "positionLong": "First Base/Third Base",
-      "classYear": "SO",
+      "classYear": "JR",
       "handedness": "L/R",
       "jersey": "6",
       "hometown": "Phoenixville, Pa.",
       "highSchool": "Phoenixville",
       "previousSchool": "",
       "hometownHighSchool": "Phoenixville, Pa. / Phoenixville",
-      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/lleyton-coupe/13422",
+      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/lleyton-coupe/14618",
       "imageUrl": "https://bucknellbison.com/images/2025/12/9/Coupe_Lleyton_idyaL.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -874,144 +522,87 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "13422",
+      "rosterBioId": "14618",
       "sources": [
-        "Bucknell Athletics roster",
-        "Bucknell cumulative stats"
+        "Bucknell Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "13422",
-        "name": "Lleyton Coupe",
-        "normalizedName": "lleyton coupe",
-        "jersey": "6",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/lleyton-coupe/13422",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Coupe_Lleyton_idyaL.png",
-        "gamesPlayed": 40,
-        "gamesStarted": 32,
-        "battingAverage": 0.288,
-        "onBasePercentage": 0.398,
-        "sluggingPercentage": 0.45,
-        "ops": 0.848,
-        "atBats": 111,
-        "runs": 19,
-        "hits": 32,
-        "doubles": 8,
-        "triples": 2,
-        "homeRuns": 2,
-        "runsBattedIn": 21,
-        "totalBases": 50,
-        "walks": 18,
-        "hitByPitch": 3,
-        "strikeouts": 21,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 4,
-        "sacrificeFlies": 1,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 1,
-        "putouts": 215,
-        "assists": 0,
-        "errors": 3,
-        "plateAppearances": 135,
-        "caughtStealing": 1,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "13422",
-        "name": "Lleyton Coupe",
-        "normalizedName": "lleyton coupe",
-        "jersey": "6",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/lleyton-coupe/13422",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Coupe_Lleyton_idyaL.png",
-        "gamesPlayed": 38,
-        "gamesStarted": 32,
-        "putouts": 215,
-        "assists": 8,
-        "errors": 3,
-        "fieldingPercentage": 0.987,
-        "doublePlays": 14,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 226
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 48,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 65.55555555555556,
-          "Power": 34.21052631578948,
-          "Contact": 42.499999999999986,
-          "Discipline": 73.01587301587298,
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
           "Speed": 0
         },
         "summary": "Lleyton Coupe gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .288",
-          "OBP .398",
-          "SLG .450"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".288"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".398"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".450"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "2"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "21"
+            "value": "0"
           },
           {
             "label": "SB",
             "value": "0"
           }
         ],
-        "metaLine": "SO / L/R",
+        "metaLine": "JR / L/R",
         "detailBadges": [
           "1B/3B",
-          "SO",
+          "JR",
           "L/R",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats"
+        "sourceSummary": "Bucknell Athletics roster"
       }
     },
     {
-      "id": "bucknell-13435",
+      "id": "bucknell-14632",
       "schoolSlug": "bucknell",
       "school": "Bucknell",
       "schoolLongName": "Bucknell University",
       "name": "Luke Nascimento",
       "normalizedName": "luke nascimento",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "C",
       "positionLong": "Catcher",
-      "classYear": "JR",
+      "classYear": "SR",
       "handedness": "R/R",
       "jersey": "7",
       "hometown": "Scarsdale, N.Y.",
       "highSchool": "Iona Prep",
       "previousSchool": "",
       "hometownHighSchool": "Scarsdale, N.Y. / Iona Prep",
-      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/luke-nascimento/13435",
+      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/luke-nascimento/14632",
       "imageUrl": "https://bucknellbison.com/images/2025/12/9/Nascimento_Luke_ZokmD.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -1019,70 +610,13 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "13435",
+      "rosterBioId": "14632",
       "sources": [
-        "Bucknell Athletics roster",
-        "Bucknell cumulative stats"
+        "Bucknell Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "13435",
-        "name": "Luke Nascimento",
-        "normalizedName": "luke nascimento",
-        "jersey": "7",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/luke-nascimento/13435",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Nascimento_Luke_ZokmD.png",
-        "gamesPlayed": 12,
-        "gamesStarted": 9,
-        "battingAverage": 0.172,
-        "onBasePercentage": 0.226,
-        "sluggingPercentage": 0.172,
-        "ops": 0.398,
-        "atBats": 29,
-        "runs": 5,
-        "hits": 5,
-        "doubles": 0,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 2,
-        "totalBases": 5,
-        "walks": 1,
-        "hitByPitch": 1,
-        "strikeouts": 11,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 1,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 61,
-        "assists": 0,
-        "errors": 3,
-        "plateAppearances": 32,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "13435",
-        "name": "Luke Nascimento",
-        "normalizedName": "luke nascimento",
-        "jersey": "7",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/luke-nascimento/13435",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Nascimento_Luke_ZokmD.png",
-        "gamesPlayed": 11,
-        "gamesStarted": 9,
-        "putouts": 61,
-        "assists": 8,
-        "errors": 3,
-        "fieldingPercentage": 0.958,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 20,
-        "caughtStealingBy": 2,
-        "stolenBasesPercentage": null,
-        "passedBalls": 5,
-        "catchersInterference": 0,
-        "totalChances": 72
-      },
+      "fieldingStats": null,
       "evaluation": {
         "score": 0,
         "fit": {
@@ -1098,22 +632,22 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         },
         "summary": "Luke Nascimento gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .172",
-          "OBP .226",
-          "SLG .172"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".172"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".226"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".172"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -1121,42 +655,42 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
           },
           {
             "label": "RBI",
-            "value": "2"
+            "value": "0"
           },
           {
             "label": "SB",
             "value": "0"
           }
         ],
-        "metaLine": "JR / R/R",
+        "metaLine": "SR / R/R",
         "detailBadges": [
           "C",
-          "JR",
+          "SR",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats"
+        "sourceSummary": "Bucknell Athletics roster"
       }
     },
     {
-      "id": "bucknell-13452",
+      "id": "bucknell-14621",
       "schoolSlug": "bucknell",
       "school": "Bucknell",
       "schoolLongName": "Bucknell University",
       "name": "Brady Green",
       "normalizedName": "brady green",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "IF",
       "positionLong": "Infield",
-      "classYear": "FR",
+      "classYear": "SO",
       "handedness": "R/R",
       "jersey": "8",
       "hometown": "Oak Park, Ill.",
       "highSchool": "Oak Park River Forest",
       "previousSchool": "",
       "hometownHighSchool": "Oak Park, Ill. / Oak Park River Forest",
-      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/brady-green/13452",
+      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/brady-green/14621",
       "imageUrl": "https://bucknellbison.com/images/2025/12/9/Green_i0SH6.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -1164,792 +698,13 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "13452",
+      "rosterBioId": "14621",
       "sources": [
-        "Bucknell Athletics roster",
-        "Bucknell cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "13452",
-        "name": "Brady Green",
-        "normalizedName": "brady green",
-        "jersey": "8",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/brady-green/13452",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Green_i0SH6.png",
-        "gamesPlayed": 9,
-        "gamesStarted": 5,
-        "battingAverage": 0.25,
-        "onBasePercentage": 0.294,
-        "sluggingPercentage": 0.5,
-        "ops": 0.794,
-        "atBats": 16,
-        "runs": 2,
-        "hits": 4,
-        "doubles": 1,
-        "triples": 0,
-        "homeRuns": 1,
-        "runsBattedIn": 4,
-        "totalBases": 8,
-        "walks": 1,
-        "hitByPitch": 0,
-        "strikeouts": 2,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 6,
-        "assists": 0,
-        "errors": 1,
-        "plateAppearances": 17,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "13452",
-        "name": "Brady Green",
-        "normalizedName": "brady green",
-        "jersey": "8",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/brady-green/13452",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Green_i0SH6.png",
-        "gamesPlayed": 5,
-        "gamesStarted": 5,
-        "putouts": 6,
-        "assists": 6,
-        "errors": 1,
-        "fieldingPercentage": 0.923,
-        "doublePlays": 2,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 13
-      },
-      "evaluation": {
-        "score": 23,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 7.777777777777755,
-          "Power": 47.36842105263158,
-          "Contact": 18.75,
-          "Discipline": 33.33333333333333,
-          "Speed": 0
-        },
-        "summary": "Brady Green gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .250",
-          "OBP .294",
-          "SLG .500"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".250"
-          },
-          {
-            "label": "OBP",
-            "value": ".294"
-          },
-          {
-            "label": "SLG",
-            "value": ".500"
-          },
-          {
-            "label": "HR",
-            "value": "1"
-          },
-          {
-            "label": "RBI",
-            "value": "4"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "IF",
-          "FR",
-          "R/R",
-          "Hitter"
-        ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats"
-      }
-    },
-    {
-      "id": "bucknell-13434",
-      "schoolSlug": "bucknell",
-      "school": "Bucknell",
-      "schoolLongName": "Bucknell University",
-      "name": "Mikey Myro",
-      "normalizedName": "mikey myro",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Pitcher",
-      "classYear": "SR",
-      "handedness": "R/R",
-      "jersey": "9",
-      "hometown": "Orwigsburg, Pa.",
-      "highSchool": "Blue Mountain",
-      "previousSchool": "",
-      "hometownHighSchool": "Orwigsburg, Pa. / Blue Mountain",
-      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/mikey-myro/13434",
-      "imageUrl": "https://bucknellbison.com/images/2025/12/9/Myro_M25WS.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "13434",
-      "sources": [
-        "Bucknell Athletics roster",
-        "Bucknell cumulative stats"
+        "Bucknell Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "13434",
-        "name": "Mikey Myro",
-        "normalizedName": "mikey myro",
-        "jersey": "9",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/mikey-myro/13434",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Myro_M25WS.png",
-        "gamesPlayed": 18,
-        "gamesStarted": 3,
-        "appearances": 18,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 7.95,
-        "whip": 2.07,
-        "wins": 1,
-        "losses": 4,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 43,
-        "inningsPitchedDisplay": "43.0",
-        "hitsAllowed": 54,
-        "runsAllowed": 47,
-        "earnedRunsAllowed": 38,
-        "walksAllowed": 35,
-        "strikeouts": 35,
-        "doublesAllowed": 10,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 8,
-        "opponentsAtBats": 177,
-        "wildPitches": 10,
-        "hitBatters": 8,
-        "balks": 0,
-        "opponentsBattingAverage": 0.305,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "13434",
-        "name": "Mikey Myro",
-        "normalizedName": "mikey myro",
-        "jersey": "9",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/mikey-myro/13434",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Myro_M25WS.png",
-        "gamesPlayed": 12,
-        "gamesStarted": 2,
-        "putouts": 2,
-        "assists": 6,
-        "errors": 2,
-        "fieldingPercentage": 0.8,
-        "doublePlays": 1,
-        "stolenBasesAgainst": 14,
-        "caughtStealingBy": 3,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 10
-      },
-      "evaluation": {
-        "score": 6,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 30.23255813953488,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Mikey Myro gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 7.95",
-          "WHIP 2.07",
-          "K/9 7.3"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "7.95"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.07"
-          },
-          {
-            "label": "K/9",
-            "value": "7.3"
-          },
-          {
-            "label": "BB/9",
-            "value": "7.3"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.67"
-          },
-          {
-            "label": "IP",
-            "value": "43.0"
-          }
-        ],
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats"
-      }
-    },
-    {
-      "id": "bucknell-13432",
-      "schoolSlug": "bucknell",
-      "school": "Bucknell",
-      "schoolLongName": "Bucknell University",
-      "name": "Chris Morabito",
-      "normalizedName": "chris morabito",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "OF",
-      "positionLong": "Outfield",
-      "classYear": "JR",
-      "handedness": "L/R",
-      "jersey": "10",
-      "hometown": "McLean, Va.",
-      "highSchool": "McLean",
-      "previousSchool": "",
-      "hometownHighSchool": "McLean, Va. / McLean",
-      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/chris-morabito/13432",
-      "imageUrl": "https://bucknellbison.com/images/2025/12/9/Morabito_zWx78.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "13432",
-      "sources": [
-        "Bucknell Athletics roster",
-        "Bucknell cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "13432",
-        "name": "Chris Morabito",
-        "normalizedName": "chris morabito",
-        "jersey": "10",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/chris-morabito/13432",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Morabito_zWx78.png",
-        "gamesPlayed": 18,
-        "gamesStarted": 4,
-        "battingAverage": 0.056,
-        "onBasePercentage": 0.227,
-        "sluggingPercentage": 0.056,
-        "ops": 0.283,
-        "atBats": 18,
-        "runs": 5,
-        "hits": 1,
-        "doubles": 0,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 2,
-        "totalBases": 1,
-        "walks": 3,
-        "hitByPitch": 1,
-        "strikeouts": 8,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 1,
-        "stolenBasesAttempts": 2,
-        "putouts": 15,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 25,
-        "caughtStealing": 1,
-        "pickedOff": 0
-      },
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "13432",
-        "name": "Chris Morabito",
-        "normalizedName": "chris morabito",
-        "jersey": "10",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/chris-morabito/13432",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Morabito_zWx78.png",
-        "gamesPlayed": 7,
-        "gamesStarted": 3,
-        "putouts": 15,
-        "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 15
-      },
-      "evaluation": {
-        "score": 3,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 19.44444444444444,
-          "Speed": 3.3333333333333335
-        },
-        "summary": "Chris Morabito gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .056",
-          "OBP .227",
-          "SLG .056"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".056"
-          },
-          {
-            "label": "OBP",
-            "value": ".227"
-          },
-          {
-            "label": "SLG",
-            "value": ".056"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "2"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
-        "metaLine": "JR / L/R",
-        "detailBadges": [
-          "OF",
-          "JR",
-          "L/R",
-          "Hitter"
-        ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats"
-      }
-    },
-    {
-      "id": "bucknell-13426",
-      "schoolSlug": "bucknell",
-      "school": "Bucknell",
-      "schoolLongName": "Bucknell University",
-      "name": "Billy Fluharty",
-      "normalizedName": "billy fluharty",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "OF",
-      "positionLong": "Outfield",
-      "classYear": "JR",
-      "handedness": "R/R",
-      "jersey": "11",
-      "hometown": "Fredericksburg, Va.",
-      "highSchool": "Riverbend",
-      "previousSchool": "",
-      "hometownHighSchool": "Fredericksburg, Va. / Riverbend",
-      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/billy-fluharty/13426",
-      "imageUrl": "https://bucknellbison.com/images/2025/12/9/Fluharty_Txo9O.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "13426",
-      "sources": [
-        "Bucknell Athletics roster",
-        "Bucknell cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "13426",
-        "name": "Billy Fluharty",
-        "normalizedName": "billy fluharty",
-        "jersey": "11",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/billy-fluharty/13426",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Fluharty_Txo9O.png",
-        "gamesPlayed": 51,
-        "gamesStarted": 51,
-        "battingAverage": 0.287,
-        "onBasePercentage": 0.354,
-        "sluggingPercentage": 0.381,
-        "ops": 0.735,
-        "atBats": 202,
-        "runs": 39,
-        "hits": 58,
-        "doubles": 9,
-        "triples": 5,
-        "homeRuns": 0,
-        "runsBattedIn": 25,
-        "totalBases": 77,
-        "walks": 15,
-        "hitByPitch": 8,
-        "strikeouts": 42,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 3,
-        "sacrificeFlies": 4,
-        "sacrificeHits": 2,
-        "stolenBases": 5,
-        "stolenBasesAttempts": 9,
-        "putouts": 116,
-        "assists": 0,
-        "errors": 3,
-        "plateAppearances": 244,
-        "caughtStealing": 4,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "13426",
-        "name": "Billy Fluharty",
-        "normalizedName": "billy fluharty",
-        "jersey": "11",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/billy-fluharty/13426",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Fluharty_Txo9O.png",
-        "gamesPlayed": 44,
-        "gamesStarted": 44,
-        "putouts": 116,
-        "assists": 1,
-        "errors": 3,
-        "fieldingPercentage": 0.975,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 120
-      },
-      "evaluation": {
-        "score": 29,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 41.111111111111086,
-          "Power": 16.05263157894737,
-          "Contact": 41.874999999999986,
-          "Discipline": 17.460317460317455,
-          "Speed": 16.666666666666664
-        },
-        "summary": "Billy Fluharty gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .287",
-          "OBP .354",
-          "SLG .381"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".287"
-          },
-          {
-            "label": "OBP",
-            "value": ".354"
-          },
-          {
-            "label": "SLG",
-            "value": ".381"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "25"
-          },
-          {
-            "label": "SB",
-            "value": "5"
-          }
-        ],
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "OF",
-          "JR",
-          "R/R",
-          "Hitter"
-        ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats"
-      }
-    },
-    {
-      "id": "bucknell-13424",
-      "schoolSlug": "bucknell",
-      "school": "Bucknell",
-      "schoolLongName": "Bucknell University",
-      "name": "Ryan Facinelli",
-      "normalizedName": "ryan facinelli",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "IF/OF",
-      "positionLong": "Infield/Outfield",
-      "classYear": "SR",
-      "handedness": "R/R",
-      "jersey": "12",
-      "hometown": "Whitehouse Station, N.J.",
-      "highSchool": "Hunterdon Central",
-      "previousSchool": "",
-      "hometownHighSchool": "Whitehouse Station, N.J. / Hunterdon Central",
-      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/ryan-facinelli/13424",
-      "imageUrl": "https://bucknellbison.com/images/2025/12/9/Facinelli_Ryan_zR3Au.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "13424",
-      "sources": [
-        "Bucknell Athletics roster",
-        "Bucknell cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "13424",
-        "name": "Ryan Facinelli",
-        "normalizedName": "ryan facinelli",
-        "jersey": "12",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/ryan-facinelli/13424",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Facinelli_Ryan_zR3Au.png",
-        "gamesPlayed": 41,
-        "gamesStarted": 22,
-        "battingAverage": 0.153,
-        "onBasePercentage": 0.24,
-        "sluggingPercentage": 0.329,
-        "ops": 0.569,
-        "atBats": 85,
-        "runs": 10,
-        "hits": 13,
-        "doubles": 4,
-        "triples": 1,
-        "homeRuns": 3,
-        "runsBattedIn": 13,
-        "totalBases": 28,
-        "walks": 9,
-        "hitByPitch": 1,
-        "strikeouts": 44,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 1,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 176,
-        "assists": 0,
-        "errors": 3,
-        "plateAppearances": 96,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "13424",
-        "name": "Ryan Facinelli",
-        "normalizedName": "ryan facinelli",
-        "jersey": "12",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/ryan-facinelli/13424",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Facinelli_Ryan_zR3Au.png",
-        "gamesPlayed": 31,
-        "gamesStarted": 20,
-        "putouts": 176,
-        "assists": 8,
-        "errors": 3,
-        "fieldingPercentage": 0.984,
-        "doublePlays": 12,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 187
-      },
-      "evaluation": {
-        "score": 1,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 0,
-          "Power": 2.3684210526315814,
-          "Contact": 0,
-          "Discipline": 0.5050505050505052,
-          "Speed": 0
-        },
-        "summary": "Ryan Facinelli gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .153",
-          "OBP .240",
-          "SLG .329"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".153"
-          },
-          {
-            "label": "OBP",
-            "value": ".240"
-          },
-          {
-            "label": "SLG",
-            "value": ".329"
-          },
-          {
-            "label": "HR",
-            "value": "3"
-          },
-          {
-            "label": "RBI",
-            "value": "13"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "IF/OF",
-          "SR",
-          "R/R",
-          "Hitter"
-        ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats"
-      }
-    },
-    {
-      "id": "bucknell-13416",
-      "schoolSlug": "bucknell",
-      "school": "Bucknell",
-      "schoolLongName": "Bucknell University",
-      "name": "Jaxon Beiswenger",
-      "normalizedName": "jaxon beiswenger",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "IF",
-      "positionLong": "Infield",
-      "classYear": "SO",
-      "handedness": "R/R",
-      "jersey": "13",
-      "hometown": "Fargo, N.D.",
-      "highSchool": "Fargo Davies",
-      "previousSchool": "",
-      "hometownHighSchool": "Fargo, N.D. / Fargo Davies",
-      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/jaxon-beiswenger/13416",
-      "imageUrl": "https://bucknellbison.com/images/2025/12/9/Beiswenger_q1X8U.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "13416",
-      "sources": [
-        "Bucknell Athletics roster",
-        "Bucknell cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "13416",
-        "name": "Jaxon Beiswenger",
-        "normalizedName": "jaxon beiswenger",
-        "jersey": "13",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/jaxon-beiswenger/13416",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Beiswenger_q1X8U.png",
-        "gamesPlayed": 2,
-        "gamesStarted": 0,
-        "battingAverage": 0,
-        "onBasePercentage": 0,
-        "sluggingPercentage": 0,
-        "ops": 0,
-        "atBats": 3,
-        "runs": 0,
-        "hits": 0,
-        "doubles": 0,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 0,
-        "totalBases": 0,
-        "walks": 0,
-        "hitByPitch": 0,
-        "strikeouts": 3,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 0,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 3,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "13416",
-        "name": "Jaxon Beiswenger",
-        "normalizedName": "jaxon beiswenger",
-        "jersey": "13",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/jaxon-beiswenger/13416",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Beiswenger_q1X8U.png",
-        "gamesPlayed": 1,
-        "gamesStarted": 0,
-        "putouts": 0,
-        "assists": 1,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 1,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 1
-      },
+      "fieldingStats": null,
       "evaluation": {
         "score": 0,
         "fit": {
@@ -1963,24 +718,24 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "summary": "Jaxon Beiswenger gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Brady Green gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .000",
-          "OBP .000",
-          "SLG .000"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -2000,132 +755,75 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
           "IF",
           "SO",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats"
+        "sourceSummary": "Bucknell Athletics roster"
       }
     },
     {
-      "id": "bucknell-13444",
+      "id": "bucknell-14630",
       "schoolSlug": "bucknell",
       "school": "Bucknell",
       "schoolLongName": "Bucknell University",
-      "name": "Zach Selfon",
-      "normalizedName": "zach selfon",
-      "compositeRole": "Hitter",
+      "name": "Chris Morabito",
+      "normalizedName": "chris morabito",
+      "compositeRole": "Rostered",
       "role": "Hitter",
-      "position": "IF",
-      "positionLong": "Infield",
-      "classYear": "JR",
-      "handedness": "R/R",
-      "jersey": "14",
-      "hometown": "Mahwah, N.J.",
-      "highSchool": "Mahwah High School",
+      "position": "OF",
+      "positionLong": "Outfield",
+      "classYear": "SR",
+      "handedness": "L/R",
+      "jersey": "10",
+      "hometown": "McLean, Va.",
+      "highSchool": "McLean",
       "previousSchool": "",
-      "hometownHighSchool": "Mahwah, N.J. / Mahwah High School",
-      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/zach-selfon/13444",
-      "imageUrl": "https://bucknellbison.com/images/2025/12/9/Selfon_Zach_rMWdx.png",
+      "hometownHighSchool": "McLean, Va. / McLean",
+      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/chris-morabito/14630",
+      "imageUrl": "https://bucknellbison.com/images/2025/12/9/Morabito_zWx78.png",
       "espnAthleteId": "",
       "espnSlug": "",
       "espnDisplayHeight": "",
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "13444",
+      "rosterBioId": "14630",
       "sources": [
-        "Bucknell Athletics roster",
-        "Bucknell cumulative stats"
+        "Bucknell Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "13444",
-        "name": "Zach Selfon",
-        "normalizedName": "zach selfon",
-        "jersey": "14",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/zach-selfon/13444",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Selfon_Zach_rMWdx.png",
-        "gamesPlayed": 51,
-        "gamesStarted": 51,
-        "battingAverage": 0.261,
-        "onBasePercentage": 0.366,
-        "sluggingPercentage": 0.283,
-        "ops": 0.649,
-        "atBats": 184,
-        "runs": 28,
-        "hits": 48,
-        "doubles": 4,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 23,
-        "totalBases": 52,
-        "walks": 22,
-        "hitByPitch": 9,
-        "strikeouts": 23,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 4,
-        "sacrificeFlies": 1,
-        "sacrificeHits": 4,
-        "stolenBases": 1,
-        "stolenBasesAttempts": 2,
-        "putouts": 35,
-        "assists": 0,
-        "errors": 10,
-        "plateAppearances": 223,
-        "caughtStealing": 1,
-        "pickedOff": 1
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "13444",
-        "name": "Zach Selfon",
-        "normalizedName": "zach selfon",
-        "jersey": "14",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/zach-selfon/13444",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Selfon_Zach_rMWdx.png",
-        "gamesPlayed": 46,
-        "gamesStarted": 46,
-        "putouts": 35,
-        "assists": 87,
-        "errors": 10,
-        "fieldingPercentage": 0.924,
-        "doublePlays": 7,
-        "stolenBasesAgainst": 2,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 132
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 32,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 47.77777777777776,
+          "On-base": 0,
           "Power": 0,
-          "Contact": 25.625000000000004,
-          "Discipline": 84.05797101449275,
-          "Speed": 3.3333333333333335
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "summary": "Zach Selfon gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Chris Morabito gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .261",
-          "OBP .366",
-          "SLG .283"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".261"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".366"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".283"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -2133,11 +831,187 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
           },
           {
             "label": "RBI",
-            "value": "23"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "1"
+            "value": "0"
+          }
+        ],
+        "metaLine": "SR / L/R",
+        "detailBadges": [
+          "OF",
+          "SR",
+          "L/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Bucknell Athletics roster"
+      }
+    },
+    {
+      "id": "bucknell-14619",
+      "schoolSlug": "bucknell",
+      "school": "Bucknell",
+      "schoolLongName": "Bucknell University",
+      "name": "Billy Fluharty",
+      "normalizedName": "billy fluharty",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "OF",
+      "positionLong": "Outfield",
+      "classYear": "SR",
+      "handedness": "R/R",
+      "jersey": "11",
+      "hometown": "Fredericksburg, Va.",
+      "highSchool": "Riverbend",
+      "previousSchool": "",
+      "hometownHighSchool": "Fredericksburg, Va. / Riverbend",
+      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/billy-fluharty/14619",
+      "imageUrl": "https://bucknellbison.com/images/2025/12/9/Fluharty_Txo9O.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "14619",
+      "sources": [
+        "Bucknell Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Billy Fluharty gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "OF",
+          "SR",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Bucknell Athletics roster"
+      }
+    },
+    {
+      "id": "bucknell-14613",
+      "schoolSlug": "bucknell",
+      "school": "Bucknell",
+      "schoolLongName": "Bucknell University",
+      "name": "Jaxon Beiswenger",
+      "normalizedName": "jaxon beiswenger",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "IF",
+      "positionLong": "Infield",
+      "classYear": "JR",
+      "handedness": "R/R",
+      "jersey": "13",
+      "hometown": "Fargo, N.D.",
+      "highSchool": "Fargo Davies",
+      "previousSchool": "",
+      "hometownHighSchool": "Fargo, N.D. / Fargo Davies",
+      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/jaxon-beiswenger/14613",
+      "imageUrl": "https://bucknellbison.com/images/2025/12/9/Beiswenger_q1X8U.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "14613",
+      "sources": [
+        "Bucknell Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Jaxon Beiswenger gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
           }
         ],
         "metaLine": "JR / R/R",
@@ -2145,13 +1019,101 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
           "IF",
           "JR",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats"
+        "sourceSummary": "Bucknell Athletics roster"
       }
     },
     {
-      "id": "bucknell-13436",
+      "id": "bucknell-14638",
+      "schoolSlug": "bucknell",
+      "school": "Bucknell",
+      "schoolLongName": "Bucknell University",
+      "name": "Zach Selfon",
+      "normalizedName": "zach selfon",
+      "compositeRole": "Rostered",
+      "role": "Hitter",
+      "position": "IF",
+      "positionLong": "Infield",
+      "classYear": "SR",
+      "handedness": "R/R",
+      "jersey": "14",
+      "hometown": "Mahwah, N.J.",
+      "highSchool": "Mahwah High School",
+      "previousSchool": "",
+      "hometownHighSchool": "Mahwah, N.J. / Mahwah High School",
+      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/zach-selfon/14638",
+      "imageUrl": "https://bucknellbison.com/images/2025/12/9/Selfon_Zach_rMWdx.png",
+      "espnAthleteId": "",
+      "espnSlug": "",
+      "espnDisplayHeight": "",
+      "espnDisplayWeight": "",
+      "espnBats": "",
+      "espnThrows": "",
+      "rosterBioId": "14638",
+      "sources": [
+        "Bucknell Athletics roster"
+      ],
+      "hittingStats": null,
+      "pitchingStats": null,
+      "fieldingStats": null,
+      "evaluation": {
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "summary": "Zach Selfon gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "IF",
+          "SR",
+          "R/R",
+          "Rostered"
+        ],
+        "sourceSummary": "Bucknell Athletics roster"
+      }
+    },
+    {
+      "id": "bucknell-14634",
       "schoolSlug": "bucknell",
       "school": "Bucknell",
       "schoolLongName": "Bucknell University",
@@ -2161,14 +1123,14 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Pitcher",
-      "classYear": "JR",
+      "classYear": "SR",
       "handedness": "R/R",
       "jersey": "16",
       "hometown": "Hopkinton, Mass.",
       "highSchool": "Dexter Southfield",
       "previousSchool": "",
       "hometownHighSchool": "Hopkinton, Mass. / Dexter Southfield",
-      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/dante-pavone/13436",
+      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/dante-pavone/14634",
       "imageUrl": "https://bucknellbison.com/images/2025/12/9/Pavone_U2J8h.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -2176,69 +1138,15 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "13436",
+      "rosterBioId": "14634",
       "sources": [
-        "Bucknell Athletics roster",
-        "Bucknell cumulative stats"
+        "Bucknell Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "13436",
-        "name": "Dante Pavone",
-        "normalizedName": "dante pavone",
-        "jersey": "16",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/dante-pavone/13436",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Pavone_U2J8h.png",
-        "gamesPlayed": 11,
-        "gamesStarted": 0,
-        "appearances": 11,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 9.15,
-        "whip": 2.34,
-        "wins": 2,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 19.666666666666668,
-        "inningsPitchedDisplay": "19.2",
-        "hitsAllowed": 24,
-        "runsAllowed": 27,
-        "earnedRunsAllowed": 20,
-        "walksAllowed": 22,
-        "strikeouts": 17,
-        "doublesAllowed": 3,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 1,
-        "opponentsAtBats": 81,
-        "wildPitches": 2,
-        "hitBatters": 11,
-        "balks": 0,
-        "opponentsBattingAverage": 0.296,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "13436",
-        "name": "Dante Pavone",
-        "normalizedName": "dante pavone",
-        "jersey": "16",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/dante-pavone/13436",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Pavone_U2J8h.png",
-        "gamesPlayed": 4,
-        "gamesStarted": 0,
-        "putouts": 2,
-        "assists": 2,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 4,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 4
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 7,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2246,54 +1154,54 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 34.36055469953775,
+          "Miss bats": 0,
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Dante Pavone gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Dante Pavone looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 9.15",
-          "WHIP 2.34",
-          "K/9 7.8"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "9.15"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "2.34"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "7.8"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "10.1"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "0.46"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "19.7"
+            "value": "0.0"
           }
         ],
-        "metaLine": "JR / R/R",
+        "metaLine": "SR / R/R",
         "detailBadges": [
           "RHP",
-          "JR",
+          "SR",
           "R/R",
           "Pitcher"
         ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats"
+        "sourceSummary": "Bucknell Athletics roster"
       }
     },
     {
-      "id": "bucknell-13415",
+      "id": "bucknell-14612",
       "schoolSlug": "bucknell",
       "school": "Bucknell",
       "schoolLongName": "Bucknell University",
@@ -2303,14 +1211,14 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Pitcher",
-      "classYear": "JR",
+      "classYear": "SR",
       "handedness": "R/R",
       "jersey": "17",
       "hometown": "Mt. Laurel, N.J.",
       "highSchool": "Lenape",
       "previousSchool": "",
       "hometownHighSchool": "Mt. Laurel, N.J. / Lenape",
-      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/jonathan-adelmann/13415",
+      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/jonathan-adelmann/14612",
       "imageUrl": "https://bucknellbison.com/images/2025/12/9/Adelmann_Jonathan_G3BrK.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -2318,69 +1226,15 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "13415",
+      "rosterBioId": "14612",
       "sources": [
-        "Bucknell Athletics roster",
-        "Bucknell cumulative stats"
+        "Bucknell Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "13415",
-        "name": "Jonathan Adelmann",
-        "normalizedName": "jonathan adelmann",
-        "jersey": "17",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/jonathan-adelmann/13415",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Adelmann_Jonathan_G3BrK.png",
-        "gamesPlayed": 6,
-        "gamesStarted": 5,
-        "appearances": 6,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 3,
-        "whip": 1.37,
-        "wins": 1,
-        "losses": 3,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 27,
-        "inningsPitchedDisplay": "27.0",
-        "hitsAllowed": 19,
-        "runsAllowed": 15,
-        "earnedRunsAllowed": 9,
-        "walksAllowed": 18,
-        "strikeouts": 26,
-        "doublesAllowed": 3,
-        "triplesAllowed": 2,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 96,
-        "wildPitches": 1,
-        "hitBatters": 3,
-        "balks": 0,
-        "opponentsBattingAverage": 0.198,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "13415",
-        "name": "Jonathan Adelmann",
-        "normalizedName": "jonathan adelmann",
-        "jersey": "17",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/jonathan-adelmann/13415",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Adelmann_Jonathan_G3BrK.png",
-        "gamesPlayed": 5,
-        "gamesStarted": 5,
-        "putouts": 0,
-        "assists": 3,
-        "errors": 1,
-        "fieldingPercentage": 0.75,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 6,
-        "caughtStealingBy": 2,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 4
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 10,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2388,32 +1242,32 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 42.42424242424242,
-          "Command": 8.888888888888888,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Jonathan Adelmann looks like a RHP option who limits runs.",
+        "summary": "Jonathan Adelmann looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 3.00",
-          "WHIP 1.37",
-          "K/9 8.7"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.00"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.37"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "8.7"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "6.0"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
@@ -2421,166 +1275,21 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
           },
           {
             "label": "IP",
-            "value": "27.0"
-          }
-        ],
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats"
-      }
-    },
-    {
-      "id": "bucknell-13419",
-      "schoolSlug": "bucknell",
-      "school": "Bucknell",
-      "schoolLongName": "Bucknell University",
-      "name": "Garrison Bullock",
-      "normalizedName": "garrison bullock",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "C",
-      "positionLong": "Catcher",
-      "classYear": "SR",
-      "handedness": "R/R",
-      "jersey": "19",
-      "hometown": "Concord, N.C.",
-      "highSchool": "Central Cabbarus",
-      "previousSchool": "Emory & Henry",
-      "hometownHighSchool": "Concord, N.C. / Central Cabbarus",
-      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/garrison-bullock/13419",
-      "imageUrl": "https://bucknellbison.com/images/2024/12/11/bullock_garrison_web.jpg",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "13419",
-      "sources": [
-        "Bucknell Athletics roster",
-        "Bucknell cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "13419",
-        "name": "Garrison Bullock",
-        "normalizedName": "garrison bullock",
-        "jersey": "19",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/garrison-bullock/13419",
-        "imageUrl": "https://bucknellbison.com/images/2024/12/11/bullock_garrison_web.jpg",
-        "gamesPlayed": 7,
-        "gamesStarted": 4,
-        "battingAverage": 0.2,
-        "onBasePercentage": 0.294,
-        "sluggingPercentage": 0.6,
-        "ops": 0.894,
-        "atBats": 15,
-        "runs": 2,
-        "hits": 3,
-        "doubles": 1,
-        "triples": 1,
-        "homeRuns": 1,
-        "runsBattedIn": 2,
-        "totalBases": 9,
-        "walks": 2,
-        "hitByPitch": 0,
-        "strikeouts": 7,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 0,
-        "sacrificeFlies": 0,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 16,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 17,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
-      "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "13419",
-        "name": "Garrison Bullock",
-        "normalizedName": "garrison bullock",
-        "jersey": "19",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/garrison-bullock/13419",
-        "imageUrl": "https://bucknellbison.com/images/2024/12/11/bullock_garrison_web.jpg",
-        "gamesPlayed": 3,
-        "gamesStarted": 3,
-        "putouts": 16,
-        "assists": 6,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 1,
-        "caughtStealingBy": 3,
-        "stolenBasesPercentage": null,
-        "passedBalls": 2,
-        "catchersInterference": 0,
-        "totalChances": 22
-      },
-      "evaluation": {
-        "score": 23,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 7.777777777777755,
-          "Power": 73.6842105263158,
-          "Contact": 0,
-          "Discipline": 9.523809523809518,
-          "Speed": 0
-        },
-        "summary": "Garrison Bullock profiles as a C piece who brings real extra-base damage.",
-        "summaryMetrics": [
-          "AVG .200",
-          "OBP .294",
-          "SLG .600"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".200"
-          },
-          {
-            "label": "OBP",
-            "value": ".294"
-          },
-          {
-            "label": "SLG",
-            "value": ".600"
-          },
-          {
-            "label": "HR",
-            "value": "1"
-          },
-          {
-            "label": "RBI",
-            "value": "2"
-          },
-          {
-            "label": "SB",
-            "value": "0"
+            "value": "0.0"
           }
         ],
         "metaLine": "SR / R/R",
         "detailBadges": [
-          "C",
+          "RHP",
           "SR",
           "R/R",
-          "Hitter"
+          "Pitcher"
         ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats"
+        "sourceSummary": "Bucknell Athletics roster"
       }
     },
     {
-      "id": "bucknell-13433",
+      "id": "bucknell-14631",
       "schoolSlug": "bucknell",
       "school": "Bucknell",
       "schoolLongName": "Bucknell University",
@@ -2590,14 +1299,14 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Pitcher",
-      "classYear": "SO",
+      "classYear": "JR",
       "handedness": "L/R",
       "jersey": "20",
       "hometown": "Arlington, Va.",
       "highSchool": "Bishop O'Connell",
       "previousSchool": "",
       "hometownHighSchool": "Arlington, Va. / Bishop O'Connell",
-      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/aj-murray/13433",
+      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/aj-murray/14631",
       "imageUrl": "https://bucknellbison.com/images/2025/12/9/Murray_AJ_LlwST.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -2605,69 +1314,15 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "13433",
+      "rosterBioId": "14631",
       "sources": [
-        "Bucknell Athletics roster",
-        "Bucknell cumulative stats"
+        "Bucknell Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "13433",
-        "name": "AJ Murray",
-        "normalizedName": "aj murray",
-        "jersey": "20",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/aj-murray/13433",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Murray_AJ_LlwST.png",
-        "gamesPlayed": 3,
-        "gamesStarted": 1,
-        "appearances": 3,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 9.64,
-        "whip": 3,
-        "wins": 0,
-        "losses": 1,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 4.666666666666667,
-        "inningsPitchedDisplay": "4.2",
-        "hitsAllowed": 7,
-        "runsAllowed": 5,
-        "earnedRunsAllowed": 5,
-        "walksAllowed": 7,
-        "strikeouts": 3,
-        "doublesAllowed": 2,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 1,
-        "opponentsAtBats": 17,
-        "wildPitches": 0,
-        "hitBatters": 1,
-        "balks": 0,
-        "opponentsBattingAverage": 0.412,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "13433",
-        "name": "AJ Murray",
-        "normalizedName": "aj murray",
-        "jersey": "20",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/aj-murray/13433",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Murray_AJ_LlwST.png",
-        "gamesPlayed": 2,
-        "gamesStarted": 1,
-        "putouts": 0,
-        "assists": 1,
-        "errors": 1,
-        "fieldingPercentage": 0.5,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 1,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 2
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 3,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2675,54 +1330,54 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 16.233766233766232,
+          "Miss bats": 0,
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "AJ Murray gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "AJ Murray looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 9.64",
-          "WHIP 3.00",
-          "K/9 5.8"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "9.64"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "3.00"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "5.8"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "13.5"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.93"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "4.7"
+            "value": "0.0"
           }
         ],
-        "metaLine": "SO / L/R",
+        "metaLine": "JR / L/R",
         "detailBadges": [
           "RHP",
-          "SO",
+          "JR",
           "L/R",
           "Pitcher"
         ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats"
+        "sourceSummary": "Bucknell Athletics roster"
       }
     },
     {
-      "id": "bucknell-13438",
+      "id": "bucknell-14636",
       "schoolSlug": "bucknell",
       "school": "Bucknell",
       "schoolLongName": "Bucknell University",
@@ -2732,14 +1387,14 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Pitcher",
-      "classYear": "JR",
+      "classYear": "SR",
       "handedness": "R/R",
       "jersey": "21",
       "hometown": "Exton, Pa.",
       "highSchool": "Downingtown East",
       "previousSchool": "",
       "hometownHighSchool": "Exton, Pa. / Downingtown East",
-      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/jake-schultz/13438",
+      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/jake-schultz/14636",
       "imageUrl": "https://bucknellbison.com/images/2025/12/9/Schultz_Jake_pb7QS.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -2747,69 +1402,15 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "13438",
+      "rosterBioId": "14636",
       "sources": [
-        "Bucknell Athletics roster",
-        "Bucknell cumulative stats"
+        "Bucknell Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "13438",
-        "name": "Jake Schultz",
-        "normalizedName": "jake schultz",
-        "jersey": "21",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/jake-schultz/13438",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Schultz_Jake_pb7QS.png",
-        "gamesPlayed": 11,
-        "gamesStarted": 9,
-        "appearances": 11,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 3.8,
-        "whip": 1.31,
-        "wins": 3,
-        "losses": 1,
-        "saves": 1,
-        "shutouts": 0,
-        "inningsPitched": 42.666666666666664,
-        "inningsPitchedDisplay": "42.2",
-        "hitsAllowed": 38,
-        "runsAllowed": 19,
-        "earnedRunsAllowed": 18,
-        "walksAllowed": 18,
-        "strikeouts": 38,
-        "doublesAllowed": 5,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 5,
-        "opponentsAtBats": 161,
-        "wildPitches": 1,
-        "hitBatters": 7,
-        "balks": 0,
-        "opponentsBattingAverage": 0.236,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "13438",
-        "name": "Jake Schultz",
-        "normalizedName": "jake schultz",
-        "jersey": "21",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/jake-schultz/13438",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Schultz_Jake_pb7QS.png",
-        "gamesPlayed": 7,
-        "gamesStarted": 7,
-        "putouts": 2,
-        "assists": 3,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 7,
-        "caughtStealingBy": 2,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 5
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 11,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -2817,174 +1418,32 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 36.50568181818182,
-          "Command": 22.222222222222225,
-          "Damage suppression": 0
-        },
-        "summary": "Jake Schultz looks like a RHP option who limits runs.",
-        "summaryMetrics": [
-          "ERA 3.80",
-          "WHIP 1.31",
-          "K/9 8.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.80"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.31"
-          },
-          {
-            "label": "K/9",
-            "value": "8.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.8"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.05"
-          },
-          {
-            "label": "IP",
-            "value": "42.7"
-          }
-        ],
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats"
-      }
-    },
-    {
-      "id": "bucknell-13425",
-      "schoolSlug": "bucknell",
-      "school": "Bucknell",
-      "schoolLongName": "Bucknell University",
-      "name": "Ethan Firestein",
-      "normalizedName": "ethan firestein",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Pitcher",
-      "classYear": "SR",
-      "handedness": "R/R",
-      "jersey": "22",
-      "hometown": "Hollywood, Fla.",
-      "highSchool": "Posnack School",
-      "previousSchool": "",
-      "hometownHighSchool": "Hollywood, Fla. / Posnack School",
-      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/ethan-firestein/13425",
-      "imageUrl": "https://bucknellbison.com/images/2025/12/9/Firestein-Ethan_aGDDE.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "13425",
-      "sources": [
-        "Bucknell Athletics roster",
-        "Bucknell cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "13425",
-        "name": "Ethan Firestein",
-        "normalizedName": "ethan firestein",
-        "jersey": "22",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/ethan-firestein/13425",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Firestein-Ethan_aGDDE.png",
-        "gamesPlayed": 4,
-        "gamesStarted": 0,
-        "appearances": 4,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 36,
-        "whip": 5.5,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 2,
-        "inningsPitchedDisplay": "2.0",
-        "hitsAllowed": 4,
-        "runsAllowed": 8,
-        "earnedRunsAllowed": 8,
-        "walksAllowed": 7,
-        "strikeouts": 2,
-        "doublesAllowed": 1,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 10,
-        "wildPitches": 3,
-        "hitBatters": 0,
-        "balks": 0,
-        "opponentsBattingAverage": 0.4,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "13425",
-        "name": "Ethan Firestein",
-        "normalizedName": "ethan firestein",
-        "jersey": "22",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/ethan-firestein/13425",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Firestein-Ethan_aGDDE.png",
-        "gamesPlayed": 1,
-        "gamesStarted": 0,
-        "putouts": 0,
-        "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 0,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 2,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 0
-      },
-      "evaluation": {
-        "score": 9,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
+          "Miss bats": 0,
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Ethan Firestein looks like a RHP option who misses bats.",
+        "summary": "Jake Schultz looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 36.00",
-          "WHIP 5.50",
-          "K/9 9.0"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "36.00"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "5.50"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "9.0"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "31.5"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
@@ -2992,7 +1451,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
           },
           {
             "label": "IP",
-            "value": "2.0"
+            "value": "0.0"
           }
         ],
         "metaLine": "SR / R/R",
@@ -3002,11 +1461,11 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
           "R/R",
           "Pitcher"
         ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats"
+        "sourceSummary": "Bucknell Athletics roster"
       }
     },
     {
-      "id": "bucknell-13446",
+      "id": "bucknell-14637",
       "schoolSlug": "bucknell",
       "school": "Bucknell",
       "schoolLongName": "Bucknell University",
@@ -3016,14 +1475,14 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
       "role": "Pitcher",
       "position": "LHP",
       "positionLong": "Left-Handed Pitcher",
-      "classYear": "FR",
+      "classYear": "SO",
       "handedness": "R/L",
       "jersey": "23",
       "hometown": "Philadelphia, Pa.",
       "highSchool": "Central High School",
       "previousSchool": "",
       "hometownHighSchool": "Philadelphia, Pa. / Central High School",
-      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/tyler-seidman/13446",
+      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/tyler-seidman/14637",
       "imageUrl": "https://bucknellbison.com/images/2025/12/9/Seidman_34Xvr.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -3031,69 +1490,15 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "13446",
+      "rosterBioId": "14637",
       "sources": [
-        "Bucknell Athletics roster",
-        "Bucknell cumulative stats"
+        "Bucknell Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "13446",
-        "name": "Tyler Seidman",
-        "normalizedName": "tyler seidman",
-        "jersey": "23",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/tyler-seidman/13446",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Seidman_34Xvr.png",
-        "gamesPlayed": 15,
-        "gamesStarted": 5,
-        "appearances": 15,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 6.37,
-        "whip": 1.67,
-        "wins": 2,
-        "losses": 1,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 35.333333333333336,
-        "inningsPitchedDisplay": "35.1",
-        "hitsAllowed": 30,
-        "runsAllowed": 32,
-        "earnedRunsAllowed": 25,
-        "walksAllowed": 29,
-        "strikeouts": 35,
-        "doublesAllowed": 4,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 3,
-        "opponentsAtBats": 136,
-        "wildPitches": 9,
-        "hitBatters": 6,
-        "balks": 1,
-        "opponentsBattingAverage": 0.221,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "13446",
-        "name": "Tyler Seidman",
-        "normalizedName": "tyler seidman",
-        "jersey": "23",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/tyler-seidman/13446",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Seidman_34Xvr.png",
-        "gamesPlayed": 5,
-        "gamesStarted": 3,
-        "putouts": 0,
-        "assists": 2,
-        "errors": 1,
-        "fieldingPercentage": 0.667,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 11,
-        "caughtStealingBy": 1,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 3
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 10,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3101,54 +1506,54 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 44.682675814751285,
-          "Command": 4.137931034482758,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Tyler Seidman gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Tyler Seidman looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 6.37",
-          "WHIP 1.67",
-          "K/9 8.9"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "6.37"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.67"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "8.9"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "7.4"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "0.76"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "35.3"
+            "value": "0.0"
           }
         ],
-        "metaLine": "FR / R/L",
+        "metaLine": "SO / R/L",
         "detailBadges": [
           "LHP",
-          "FR",
+          "SO",
           "R/L",
           "Pitcher"
         ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats"
+        "sourceSummary": "Bucknell Athletics roster"
       }
     },
     {
-      "id": "bucknell-13427",
+      "id": "bucknell-14620",
       "schoolSlug": "bucknell",
       "school": "Bucknell",
       "schoolLongName": "Bucknell University",
@@ -3158,14 +1563,14 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Pitcher",
-      "classYear": "SO",
+      "classYear": "JR",
       "handedness": "R/R",
       "jersey": "24",
       "hometown": "New York, N.Y.",
       "highSchool": "Dwight-Englewood",
       "previousSchool": "",
       "hometownHighSchool": "New York, N.Y. / Dwight-Englewood",
-      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/everett-garber/13427",
+      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/everett-garber/14620",
       "imageUrl": "https://bucknellbison.com/images/2025/12/9/Garber_Everett_OOPkB.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -3173,69 +1578,15 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "13427",
+      "rosterBioId": "14620",
       "sources": [
-        "Bucknell Athletics roster",
-        "Bucknell cumulative stats"
+        "Bucknell Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "13427",
-        "name": "Everett Garber",
-        "normalizedName": "everett garber",
-        "jersey": "24",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/everett-garber/13427",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Garber_Everett_OOPkB.png",
-        "gamesPlayed": 12,
-        "gamesStarted": 9,
-        "appearances": 12,
-        "gamesCompleted": 1,
-        "earnedRunAverage": 4.67,
-        "whip": 1.52,
-        "wins": 4,
-        "losses": 3,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 52,
-        "inningsPitchedDisplay": "52.0",
-        "hitsAllowed": 50,
-        "runsAllowed": 33,
-        "earnedRunsAllowed": 27,
-        "walksAllowed": 29,
-        "strikeouts": 53,
-        "doublesAllowed": 15,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 5,
-        "opponentsAtBats": 195,
-        "wildPitches": 5,
-        "hitBatters": 9,
-        "balks": 1,
-        "opponentsBattingAverage": 0.256,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "13427",
-        "name": "Everett Garber",
-        "normalizedName": "everett garber",
-        "jersey": "24",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/everett-garber/13427",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Garber_Everett_OOPkB.png",
-        "gamesPlayed": 10,
-        "gamesStarted": 9,
-        "putouts": 0,
-        "assists": 7,
-        "errors": 3,
-        "fieldingPercentage": 0.7,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 21,
-        "caughtStealingBy": 1,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 10
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 12,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3243,54 +1594,54 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 47.027972027972034,
-          "Command": 16.551724137931036,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Everett Garber looks like a RHP option who misses bats.",
+        "summary": "Everett Garber looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 4.67",
-          "WHIP 1.52",
-          "K/9 9.2"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "4.67"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.52"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "9.2"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "5.0"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "0.87"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "52.0"
+            "value": "0.0"
           }
         ],
-        "metaLine": "SO / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "RHP",
-          "SO",
+          "JR",
           "R/R",
           "Pitcher"
         ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats"
+        "sourceSummary": "Bucknell Athletics roster"
       }
     },
     {
-      "id": "bucknell-13437",
+      "id": "bucknell-14635",
       "schoolSlug": "bucknell",
       "school": "Bucknell",
       "schoolLongName": "Bucknell University",
@@ -3300,14 +1651,14 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Pitcher",
-      "classYear": "JR",
+      "classYear": "SR",
       "handedness": "R/R",
       "jersey": "25",
       "hometown": "Pompano Beach, Fla.",
       "highSchool": "North Broward Prep",
       "previousSchool": "",
       "hometownHighSchool": "Pompano Beach, Fla. / North Broward Prep",
-      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/dylan-radtke/13437",
+      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/dylan-radtke/14635",
       "imageUrl": "https://bucknellbison.com/images/2025/12/9/Radtke_aECmc.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -3315,7 +1666,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "13437",
+      "rosterBioId": "14635",
       "sources": [
         "Bucknell Athletics roster"
       ],
@@ -3367,10 +1718,10 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "JR / R/R",
+        "metaLine": "SR / R/R",
         "detailBadges": [
           "RHP",
-          "JR",
+          "SR",
           "R/R",
           "Pitcher"
         ],
@@ -3378,7 +1729,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
       }
     },
     {
-      "id": "bucknell-13447",
+      "id": "bucknell-14625",
       "schoolSlug": "bucknell",
       "school": "Bucknell",
       "schoolLongName": "Bucknell University",
@@ -3388,14 +1739,14 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Right-Handed Pitcher",
-      "classYear": "FR",
+      "classYear": "SO",
       "handedness": "R/R",
       "jersey": "26",
       "hometown": "Alexandria, Va.",
       "highSchool": "Alexandria City High School",
       "previousSchool": "",
       "hometownHighSchool": "Alexandria, Va. / Alexandria City High School",
-      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/liam-jones/13447",
+      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/liam-jones/14625",
       "imageUrl": "https://bucknellbison.com/images/2025/12/9/Jones_Liam_ZnSvJ.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -3403,69 +1754,15 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "13447",
+      "rosterBioId": "14625",
       "sources": [
-        "Bucknell Athletics roster",
-        "Bucknell cumulative stats"
+        "Bucknell Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "13447",
-        "name": "Liam Jones",
-        "normalizedName": "liam jones",
-        "jersey": "26",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/liam-jones/13447",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Jones_Liam_ZnSvJ.png",
-        "gamesPlayed": 10,
-        "gamesStarted": 0,
-        "appearances": 10,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 5.14,
-        "whip": 2.14,
-        "wins": 2,
-        "losses": 2,
-        "saves": 1,
-        "shutouts": 0,
-        "inningsPitched": 14,
-        "inningsPitchedDisplay": "14.0",
-        "hitsAllowed": 20,
-        "runsAllowed": 12,
-        "earnedRunsAllowed": 8,
-        "walksAllowed": 10,
-        "strikeouts": 15,
-        "doublesAllowed": 6,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 56,
-        "wildPitches": 1,
-        "hitBatters": 4,
-        "balks": 0,
-        "opponentsBattingAverage": 0.357,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "13447",
-        "name": "Liam Jones",
-        "normalizedName": "liam jones",
-        "jersey": "26",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/liam-jones/13447",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Jones_Liam_ZnSvJ.png",
-        "gamesPlayed": 6,
-        "gamesStarted": 0,
-        "putouts": 1,
-        "assists": 5,
-        "errors": 3,
-        "fieldingPercentage": 0.667,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 3,
-        "caughtStealingBy": 4,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 9
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 12,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3473,32 +1770,32 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 51.298701298701296,
-          "Command": 9.999999999999995,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Liam Jones looks like a RHP option who misses bats.",
+        "summary": "Liam Jones looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 5.14",
-          "WHIP 2.14",
-          "K/9 9.6"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.14"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "2.14"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "9.6"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "6.4"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
@@ -3506,21 +1803,21 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
           },
           {
             "label": "IP",
-            "value": "14.0"
+            "value": "0.0"
           }
         ],
-        "metaLine": "FR / R/R",
+        "metaLine": "SO / R/R",
         "detailBadges": [
           "RHP",
-          "FR",
+          "SO",
           "R/R",
           "Pitcher"
         ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats"
+        "sourceSummary": "Bucknell Athletics roster"
       }
     },
     {
-      "id": "bucknell-13448",
+      "id": "bucknell-14626",
       "schoolSlug": "bucknell",
       "school": "Bucknell",
       "schoolLongName": "Bucknell University",
@@ -3530,14 +1827,14 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Right-Handed Pitcher",
-      "classYear": "FR",
+      "classYear": "SO",
       "handedness": "R/R",
       "jersey": "27",
       "hometown": "Arlington, Va.",
       "highSchool": "Washington Liberty High School",
       "previousSchool": "",
       "hometownHighSchool": "Arlington, Va. / Washington Liberty High School",
-      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/jack-keane/13448",
+      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/jack-keane/14626",
       "imageUrl": "https://bucknellbison.com/images/2025/12/9/Keane_Jack_OP8Up.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -3545,7 +1842,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "13448",
+      "rosterBioId": "14626",
       "sources": [
         "Bucknell Athletics roster"
       ],
@@ -3597,10 +1894,10 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "FR / R/R",
+        "metaLine": "SO / R/R",
         "detailBadges": [
           "RHP",
-          "FR",
+          "SO",
           "R/R",
           "Pitcher"
         ],
@@ -3608,7 +1905,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
       }
     },
     {
-      "id": "bucknell-13417",
+      "id": "bucknell-14614",
       "schoolSlug": "bucknell",
       "school": "Bucknell",
       "schoolLongName": "Bucknell University",
@@ -3618,14 +1915,14 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
       "role": "Pitcher",
       "position": "LHP",
       "positionLong": "Pitcher",
-      "classYear": "SO",
+      "classYear": "JR",
       "handedness": "L/L",
       "jersey": "28",
       "hometown": "Chicago, Ill.",
       "highSchool": "Marist",
       "previousSchool": "",
       "hometownHighSchool": "Chicago, Ill. / Marist",
-      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/frankie-bilecki/13417",
+      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/frankie-bilecki/14614",
       "imageUrl": "https://bucknellbison.com/images/2025/12/9/Bilecki_Frankie_olPRh.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -3633,69 +1930,15 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "13417",
+      "rosterBioId": "14614",
       "sources": [
-        "Bucknell Athletics roster",
-        "Bucknell cumulative stats"
+        "Bucknell Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "13417",
-        "name": "Frankie Bilecki",
-        "normalizedName": "frankie bilecki",
-        "jersey": "28",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/frankie-bilecki/13417",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Bilecki_Frankie_olPRh.png",
-        "gamesPlayed": 7,
-        "gamesStarted": 5,
-        "appearances": 7,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 7.94,
-        "whip": 2,
-        "wins": 0,
-        "losses": 2,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 17,
-        "inningsPitchedDisplay": "17.0",
-        "hitsAllowed": 20,
-        "runsAllowed": 16,
-        "earnedRunsAllowed": 15,
-        "walksAllowed": 14,
-        "strikeouts": 11,
-        "doublesAllowed": 3,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 2,
-        "opponentsAtBats": 62,
-        "wildPitches": 0,
-        "hitBatters": 6,
-        "balks": 0,
-        "opponentsBattingAverage": 0.323,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "13417",
-        "name": "Frankie Bilecki",
-        "normalizedName": "frankie bilecki",
-        "jersey": "28",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/frankie-bilecki/13417",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Bilecki_Frankie_olPRh.png",
-        "gamesPlayed": 5,
-        "gamesStarted": 4,
-        "putouts": 0,
-        "assists": 1,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 6,
-        "caughtStealingBy": 1,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 1
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 3,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3703,196 +1946,54 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 16.57754010695187,
+          "Miss bats": 0,
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Frankie Bilecki gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Frankie Bilecki looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 7.94",
-          "WHIP 2.00",
-          "K/9 5.8"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.94"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "2.00"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "5.8"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "7.4"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.06"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "17.0"
+            "value": "0.0"
           }
         ],
-        "metaLine": "SO / L/L",
+        "metaLine": "JR / L/L",
         "detailBadges": [
           "LHP",
-          "SO",
+          "JR",
           "L/L",
           "Pitcher"
         ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats"
+        "sourceSummary": "Bucknell Athletics roster"
       }
     },
     {
-      "id": "bucknell-13445",
-      "schoolSlug": "bucknell",
-      "school": "Bucknell",
-      "schoolLongName": "Bucknell University",
-      "name": "Kobe Julks",
-      "normalizedName": "kobe julks",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Right-Handed Pitcher",
-      "classYear": "SR",
-      "handedness": "N/A",
-      "jersey": "29",
-      "hometown": "Chatham, Mass.",
-      "highSchool": "St. George's School",
-      "previousSchool": "",
-      "hometownHighSchool": "Chatham, Mass. / St. George's School",
-      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/kobe-julks/13445",
-      "imageUrl": "https://bucknellbison.com/images/2025/12/9/Julks_Kobe_gINpR.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "13445",
-      "sources": [
-        "Bucknell Athletics roster",
-        "Bucknell cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "13445",
-        "name": "Kobe Julks",
-        "normalizedName": "kobe julks",
-        "jersey": "29",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/kobe-julks/13445",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Julks_Kobe_gINpR.png",
-        "gamesPlayed": 5,
-        "gamesStarted": 0,
-        "appearances": 5,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 6,
-        "whip": 1.67,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 3,
-        "inningsPitchedDisplay": "3.0",
-        "hitsAllowed": 3,
-        "runsAllowed": 2,
-        "earnedRunsAllowed": 2,
-        "walksAllowed": 2,
-        "strikeouts": 2,
-        "doublesAllowed": 0,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 1,
-        "opponentsAtBats": 11,
-        "wildPitches": 1,
-        "hitBatters": 1,
-        "balks": 0,
-        "opponentsBattingAverage": 0.273,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "13445",
-        "name": "Kobe Julks",
-        "normalizedName": "kobe julks",
-        "jersey": "29",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/kobe-julks/13445",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Julks_Kobe_gINpR.png",
-        "gamesPlayed": 2,
-        "gamesStarted": 0,
-        "putouts": 1,
-        "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 1,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 1
-      },
-      "evaluation": {
-        "score": 4,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 18.181818181818183,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Kobe Julks gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 6.00",
-          "WHIP 1.67",
-          "K/9 6.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "6.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.67"
-          },
-          {
-            "label": "K/9",
-            "value": "6.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "6.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "3.00"
-          },
-          {
-            "label": "IP",
-            "value": "3.0"
-          }
-        ],
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "N/A",
-          "Pitcher"
-        ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats"
-      }
-    },
-    {
-      "id": "bucknell-13428",
+      "id": "bucknell-14622",
       "schoolSlug": "bucknell",
       "school": "Bucknell",
       "schoolLongName": "Bucknell University",
@@ -3902,14 +2003,14 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Pitcher",
-      "classYear": "SO",
+      "classYear": "JR",
       "handedness": "R/R",
       "jersey": "30",
       "hometown": "Santa Ana, Calif.",
       "highSchool": "Foothill",
       "previousSchool": "",
       "hometownHighSchool": "Santa Ana, Calif. / Foothill",
-      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/tyler-hawkins/13428",
+      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/tyler-hawkins/14622",
       "imageUrl": "https://bucknellbison.com/images/2025/12/9/Hawkins_9OqOm.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -3917,69 +2018,15 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "13428",
+      "rosterBioId": "14622",
       "sources": [
-        "Bucknell Athletics roster",
-        "Bucknell cumulative stats"
+        "Bucknell Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "13428",
-        "name": "Tyler Hawkins",
-        "normalizedName": "tyler hawkins",
-        "jersey": "30",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/tyler-hawkins/13428",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Hawkins_9OqOm.png",
-        "gamesPlayed": 17,
-        "gamesStarted": 0,
-        "appearances": 17,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 7.99,
-        "whip": 2.2,
-        "wins": 2,
-        "losses": 2,
-        "saves": 1,
-        "shutouts": 0,
-        "inningsPitched": 23.666666666666668,
-        "inningsPitchedDisplay": "23.2",
-        "hitsAllowed": 32,
-        "runsAllowed": 26,
-        "earnedRunsAllowed": 21,
-        "walksAllowed": 20,
-        "strikeouts": 18,
-        "doublesAllowed": 1,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 3,
-        "opponentsAtBats": 98,
-        "wildPitches": 5,
-        "hitBatters": 8,
-        "balks": 0,
-        "opponentsBattingAverage": 0.327,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "13428",
-        "name": "Tyler Hawkins",
-        "normalizedName": "tyler hawkins",
-        "jersey": "30",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/tyler-hawkins/13428",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Hawkins_9OqOm.png",
-        "gamesPlayed": 8,
-        "gamesStarted": 0,
-        "putouts": 0,
-        "assists": 3,
-        "errors": 1,
-        "fieldingPercentage": 0.75,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 7,
-        "caughtStealingBy": 2,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 4
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 5,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -3987,54 +2034,54 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 25.86427656850192,
+          "Miss bats": 0,
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Tyler Hawkins gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Tyler Hawkins looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 7.99",
-          "WHIP 2.20",
-          "K/9 6.8"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.99"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "2.20"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "6.8"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "7.6"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.14"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "23.7"
+            "value": "0.0"
           }
         ],
-        "metaLine": "SO / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "RHP",
-          "SO",
+          "JR",
           "R/R",
           "Pitcher"
         ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats"
+        "sourceSummary": "Bucknell Athletics roster"
       }
     },
     {
-      "id": "bucknell-13449",
+      "id": "bucknell-14623",
       "schoolSlug": "bucknell",
       "school": "Bucknell",
       "schoolLongName": "Bucknell University",
@@ -4044,14 +2091,14 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Right-Handed Pitcher",
-      "classYear": "FR",
+      "classYear": "SO",
       "handedness": "R/R",
       "jersey": "31",
       "hometown": "Tampa, Fla.",
       "highSchool": "Jesuit High School",
       "previousSchool": "",
       "hometownHighSchool": "Tampa, Fla. / Jesuit High School",
-      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/brady-hoar/13449",
+      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/brady-hoar/14623",
       "imageUrl": "https://bucknellbison.com/images/2025/12/9/Hoar_vOkO7.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -4059,356 +2106,15 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "13449",
+      "rosterBioId": "14623",
       "sources": [
-        "Bucknell Athletics roster",
-        "Bucknell cumulative stats"
+        "Bucknell Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "13449",
-        "name": "Brady Hoar",
-        "normalizedName": "brady hoar",
-        "jersey": "31",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/brady-hoar/13449",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Hoar_vOkO7.png",
-        "gamesPlayed": 14,
-        "gamesStarted": 14,
-        "appearances": 14,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 4.81,
-        "whip": 1.25,
-        "wins": 7,
-        "losses": 3,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 73,
-        "inningsPitchedDisplay": "73.0",
-        "hitsAllowed": 65,
-        "runsAllowed": 44,
-        "earnedRunsAllowed": 39,
-        "walksAllowed": 26,
-        "strikeouts": 49,
-        "doublesAllowed": 20,
-        "triplesAllowed": 3,
-        "homeRunsAllowed": 5,
-        "opponentsAtBats": 267,
-        "wildPitches": 4,
-        "hitBatters": 8,
-        "balks": 0,
-        "opponentsBattingAverage": 0.243,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "13449",
-        "name": "Brady Hoar",
-        "normalizedName": "brady hoar",
-        "jersey": "31",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/brady-hoar/13449",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Hoar_vOkO7.png",
-        "gamesPlayed": 12,
-        "gamesStarted": 12,
-        "putouts": 7,
-        "assists": 9,
-        "errors": 1,
-        "fieldingPercentage": 0.941,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 7,
-        "caughtStealingBy": 4,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 17
-      },
-      "evaluation": {
-        "score": 7,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 18.55541718555417,
-          "Command": 17.69230769230769,
-          "Damage suppression": 0
-        },
-        "summary": "Brady Hoar looks like a RHP option who keeps traffic under control.",
-        "summaryMetrics": [
-          "ERA 4.81",
-          "WHIP 1.25",
-          "K/9 6.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.81"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.25"
-          },
-          {
-            "label": "K/9",
-            "value": "6.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.2"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.62"
-          },
-          {
-            "label": "IP",
-            "value": "73.0"
-          }
-        ],
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats"
-      }
-    },
-    {
-      "id": "bucknell-13440",
-      "schoolSlug": "bucknell",
-      "school": "Bucknell",
-      "schoolLongName": "Bucknell University",
-      "name": "Michael Trommer",
-      "normalizedName": "michael trommer",
-      "compositeRole": "Hitter",
-      "role": "Hitter",
-      "position": "IF",
-      "positionLong": "Infield",
-      "classYear": "SR",
-      "handedness": "L/R",
-      "jersey": "32",
-      "hometown": "Trevose, Pa.",
-      "highSchool": "Archbishop Wood",
-      "previousSchool": "",
-      "hometownHighSchool": "Trevose, Pa. / Archbishop Wood",
-      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/michael-trommer/13440",
-      "imageUrl": "https://bucknellbison.com/images/2025/12/9/Trommer_Michael_6fkyi.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "13440",
-      "sources": [
-        "Bucknell Athletics roster",
-        "Bucknell cumulative stats"
-      ],
-      "hittingStats": {
-        "rosterBioId": "13440",
-        "name": "Michael Trommer",
-        "normalizedName": "michael trommer",
-        "jersey": "32",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/michael-trommer/13440",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Trommer_Michael_6fkyi.png",
-        "gamesPlayed": 51,
-        "gamesStarted": 51,
-        "battingAverage": 0.316,
-        "onBasePercentage": 0.421,
-        "sluggingPercentage": 0.536,
-        "ops": 0.957,
-        "atBats": 196,
-        "runs": 47,
-        "hits": 62,
-        "doubles": 14,
-        "triples": 1,
-        "homeRuns": 9,
-        "runsBattedIn": 25,
-        "totalBases": 105,
-        "walks": 27,
-        "hitByPitch": 9,
-        "strikeouts": 40,
-        "intentionalWalks": 4,
-        "groundedIntoDoublePlay": 2,
-        "sacrificeFlies": 1,
-        "sacrificeHits": 1,
-        "stolenBases": 1,
-        "stolenBasesAttempts": 1,
-        "putouts": 82,
-        "assists": 0,
-        "errors": 4,
-        "plateAppearances": 235,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "13440",
-        "name": "Michael Trommer",
-        "normalizedName": "michael trommer",
-        "jersey": "32",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/michael-trommer/13440",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Trommer_Michael_6fkyi.png",
-        "gamesPlayed": 40,
-        "gamesStarted": 40,
-        "putouts": 82,
-        "assists": 5,
-        "errors": 4,
-        "fieldingPercentage": 0.956,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 91
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 58,
-        "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
-        },
-        "components": {
-          "On-base": 78.33333333333331,
-          "Power": 56.842105263157904,
-          "Contact": 60,
-          "Discipline": 52.77777777777778,
-          "Speed": 3.3333333333333335
-        },
-        "summary": "Michael Trommer profiles as a IF piece who gets on base at a high clip.",
-        "summaryMetrics": [
-          "AVG .316",
-          "OBP .421",
-          "SLG .536"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".316"
-          },
-          {
-            "label": "OBP",
-            "value": ".421"
-          },
-          {
-            "label": "SLG",
-            "value": ".536"
-          },
-          {
-            "label": "HR",
-            "value": "9"
-          },
-          {
-            "label": "RBI",
-            "value": "25"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
-        "metaLine": "SR / L/R",
-        "detailBadges": [
-          "IF",
-          "SR",
-          "L/R",
-          "Hitter"
-        ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats"
-      }
-    },
-    {
-      "id": "bucknell-13423",
-      "schoolSlug": "bucknell",
-      "school": "Bucknell",
-      "schoolLongName": "Bucknell University",
-      "name": "Ryan DeLaney",
-      "normalizedName": "ryan delaney",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "Pitcher",
-      "classYear": "SR",
-      "handedness": "L/L",
-      "jersey": "35",
-      "hometown": "Danville, Calif.",
-      "highSchool": "San Ramon Valley",
-      "previousSchool": "",
-      "hometownHighSchool": "Danville, Calif. / San Ramon Valley",
-      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/ryan-delaney/13423",
-      "imageUrl": "https://bucknellbison.com/images/2025/12/9/DeLaney_Ryan_qgjuE.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "13423",
-      "sources": [
-        "Bucknell Athletics roster",
-        "Bucknell cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "13423",
-        "name": "Ryan DeLaney",
-        "normalizedName": "ryan delaney",
-        "jersey": "35",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/ryan-delaney/13423",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/DeLaney_Ryan_qgjuE.png",
-        "gamesPlayed": 11,
-        "gamesStarted": 0,
-        "appearances": 11,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 13.15,
-        "whip": 2.46,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 13,
-        "inningsPitchedDisplay": "13.0",
-        "hitsAllowed": 24,
-        "runsAllowed": 23,
-        "earnedRunsAllowed": 19,
-        "walksAllowed": 8,
-        "strikeouts": 7,
-        "doublesAllowed": 3,
-        "triplesAllowed": 1,
-        "homeRunsAllowed": 1,
-        "opponentsAtBats": 63,
-        "wildPitches": 1,
-        "hitBatters": 6,
-        "balks": 0,
-        "opponentsBattingAverage": 0.381,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "13423",
-        "name": "Ryan DeLaney",
-        "normalizedName": "ryan delaney",
-        "jersey": "35",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/ryan-delaney/13423",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/DeLaney_Ryan_qgjuE.png",
-        "gamesPlayed": 4,
-        "gamesStarted": 0,
-        "putouts": 0,
-        "assists": 1,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 5,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 1
-      },
-      "evaluation": {
-        "score": 2,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -4416,54 +2122,54 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 7.692307692307689,
+          "Miss bats": 0,
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Ryan DeLaney gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Brady Hoar looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 13.15",
-          "WHIP 2.46",
-          "K/9 4.8"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "13.15"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "2.46"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "4.8"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "5.5"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "0.69"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "13.0"
+            "value": "0.0"
           }
         ],
-        "metaLine": "SR / L/L",
+        "metaLine": "SO / R/R",
         "detailBadges": [
-          "LHP",
-          "SR",
-          "L/L",
+          "RHP",
+          "SO",
+          "R/R",
           "Pitcher"
         ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats"
+        "sourceSummary": "Bucknell Athletics roster"
       }
     },
     {
-      "id": "bucknell-13429",
+      "id": "bucknell-14624",
       "schoolSlug": "bucknell",
       "school": "Bucknell",
       "schoolLongName": "Bucknell University",
@@ -4473,14 +2179,14 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Pitcher",
-      "classYear": "SO",
+      "classYear": "JR",
       "handedness": "R/R",
       "jersey": "36",
       "hometown": "State College, Pa.",
       "highSchool": "State College",
       "previousSchool": "",
       "hometownHighSchool": "State College, Pa. / State College",
-      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/samuel-janik/13429",
+      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/samuel-janik/14624",
       "imageUrl": "https://bucknellbison.com/images/2025/12/9/Janik_Samuel_aGncc.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -4488,7 +2194,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "13429",
+      "rosterBioId": "14624",
       "sources": [
         "Bucknell Athletics roster"
       ],
@@ -4540,10 +2246,10 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "SO / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "RHP",
-          "SO",
+          "JR",
           "R/R",
           "Pitcher"
         ],
@@ -4551,24 +2257,24 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
       }
     },
     {
-      "id": "bucknell-13450",
+      "id": "bucknell-14627",
       "schoolSlug": "bucknell",
       "school": "Bucknell",
       "schoolLongName": "Bucknell University",
       "name": "Garrett Mathias",
       "normalizedName": "garrett mathias",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "1B",
       "positionLong": "First Base",
-      "classYear": "FR",
+      "classYear": "SO",
       "handedness": "L/R",
       "jersey": "38",
       "hometown": "Penn Valley, Pa.",
       "highSchool": "William Penn Charter",
       "previousSchool": "",
       "hometownHighSchool": "Penn Valley, Pa. / William Penn Charter",
-      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/garrett-mathias/13450",
+      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/garrett-mathias/14627",
       "imageUrl": "https://bucknellbison.com/images/2025/12/9/Mathias_Garret_xSsJW.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -4576,127 +2282,70 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "13450",
+      "rosterBioId": "14627",
       "sources": [
-        "Bucknell Athletics roster",
-        "Bucknell cumulative stats"
+        "Bucknell Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "13450",
-        "name": "Garrett Mathias",
-        "normalizedName": "garrett mathias",
-        "jersey": "38",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/garrett-mathias/13450",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Mathias_Garret_xSsJW.png",
-        "gamesPlayed": 49,
-        "gamesStarted": 46,
-        "battingAverage": 0.294,
-        "onBasePercentage": 0.41,
-        "sluggingPercentage": 0.481,
-        "ops": 0.891,
-        "atBats": 160,
-        "runs": 23,
-        "hits": 47,
-        "doubles": 7,
-        "triples": 1,
-        "homeRuns": 7,
-        "runsBattedIn": 42,
-        "totalBases": 77,
-        "walks": 32,
-        "hitByPitch": 3,
-        "strikeouts": 38,
-        "intentionalWalks": 1,
-        "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 5,
-        "sacrificeHits": 0,
-        "stolenBases": 0,
-        "stolenBasesAttempts": 0,
-        "putouts": 2,
-        "assists": 0,
-        "errors": 0,
-        "plateAppearances": 200,
-        "caughtStealing": 0,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "13450",
-        "name": "Garrett Mathias",
-        "normalizedName": "garrett mathias",
-        "jersey": "38",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/garrett-mathias/13450",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Mathias_Garret_xSsJW.png",
-        "gamesPlayed": 1,
-        "gamesStarted": 1,
-        "putouts": 2,
-        "assists": 0,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 2
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 52,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 72.2222222222222,
-          "Power": 42.368421052631575,
-          "Contact": 46.249999999999986,
-          "Discipline": 71.34502923976606,
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
           "Speed": 0
         },
-        "summary": "Garrett Mathias profiles as a 1B piece who gets on base at a high clip.",
+        "summary": "Garrett Mathias gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .294",
-          "OBP .410",
-          "SLG .481"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".294"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".410"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".481"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "7"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "42"
+            "value": "0"
           },
           {
             "label": "SB",
             "value": "0"
           }
         ],
-        "metaLine": "FR / L/R",
+        "metaLine": "SO / L/R",
         "detailBadges": [
           "1B",
-          "FR",
+          "SO",
           "L/R",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats"
+        "sourceSummary": "Bucknell Athletics roster"
       }
     },
     {
-      "id": "bucknell-13451",
+      "id": "bucknell-14628",
       "schoolSlug": "bucknell",
       "school": "Bucknell",
       "schoolLongName": "Bucknell University",
@@ -4706,14 +2355,14 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Right-Handed Pitcher",
-      "classYear": "FR",
+      "classYear": "SO",
       "handedness": "R/R",
       "jersey": "40",
       "hometown": "Tinton Falls, N.J.",
       "highSchool": "Red Bank Catholic",
       "previousSchool": "",
       "hometownHighSchool": "Tinton Falls, N.J. / Red Bank Catholic",
-      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/luke-meyers/13451",
+      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/luke-meyers/14628",
       "imageUrl": "https://bucknellbison.com/images/2025/12/9/Meyers_Luke_2bcoC.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -4721,46 +2370,12 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "13451",
+      "rosterBioId": "14628",
       "sources": [
-        "Bucknell Athletics roster",
-        "Bucknell cumulative stats"
+        "Bucknell Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "13451",
-        "name": "Luke Meyers",
-        "normalizedName": "luke meyers",
-        "jersey": "40",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/luke-meyers/13451",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Meyers_Luke_2bcoC.png",
-        "gamesPlayed": 1,
-        "gamesStarted": 0,
-        "appearances": 1,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 13.5,
-        "whip": 7.5,
-        "wins": 0,
-        "losses": 0,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 0.6666666666666666,
-        "inningsPitchedDisplay": "0.2",
-        "hitsAllowed": 4,
-        "runsAllowed": 5,
-        "earnedRunsAllowed": 1,
-        "walksAllowed": 1,
-        "strikeouts": 0,
-        "doublesAllowed": 3,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 6,
-        "wildPitches": 0,
-        "hitBatters": 0,
-        "balks": 0,
-        "opponentsBattingAverage": 0.667,
-        "walksHits": 0
-      },
+      "pitchingStats": null,
       "fieldingStats": null,
       "evaluation": {
         "score": 0,
@@ -4775,20 +2390,20 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Luke Meyers gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Luke Meyers looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 13.50",
-          "WHIP 7.50",
+          "ERA --",
+          "WHIP --",
           "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "13.50"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "7.50"
+            "value": "--"
           },
           {
             "label": "K/9",
@@ -4796,7 +2411,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
           },
           {
             "label": "BB/9",
-            "value": "13.5"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
@@ -4804,38 +2419,38 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
           },
           {
             "label": "IP",
-            "value": "0.7"
+            "value": "0.0"
           }
         ],
-        "metaLine": "FR / R/R",
+        "metaLine": "SO / R/R",
         "detailBadges": [
           "RHP",
-          "FR",
+          "SO",
           "R/R",
           "Pitcher"
         ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats"
+        "sourceSummary": "Bucknell Athletics roster"
       }
     },
     {
-      "id": "bucknell-13420",
+      "id": "bucknell-14616",
       "schoolSlug": "bucknell",
       "school": "Bucknell",
       "schoolLongName": "Bucknell University",
       "name": "John Calabrese",
       "normalizedName": "john calabrese",
-      "compositeRole": "Hitter",
+      "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "OF",
       "positionLong": "Outfield",
-      "classYear": "SO",
+      "classYear": "JR",
       "handedness": "L/L",
       "jersey": "41",
       "hometown": "Staten Island, N.Y.",
       "highSchool": "Poly Prep",
       "previousSchool": "",
       "hometownHighSchool": "Staten Island, N.Y. / Poly Prep",
-      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/john-calabrese/13420",
+      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/john-calabrese/14616",
       "imageUrl": "https://bucknellbison.com/images/2025/12/9/Calabrese_John_JjvzT.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -4843,101 +2458,44 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "13420",
+      "rosterBioId": "14616",
       "sources": [
-        "Bucknell Athletics roster",
-        "Bucknell cumulative stats"
+        "Bucknell Athletics roster"
       ],
-      "hittingStats": {
-        "rosterBioId": "13420",
-        "name": "John Calabrese",
-        "normalizedName": "john calabrese",
-        "jersey": "41",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/john-calabrese/13420",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Calabrese_John_JjvzT.png",
-        "gamesPlayed": 45,
-        "gamesStarted": 36,
-        "battingAverage": 0.271,
-        "onBasePercentage": 0.378,
-        "sluggingPercentage": 0.373,
-        "ops": 0.751,
-        "atBats": 118,
-        "runs": 17,
-        "hits": 32,
-        "doubles": 12,
-        "triples": 0,
-        "homeRuns": 0,
-        "runsBattedIn": 18,
-        "totalBases": 44,
-        "walks": 18,
-        "hitByPitch": 4,
-        "strikeouts": 19,
-        "intentionalWalks": 0,
-        "groundedIntoDoublePlay": 1,
-        "sacrificeFlies": 3,
-        "sacrificeHits": 3,
-        "stolenBases": 2,
-        "stolenBasesAttempts": 3,
-        "putouts": 79,
-        "assists": 0,
-        "errors": 4,
-        "plateAppearances": 150,
-        "caughtStealing": 1,
-        "pickedOff": 0
-      },
+      "hittingStats": null,
       "pitchingStats": null,
-      "fieldingStats": {
-        "rosterBioId": "13420",
-        "name": "John Calabrese",
-        "normalizedName": "john calabrese",
-        "jersey": "41",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/john-calabrese/13420",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Calabrese_John_JjvzT.png",
-        "gamesPlayed": 34,
-        "gamesStarted": 30,
-        "putouts": 79,
-        "assists": 5,
-        "errors": 4,
-        "fieldingPercentage": 0.955,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 0,
-        "caughtStealingBy": 0,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 88
-      },
+      "fieldingStats": null,
       "evaluation": {
-        "score": 39,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "components": {
-          "On-base": 54.44444444444443,
-          "Power": 13.94736842105263,
-          "Contact": 31.875000000000007,
-          "Discipline": 83.04093567251459,
-          "Speed": 6.666666666666667
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
         "summary": "John Calabrese gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .271",
-          "OBP .378",
-          "SLG .373"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".271"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".378"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".373"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -4945,25 +2503,25 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
           },
           {
             "label": "RBI",
-            "value": "18"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "2"
+            "value": "0"
           }
         ],
-        "metaLine": "SO / L/L",
+        "metaLine": "JR / L/L",
         "detailBadges": [
           "OF",
-          "SO",
+          "JR",
           "L/L",
-          "Hitter"
+          "Rostered"
         ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats"
+        "sourceSummary": "Bucknell Athletics roster"
       }
     },
     {
-      "id": "bucknell-13431",
+      "id": "bucknell-14629",
       "schoolSlug": "bucknell",
       "school": "Bucknell",
       "schoolLongName": "Bucknell University",
@@ -4973,14 +2531,14 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
       "role": "Pitcher",
       "position": "RHP",
       "positionLong": "Pitcher",
-      "classYear": "SO",
+      "classYear": "JR",
       "handedness": "R/R",
       "jersey": "42",
       "hometown": "Damascus, Md.",
       "highSchool": "Damascus",
       "previousSchool": "",
       "hometownHighSchool": "Damascus, Md. / Damascus",
-      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/bryce-mitchell/13431",
+      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/bryce-mitchell/14629",
       "imageUrl": "https://bucknellbison.com/images/2025/12/9/Mitchell_Uyvsx.png",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -4988,69 +2546,15 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
       "espnDisplayWeight": "",
       "espnBats": "",
       "espnThrows": "",
-      "rosterBioId": "13431",
+      "rosterBioId": "14629",
       "sources": [
-        "Bucknell Athletics roster",
-        "Bucknell cumulative stats"
+        "Bucknell Athletics roster"
       ],
       "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "13431",
-        "name": "Bryce Mitchell",
-        "normalizedName": "bryce mitchell",
-        "jersey": "42",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/bryce-mitchell/13431",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Mitchell_Uyvsx.png",
-        "gamesPlayed": 16,
-        "gamesStarted": 0,
-        "appearances": 16,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 9.49,
-        "whip": 1.42,
-        "wins": 2,
-        "losses": 2,
-        "saves": 0,
-        "shutouts": 0,
-        "inningsPitched": 24.666666666666668,
-        "inningsPitchedDisplay": "24.2",
-        "hitsAllowed": 20,
-        "runsAllowed": 29,
-        "earnedRunsAllowed": 26,
-        "walksAllowed": 15,
-        "strikeouts": 16,
-        "doublesAllowed": 3,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 6,
-        "opponentsAtBats": 90,
-        "wildPitches": 4,
-        "hitBatters": 5,
-        "balks": 1,
-        "opponentsBattingAverage": 0.222,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "13431",
-        "name": "Bryce Mitchell",
-        "normalizedName": "bryce mitchell",
-        "jersey": "42",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/bryce-mitchell/13431",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Mitchell_Uyvsx.png",
-        "gamesPlayed": 7,
-        "gamesStarted": 0,
-        "putouts": 3,
-        "assists": 4,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 4,
-        "caughtStealingBy": 1,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 7
-      },
+      "pitchingStats": null,
+      "fieldingStats": null,
       "evaluation": {
-        "score": 4,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
@@ -5058,174 +2562,32 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 16.707616707616708,
-          "Command": 1.333333333333333,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Bryce Mitchell gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Bryce Mitchell looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 9.49",
-          "WHIP 1.42",
-          "K/9 5.8"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "9.49"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.42"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "5.8"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "5.5"
-          },
-          {
-            "label": "HR/9",
-            "value": "2.19"
-          },
-          {
-            "label": "IP",
-            "value": "24.7"
-          }
-        ],
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats"
-      }
-    },
-    {
-      "id": "bucknell-13430",
-      "schoolSlug": "bucknell",
-      "school": "Bucknell",
-      "schoolLongName": "Bucknell University",
-      "name": "Hadley Maxwell",
-      "normalizedName": "hadley maxwell",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "Pitcher",
-      "classYear": "SR",
-      "handedness": "R/R",
-      "jersey": "44",
-      "hometown": "Nashville, Tenn.",
-      "highSchool": "Franklin Road Academy",
-      "previousSchool": "",
-      "hometownHighSchool": "Nashville, Tenn. / Franklin Road Academy",
-      "profileUrl": "https://bucknellbison.com/sports/baseball/roster/hadley-maxwell/13430",
-      "imageUrl": "https://bucknellbison.com/images/2025/12/9/Maxwell_Hadley_VGXsI.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "13430",
-      "sources": [
-        "Bucknell Athletics roster",
-        "Bucknell cumulative stats"
-      ],
-      "hittingStats": null,
-      "pitchingStats": {
-        "rosterBioId": "13430",
-        "name": "Hadley Maxwell",
-        "normalizedName": "hadley maxwell",
-        "jersey": "44",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/hadley-maxwell/13430",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Maxwell_Hadley_VGXsI.png",
-        "gamesPlayed": 22,
-        "gamesStarted": 0,
-        "appearances": 22,
-        "gamesCompleted": 0,
-        "earnedRunAverage": 2.76,
-        "whip": 1.44,
-        "wins": 1,
-        "losses": 0,
-        "saves": 11,
-        "shutouts": 0,
-        "inningsPitched": 32.666666666666664,
-        "inningsPitchedDisplay": "32.2",
-        "hitsAllowed": 29,
-        "runsAllowed": 11,
-        "earnedRunsAllowed": 10,
-        "walksAllowed": 18,
-        "strikeouts": 32,
-        "doublesAllowed": 4,
-        "triplesAllowed": 0,
-        "homeRunsAllowed": 0,
-        "opponentsAtBats": 122,
-        "wildPitches": 1,
-        "hitBatters": 3,
-        "balks": 2,
-        "opponentsBattingAverage": 0.238,
-        "walksHits": 0
-      },
-      "fieldingStats": {
-        "rosterBioId": "13430",
-        "name": "Hadley Maxwell",
-        "normalizedName": "hadley maxwell",
-        "jersey": "44",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/hadley-maxwell/13430",
-        "imageUrl": "https://bucknellbison.com/images/2025/12/9/Maxwell_Hadley_VGXsI.png",
-        "gamesPlayed": 8,
-        "gamesStarted": 0,
-        "putouts": 0,
-        "assists": 3,
-        "errors": 0,
-        "fieldingPercentage": 1,
-        "doublePlays": 0,
-        "stolenBasesAgainst": 9,
-        "caughtStealingBy": 1,
-        "stolenBasesPercentage": null,
-        "passedBalls": 0,
-        "catchersInterference": 0,
-        "totalChances": 3
-      },
-      "evaluation": {
-        "score": 11,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 43.78478664192951,
-          "Command": 15.555555555555559,
-          "Damage suppression": 0
-        },
-        "summary": "Hadley Maxwell looks like a RHP option who limits runs.",
-        "summaryMetrics": [
-          "ERA 2.76",
-          "WHIP 1.44",
-          "K/9 8.8"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "2.76"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.44"
-          },
-          {
-            "label": "K/9",
-            "value": "8.8"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.0"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
@@ -5233,36 +2595,36 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
           },
           {
             "label": "IP",
-            "value": "32.7"
+            "value": "0.0"
           }
         ],
-        "metaLine": "SR / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "RHP",
-          "SR",
+          "JR",
           "R/R",
           "Pitcher"
         ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats"
+        "sourceSummary": "Bucknell Athletics roster"
       }
     }
   ],
   "playerBoard": {
     "source": "Bucknell Athletics roster + cumulative stats / ESPN roster",
     "note": "This Bucknell-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but Bucknell's public ESPN roster feed did not line up cleanly with the current school-site roster.",
-    "totalPlayers": 37,
+    "totalPlayers": 28,
     "roleCounts": {
-      "Hitter": 17,
-      "Pitcher": 20
+      "Hitter": 13,
+      "Pitcher": 15
     },
     "players": [
       {
-        "id": "bucknell-13442",
+        "id": "bucknell-14633",
         "name": "Danny Nawrocki",
         "school": "Bucknell",
         "role": "Hitter",
         "position": "OF",
-        "classYear": "FR",
+        "classYear": "SO",
         "handedness": "R/R",
         "score": 0,
         "fit": {
@@ -5271,22 +2633,22 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         },
         "summary": "Danny Nawrocki gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .000",
-          "OBP .000",
-          "SLG .000"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -5308,261 +2670,189 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "FR / R/R",
+        "metaLine": "SO / R/R",
         "detailBadges": [
           "OF",
-          "FR",
+          "SO",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "Bucknell Athletics roster",
-          "Bucknell cumulative stats"
+          "Bucknell Athletics roster"
         ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats",
+        "sourceSummary": "Bucknell Athletics roster",
         "schoolSlug": "bucknell",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/danny-nawrocki/13442",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/danny-nawrocki/14633",
         "espnAthleteId": ""
       },
       {
-        "id": "bucknell-13439",
+        "id": "bucknell-14639",
         "name": "Andrew Swenson",
         "school": "Bucknell",
         "role": "Hitter",
         "position": "IF/OF",
-        "classYear": "JR",
+        "classYear": "SR",
         "handedness": "R/R",
-        "score": 8,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Andrew Swenson gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .178",
-          "OBP .308",
-          "SLG .237"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".178"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".308"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".237"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "1"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "20"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "3"
+            "value": "0"
           }
         ],
         "components": {
-          "On-base": 15.55555555555554,
+          "On-base": 0,
           "Power": 0,
           "Contact": 0,
-          "Discipline": 16.578483245149904,
-          "Speed": 10
+          "Discipline": 0,
+          "Speed": 0
         },
-        "metaLine": "JR / R/R",
+        "metaLine": "SR / R/R",
         "detailBadges": [
           "IF/OF",
-          "JR",
+          "SR",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "Bucknell Athletics roster",
-          "Bucknell cumulative stats"
+          "Bucknell Athletics roster"
         ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats",
+        "sourceSummary": "Bucknell Athletics roster",
         "schoolSlug": "bucknell",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/andrew-swenson/13439",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/andrew-swenson/14639",
         "espnAthleteId": ""
       },
       {
-        "id": "bucknell-13443",
-        "name": "Ty Lagoni",
-        "school": "Bucknell",
-        "role": "Hitter",
-        "position": "IF",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 18,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Ty Lagoni profiles as a IF piece who adds running-game pressure.",
-        "summaryMetrics": [
-          "AVG .230",
-          "OBP .320",
-          "SLG .378"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".230"
-          },
-          {
-            "label": "OBP",
-            "value": ".320"
-          },
-          {
-            "label": "SLG",
-            "value": ".378"
-          },
-          {
-            "label": "HR",
-            "value": "5"
-          },
-          {
-            "label": "RBI",
-            "value": "35"
-          },
-          {
-            "label": "SB",
-            "value": "9"
-          }
-        ],
-        "components": {
-          "On-base": 22.222222222222214,
-          "Power": 15.263157894736842,
-          "Contact": 6.250000000000005,
-          "Discipline": 20.861678004535143,
-          "Speed": 30
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "IF",
-          "JR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Bucknell Athletics roster",
-          "Bucknell cumulative stats"
-        ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats",
-        "schoolSlug": "bucknell",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/ty-lagoni/13443",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "bucknell-13421",
+        "id": "bucknell-14617",
         "name": "Michael Chiaravallo",
         "school": "Bucknell",
         "role": "Hitter",
         "position": "OF",
-        "classYear": "JR",
+        "classYear": "SR",
         "handedness": "R/R",
-        "score": 46,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Michael Chiaravallo gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .309",
-          "OBP .380",
-          "SLG .529"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".309"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".380"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".529"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "3"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "17"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "4"
+            "value": "0"
           }
         ],
         "components": {
-          "On-base": 55.55555555555555,
-          "Power": 55.000000000000014,
-          "Contact": 55.62499999999999,
-          "Discipline": 18.18181818181818,
-          "Speed": 13.333333333333334
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "metaLine": "JR / R/R",
+        "metaLine": "SR / R/R",
         "detailBadges": [
           "OF",
-          "JR",
+          "SR",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "Bucknell Athletics roster",
-          "Bucknell cumulative stats"
+          "Bucknell Athletics roster"
         ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats",
+        "sourceSummary": "Bucknell Athletics roster",
         "schoolSlug": "bucknell",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/michael-chiaravallo/13421",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/michael-chiaravallo/14617",
         "espnAthleteId": ""
       },
       {
-        "id": "bucknell-13418",
+        "id": "bucknell-14615",
         "name": "Deacon Bowne",
         "school": "Bucknell",
         "role": "Hitter",
         "position": "C",
-        "classYear": "SO",
+        "classYear": "JR",
         "handedness": "R/R",
-        "score": 29,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Deacon Bowne gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .238",
-          "OBP .396",
-          "SLG .314"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".238"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".396"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".314"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -5570,7 +2860,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
           },
           {
             "label": "RBI",
-            "value": "13"
+            "value": "0"
           },
           {
             "label": "SB",
@@ -5578,68 +2868,67 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
           }
         ],
         "components": {
-          "On-base": 64.44444444444444,
+          "On-base": 0,
           "Power": 0,
-          "Contact": 11.249999999999991,
-          "Discipline": 43.3048433048433,
+          "Contact": 0,
+          "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "SO / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "C",
-          "SO",
+          "JR",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "Bucknell Athletics roster",
-          "Bucknell cumulative stats"
+          "Bucknell Athletics roster"
         ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats",
+        "sourceSummary": "Bucknell Athletics roster",
         "schoolSlug": "bucknell",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/deacon-bowne/13418",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/deacon-bowne/14615",
         "espnAthleteId": ""
       },
       {
-        "id": "bucknell-13422",
+        "id": "bucknell-14618",
         "name": "Lleyton Coupe",
         "school": "Bucknell",
         "role": "Hitter",
         "position": "1B/3B",
-        "classYear": "SO",
+        "classYear": "JR",
         "handedness": "L/R",
-        "score": 48,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
         "summary": "Lleyton Coupe gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .288",
-          "OBP .398",
-          "SLG .450"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".288"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".398"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".450"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "2"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "21"
+            "value": "0"
           },
           {
             "label": "SB",
@@ -5647,36 +2936,35 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
           }
         ],
         "components": {
-          "On-base": 65.55555555555556,
-          "Power": 34.21052631578948,
-          "Contact": 42.499999999999986,
-          "Discipline": 73.01587301587298,
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "SO / L/R",
+        "metaLine": "JR / L/R",
         "detailBadges": [
           "1B/3B",
-          "SO",
+          "JR",
           "L/R",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "Bucknell Athletics roster",
-          "Bucknell cumulative stats"
+          "Bucknell Athletics roster"
         ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats",
+        "sourceSummary": "Bucknell Athletics roster",
         "schoolSlug": "bucknell",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/lleyton-coupe/13422",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/lleyton-coupe/14618",
         "espnAthleteId": ""
       },
       {
-        "id": "bucknell-13435",
+        "id": "bucknell-14632",
         "name": "Luke Nascimento",
         "school": "Bucknell",
         "role": "Hitter",
         "position": "C",
-        "classYear": "JR",
+        "classYear": "SR",
         "handedness": "R/R",
         "score": 0,
         "fit": {
@@ -5685,22 +2973,22 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         },
         "summary": "Luke Nascimento gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .172",
-          "OBP .226",
-          "SLG .172"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".172"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".226"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".172"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -5708,7 +2996,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
           },
           {
             "label": "RBI",
-            "value": "2"
+            "value": "0"
           },
           {
             "label": "SB",
@@ -5722,371 +3010,25 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "JR / R/R",
+        "metaLine": "SR / R/R",
         "detailBadges": [
           "C",
-          "JR",
+          "SR",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "Bucknell Athletics roster",
-          "Bucknell cumulative stats"
+          "Bucknell Athletics roster"
         ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats",
+        "sourceSummary": "Bucknell Athletics roster",
         "schoolSlug": "bucknell",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/luke-nascimento/13435",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/luke-nascimento/14632",
         "espnAthleteId": ""
       },
       {
-        "id": "bucknell-13452",
+        "id": "bucknell-14621",
         "name": "Brady Green",
-        "school": "Bucknell",
-        "role": "Hitter",
-        "position": "IF",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 23,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Brady Green gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .250",
-          "OBP .294",
-          "SLG .500"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".250"
-          },
-          {
-            "label": "OBP",
-            "value": ".294"
-          },
-          {
-            "label": "SLG",
-            "value": ".500"
-          },
-          {
-            "label": "HR",
-            "value": "1"
-          },
-          {
-            "label": "RBI",
-            "value": "4"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 7.777777777777755,
-          "Power": 47.36842105263158,
-          "Contact": 18.75,
-          "Discipline": 33.33333333333333,
-          "Speed": 0
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "IF",
-          "FR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Bucknell Athletics roster",
-          "Bucknell cumulative stats"
-        ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats",
-        "schoolSlug": "bucknell",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/brady-green/13452",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "bucknell-13434",
-        "name": "Mikey Myro",
-        "school": "Bucknell",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 6,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Mikey Myro gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 7.95",
-          "WHIP 2.07",
-          "K/9 7.3"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "7.95"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.07"
-          },
-          {
-            "label": "K/9",
-            "value": "7.3"
-          },
-          {
-            "label": "BB/9",
-            "value": "7.3"
-          },
-          {
-            "label": "HR/9",
-            "value": "1.67"
-          },
-          {
-            "label": "IP",
-            "value": "43.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 30.23255813953488,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Bucknell Athletics roster",
-          "Bucknell cumulative stats"
-        ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats",
-        "schoolSlug": "bucknell",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/mikey-myro/13434",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "bucknell-13432",
-        "name": "Chris Morabito",
-        "school": "Bucknell",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "JR",
-        "handedness": "L/R",
-        "score": 3,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Chris Morabito gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .056",
-          "OBP .227",
-          "SLG .056"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".056"
-          },
-          {
-            "label": "OBP",
-            "value": ".227"
-          },
-          {
-            "label": "SLG",
-            "value": ".056"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "2"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 19.44444444444444,
-          "Speed": 3.3333333333333335
-        },
-        "metaLine": "JR / L/R",
-        "detailBadges": [
-          "OF",
-          "JR",
-          "L/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Bucknell Athletics roster",
-          "Bucknell cumulative stats"
-        ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats",
-        "schoolSlug": "bucknell",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/chris-morabito/13432",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "bucknell-13426",
-        "name": "Billy Fluharty",
-        "school": "Bucknell",
-        "role": "Hitter",
-        "position": "OF",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 29,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Billy Fluharty gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .287",
-          "OBP .354",
-          "SLG .381"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".287"
-          },
-          {
-            "label": "OBP",
-            "value": ".354"
-          },
-          {
-            "label": "SLG",
-            "value": ".381"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "25"
-          },
-          {
-            "label": "SB",
-            "value": "5"
-          }
-        ],
-        "components": {
-          "On-base": 41.111111111111086,
-          "Power": 16.05263157894737,
-          "Contact": 41.874999999999986,
-          "Discipline": 17.460317460317455,
-          "Speed": 16.666666666666664
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "OF",
-          "JR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Bucknell Athletics roster",
-          "Bucknell cumulative stats"
-        ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats",
-        "schoolSlug": "bucknell",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/billy-fluharty/13426",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "bucknell-13424",
-        "name": "Ryan Facinelli",
-        "school": "Bucknell",
-        "role": "Hitter",
-        "position": "IF/OF",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 1,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Ryan Facinelli gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG .153",
-          "OBP .240",
-          "SLG .329"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".153"
-          },
-          {
-            "label": "OBP",
-            "value": ".240"
-          },
-          {
-            "label": "SLG",
-            "value": ".329"
-          },
-          {
-            "label": "HR",
-            "value": "3"
-          },
-          {
-            "label": "RBI",
-            "value": "13"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 2.3684210526315814,
-          "Contact": 0,
-          "Discipline": 0.5050505050505052,
-          "Speed": 0
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "IF/OF",
-          "SR",
-          "R/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Bucknell Athletics roster",
-          "Bucknell cumulative stats"
-        ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats",
-        "schoolSlug": "bucknell",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/ryan-facinelli/13424",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "bucknell-13416",
-        "name": "Jaxon Beiswenger",
         "school": "Bucknell",
         "role": "Hitter",
         "position": "IF",
@@ -6097,24 +3039,24 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Jaxon Beiswenger gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Brady Green gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .000",
-          "OBP .000",
-          "SLG .000"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".000"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -6141,49 +3083,48 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
           "IF",
           "SO",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "Bucknell Athletics roster",
-          "Bucknell cumulative stats"
+          "Bucknell Athletics roster"
         ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats",
+        "sourceSummary": "Bucknell Athletics roster",
         "schoolSlug": "bucknell",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/jaxon-beiswenger/13416",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/brady-green/14621",
         "espnAthleteId": ""
       },
       {
-        "id": "bucknell-13444",
-        "name": "Zach Selfon",
+        "id": "bucknell-14630",
+        "name": "Chris Morabito",
         "school": "Bucknell",
         "role": "Hitter",
-        "position": "IF",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 32,
+        "position": "OF",
+        "classYear": "SR",
+        "handedness": "L/R",
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Zach Selfon gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Chris Morabito gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .261",
-          "OBP .366",
-          "SLG .283"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".261"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".366"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".283"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -6191,214 +3132,211 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
           },
           {
             "label": "RBI",
-            "value": "23"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "1"
+            "value": "0"
           }
         ],
         "components": {
-          "On-base": 47.77777777777776,
+          "On-base": 0,
           "Power": 0,
-          "Contact": 25.625000000000004,
-          "Discipline": 84.05797101449275,
-          "Speed": 3.3333333333333335
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "SR / L/R",
+        "detailBadges": [
+          "OF",
+          "SR",
+          "L/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Bucknell Athletics roster"
+        ],
+        "sourceSummary": "Bucknell Athletics roster",
+        "schoolSlug": "bucknell",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/chris-morabito/14630",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "bucknell-14619",
+        "name": "Billy Fluharty",
+        "school": "Bucknell",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "SR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Billy Fluharty gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "OF",
+          "SR",
+          "R/R",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Bucknell Athletics roster"
+        ],
+        "sourceSummary": "Bucknell Athletics roster",
+        "schoolSlug": "bucknell",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/billy-fluharty/14619",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "bucknell-14613",
+        "name": "Jaxon Beiswenger",
+        "school": "Bucknell",
+        "role": "Hitter",
+        "position": "IF",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jaxon Beiswenger gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
         "metaLine": "JR / R/R",
         "detailBadges": [
           "IF",
           "JR",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "Bucknell Athletics roster",
-          "Bucknell cumulative stats"
+          "Bucknell Athletics roster"
         ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats",
+        "sourceSummary": "Bucknell Athletics roster",
         "schoolSlug": "bucknell",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/zach-selfon/13444",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/jaxon-beiswenger/14613",
         "espnAthleteId": ""
       },
       {
-        "id": "bucknell-13436",
-        "name": "Dante Pavone",
-        "school": "Bucknell",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 7,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Dante Pavone gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 9.15",
-          "WHIP 2.34",
-          "K/9 7.8"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "9.15"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.34"
-          },
-          {
-            "label": "K/9",
-            "value": "7.8"
-          },
-          {
-            "label": "BB/9",
-            "value": "10.1"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.46"
-          },
-          {
-            "label": "IP",
-            "value": "19.7"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 34.36055469953775,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Bucknell Athletics roster",
-          "Bucknell cumulative stats"
-        ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats",
-        "schoolSlug": "bucknell",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/dante-pavone/13436",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "bucknell-13415",
-        "name": "Jonathan Adelmann",
-        "school": "Bucknell",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "JR",
-        "handedness": "R/R",
-        "score": 10,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jonathan Adelmann looks like a RHP option who limits runs.",
-        "summaryMetrics": [
-          "ERA 3.00",
-          "WHIP 1.37",
-          "K/9 8.7"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "3.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.37"
-          },
-          {
-            "label": "K/9",
-            "value": "8.7"
-          },
-          {
-            "label": "BB/9",
-            "value": "6.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "27.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 42.42424242424242,
-          "Command": 8.888888888888888,
-          "Damage suppression": 0
-        },
-        "metaLine": "JR / R/R",
-        "detailBadges": [
-          "RHP",
-          "JR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Bucknell Athletics roster",
-          "Bucknell cumulative stats"
-        ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats",
-        "schoolSlug": "bucknell",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/jonathan-adelmann/13415",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "bucknell-13419",
-        "name": "Garrison Bullock",
+        "id": "bucknell-14638",
+        "name": "Zach Selfon",
         "school": "Bucknell",
         "role": "Hitter",
-        "position": "C",
+        "position": "IF",
         "classYear": "SR",
         "handedness": "R/R",
-        "score": 23,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Garrison Bullock profiles as a C piece who brings real extra-base damage.",
+        "summary": "Zach Selfon gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .200",
-          "OBP .294",
-          "SLG .600"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".200"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".294"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".600"
+            "value": "--"
           },
           {
             "label": "HR",
-            "value": "1"
+            "value": "0"
           },
           {
             "label": "RBI",
-            "value": "2"
+            "value": "0"
           },
           {
             "label": "SB",
@@ -6406,148 +3344,418 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
           }
         ],
         "components": {
-          "On-base": 7.777777777777755,
-          "Power": 73.6842105263158,
+          "On-base": 0,
+          "Power": 0,
           "Contact": 0,
-          "Discipline": 9.523809523809518,
+          "Discipline": 0,
           "Speed": 0
         },
         "metaLine": "SR / R/R",
         "detailBadges": [
-          "C",
+          "IF",
           "SR",
           "R/R",
-          "Hitter"
+          "Rostered"
         ],
         "leaderboards": [
-          "Bucknell Athletics roster",
-          "Bucknell cumulative stats"
+          "Bucknell Athletics roster"
         ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats",
+        "sourceSummary": "Bucknell Athletics roster",
         "schoolSlug": "bucknell",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/garrison-bullock/13419",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/zach-selfon/14638",
         "espnAthleteId": ""
       },
       {
-        "id": "bucknell-13433",
-        "name": "AJ Murray",
+        "id": "bucknell-14634",
+        "name": "Dante Pavone",
         "school": "Bucknell",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "SO",
-        "handedness": "L/R",
-        "score": 3,
+        "classYear": "SR",
+        "handedness": "R/R",
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "AJ Murray gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Dante Pavone looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 9.64",
-          "WHIP 3.00",
-          "K/9 5.8"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "9.64"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "3.00"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "5.8"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "13.5"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.93"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "4.7"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 16.233766233766232,
+          "Miss bats": 0,
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SO / L/R",
+        "metaLine": "SR / R/R",
         "detailBadges": [
           "RHP",
-          "SO",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Bucknell Athletics roster"
+        ],
+        "sourceSummary": "Bucknell Athletics roster",
+        "schoolSlug": "bucknell",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/dante-pavone/14634",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "bucknell-14612",
+        "name": "Jonathan Adelmann",
+        "school": "Bucknell",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jonathan Adelmann looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Bucknell Athletics roster"
+        ],
+        "sourceSummary": "Bucknell Athletics roster",
+        "schoolSlug": "bucknell",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/jonathan-adelmann/14612",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "bucknell-14631",
+        "name": "AJ Murray",
+        "school": "Bucknell",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "L/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "AJ Murray looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / L/R",
+        "detailBadges": [
+          "RHP",
+          "JR",
           "L/R",
           "Pitcher"
         ],
         "leaderboards": [
-          "Bucknell Athletics roster",
-          "Bucknell cumulative stats"
+          "Bucknell Athletics roster"
         ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats",
+        "sourceSummary": "Bucknell Athletics roster",
         "schoolSlug": "bucknell",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/aj-murray/13433",
+        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/aj-murray/14631",
         "espnAthleteId": ""
       },
       {
-        "id": "bucknell-13438",
+        "id": "bucknell-14636",
         "name": "Jake Schultz",
+        "school": "Bucknell",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jake Schultz looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / R/R",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "R/R",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Bucknell Athletics roster"
+        ],
+        "sourceSummary": "Bucknell Athletics roster",
+        "schoolSlug": "bucknell",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/jake-schultz/14636",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "bucknell-14637",
+        "name": "Tyler Seidman",
+        "school": "Bucknell",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "SO",
+        "handedness": "R/L",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Tyler Seidman looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SO / R/L",
+        "detailBadges": [
+          "LHP",
+          "SO",
+          "R/L",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Bucknell Athletics roster"
+        ],
+        "sourceSummary": "Bucknell Athletics roster",
+        "schoolSlug": "bucknell",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/tyler-seidman/14637",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "bucknell-14620",
+        "name": "Everett Garber",
         "school": "Bucknell",
         "role": "Pitcher",
         "position": "RHP",
         "classYear": "JR",
         "handedness": "R/R",
-        "score": 11,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Jake Schultz looks like a RHP option who limits runs.",
+        "summary": "Everett Garber looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 3.80",
-          "WHIP 1.31",
-          "K/9 8.0"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "3.80"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.31"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "8.0"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "3.8"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.05"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "42.7"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 36.50568181818182,
-          "Command": 22.222222222222225,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
         "metaLine": "JR / R/R",
@@ -6558,229 +3766,21 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
           "Pitcher"
         ],
         "leaderboards": [
-          "Bucknell Athletics roster",
-          "Bucknell cumulative stats"
+          "Bucknell Athletics roster"
         ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats",
+        "sourceSummary": "Bucknell Athletics roster",
         "schoolSlug": "bucknell",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/jake-schultz/13438",
+        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/everett-garber/14620",
         "espnAthleteId": ""
       },
       {
-        "id": "bucknell-13425",
-        "name": "Ethan Firestein",
-        "school": "Bucknell",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 9,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Ethan Firestein looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 36.00",
-          "WHIP 5.50",
-          "K/9 9.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "36.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "5.50"
-          },
-          {
-            "label": "K/9",
-            "value": "9.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "31.5"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "2.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 45.45454545454545,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / R/R",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Bucknell Athletics roster",
-          "Bucknell cumulative stats"
-        ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats",
-        "schoolSlug": "bucknell",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/ethan-firestein/13425",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "bucknell-13446",
-        "name": "Tyler Seidman",
-        "school": "Bucknell",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "FR",
-        "handedness": "R/L",
-        "score": 10,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Tyler Seidman gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 6.37",
-          "WHIP 1.67",
-          "K/9 8.9"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "6.37"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.67"
-          },
-          {
-            "label": "K/9",
-            "value": "8.9"
-          },
-          {
-            "label": "BB/9",
-            "value": "7.4"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.76"
-          },
-          {
-            "label": "IP",
-            "value": "35.3"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 44.682675814751285,
-          "Command": 4.137931034482758,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / R/L",
-        "detailBadges": [
-          "LHP",
-          "FR",
-          "R/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Bucknell Athletics roster",
-          "Bucknell cumulative stats"
-        ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats",
-        "schoolSlug": "bucknell",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/tyler-seidman/13446",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "bucknell-13427",
-        "name": "Everett Garber",
-        "school": "Bucknell",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SO",
-        "handedness": "R/R",
-        "score": 12,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Everett Garber looks like a RHP option who misses bats.",
-        "summaryMetrics": [
-          "ERA 4.67",
-          "WHIP 1.52",
-          "K/9 9.2"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.67"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.52"
-          },
-          {
-            "label": "K/9",
-            "value": "9.2"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.87"
-          },
-          {
-            "label": "IP",
-            "value": "52.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 47.027972027972034,
-          "Command": 16.551724137931036,
-          "Damage suppression": 0
-        },
-        "metaLine": "SO / R/R",
-        "detailBadges": [
-          "RHP",
-          "SO",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Bucknell Athletics roster",
-          "Bucknell cumulative stats"
-        ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats",
-        "schoolSlug": "bucknell",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/everett-garber/13427",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "bucknell-13437",
+        "id": "bucknell-14635",
         "name": "Dylan Radtke",
         "school": "Bucknell",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "JR",
+        "classYear": "SR",
         "handedness": "R/R",
         "score": 0,
         "fit": {
@@ -6826,10 +3826,10 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "JR / R/R",
+        "metaLine": "SR / R/R",
         "detailBadges": [
           "RHP",
-          "JR",
+          "SR",
           "R/R",
           "Pitcher"
         ],
@@ -6839,44 +3839,44 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "sourceSummary": "Bucknell Athletics roster",
         "schoolSlug": "bucknell",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/dylan-radtke/13437",
+        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/dylan-radtke/14635",
         "espnAthleteId": ""
       },
       {
-        "id": "bucknell-13447",
+        "id": "bucknell-14625",
         "name": "Liam Jones",
         "school": "Bucknell",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "FR",
+        "classYear": "SO",
         "handedness": "R/R",
-        "score": 12,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Liam Jones looks like a RHP option who misses bats.",
+        "summary": "Liam Jones looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 5.14",
-          "WHIP 2.14",
-          "K/9 9.6"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "5.14"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "2.14"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "9.6"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "6.4"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
@@ -6884,40 +3884,39 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
           },
           {
             "label": "IP",
-            "value": "14.0"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 51.298701298701296,
-          "Command": 9.999999999999995,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "FR / R/R",
+        "metaLine": "SO / R/R",
         "detailBadges": [
           "RHP",
-          "FR",
+          "SO",
           "R/R",
           "Pitcher"
         ],
         "leaderboards": [
-          "Bucknell Athletics roster",
-          "Bucknell cumulative stats"
+          "Bucknell Athletics roster"
         ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats",
+        "sourceSummary": "Bucknell Athletics roster",
         "schoolSlug": "bucknell",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/liam-jones/13447",
+        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/liam-jones/14625",
         "espnAthleteId": ""
       },
       {
-        "id": "bucknell-13448",
+        "id": "bucknell-14626",
         "name": "Jack Keane",
         "school": "Bucknell",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "FR",
+        "classYear": "SO",
         "handedness": "R/R",
         "score": 0,
         "fit": {
@@ -6963,10 +3962,10 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "FR / R/R",
+        "metaLine": "SO / R/R",
         "detailBadges": [
           "RHP",
-          "FR",
+          "SO",
           "R/R",
           "Pitcher"
         ],
@@ -6976,426 +3975,148 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "sourceSummary": "Bucknell Athletics roster",
         "schoolSlug": "bucknell",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/jack-keane/13448",
+        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/jack-keane/14626",
         "espnAthleteId": ""
       },
       {
-        "id": "bucknell-13417",
+        "id": "bucknell-14614",
         "name": "Frankie Bilecki",
         "school": "Bucknell",
         "role": "Pitcher",
         "position": "LHP",
-        "classYear": "SO",
+        "classYear": "JR",
         "handedness": "L/L",
-        "score": 3,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Frankie Bilecki gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Frankie Bilecki looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 7.94",
-          "WHIP 2.00",
-          "K/9 5.8"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.94"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "2.00"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "5.8"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "7.4"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.06"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "17.0"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 16.57754010695187,
+          "Miss bats": 0,
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SO / L/L",
+        "metaLine": "JR / L/L",
         "detailBadges": [
           "LHP",
-          "SO",
+          "JR",
           "L/L",
           "Pitcher"
         ],
         "leaderboards": [
-          "Bucknell Athletics roster",
-          "Bucknell cumulative stats"
+          "Bucknell Athletics roster"
         ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats",
+        "sourceSummary": "Bucknell Athletics roster",
         "schoolSlug": "bucknell",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/frankie-bilecki/13417",
+        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/frankie-bilecki/14614",
         "espnAthleteId": ""
       },
       {
-        "id": "bucknell-13445",
-        "name": "Kobe Julks",
-        "school": "Bucknell",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "N/A",
-        "score": 4,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Kobe Julks gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 6.00",
-          "WHIP 1.67",
-          "K/9 6.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "6.00"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.67"
-          },
-          {
-            "label": "K/9",
-            "value": "6.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "6.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "3.00"
-          },
-          {
-            "label": "IP",
-            "value": "3.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 18.181818181818183,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / N/A",
-        "detailBadges": [
-          "RHP",
-          "SR",
-          "N/A",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Bucknell Athletics roster",
-          "Bucknell cumulative stats"
-        ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats",
-        "schoolSlug": "bucknell",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/kobe-julks/13445",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "bucknell-13428",
+        "id": "bucknell-14622",
         "name": "Tyler Hawkins",
         "school": "Bucknell",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "SO",
+        "classYear": "JR",
         "handedness": "R/R",
-        "score": 5,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Tyler Hawkins gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Tyler Hawkins looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 7.99",
-          "WHIP 2.20",
-          "K/9 6.8"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "7.99"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "2.20"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "6.8"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "7.6"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "1.14"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "23.7"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 25.86427656850192,
+          "Miss bats": 0,
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SO / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "RHP",
-          "SO",
+          "JR",
           "R/R",
           "Pitcher"
         ],
         "leaderboards": [
-          "Bucknell Athletics roster",
-          "Bucknell cumulative stats"
+          "Bucknell Athletics roster"
         ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats",
+        "sourceSummary": "Bucknell Athletics roster",
         "schoolSlug": "bucknell",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/tyler-hawkins/13428",
+        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/tyler-hawkins/14622",
         "espnAthleteId": ""
       },
       {
-        "id": "bucknell-13449",
+        "id": "bucknell-14623",
         "name": "Brady Hoar",
-        "school": "Bucknell",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "FR",
-        "handedness": "R/R",
-        "score": 7,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Brady Hoar looks like a RHP option who keeps traffic under control.",
-        "summaryMetrics": [
-          "ERA 4.81",
-          "WHIP 1.25",
-          "K/9 6.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "4.81"
-          },
-          {
-            "label": "WHIP",
-            "value": "1.25"
-          },
-          {
-            "label": "K/9",
-            "value": "6.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "3.2"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.62"
-          },
-          {
-            "label": "IP",
-            "value": "73.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 18.55541718555417,
-          "Command": 17.69230769230769,
-          "Damage suppression": 0
-        },
-        "metaLine": "FR / R/R",
-        "detailBadges": [
-          "RHP",
-          "FR",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Bucknell Athletics roster",
-          "Bucknell cumulative stats"
-        ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats",
-        "schoolSlug": "bucknell",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/brady-hoar/13449",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "bucknell-13440",
-        "name": "Michael Trommer",
-        "school": "Bucknell",
-        "role": "Hitter",
-        "position": "IF",
-        "classYear": "SR",
-        "handedness": "L/R",
-        "score": 58,
-        "fit": {
-          "label": "Monitor",
-          "className": "fit-monitor"
-        },
-        "summary": "Michael Trommer profiles as a IF piece who gets on base at a high clip.",
-        "summaryMetrics": [
-          "AVG .316",
-          "OBP .421",
-          "SLG .536"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".316"
-          },
-          {
-            "label": "OBP",
-            "value": ".421"
-          },
-          {
-            "label": "SLG",
-            "value": ".536"
-          },
-          {
-            "label": "HR",
-            "value": "9"
-          },
-          {
-            "label": "RBI",
-            "value": "25"
-          },
-          {
-            "label": "SB",
-            "value": "1"
-          }
-        ],
-        "components": {
-          "On-base": 78.33333333333331,
-          "Power": 56.842105263157904,
-          "Contact": 60,
-          "Discipline": 52.77777777777778,
-          "Speed": 3.3333333333333335
-        },
-        "metaLine": "SR / L/R",
-        "detailBadges": [
-          "IF",
-          "SR",
-          "L/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Bucknell Athletics roster",
-          "Bucknell cumulative stats"
-        ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats",
-        "schoolSlug": "bucknell",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/michael-trommer/13440",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "bucknell-13423",
-        "name": "Ryan DeLaney",
-        "school": "Bucknell",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "SR",
-        "handedness": "L/L",
-        "score": 2,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Ryan DeLaney gives Toledo a live pitching snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "ERA 13.15",
-          "WHIP 2.46",
-          "K/9 4.8"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "13.15"
-          },
-          {
-            "label": "WHIP",
-            "value": "2.46"
-          },
-          {
-            "label": "K/9",
-            "value": "4.8"
-          },
-          {
-            "label": "BB/9",
-            "value": "5.5"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.69"
-          },
-          {
-            "label": "IP",
-            "value": "13.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 7.692307692307689,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "SR / L/L",
-        "detailBadges": [
-          "LHP",
-          "SR",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Bucknell Athletics roster",
-          "Bucknell cumulative stats"
-        ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats",
-        "schoolSlug": "bucknell",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/ryan-delaney/13423",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "bucknell-13429",
-        "name": "Samuel Janik",
         "school": "Bucknell",
         "role": "Pitcher",
         "position": "RHP",
@@ -7406,7 +4127,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Samuel Janik looks like a RHP option who throws enough strikes.",
+        "summary": "Brady Hoar looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -7458,105 +4179,36 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
         "sourceSummary": "Bucknell Athletics roster",
         "schoolSlug": "bucknell",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/samuel-janik/13429",
+        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/brady-hoar/14623",
         "espnAthleteId": ""
       },
       {
-        "id": "bucknell-13450",
-        "name": "Garrett Mathias",
-        "school": "Bucknell",
-        "role": "Hitter",
-        "position": "1B",
-        "classYear": "FR",
-        "handedness": "L/R",
-        "score": 52,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Garrett Mathias profiles as a 1B piece who gets on base at a high clip.",
-        "summaryMetrics": [
-          "AVG .294",
-          "OBP .410",
-          "SLG .481"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": ".294"
-          },
-          {
-            "label": "OBP",
-            "value": ".410"
-          },
-          {
-            "label": "SLG",
-            "value": ".481"
-          },
-          {
-            "label": "HR",
-            "value": "7"
-          },
-          {
-            "label": "RBI",
-            "value": "42"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 72.2222222222222,
-          "Power": 42.368421052631575,
-          "Contact": 46.249999999999986,
-          "Discipline": 71.34502923976606,
-          "Speed": 0
-        },
-        "metaLine": "FR / L/R",
-        "detailBadges": [
-          "1B",
-          "FR",
-          "L/R",
-          "Hitter"
-        ],
-        "leaderboards": [
-          "Bucknell Athletics roster",
-          "Bucknell cumulative stats"
-        ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats",
-        "schoolSlug": "bucknell",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/garrett-mathias/13450",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "bucknell-13451",
-        "name": "Luke Meyers",
+        "id": "bucknell-14624",
+        "name": "Samuel Janik",
         "school": "Bucknell",
         "role": "Pitcher",
         "position": "RHP",
-        "classYear": "FR",
+        "classYear": "JR",
         "handedness": "R/R",
         "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Luke Meyers gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Samuel Janik looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 13.50",
-          "WHIP 7.50",
+          "ERA --",
+          "WHIP --",
           "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "13.50"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "7.50"
+            "value": "--"
           },
           {
             "label": "K/9",
@@ -7564,7 +4216,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
           },
           {
             "label": "BB/9",
-            "value": "13.5"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
@@ -7572,7 +4224,7 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
           },
           {
             "label": "IP",
-            "value": "0.7"
+            "value": "0.0"
           }
         ],
         "components": {
@@ -7582,54 +4234,53 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "FR / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "RHP",
-          "FR",
+          "JR",
           "R/R",
           "Pitcher"
         ],
         "leaderboards": [
-          "Bucknell Athletics roster",
-          "Bucknell cumulative stats"
+          "Bucknell Athletics roster"
         ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats",
+        "sourceSummary": "Bucknell Athletics roster",
         "schoolSlug": "bucknell",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/luke-meyers/13451",
+        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/samuel-janik/14624",
         "espnAthleteId": ""
       },
       {
-        "id": "bucknell-13420",
-        "name": "John Calabrese",
+        "id": "bucknell-14627",
+        "name": "Garrett Mathias",
         "school": "Bucknell",
         "role": "Hitter",
-        "position": "OF",
+        "position": "1B",
         "classYear": "SO",
-        "handedness": "L/L",
-        "score": 39,
+        "handedness": "L/R",
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "John Calabrese gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summary": "Garrett Mathias gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "AVG .271",
-          "OBP .378",
-          "SLG .373"
+          "AVG --",
+          "OBP --",
+          "SLG --"
         ],
         "statCards": [
           {
             "label": "AVG",
-            "value": ".271"
+            "value": "--"
           },
           {
             "label": "OBP",
-            "value": ".378"
+            "value": "--"
           },
           {
             "label": "SLG",
-            "value": ".373"
+            "value": "--"
           },
           {
             "label": "HR",
@@ -7637,87 +4288,86 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
           },
           {
             "label": "RBI",
-            "value": "18"
+            "value": "0"
           },
           {
             "label": "SB",
-            "value": "2"
+            "value": "0"
           }
         ],
         "components": {
-          "On-base": 54.44444444444443,
-          "Power": 13.94736842105263,
-          "Contact": 31.875000000000007,
-          "Discipline": 83.04093567251459,
-          "Speed": 6.666666666666667
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
         },
-        "metaLine": "SO / L/L",
+        "metaLine": "SO / L/R",
         "detailBadges": [
-          "OF",
+          "1B",
           "SO",
-          "L/L",
-          "Hitter"
+          "L/R",
+          "Rostered"
         ],
         "leaderboards": [
-          "Bucknell Athletics roster",
-          "Bucknell cumulative stats"
+          "Bucknell Athletics roster"
         ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats",
+        "sourceSummary": "Bucknell Athletics roster",
         "schoolSlug": "bucknell",
-        "compositeRole": "Hitter",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/john-calabrese/13420",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/garrett-mathias/14627",
         "espnAthleteId": ""
       },
       {
-        "id": "bucknell-13431",
-        "name": "Bryce Mitchell",
+        "id": "bucknell-14628",
+        "name": "Luke Meyers",
         "school": "Bucknell",
         "role": "Pitcher",
         "position": "RHP",
         "classYear": "SO",
         "handedness": "R/R",
-        "score": 4,
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Bryce Mitchell gives Toledo a live pitching snapshot from the public cumulative stats feed.",
+        "summary": "Luke Meyers looks like a RHP option who throws enough strikes.",
         "summaryMetrics": [
-          "ERA 9.49",
-          "WHIP 1.42",
-          "K/9 5.8"
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "9.49"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.42"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "5.8"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "5.5"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
-            "value": "2.19"
+            "value": "0.00"
           },
           {
             "label": "IP",
-            "value": "24.7"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 16.707616707616708,
-          "Command": 1.333333333333333,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
         "metaLine": "SO / R/R",
@@ -7728,50 +4378,117 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
           "Pitcher"
         ],
         "leaderboards": [
-          "Bucknell Athletics roster",
-          "Bucknell cumulative stats"
+          "Bucknell Athletics roster"
         ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats",
+        "sourceSummary": "Bucknell Athletics roster",
         "schoolSlug": "bucknell",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/bryce-mitchell/13431",
+        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/luke-meyers/14628",
         "espnAthleteId": ""
       },
       {
-        "id": "bucknell-13430",
-        "name": "Hadley Maxwell",
+        "id": "bucknell-14616",
+        "name": "John Calabrese",
         "school": "Bucknell",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "SR",
-        "handedness": "R/R",
-        "score": 11,
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "JR",
+        "handedness": "L/L",
+        "score": 0,
         "fit": {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Hadley Maxwell looks like a RHP option who limits runs.",
+        "summary": "John Calabrese gives Toledo a live offensive snapshot from the public cumulative stats feed.",
         "summaryMetrics": [
-          "ERA 2.76",
-          "WHIP 1.44",
-          "K/9 8.8"
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "JR / L/L",
+        "detailBadges": [
+          "OF",
+          "JR",
+          "L/L",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Bucknell Athletics roster"
+        ],
+        "sourceSummary": "Bucknell Athletics roster",
+        "schoolSlug": "bucknell",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/john-calabrese/14616",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "bucknell-14629",
+        "name": "Bryce Mitchell",
+        "school": "Bucknell",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "R/R",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Bryce Mitchell looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
         ],
         "statCards": [
           {
             "label": "ERA",
-            "value": "2.76"
+            "value": "--"
           },
           {
             "label": "WHIP",
-            "value": "1.44"
+            "value": "--"
           },
           {
             "label": "K/9",
-            "value": "8.8"
+            "value": "0.0"
           },
           {
             "label": "BB/9",
-            "value": "5.0"
+            "value": "0.0"
           },
           {
             "label": "HR/9",
@@ -7779,31 +4496,30 @@ window.__BASEBALL_DATASETS__.bucknell2026 = {
           },
           {
             "label": "IP",
-            "value": "32.7"
+            "value": "0.0"
           }
         ],
         "components": {
           "Run prevention": 0,
           "Traffic control": 0,
-          "Miss bats": 43.78478664192951,
-          "Command": 15.555555555555559,
+          "Miss bats": 0,
+          "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SR / R/R",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "RHP",
-          "SR",
+          "JR",
           "R/R",
           "Pitcher"
         ],
         "leaderboards": [
-          "Bucknell Athletics roster",
-          "Bucknell cumulative stats"
+          "Bucknell Athletics roster"
         ],
-        "sourceSummary": "Bucknell Athletics roster + Bucknell cumulative stats",
+        "sourceSummary": "Bucknell Athletics roster",
         "schoolSlug": "bucknell",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/hadley-maxwell/13430",
+        "profileUrl": "https://bucknellbison.com/sports/baseball/roster/bryce-mitchell/14629",
         "espnAthleteId": ""
       }
     ]

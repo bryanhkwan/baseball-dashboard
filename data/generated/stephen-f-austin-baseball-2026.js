@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
-  "generatedAt": "2026-11-18T10:18:56.500Z",
+  "generatedAt": "2026-11-19T10:18:36.816Z",
   "season": 2026,
   "school": {
     "slug": "stephen-f-austin",
@@ -2593,8 +2593,8 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
       "schoolSlug": "stephen-f-austin",
       "school": "Stephen F. Austin",
       "schoolLongName": "Stephen F. Austin State University",
-      "name": "Shane Hopper",
-      "normalizedName": "shane hopper",
+      "name": "Shane Hooper",
+      "normalizedName": "shane hooper",
       "compositeRole": "Pitcher",
       "role": "Pitcher",
       "position": "LHP",
@@ -2606,7 +2606,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
       "highSchool": "",
       "previousSchool": "Cochise College",
       "hometownHighSchool": "Bagdad, Arizona",
-      "profileUrl": "https://sfajacks.com/sports/baseball/roster/shane-hopper/8485",
+      "profileUrl": "https://sfajacks.com/sports/baseball/roster/shane-hooper/8485",
       "imageUrl": "",
       "espnAthleteId": "",
       "espnSlug": "",
@@ -2634,7 +2634,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "summary": "Shane Hopper looks like a LHP option who throws enough strikes.",
+        "summary": "Shane Hooper looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -5956,7 +5956,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
       },
       {
         "id": "stephen-f-austin-8485",
-        "name": "Shane Hopper",
+        "name": "Shane Hooper",
         "school": "Stephen F. Austin",
         "role": "Pitcher",
         "position": "LHP",
@@ -5967,7 +5967,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
           "label": "Depth",
           "className": "fit-depth"
         },
-        "summary": "Shane Hopper looks like a LHP option who throws enough strikes.",
+        "summary": "Shane Hooper looks like a LHP option who throws enough strikes.",
         "summaryMetrics": [
           "ERA --",
           "WHIP --",
@@ -6019,7 +6019,7 @@ window.__BASEBALL_DATASETS__.stephen-f-austin2026 = {
         "sourceSummary": "Stephen F. Austin Athletics roster",
         "schoolSlug": "stephen-f-austin",
         "compositeRole": "Pitcher",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/shane-hopper/8485",
+        "profileUrl": "https://sfajacks.com/sports/baseball/roster/shane-hooper/8485",
         "espnAthleteId": ""
       },
       {
