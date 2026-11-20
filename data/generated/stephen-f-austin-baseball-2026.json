@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T10:18:36.816Z",
+  "generatedAt": "2026-11-20T10:18:51.020Z",
   "season": 2026,
   "school": {
     "slug": "stephen-f-austin",
@@ -24,7 +24,7 @@
     "ncaa": "NCAA school index"
   },
   "coverage": {
-    "rosterPlayers": 41,
+    "rosterPlayers": 39,
     "espnRosterPlayers": 0,
     "playersWithHittingStats": 5,
     "playersWithPitchingStats": 6,
@@ -759,182 +759,6 @@
           "Hitter"
         ],
         "sourceSummary": "Stephen F. Austin Athletics roster + Stephen F. Austin cumulative stats"
-      }
-    },
-    {
-      "id": "stephen-f-austin-8481",
-      "schoolSlug": "stephen-f-austin",
-      "school": "Stephen F. Austin",
-      "schoolLongName": "Stephen F. Austin State University",
-      "name": "Brock Bracher",
-      "normalizedName": "brock bracher",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "LHP",
-      "positionLong": "",
-      "classYear": "RS",
-      "handedness": "L/L",
-      "jersey": "",
-      "hometown": "Spring Branch, Texas",
-      "highSchool": "",
-      "previousSchool": "Howard Junior College",
-      "hometownHighSchool": "Spring Branch, Texas",
-      "profileUrl": "https://sfajacks.com/sports/baseball/roster/brock-bracher/8481",
-      "imageUrl": "",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "8481",
-      "sources": [
-        "Stephen F. Austin Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Brock Bracher looks like a LHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "metaLine": "RS / L/L",
-        "detailBadges": [
-          "LHP",
-          "RS",
-          "L/L",
-          "Pitcher"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster"
-      }
-    },
-    {
-      "id": "stephen-f-austin-8486",
-      "schoolSlug": "stephen-f-austin",
-      "school": "Stephen F. Austin",
-      "schoolLongName": "Stephen F. Austin State University",
-      "name": "Jordan Bush",
-      "normalizedName": "jordan bush",
-      "compositeRole": "Pitcher",
-      "role": "Pitcher",
-      "position": "RHP",
-      "positionLong": "",
-      "classYear": "RS",
-      "handedness": "R/R",
-      "jersey": "",
-      "hometown": "Livingston, Texas",
-      "highSchool": "",
-      "previousSchool": "UIW",
-      "hometownHighSchool": "Livingston, Texas",
-      "profileUrl": "https://sfajacks.com/sports/baseball/roster/jordan-bush/8486",
-      "imageUrl": "",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "8486",
-      "sources": [
-        "Stephen F. Austin Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "summary": "Jordan Bush looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "metaLine": "RS / R/R",
-        "detailBadges": [
-          "RHP",
-          "RS",
-          "R/R",
-          "Pitcher"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster"
       }
     },
     {
@@ -4376,10 +4200,10 @@
   "playerBoard": {
     "source": "Stephen F. Austin Athletics roster + cumulative stats / ESPN roster",
     "note": "This Stephen F. Austin-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but Stephen F. Austin's public ESPN roster feed did not line up cleanly with the current school-site roster.",
-    "totalPlayers": 41,
+    "totalPlayers": 39,
     "roleCounts": {
       "Hitter": 19,
-      "Pitcher": 22
+      "Pitcher": 20
     },
     "players": [
       {
@@ -4789,142 +4613,6 @@
         "schoolSlug": "stephen-f-austin",
         "compositeRole": "Hitter",
         "profileUrl": "https://sfajacks.com/sports/baseball/roster/cermodrick-bland/7822",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "stephen-f-austin-8481",
-        "name": "Brock Bracher",
-        "school": "Stephen F. Austin",
-        "role": "Pitcher",
-        "position": "LHP",
-        "classYear": "RS",
-        "handedness": "L/L",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Brock Bracher looks like a LHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "RS / L/L",
-        "detailBadges": [
-          "LHP",
-          "RS",
-          "L/L",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Stephen F. Austin Athletics roster"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster",
-        "schoolSlug": "stephen-f-austin",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/brock-bracher/8481",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "stephen-f-austin-8486",
-        "name": "Jordan Bush",
-        "school": "Stephen F. Austin",
-        "role": "Pitcher",
-        "position": "RHP",
-        "classYear": "RS",
-        "handedness": "R/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Jordan Bush looks like a RHP option who throws enough strikes.",
-        "summaryMetrics": [
-          "ERA --",
-          "WHIP --",
-          "K/9 0.0"
-        ],
-        "statCards": [
-          {
-            "label": "ERA",
-            "value": "--"
-          },
-          {
-            "label": "WHIP",
-            "value": "--"
-          },
-          {
-            "label": "K/9",
-            "value": "0.0"
-          },
-          {
-            "label": "BB/9",
-            "value": "0.0"
-          },
-          {
-            "label": "HR/9",
-            "value": "0.00"
-          },
-          {
-            "label": "IP",
-            "value": "0.0"
-          }
-        ],
-        "components": {
-          "Run prevention": 0,
-          "Traffic control": 0,
-          "Miss bats": 0,
-          "Command": 0,
-          "Damage suppression": 0
-        },
-        "metaLine": "RS / R/R",
-        "detailBadges": [
-          "RHP",
-          "RS",
-          "R/R",
-          "Pitcher"
-        ],
-        "leaderboards": [
-          "Stephen F. Austin Athletics roster"
-        ],
-        "sourceSummary": "Stephen F. Austin Athletics roster",
-        "schoolSlug": "stephen-f-austin",
-        "compositeRole": "Pitcher",
-        "profileUrl": "https://sfajacks.com/sports/baseball/roster/jordan-bush/8486",
         "espnAthleteId": ""
       },
       {

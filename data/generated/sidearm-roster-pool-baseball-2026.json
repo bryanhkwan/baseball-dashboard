@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T10:19:00.220Z",
+  "generatedAt": "2026-11-20T10:19:17.283Z",
   "season": 2026,
   "source": "Generated Sidearm baseball roster pool",
   "note": "This compact roster-only pool captures public school-site baseball rosters so non-appearing players can still enter coverage before they log a reachable NCAA boxscore.",
@@ -51,7 +51,7 @@
       "slug": "bucknell",
       "name": "Bucknell",
       "longName": "Bucknell University",
-      "rosterPlayers": 28,
+      "rosterPlayers": 37,
       "rosterUrl": "https://bucknellbison.com/sports/baseball/roster"
     },
     {
@@ -373,7 +373,7 @@
       "slug": "stephen-f-austin",
       "name": "Stephen F. Austin",
       "longName": "Stephen F. Austin State University",
-      "rosterPlayers": 41,
+      "rosterPlayers": 39,
       "rosterUrl": "https://sfajacks.com/sports/baseball/roster"
     },
     {
@@ -472,10 +472,10 @@
     "schoolsRequested": 73,
     "schoolsLoaded": 66,
     "schoolsFailed": 7,
-    "totalPlayers": 2535,
+    "totalPlayers": 2542,
     "roleCounts": {
-      "Hitter": 1248,
-      "Pitcher": 1287
+      "Hitter": 1256,
+      "Pitcher": 1286
     },
     "failures": [
       {
@@ -6957,20 +6957,6 @@
       "https://brownbears.com/sports/baseball/roster/nolan-choquette/24034"
     ],
     [
-      "bucknell-14633",
-      "bucknell",
-      "Danny Nawrocki",
-      "Hitter",
-      "OF",
-      "SO",
-      "R/R",
-      "1",
-      "Long Island, N.Y.",
-      "Chaminade High School",
-      "",
-      "https://bucknellbison.com/sports/baseball/roster/danny-nawrocki/14633"
-    ],
-    [
       "bucknell-14639",
       "bucknell",
       "Andrew Swenson",
@@ -6983,6 +6969,20 @@
       "East Pennsboro",
       "",
       "https://bucknellbison.com/sports/baseball/roster/andrew-swenson/14639"
+    ],
+    [
+      "bucknell-14640",
+      "bucknell",
+      "Ryan Ruggiero",
+      "Hitter",
+      "OF",
+      "FR",
+      "L/L",
+      "3",
+      "Stow, Mass.",
+      "Winchendon School",
+      "",
+      "https://bucknellbison.com/sports/baseball/roster/ryan-ruggiero/14640"
     ],
     [
       "bucknell-14617",
@@ -7055,6 +7055,20 @@
       "https://bucknellbison.com/sports/baseball/roster/brady-green/14621"
     ],
     [
+      "bucknell-14641",
+      "bucknell",
+      "Gordon Cozad",
+      "Hitter",
+      "IF",
+      "FR",
+      "R/R",
+      "9",
+      "Vienna, Va.",
+      "Oakton High School",
+      "",
+      "https://bucknellbison.com/sports/baseball/roster/gordon-cozad/14641"
+    ],
+    [
       "bucknell-14630",
       "bucknell",
       "Chris Morabito",
@@ -7111,6 +7125,20 @@
       "https://bucknellbison.com/sports/baseball/roster/zach-selfon/14638"
     ],
     [
+      "bucknell-14642",
+      "bucknell",
+      "Mason Miles",
+      "Hitter",
+      "IF/OF",
+      "FR",
+      "R/R",
+      "15",
+      "Amagansett, N.Y.",
+      "East Hampton High School",
+      "",
+      "https://bucknellbison.com/sports/baseball/roster/mason-miles/14642"
+    ],
+    [
       "bucknell-14634",
       "bucknell",
       "Dante Pavone",
@@ -7137,6 +7165,34 @@
       "Lenape",
       "",
       "https://bucknellbison.com/sports/baseball/roster/jonathan-adelmann/14612"
+    ],
+    [
+      "bucknell-14643",
+      "bucknell",
+      "Hudson Novodor",
+      "Hitter",
+      "LHP/OF",
+      "FR",
+      "L/L",
+      "18",
+      "Gladwyne, Pa.",
+      "The Shipley School",
+      "",
+      "https://bucknellbison.com/sports/baseball/roster/hudson-novodor/14643"
+    ],
+    [
+      "bucknell-14644",
+      "bucknell",
+      "Carson Pettyjohn",
+      "Pitcher",
+      "RHP",
+      "FR",
+      "R/R",
+      "19",
+      "Pittsburgh, Pa.",
+      "Pittsburgh Central Catholic",
+      "",
+      "https://bucknellbison.com/sports/baseball/roster/carson-pettyjohn/14644"
     ],
     [
       "bucknell-14631",
@@ -7195,6 +7251,20 @@
       "https://bucknellbison.com/sports/baseball/roster/everett-garber/14620"
     ],
     [
+      "bucknell-14645",
+      "bucknell",
+      "Adam Williams",
+      "Hitter",
+      "IF",
+      "FR",
+      "L/R",
+      "24",
+      "Berlin, N.J.",
+      "St. Augustine Prep",
+      "",
+      "https://bucknellbison.com/sports/baseball/roster/adam-williams/14645"
+    ],
+    [
       "bucknell-14635",
       "bucknell",
       "Dylan Radtke",
@@ -7207,6 +7277,20 @@
       "North Broward Prep",
       "",
       "https://bucknellbison.com/sports/baseball/roster/dylan-radtke/14635"
+    ],
+    [
+      "bucknell-14646",
+      "bucknell",
+      "Brycen Clarke",
+      "Hitter",
+      "IF/OF",
+      "FR",
+      "L/R",
+      "26",
+      "Harleysville, Pa.",
+      "La Salle College High School",
+      "",
+      "https://bucknellbison.com/sports/baseball/roster/brycen-clarke/14646"
     ],
     [
       "bucknell-14625",
@@ -7279,6 +7363,34 @@
       "https://bucknellbison.com/sports/baseball/roster/brady-hoar/14623"
     ],
     [
+      "bucknell-14647",
+      "bucknell",
+      "Ryan McCabe",
+      "Hitter",
+      "C/IF",
+      "FR",
+      "R/R",
+      "32",
+      "Pearl River, N.Y.",
+      "Saint Joseph Regional",
+      "",
+      "https://bucknellbison.com/sports/baseball/roster/ryan-mccabe/14647"
+    ],
+    [
+      "bucknell-14648",
+      "bucknell",
+      "Owen Hauser",
+      "Pitcher",
+      "RHP",
+      "FR",
+      "R/R",
+      "35",
+      "Takoma Park, Md.",
+      "Montgomery Blair High School",
+      "",
+      "https://bucknellbison.com/sports/baseball/roster/owen-hauser/14648"
+    ],
+    [
       "bucknell-14624",
       "bucknell",
       "Samuel Janik",
@@ -7293,6 +7405,20 @@
       "https://bucknellbison.com/sports/baseball/roster/samuel-janik/14624"
     ],
     [
+      "bucknell-14649",
+      "bucknell",
+      "Jack Redpath",
+      "Hitter",
+      "C",
+      "FR",
+      "R/R",
+      "37",
+      "Vancouver, B.C., Canada",
+      "St. George's School",
+      "",
+      "https://bucknellbison.com/sports/baseball/roster/jack-redpath/14649"
+    ],
+    [
       "bucknell-14627",
       "bucknell",
       "Garrett Mathias",
@@ -7305,20 +7431,6 @@
       "William Penn Charter",
       "",
       "https://bucknellbison.com/sports/baseball/roster/garrett-mathias/14627"
-    ],
-    [
-      "bucknell-14628",
-      "bucknell",
-      "Luke Meyers",
-      "Pitcher",
-      "RHP",
-      "SO",
-      "R/R",
-      "40",
-      "Tinton Falls, N.J.",
-      "Red Bank Catholic",
-      "",
-      "https://bucknellbison.com/sports/baseball/roster/luke-meyers/14628"
     ],
     [
       "bucknell-14616",
@@ -7347,6 +7459,20 @@
       "Damascus",
       "",
       "https://bucknellbison.com/sports/baseball/roster/bryce-mitchell/14629"
+    ],
+    [
+      "bucknell-14650",
+      "bucknell",
+      "Lucien Saint Cyr",
+      "Hitter",
+      "IF",
+      "FR",
+      "R/R",
+      "43",
+      "Huntington Station, N.Y.",
+      "Walt Whitman High School",
+      "",
+      "https://bucknellbison.com/sports/baseball/roster/lucien-saint-cyr/14650"
     ],
     [
       "cal-poly-11460",
@@ -30069,34 +30195,6 @@
       "Nacogdoches HS",
       "",
       "https://sfajacks.com/sports/baseball/roster/cermodrick-bland/7822"
-    ],
-    [
-      "stephen-f-austin-8481",
-      "stephen-f-austin",
-      "Brock Bracher",
-      "Pitcher",
-      "LHP",
-      "RS",
-      "L/L",
-      "",
-      "Spring Branch, Texas",
-      "",
-      "Howard Junior College",
-      "https://sfajacks.com/sports/baseball/roster/brock-bracher/8481"
-    ],
-    [
-      "stephen-f-austin-8486",
-      "stephen-f-austin",
-      "Jordan Bush",
-      "Pitcher",
-      "RHP",
-      "RS",
-      "R/R",
-      "",
-      "Livingston, Texas",
-      "",
-      "UIW",
-      "https://sfajacks.com/sports/baseball/roster/jordan-bush/8486"
     ],
     [
       "stephen-f-austin-7846",
