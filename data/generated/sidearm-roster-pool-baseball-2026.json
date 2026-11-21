@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T10:19:17.283Z",
+  "generatedAt": "2026-11-21T10:19:29.556Z",
   "season": 2026,
   "source": "Generated Sidearm baseball roster pool",
   "note": "This compact roster-only pool captures public school-site baseball rosters so non-appearing players can still enter coverage before they log a reachable NCAA boxscore.",
@@ -415,7 +415,7 @@
       "slug": "troy",
       "name": "Troy",
       "longName": "Troy University",
-      "rosterPlayers": 36,
+      "rosterPlayers": 35,
       "rosterUrl": "https://troytrojans.com/sports/baseball/roster"
     },
     {
@@ -472,9 +472,9 @@
     "schoolsRequested": 73,
     "schoolsLoaded": 66,
     "schoolsFailed": 7,
-    "totalPlayers": 2542,
+    "totalPlayers": 2541,
     "roleCounts": {
-      "Hitter": 1256,
+      "Hitter": 1255,
       "Pitcher": 1286
     },
     "failures": [
@@ -32407,20 +32407,6 @@
       "Magoffin County HS",
       "Western Kentucky",
       "https://troytrojans.com/sports/baseball/roster/lucas-litteral/12373"
-    ],
-    [
-      "troy-12384",
-      "troy",
-      "Justin San Miguel",
-      "Hitter",
-      "INF",
-      "1ST",
-      "L/R",
-      "12",
-      "Ocean Springs, Miss.",
-      "Ocean Springs HS",
-      "",
-      "https://troytrojans.com/sports/baseball/roster/justin-san-miguel/12384"
     ],
     [
       "troy-12385",

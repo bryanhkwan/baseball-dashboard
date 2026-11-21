@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
-  "generatedAt": "2026-11-20T10:19:04.616Z",
+  "generatedAt": "2026-11-21T10:19:09.330Z",
   "season": 2026,
   "source": "Generated Sidearm baseball school-site pool",
   "note": "This generated free player pool combines verified public roster and cumulative stats pages from multiple Sidearm baseball programs. It is broader than Toledo alone, but still not a full every-school national directory yet.",
@@ -778,10 +778,10 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
       "name": "Troy",
       "longName": "Troy University",
       "record": "39-32, 17-13",
-      "totalPlayers": 36,
-      "hitters": 15,
+      "totalPlayers": 35,
+      "hitters": 14,
       "pitchers": 21,
-      "rosterPlayers": 36,
+      "rosterPlayers": 35,
       "playersWithAnyStats": 0,
       "statsUrl": "https://troytrojans.com/sports/baseball/stats/2026",
       "rosterUrl": "https://troytrojans.com/sports/baseball/roster"
@@ -866,17 +866,17 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
     }
   ],
   "coverage": {
-    "totalPlayers": 2542,
-    "totalHitters": 1165,
+    "totalPlayers": 2541,
+    "totalHitters": 1164,
     "totalPitchers": 1377,
     "schoolsCovered": 66
   },
   "playerBoard": {
     "source": "Generated Sidearm baseball school-site pool",
     "note": "This free generated pool comes from verified public school-site roster and cumulative stats pages across multiple Sidearm baseball programs.",
-    "totalPlayers": 2542,
+    "totalPlayers": 2541,
     "roleCounts": {
-      "Hitter": 1165,
+      "Hitter": 1164,
       "Pitcher": 1377
     },
     "players": [
@@ -156147,74 +156147,6 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "schoolSlug": "troy",
         "compositeRole": "Pitcher",
         "profileUrl": "https://troytrojans.com/sports/baseball/roster/lucas-litteral/12373",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "troy-12384",
-        "name": "Justin San Miguel",
-        "school": "Troy",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "1ST",
-        "handedness": "L/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Justin San Miguel gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "1ST / L/R",
-        "detailBadges": [
-          "INF",
-          "1ST",
-          "L/R",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Troy Athletics roster"
-        ],
-        "sourceSummary": "Troy Athletics roster",
-        "schoolSlug": "troy",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://troytrojans.com/sports/baseball/roster/justin-san-miguel/12384",
         "espnAthleteId": ""
       },
       {

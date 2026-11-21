@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T10:18:56.661Z",
+  "generatedAt": "2026-11-21T10:18:58.451Z",
   "season": 2026,
   "school": {
     "slug": "troy",
@@ -24,7 +24,7 @@
     "ncaa": "NCAA school index"
   },
   "coverage": {
-    "rosterPlayers": 36,
+    "rosterPlayers": 35,
     "espnRosterPlayers": 0,
     "playersWithHittingStats": 0,
     "playersWithPitchingStats": 0,
@@ -950,94 +950,6 @@
           "5TH",
           "R/L",
           "Pitcher"
-        ],
-        "sourceSummary": "Troy Athletics roster"
-      }
-    },
-    {
-      "id": "troy-12384",
-      "schoolSlug": "troy",
-      "school": "Troy",
-      "schoolLongName": "Troy University",
-      "name": "Justin San Miguel",
-      "normalizedName": "justin san miguel",
-      "compositeRole": "Rostered",
-      "role": "Hitter",
-      "position": "INF",
-      "positionLong": "",
-      "classYear": "1ST",
-      "handedness": "L/R",
-      "jersey": "12",
-      "hometown": "Ocean Springs, Miss.",
-      "highSchool": "Ocean Springs HS",
-      "previousSchool": "",
-      "hometownHighSchool": "Ocean Springs, Miss. / Ocean Springs HS",
-      "profileUrl": "https://troytrojans.com/sports/baseball/roster/justin-san-miguel/12384",
-      "imageUrl": "https://troytrojans.com/images/2026/9/11/San_Miguel_Justin_JM_1.png",
-      "espnAthleteId": "",
-      "espnSlug": "",
-      "espnDisplayHeight": "",
-      "espnDisplayWeight": "",
-      "espnBats": "",
-      "espnThrows": "",
-      "rosterBioId": "12384",
-      "sources": [
-        "Troy Athletics roster"
-      ],
-      "hittingStats": null,
-      "pitchingStats": null,
-      "fieldingStats": null,
-      "evaluation": {
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "summary": "Justin San Miguel gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "metaLine": "1ST / L/R",
-        "detailBadges": [
-          "INF",
-          "1ST",
-          "L/R",
-          "Rostered"
         ],
         "sourceSummary": "Troy Athletics roster"
       }
@@ -3334,9 +3246,9 @@
   "playerBoard": {
     "source": "Troy Athletics roster + cumulative stats / ESPN roster",
     "note": "This Troy-first dataset is built from public school-site roster and cumulative stats pages. ESPN was checked too, but Troy's public ESPN roster feed did not line up cleanly with the current school-site roster.",
-    "totalPlayers": 36,
+    "totalPlayers": 35,
     "roleCounts": {
-      "Hitter": 15,
+      "Hitter": 14,
       "Pitcher": 21
     },
     "players": [
@@ -3950,74 +3862,6 @@
         "schoolSlug": "troy",
         "compositeRole": "Pitcher",
         "profileUrl": "https://troytrojans.com/sports/baseball/roster/lucas-litteral/12373",
-        "espnAthleteId": ""
-      },
-      {
-        "id": "troy-12384",
-        "name": "Justin San Miguel",
-        "school": "Troy",
-        "role": "Hitter",
-        "position": "INF",
-        "classYear": "1ST",
-        "handedness": "L/R",
-        "score": 0,
-        "fit": {
-          "label": "Depth",
-          "className": "fit-depth"
-        },
-        "summary": "Justin San Miguel gives Toledo a live offensive snapshot from the public cumulative stats feed.",
-        "summaryMetrics": [
-          "AVG --",
-          "OBP --",
-          "SLG --"
-        ],
-        "statCards": [
-          {
-            "label": "AVG",
-            "value": "--"
-          },
-          {
-            "label": "OBP",
-            "value": "--"
-          },
-          {
-            "label": "SLG",
-            "value": "--"
-          },
-          {
-            "label": "HR",
-            "value": "0"
-          },
-          {
-            "label": "RBI",
-            "value": "0"
-          },
-          {
-            "label": "SB",
-            "value": "0"
-          }
-        ],
-        "components": {
-          "On-base": 0,
-          "Power": 0,
-          "Contact": 0,
-          "Discipline": 0,
-          "Speed": 0
-        },
-        "metaLine": "1ST / L/R",
-        "detailBadges": [
-          "INF",
-          "1ST",
-          "L/R",
-          "Rostered"
-        ],
-        "leaderboards": [
-          "Troy Athletics roster"
-        ],
-        "sourceSummary": "Troy Athletics roster",
-        "schoolSlug": "troy",
-        "compositeRole": "Rostered",
-        "profileUrl": "https://troytrojans.com/sports/baseball/roster/justin-san-miguel/12384",
         "espnAthleteId": ""
       },
       {
