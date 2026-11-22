@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.north-carolina2026 = {
-  "generatedAt": "2026-11-21T10:18:25.362Z",
+  "generatedAt": "2026-11-22T10:18:19.269Z",
   "season": 2026,
   "school": {
     "slug": "north-carolina",
