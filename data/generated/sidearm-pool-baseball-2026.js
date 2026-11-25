@@ -1,10 +1,10 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
-  "generatedAt": "2026-11-24T10:19:11.932Z",
+  "generatedAt": "2026-11-25T10:20:57.211Z",
   "season": 2026,
   "source": "Generated Sidearm baseball school-site pool",
   "note": "This generated free player pool combines verified public roster and cumulative stats pages from multiple Sidearm baseball programs. It is broader than Toledo alone, but still not a full every-school national directory yet.",
-  "schoolCount": 65,
+  "schoolCount": 66,
   "schools": [
     {
       "slug": "houston",
@@ -18,6 +18,19 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
       "playersWithAnyStats": 0,
       "statsUrl": "https://uhcougars.com/sports/baseball/stats/2026",
       "rosterUrl": "https://uhcougars.com/sports/baseball/roster"
+    },
+    {
+      "slug": "middle-tenn",
+      "name": "Middle Tennessee",
+      "longName": "Middle Tennessee State University",
+      "record": "26-31, 12-18",
+      "totalPlayers": 37,
+      "hitters": 15,
+      "pitchers": 22,
+      "rosterPlayers": 37,
+      "playersWithAnyStats": 0,
+      "statsUrl": "https://goblueraiders.com/sports/baseball/stats/2026",
+      "rosterUrl": "https://goblueraiders.com/sports/baseball/roster"
     },
     {
       "slug": "sam-houston-st",
@@ -853,18 +866,18 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
     }
   ],
   "coverage": {
-    "totalPlayers": 2504,
-    "totalHitters": 1149,
-    "totalPitchers": 1355,
-    "schoolsCovered": 65
+    "totalPlayers": 2541,
+    "totalHitters": 1164,
+    "totalPitchers": 1377,
+    "schoolsCovered": 66
   },
   "playerBoard": {
     "source": "Generated Sidearm baseball school-site pool",
     "note": "This free generated pool comes from verified public school-site roster and cumulative stats pages across multiple Sidearm baseball programs.",
-    "totalPlayers": 2504,
+    "totalPlayers": 2541,
     "roleCounts": {
-      "Hitter": 1149,
-      "Pitcher": 1355
+      "Hitter": 1164,
+      "Pitcher": 1377
     },
     "players": [
       {
@@ -3789,6 +3802,2522 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "schoolSlug": "houston",
         "compositeRole": "Pitcher",
         "profileUrl": "https://uhcougars.com/sports/baseball/roster/quincy-winkler/10464",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "middle-tenn-15458",
+        "name": "Matt DeShiro",
+        "school": "Middle Tennessee",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "JR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Matt DeShiro gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "INF",
+          "JR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Middle Tennessee Athletics roster"
+        ],
+        "sourceSummary": "Middle Tennessee Athletics roster",
+        "schoolSlug": "middle-tenn",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://goblueraiders.com/sports/baseball/roster/matt-deshiro/15458",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "middle-tenn-15459",
+        "name": "Sam Winsett",
+        "school": "Middle Tennessee",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "JR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Sam Winsett gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "INF",
+          "JR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Middle Tennessee Athletics roster"
+        ],
+        "sourceSummary": "Middle Tennessee Athletics roster",
+        "schoolSlug": "middle-tenn",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://goblueraiders.com/sports/baseball/roster/sam-winsett/15459",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "middle-tenn-15460",
+        "name": "Brooks Craigue",
+        "school": "Middle Tennessee",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "SR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Brooks Craigue gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "SR / N/A",
+        "detailBadges": [
+          "INF",
+          "SR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Middle Tennessee Athletics roster"
+        ],
+        "sourceSummary": "Middle Tennessee Athletics roster",
+        "schoolSlug": "middle-tenn",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://goblueraiders.com/sports/baseball/roster/brooks-craigue/15460",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "middle-tenn-15457",
+        "name": "Matt Wolfe",
+        "school": "Middle Tennessee",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "5TH",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Matt Wolfe gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "5TH / N/A",
+        "detailBadges": [
+          "INF",
+          "5TH",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Middle Tennessee Athletics roster"
+        ],
+        "sourceSummary": "Middle Tennessee Athletics roster",
+        "schoolSlug": "middle-tenn",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://goblueraiders.com/sports/baseball/roster/matt-wolfe/15457",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "middle-tenn-15451",
+        "name": "Keaton Ray",
+        "school": "Middle Tennessee",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "GR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Keaton Ray gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "GR / N/A",
+        "detailBadges": [
+          "OF",
+          "GR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Middle Tennessee Athletics roster"
+        ],
+        "sourceSummary": "Middle Tennessee Athletics roster",
+        "schoolSlug": "middle-tenn",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://goblueraiders.com/sports/baseball/roster/keaton-ray/15451",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "middle-tenn-15461",
+        "name": "Daniel Bastidas",
+        "school": "Middle Tennessee",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "JR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Daniel Bastidas gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "C",
+          "JR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Middle Tennessee Athletics roster"
+        ],
+        "sourceSummary": "Middle Tennessee Athletics roster",
+        "schoolSlug": "middle-tenn",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://goblueraiders.com/sports/baseball/roster/daniel-bastidas/15461",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "middle-tenn-15440",
+        "name": "Nathan Brewer",
+        "school": "Middle Tennessee",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "5TH",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Nathan Brewer gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "5TH / N/A",
+        "detailBadges": [
+          "OF",
+          "5TH",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Middle Tennessee Athletics roster"
+        ],
+        "sourceSummary": "Middle Tennessee Athletics roster",
+        "schoolSlug": "middle-tenn",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://goblueraiders.com/sports/baseball/roster/nathan-brewer/15440",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "middle-tenn-15462",
+        "name": "Jaxon Walker",
+        "school": "Middle Tennessee",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "JR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jaxon Walker gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "OF",
+          "JR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Middle Tennessee Athletics roster"
+        ],
+        "sourceSummary": "Middle Tennessee Athletics roster",
+        "schoolSlug": "middle-tenn",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://goblueraiders.com/sports/baseball/roster/jaxon-walker/15462",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "middle-tenn-15445",
+        "name": "Jack Fortner",
+        "school": "Middle Tennessee",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "GR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jack Fortner looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "GR / N/A",
+        "detailBadges": [
+          "RHP",
+          "GR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Middle Tennessee Athletics roster"
+        ],
+        "sourceSummary": "Middle Tennessee Athletics roster",
+        "schoolSlug": "middle-tenn",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://goblueraiders.com/sports/baseball/roster/jack-fortner/15445",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "middle-tenn-15438",
+        "name": "Alex Bedford",
+        "school": "Middle Tennessee",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "SO",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Alex Bedford gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "SO / N/A",
+        "detailBadges": [
+          "OF",
+          "SO",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Middle Tennessee Athletics roster"
+        ],
+        "sourceSummary": "Middle Tennessee Athletics roster",
+        "schoolSlug": "middle-tenn",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://goblueraiders.com/sports/baseball/roster/alex-bedford/15438",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "middle-tenn-15465",
+        "name": "Chris Brown",
+        "school": "Middle Tennessee",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "FR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Chris Brown gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "C",
+          "FR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Middle Tennessee Athletics roster"
+        ],
+        "sourceSummary": "Middle Tennessee Athletics roster",
+        "schoolSlug": "middle-tenn",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://goblueraiders.com/sports/baseball/roster/chris-brown/15465",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "middle-tenn-15439",
+        "name": "Konner Bowden",
+        "school": "Middle Tennessee",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "JR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Konner Bowden gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "OF",
+          "JR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Middle Tennessee Athletics roster"
+        ],
+        "sourceSummary": "Middle Tennessee Athletics roster",
+        "schoolSlug": "middle-tenn",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://goblueraiders.com/sports/baseball/roster/konner-bowden/15439",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "middle-tenn-15437",
+        "name": "Chandler Alderman",
+        "school": "Middle Tennessee",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "SR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Chandler Alderman looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / N/A",
+        "detailBadges": [
+          "LHP",
+          "SR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Middle Tennessee Athletics roster"
+        ],
+        "sourceSummary": "Middle Tennessee Athletics roster",
+        "schoolSlug": "middle-tenn",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://goblueraiders.com/sports/baseball/roster/chandler-alderman/15437",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "middle-tenn-15444",
+        "name": "Matthew Driver",
+        "school": "Middle Tennessee",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "GR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Matthew Driver looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "GR / N/A",
+        "detailBadges": [
+          "RHP",
+          "GR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Middle Tennessee Athletics roster"
+        ],
+        "sourceSummary": "Middle Tennessee Athletics roster",
+        "schoolSlug": "middle-tenn",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://goblueraiders.com/sports/baseball/roster/matthew-driver/15444",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "middle-tenn-15469",
+        "name": "Jack Jones",
+        "school": "Middle Tennessee",
+        "role": "Pitcher",
+        "position": "INF/RHP",
+        "classYear": "JR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jack Jones looks like a INF/RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "INF/RHP",
+          "JR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Middle Tennessee Athletics roster"
+        ],
+        "sourceSummary": "Middle Tennessee Athletics roster",
+        "schoolSlug": "middle-tenn",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://goblueraiders.com/sports/baseball/roster/jack-jones/15469",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "middle-tenn-15452",
+        "name": "Ethan Robinson",
+        "school": "Middle Tennessee",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Ethan Robinson looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Middle Tennessee Athletics roster"
+        ],
+        "sourceSummary": "Middle Tennessee Athletics roster",
+        "schoolSlug": "middle-tenn",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://goblueraiders.com/sports/baseball/roster/ethan-robinson/15452",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "middle-tenn-15456",
+        "name": "Brett Vondohlen",
+        "school": "Middle Tennessee",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "5TH",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Brett Vondohlen gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "5TH / N/A",
+        "detailBadges": [
+          "INF",
+          "5TH",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Middle Tennessee Athletics roster"
+        ],
+        "sourceSummary": "Middle Tennessee Athletics roster",
+        "schoolSlug": "middle-tenn",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://goblueraiders.com/sports/baseball/roster/brett-vondohlen/15456",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "middle-tenn-15463",
+        "name": "Clay Gadbois",
+        "school": "Middle Tennessee",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Clay Gadbois looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Middle Tennessee Athletics roster"
+        ],
+        "sourceSummary": "Middle Tennessee Athletics roster",
+        "schoolSlug": "middle-tenn",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://goblueraiders.com/sports/baseball/roster/clay-gadbois/15463",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "middle-tenn-15447",
+        "name": "Jaxon Junnila",
+        "school": "Middle Tennessee",
+        "role": "Hitter",
+        "position": "C",
+        "classYear": "5TH",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jaxon Junnila gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "5TH / N/A",
+        "detailBadges": [
+          "C",
+          "5TH",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Middle Tennessee Athletics roster"
+        ],
+        "sourceSummary": "Middle Tennessee Athletics roster",
+        "schoolSlug": "middle-tenn",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://goblueraiders.com/sports/baseball/roster/jaxon-junnila/15447",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "middle-tenn-15464",
+        "name": "Kyle Manship",
+        "school": "Middle Tennessee",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Kyle Manship looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / N/A",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Middle Tennessee Athletics roster"
+        ],
+        "sourceSummary": "Middle Tennessee Athletics roster",
+        "schoolSlug": "middle-tenn",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://goblueraiders.com/sports/baseball/roster/kyle-manship/15464",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "middle-tenn-15466",
+        "name": "Braden Suggs",
+        "school": "Middle Tennessee",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Braden Suggs looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Middle Tennessee Athletics roster"
+        ],
+        "sourceSummary": "Middle Tennessee Athletics roster",
+        "schoolSlug": "middle-tenn",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://goblueraiders.com/sports/baseball/roster/braden-suggs/15466",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "middle-tenn-15467",
+        "name": "Tommy Baker",
+        "school": "Middle Tennessee",
+        "role": "Hitter",
+        "position": "INF",
+        "classYear": "FR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Tommy Baker gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "INF",
+          "FR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Middle Tennessee Athletics roster"
+        ],
+        "sourceSummary": "Middle Tennessee Athletics roster",
+        "schoolSlug": "middle-tenn",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://goblueraiders.com/sports/baseball/roster/tommy-baker/15467",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "middle-tenn-15443",
+        "name": "Mason Dobbs",
+        "school": "Middle Tennessee",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Mason Dobbs looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / N/A",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Middle Tennessee Athletics roster"
+        ],
+        "sourceSummary": "Middle Tennessee Athletics roster",
+        "schoolSlug": "middle-tenn",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://goblueraiders.com/sports/baseball/roster/mason-dobbs/15443",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "middle-tenn-15468",
+        "name": "Josh Cone",
+        "school": "Middle Tennessee",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "SR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Josh Cone looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / N/A",
+        "detailBadges": [
+          "LHP",
+          "SR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Middle Tennessee Athletics roster"
+        ],
+        "sourceSummary": "Middle Tennessee Athletics roster",
+        "schoolSlug": "middle-tenn",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://goblueraiders.com/sports/baseball/roster/josh-cone/15468",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "middle-tenn-15470",
+        "name": "Ryan Apaliski",
+        "school": "Middle Tennessee",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "SR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Ryan Apaliski looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / N/A",
+        "detailBadges": [
+          "LHP",
+          "SR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Middle Tennessee Athletics roster"
+        ],
+        "sourceSummary": "Middle Tennessee Athletics roster",
+        "schoolSlug": "middle-tenn",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://goblueraiders.com/sports/baseball/roster/ryan-apaliski/15470",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "middle-tenn-15448",
+        "name": "Colin Kerrigan",
+        "school": "Middle Tennessee",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "SR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Colin Kerrigan looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / N/A",
+        "detailBadges": [
+          "LHP",
+          "SR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Middle Tennessee Athletics roster"
+        ],
+        "sourceSummary": "Middle Tennessee Athletics roster",
+        "schoolSlug": "middle-tenn",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://goblueraiders.com/sports/baseball/roster/colin-kerrigan/15448",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "middle-tenn-15453",
+        "name": "Walker Shaw",
+        "school": "Middle Tennessee",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "SR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Walker Shaw looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / N/A",
+        "detailBadges": [
+          "LHP",
+          "SR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Middle Tennessee Athletics roster"
+        ],
+        "sourceSummary": "Middle Tennessee Athletics roster",
+        "schoolSlug": "middle-tenn",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://goblueraiders.com/sports/baseball/roster/walker-shaw/15453",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "middle-tenn-15471",
+        "name": "Jacob Pino",
+        "school": "Middle Tennessee",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "5TH",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jacob Pino looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "5TH / N/A",
+        "detailBadges": [
+          "RHP",
+          "5TH",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Middle Tennessee Athletics roster"
+        ],
+        "sourceSummary": "Middle Tennessee Athletics roster",
+        "schoolSlug": "middle-tenn",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://goblueraiders.com/sports/baseball/roster/jacob-pino/15471",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "middle-tenn-15442",
+        "name": "Cole Cates",
+        "school": "Middle Tennessee",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Cole Cates looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / N/A",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Middle Tennessee Athletics roster"
+        ],
+        "sourceSummary": "Middle Tennessee Athletics roster",
+        "schoolSlug": "middle-tenn",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://goblueraiders.com/sports/baseball/roster/cole-cates/15442",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "middle-tenn-15472",
+        "name": "Owen Fogle",
+        "school": "Middle Tennessee",
+        "role": "Hitter",
+        "position": "OF",
+        "classYear": "FR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Owen Fogle gives Toledo a live offensive snapshot from the public cumulative stats feed.",
+        "summaryMetrics": [
+          "AVG --",
+          "OBP --",
+          "SLG --"
+        ],
+        "statCards": [
+          {
+            "label": "AVG",
+            "value": "--"
+          },
+          {
+            "label": "OBP",
+            "value": "--"
+          },
+          {
+            "label": "SLG",
+            "value": "--"
+          },
+          {
+            "label": "HR",
+            "value": "0"
+          },
+          {
+            "label": "RBI",
+            "value": "0"
+          },
+          {
+            "label": "SB",
+            "value": "0"
+          }
+        ],
+        "components": {
+          "On-base": 0,
+          "Power": 0,
+          "Contact": 0,
+          "Discipline": 0,
+          "Speed": 0
+        },
+        "metaLine": "FR / N/A",
+        "detailBadges": [
+          "OF",
+          "FR",
+          "N/A",
+          "Rostered"
+        ],
+        "leaderboards": [
+          "Middle Tennessee Athletics roster"
+        ],
+        "sourceSummary": "Middle Tennessee Athletics roster",
+        "schoolSlug": "middle-tenn",
+        "compositeRole": "Rostered",
+        "profileUrl": "https://goblueraiders.com/sports/baseball/roster/owen-fogle/15472",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "middle-tenn-15455",
+        "name": "Cole Torbett",
+        "school": "Middle Tennessee",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "5TH",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Cole Torbett looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "5TH / N/A",
+        "detailBadges": [
+          "LHP",
+          "5TH",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Middle Tennessee Athletics roster"
+        ],
+        "sourceSummary": "Middle Tennessee Athletics roster",
+        "schoolSlug": "middle-tenn",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://goblueraiders.com/sports/baseball/roster/cole-torbett/15455",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "middle-tenn-15473",
+        "name": "Nick Cappello",
+        "school": "Middle Tennessee",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Nick Cappello looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / N/A",
+        "detailBadges": [
+          "RHP",
+          "SR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Middle Tennessee Athletics roster"
+        ],
+        "sourceSummary": "Middle Tennessee Athletics roster",
+        "schoolSlug": "middle-tenn",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://goblueraiders.com/sports/baseball/roster/nick-cappello/15473",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "middle-tenn-15454",
+        "name": "Jonny Stevens",
+        "school": "Middle Tennessee",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "GR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jonny Stevens looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "GR / N/A",
+        "detailBadges": [
+          "RHP",
+          "GR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Middle Tennessee Athletics roster"
+        ],
+        "sourceSummary": "Middle Tennessee Athletics roster",
+        "schoolSlug": "middle-tenn",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://goblueraiders.com/sports/baseball/roster/jonny-stevens/15454",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "middle-tenn-15474",
+        "name": "Jake McGlynn",
+        "school": "Middle Tennessee",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "SO",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Jake McGlynn looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SO / N/A",
+        "detailBadges": [
+          "LHP",
+          "SO",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Middle Tennessee Athletics roster"
+        ],
+        "sourceSummary": "Middle Tennessee Athletics roster",
+        "schoolSlug": "middle-tenn",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://goblueraiders.com/sports/baseball/roster/jake-mcglynn/15474",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "middle-tenn-15475",
+        "name": "Matthew Meade",
+        "school": "Middle Tennessee",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "JR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Matthew Meade looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "JR / N/A",
+        "detailBadges": [
+          "RHP",
+          "JR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Middle Tennessee Athletics roster"
+        ],
+        "sourceSummary": "Middle Tennessee Athletics roster",
+        "schoolSlug": "middle-tenn",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://goblueraiders.com/sports/baseball/roster/matthew-meade/15475",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "middle-tenn-15446",
+        "name": "Ryder Harville",
+        "school": "Middle Tennessee",
+        "role": "Pitcher",
+        "position": "RHP",
+        "classYear": "SO",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "Ryder Harville looks like a RHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SO / N/A",
+        "detailBadges": [
+          "RHP",
+          "SO",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Middle Tennessee Athletics roster"
+        ],
+        "sourceSummary": "Middle Tennessee Athletics roster",
+        "schoolSlug": "middle-tenn",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://goblueraiders.com/sports/baseball/roster/ryder-harville/15446",
+        "espnAthleteId": ""
+      },
+      {
+        "id": "middle-tenn-15450",
+        "name": "John Michael Pickens",
+        "school": "Middle Tennessee",
+        "role": "Pitcher",
+        "position": "LHP",
+        "classYear": "SR",
+        "handedness": "N/A",
+        "score": 0,
+        "fit": {
+          "label": "Depth",
+          "className": "fit-depth"
+        },
+        "summary": "John Michael Pickens looks like a LHP option who throws enough strikes.",
+        "summaryMetrics": [
+          "ERA --",
+          "WHIP --",
+          "K/9 0.0"
+        ],
+        "statCards": [
+          {
+            "label": "ERA",
+            "value": "--"
+          },
+          {
+            "label": "WHIP",
+            "value": "--"
+          },
+          {
+            "label": "K/9",
+            "value": "0.0"
+          },
+          {
+            "label": "BB/9",
+            "value": "0.0"
+          },
+          {
+            "label": "HR/9",
+            "value": "0.00"
+          },
+          {
+            "label": "IP",
+            "value": "0.0"
+          }
+        ],
+        "components": {
+          "Run prevention": 0,
+          "Traffic control": 0,
+          "Miss bats": 0,
+          "Command": 0,
+          "Damage suppression": 0
+        },
+        "metaLine": "SR / N/A",
+        "detailBadges": [
+          "LHP",
+          "SR",
+          "N/A",
+          "Pitcher"
+        ],
+        "leaderboards": [
+          "Middle Tennessee Athletics roster"
+        ],
+        "sourceSummary": "Middle Tennessee Athletics roster",
+        "schoolSlug": "middle-tenn",
+        "compositeRole": "Pitcher",
+        "profileUrl": "https://goblueraiders.com/sports/baseball/roster/john-michael-pickens/15450",
         "espnAthleteId": ""
       },
       {
@@ -104809,7 +107338,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "role": "Hitter",
         "position": "INF",
         "classYear": "JR",
-        "handedness": "N/A",
+        "handedness": "L/R",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -104854,11 +107383,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "JR / N/A",
+        "metaLine": "JR / L/R",
         "detailBadges": [
           "INF",
           "JR",
-          "N/A",
+          "L/R",
           "Rostered"
         ],
         "leaderboards": [
@@ -104877,7 +107406,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "role": "Hitter",
         "position": "OF",
         "classYear": "GR",
-        "handedness": "N/A",
+        "handedness": "R/R",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -104922,11 +107451,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "GR / N/A",
+        "metaLine": "GR / R/R",
         "detailBadges": [
           "OF",
           "GR",
-          "N/A",
+          "R/R",
           "Rostered"
         ],
         "leaderboards": [
@@ -105081,7 +107610,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "role": "Hitter",
         "position": "INF",
         "classYear": "JR",
-        "handedness": "N/A",
+        "handedness": "R/R",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -105126,11 +107655,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "JR / N/A",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "INF",
           "JR",
-          "N/A",
+          "R/R",
           "Rostered"
         ],
         "leaderboards": [
@@ -105217,7 +107746,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "role": "Hitter",
         "position": "INF",
         "classYear": "FR",
-        "handedness": "N/A",
+        "handedness": "R/R",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -105262,11 +107791,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "FR / N/A",
+        "metaLine": "FR / R/R",
         "detailBadges": [
           "INF",
           "FR",
-          "N/A",
+          "R/R",
           "Rostered"
         ],
         "leaderboards": [
@@ -105285,7 +107814,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "role": "Pitcher",
         "position": "LHP",
         "classYear": "GR",
-        "handedness": "N/A",
+        "handedness": "L/L",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -105330,11 +107859,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "GR / N/A",
+        "metaLine": "GR / L/L",
         "detailBadges": [
           "LHP",
           "GR",
-          "N/A",
+          "L/L",
           "Pitcher"
         ],
         "leaderboards": [
@@ -105353,7 +107882,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "role": "Hitter",
         "position": "OF",
         "classYear": "FR",
-        "handedness": "N/A",
+        "handedness": "R/R",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -105398,11 +107927,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "FR / N/A",
+        "metaLine": "FR / R/R",
         "detailBadges": [
           "OF",
           "FR",
-          "N/A",
+          "R/R",
           "Rostered"
         ],
         "leaderboards": [
@@ -105489,7 +108018,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "role": "Hitter",
         "position": "C",
         "classYear": "SR",
-        "handedness": "N/A",
+        "handedness": "R/R",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -105534,11 +108063,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "SR / N/A",
+        "metaLine": "SR / R/R",
         "detailBadges": [
           "C",
           "SR",
-          "N/A",
+          "R/R",
           "Rostered"
         ],
         "leaderboards": [
@@ -105557,7 +108086,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "role": "Hitter",
         "position": "OF",
         "classYear": "FR",
-        "handedness": "N/A",
+        "handedness": "L/L",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -105602,11 +108131,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "FR / N/A",
+        "metaLine": "FR / L/L",
         "detailBadges": [
           "OF",
           "FR",
-          "N/A",
+          "L/L",
           "Rostered"
         ],
         "leaderboards": [
@@ -105625,7 +108154,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "role": "Pitcher",
         "position": "RHP",
         "classYear": "SR",
-        "handedness": "N/A",
+        "handedness": "R/R",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -105670,11 +108199,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SR / N/A",
+        "metaLine": "SR / R/R",
         "detailBadges": [
           "RHP",
           "SR",
-          "N/A",
+          "R/R",
           "Pitcher"
         ],
         "leaderboards": [
@@ -105693,7 +108222,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "role": "Hitter",
         "position": "INF",
         "classYear": "GR",
-        "handedness": "N/A",
+        "handedness": "L/R",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -105738,11 +108267,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "GR / N/A",
+        "metaLine": "GR / L/R",
         "detailBadges": [
           "INF",
           "GR",
-          "N/A",
+          "L/R",
           "Rostered"
         ],
         "leaderboards": [
@@ -105829,7 +108358,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "role": "Hitter",
         "position": "1B/OF",
         "classYear": "FR",
-        "handedness": "N/A",
+        "handedness": "L/L",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -105874,11 +108403,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "FR / N/A",
+        "metaLine": "FR / L/L",
         "detailBadges": [
           "1B/OF",
           "FR",
-          "N/A",
+          "L/L",
           "Rostered"
         ],
         "leaderboards": [
@@ -105897,7 +108426,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "role": "Hitter",
         "position": "C",
         "classYear": "GR",
-        "handedness": "N/A",
+        "handedness": "R/R",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -105942,11 +108471,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "GR / N/A",
+        "metaLine": "GR / R/R",
         "detailBadges": [
           "C",
           "GR",
-          "N/A",
+          "R/R",
           "Rostered"
         ],
         "leaderboards": [
@@ -105965,7 +108494,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "role": "Pitcher",
         "position": "RHP",
         "classYear": "JR",
-        "handedness": "N/A",
+        "handedness": "R/R",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -106010,11 +108539,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "JR / N/A",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "RHP",
           "JR",
-          "N/A",
+          "R/R",
           "Pitcher"
         ],
         "leaderboards": [
@@ -106033,7 +108562,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "role": "Hitter",
         "position": "OF",
         "classYear": "JR",
-        "handedness": "N/A",
+        "handedness": "L/R",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -106078,11 +108607,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "JR / N/A",
+        "metaLine": "JR / L/R",
         "detailBadges": [
           "OF",
           "JR",
-          "N/A",
+          "L/R",
           "Rostered"
         ],
         "leaderboards": [
@@ -106237,7 +108766,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "role": "Pitcher",
         "position": "RHP",
         "classYear": "SO",
-        "handedness": "N/A",
+        "handedness": "R/R",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -106282,11 +108811,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SO / N/A",
+        "metaLine": "SO / R/R",
         "detailBadges": [
           "RHP",
           "SO",
-          "N/A",
+          "R/R",
           "Pitcher"
         ],
         "leaderboards": [
@@ -106509,7 +109038,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "role": "Pitcher",
         "position": "RHP",
         "classYear": "FR",
-        "handedness": "N/A",
+        "handedness": "R/R",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -106554,11 +109083,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "FR / N/A",
+        "metaLine": "FR / R/R",
         "detailBadges": [
           "RHP",
           "FR",
-          "N/A",
+          "R/R",
           "Pitcher"
         ],
         "leaderboards": [
@@ -106713,7 +109242,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "role": "Pitcher",
         "position": "RHP",
         "classYear": "FR",
-        "handedness": "N/A",
+        "handedness": "S/R",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -106758,11 +109287,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "FR / N/A",
+        "metaLine": "FR / S/R",
         "detailBadges": [
           "RHP",
           "FR",
-          "N/A",
+          "S/R",
           "Pitcher"
         ],
         "leaderboards": [
@@ -106849,7 +109378,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "role": "Pitcher",
         "position": "RHP",
         "classYear": "FR",
-        "handedness": "N/A",
+        "handedness": "R/R",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -106894,11 +109423,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "FR / N/A",
+        "metaLine": "FR / R/R",
         "detailBadges": [
           "RHP",
           "FR",
-          "N/A",
+          "R/R",
           "Pitcher"
         ],
         "leaderboards": [
@@ -106985,7 +109514,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "role": "Pitcher",
         "position": "RHP",
         "classYear": "SR",
-        "handedness": "N/A",
+        "handedness": "R/R",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -107030,11 +109559,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SR / N/A",
+        "metaLine": "SR / R/R",
         "detailBadges": [
           "RHP",
           "SR",
-          "N/A",
+          "R/R",
           "Pitcher"
         ],
         "leaderboards": [
@@ -107053,7 +109582,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "role": "Pitcher",
         "position": "LHP",
         "classYear": "FR",
-        "handedness": "N/A",
+        "handedness": "L/L",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -107098,11 +109627,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "FR / N/A",
+        "metaLine": "FR / L/L",
         "detailBadges": [
           "LHP",
           "FR",
-          "N/A",
+          "L/L",
           "Pitcher"
         ],
         "leaderboards": [
@@ -107257,7 +109786,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "role": "Pitcher",
         "position": "LHP",
         "classYear": "JR",
-        "handedness": "N/A",
+        "handedness": "L/L",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -107302,11 +109831,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "JR / N/A",
+        "metaLine": "JR / L/L",
         "detailBadges": [
           "LHP",
           "JR",
-          "N/A",
+          "L/L",
           "Pitcher"
         ],
         "leaderboards": [
@@ -107393,7 +109922,7 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
         "role": "Pitcher",
         "position": "RHP",
         "classYear": "JR",
-        "handedness": "N/A",
+        "handedness": "L/R",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -107438,11 +109967,11 @@ window.__BASEBALL_DATASETS__.generatedSidearmPool2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "JR / N/A",
+        "metaLine": "JR / L/R",
         "detailBadges": [
           "RHP",
           "JR",
-          "N/A",
+          "L/R",
           "Pitcher"
         ],
         "leaderboards": [

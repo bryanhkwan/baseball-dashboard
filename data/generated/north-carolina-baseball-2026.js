@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.north-carolina2026 = {
-  "generatedAt": "2026-11-24T10:18:31.668Z",
+  "generatedAt": "2026-11-25T10:20:16.094Z",
   "season": 2026,
   "school": {
     "slug": "north-carolina",
@@ -168,7 +168,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
       "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "INF",
-      "positionLong": "",
+      "positionLong": "Infield",
       "classYear": "SR",
       "handedness": "R/R",
       "jersey": "1",
@@ -258,12 +258,12 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
       "position": "INF",
       "positionLong": "Infield",
       "classYear": "JR",
-      "handedness": "N/A",
+      "handedness": "L/R",
       "jersey": "2",
       "hometown": "Burke, Va.",
-      "highSchool": "Dowling Catholic HS",
+      "highSchool": "Lake Braddock HS",
       "previousSchool": "William & Mary",
-      "hometownHighSchool": "Burke, Va. / Dowling Catholic HS",
+      "hometownHighSchool": "Burke, Va. / Lake Braddock HS",
       "profileUrl": "https://goheels.com/sports/baseball/roster/jamie-laskofski/28690",
       "imageUrl": "https://goheels.com/images/2026/10/5/Laskofski_Jamie.2027.bb.27.jpg",
       "espnAthleteId": "",
@@ -324,11 +324,11 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "JR / N/A",
+        "metaLine": "JR / L/R",
         "detailBadges": [
           "INF",
           "JR",
-          "N/A",
+          "L/R",
           "Rostered"
         ],
         "sourceSummary": "North Carolina Athletics roster"
@@ -346,7 +346,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
       "position": "OF",
       "positionLong": "Outfield",
       "classYear": "GR",
-      "handedness": "N/A",
+      "handedness": "R/R",
       "jersey": "3",
       "hometown": "Ventnor City, N.J.",
       "highSchool": "Phillips Academy",
@@ -412,11 +412,11 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "GR / N/A",
+        "metaLine": "GR / R/R",
         "detailBadges": [
           "OF",
           "GR",
-          "N/A",
+          "R/R",
           "Rostered"
         ],
         "sourceSummary": "North Carolina Athletics roster"
@@ -432,7 +432,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
       "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "OF",
-      "positionLong": "",
+      "positionLong": "Outfield",
       "classYear": "JR",
       "handedness": "L/R",
       "jersey": "4",
@@ -520,7 +520,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
       "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "INF",
-      "positionLong": "",
+      "positionLong": "Infield",
       "classYear": "SR",
       "handedness": "R/R",
       "jersey": "5",
@@ -610,7 +610,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
       "position": "INF",
       "positionLong": "Infield",
       "classYear": "JR",
-      "handedness": "N/A",
+      "handedness": "R/R",
       "jersey": "6",
       "hometown": "Newbern, Tenn.",
       "highSchool": "Dyer County HS",
@@ -676,11 +676,11 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "JR / N/A",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "INF",
           "JR",
-          "N/A",
+          "R/R",
           "Rostered"
         ],
         "sourceSummary": "North Carolina Athletics roster"
@@ -696,7 +696,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
       "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "OF",
-      "positionLong": "",
+      "positionLong": "Outfield",
       "classYear": "JR",
       "handedness": "R/R",
       "jersey": "7",
@@ -786,7 +786,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
       "position": "INF",
       "positionLong": "Infield",
       "classYear": "FR",
-      "handedness": "N/A",
+      "handedness": "R/R",
       "jersey": "8",
       "hometown": "Chesepeake, Va.",
       "highSchool": "Great Bridge HS",
@@ -852,11 +852,11 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "FR / N/A",
+        "metaLine": "FR / R/R",
         "detailBadges": [
           "INF",
           "FR",
-          "N/A",
+          "R/R",
           "Rostered"
         ],
         "sourceSummary": "North Carolina Athletics roster"
@@ -872,9 +872,9 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
       "compositeRole": "Pitcher",
       "role": "Pitcher",
       "position": "LHP",
-      "positionLong": "LHP",
+      "positionLong": "Left-Handed Pitcher",
       "classYear": "GR",
-      "handedness": "N/A",
+      "handedness": "L/L",
       "jersey": "10",
       "hometown": "Charlotte, N.C.",
       "highSchool": "Charlotte Catholic HS",
@@ -940,11 +940,11 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "GR / N/A",
+        "metaLine": "GR / L/L",
         "detailBadges": [
           "LHP",
           "GR",
-          "N/A",
+          "L/L",
           "Pitcher"
         ],
         "sourceSummary": "North Carolina Athletics roster"
@@ -962,7 +962,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
       "position": "OF",
       "positionLong": "Outfield",
       "classYear": "FR",
-      "handedness": "N/A",
+      "handedness": "R/R",
       "jersey": "11",
       "hometown": "Charlottesville, Va.",
       "highSchool": "Miller School",
@@ -1028,11 +1028,11 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "FR / N/A",
+        "metaLine": "FR / R/R",
         "detailBadges": [
           "OF",
           "FR",
-          "N/A",
+          "R/R",
           "Rostered"
         ],
         "sourceSummary": "North Carolina Athletics roster"
@@ -1048,7 +1048,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
       "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "OF/1B",
-      "positionLong": "",
+      "positionLong": "Outfield",
       "classYear": "SO",
       "handedness": "L/L",
       "jersey": "12",
@@ -1138,7 +1138,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
       "position": "C",
       "positionLong": "Catcher",
       "classYear": "SR",
-      "handedness": "N/A",
+      "handedness": "R/R",
       "jersey": "14",
       "hometown": "Kanab, Utah",
       "highSchool": "Kanab HS",
@@ -1204,11 +1204,11 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "SR / N/A",
+        "metaLine": "SR / R/R",
         "detailBadges": [
           "C",
           "SR",
-          "N/A",
+          "R/R",
           "Rostered"
         ],
         "sourceSummary": "North Carolina Athletics roster"
@@ -1226,7 +1226,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
       "position": "OF",
       "positionLong": "Outfield",
       "classYear": "FR",
-      "handedness": "N/A",
+      "handedness": "L/L",
       "jersey": "15",
       "hometown": "Salisbury, N.C.",
       "highSchool": "East Rowan HS",
@@ -1292,11 +1292,11 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "FR / N/A",
+        "metaLine": "FR / L/L",
         "detailBadges": [
           "OF",
           "FR",
-          "N/A",
+          "L/L",
           "Rostered"
         ],
         "sourceSummary": "North Carolina Athletics roster"
@@ -1312,9 +1312,9 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
       "compositeRole": "Pitcher",
       "role": "Pitcher",
       "position": "RHP",
-      "positionLong": "Right-handed Pitcher",
+      "positionLong": "Right-Handed Pitcher",
       "classYear": "SR",
-      "handedness": "N/A",
+      "handedness": "R/R",
       "jersey": "17",
       "hometown": "Johnson City, Tenn.",
       "highSchool": "Science Hill HS",
@@ -1380,11 +1380,11 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "SR / N/A",
+        "metaLine": "SR / R/R",
         "detailBadges": [
           "RHP",
           "SR",
-          "N/A",
+          "R/R",
           "Pitcher"
         ],
         "sourceSummary": "North Carolina Athletics roster"
@@ -1402,7 +1402,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
       "position": "INF",
       "positionLong": "Infield",
       "classYear": "GR",
-      "handedness": "N/A",
+      "handedness": "L/R",
       "jersey": "18",
       "hometown": "Dallas, Texas",
       "highSchool": "Episcopal School of Dallas",
@@ -1468,11 +1468,11 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "GR / N/A",
+        "metaLine": "GR / L/R",
         "detailBadges": [
           "INF",
           "GR",
-          "N/A",
+          "L/R",
           "Rostered"
         ],
         "sourceSummary": "North Carolina Athletics roster"
@@ -1488,7 +1488,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
       "compositeRole": "Pitcher",
       "role": "Pitcher",
       "position": "RHP",
-      "positionLong": "",
+      "positionLong": "Right-Handed Pitcher",
       "classYear": "JR",
       "handedness": "R/R",
       "jersey": "19",
@@ -1578,7 +1578,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
       "position": "1B/OF",
       "positionLong": "First Baseman/Outfield",
       "classYear": "FR",
-      "handedness": "N/A",
+      "handedness": "L/L",
       "jersey": "20",
       "hometown": "Hoschton, Ga.",
       "highSchool": "Mill Creek HS",
@@ -1644,11 +1644,11 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "FR / N/A",
+        "metaLine": "FR / L/L",
         "detailBadges": [
           "1B/OF",
           "FR",
-          "N/A",
+          "L/L",
           "Rostered"
         ],
         "sourceSummary": "North Carolina Athletics roster"
@@ -1666,7 +1666,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
       "position": "C",
       "positionLong": "Catcher",
       "classYear": "GR",
-      "handedness": "N/A",
+      "handedness": "R/R",
       "jersey": "23",
       "hometown": "Boonton Township, N.J.",
       "highSchool": "Moutain Lakes HS",
@@ -1732,11 +1732,11 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "GR / N/A",
+        "metaLine": "GR / R/R",
         "detailBadges": [
           "C",
           "GR",
-          "N/A",
+          "R/R",
           "Rostered"
         ],
         "sourceSummary": "North Carolina Athletics roster"
@@ -1754,7 +1754,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
       "position": "RHP",
       "positionLong": "Right-Handed Pitcher",
       "classYear": "JR",
-      "handedness": "N/A",
+      "handedness": "R/R",
       "jersey": "24",
       "hometown": "Erdenheim, Pa.",
       "highSchool": "William Penn Charter",
@@ -1820,11 +1820,11 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "JR / N/A",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "RHP",
           "JR",
-          "N/A",
+          "R/R",
           "Pitcher"
         ],
         "sourceSummary": "North Carolina Athletics roster"
@@ -1842,7 +1842,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
       "position": "OF",
       "positionLong": "Outfield",
       "classYear": "JR",
-      "handedness": "N/A",
+      "handedness": "L/R",
       "jersey": "25",
       "hometown": "Kernersville, N.C.",
       "highSchool": "Northwest Guilford HS",
@@ -1908,11 +1908,11 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
             "value": "0"
           }
         ],
-        "metaLine": "JR / N/A",
+        "metaLine": "JR / L/R",
         "detailBadges": [
           "OF",
           "JR",
-          "N/A",
+          "L/R",
           "Rostered"
         ],
         "sourceSummary": "North Carolina Athletics roster"
@@ -1928,7 +1928,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
       "compositeRole": "Pitcher",
       "role": "Pitcher",
       "position": "RHP",
-      "positionLong": "",
+      "positionLong": "Right-Handed Pitcher",
       "classYear": "SO",
       "handedness": "R/R",
       "jersey": "27",
@@ -2016,7 +2016,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
       "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "OF",
-      "positionLong": "",
+      "positionLong": "Outfield",
       "classYear": "SO",
       "handedness": "R/R",
       "jersey": "28",
@@ -2106,7 +2106,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
       "position": "RHP",
       "positionLong": "Right-Handed Pitcher",
       "classYear": "SO",
-      "handedness": "N/A",
+      "handedness": "R/R",
       "jersey": "29",
       "hometown": "Pleasant Hill, Calif.",
       "highSchool": "College Park HS",
@@ -2172,11 +2172,11 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "SO / N/A",
+        "metaLine": "SO / R/R",
         "detailBadges": [
           "RHP",
           "SO",
-          "N/A",
+          "R/R",
           "Pitcher"
         ],
         "sourceSummary": "North Carolina Athletics roster"
@@ -2192,7 +2192,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
       "compositeRole": "Pitcher",
       "role": "Pitcher",
       "position": "RHP",
-      "positionLong": "",
+      "positionLong": "Right-Handed Pitcher",
       "classYear": "SR",
       "handedness": "R/R",
       "jersey": "31",
@@ -2280,7 +2280,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
       "compositeRole": "Pitcher",
       "role": "Pitcher",
       "position": "LHP",
-      "positionLong": "",
+      "positionLong": "Left-Handed Pitcher",
       "classYear": "SO",
       "handedness": "L/L",
       "jersey": "35",
@@ -2368,7 +2368,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
       "compositeRole": "Pitcher",
       "role": "Pitcher",
       "position": "LHP",
-      "positionLong": "",
+      "positionLong": "Left-Handed Pitcher",
       "classYear": "SR",
       "handedness": "L/L",
       "jersey": "36",
@@ -2458,7 +2458,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
       "position": "RHP",
       "positionLong": "Right-Handed Pitcher",
       "classYear": "FR",
-      "handedness": "N/A",
+      "handedness": "R/R",
       "jersey": "38",
       "hometown": "Reidsville, N.C.",
       "highSchool": "Rockingham County HS",
@@ -2524,11 +2524,11 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "FR / N/A",
+        "metaLine": "FR / R/R",
         "detailBadges": [
           "RHP",
           "FR",
-          "N/A",
+          "R/R",
           "Pitcher"
         ],
         "sourceSummary": "North Carolina Athletics roster"
@@ -2544,7 +2544,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
       "compositeRole": "Pitcher",
       "role": "Pitcher",
       "position": "RHP",
-      "positionLong": "",
+      "positionLong": "Right-Handed Pitcher",
       "classYear": "SO",
       "handedness": "R/R",
       "jersey": "39",
@@ -2632,7 +2632,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
       "compositeRole": "Pitcher",
       "role": "Pitcher",
       "position": "RHP",
-      "positionLong": "",
+      "positionLong": "Right-Handed Pitcher",
       "classYear": "JR",
       "handedness": "R/R",
       "jersey": "40",
@@ -2722,7 +2722,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
       "position": "RHP",
       "positionLong": "Right-Handed Pitcher",
       "classYear": "FR",
-      "handedness": "N/A",
+      "handedness": "S/R",
       "jersey": "41",
       "hometown": "Hamstead, N.C.",
       "highSchool": "Topsail HS",
@@ -2788,11 +2788,11 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "FR / N/A",
+        "metaLine": "FR / S/R",
         "detailBadges": [
           "RHP",
           "FR",
-          "N/A",
+          "S/R",
           "Pitcher"
         ],
         "sourceSummary": "North Carolina Athletics roster"
@@ -2808,7 +2808,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
       "compositeRole": "Pitcher",
       "role": "Pitcher",
       "position": "RHP",
-      "positionLong": "",
+      "positionLong": "Right-Handed Pitcher",
       "classYear": "SR",
       "handedness": "R/R",
       "jersey": "42",
@@ -2898,7 +2898,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
       "position": "RHP",
       "positionLong": "Right-Handed Pitcher",
       "classYear": "FR",
-      "handedness": "N/A",
+      "handedness": "R/R",
       "jersey": "43",
       "hometown": "Raleigh, N.C.",
       "highSchool": "Cardinal Gibbons HS",
@@ -2964,11 +2964,11 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "FR / N/A",
+        "metaLine": "FR / R/R",
         "detailBadges": [
           "RHP",
           "FR",
-          "N/A",
+          "R/R",
           "Pitcher"
         ],
         "sourceSummary": "North Carolina Athletics roster"
@@ -2984,7 +2984,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
       "compositeRole": "Rostered",
       "role": "Hitter",
       "position": "INF",
-      "positionLong": "",
+      "positionLong": "Infield",
       "classYear": "SR",
       "handedness": "L/L",
       "jersey": "44",
@@ -3074,7 +3074,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
       "position": "RHP",
       "positionLong": "Right-Handed Pitcher",
       "classYear": "SR",
-      "handedness": "N/A",
+      "handedness": "R/R",
       "jersey": "45",
       "hometown": "Franklin County, Va.",
       "highSchool": "Franklin County HS",
@@ -3140,11 +3140,11 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "SR / N/A",
+        "metaLine": "SR / R/R",
         "detailBadges": [
           "RHP",
           "SR",
-          "N/A",
+          "R/R",
           "Pitcher"
         ],
         "sourceSummary": "North Carolina Athletics roster"
@@ -3162,7 +3162,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
       "position": "LHP",
       "positionLong": "Left-Handed Pitcher",
       "classYear": "FR",
-      "handedness": "N/A",
+      "handedness": "L/L",
       "jersey": "46",
       "hometown": "Yardley, Pa.",
       "highSchool": "The Hun School",
@@ -3228,11 +3228,11 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "FR / N/A",
+        "metaLine": "FR / L/L",
         "detailBadges": [
           "LHP",
           "FR",
-          "N/A",
+          "L/L",
           "Pitcher"
         ],
         "sourceSummary": "North Carolina Athletics roster"
@@ -3248,7 +3248,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
       "compositeRole": "Pitcher",
       "role": "Pitcher",
       "position": "RHP",
-      "positionLong": "",
+      "positionLong": "Right-Handed Pitcher",
       "classYear": "SO",
       "handedness": "R/R",
       "jersey": "47",
@@ -3336,7 +3336,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
       "compositeRole": "Pitcher",
       "role": "Pitcher",
       "position": "RHP",
-      "positionLong": "",
+      "positionLong": "Right-Handed Pitcher",
       "classYear": "SO",
       "handedness": "R/R",
       "jersey": "49",
@@ -3426,7 +3426,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
       "position": "LHP",
       "positionLong": "Left-Handed Pitcher",
       "classYear": "JR",
-      "handedness": "N/A",
+      "handedness": "L/L",
       "jersey": "50",
       "hometown": "Bear, Del.",
       "highSchool": "Caravel Academy",
@@ -3492,11 +3492,11 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "JR / N/A",
+        "metaLine": "JR / L/L",
         "detailBadges": [
           "LHP",
           "JR",
-          "N/A",
+          "L/L",
           "Pitcher"
         ],
         "sourceSummary": "North Carolina Athletics roster"
@@ -3512,7 +3512,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
       "compositeRole": "Pitcher",
       "role": "Pitcher",
       "position": "LHP",
-      "positionLong": "",
+      "positionLong": "Left-Handed Pitcher",
       "classYear": "JR",
       "handedness": "L/L",
       "jersey": "51",
@@ -3602,7 +3602,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
       "position": "RHP",
       "positionLong": "Right-Handed Pitcher",
       "classYear": "JR",
-      "handedness": "N/A",
+      "handedness": "L/R",
       "jersey": "53",
       "hometown": "Johnson City, Tenn.",
       "highSchool": "Science Hill HS",
@@ -3668,11 +3668,11 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
             "value": "0.0"
           }
         ],
-        "metaLine": "JR / N/A",
+        "metaLine": "JR / L/R",
         "detailBadges": [
           "RHP",
           "JR",
-          "N/A",
+          "L/R",
           "Pitcher"
         ],
         "sourceSummary": "North Carolina Athletics roster"
@@ -3763,7 +3763,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "role": "Hitter",
         "position": "INF",
         "classYear": "JR",
-        "handedness": "N/A",
+        "handedness": "L/R",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -3808,11 +3808,11 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "JR / N/A",
+        "metaLine": "JR / L/R",
         "detailBadges": [
           "INF",
           "JR",
-          "N/A",
+          "L/R",
           "Rostered"
         ],
         "leaderboards": [
@@ -3831,7 +3831,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "role": "Hitter",
         "position": "OF",
         "classYear": "GR",
-        "handedness": "N/A",
+        "handedness": "R/R",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -3876,11 +3876,11 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "GR / N/A",
+        "metaLine": "GR / R/R",
         "detailBadges": [
           "OF",
           "GR",
-          "N/A",
+          "R/R",
           "Rostered"
         ],
         "leaderboards": [
@@ -4035,7 +4035,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "role": "Hitter",
         "position": "INF",
         "classYear": "JR",
-        "handedness": "N/A",
+        "handedness": "R/R",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -4080,11 +4080,11 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "JR / N/A",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "INF",
           "JR",
-          "N/A",
+          "R/R",
           "Rostered"
         ],
         "leaderboards": [
@@ -4171,7 +4171,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "role": "Hitter",
         "position": "INF",
         "classYear": "FR",
-        "handedness": "N/A",
+        "handedness": "R/R",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -4216,11 +4216,11 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "FR / N/A",
+        "metaLine": "FR / R/R",
         "detailBadges": [
           "INF",
           "FR",
-          "N/A",
+          "R/R",
           "Rostered"
         ],
         "leaderboards": [
@@ -4239,7 +4239,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "role": "Pitcher",
         "position": "LHP",
         "classYear": "GR",
-        "handedness": "N/A",
+        "handedness": "L/L",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -4284,11 +4284,11 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "GR / N/A",
+        "metaLine": "GR / L/L",
         "detailBadges": [
           "LHP",
           "GR",
-          "N/A",
+          "L/L",
           "Pitcher"
         ],
         "leaderboards": [
@@ -4307,7 +4307,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "role": "Hitter",
         "position": "OF",
         "classYear": "FR",
-        "handedness": "N/A",
+        "handedness": "R/R",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -4352,11 +4352,11 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "FR / N/A",
+        "metaLine": "FR / R/R",
         "detailBadges": [
           "OF",
           "FR",
-          "N/A",
+          "R/R",
           "Rostered"
         ],
         "leaderboards": [
@@ -4443,7 +4443,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "role": "Hitter",
         "position": "C",
         "classYear": "SR",
-        "handedness": "N/A",
+        "handedness": "R/R",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -4488,11 +4488,11 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "SR / N/A",
+        "metaLine": "SR / R/R",
         "detailBadges": [
           "C",
           "SR",
-          "N/A",
+          "R/R",
           "Rostered"
         ],
         "leaderboards": [
@@ -4511,7 +4511,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "role": "Hitter",
         "position": "OF",
         "classYear": "FR",
-        "handedness": "N/A",
+        "handedness": "L/L",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -4556,11 +4556,11 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "FR / N/A",
+        "metaLine": "FR / L/L",
         "detailBadges": [
           "OF",
           "FR",
-          "N/A",
+          "L/L",
           "Rostered"
         ],
         "leaderboards": [
@@ -4579,7 +4579,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "role": "Pitcher",
         "position": "RHP",
         "classYear": "SR",
-        "handedness": "N/A",
+        "handedness": "R/R",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -4624,11 +4624,11 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SR / N/A",
+        "metaLine": "SR / R/R",
         "detailBadges": [
           "RHP",
           "SR",
-          "N/A",
+          "R/R",
           "Pitcher"
         ],
         "leaderboards": [
@@ -4647,7 +4647,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "role": "Hitter",
         "position": "INF",
         "classYear": "GR",
-        "handedness": "N/A",
+        "handedness": "L/R",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -4692,11 +4692,11 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "GR / N/A",
+        "metaLine": "GR / L/R",
         "detailBadges": [
           "INF",
           "GR",
-          "N/A",
+          "L/R",
           "Rostered"
         ],
         "leaderboards": [
@@ -4783,7 +4783,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "role": "Hitter",
         "position": "1B/OF",
         "classYear": "FR",
-        "handedness": "N/A",
+        "handedness": "L/L",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -4828,11 +4828,11 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "FR / N/A",
+        "metaLine": "FR / L/L",
         "detailBadges": [
           "1B/OF",
           "FR",
-          "N/A",
+          "L/L",
           "Rostered"
         ],
         "leaderboards": [
@@ -4851,7 +4851,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "role": "Hitter",
         "position": "C",
         "classYear": "GR",
-        "handedness": "N/A",
+        "handedness": "R/R",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -4896,11 +4896,11 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "GR / N/A",
+        "metaLine": "GR / R/R",
         "detailBadges": [
           "C",
           "GR",
-          "N/A",
+          "R/R",
           "Rostered"
         ],
         "leaderboards": [
@@ -4919,7 +4919,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "role": "Pitcher",
         "position": "RHP",
         "classYear": "JR",
-        "handedness": "N/A",
+        "handedness": "R/R",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -4964,11 +4964,11 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "JR / N/A",
+        "metaLine": "JR / R/R",
         "detailBadges": [
           "RHP",
           "JR",
-          "N/A",
+          "R/R",
           "Pitcher"
         ],
         "leaderboards": [
@@ -4987,7 +4987,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "role": "Hitter",
         "position": "OF",
         "classYear": "JR",
-        "handedness": "N/A",
+        "handedness": "L/R",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -5032,11 +5032,11 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
           "Discipline": 0,
           "Speed": 0
         },
-        "metaLine": "JR / N/A",
+        "metaLine": "JR / L/R",
         "detailBadges": [
           "OF",
           "JR",
-          "N/A",
+          "L/R",
           "Rostered"
         ],
         "leaderboards": [
@@ -5191,7 +5191,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "role": "Pitcher",
         "position": "RHP",
         "classYear": "SO",
-        "handedness": "N/A",
+        "handedness": "R/R",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -5236,11 +5236,11 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SO / N/A",
+        "metaLine": "SO / R/R",
         "detailBadges": [
           "RHP",
           "SO",
-          "N/A",
+          "R/R",
           "Pitcher"
         ],
         "leaderboards": [
@@ -5463,7 +5463,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "role": "Pitcher",
         "position": "RHP",
         "classYear": "FR",
-        "handedness": "N/A",
+        "handedness": "R/R",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -5508,11 +5508,11 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "FR / N/A",
+        "metaLine": "FR / R/R",
         "detailBadges": [
           "RHP",
           "FR",
-          "N/A",
+          "R/R",
           "Pitcher"
         ],
         "leaderboards": [
@@ -5667,7 +5667,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "role": "Pitcher",
         "position": "RHP",
         "classYear": "FR",
-        "handedness": "N/A",
+        "handedness": "S/R",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -5712,11 +5712,11 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "FR / N/A",
+        "metaLine": "FR / S/R",
         "detailBadges": [
           "RHP",
           "FR",
-          "N/A",
+          "S/R",
           "Pitcher"
         ],
         "leaderboards": [
@@ -5803,7 +5803,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "role": "Pitcher",
         "position": "RHP",
         "classYear": "FR",
-        "handedness": "N/A",
+        "handedness": "R/R",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -5848,11 +5848,11 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "FR / N/A",
+        "metaLine": "FR / R/R",
         "detailBadges": [
           "RHP",
           "FR",
-          "N/A",
+          "R/R",
           "Pitcher"
         ],
         "leaderboards": [
@@ -5939,7 +5939,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "role": "Pitcher",
         "position": "RHP",
         "classYear": "SR",
-        "handedness": "N/A",
+        "handedness": "R/R",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -5984,11 +5984,11 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "SR / N/A",
+        "metaLine": "SR / R/R",
         "detailBadges": [
           "RHP",
           "SR",
-          "N/A",
+          "R/R",
           "Pitcher"
         ],
         "leaderboards": [
@@ -6007,7 +6007,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "role": "Pitcher",
         "position": "LHP",
         "classYear": "FR",
-        "handedness": "N/A",
+        "handedness": "L/L",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -6052,11 +6052,11 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "FR / N/A",
+        "metaLine": "FR / L/L",
         "detailBadges": [
           "LHP",
           "FR",
-          "N/A",
+          "L/L",
           "Pitcher"
         ],
         "leaderboards": [
@@ -6211,7 +6211,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "role": "Pitcher",
         "position": "LHP",
         "classYear": "JR",
-        "handedness": "N/A",
+        "handedness": "L/L",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -6256,11 +6256,11 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "JR / N/A",
+        "metaLine": "JR / L/L",
         "detailBadges": [
           "LHP",
           "JR",
-          "N/A",
+          "L/L",
           "Pitcher"
         ],
         "leaderboards": [
@@ -6347,7 +6347,7 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
         "role": "Pitcher",
         "position": "RHP",
         "classYear": "JR",
-        "handedness": "N/A",
+        "handedness": "L/R",
         "score": 0,
         "fit": {
           "label": "Depth",
@@ -6392,11 +6392,11 @@ window.__BASEBALL_DATASETS__.north-carolina2026 = {
           "Command": 0,
           "Damage suppression": 0
         },
-        "metaLine": "JR / N/A",
+        "metaLine": "JR / L/R",
         "detailBadges": [
           "RHP",
           "JR",
-          "N/A",
+          "L/R",
           "Pitcher"
         ],
         "leaderboards": [
