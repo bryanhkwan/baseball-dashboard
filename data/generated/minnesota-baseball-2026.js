@@ -1,6 +1,6 @@
 window.__BASEBALL_DATASETS__ = window.__BASEBALL_DATASETS__ || {};
 window.__BASEBALL_DATASETS__.minnesota2026 = {
-  "generatedAt": "2026-11-26T10:19:41.080Z",
+  "generatedAt": "2026-11-27T10:19:24.246Z",
   "season": 2026,
   "school": {
     "slug": "minnesota",
